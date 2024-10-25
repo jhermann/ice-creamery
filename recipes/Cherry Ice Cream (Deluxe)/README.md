@@ -1,9 +1,5 @@
 # Cherry Ice Cream (Deluxe)
 
-15g Ice Cream Stabilizer (ICS) is:
-12.5g erythritol, 1.5g Tylose powder (CMC, E466),
-0.5g tara gum (E417), 0.15g xanthan, 0.5g salt.
-
 # INGREDIENTS
 
 ℹ️ Brand names are in square brackets `[...]`.
@@ -17,7 +13,7 @@
 
 **Dry**
   - _30g_ Xylitol • Sweetness = 100%; GI = 7
-  - _20g_ Inulin [Vit4every] • Sweetness = 8%; GI ~= 0
+  - _20g_ Inulin [Vit4ever] • Sweetness = 8%; GI ~= 0
   - _15g_ ICS [Erythritol / CMC / Tara / XG]
 
 **Top Off**
@@ -38,3 +34,5 @@
 - **Nutritional values per ½ Deluxe Tub:** 360g; 220.1 kcal; fat 4.3g; carbs 39.2g; sugar 14.7g; protein 12.2g; salt 0.8g
 - **Nutritional values total:** 720g; 440.1 kcal; fat 8.6g; carbs 78.3g; sugar 29.3g; protein 24.3g; salt 1.6g
 - **FPDF / PAC (target 20..30):** 21.33
+- **15g Ice Cream Stabilizer (ICS) is:** 12.5g erythritol, 1.5g Tylose powder (CMC, E466), 
+0.5g tara gum (E417), 0.15g xanthan (E415), 0.5g salt.

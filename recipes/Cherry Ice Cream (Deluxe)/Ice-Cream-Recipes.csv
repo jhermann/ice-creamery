@@ -9,9 +9,9 @@ FPDF / PAC (target 20..30);21.33;;;;;;;;;;
 ;;;;;;;;;;;
 ;;;;;;;;;;;
 ;;;;;;;;;;;
-"15g Ice Cream Stabilizer (ICS) is:
-12.5g erythritol, 1.5g Tylose powder (CMC, E466),
-0.5g tara gum (E417), 0.15g xanthan, 0.5g salt.";;;;;;;;;;;
+;;;;;;;;;;;
+15g Ice Cream Stabilizer (ICS) is;"12.5g erythritol, 1.5g Tylose powder (CMC, E466), 
+0.5g tara gum (E417), 0.15g xanthan (E415), 0.5g salt.";;;;;;;;;;
 ;;;;;;;;;;;
 ;;;;;;;;;;;
 ;;;;;;;;;;;
@@ -25,6 +25,6 @@ Cottage Cheese 4% [REWE Bio];100.00;g;1;91.00;4.00;1.00;1.00;12.70;0.69;0.01;
 Vanilla Extract (w/ alcohol) [Native Vanilla];5.00;ml;1;300.00;0.00;0.00;0.00;0.00;0.00;2.22;
 Vanilla flavor drops [IronMaxx];3.00;drops;1;;;;;;;;
 Xylitol;30.00;g;2;238.00;0.00;100.00;0.00;0.00;0.00;2.20;"Sweetness = 100%; GI = 7"
-Inulin [Vit4every];20.00;g;2;210.00;0.00;8.00;8.00;0.00;0.20;0.09;"Sweetness = 8%; GI ~= 0"
+Inulin [Vit4ever];20.00;g;2;210.00;0.00;8.00;8.00;0.00;0.20;0.09;"Sweetness = 8%; GI ~= 0"
 ICS [Erythritol / CMC / Tara / XG];15.00;g;2;23.00;0.00;93.60;0.00;0.10;3.30;2.52;
 Water to MAX line;125.00;ml;3;0.00;0.00;0.00;0.00;0.00;0.00;;
