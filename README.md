@@ -46,7 +46,8 @@ e.g. with alcohol-based vanilla extract that isn't used in large amounts anyway.
 > To adapt the template to a regular Creami,
 > change `Deluxe` to `Regular` in row 1 of the sheet,
 > and the 2nd row in the nutrients summary table.
-> Also change the amount of 360g to 240g in that row.
+> Also change the amount of 360g to 240g in that row,
+> or another preferred serving size.
 
 Below the macros, there is a formula for the total
 *freezing point depression factor* (FPDF).
