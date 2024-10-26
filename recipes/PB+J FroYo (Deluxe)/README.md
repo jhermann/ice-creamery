@@ -46,3 +46,4 @@ Comes out creamy, and no ice crystals at all.
 - **Nutritional values per ½ Deluxe Tub:** 360g; 383.1 kcal; fat 17.3g; carbs 43.6g; sugar 16.8g; protein 22.9g; salt 0.5g
 - **Nutritional values total:** 720g; 766.2 kcal; fat 34.6g; carbs 87.1g; sugar 33.6g; protein 45.7g; salt 1.1g
 - **FPDF / PAC (target 20..30):** 26.24
+- **Tip:** The dry ingredients make up 100g, so it’s easy to prep a mix for 5 or 10 tubs.
