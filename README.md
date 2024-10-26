@@ -91,6 +91,8 @@ when about 65% of the contained water molecules are frozen at serving temperatur
 **TODO** (save sheet as CSV and use the
 [ice-cream-recipe.py](https://github.com/jhermann/ice-creamery/blob/main/scripts/ice-cream-recipe.py) script)
 
+> ![save-as-csv settings](https://github.com/jhermann/ice-creamery/blob/main/assets/save-as-csv.png?raw=true)
+
 
 ## How to get a live version of a recipe?
 
