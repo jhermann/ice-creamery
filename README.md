@@ -4,9 +4,11 @@
 The [recipes](https://github.com/jhermann/ice-creamery/tree/main/recipes)
 folder contains a
 [template spreadsheet](https://github.com/jhermann/ice-creamery/blob/main/recipes/Ice-Cream-Recipes.fods)
-for OpenOffice, with a full ingredients list of brands
+for LibreOffice, with a full ingredients list of brands
 as available to me in Germany. You can re-use generic rows like
 "Strawberries", and also add your own brands.
+
+> <img width=320 alt="spreadsheet-template" src="https://github.com/jhermann/ice-creamery/blob/main/assets/spreadsheet-template.png?raw=true" />
 
 The [Open Food Facts](https://world.openfoodfacts.org/)
 website and app makes this more efficient than dragging
@@ -16,7 +18,7 @@ The [scripts](https://github.com/jhermann/ice-creamery/tree/main/scripts)
 folder has some utilities, right now a script to convert a recipe sheet
 to its [Markdown rendering](https://github.com/jhermann/ice-creamery/blob/main/recipes/Cherry%20Ice%20Cream%20(Deluxe)/README.md).
 
-## Structure of the Recipe spreadsheet
+## Structure of the recipe spreadsheet
 
 **TODO**
 
