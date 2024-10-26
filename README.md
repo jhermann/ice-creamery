@@ -8,8 +8,6 @@ for LibreOffice, with a full ingredients list of brands
 as available to me in Germany. You can re-use generic rows like
 "Strawberries", and also add your own brands.
 
-> <img width=320 alt="spreadsheet-template" src="https://github.com/jhermann/ice-creamery/blob/main/assets/spreadsheet-template.png?raw=true" />
-
 The [Open Food Facts](https://world.openfoodfacts.org/)
 website and app makes this more efficient than dragging
 half of your fridge's and cupboards' contents to your computer. 😉
@@ -25,6 +23,10 @@ Each sheet in a *Calc* document based on the
 document is a duplicate of the template sheet. The script that converts a recipe to Markdown
 relies on the structure described here, so you cannot easily change that without
 also adapting the script.
+
+> <img width=320 alt="spreadsheet-template" src="https://github.com/jhermann/ice-creamery/blob/main/assets/spreadsheet-template.png?raw=true" />
+
+### The rows in the sheet
 
 The first row contains the name of the recipe,
 taken from the sheet name by default.
@@ -65,7 +67,7 @@ The `#` column is a recipe step / ingredient type number:
 The last column is a free-form comment field, added after the name
 in the text version of the recipe.
 
-### Freezing Point Depression Factor Explained
+### Freezing Point Depression Factor explained
 
 The FPDF is a key indicator towards
 the softness of the frozen base at serving temperature (typically -12°C).
