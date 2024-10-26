@@ -30,7 +30,8 @@ and ranges from inulin with 0.1 to pure ethanol at 7.4.
 To evaluate the expected softness of a base, the *total* FPDF is calculated
 from the weight of ingredients, as the sum of `weight[g] * specific FPDF`
 over all sugars / sweeteners (in 100g of ice cream mix), with lactose typically
-included in the EU (PAC value).
+included in the EU (PAC value). Apart from the lactose inclusion,
+*Potere Anti Congelante* is just another name for FPDF.
 
 Ice cream stored at -18°C with a total FPDF of 20..25 will be easily scoopable,
 while bases with TFPDF<15 will be quite hard. Ice cream is considered soft enough
