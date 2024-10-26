@@ -22,6 +22,20 @@ to its [Markdown rendering](https://github.com/jhermann/ice-creamery/blob/main/r
 
 **TODO**
 
+The *freezing point depression factor* (FPDF) is a key indicator towards
+the softness of the frozen base at serving temperature (typically -12°C).
+It is given relative to the effect table sugar (sucrose) has on the freezing point,
+and ranges from inulin with 0.1 to pure ethanol at 7.4.
+
+To evaluate the expected softness of a base, the *total* FPDF is calculated
+from the weight of ingredients, as the sum of `weight[g] * specific FPDF`
+over all sugars / sweeteners (in 100g of ice cream mix), with lactose typically
+included in the EU (PAC value).
+
+Ice cream stored at -18°C with a total FPDF of 20..25 will be easily scoopable,
+while bases with TFPDF<15 will be quite hard. Ice cream is considered soft enough
+when about 65% of the contained water molecules are frozen at serving temperature.
+
 
 ## How to convert a recipe to Markdown?
 
