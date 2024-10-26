@@ -1,0 +1,33 @@
+PB+J FroYo (Deluxe);;;;;;;;;;;
+;;;;;;;;;;;
+;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;
+Nutritional values per 100g/ml;100;g;;106.4;4.8;12.1;4.7;6.3;0.2;;
+Nutritional values per ½ Deluxe Tub;360;g;;383.1;17.3;43.6;16.8;22.9;0.5;;
+Nutritional values total;720;g;;766.2;34.6;87.1;33.6;45.7;1.1;;
+;;;;;;;;;;;
+FPDF / PAC (target 20..30);26.24;;;;;;;;;;
+;;;;;;;;;;;
+FroYo spin, scrape-down, and mix-in with pre-crumbled strawberry slices.;;;;;;;;;;;
+;;;;;;;;;;;
+Comes out creamy, and no ice crystals at all.;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;Comment
+Skim Milk 1.5% [Weihenstephan];350.00;ml;1;47.00;1.50;4.90;4.90;3.50;0.11;0.05;
+Greek Yogurt 9% [Lyttos];150.00;g;1;113.00;9.20;3.80;3.80;3.20;0.13;0.04;
+Cream Cheese [Exquisa];50.00;g;1;238.00;22.50;3.00;3.00;5.50;0.70;0.03;
+Glycerin (E422, VG) [hd-line];15.00;g;1;400.00;0.00;99.00;0.00;0.00;0.00;3.70;"Sweetness = 60%; GI = 5"
+Erythritol (E968);35.00;g;2;0.00;0.00;100.00;0.00;0.00;0.00;2.80;Sweetness = 75%
+PB powder [Vilgain];20.00;g;2;387.00;14.00;17.00;9.00;48.00;0.02;0.09;
+Whey protein Vanilla [MaxiNutrition];20.00;g;2;392.00;5.80;6.20;5.30;78.00;0.57;0.05;
+Inulin [Vit4ever];20.00;g;2;210.00;0.00;8.00;8.00;0.00;0.20;0.09;"Sweetness = 8%; GI ~= 0"
+Glycerol Monostearate (E471) [Bulk];2.50;g;2;415.00;0.00;0.00;0.00;0.00;0.00;;
+Tylose powder (E466 / CMC) [GoodBake];2.50;g;2;600.00;0.00;75.00;0.00;0.00;0.00;;
+Water to MAX line;55.00;ml;3;0.00;0.00;0.00;0.00;0.00;0.00;;
+;;;;;;;;;;;
+Strawberry slices freeze-dried [EWL];10.00;g;4;300.00;3.30;48.00;48.00;7.00;0.01;;Mix-in for a full tub (2 servings)
