@@ -20,9 +20,54 @@ to its [Markdown rendering](https://github.com/jhermann/ice-creamery/blob/main/r
 
 ## Structure of the recipe spreadsheet
 
-**TODO**
+Each sheet in a *Calc* document based on the
+[Ice-Cream-Recipes.fods](https://github.com/jhermann/ice-creamery/blob/main/recipes/Ice-Cream-Recipes.fods)
+document is a duplicate of the template sheet. The script that converts a recipe to Markdown
+relies on the structure described here, so you cannot easily change that without
+also adapting the script.
 
-The *freezing point depression factor* (FPDF) is a key indicator towards
+The first row contains the name of the recipe,
+taken from the sheet name by default.
+
+What follows is nutritional information for 100g, half a Deluxe tub,
+and the total weight of a specific recipe. Note that only ingredients
+measured in grams or milli-liters contribute to the total, drops, pinches
+and so on are ignored. Anything measured in milli-liters is assumed
+to have about the same density as water (i.e. 1g/cm³).
+
+Where that is not really the case like with alcohol, you better
+measure ingredients in grams on a scale, instead of volumetric measuring
+that is so prevalent in the US. Some margin of error is acceptable here,
+e.g. with alcohol-based vanilla extract that isn't used in large amounts anyway.
+
+> ⚠️
+> To adapt the template to a regular Creami,
+> change `Deluxe` to `Regular` in row 1 of the sheet,
+> and the 2nd row in the nutrients summary table.
+> Also change the amount of 360g to 240g in that row.
+
+Below the macros, there is a formula for the total
+*freezing point depression factor* (FPDF).
+See the next sections for details.
+
+Then there are a few empty rows that can either contain text
+(in the first column), that in Markdown is added below the
+recipe title contributing to a recipe description or summary.
+
+If the second column is also filled, the A and B columns are
+interpreted as a key / value pair added to the final
+*NUTRITIONAL & OTHER INFO* section of a recipe rendering.
+
+Finally, you have the ingredients list with the name, amount & unit,
+and further nutritional facts per 100g, one ingredient in each row.
+The `#` column is a recipe step / ingredient type number:
+0=prep, 1=wet, 2=dry, 3=top off, 4=mix-in.
+The last column is a free-form comment field, added after the name
+in the text version of the recipe.
+
+### Freezing Point Depression Factor Explained
+
+The FPDF is a key indicator towards
 the softness of the frozen base at serving temperature (typically -12°C).
 It is given relative to the effect table sugar (sucrose) has on the freezing point,
 and ranges from inulin with 0.1 to pure ethanol at 7.4.
