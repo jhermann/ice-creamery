@@ -51,7 +51,7 @@ e.g. with alcohol-based vanilla extract that isn't used in large amounts anyway.
 
 Below the macros, there is a formula for the total
 *freezing point depression factor* (FPDF).
-See the next sections for details.
+See the next section for details.
 
 Then there are a few empty rows that can either contain text
 (in the first column), that in Markdown is added below the
