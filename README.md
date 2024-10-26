@@ -39,10 +39,10 @@ you can plug the ingredients list of a CSV file like
 into the template spreadsheet
 [Ice-Cream-Recipes.fods](https://github.com/jhermann/ice-creamery/blob/main/recipes/Ice-Cream-Recipes.fods),
 containing live formulas. Just load both files into *Calc*
-and copy the ingredient rows in the CSV documents to the FODS one.
+and copy the ingredient rows in the CSV document to the FODS one.
 
 This allows you to replace the nutritional information
-with the one for the brands you can buy locally,
+with the values of the brands you can buy locally,
 or experiment with alternatives and a different composition.
 
 I did not test if Excel can read the FODS format properly,
@@ -60,4 +60,4 @@ in parallel to a Microsoft Office installation.
  starting from the FODS template. Then duplicate
  the `Template` sheet, rename it to the recipe name, and fill in
  your amounts. After sorting like described right above, remove
- any rows with 0 amounts.
+ any rows with zero amounts.
