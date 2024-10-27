@@ -25,16 +25,33 @@
 """
 import os
 import csv
+import subprocess
+
+from pathlib import Path
 from collections import defaultdict
 
 CSV_FILE = 'Ice-Cream-Recipes.csv'  # TODO: add argument parsing
 MD_FILE = 'recipe-{file_title}.md'
+
 
 def subtitle(text):
     """Create markdown for a recipe subtitle."""
     # TODO: add a `--format=reddit|generic` option
     return f'# {text.upper()}'  # This is optimized for Reddit
     #return f'**{text.upper()}**'  # This is what it should be, if the Reddit Markdown parser wouldn't suck
+
+
+def markdown_file(title):
+    """Return name of Markdown file for a given recipe title."""
+    filename = MD_FILE.format(file_title="_".join(title.replace("(", "").replace(")", "").split()))
+    try:  # automatic recipe git repo mode
+        git_root = Path(subprocess.check_output('git rev-parse --show-toplevel'.split(), encoding='utf-8').rstrip())
+        if git_root / 'recipes' == Path.cwd().parent:
+            filename = 'README.md'
+    except (FileNotFoundError, subprocess.CalledProcessError):
+        pass
+    return filename
+
 
 def main():
     """Main loop."""
@@ -132,7 +149,7 @@ def main():
 
     # Create the Markdown file
     lines.append('')  # add trailing line end
-    md_file = MD_FILE.format(file_title="_".join(title.replace("(", "").replace(")", "").split()))
+    md_file = markdown_file(title)
     with open(md_file, 'w', encoding='utf-8') as out:
         out.write('\n'.join(lines))
 
