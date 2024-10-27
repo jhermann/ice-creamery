@@ -88,8 +88,13 @@ when about 65% of the contained water molecules are frozen at serving temperatur
 
 ## How to convert a recipe to Markdown?
 
-**TODO** (save sheet as CSV and use the
-[ice-cream-recipe.py](https://github.com/jhermann/ice-creamery/blob/main/scripts/ice-cream-recipe.py) script)
+To save a single recipe sheet as a CSV file and convert it to Markdown:
+
+ 1. Select *File > Save a Copy...* from the menu.
+ 1. Enter `Ice-Cream-Recipes.csv` as the file name, and choose `Text CSV` as the type, then press *Save*.
+ 1. Change export settings to match the ones shown below, then press *OK*.
+ 1. Call the [ice-cream-recipe.py](https://github.com/jhermann/ice-creamery/blob/main/scripts/ice-cream-recipe.py) script.
+    It renders the Markdown file, and then opens your editor with it (`code` by default, unless the `GUI_EDITOR` envvar is set).
 
 > ![save-as-csv settings](https://github.com/jhermann/ice-creamery/blob/main/assets/save-as-csv.png?raw=true)
 
