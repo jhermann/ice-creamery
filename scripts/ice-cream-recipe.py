@@ -95,10 +95,10 @@ def main():
             nutrition.append(f'**{row[0]}:** {row[1]}{row[2]}; {row[4]} kcal; {nutrients}')
 
         # Skip to ingredient list
-        while '#' not in row:  # process comment / text lines, up to the ingredient list
+        while row[0] != 'Ingredients':  # process comment / text lines, up to the ingredient list
             row = next(reader)
             #print('!', row)
-            if '#' in row:
+            if row[0] == 'Ingredients':
                 break  # pass header line to ingredients processing
             elif row[1]:  # row with a value in the 2nd column
                 nutrition.append(f'**{row[0].strip()}:** {row[1].strip()}')
