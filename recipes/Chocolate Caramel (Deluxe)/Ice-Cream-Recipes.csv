@@ -1,0 +1,33 @@
+Chocolate Caramel (Deluxe);;;;;;;;;;;
+;;;;;;;;;;;
+;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;
+Nutritional values per 100g/ml;100;g;;95.5;3.6;11.1;3.2;5.7;0.2;;
+Nutritional values per ½ Deluxe Tub;360;g;;343.9;13.0;39.9;11.6;20.4;0.6;;
+Nutritional values total;720;g;;687.8;26.1;79.7;23.1;40.8;1.2;;
+;;;;;;;;;;;
+FPDF / PAC (target 20..30);26.35;;;;;;;;;;
+;;;;;;;;;;;
+"FroYo + Respin; very dense; very few & small ice crystals";;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+15g Ice Cream Stabilizer (ICS) is;"12.5g erythritol, 1.5g Tylose powder (CMC, E466), 
+0.5g tara gum (E417), 0.15g xanthan (E415), 0.5g salt.";;;;;;;;;;
+;;;;;;;;;;;
+The [brand names] used are in brackets.;;;;;;;;;;;
+;;;;;;;;;;;
+Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;Comment
+Water (boiling);100.00;ml;0;0.00;0.00;0.00;0.00;0.00;0.00;;
+Cocoa Powder 21% [Bensdorp Premium];30.00;g;0;366.00;21.00;8.90;0.60;20.00;0.10;;
+Skim Milk 1.5% [Weihenstephan];300.00;ml;1;47.00;1.50;4.90;4.90;3.50;0.11;0.05;
+Greek Yogurt 9% [Lyttos];150.00;g;1;113.00;9.20;3.80;3.80;3.20;0.13;0.04;
+Glycerin (E422, VG) [hd-line];15.00;g;1;400.00;0.00;99.00;0.00;0.00;0.00;3.70;"Sweetness = 60%; GI = 5"
+Caramel flavor drops [IronMaxx];5.00;drops;1;;;;;;;;
+Vanilla Extract (w/ alcohol) [Native Vanilla];5.00;ml;1;300.00;0.00;0.00;0.00;0.00;0.00;2.22;
+Xylitol;25.00;g;2;238.00;0.00;100.00;0.00;0.00;0.00;2.20;"Sweetness = 100%; GI = 7"
+Whey protein Caramel [MaxiNutrition];25.00;g;2;392.00;5.80;6.20;5.30;78.00;0.57;0.05;
+ICS [Erythritol / CMC / Tara / XG];15.00;g;2;23.00;0.00;93.60;0.00;0.10;3.30;2.52;
+Inulin [Vit4ever];15.00;g;2;210.00;0.00;8.00;8.00;0.00;0.20;0.09;"Sweetness = 8%; GI ~= 0"
+Water to MAX line;40.00;ml;3;0.00;0.00;0.00;0.00;0.00;0.00;;
