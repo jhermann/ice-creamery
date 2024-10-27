@@ -6,6 +6,7 @@ Nutritional values per dose;15;g;;3.3;0.0;14.1;0.0;0.0;0.5;;
 Nutritional values total;108;g;;24.0;0.0;101.3;0.0;0.1;3.5;;
 ;;;;;;;;;;;
 FPDF;2.52;;;;;;;;;;
+FPDF (w/o salt);2.33;;;;;;;;;;
 ;;;;;;;;;;;
 Pre-mixed stabilizer for Ninja Creami recipes.;;;;;;;;;;;
 "It takes handling small amounts of ingredients and their ratio to each other 
@@ -15,7 +16,6 @@ making the overall process less finicky.";;;;;;;;;;;
 (for a Creami Deluxe tub; 10g for 7g otherwise).";;;;;;;;;;;
 The salt is added for convenience with final recipes.;;;;;;;;;;;
 https://app.samsungfood.com/recipes/10701911e6dd8477a989878dfef5047703e;;;;;;;;;;;
-;;;;;;;;;;;
 ;;;;;;;;;;;
 ;;;;;;;;;;;
 ;;;;;;;;;;;

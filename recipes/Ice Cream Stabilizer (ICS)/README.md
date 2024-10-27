@@ -27,3 +27,4 @@ https://app.samsungfood.com/recipes/10701911e6dd8477a989878dfef5047703e
 - **Nutritional values per dose:** 15g; 3.3 kcal; fat 0.0g; carbs 14.1g; sugar 0.0g; protein 0.0g; salt 0.5g
 - **Nutritional values total:** 108g; 24.0 kcal; fat 0.0g; carbs 101.3g; sugar 0.0g; protein 0.1g; salt 3.5g
 - **FPDF:** 2.52
+- **FPDF (w/o salt):** 2.33
