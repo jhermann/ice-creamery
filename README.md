@@ -1,5 +1,16 @@
-# ice-creamery
-> A collection of my tested / approved Ninja Creami recipes.
+> **ice-creamery** • A collection of my tested / approved Ninja Creami recipes.
+
+**Contents**
+- [What's this?](#whats-this)
+- [Structure of the recipe spreadsheet](#structure-of-the-recipe-spreadsheet)
+  - [The rows in the sheet](#the-rows-in-the-sheet)
+  - [Freezing Point Depression Factor explained](#freezing-point-depression-factor-explained)
+- [How to convert a recipe to Markdown?](#how-to-convert-a-recipe-to-markdown)
+- [How to get a live version of a recipe?](#how-to-get-a-live-version-of-a-recipe)
+- [Tips \& Tricks](#tips--tricks)
+
+
+## What's this?
 
 The [recipes](https://github.com/jhermann/ice-creamery/tree/main/recipes)
 folder contains a
