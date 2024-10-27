@@ -1,5 +1,7 @@
 # Cherry Ice Cream (Deluxe)
 
+> <img width=720 alt="Spun Ice Cream" src="https://github.com/jhermann/ice-creamery/blob/main/recipes/Cherry%20Ice%20Cream%20(Deluxe)/cherry_2024-10-20.jpg?raw=true" />
+
 # INGREDIENTS
 
 ℹ️ Brand names are in square brackets `[...]`.
