@@ -154,7 +154,7 @@ def main():
         out.write('\n'.join(lines))
 
     # Open markdown file in VS Code
-    os.system(f'code "{md_file}"')
+    os.system(f'{os.getenv("GUI_EDITOR", "code")} "{md_file}"')
 
 if __name__ == '__main__':
     main()
