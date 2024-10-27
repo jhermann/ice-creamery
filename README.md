@@ -126,3 +126,10 @@ in parallel to a Microsoft Office installation.
  the `Template` sheet, rename it to the recipe name, and fill in
  your amounts. After sorting like described right above, remove
  any rows with zero amounts.
+ * Add journal entries to your sheet like this:
+
+   > ![journal-entries](https://github.com/jhermann/ice-creamery/blob/main/assets/journal.png?raw=true)
+
+   This is especially useful while experimenting and when
+   you don't want to use `git` yet, where commit messages
+   would take that place.
