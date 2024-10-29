@@ -14,6 +14,8 @@ and 20g for the regular size (16oz).
 The salt is added for convenience with final recipes,
 and for a FPDF boost.
 
+http://bit.ly/4frc4Vj
+
 # INGREDIENTS
 
   - _100g_ Erythritol (E968) • Sweetness = 75%
