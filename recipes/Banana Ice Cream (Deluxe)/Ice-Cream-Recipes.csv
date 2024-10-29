@@ -1,0 +1,31 @@
+Banana Ice Cream (Deluxe);;;;;;;;;;;
+;;;;;;;;;;;
+;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;
+Nutritional values per 100g/ml;100;g;;90.3;1.4;14.2;7.0;5.4;0.2;;
+Nutritional values per ½ Deluxe Tub;360;g;;325.0;4.9;51.3;25.3;19.5;0.7;;
+Nutritional values total;720;g;;650.1;9.9;102.5;50.7;38.9;1.5;;
+;;;;;;;;;;;
+FPDF / PAC (target 20..30);22.77;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+15g Ice Cream Stabilizer (ICS) is;"12.5g erythritol, 1.5g Tylose powder (CMC, E466), 
+0.5g tara gum (E417), 0.15g xanthan (E415), 0.5g salt.";;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+The [brand names] used are in brackets.;;;;;;;;;;;
+;;;;;;;;;;;
+Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;Comment
+Skim Milk 1.5% [Weihenstephan];225.00;ml;1;47.00;1.50;4.90;4.90;3.50;0.11;0.05;
+Bananas (peeled);225.00;g;1;108.00;0.60;21.50;16.00;1.22;0.03;0.16;2 mid-size pieces, eat any surplus 😋
+Cottage Cheese 4% [REWE Bio];100.00;g;1;91.00;4.00;1.00;1.00;12.70;0.69;0.01;
+Glycerin (E422, VG) [hd-line];10.00;g;1;400.00;;99.00;;;;3.70;"Sweetness = 60%; GI = 5; Density = 1.26 g/ml"
+Vanilla flavor drops [IronMaxx];5.00;drops;1;;;;;;;;
+Whey protein Vanilla [MaxiNutrition];20.00;g;2;392.00;5.80;6.20;5.30;78.00;0.57;0.05;
+Xylitol;20.00;g;2;238.00;0.00;100.00;0.00;0.00;0.00;2.20;"Sweetness = 100%; GI = 7"
+Inulin [Vit4ever];20.00;g;2;210.00;0.00;8.00;8.00;0.00;0.20;0.09;"Sweetness = 8%; GI ~= 0"
+ICS [Erythritol / CMC / Tara / XG];10.00;g;2;23.00;0.00;93.60;0.00;0.10;3.30;2.33;
+Water to MAX line;90.00;ml;3;0.00;0.00;0.00;0.00;0.00;0.00;;
