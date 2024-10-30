@@ -20,8 +20,7 @@ FroYo + Respin; very dense; very few & small ice crystals
 **Dry**
   - _25g_ Xylitol • Sweetness = 100%; GI = 7
   - _25g_ Whey protein Caramel [MaxiNutrition]
-  - _15g_ ICS [Erythritol / CMC / Tara / XG]
-  - _15g_ Inulin [Vit4ever] • Sweetness = 8%; GI ~= 0
+  - _30g_ ICSv2 [Erythritol / CMC / Tara / XG / Inulin] • http://bit.ly/4frc4Vj
 
 **Top Off**
   - _40ml_ Water to MAX line
@@ -38,9 +37,10 @@ FroYo + Respin; very dense; very few & small ice crystals
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
 
 # NUTRITIONAL & OTHER INFO
-- **Nutritional values per 100g/ml:** 100g; 95.5 kcal; fat 3.6g; carbs 11.1g; sugar 3.2g; protein 5.7g; salt 0.2g
-- **Nutritional values per ½ Deluxe Tub:** 360g; 343.9 kcal; fat 13.0g; carbs 39.9g; sugar 11.6g; protein 20.4g; salt 0.6g
-- **Nutritional values total:** 720g; 687.8 kcal; fat 26.1g; carbs 79.7g; sugar 23.1g; protein 40.8g; salt 1.2g
-- **FPDF / PAC (target 20..30):** 26.35
-- **15g Ice Cream Stabilizer (ICS) is:** 12.5g erythritol, 1.5g Tylose powder (CMC, E466), 
-0.5g tara gum (E417), 0.15g xanthan (E415), 0.5g salt.
+- **Nutritional values per 100g/ml:** 100g; 95.1 kcal; fat 3.6g; carbs 11.2g; sugar 3.2g; protein 5.7g; salt 0.2g
+- **Nutritional values per ½ Deluxe Tub:** 360g; 342.5 kcal; fat 13.0g; carbs 40.4g; sugar 11.5g; protein 20.4g; salt 0.6g
+- **Nutritional values total:** 720g; 685.0 kcal; fat 26.1g; carbs 80.9g; sugar 23.0g; protein 40.8g; salt 1.2g
+- **FPDF / PAC (target 20..30):** 26.40
+- **30g Ice Cream Stabilizer (ICSv2) is:** 14.3g erythritol, 1.43g Tylose powder (CMC, E466), 
+0.5g tara gum (E417), 0.15g xanthan (E415),
+14.3g inulin, 0.5g salt.

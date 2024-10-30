@@ -1,0 +1,27 @@
+FroYo Apricot (Deluxe);;;;;;;;;;;
+;;;;;;;;;;;
+;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;
+Nutritional values per 100g/ml;100;g;;105.1;4.9;15.3;10.0;1.9;0.2;;
+Nutritional values per ½ Deluxe Tub;360;g;;378.4;17.8;55.0;36.1;7.0;0.6;;
+Nutritional values total;735;g;;772.7;36.3;112.3;73.7;14.2;1.3;;
+;;;;;;;;;;;
+FPDF / PAC (target 20..30);22.13;;;;;;;;;;
+;;;;;;;;;;;
+Fruity, a little tangy, perfect consistency after 1st FROYO spin.;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+15g Ice Cream Stabilizer (ICS) is;"12.5g erythritol, 1.5g Tylose powder (CMC, E466), 
+0.5g tara gum (E417), 0.15g xanthan (E415), 0.5g salt.";;;;;;;;;;
+;;;;;;;;;;;
+The [brand names] used are in brackets.;;;;;;;;;;;
+;;;;;;;;;;;
+Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;Comment
+Apricots [Del Monte];480.00;g;1;60.00;0.00;14.00;12.00;0.40;0.07;0.12;
+Greek Yogurt 9% [Lyttos];150.00;g;1;113.00;9.20;3.80;3.80;3.20;0.13;0.13;
+Full Fat Milkpowder [Mr. Brown];25.00;g;2;482.00;26.00;35.00;35.00;25.00;0.94;0.13;
+ICS [Erythritol / CMC / Tara / XG];15.00;g;2;23.00;0.00;93.60;0.00;0.10;3.30;2.33;
+Xylitol;15.00;g;2;238.00;0.00;100.00;0.00;0.00;0.00;2.20;"Sweetness = 100%; GI = 7"
+Cream [REWE Beste Wahl];50.00;ml;3;311.00;32.00;3.20;3.20;2.50;0.13;0.13;
