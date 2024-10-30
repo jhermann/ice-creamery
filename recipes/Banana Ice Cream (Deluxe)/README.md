@@ -1,5 +1,11 @@
 # Banana Ice Cream (Deluxe)
 
+<img width=720 alt="Spun Ice Cream" src="https://github.com/jhermann/ice-creamery/blob/main/recipes/Banana%20Ice%20Cream%20(Deluxe)/banana_almond_2024-10-30_1.jpg?raw=true" />
+
+FroYo spin, mix-in with crushed cantuccini, and topped with almonds.
+
+Very dense and non-melty, no ice crystals whatsoever.
+
 # INGREDIENTS
 
 ℹ️ Brand names are in square brackets `[...]`.
@@ -14,8 +20,7 @@
 **Dry**
   - _20g_ Whey protein Vanilla [MaxiNutrition]
   - _20g_ Xylitol • Sweetness = 100%; GI = 7
-  - _20g_ Inulin [Vit4ever] • Sweetness = 8%; GI ~= 0
-  - _10g_ ICS [Erythritol / CMC / Tara / XG]
+  - _30g_ ICSv2 [Erythritol / CMC / Tara / XG / Inulin] • http://bit.ly/4frc4Vj
 
 **Top Off**
   - _90ml_ Water to MAX line
@@ -31,9 +36,10 @@
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
 
 # NUTRITIONAL & OTHER INFO
-- **Nutritional values per 100g/ml:** 100g; 90.3 kcal; fat 1.4g; carbs 14.2g; sugar 7.0g; protein 5.4g; salt 0.2g
-- **Nutritional values per ½ Deluxe Tub:** 360g; 325.0 kcal; fat 4.9g; carbs 51.3g; sugar 25.3g; protein 19.5g; salt 0.7g
-- **Nutritional values total:** 720g; 650.1 kcal; fat 9.9g; carbs 102.5g; sugar 50.7g; protein 38.9g; salt 1.5g
-- **FPDF / PAC (target 20..30):** 22.77
-- **15g Ice Cream Stabilizer (ICS) is:** 12.5g erythritol, 1.5g Tylose powder (CMC, E466), 
-0.5g tara gum (E417), 0.15g xanthan (E415), 0.5g salt.
+- **Nutritional values per 100g/ml:** 100g; 88.6 kcal; fat 1.4g; carbs 15.0g; sugar 7.0g; protein 5.4g; salt 0.2g
+- **Nutritional values per ½ Deluxe Tub:** 360g; 319.0 kcal; fat 4.9g; carbs 54.0g; sugar 25.1g; protein 19.5g; salt 0.8g
+- **Nutritional values total:** 720g; 637.9 kcal; fat 9.9g; carbs 108.0g; sugar 50.2g; protein 39.0g; salt 1.6g
+- **FPDF / PAC (target 20..30):** 24.90
+- **30g Ice Cream Stabilizer (ICSv2) is:** 14.3g erythritol, 1.43g Tylose powder (CMC, E466), 
+0.5g tara gum (E417), 0.15g xanthan (E415),
+14.3g inulin, 0.5g salt.

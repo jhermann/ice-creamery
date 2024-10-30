@@ -1,17 +1,18 @@
 Banana Ice Cream (Deluxe);;;;;;;;;;;
 ;;;;;;;;;;;
 ;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;
-Nutritional values per 100g/ml;100;g;;90.3;1.4;14.2;7.0;5.4;0.2;;
-Nutritional values per ½ Deluxe Tub;360;g;;325.0;4.9;51.3;25.3;19.5;0.7;;
-Nutritional values total;720;g;;650.1;9.9;102.5;50.7;38.9;1.5;;
+Nutritional values per 100g/ml;100;g;;88.6;1.4;15.0;7.0;5.4;0.2;;
+Nutritional values per ½ Deluxe Tub;360;g;;319.0;4.9;54.0;25.1;19.5;0.8;;
+Nutritional values total;720;g;;637.9;9.9;108.0;50.2;39.0;1.6;;
 ;;;;;;;;;;;
-FPDF / PAC (target 20..30);22.77;;;;;;;;;;
+FPDF / PAC (target 20..30);24.90;;;;;;;;;;
 ;;;;;;;;;;;
+FroYo spin, mix-in with crushed cantuccini, and topped with almonds.;;;;;;;;;;;
+Very dense and non-melty, no ice crystals whatsoever.;;;;;;;;;;;
 ;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-15g Ice Cream Stabilizer (ICS) is;"12.5g erythritol, 1.5g Tylose powder (CMC, E466), 
-0.5g tara gum (E417), 0.15g xanthan (E415), 0.5g salt.";;;;;;;;;;
+30g Ice Cream Stabilizer (ICSv2) is;"14.3g erythritol, 1.43g Tylose powder (CMC, E466), 
+0.5g tara gum (E417), 0.15g xanthan (E415),
+14.3g inulin, 0.5g salt.";;;;;;;;;;
 ;;;;;;;;;;;
 ;;;;;;;;;;;
 ;;;;;;;;;;;
@@ -26,6 +27,5 @@ Glycerin (E422, VG) [hd-line];10.00;g;1;400.00;;99.00;;;;3.70;"Sweetness = 60%; 
 Vanilla flavor drops [IronMaxx];5.00;drops;1;;;;;;;;
 Whey protein Vanilla [MaxiNutrition];20.00;g;2;392.00;5.80;6.20;5.30;78.00;0.57;0.05;
 Xylitol;20.00;g;2;238.00;0.00;100.00;0.00;0.00;0.00;2.20;"Sweetness = 100%; GI = 7"
-Inulin [Vit4ever];20.00;g;2;210.00;0.00;8.00;8.00;0.00;0.20;0.09;"Sweetness = 8%; GI ~= 0"
-ICS [Erythritol / CMC / Tara / XG];10.00;g;2;23.00;0.00;93.60;0.00;0.10;3.30;2.33;
+ICSv2 [Erythritol / CMC / Tara / XG / Inulin];30.00;g;2;107.3;0.0;54.7;3.7;0.1;1.7;1.32;http://bit.ly/4frc4Vj
 Water to MAX line;90.00;ml;3;0.00;0.00;0.00;0.00;0.00;0.00;;
