@@ -117,7 +117,7 @@ def main():
             if data['ingredients']:
                 if data['amount'].endswith('.00'):
                     data['amount'] = data['amount'][:-3]
-                if data['amount'] != '0':
+                if data['amount'] and data['amount'] != '0':
                     step = int(data['step'])
                     recipe[step].append(data)
 
