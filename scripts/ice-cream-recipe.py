@@ -109,6 +109,8 @@ def main():
                 lines.append(' '.join(line))
             elif row[1]:  # row with a value in the 2nd column
                 nutrition.append(f'**{row[0].strip()}:** {row[1].strip()}')
+                if any(row[2:]):
+                    nutrition[-1] += ' • '.join([''] + [x.strip() for x in row[2:] if x.strip()])
             elif row[0]:  # non-empty text
                 if '[brand names]' not in row[0]:
                     lines.append(row[0].replace(' \n', '\n').strip())

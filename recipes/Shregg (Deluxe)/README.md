@@ -37,4 +37,4 @@ the energy to 421 kcal. And I’d use 3g GMS due to higher fat content.
 - **Nutritional values per ½ Deluxe Tub:** 360g; 220.9 kcal; fat 17.2g; carbs 27.1g; sugar 25.9g; protein 3.6g; salt 0.4g
 - **Nutritional values total:** 720g; 441.8 kcal; fat 34.4g; carbs 54.2g; sugar 51.9g; protein 7.3g; salt 0.7g
 - **FPDF / PAC (target 20..30):** 29.12
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 6.59%
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 6.59% • Low-Salt
