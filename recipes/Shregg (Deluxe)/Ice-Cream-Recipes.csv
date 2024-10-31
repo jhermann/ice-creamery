@@ -1,0 +1,31 @@
+Shregg (Deluxe);;;;;;;;;;;
+;;;;;;;;;;;
+;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;
+Nutritional values per 100g/ml;100;g;;61.4;4.8;7.5;7.2;1.0;0.1;;
+Nutritional values per ½ Deluxe Tub;360;g;;220.9;17.2;27.1;25.9;3.6;0.4;;
+Nutritional values total;720;g;;441.8;34.4;54.2;51.9;7.3;0.7;;
+;;;;;;;;;;;
+FPDF / PAC (target 20..30);29.12;;;;;;;;;;
+Protein / Energy Ratio (high >10%);1.65%;;;;;;;;;;
+;;;;;;;;;;;
+Egg liqueur ice cream.;;;;;;;;;;;
+;;;;;;;;;;;
+Process on SORBET.;;;;;;;;;;;
+;;;;;;;;;;;
+"You can also use Baileys at 17 vol%, which bumps up
+the energy to 421 kcal. And I’d use 3g GMS due to higher fat content.";;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+The [brand names] used are in brackets.;;;;;;;;;;;
+;;;;;;;;;;;
+Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;Comment
+Water;420.00;ml;1;;;;;;;;
+Egg Liqueur 15 vol% [Bols Advocaat];175.00;ml;1;85.00;6.80;27.00;27.00;1.00;0.00;1.15;1 bottle = 700ml
+Cream Cheese 23% [Exquisa];100.00;g;1;238.00;22.50;3.00;3.00;5.50;0.70;0.03;
+Flavor drops Vanilla [IronMaxx];5.00;drops;1;;;;;;;;
+Inulin [Vit4ever];20.00;g;2;210.00;0.00;8.00;8.00;0.00;0.20;0.09;"Sweetness = 8%; GI ~= 0"
+Glycerol Monostearate (E471) [Bulk];2.00;g;2;415.00;;;;;;;
+Tylose powder (E466, Tylo, CMC);2.00;g;2;143.00;0.00;75.00;0.00;0.00;0.00;;
+Tara gum (E417);1.00;g;2;185.00;0.31;87.00;0.00;2.26;0.00;;
+;;;;;;;;;;;
+Irish Cream 17 vol% [Baileys];;ml;1;314.00;13.60;21.70;18.00;2.80;0.00;1.17;1 bottle = 700ml
