@@ -1,0 +1,43 @@
+PB Mix;;;;;;;;;;;
+;;;;;;;;;;;
+;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;
+Nutritional values per 100g/ml;100;g;;82.6;1.3;10.8;3.3;6.9;0.2;;
+Nutritional values per ½ Deluxe Tub;360;g;;297.3;4.6;39.0;11.7;25.0;0.6;;
+Nutritional values total;718;g;;592.9;9.2;77.7;23.3;49.8;1.1;;
+;;;;;;;;;;;
+FPDF / PAC (target 20..30);23.01;;;;;;;;;;
+"Protein / Energy Ratio (ok=10%; hi=20%)";8.39%;;;;;;;;;;
+;;;;;;;;;;;
+PB&J ice cream, based on PB powder and dried strawberry slices.;;;;;;;;;;;
+This one is a favorite, so it gets its own recipe mix for convenient indulgence…;;;;;;;;;;;
+;;;;;;;;;;;
+To make your life easier, take the “prep” ingredients times 8, mix them, and store in an air-tight 1l container.;;;;;;;;;;;
+Then use ~125g of that mix in your final base (or 85g for a regular 16oz tub).;;;;;;;;;;;
+;;;;;;;;;;;
+Servings:;8.00;tubs;;;;;;;;;
+Total:;984.00;g;;;;;;;;;
+Per tub:;123.00;g;;;;;;;;;
+Xylitol;240.00;g;;;;;;;;;
+PB powder [Vilgain];200.00;g;;;;;;;;;
+Skim Milkpowder 1:10 [Vita2You];200.00;g;;;;;;;;;
+Whey protein Vanilla [MaxiNutrition];160.00;g;;;;;;;;;
+Inulin [Vit4ever];160.00;g;;;;;;;;;
+Tylose powder (E466 / CMC) [GoodBake];16.00;g;;;;;;;;;
+Tara gum (E417);8.00;g;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;Comment
+Xylitol;30.00;g;0;238.00;0.00;100.00;0.00;0.00;0.00;2.20;"Sweetness = 100%; GI = 7"
+PB powder [Vilgain];25.00;g;0;387.00;14.00;17.00;9.00;48.00;0.02;0.09;
+Skim Milkpowder 1:10 [Vita2You];25.00;g;0;358.00;0.97;50.50;50.50;35.00;1.00;0.51;
+Whey protein Vanilla [MaxiNutrition];20.00;g;0;392.00;5.80;6.20;5.30;78.00;0.57;0.05;
+Inulin [Vit4ever];20.00;g;0;210.00;0.00;8.00;8.00;0.00;0.20;0.09;"Sweetness = 8%; GI ~= 0"
+Tylose powder (E466 / CMC) [GoodBake];2.00;g;0;600.00;0.00;75.00;0.00;0.00;0.00;;
+Tara gum (E417);1.00;g;0;185.00;0.31;87.00;0.00;2.26;0.00;;
+Water;450.00;ml;1;;;;;;;;
+Cottage Cheese 4% [REWE Bio];100.00;g;1;91.00;4.00;1.00;1.00;12.70;0.69;0.01;
+Glycerin (E422, VG) [hd-line];20.00;g;1;400.00;0.00;99.00;0.00;0.00;0.00;3.70;"Sweetness = 60%; GI = 5"
+Water to MAX line;25.00;ml;3;0.00;0.00;0.00;0.00;0.00;0.00;;
+;;;;;;;;;;;
+Strawberry slices freeze-dried [EWL];10.00;g;4;300.00;3.30;48.00;48.00;7.00;0.01;;Mix-in for a full tub (2 servings)
