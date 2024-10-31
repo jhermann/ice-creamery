@@ -100,6 +100,13 @@ def main():
             #print('!', row)
             if row[0] == 'Ingredients':
                 break  # pass header line to ingredients processing
+            elif row[2]:  # structured / complex row
+                line = [x.strip() for x in row]
+                if line[0].endswith(':'):
+                    line[0] = f'**{line[0]}**'
+                elif line[2] in {'g', 'ml'}:
+                    line = ' *', line[1].replace('.00', ''), line[2], line[0]
+                lines.append(' '.join(line))
             elif row[1]:  # row with a value in the 2nd column
                 nutrition.append(f'**{row[0].strip()}:** {row[1].strip()}')
             elif row[0]:  # non-empty text
