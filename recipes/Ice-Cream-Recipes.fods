@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
- <office:meta><meta:creation-date>2024-09-27T16:20:36.512000000</meta:creation-date><meta:generator>LibreOffice/7.6.7.2$Windows_X86_64 LibreOffice_project/dd47e4b30cb7dab30588d6c79c651f218165e3c5</meta:generator><dc:date>2024-10-31T20:30:17.816000000</dc:date><meta:editing-duration>P1DT21H28S</meta:editing-duration><meta:editing-cycles>514</meta:editing-cycles><meta:document-statistic meta:table-count="2" meta:cell-count="778" meta:object-count="0"/></office:meta>
+ <office:meta><meta:creation-date>2024-09-27T16:20:36.512000000</meta:creation-date><meta:generator>LibreOffice/7.6.7.2$Windows_X86_64 LibreOffice_project/dd47e4b30cb7dab30588d6c79c651f218165e3c5</meta:generator><dc:date>2024-10-31T21:39:25.967000000</dc:date><meta:editing-duration>P1DT21H24M36S</meta:editing-duration><meta:editing-cycles>520</meta:editing-cycles><meta:document-statistic meta:table-count="2" meta:cell-count="783" meta:object-count="0"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
@@ -31,7 +31,7 @@
       </config:config-item-map-entry>
       <config:config-item-map-entry config:name="Template">
        <config:config-item config:name="CursorPositionX" config:type="int">0</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">20</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">11</config:config-item>
        <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
        <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
@@ -47,7 +47,7 @@
        <config:config-item config:name="IgnoreBreakAfterMultilineField" config:type="boolean">false</config:config-item>
       </config:config-item-map-entry>
      </config:config-item-map-named>
-     <config:config-item config:name="ActiveTable" config:type="string">Template</config:config-item>
+     <config:config-item config:name="ActiveTable" config:type="string">Ice Cream Stabilizer • ICSv2</config:config-item>
      <config:config-item config:name="HorizontalScrollbarWidth" config:type="int">1839</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ZoomValue" config:type="int">140</config:config-item>
@@ -371,6 +371,16 @@
   <style:style style:name="ce67" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N129">
    <style:text-properties fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
   </style:style>
+  <style:style style:name="ce18" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0in"/>
+   <style:text-properties fo:font-size="9pt" fo:font-weight="bold" style:font-size-asian="9pt" style:font-weight-asian="bold" style:font-size-complex="9pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="ce19" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0in"/>
+   <style:text-properties fo:font-size="9pt" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+  </style:style>
   <style:style style:name="ce68" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N100">
    <style:text-properties fo:font-size="16pt" fo:font-weight="bold" style:font-size-asian="16pt" style:font-weight-asian="bold" style:font-size-complex="16pt" style:font-weight-complex="bold"/>
   </style:style>
@@ -444,7 +454,7 @@
      <text:p><text:sheet-name>???</text:sheet-name><text:s/>(<text:title>???</text:title>)</text:p>
     </style:region-left>
     <style:region-right>
-     <text:p><text:date style:data-style-name="N2" text:date-value="2024-10-31">00/00/0000</text:date>, <text:time style:data-style-name="N2" text:time-value="20:29:39.434000000">00:00:00</text:time></text:p>
+     <text:p><text:date style:data-style-name="N2" text:date-value="2024-10-31">00/00/0000</text:date>, <text:time style:data-style-name="N2" text:time-value="21:39:02.817000000">00:00:00</text:time></text:p>
     </style:region-right>
    </style:header>
    <style:header-left style:display="false"/>
@@ -523,23 +533,23 @@
       <text:p>g</text:p>
      </table:table-cell>
      <table:table-cell/>
-     <table:table-cell table:style-name="ce67" table:formula="of:=[.E6]/[.$B6]*[.$B4]" office:value-type="float" office:value="107.3" calcext:value-type="float">
-      <text:p>107.3</text:p>
+     <table:table-cell table:style-name="ce67" table:formula="of:=[.E6]/[.$B6]*[.$B4]" office:value-type="float" office:value="29" calcext:value-type="float">
+      <text:p>29.0</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce67" table:formula="of:=[.F6]/[.$B6]*[.$B4]" office:value-type="float" office:value="0" calcext:value-type="float">
+     <table:table-cell table:style-name="ce67" table:formula="of:=[.F6]/[.$B6]*[.$B4]" office:value-type="float" office:value="2.5" calcext:value-type="float">
+      <text:p>2.5</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce67" table:formula="of:=[.G6]/[.$B6]*[.$B4]" office:value-type="float" office:value="0.5" calcext:value-type="float">
+      <text:p>0.5</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce67" table:formula="of:=[.H6]/[.$B6]*[.$B4]" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0.0</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce67" table:formula="of:=[.G6]/[.$B6]*[.$B4]" office:value-type="float" office:value="54.7" calcext:value-type="float">
-      <text:p>54.7</text:p>
+     <table:table-cell table:style-name="ce67" table:formula="of:=[.I6]/[.$B6]*[.$B4]" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1.0</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce67" table:formula="of:=[.H6]/[.$B6]*[.$B4]" office:value-type="float" office:value="3.7" calcext:value-type="float">
-      <text:p>3.7</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce67" table:formula="of:=[.I6]/[.$B6]*[.$B4]" office:value-type="float" office:value="0.1" calcext:value-type="float">
+     <table:table-cell table:style-name="ce67" table:formula="of:=[.J6]/[.$B6]*[.$B4]" office:value-type="float" office:value="0.1" calcext:value-type="float">
       <text:p>0.1</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce67" table:formula="of:=[.J6]/[.$B6]*[.$B4]" office:value-type="float" office:value="1.7" calcext:value-type="float">
-      <text:p>1.7</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce67"/>
      <table:table-cell table:number-columns-repeated="16373"/>
@@ -555,23 +565,23 @@
       <text:p>g</text:p>
      </table:table-cell>
      <table:table-cell/>
-     <table:table-cell table:style-name="ce67" table:formula="of:=[.E6]/[.$B6]*[.$B5]" office:value-type="float" office:value="386.28" calcext:value-type="float">
-      <text:p>386.3</text:p>
+     <table:table-cell table:style-name="ce67" table:formula="of:=[.E6]/[.$B6]*[.$B5]" office:value-type="float" office:value="104.4" calcext:value-type="float">
+      <text:p>104.4</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce67" table:formula="of:=[.F6]/[.$B6]*[.$B5]" office:value-type="float" office:value="0" calcext:value-type="float">
+     <table:table-cell table:style-name="ce67" table:formula="of:=[.F6]/[.$B6]*[.$B5]" office:value-type="float" office:value="9" calcext:value-type="float">
+      <text:p>9.0</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce67" table:formula="of:=[.G6]/[.$B6]*[.$B5]" office:value-type="float" office:value="1.8" calcext:value-type="float">
+      <text:p>1.8</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce67" table:formula="of:=[.H6]/[.$B6]*[.$B5]" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0.0</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce67" table:formula="of:=[.G6]/[.$B6]*[.$B5]" office:value-type="float" office:value="196.92" calcext:value-type="float">
-      <text:p>196.9</text:p>
+     <table:table-cell table:style-name="ce67" table:formula="of:=[.I6]/[.$B6]*[.$B5]" office:value-type="float" office:value="3.6" calcext:value-type="float">
+      <text:p>3.6</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce67" table:formula="of:=[.H6]/[.$B6]*[.$B5]" office:value-type="float" office:value="13.32" calcext:value-type="float">
-      <text:p>13.3</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce67" table:formula="of:=[.I6]/[.$B6]*[.$B5]" office:value-type="float" office:value="0.36" calcext:value-type="float">
+     <table:table-cell table:style-name="ce67" table:formula="of:=[.J6]/[.$B6]*[.$B5]" office:value-type="float" office:value="0.36" calcext:value-type="float">
       <text:p>0.4</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce67" table:formula="of:=[.J6]/[.$B6]*[.$B5]" office:value-type="float" office:value="6.12" calcext:value-type="float">
-      <text:p>6.1</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce67"/>
      <table:table-cell table:number-columns-repeated="16373"/>
@@ -580,29 +590,29 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Nutritional values total</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce60" table:formula="of:=SUMIFS([.B21:.B964];[.C21:.C964];&quot;=(g|ml)&quot;;[.D21:.D964];&quot;&lt;&gt;4&quot;)" office:value-type="float" office:value="0.01" calcext:value-type="float">
+     <table:table-cell table:style-name="ce60" table:formula="of:=SUMIFS([.B21:.B964];[.C21:.C964];&quot;=(g|ml)&quot;;[.D21:.D964];&quot;&lt;&gt;4&quot;)" office:value-type="float" office:value="0.1" calcext:value-type="float">
       <text:p>0</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>g</text:p>
      </table:table-cell>
      <table:table-cell/>
-     <table:table-cell table:style-name="ce67" table:formula="of:=SUMPRODUCT([.$B21:.$B999];[.E21:.E999])/100" office:value-type="float" office:value="0.01073" calcext:value-type="float">
+     <table:table-cell table:style-name="ce67" table:formula="of:=SUMPRODUCT([.$B21:.$B999];[.E21:.E999])/100" office:value-type="float" office:value="0.029" calcext:value-type="float">
       <text:p>0.0</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce67" table:formula="of:=SUMPRODUCT([.$B21:.$B999];[.F21:.F999])/100" office:value-type="float" office:value="0" calcext:value-type="float">
+     <table:table-cell table:style-name="ce67" table:formula="of:=SUMPRODUCT([.$B21:.$B999];[.F21:.F999])/100" office:value-type="float" office:value="0.0025" calcext:value-type="float">
       <text:p>0.0</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce67" table:formula="of:=SUMPRODUCT([.$B21:.$B999];[.G21:.G999])/100" office:value-type="float" office:value="0.00547" calcext:value-type="float">
+     <table:table-cell table:style-name="ce67" table:formula="of:=SUMPRODUCT([.$B21:.$B999];[.G21:.G999])/100" office:value-type="float" office:value="0.0005" calcext:value-type="float">
       <text:p>0.0</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce67" table:formula="of:=SUMPRODUCT([.$B21:.$B999];[.H21:.H999])/100" office:value-type="float" office:value="0.00037" calcext:value-type="float">
+     <table:table-cell table:style-name="ce67" table:formula="of:=SUMPRODUCT([.$B21:.$B999];[.H21:.H999])/100" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0.0</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce67" table:formula="of:=SUMPRODUCT([.$B21:.$B999];[.I21:.I999])/100" office:value-type="float" office:value="0.00001" calcext:value-type="float">
+     <table:table-cell table:style-name="ce67" table:formula="of:=SUMPRODUCT([.$B21:.$B999];[.I21:.I999])/100" office:value-type="float" office:value="0.001" calcext:value-type="float">
       <text:p>0.0</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce67" table:formula="of:=SUMPRODUCT([.$B21:.$B999];[.J21:.J999])/100" office:value-type="float" office:value="0.00017" calcext:value-type="float">
+     <table:table-cell table:style-name="ce67" table:formula="of:=SUMPRODUCT([.$B21:.$B999];[.J21:.J999])/100" office:value-type="float" office:value="0.0001" calcext:value-type="float">
       <text:p>0.0</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce67"/>
@@ -615,8 +625,8 @@
      <table:table-cell table:style-name="ce53" office:value-type="string" calcext:value-type="string">
       <text:p>FPDF / PAC (target 20..30)</text:p>
      </table:table-cell>
-     <table:table-cell table:formula="of:=SUMPRODUCT([.$B21:.$B999];[.$K21:.$K999])/[.$B$6]*100+5.9*[.$J$4]" office:value-type="float" office:value="142.03" calcext:value-type="float">
-      <text:p>142.03</text:p>
+     <table:table-cell table:formula="of:=SUMPRODUCT([.$B21:.$B999];[.$K21:.$K999])/[.$B$6]*100+5.9*[.$J$4]" office:value-type="float" office:value="0.59" calcext:value-type="float">
+      <text:p>0.59</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="16382"/>
     </table:table-row>
@@ -624,10 +634,27 @@
      <table:table-cell table:style-name="ce53" office:value-type="string" calcext:value-type="string">
       <text:p>Protein / Energy Ratio (ok=12%; hi=20%)</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce61" table:formula="of:=[.I4]*4/[.E4]" office:value-type="percentage" office:value="0.00372786579683131" calcext:value-type="percentage">
-      <text:p>0.37%</text:p>
+     <table:table-cell table:style-name="ce61" table:formula="of:=[.I4]*4/[.E4]" office:value-type="percentage" office:value="0.137931034482759" calcext:value-type="percentage">
+      <text:p>13.79%</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="16382"/>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce18" table:formula="of:=IF([.E4]&gt;40;&quot;&quot;;&quot;LOW-CAL&quot;)" office:value-type="string" office:string-value="LOW-CAL" calcext:value-type="string">
+      <text:p>LOW-CAL</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce18" table:formula="of:=IF([.F4]&gt;3;&quot;&quot;;&quot;LOW-FAT&quot;)" office:value-type="string" office:string-value="LOW-FAT" calcext:value-type="string">
+      <text:p>LOW-FAT</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce19"/>
+     <table:table-cell table:style-name="ce18" table:formula="of:=IF([.H4]&gt;5;&quot;&quot;;&quot;Low-Sugar&quot;)" office:value-type="string" office:string-value="Low-Sugar" calcext:value-type="string">
+      <text:p>Low-Sugar</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce18" table:formula="of:=IF([.B9]&gt;0.2;&quot;Hi-Protein&quot;;&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce18" table:formula="of:=IF([.J4]&gt;0.12;&quot;&quot;;&quot;Low-Salt&quot;)" office:value-type="string" office:string-value="Low-Salt" calcext:value-type="string">
+      <text:p>Low-Salt</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="16374"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell table:style-name="Default"/>
@@ -737,8 +764,8 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Almond milk (unsweetened)</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="float" office:value="0" calcext:value-type="float">
-      <text:p>0.00</text:p>
+     <table:table-cell office:value-type="float" office:value="0.1" calcext:value-type="float">
+      <text:p>0.10</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>ml</text:p>
@@ -1694,8 +1721,8 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>ICSv2 [Erythritol / CMC / Tara / XG / Inulin]</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="float" office:value="0.01" calcext:value-type="float">
-      <text:p>0.01</text:p>
+     <table:table-cell office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.00</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>g</text:p>
