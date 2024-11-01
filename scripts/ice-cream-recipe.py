@@ -138,7 +138,7 @@ def main():
     for step, (name, directions) in enumerate(steps.items()):
         if not recipe[step]:  # no ingredients for this step?
             continue
-        lines.extend(['', f'**{name.title()}**'])
+        lines.extend(['', f'**{name.title()}**', ''])
         for ingredient in recipe[step]:
             lines.append('  - _{amount}{unit}_ {ingredients}'.format(**ingredient))
             if ingredient['comment']:
