@@ -1,6 +1,10 @@
 # Chocolate Caramel (Deluxe)
 
-FroYo + Respin; very dense; very few & small ice crystals
+FroYo spin; dense & a few small ice crystals. Taste of the cocoa and caramel combo is great.
+
+> <img width=720 alt="Spun Ice Cream" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/recipes/Chocolate%20Caramel%20(Deluxe)/choca_2024-11-01.jpg" />
+
+Might add some almond butter next time, or replace the yogurt with cream cheese.
 
 # INGREDIENTS
 
@@ -41,6 +45,7 @@ FroYo + Respin; very dense; very few & small ice crystals
 - **Nutritional values per ½ Deluxe Tub:** 360g; 342.5 kcal; fat 13.0g; carbs 40.4g; sugar 11.5g; protein 20.4g; salt 0.6g
 - **Nutritional values total:** 720g; 685.0 kcal; fat 26.1g; carbs 80.9g; sugar 23.0g; protein 40.8g; salt 1.2g
 - **FPDF / PAC (target 20..30):** 26.40
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 23.84% • Low-Sugar • Hi-Protein
 - **30g Ice Cream Stabilizer (ICSv2) is:** 14.3g erythritol, 1.43g Tylose powder (CMC, E466), 
 0.5g tara gum (E417), 0.15g xanthan (E415),
 14.3g inulin, 0.5g salt.
