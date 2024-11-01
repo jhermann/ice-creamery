@@ -159,8 +159,11 @@ def main():
     # Create the Markdown file
     lines.append('')  # add trailing line end
     md_file = markdown_file(title)
+    md_text = '\n'.join(lines)
+    md_text = md_text.replace('http://bit.ly/4frc4Vj',
+        'https://github.com/jhermann/ice-creamery/tree/main/recipes/Ice%20Cream%20Stabilizer%20(ICS)')  # take care of Reddit stupidness
     with open(md_file, 'w', encoding='utf-8') as out:
-        out.write('\n'.join(lines))
+        out.write(md_text)
 
     # Open markdown file in VS Code
     os.system(f'{os.getenv("GUI_EDITOR", "code")} "{md_file}"')
