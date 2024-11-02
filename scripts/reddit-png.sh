@@ -3,12 +3,14 @@ W=640
 H=900
 GAP=0
 
+DELIM=${1:-DIRECTIONS}
+
 rm -f ~/tmp/recipe*png
 egrep -v img.+src README.md \
-    | pandoc --to html5 | sed '/DIRECTIONS/,$d' >~/tmp/recipe.html \
+    | pandoc --to html5 | sed '/'"$DELIM"'/,$d' >~/tmp/recipe.html \
     && chromium 2>~/tmp/recipe.log --headless --window-size=$(($W - $GAP)),$H --screenshot=$HOME/tmp/recipe-0.png ~/tmp/recipe.html
 egrep -v img.+src README.md \
-    | pandoc --to html5 | sed '/DIRECTIONS/,$!d' >~/tmp/recipe.html \
+    | pandoc --to html5 | sed '/'"$DELIM"'/,$!d' >~/tmp/recipe.html \
     && chromium 2>~/tmp/recipe.log --headless --window-size=$(($W - $GAP)),$H --screenshot=$HOME/tmp/recipe-1.png ~/tmp/recipe.html
 
 #( cd ~/tmp && convert -crop 100%x50% recipe.png recipe.png )
