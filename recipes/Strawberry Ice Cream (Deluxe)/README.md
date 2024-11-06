@@ -16,7 +16,7 @@ Process on Lite Ice Cream.
 
 **Dry**
 
-  - _30g_ ICSv2 [Erythritol / CMC / Tara / XG / Inulin] • [http://bit.ly/4frc4Vj](https://github.com/jhermann/ice-creamery/tree/main/recipes/Ice%20Cream%20Stabilizer%20%28ICS%29)
+  - _30g_ ICSv2 [Erythritol / CMC / Tara / XG / Inulin] • [http﹕//bit.ly/4frc4Vj](https://github.com/jhermann/ice-creamery/tree/main/recipes/Ice%20Cream%20Stabilizer%20%28ICS%29)
   - _25g_ Xylitol • Sweetness = 100%; GI = 7
   - _25g_ Whey protein Vanilla [MaxiNutrition]
 
@@ -40,6 +40,7 @@ Process on Lite Ice Cream.
 - **Nutritional values total:** 720g; 531.2 kcal; fat 9.7g; carbs 82.9g; sugar 27.3g; protein 41.9g; salt 1.6g
 - **FPDF / PAC (target 20..30):** 27.33
 - **Protein / Energy Ratio (ok=12%; hi=20%):** 31.56% • LOW-FAT • Low-Sugar • Hi-Protein
+- **Milk Solids Non-Fat (MSNF, 7-11%):** 58.9g • 8.2%
 - **30g Ice Cream Stabilizer (ICSv2) is:** 14.3g erythritol, 1.43g Tylose powder (CMC, E466), 
 0.5g tara gum (E417), 0.15g xanthan (E415),
 14.3g inulin, 0.5g salt.
