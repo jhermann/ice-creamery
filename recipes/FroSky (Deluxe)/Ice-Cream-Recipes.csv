@@ -1,0 +1,33 @@
+FroSky (Deluxe);;;;;;;;;;;;
+;;;;;;;;;;;;
+;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;
+Nutritional values per 100g/ml;100;g;;91.4;1.7;13.4;3.2;7.2;0.2;;;
+Nutritional values per ½ Deluxe Tub;360;g;;328.9;6.2;48.2;11.5;26.0;0.8;;;
+Nutritional values total;720;g;;657.8;12.3;96.5;23.0;52.0;1.6;;;
+;;;;;;;;;;;;
+FPDF / PAC (target 20..30);26.21;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";31.62%;;;;LOW-FAT;;Low-Sugar;Hi-Protein;;;;
+Milk Solids Non-Fat (MSNF, 7-11%);84.9;g;;11.8%;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+30g Ice Cream Stabilizer (ICSv2) is;"14.3g erythritol, 1.43g Tylose powder (CMC, E466), 
+0.5g tara gum (E417), 0.15g xanthan (E415),
+14.3g inulin, 0.5g salt.";;;;;;;;;;;
+;;;;;;;;;;;;
+The [brand names] used are in brackets.;;;;;;;;;;;;
+;;;;;;;;;;;;
+Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment
+Skyr [arla];450.00;ml;1;63.00;0.20;4.00;4.00;10.60;0.14;0.04;80.10;"82% water; 450g container"
+Water (cold);100.00;ml;1;;;;;;;;;
+Cream Cheese 23% [Exquisa];50.00;g;1;238.00;22.50;3.00;3.00;5.50;0.70;0.03;4.82;
+Glycerin (E422, VG) [hd-line];20.00;g;1;400.00;;99.00;;;;3.70;;"Sweetness = 60%; GI = 5; Density = 1.26 g/ml"
+ICSv2 [Erythritol / CMC / Tara / XG / Inulin];30.00;g;2;107.3;0.0;54.7;3.7;0.1;1.7;1.32;;http://bit.ly/4frc4Vj
+Xylitol;20.00;g;2;238.00;0.00;100.00;0.00;0.00;0.00;2.20;;"Sweetness = 100%; GI = 7"
+Water to MAX line;25.00;ml;3;0.00;0.00;0.00;0.00;0.00;0.00;;;
+;;;;;;;;;;;;
+Ube Yam Root powder [Fil Choice];25.00;g;2;382.00;0.60;83.00;9.50;6.10;0.30;0.10;;like vanilla+pistachio
+Lingonberry powder [Bio Leis];;g;2;351.00;2.30;78.80;72.50;3.70;0.01;0.73;;
+Strawberry powder [Supergarden];;g;2;287.00;3.70;50.90;50.60;7.60;0.00;0.51;;
