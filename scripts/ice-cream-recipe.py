@@ -100,7 +100,7 @@ def main():
             #print('!', row)
             if row[0] == 'Ingredients':
                 break  # pass header line to ingredients processing
-            elif row[2]:  # structured / complex row
+            elif row[2] and 'MSNF' not in row[0]:  # structured / complex row
                 line = [x.strip() for x in row]
                 if line[0].endswith(':'):
                     line[0] = f'**{line[0]}**'
@@ -110,7 +110,10 @@ def main():
             elif row[1]:  # row with a value in the 2nd column
                 nutrition.append(f'**{row[0].strip()}:** {row[1].strip()}')
                 if any(row[2:]):
-                    nutrition[-1] += ' • '.join([''] + [x.strip() for x in row[2:] if x.strip()])
+                    aux_info = ' • '.join([''] + [x.strip() for x in row[2:] if x.strip()])
+                    if aux_info.startswith(' • g • '):
+                        aux_info = aux_info[3:]
+                    nutrition[-1] += aux_info
             elif row[0]:  # non-empty text
                 if '[brand names]' not in row[0]:
                     lines.append(row[0].replace(' \n', '\n').strip())
@@ -160,7 +163,7 @@ def main():
     lines.append('')  # add trailing line end
     md_file = markdown_file(title)
     md_text = '\n'.join(lines)
-    md_text = md_text.replace('http://bit.ly/4frc4Vj', '[http://bit.ly/4frc4Vj]'
+    md_text = md_text.replace('http://bit.ly/4frc4Vj', '[http﹕//bit.ly/4frc4Vj]'
         '(https://github.com/jhermann/ice-creamery/tree/main/'
         'recipes/Ice%20Cream%20Stabilizer%20%28ICS%29)')  # take care of Reddit stupidness
     with open(md_file, 'w', encoding='utf-8') as out:
