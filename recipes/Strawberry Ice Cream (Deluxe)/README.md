@@ -1,6 +1,17 @@
 # Strawberry Ice Cream (Deluxe)
 
-Process on Lite Ice Cream.
+Processed on Lite Ice Cream directly from the freezer,
+filled the hole with crumbled dried strawberry slices,
+and worked them in via mix-in.
+
+> <img width=720 alt="Spun Ice Cream" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/recipes/Strawberry%20Ice%20Cream%20(Deluxe)/Strawberry_2024-11-07_1.jpg" />
+
+
+Intense flavor, very creamy, dense and free of ice crystals,
+with a nice crunch from the mix-in.
+
+Rating: 😋😋😋😋😋
+
 
 # INGREDIENTS
 
