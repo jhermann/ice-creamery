@@ -1,26 +1,29 @@
 # Fruit Powder Mix (Deluxe)
 
 This one is a favorite, so it gets its own recipe mix for convenient indulgence…
-
-To make your life easier, take the “prep” ingredients times 8, mix them, and store in an air-tight 1l container.
-Then use ~125g of that mix in your final base (or 85g for a regular 16oz tub).
-
 It works for fruit or root powders with a sugar content from low (Ube, 10%) to high (Lingonberry, 73%).
+
 Counting the pre-made mix as one, it is a 5 ingredients recipe, including the water.
+Use ~125g of the mix in your final base (or 85g for a regular 16oz tub).
 
-**Servings:** 8 tubs         
-**Total:** 1021 g         
-**Per tub:** 128 g         
+To make your life easier, take the “prep” ingredients times 4, mix them,
+and store in an air-tight 1l or 1.3l container (1l is the minimum you need for 500g powder).
+To mix, take a BIG bowl like used for baking, measure the ingredients,
+and whisk them carefully but thoroughly. A ball whisk works best.
 
- * 280 g Skim Milkpowder 1:10 [Vita2You]
- * 240 g Whey protein Vanilla [MaxiNutrition]
- * 240 g Xylitol
- * 120 g Erythritol (E968)
- * 120 g Inulin [Vit4ever]
- * 12 g Tylose powder (E466, Tylo, CMC)
- * 4 g Tara gum (E417)
- * 4 g Salt
- * 1.20 g Xanthan gum (E415, XG)
+**Serves:** 4 tubs          
+**Total:** 511 g          
+**Per tub:** 128 g          
+
+ * 140 g Skim Milkpowder 1:10 [Vita2You]
+ * 120 g Whey protein Vanilla [MaxiNutrition]
+ * 120 g Xylitol
+ * 60 g Erythritol (E968)
+ * 60 g Inulin [Vit4ever]
+ * 6 g Tylose powder (E466, Tylo, CMC)
+ * 2 g Tara gum (E417)
+ * 2 g Salt
+ * 0.60 g Xanthan gum (E415, XG)
 
 # INGREDIENTS
 
@@ -46,7 +49,7 @@ Counting the pre-made mix as one, it is a 5 ingredients recipe, including the wa
 
 **Dry**
 
-  - _25g_ Lingonberry powder [Bio Leis]
+  - _25g_ Ube Yam Root powder [Fil Choice] • like vanilla+pistachio
 
 **Top Off**
 
@@ -54,18 +57,15 @@ Counting the pre-made mix as one, it is a 5 ingredients recipe, including the wa
 
 # DIRECTIONS
 
- 1. Prepare the ingredients, e.g. bloom the cocoa.
  1. Add "wet" ingredients to empty Creami tub.
- 1. Weigh and mix dry ingredients, easiest by adding to a jar with a secure lid and shaking vigorously.
- 1. Pour into the tub and *QUICKLY* use an immersion blender on full speed to homogenize everything.
- 1. Let blender run until thickeners are properly hydrated, up to 1-2 min. Or blend again after waiting that time.
- 1. Add remaining ingredients (to the MAX line) and stir with a spoon.
- 1. Put on the lid, freeze for 24h, then spin as usual. Flatten any humps before that.
- 1. Process with RE-SPIN mode when not creamy enough after the first spin.
+ 2. Add the prepared dry ingredients and the fruit powder, and blend QUICKLY using an immersion blender on full speed.
+ 3. Add remaining ingredients (to the MAX line) and stir with a spoon.
+ 4. Put on the lid, freeze for 24h, then spin as usual. Flatten any humps before that.
 
 # NUTRITIONAL & OTHER INFO
-- **Nutritional values per 100g/ml:** 100g; 79.2 kcal; fat 0.9g; carbs 13.7g; sugar 5.5g; protein 6.9g; salt 0.2g
-- **Nutritional values per ½ Deluxe Tub:** 360g; 285.0 kcal; fat 3.3g; carbs 49.2g; sugar 19.9g; protein 24.7g; salt 0.9g
-- **Nutritional values total:** 718g; 568.1 kcal; fat 6.7g; carbs 98.0g; sugar 39.6g; protein 49.3g; salt 1.7g
-- **FPDF / PAC (target 20..30):** 27.59
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 34.71% • LOW-FAT • Hi-Protein
+- **Nutritional values per 100g/ml:** 100g; 80.2 kcal; fat 0.9g; carbs 13.8g; sugar 3.3g; protein 7.0g; salt 0.3g
+- **Nutritional values per ½ Deluxe Tub:** 360g; 288.9 kcal; fat 3.1g; carbs 49.7g; sugar 12.0g; protein 25.0g; salt 0.9g
+- **Nutritional values total:** 718g; 575.9 kcal; fat 6.2g; carbs 99.1g; sugar 23.8g; protein 49.9g; salt 1.8g
+- **FPDF / PAC (target 20..30):** 25.45
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 34.66% • LOW-FAT • Low-Sugar • Hi-Protein
+- **Milk Solids Non-Fat (MSNF, 7-11%):** 75.7g • 10.5%

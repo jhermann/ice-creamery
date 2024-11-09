@@ -1,52 +1,54 @@
-Fruit Powder Mix (Deluxe);;;;;;;;;;;
-;;;;;;;;;;;
-;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;
-Nutritional values per 100g/ml;100;g;;79.2;0.9;13.7;5.5;6.9;0.2;;
-Nutritional values per ½ Deluxe Tub;360;g;;285.0;3.3;49.2;19.9;24.7;0.9;;
-Nutritional values total;718;g;;568.1;6.7;98.0;39.6;49.3;1.7;;
-;;;;;;;;;;;
-FPDF / PAC (target 20..30);27.59;;;;;;;;;;
-"Protein / Energy Ratio (ok=12%; hi=20%)";34.71%;;;;LOW-FAT;;;Hi-Protein;;;
-;;;;;;;;;;;
-This one is a favorite, so it gets its own recipe mix for convenient indulgence…;;;;;;;;;;;
-;;;;;;;;;;;
-To make your life easier, take the “prep” ingredients times 8, mix them, and store in an air-tight 1l container.;;;;;;;;;;;
-Then use ~125g of that mix in your final base (or 85g for a regular 16oz tub).;;;;;;;;;;;
-;;;;;;;;;;;
+Fruit Powder Mix (Deluxe);;;;;;;;;;;;
+;;;;;;;;;;;;
+;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;
+Nutritional values per 100g/ml;100;g;;80.2;0.9;13.8;3.3;7.0;0.3;;;
+Nutritional values per ½ Deluxe Tub;360;g;;288.9;3.1;49.7;12.0;25.0;0.9;;;
+Nutritional values total;718;g;;575.9;6.2;99.1;23.8;49.9;1.8;;;
+;;;;;;;;;;;;
+FPDF / PAC (target 20..30);25.45;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";34.66%;;;;LOW-FAT;;Low-Sugar;Hi-Protein;;;;
+Milk Solids Non-Fat (MSNF, 7-11%);75.7;g;;10.5%;;;;;;;;
+;;;;;;;;;;;;
+This one is a favorite, so it gets its own recipe mix for convenient indulgence…;;;;;;;;;;;;
 "It works for fruit or root powders with a sugar content from low (Ube, 10%) to high (Lingonberry, 73%).
-Counting the pre-made mix as one, it is a 5 ingredients recipe, including the water.";;;;;;;;;;;
-;;;;;;;;;;;
-Servings:;8;tubs;;;;;;;;;
-Total:;1021;g;;;;;;;;;
-Per tub:;128;g;;;;;;;;;
-;;;;;;;;;;;
-Skim Milkpowder 1:10 [Vita2You];280.00;g;;;;;;;;;
-Whey protein Vanilla [MaxiNutrition];240.00;g;;;;;;;;;
-Xylitol;240.00;g;;;;;;;;;
-Erythritol (E968);120.00;g;;;;;;;;;
-Inulin [Vit4ever];120.00;g;;;;;;;;;
-Tylose powder (E466, Tylo, CMC);12.00;g;;;;;;;;;
-Tara gum (E417);4.00;g;;;;;;;;;
-Salt;4.00;g;;;;;;;;;
-Xanthan gum (E415, XG);1.20;g;;;;;;;;;
-;;;;;;;;;;;
-The [brand names] used are in brackets.;;;;;;;;;;;
-;;;;;;;;;;;
-Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;Comment
-Skim Milkpowder 1:10 [Vita2You];35.00;g;0;358.00;0.97;50.50;50.50;35.00;1.00;0.51;
-Whey protein Vanilla [MaxiNutrition];30.00;g;0;392.00;5.80;6.20;5.30;78.00;0.57;0.05;
-Xylitol;30.00;g;0;238.00;;100.00;;;;2.20;"Sweetness = 100%; GI = 7"
-Erythritol (E968);15.00;g;0;0.00;0.00;100.00;0.00;0.00;0.00;2.80;Sweetness = 75%
-Inulin [Vit4ever];15.00;g;0;210.00;0.00;8.00;8.00;0.00;0.20;0.09;"Sweetness = 8%; GI ~= 0"
-Tylose powder (E466, Tylo, CMC);1.50;g;0;143.00;0.00;75.00;0.00;0.00;0.00;;
-Tara gum (E417);0.50;g;0;185.00;0.31;87.00;0.00;2.26;0.00;;
-Salt;0.50;g;0;0.00;0.00;0.00;0.00;0.00;100.00;5.90;
-Xanthan gum (E415, XG);0.15;g;0;320.00;0.00;78.00;0.00;6.00;1.00;;
-Water;425.00;ml;1;;;;;;;;
-Cottage Cheese 4% [REWE Bio];100.00;g;1;91.00;4.00;1.00;1.00;12.70;0.69;0.01;
-Glycerin (E422, VG) [hd-line];10.00;g;1;400.00;0.00;99.00;0.00;0.00;0.00;3.70;"Sweetness = 60%; GI = 5"
-Water to MAX line;30.00;ml;3;;;;;;;;
-;;;;;;;;;;;
-Ube Yam Root powder [Fil Choice];;g;2;382.00;0.60;83.00;9.50;6.10;0.30;0.10;like vanilla+pistachio
-Lingonberry powder [Bio Leis];25.00;g;2;351.00;2.30;78.80;72.50;3.70;0.01;0.73;
-Strawberry powder [Supergarden];;g;2;287.00;3.70;50.90;50.60;7.60;0.00;0.51;
+Counting the pre-made mix as one, it is a 5 ingredients recipe, including the water.";;;;;;;;;;;;
+Use ~125g of the mix in your final base (or 85g for a regular 16oz tub).;;;;;;;;;;;;
+;;;;;;;;;;;;
+"To make your life easier, take the “prep” ingredients times 4, mix them,
+and store in an air-tight 1l or 1.3l container (1l is the minimum you need for 500g powder).";;;;;;;;;;;;
+"To mix, take a BIG bowl like used for baking, measure the ingredients,
+and whisk them carefully but thoroughly. A ball whisk works best.";;;;;;;;;;;;
+;;;;;;;;;;;;
+Serves:;4;tubs;;;;;;;;;;
+Total:;511;g;;;;;;;;;;
+Per tub:;128;g;;;;;;;;;;
+;;;;;;;;;;;;
+Skim Milkpowder 1:10 [Vita2You];140.00;g;;;;;;;;;;
+Whey protein Vanilla [MaxiNutrition];120.00;g;;;;;;;;;;
+Xylitol;120.00;g;;;;;;;;;;
+Erythritol (E968);60.00;g;;;;;;;;;;
+Inulin [Vit4ever];60.00;g;;;;;;;;;;
+Tylose powder (E466, Tylo, CMC);6.00;g;;;;;;;;;;
+Tara gum (E417);2.00;g;;;;;;;;;;
+Salt;2.00;g;;;;;;;;;;
+Xanthan gum (E415, XG);0.60;g;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment
+Skim Milkpowder 1:10 [Vita2You];35.00;g;0;358.00;0.97;50.50;50.50;35.00;1.00;0.51;94.03;
+Whey protein Vanilla [MaxiNutrition];30.00;g;0;392.00;5.80;6.20;5.30;78.00;0.57;0.05;89.20;
+Xylitol;30.00;g;0;238.00;;100.00;;;;2.20;;"Sweetness = 100%; GI = 7"
+Erythritol (E968);15.00;g;0;0.00;0.00;100.00;0.00;0.00;0.00;2.80;;Sweetness = 75%
+Inulin [Vit4ever];15.00;g;0;210.00;0.00;8.00;8.00;0.00;0.20;0.09;;"Sweetness = 8%; GI ~= 0"
+Tylose powder (E466, Tylo, CMC);1.50;g;0;143.00;0.00;75.00;0.00;0.00;0.00;;;
+Tara gum (E417);0.50;g;0;185.00;0.31;87.00;0.00;2.26;0.00;;;
+Salt;0.50;g;0;0.00;0.00;0.00;0.00;0.00;100.00;5.90;;
+Xanthan gum (E415, XG);0.15;g;0;320.00;0.00;78.00;0.00;6.00;1.00;;;
+Water;425.00;ml;1;;;;;;;;;
+Cottage Cheese 4% [REWE Bio];100.00;g;1;91.00;4.00;1.00;1.00;12.70;0.69;0.01;16.00;
+Glycerin (E422, VG) [hd-line];10.00;g;1;400.00;0.00;99.00;0.00;0.00;0.00;3.70;;"Sweetness = 60%; GI = 5"
+Water to MAX line;30.00;ml;3;;;;;;;;;
+;;;;;;;;;;;;
+Ube Yam Root powder [Fil Choice];25.00;g;2;382.00;0.60;83.00;9.50;6.10;0.30;0.10;;like vanilla+pistachio
+Lingonberry powder [Bio Leis];;g;2;351.00;2.30;78.80;72.50;3.70;0.01;0.73;;
+Strawberry powder [Supergarden];;g;2;287.00;3.70;50.90;50.60;7.60;0.00;0.51;;
