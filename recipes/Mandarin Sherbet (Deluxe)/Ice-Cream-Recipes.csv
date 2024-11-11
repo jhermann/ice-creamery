@@ -1,27 +1,29 @@
-Mandarin Sherbet (Deluxe);;;;;;;;;;;
-;;;;;;;;;;;
-;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;
-Nutritional values per 100g/ml;100;g;;73.1;1.6;16.2;7.7;0.9;0.1;;
-Nutritional values per ½ Deluxe Tub;360;g;;263.1;5.6;58.2;27.8;3.2;0.5;;
-Nutritional values total;720;g;;526.2;11.3;116.3;55.5;6.4;1.0;;
-;;;;;;;;;;;
-FPDF / PAC (target 20..30);28.21;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-Oct 14, 2024;Dense, intensive, some small ice crystals;;;;;;;;;;
-Oct 19, 2024;Changed recipe;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-15g Ice Cream Stabilizer (ICS) is;"12.5g erythritol, 1.5g Tylose powder (CMC, E466), 
-0.5g tara gum (E417), 0.15g xanthan (E415), 0.5g salt.";;;;;;;;;;
-;;;;;;;;;;;
-The [brand names] used are in brackets.;;;;;;;;;;;
-;;;;;;;;;;;
-Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;Comment
-Mandarins in juice [REWE];600.00;g;1;48.00;0.00;11.00;9.00;0.60;0.02;0.09;
-Cream Cheese [Exquisa];50.00;g;1;238.00;22.50;3.00;3.00;5.50;0.70;0.03;
-Glycerin (E422, VG) [hd-line];20.00;g;1;400.00;0.00;99.00;0.00;0.00;0.00;3.70;"Sweetness = 60%; GI = 5"
-Xylitol;15.00;g;2;238.00;0.00;100.00;0.00;0.00;0.00;2.20;"Sweetness = 100%; GI = 7"
-ICS [Erythritol / CMC / Tara / XG];15.00;g;2;23.00;0.00;93.60;0.00;0.10;3.30;2.33;
-Water to MAX line;20.00;ml;3;;;;;;;;
+Mandarin Sherbet (Deluxe);;;;;;;;;;;;
+;;;;;;;;;;;;
+;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;
+Nutritional values per 100g/ml;100;g;;82.6;1.0;17.8;9.9;2.2;0.2;;;
+Nutritional values per ½ Deluxe Tub;360;g;;297.3;3.5;64.2;35.6;7.9;0.6;;;
+Nutritional values total;720;g;;594.7;7.0;128.3;71.2;15.8;1.1;;;
+;;;;;;;;;;;;
+FPDF / PAC (target 20..30);28.46;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";10.61%;;;;LOW-FAT;;;;;;;
+Milk Solids Non-Fat (MSNF, 7-11%);31.1;g;;4.3%;;;;;;;;
+;;;;;;;;;;;;
+Oct 14, 2024;Dense, intensive, some small ice crystals;;;;;;;;;;;
+Oct 19, 2024;Changed recipe;;;;;;;;;;;
+Nov 11, 2024;Switched to ICSv2, added SMP;;;;;;;;;;;
+;;;;;;;;;;;;
+30g Ice Cream Stabilizer (ICSv2) is;"14.3g erythritol, 1.43g Tylose powder (CMC, E466), 
+0.5g tara gum (E417), 0.15g xanthan (E415),
+14.3g inulin, 0.5g salt.";;;;;;;;;;;
+;;;;;;;;;;;;
+The [brand names] used are in brackets.;;;;;;;;;;;;
+;;;;;;;;;;;;
+Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment
+Mandarins in juice [REWE];600.00;g;1;48.00;0.00;11.00;9.00;0.60;0.02;0.09;;
+Cream Cheese [Exquisa];30.00;g;1;238.00;22.50;3.00;3.00;5.50;0.70;0.03;9.64;
+Glycerin (E422, VG) [hd-line];15.00;g;1;400.00;0.00;99.00;0.00;0.00;0.00;3.70;;"Sweetness = 60%; GI = 5"
+ICSv2 [Erythritol / CMC / Tara / XG / Inulin];30.00;g;2;107.3;0.0;54.7;3.7;0.1;1.7;1.32;;http://bit.ly/4frc4Vj
+Skim Milkpowder 1:10 [Vita2You];30.00;g;2;358.00;0.97;50.50;50.50;35.00;1.00;0.51;94.03;
+Xylitol;15.00;g;2;238.00;0.00;100.00;0.00;0.00;0.00;2.20;;"Sweetness = 100%; GI = 7"
+Water to MAX line;0.00;ml;3;;;;;;;;;
