@@ -4,6 +4,10 @@ PB&J ice cream, based on PB powder and dried strawberry slices.
 This one is a favorite, so it gets its own recipe mix for convenient indulgence…
 the final base then only takes 4 ingredients, including water.
 
+> <img width=720 alt="Spun Ice Cream" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/recipes/PB%20Mix/PB-Mix_2024-11-12_1.jpg" />
+
+Rating: 😋😋😋😋
+
 Use ~125g of the mix in your final base (or 85g for a regular 16oz tub).
 Process on Light Ice Cream, then fill the center hole with the crumbled strawberry slices and mix-in.
 Freshly mixed in they add a crunch, when stored a while in the freezer they re-hydrate and get chewy.
