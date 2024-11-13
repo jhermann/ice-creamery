@@ -1,6 +1,6 @@
 # ChiaChoco (Deluxe)
 
-After mixing, let the base sit in the fridge for at least 30,in (better 2h), for the chia to properly soak. Stir before freezing.
+After mixing, let the base sit in the fridge for at least 30min (better 2h), for the chia to properly soak. Stir before freezing.
 
 The seeds practically disappear, only some are left intact (i.e. noticable) on the walls and bottom.
 
