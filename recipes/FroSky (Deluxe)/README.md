@@ -1,5 +1,13 @@
 # Mango FroSky (Deluxe)
 
+Tangy & fresh. 
+
+> <img width=720 alt="Spun Ice Cream" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/recipes/PB%20Mix/PB-Mix_2024-11-12_1.jpg" />
+
+Rating: 😋😋😋😋
+
+Processed on FroYo + re-spin, likely would have profited from another re-spin (minor ice crystals).
+
 # INGREDIENTS
 
 ℹ️ Brand names are in square brackets `[...]`.
