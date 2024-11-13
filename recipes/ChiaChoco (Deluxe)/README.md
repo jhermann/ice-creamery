@@ -44,6 +44,7 @@ The seeds practically disappear, only some are left intact (i.e. noticable) on t
  1. Pour into the tub and *QUICKLY* use an immersion blender on full speed to homogenize everything.
  1. Let blender run until thickeners are properly hydrated, up to 1-2 min. Or blend again after waiting that time.
  1. Add remaining ingredients (to the MAX line) and stir with a spoon.
+ 1. After mixing, let the base sit in the fridge for at least 30min (better 2h), for the seeds to properly soak. Stir before freezing.
  1. Put on the lid, freeze for 24h, then spin as usual. Flatten any humps before that.
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
  1. Process with MIX-IN after adding mix-ins evenly. For that, add partial amounts into a hole going down to the bottom, and fold the ice cream over, building pockets of mix-ins.

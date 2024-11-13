@@ -75,6 +75,11 @@ def main():
         ' 1. Put on the lid, freeze for 24h, then spin as usual. Flatten any humps before that.',
         ' 1. Process with RE-SPIN mode when not creamy enough after the first spin.',
     ]
+    soaking = [
+        ' 1. After mixing, let the base sit in the fridge for at least 30min (better 2h),'
+        ' for the seeds to properly soak. Stir before freezing.',
+    ]
+    STEP_DRY = 2
     STEP_MIX_IN = 4
 
     with open(CSV_FILE, 'r', encoding='utf-8') as handle:
@@ -151,6 +156,8 @@ def main():
     lines.extend(['', subtitle('Directions'), ''])
     for step, (name, directions) in enumerate(steps.items()):
         if step == STEP_MIX_IN:
+            if any('chia' in x['ingredients'].lower() for x in recipe[STEP_DRY]):
+                lines.extend(soaking)
             lines.extend(freezing)
         if recipe[step]:  # we have ingredients for this step?
             for line in [x.strip() for x in directions.strip().splitlines()]:
