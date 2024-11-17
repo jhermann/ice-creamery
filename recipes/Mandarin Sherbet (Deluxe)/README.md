@@ -1,5 +1,15 @@
 # Mandarin Sherbet (Deluxe)
 
+Mostly mandarin slices and juice, which means a relatively high sugar content,
+but still reasonably lo-cal because it has only 1% fat.
+
+> <img width=720 alt="Spun Ice Cream" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/recipes/Mandarin%20Sherbet%20(Deluxe)/Mandarin-Sherbet_2024-11-16.jpg" />
+
+Small ice crystals (but then it is a sorbet / sherbet),
+and still immediately scoopable after 1 day in the freezer.
+
+Rating: 😋😋😋😋❄️
+
 # INGREDIENTS
 
 ℹ️ Brand names are in square brackets `[...]`.
