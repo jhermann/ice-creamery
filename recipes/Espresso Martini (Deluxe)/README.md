@@ -1,6 +1,6 @@
 # Espresso Martini (Deluxe)
 
-Mix the hot espresso with the cocoa powder to bloom it.
+Mix the hot coffee with the cocoa powder to bloom it, then let it cool down.
 
 # INGREDIENTS
 
@@ -20,14 +20,15 @@ Mix the hot espresso with the cocoa powder to bloom it.
 
 **Dry**
 
-  - _30g_ ICSv2 [Erythritol / CMC / Tara / XG / Inulin] • [http://bit.ly/4frc4Vj](https://github.com/jhermann/ice-creamery/tree/main/recipes/Ice%20Cream%20Stabilizer%20%28ICS%29)
+  - _30g_ ICSv2 [Erythritol / CMC / Tara / XG / Inulin] • [http﹕//bit.ly/4frc4Vj](https://github.com/jhermann/ice-creamery/tree/main/recipes/Ice%20Cream%20Stabilizer%20%28ICS%29)
   - _20g_ Skim Milkpowder 1:10 [Vita2You]
   - _20g_ Whey protein Vanilla [MaxiNutrition]
+  - _10g_ Xylitol • Sweetness = 100%; GI = 7
 
 **Top Off**
 
   - _75ml_ Cream 32% [REWE Beste Wahl]
-  - _100ml_ Water to MAX line
+  - _90ml_ Water to MAX line
 
 # DIRECTIONS
 
@@ -41,11 +42,12 @@ Mix the hot espresso with the cocoa powder to bloom it.
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
 
 # NUTRITIONAL & OTHER INFO
-- **Nutritional values per 100g/ml:** 100g; 106.9 kcal; fat 4.9g; carbs 6.3g; sugar 3.8g; protein 5.5g; salt 0.2g
-- **Nutritional values per ½ Deluxe Tub:** 360g; 384.9 kcal; fat 17.7g; carbs 22.5g; sugar 13.6g; protein 19.6g; salt 0.6g
-- **Nutritional values total:** 720g; 769.7 kcal; fat 35.4g; carbs 45.1g; sugar 27.1g; protein 39.3g; salt 1.2g
-- **FPDF / PAC (target 20..30):** 28.08
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 20.40% • Low-Sugar • Hi-Protein
+- **Nutritional values per 100g/ml:** 100g; 110.2 kcal; fat 4.9g; carbs 7.6g; sugar 3.8g; protein 5.5g; salt 0.2g
+- **Nutritional values per ½ Deluxe Tub:** 360g; 396.8 kcal; fat 17.7g; carbs 27.5g; sugar 13.6g; protein 19.6g; salt 0.6g
+- **Nutritional values total:** 720g; 793.5 kcal; fat 35.4g; carbs 55.1g; sugar 27.1g; protein 39.3g; salt 1.2g
+- **FPDF / PAC (target 20..30):** 31.13
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 19.79% • Low-Sugar
+- **Milk Solids Non-Fat (MSNF, 7-11%):** 64.3g • 8.9%
 - **30g Ice Cream Stabilizer (ICSv2) is:** 14.3g erythritol, 1.43g Tylose powder (CMC, E466), 
 0.5g tara gum (E417), 0.15g xanthan (E415),
 14.3g inulin, 0.5g salt.

@@ -1,33 +1,35 @@
-Espresso Martini (Deluxe);;;;;;;;;;;
-;;;;;;;;;;;
-;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;
-Nutritional values per 100g/ml;100;g;;106.9;4.9;6.3;3.8;5.5;0.2;;
-Nutritional values per ½ Deluxe Tub;360;g;;384.9;17.7;22.5;13.6;19.6;0.6;;
-Nutritional values total;720;g;;769.7;35.4;45.1;27.1;39.3;1.2;;
-;;;;;;;;;;;
-FPDF / PAC (target 20..30);28.08;;;;;;;;;;
-"Protein / Energy Ratio (ok=12%; hi=20%)";20.40%;;;;;;Low-Sugar;Hi-Protein;;;
-;;;;;;;;;;;
-Mix the hot espresso with the cocoa powder to bloom it.;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
+Espresso Martini (Deluxe);;;;;;;;;;;;
+;;;;;;;;;;;;
+;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;
+Nutritional values per 100g/ml;100;g;;110.2;4.9;7.6;3.8;5.5;0.2;;;
+Nutritional values per ½ Deluxe Tub;360;g;;396.8;17.7;27.5;13.6;19.6;0.6;;;
+Nutritional values total;720;g;;793.5;35.4;55.1;27.1;39.3;1.2;;;
+;;;;;;;;;;;;
+FPDF / PAC (target 20..30);31.13;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";19.79%;;;;;;Low-Sugar;;;;;
+Milk Solids Non-Fat (MSNF, 7-11%);64.3;g;;8.9%;;;;;;;;
+;;;;;;;;;;;;
+Mix the hot coffee with the cocoa powder to bloom it, then let it cool down.;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
 30g Ice Cream Stabilizer (ICSv2) is;"14.3g erythritol, 1.43g Tylose powder (CMC, E466), 
 0.5g tara gum (E417), 0.15g xanthan (E415),
-14.3g inulin, 0.5g salt.";;;;;;;;;;
-;;;;;;;;;;;
-The [brand names] used are in brackets.;;;;;;;;;;;
-;;;;;;;;;;;
-Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;Comment
-Mocca, Espresso, Strong Coffee (cooled);150.00;ml;0;;;;;;;;
-Cocoa Powder 21% [Bensdorp Premium];30.00;g;0;366.00;21.00;8.90;0.60;20.00;0.10;;
-Skim Milk 1.5% [Weihenstephan];250.00;ml;1;47.00;1.50;4.90;4.90;3.50;0.11;0.05;
-Vodka 40 vol% (measured by weigth);40.00;g;1;280.00;;;;;;2.96;
-Flavor drops Vanilla [IronMaxx];7.00;drops;1;;;;;;;;
-Vanilla Extract (w/ alcohol) [Native Vanilla];5.00;ml;1;300.00;;;;;;2.22;
-ICSv2 [Erythritol / CMC / Tara / XG / Inulin];30.00;g;2;107.3;0.0;54.7;3.7;0.1;1.7;1.32;http://bit.ly/4frc4Vj
-Skim Milkpowder 1:10 [Vita2You];20.00;g;2;358.00;0.97;50.50;50.50;35.00;1.00;0.51;
-Whey protein Vanilla [MaxiNutrition];20.00;g;2;392.00;5.80;6.20;5.30;78.00;0.57;0.05;
-Cream 32% [REWE Beste Wahl];75.00;ml;3;311.00;32.00;3.20;3.20;2.50;0.13;0.03;
-Water to MAX line;100.00;ml;3;;;;;;;;
+14.3g inulin, 0.5g salt.";;;;;;;;;;;
+;;;;;;;;;;;;
+The [brand names] used are in brackets.;;;;;;;;;;;;
+;;;;;;;;;;;;
+Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment
+Mocca, Espresso, Strong Coffee (cooled);150.00;ml;0;;;;;;;;;
+Cocoa Powder 21% [Bensdorp Premium];30.00;g;0;366.00;21.00;8.90;0.60;20.00;0.10;;;
+Skim Milk 1.5% [Weihenstephan];250.00;ml;1;47.00;1.50;4.90;4.90;3.50;0.11;0.05;9.16;
+Vodka 40 vol% (measured by weigth);40.00;g;1;280.00;;;;;;2.96;;
+Flavor drops Vanilla [IronMaxx];7.00;drops;1;;;;;;;;;
+Vanilla Extract (w/ alcohol) [Native Vanilla];5.00;ml;1;300.00;;;;;;2.22;;
+ICSv2 [Erythritol / CMC / Tara / XG / Inulin];30.00;g;2;107.3;0.0;54.7;3.7;0.1;1.7;1.32;;http://bit.ly/4frc4Vj
+Skim Milkpowder 1:10 [Vita2You];20.00;g;2;358.00;0.97;50.50;50.50;35.00;1.00;0.51;94.03;
+Whey protein Vanilla [MaxiNutrition];20.00;g;2;392.00;5.80;6.20;5.30;78.00;0.57;0.05;89.20;
+Xylitol;10.00;g;2;238.00;;100.00;;;;2.20;;"Sweetness = 100%; GI = 7"
+Cream 32% [REWE Beste Wahl];75.00;ml;3;311.00;32.00;3.20;3.20;2.50;0.13;0.03;6.32;
+;;;;;;;;;;;;
+Water to MAX line;90.00;ml;3;0.00;0.00;0.00;0.00;0.00;0.00;;;
