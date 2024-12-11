@@ -4,7 +4,8 @@
 just adding a few things for freezing point depression
 and ice crystal inhibition.
 
-<img width=720 alt="Spun Ice Cream" src="https://github.com/jhermann/ice-creamery/blob/main/recipes/Lazy%20Apricot%20FroYo%20(Deluxe)/Lyttos-Apricot.jpg?raw=true" />
+
+> <img width=320 alt="Spun Ice Cream" src="https://github.com/jhermann/ice-creamery/blob/main/recipes/Lazy%20Apricot%20FroYo%20(Deluxe)/lazy-apricot-froyo_2024-12-11.jpg?raw=true" /> <img width=320 alt="Spun Ice Cream" src="https://github.com/jhermann/ice-creamery/blob/main/recipes/Lazy%20Apricot%20FroYo%20(Deluxe)/Lyttos-Apricot.jpg?raw=true" />
 
 Spin on FroYo, scrape down, and re-mix.
 
