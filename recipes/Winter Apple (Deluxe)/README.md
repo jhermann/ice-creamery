@@ -1,4 +1,12 @@
-# Apple-Cinnamon (Deluxe)
+# Winter Apple (Deluxe)
+
+Applesauce sherbet with cinnamon, and stollen pieces as a mix-in.
+
+> <img width=320 alt="Spun Ice Cream" src="https://github.com/jhermann/ice-creamery/blob/main/recipes/Winter%20Apple%20(Deluxe)/winter-apple_2024-12-12_1.jpg?raw=true" />  <img width=320 alt="Spun Ice Cream" src="https://github.com/jhermann/ice-creamery/blob/main/recipes/Winter%20Apple%20(Deluxe)/winter-apple_2024-12-12_2.jpg?raw=true" />
+
+Spun on Sorbet with a re-spin, and coarsely cubed stollen as a mix-in. The mix-in puts this squarely into delish territory.
+
+Rating: 😋😋😋😋🎅
 
 # INGREDIENTS
 
@@ -23,10 +31,11 @@
 
   - _22ml_ Water to MAX line
 
-**Mix-In**
+**Mix-Ins**
 
   - _20g_ Almond slivers • Mixin / Topping
   - _10g_ Raisins • Mixin / Topping
+  - _50g_ Stollen, coarsely cubed
 
 # DIRECTIONS
 
