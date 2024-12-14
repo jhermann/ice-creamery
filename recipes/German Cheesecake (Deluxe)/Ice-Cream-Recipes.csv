@@ -1,0 +1,40 @@
+German Cheesecake (Deluxe);;;;;;;;;;;;
+;;;;;;;;;;;;
+;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;
+Nutritional values per 100g/ml;100;g;;117.8;6.7;9.9;3.6;4.6;0.1;;;
+Nutritional values per ½ Deluxe Tub;360;g;;424.2;24.3;35.5;12.8;16.7;0.5;;;
+Nutritional values total;720;g;;848.4;48.6;70.9;25.6;33.4;1.1;;;
+;;;;;;;;;;;;
+FPDF / PAC (target 20..30);24.89;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";15.76%;;;;;;Low-Sugar;;;;;
+Milk Solids Non-Fat (MSNF, 7-11%);49.8;g;;6.9%;;;;;;;;
+;;;;;;;;;;;;
+"Inspired by German cheesecake, which is made with ‘Quark’ or ‘Topfen’
+– think of a cross between yogurt, cottage cheese and ricotta.";;;;;;;;;;;;
+The lemon juice and soured milk add tanginess.;;;;;;;;;;;;
+;;;;;;;;;;;;
+Spin on Lite Ice Cream.;;;;;;;;;;;;
+30g Ice Cream Stabilizer (ICSv2) is;"14.3g erythritol, 1.43g Tylose powder (CMC, E466), 
+0.5g tara gum (E417), 0.15g xanthan (E415),
+14.3g inulin, 0.5g salt.";;;;;;;;;;;
+Rating: 😋;;;;;;;;;;;;
+The [brand names] used are in brackets.;;;;;;;;;;;;
+;;;;;;;;;;;;
+Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment
+Soured Milk 3.5% [Schwälbchen];400.00;g;1;64.00;3.50;4.00;4.00;3.30;0.13;0.04;8.50;500g container
+Topfen / Quark 14.4% [Berchtesgadener];240.00;g;1;179.00;14.40;3.60;3.60;8.40;0.08;0.04;6.60;250g container
+Glycerin (E422, VG) [hd-line];15.00;g;1;400.00;;99.00;;;;3.70;;"Sweetness = 60%; GI = 5; Density = 1.26 g/ml"
+Lemon juice;15.00;ml;1;25.00;0.10;3.36;1.65;0.30;0.01;0.02;;
+Vanilla Extract (w/ alcohol) [Native Vanilla];10.00;ml;1;300.00;;;;;;2.22;;
+Flavor drops Cookies&Cream [Nick’s];7.00;drops;1;;;;;;;;;with stevia
+Topfen / Quark 0.6% [Berchtesgadener];;g;1;70.00;0.60;3.60;3.60;11.90;0.08;0.04;11.40;250g container
+Flavor drops Vanilla [IronMaxx];;drops;1;;;;;;;;;with sucralose
+Buttermilk 1% [REWE];;ml;1;35.00;0.50;4.00;4.00;3.50;0.15;0.04;8.50;
+ICSv2 [Erythritol / CMC / Tara / XG / Inulin];20.00;g;2;107.3;0.0;54.7;3.7;0.1;1.7;1.32;;http://bit.ly/4frc4Vj
+Xylitol;20.00;g;2;238.00;;100.00;;;;2.20;;"Sweetness = 100%; GI = 7"
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+Water to MAX line;0.00;ml;3;;;;;;;;;
+;;;;;;;;;;;;
+Graham crackers / Butter cookies;3-4;pieces;5;;;;;;;;;
+Wafers (cream-filled);3-4;pieces;5;;;;;;;;;
