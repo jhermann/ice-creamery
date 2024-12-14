@@ -1,0 +1,31 @@
+Coffee&Cream (Deluxe);;;;;;;;;;;;
+;;;;;;;;;;;;
+;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;
+Nutritional values per 100g/ml;100;g;;104.4;5.9;11.1;2.7;4.2;0.2;;;
+Nutritional values per ½ Deluxe Tub;360;g;;375.7;21.1;39.9;9.7;15.2;0.7;;;
+Nutritional values total;720;g;;751.3;42.3;79.7;19.4;30.4;1.5;;;
+;;;;;;;;;;;;
+FPDF / PAC (target 20..30);27.19;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";16.17%;;;;;;Low-Sugar;;;;;
+Milk Solids Non-Fat (MSNF, 7-11%);53.3;g;;7.4%;;;;;;;;
+;;;;;;;;;;;;
+Spin on Sorbet.;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+30g Ice Cream Stabilizer (ICSv2) is;"14.3g erythritol, 1.43g Tylose powder (CMC, E466), 
+0.5g tara gum (E417), 0.15g xanthan (E415),
+14.3g inulin, 0.5g salt.";;;;;;;;;;;
+;;;;;;;;;;;;
+The [brand names] used are in brackets.;;;;;;;;;;;;
+;;;;;;;;;;;;
+Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment
+Extra strong coffee;450.00;ml;1;0.00;0.00;0.00;0.00;0.00;0.00;;;
+Cream Cheese 23% [Exquisa];75.00;g;1;238.00;22.50;3.00;3.00;5.50;0.70;0.03;9.64;
+Glycerin (E422, VG) [hd-line];20.00;g;1;400.00;0.00;99.00;0.00;0.00;0.00;3.70;;"Sweetness = 60%; GI = 5"
+Flavor drops Caramel [IronMaxx];7.00;drops;1;;;;;;;;;with sucralose
+ICSv2 [Erythritol / CMC / Tara / XG / Inulin];30.00;g;2;107.3;0.0;54.7;3.7;0.1;1.7;1.32;;http://bit.ly/4frc4Vj
+Skim Milkpowder 1:10 [Vita2You];25.00;g;2;358.00;0.97;50.50;50.50;35.00;1.00;0.51;94.03;
+Xylitol;25.00;g;2;238.00;0.00;100.00;0.00;0.00;0.00;2.20;;"Sweetness = 100%; GI = 7"
+Whey protein Vanilla [MaxiNutrition];20.00;g;2;392.00;5.80;6.20;5.30;78.00;0.57;0.05;89.20;
+Cream 32% [REWE Beste Wahl];75.00;ml;3;311.00;32.00;3.20;3.20;2.50;0.13;0.03;6.32;
