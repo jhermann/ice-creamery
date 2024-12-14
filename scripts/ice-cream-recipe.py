@@ -27,6 +27,7 @@ import os
 import csv
 import subprocess
 
+from pprint import pp
 from pathlib import Path
 from collections import defaultdict
 
@@ -70,6 +71,7 @@ def main():
         'mix-in':
             'Process with MIX-IN after adding mix-ins evenly.'
             ' For that, add partial amounts into a hole going down to the bottom, and fold the ice cream over, building pockets of mix-ins.',
+        'toppings': '',
     }
     freezing = [  # inserted before 'mix-in' step
         ' 1. Put on the lid, freeze for 24h, then spin as usual. Flatten any humps before that.',
@@ -81,6 +83,29 @@ def main():
     ]
     STEP_DRY = 2
     STEP_MIX_IN = 4
+
+    def handle_top_row(row):
+        '''Helper for non-ingredient row handling.'''
+        if row[2] and 'MSNF' not in row[0]:  # structured / complex row
+            line = [x.strip() for x in row]
+            if line[0].endswith(':'):
+                line[0] = f'**{line[0]}**'
+            elif line[2] in {'g', 'ml'}:
+                line = ' *', line[1].replace('.00', ''), line[2], line[0]
+            lines.append(' '.join(line))
+        elif row[1]:  # row with a value in the 2nd column
+            nutrition.append(f'**{row[0].strip()}:** {row[1].strip()}')
+            if any(row[2:]):
+                aux_info = ' • '.join([''] + [x.strip() for x in row[2:] if x.strip()])
+                if aux_info.startswith(' • g • '):
+                    aux_info = aux_info[3:]
+                nutrition[-1] += aux_info
+        elif row[0]:  # non-empty text
+            if '[brand names]' not in row[0]:
+                lines.append(row[0].replace(' \n', '\n').strip())
+        elif lines[-1] != '':  # empty row (1st one after some text)
+            lines.append('')
+
 
     with open(CSV_FILE, 'r', encoding='utf-8') as handle:
         reader = csv.reader(handle, delimiter=';')
@@ -99,31 +124,14 @@ def main():
             nutrients = "; ".join([f'{k.lower()} {v}g' for k, v in data.items() if v])
             nutrition.append(f'**{row[0]}:** {row[1]}{row[2]}; {row[4]} kcal; {nutrients}')
 
-        # Skip to ingredient list
+        # Parse to ingredient list
         while row[0] != 'Ingredients':  # process comment / text lines, up to the ingredient list
             row = next(reader)
             #print('!', row)
             if row[0] == 'Ingredients':
                 break  # pass header line to ingredients processing
-            elif row[2] and 'MSNF' not in row[0]:  # structured / complex row
-                line = [x.strip() for x in row]
-                if line[0].endswith(':'):
-                    line[0] = f'**{line[0]}**'
-                elif line[2] in {'g', 'ml'}:
-                    line = ' *', line[1].replace('.00', ''), line[2], line[0]
-                lines.append(' '.join(line))
-            elif row[1]:  # row with a value in the 2nd column
-                nutrition.append(f'**{row[0].strip()}:** {row[1].strip()}')
-                if any(row[2:]):
-                    aux_info = ' • '.join([''] + [x.strip() for x in row[2:] if x.strip()])
-                    if aux_info.startswith(' • g • '):
-                        aux_info = aux_info[3:]
-                    nutrition[-1] += aux_info
-            elif row[0]:  # non-empty text
-                if '[brand names]' not in row[0]:
-                    lines.append(row[0].replace(' \n', '\n').strip())
-            elif lines[-1] != '':  # empty row (1st one after some text)
-                lines.append('')
+            else:
+                handle_top_row(row)
 
         fields = [x.lower().replace('#', 'step') for x in row]
         #print(fields)
@@ -131,7 +139,9 @@ def main():
         # Read ingredients
         for row in reader:
             data = dict(zip(fields, row))
-            if data['ingredients']:
+            if not data['step']:
+                handle_top_row(row)
+            elif data['ingredients']:
                 if data['amount'].endswith('.00'):
                     data['amount'] = data['amount'][:-3]
                 if data['amount'] and data['amount'] != '0':
@@ -139,7 +149,7 @@ def main():
                     recipe[step].append(data)
 
         # End of CSV processing
-    #print('I =', recipe[1][0])
+    #pp(recipe)
 
     # Add ingredient list
     lines.extend([subtitle('Ingredients'), '', 'ℹ️ Brand names are in square brackets `[...]`.'])
