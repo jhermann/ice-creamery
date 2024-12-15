@@ -60,18 +60,18 @@ def main():
     lines = []
     nutrition = []
     steps = {  # These correlate to the "#" column in the sheet's ingredient list, with prep ~ 0 and mix-in ~ 4
-        'prep': 'Prepare the ingredients, e.g. bloom the cocoa.',
-        'wet': 'Add "wet" ingredients to empty Creami tub.',
-        'dry': """
+        'Prep': 'Prepare the ingredients, e.g. bloom the cocoa.',
+        'Wet': 'Add "wet" ingredients to empty Creami tub.',
+        'Dry': """
             Weigh and mix dry ingredients, easiest by adding to a jar with a secure lid and shaking vigorously.
             Pour into the tub and *QUICKLY* use an immersion blender on full speed to homogenize everything.
             Let blender run until thickeners are properly hydrated, up to 1-2 min. Or blend again after waiting that time.
         """,
-        'top off': 'Add remaining ingredients (to the MAX line) and stir with a spoon.',
-        'mix-in':
+        'Fill to MAX': 'Add remaining ingredients (to the MAX line) and stir with a spoon.',
+        'Mix-ins':
             'Process with MIX-IN after adding mix-ins evenly.'
             ' For that, add partial amounts into a hole going down to the bottom, and fold the ice cream over, building pockets of mix-ins.',
-        'topping_options': '',
+        'Topping Options': '',
     }
     freezing = [  # inserted before 'mix-in' step
         ' 1. Put on the lid, freeze for 24h, then spin as usual. Flatten any humps before that.',
@@ -156,7 +156,7 @@ def main():
     for step, (name, directions) in enumerate(steps.items()):
         if not recipe[step]:  # no ingredients for this step?
             continue
-        lines.extend(['', f'**{name.replace("_", " ").title()}**', ''])
+        lines.extend(['', f'**{name}**', ''])
         for ingredient in recipe[step]:
             lines.append('  - _{amount}{unit}_ {ingredients}'.format(**ingredient))
             if ingredient['comment']:

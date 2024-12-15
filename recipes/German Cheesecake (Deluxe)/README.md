@@ -5,7 +5,6 @@ Inspired by German cheesecake, which is made with ‘Quark’ or ‘Topfen’
 The lemon juice and soured milk add the necessary tanginess.
 
 Spin on Lite Ice Cream.
-
 Rating: 😋
 
 # INGREDIENTS
@@ -26,7 +25,7 @@ Rating: 😋
   - _20g_ ICSv2 [Erythritol / CMC / Tara / XG / Inulin] • [http﹕//bit.ly/4frc4Vj](https://github.com/jhermann/ice-creamery/tree/main/recipes/Ice%20Cream%20Stabilizer%20%28ICS%29)
   - _25g_ Xylitol • Sweetness = 100%; GI = 7
 
-**Top Off**
+**Fill to MAX**
 
   - _40ml_ Cream 32% [REWE Beste Wahl]
 
