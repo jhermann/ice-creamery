@@ -71,7 +71,7 @@ def main():
         'mix-in':
             'Process with MIX-IN after adding mix-ins evenly.'
             ' For that, add partial amounts into a hole going down to the bottom, and fold the ice cream over, building pockets of mix-ins.',
-        'toppings': '',
+        'topping_options': '',
     }
     freezing = [  # inserted before 'mix-in' step
         ' 1. Put on the lid, freeze for 24h, then spin as usual. Flatten any humps before that.',
@@ -156,7 +156,7 @@ def main():
     for step, (name, directions) in enumerate(steps.items()):
         if not recipe[step]:  # no ingredients for this step?
             continue
-        lines.extend(['', f'**{name.title()}**', ''])
+        lines.extend(['', f'**{name.replace("_", " ").title()}**', ''])
         for ingredient in recipe[step]:
             lines.append('  - _{amount}{unit}_ {ingredients}'.format(**ingredient))
             if ingredient['comment']:
