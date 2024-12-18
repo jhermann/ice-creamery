@@ -4,8 +4,12 @@ Inspired by German cheesecake, which is made with ‘Quark’ or ‘Topfen’
 – think of a cross between yogurt, cottage cheese and ricotta.
 The lemon juice and soured milk add the necessary tanginess.
 
-Spin on Lite Ice Cream.
-Rating: 😋
+> <img width=360 alt="Spun Ice Cream" src="https://github.com/jhermann/ice-creamery/blob/main/recipes/German%20Cheesecake%20(Deluxe)/german-cheesecake_2024-12-18_1.jpg?raw=true" /> <img width=360 alt="Spun Ice Cream" src="https://github.com/jhermann/ice-creamery/blob/main/recipes/German%20Cheesecake%20(Deluxe)/german-cheesecake_2024-12-18_2.jpg?raw=true" />
+
+Spin on FroYo and add a re-mix,
+serve with graham crackers or butter cookies to stand in for the pie crust.
+
+Rating: 😋😋😋😋😋
 
 # INGREDIENTS
 
@@ -18,7 +22,7 @@ Rating: 😋
   - _15g_ Glycerin (E422, VG) [hd-line] • Sweetness = 60%; GI = 5; Density = 1.26 g/ml
   - _15ml_ Lemon juice
   - _5ml_ Vanilla Extract (w/ alcohol) [Native Vanilla]
-  - _20drops_ Flavor drops Cookies&Cream [Nick’s] • with stevia
+  - _20 drops_ Flavor drops Cookies&Cream [Nick’s] • with stevia
 
 **Dry**
 
@@ -31,8 +35,8 @@ Rating: 😋
 
 **Topping Options**
 
-  - _3-4pieces_ Graham crackers / Butter cookies
-  - _3-4pieces_ Wafers (cream-filled)
+  - _3-4 pieces_ Graham crackers / Butter cookies
+  - _3-4 pieces_ Wafers (cream-filled)
 
 # DIRECTIONS
 
