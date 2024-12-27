@@ -1,6 +1,9 @@
 # Orange Julius (Deluxe)
 
 Process on Sorbet.
+Very intense flavor due to the orange zest.
+
+Rating: 😋
 
 # INGREDIENTS
 
@@ -8,12 +11,13 @@ Process on Sorbet.
 
 **Wet**
 
-  - _½ peel_ Zest from an organic orange • Zest the orange before juicing!
+  - _1 peel_ Zest from an organic orange • Zest the orange before juicing!
   - _300g_ Mandarins in juice [REWE]
   - _150g_ Mango
-  - _80ml_ Freshly pressed orange juice
-  - _50g_ Cream Cheese 23% [Exquisa]
-  - _15g_ Glycerin (E422, VG) [hd-line] • Sweetness = 60%; GI = 5; Density = 1.26 g/ml
+  - _80ml_ Freshly pressed orange juice • 1 medium sized orange (~150g)
+  - _75g_ Cottage Cheese 4% [REWE Bio]
+  - _10g_ Glycerin (E422, VG) [hd-line] • Sweetness = 60%; GI = 5; Density = 1.26 g/ml
+  - _10g_ Brandy “Williams Birne” 40 vol%
 
 **Dry**
 
@@ -23,7 +27,7 @@ Process on Sorbet.
 
 **Fill to MAX**
 
-  - _45ml_ Water to MAX line
+  - _15ml_ Water to MAX line
 
 # DIRECTIONS
 
@@ -36,12 +40,12 @@ Process on Sorbet.
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
 
 # NUTRITIONAL & OTHER INFO
-- **Nutritional values per 100g/ml:** 100g; 89.1 kcal; fat 1.9g; carbs 16.7g; sugar 7.9g; protein 3.5g; salt 0.1g
-- **Nutritional values per ½ Deluxe Tub:** 360g; 320.8 kcal; fat 6.8g; carbs 60.1g; sugar 28.6g; protein 12.8g; salt 0.5g
-- **Nutritional values total:** 720g; 641.7 kcal; fat 13.6g; carbs 120.1g; sugar 57.2g; protein 25.5g; salt 1.1g
-- **FPDF / PAC (target 20..30):** 28.57
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 15.92% • LOW-FAT
-- **Milk Solids Non-Fat (MSNF, 7-11%):** 27.1g • 3.8%
+- **Nutritional values per 100g/ml:** 100g; 83.2 kcal; fat 0.7g; carbs 15.9g; sugar 7.8g; protein 4.5g; salt 0.2g
+- **Nutritional values per ½ Deluxe Tub:** 360g; 299.5 kcal; fat 2.7g; carbs 57.2g; sugar 28.2g; protein 16.2g; salt 0.6g
+- **Nutritional values total:** 720g; 598.9 kcal; fat 5.4g; carbs 114.4g; sugar 56.4g; protein 32.3g; salt 1.2g
+- **FPDF / PAC (target 20..30):** 31.08
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 21.58% • LOW-FAT • Hi-Protein
+- **Milk Solids Non-Fat (MSNF, 7-11%):** 34.3g • 4.8%
 - **30g Ice Cream Stabilizer (ICSv2) is:** 14.3g erythritol, 1.43g Tylose powder (CMC, E466), 
 0.5g tara gum (E417), 0.15g xanthan (E415),
 14.3g inulin, 0.5g salt.
