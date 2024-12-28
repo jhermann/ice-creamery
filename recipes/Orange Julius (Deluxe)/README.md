@@ -1,6 +1,6 @@
 # Orange Julius (Deluxe)
 
-Processed on Sorbet, followed by a scraped-down and re-mix.
+Processed on Sorbet, followed by a scrape-down and re-mix.
 Ends up with a creamy sorbet consistency.
 
 > <img width=360 alt="Organic Orange" src="https://github.com/jhermann/ice-creamery/blob/main/recipes/Orange%20Julius%20(Deluxe)/Orange-Julius_2024-12-27_1.jpg?raw=true" />
