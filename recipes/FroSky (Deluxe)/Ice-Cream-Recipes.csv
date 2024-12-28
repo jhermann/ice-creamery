@@ -1,12 +1,12 @@
-Mango FroSky (Deluxe);;;;;;;;;;;;
+FroSky (Deluxe);;;;;;;;;;;;
 ;;;;;;;;;;;;
 ;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;
-Nutritional values per 100g/ml;100;g;;89.9;1.8;13.2;5.6;7.1;0.2;;;
-Nutritional values per ½ Deluxe Tub;360;g;;323.6;6.5;47.6;20.1;25.7;0.7;;;
-Nutritional values total;720;g;;647.2;12.9;95.3;40.1;51.4;1.5;;;
+Nutritional values per 100g/ml;100;g;;93.9;1.8;13.2;5.5;7.1;0.2;;;
+Nutritional values per ½ Deluxe Tub;360;g;;338.2;6.5;47.4;19.9;25.7;0.7;;;
+Nutritional values total;720;g;;676.4;12.9;94.8;39.7;51.4;1.3;;;
 ;;;;;;;;;;;;
-FPDF / PAC (target 20..30);27.48;;;;;;;;;;;
-"Protein / Energy Ratio (ok=12%; hi=20%)";31.76%;;;;LOW-FAT;;;Hi-Protein;;;;
+FPDF / PAC (target 20..30);31.15;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";30.38%;;;;LOW-FAT;;;Hi-Protein;;;;
 Milk Solids Non-Fat (MSNF, 7-11%);84.9;g;;11.8%;;;;;;;;
 ;;;;;;;;;;;;
 Tangy & fresh. Rating: 😋😋😋😋;;;;;;;;;;;;
@@ -23,12 +23,14 @@ Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment
 Skyr [arla];450.00;ml;1;63.00;0.20;4.00;4.00;10.60;0.14;0.04;17.80;"82% water; 450g container"
 Cream Cheese 23% [Exquisa];50.00;g;1;238.00;22.50;3.00;3.00;5.50;0.70;0.03;9.64;
 Glycerin (E422, VG) [hd-line];15.00;g;1;400.00;;99.00;;;;3.70;;"Sweetness = 60%; GI = 5; Density = 1.26 g/ml"
-Water (cold);0.00;ml;1;;;;;;;;;
-ICSv2 [Erythritol / CMC / Tara / XG / Inulin];30.00;g;2;107.30;0.00;54.70;3.70;0.10;1.70;1.32;;http://bit.ly/4frc4Vj
-Xylitol;25.00;g;2;238.00;0.00;100.00;0.00;0.00;0.00;2.20;;"Sweetness = 100%; GI = 7"
-Water to MAX line;0.00;ml;3;0.00;0.00;0.00;0.00;0.00;0.00;;;
+Brandy “Williams Birne” 40 vol%;10.00;g;1;280.00;;;;;;2.96;;
+ICSv2 [Erythritol / CMC / Tara / XG / Inulin];20.00;g;2;107.30;0.00;54.70;3.70;0.10;1.70;1.32;;http://bit.ly/4frc4Vj
+Xylitol;30.00;g;2;238.00;0.00;100.00;0.00;0.00;0.00;2.20;;"Sweetness = 100%; GI = 7"
 ;;;;;;;;;;;;
+Cherries;;g;1;61.00;0.10;13.60;9.60;0.90;0.00;0.10;;
+Mango;150.00;g;1;62.00;0.50;13.00;13.00;0.60;0.00;0.13;;
 Ube Yam Root powder [Fil Choice];;g;2;382.00;0.60;83.00;9.50;6.10;0.30;0.10;;like vanilla+pistachio
 Lingonberry powder [Bio Leis];;g;2;351.00;2.30;78.80;72.50;3.70;0.01;0.73;;
 Strawberry powder [Supergarden];;g;2;287.00;3.70;50.90;50.60;7.60;0.00;0.51;;
-Mango;150.00;g;1;62.00;0.50;13.00;13.00;0.60;0.00;0.13;;
+;;;;;;;;;;;;
+Water to MAX line;-5.00;ml;3;0.00;0.00;0.00;0.00;0.00;0.00;;;
