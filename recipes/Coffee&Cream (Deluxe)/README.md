@@ -1,6 +1,14 @@
 # Coffee&Cream (Deluxe)
 
-Spin on Sorbet.
+Spun on Sorbet, followed by a scrape-down and a re-spin.
+Went to the freezer again for an hour to firm up.
+
+> <img width=480 alt="Spun Ice Cream" src="https://github.com/jhermann/ice-creamery/blob/main/recipes/Coffee&Cream%20(Deluxe)/Coffee+Cream_2024-12-29.jpg?raw=true" />
+
+The coffee flavor is there but not dominant,
+the consistency is soft and from experience will get a bit firmer after several hours in the freezer.
+
+Rating: 😋😋😋😋☕
 
 # INGREDIENTS
 
@@ -8,21 +16,24 @@ Spin on Sorbet.
 
 **Wet**
 
-  - _450ml_ Extra strong coffee
-  - _75g_ Cream Cheese 23% [Exquisa]
-  - _20g_ Glycerin (E422, VG) [hd-line] • Sweetness = 60%; GI = 5
-  - _7drops_ Flavor drops Caramel [IronMaxx] • with sucralose
+  - _325ml_ Extra strong coffee
+  - _100ml_ Skim Milk 1.5% [Weihenstephan]
+  - _50g_ Cream Cheese 23% [Exquisa]
+  - _15g_ Glycerin (E422, VG) [hd-line] • Sweetness = 60%; GI = 5
+  - _10g_ Brandy 40 vol%
+  - _7 drops_ Flavor drops Caramel [IronMaxx] • with sucralose
 
 **Dry**
 
   - _30g_ ICSv2 [Erythritol / CMC / Tara / XG / Inulin] • [http﹕//bit.ly/4frc4Vj](https://github.com/jhermann/ice-creamery/tree/main/recipes/Ice%20Cream%20Stabilizer%20%28ICS%29)
   - _25g_ Skim Milkpowder 1:10 [Vita2You]
   - _25g_ Xylitol • Sweetness = 100%; GI = 7
-  - _20g_ Whey protein Vanilla [MaxiNutrition]
+  - _25g_ Whey protein Vanilla [MaxiNutrition]
 
-**Top Off**
+**Fill to MAX**
 
-  - _75ml_ Cream 32% [REWE Beste Wahl]
+  - _50ml_ Cream 32% [REWE Beste Wahl]
+  - _65ml_ Water to MAX line
 
 # DIRECTIONS
 
@@ -35,12 +46,12 @@ Spin on Sorbet.
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
 
 # NUTRITIONAL & OTHER INFO
-- **Nutritional values per 100g/ml:** 100g; 104.4 kcal; fat 5.9g; carbs 11.1g; sugar 2.7g; protein 4.2g; salt 0.2g
-- **Nutritional values per ½ Deluxe Tub:** 360g; 375.7 kcal; fat 21.1g; carbs 39.9g; sugar 9.7g; protein 15.2g; salt 0.7g
-- **Nutritional values total:** 720g; 751.3 kcal; fat 42.3g; carbs 79.7g; sugar 19.4g; protein 30.4g; salt 1.5g
-- **FPDF / PAC (target 20..30):** 27.19
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 16.17% • Low-Sugar
-- **Milk Solids Non-Fat (MSNF, 7-11%):** 53.3g • 7.4%
+- **Nutritional values per 100g/ml:** 100g; 95.7 kcal; fat 4.2g; carbs 10.9g; sugar 3.2g; protein 5.0g; salt 0.2g
+- **Nutritional values per ½ Deluxe Tub:** 360g; 344.3 kcal; fat 15.2g; carbs 39.2g; sugar 11.5g; protein 17.9g; salt 0.7g
+- **Nutritional values total:** 720g; 688.7 kcal; fat 30.4g; carbs 78.4g; sugar 23.1g; protein 35.8g; salt 1.4g
+- **FPDF / PAC (target 20..30):** 29.18
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 20.78% • Low-Sugar • Hi-Protein
+- **Milk Solids Non-Fat (MSNF, 7-11%):** 63.0g • 8.7%
 - **30g Ice Cream Stabilizer (ICSv2) is:** 14.3g erythritol, 1.43g Tylose powder (CMC, E466), 
 0.5g tara gum (E417), 0.15g xanthan (E415),
 14.3g inulin, 0.5g salt.
