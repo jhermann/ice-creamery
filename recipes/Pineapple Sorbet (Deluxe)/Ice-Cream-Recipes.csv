@@ -1,0 +1,31 @@
+Pineapple Sorbet (Deluxe);;;;;;;;;;;;
+;;;;;;;;;;;;
+;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;
+Nutritional values per 100g/ml;100;g;;76.1;0.6;15.2;9.6;2.0;0.2;;;
+Nutritional values per ½ Deluxe Tub;360;g;;274.0;2.0;54.7;34.6;7.3;0.6;;;
+Nutritional values total;720;g;;548.1;4.0;109.3;69.2;14.5;1.1;;;
+;;;;;;;;;;;;
+FPDF / PAC (target 20..30);31.52;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";10.60%;;;;LOW-FAT;;;;;;;
+Milk Solids Non-Fat (MSNF, 7-11%);16.0;g;;2.2%;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+Process on Sorbet.;;;;;;;;;;;;
+;;;;;;;;;;;;
+Rating: 😋;;;;;;;;;;;;
+30g Ice Cream Stabilizer (ICSv2) is;"14.3g erythritol, 1.43g Tylose powder (CMC, E466), 
+0.5g tara gum (E417), 0.15g xanthan (E415),
+14.3g inulin, 0.5g salt.";;;;;;;;;;;
+The [brand names] used are in brackets.;;;;;;;;;;;;
+;;;;;;;;;;;;
+Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment
+Pineapple in juice [Del Monte];450.00;g;1;68.00;;15.00;15.00;0.40;0.02;0.15;;Can = 565g
+Cottage Cheese 4% [REWE Bio];100.00;g;1;91.00;4.00;1.00;1.00;12.70;0.69;0.01;16.00;
+Brandy 40 vol%;15.00;g;1;280.00;;;;;;2.96;;
+Glycerin (E422, VG) [hd-line];10.00;g;1;400.00;0.00;99.00;0.00;0.00;0.00;3.70;;"Sweetness = 60%; GI = 5"
+ICSv2 [Erythritol / CMC / Tara / XG / Inulin];20.00;g;2;107.3;0.0;54.7;3.7;0.1;1.7;1.32;;http://bit.ly/4frc4Vj
+Xylitol;20.00;g;2;238.00;0.00;100.00;0.00;0.00;0.00;2.20;;"Sweetness = 100%; GI = 7"
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+Water to MAX line;105.00;ml;3;;;;;;;;;
