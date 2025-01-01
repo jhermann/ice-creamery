@@ -1,12 +1,12 @@
 Banana Ice Cream (Deluxe);;;;;;;;;;;;
 ;;;;;;;;;;;;
 ;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;
-Nutritional values per 100g/ml;100;g;;92.5;1.4;15.0;7.0;5.4;0.2;;;
-Nutritional values per ½ Deluxe Tub;360;g;;333.0;4.9;54.0;25.1;19.5;0.8;;;
-Nutritional values total;720;g;;665.9;9.9;108.0;50.2;39.0;1.6;;;
+Nutritional values per 100g/ml;100;g;;92.7;1.4;15.0;7.0;5.4;0.2;;;
+Nutritional values per ½ Deluxe Tub;360;g;;333.6;4.9;54.1;25.1;19.5;0.8;;;
+Nutritional values total;720;g;;667.2;9.9;108.1;50.3;39.0;1.6;;;
 ;;;;;;;;;;;;
-FPDF / PAC (target 20..30);29.01;;;;;;;;;;;
-"Protein / Energy Ratio (ok=12%; hi=20%)";23.40%;;;;LOW-FAT;;;Hi-Protein;;;;
+FPDF / PAC (target 20..30);29.03;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";23.36%;;;;LOW-FAT;;;Hi-Protein;;;;
 Milk Solids Non-Fat (MSNF, 7-11%);54.5;g;;7.6%;;;;;;;;
 ;;;;;;;;;;;;
 FroYo spin, mix-in with crushed cantuccini, and topped with almonds.;;;;;;;;;;;;
@@ -26,9 +26,11 @@ Cottage Cheese 4% [REWE Bio];100.00;g;1;91.00;4.00;1.00;1.00;12.70;0.69;0.01;16.
 Glycerin (E422, VG) [hd-line];10.00;g;1;400.00;;99.00;;;;3.70;;"Sweetness = 60%; GI = 5; Density = 1.26 g/ml"
 Fruit Brandy 40 vol%;10.00;g;1;280.00;;;;;;2.96;;
 Vanilla flavor drops [IronMaxx];5.00;drops;1;;;;;;;;;
+Lemon juice;5.00;ml;1;25.00;0.10;3.36;1.65;0.30;0.01;0.02;;
 ICSv2 [Erythritol / CMC / Tara / XG / Inulin];30.00;g;2;107.3;0.0;54.7;3.7;0.1;1.7;1.32;;http://bit.ly/4frc4Vj
 Whey protein Vanilla [MaxiNutrition];20.00;g;2;392.00;5.80;6.20;5.30;78.00;0.57;0.05;89.20;
 Xylitol;20.00;g;2;238.00;0.00;100.00;0.00;0.00;0.00;2.20;;"Sweetness = 100%; GI = 7"
-Water to MAX line;80.00;ml;3;0.00;0.00;0.00;0.00;0.00;0.00;;;
+Water to MAX line;75.00;ml;3;0.00;0.00;0.00;0.00;0.00;0.00;;;
 ;;;;;;;;;;;;
 Nov 15, 2024;Add 1cl brandy;;;;;;;;;;;
+Jan 1, 2025;Add lemon juice;;;;;;;;;;;
