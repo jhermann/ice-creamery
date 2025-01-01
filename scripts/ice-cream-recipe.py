@@ -35,6 +35,15 @@ CSV_FILE = 'Ice-Cream-Recipes.csv'  # TODO: add argument parsing
 MD_FILE = 'recipe-{file_title}.md'
 
 
+def read_images():
+    """Read IMG tags from readme."""
+    filename = Path('README.md')
+    result = []
+    if filename.exists():
+        result = [x for x in filename.read_text(encoding='utf-8').splitlines() if '<img ' in x]
+    return result or ['> <img width=360 alt="Spun Ice Cream" src="" />']
+
+
 def subtitle(text):
     """Create markdown for a recipe subtitle."""
     # TODO: add a `--format=reddit|generic` option
@@ -86,6 +95,8 @@ def main():
 
     def handle_top_row(row):
         '''Helper for non-ingredient row handling.'''
+        nonlocal images
+
         if row[2] and 'MSNF' not in row[0]:  # structured / complex row
             line = [x.strip() for x in row]
             if line[0].endswith(':'):
@@ -106,6 +117,11 @@ def main():
         elif lines[-1] != '':  # empty row (1st one after some text)
             lines.append('')
 
+        if lines and images and lines[-1] and not lines[-1].startswith('#'):
+            lines.extend([''] + images)
+            images = []
+
+    images = read_images()
 
     with open(CSV_FILE, 'r', encoding='utf-8') as handle:
         reader = csv.reader(handle, delimiter=';')
@@ -158,7 +174,8 @@ def main():
             continue
         lines.extend(['', f'**{name}**', ''])
         for ingredient in recipe[step]:
-            lines.append('  - _{amount}{unit}_ {ingredients}'.format(**ingredient))
+            ingredient['spacer'] = '' if ingredient['unit'] in {'g', 'ml'} else ' '
+            lines.append('  - _{amount}{spacer}{unit}_ {ingredients}'.format(**ingredient))
             if ingredient['comment']:
                 lines[-1] += f" • {ingredient['comment']}"
 
