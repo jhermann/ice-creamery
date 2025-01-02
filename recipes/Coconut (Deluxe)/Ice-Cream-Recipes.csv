@@ -1,18 +1,22 @@
 Coconut (Deluxe);;;;;;;;;;;;
 ;;;;;;;;;;;;
 ;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;
-Nutritional values per 100g/ml;100;g;;175.0;12.7;11.6;3.9;5.1;0.2;;;
-Nutritional values per ½ Deluxe Tub;360;g;;629.8;45.7;41.8;14.2;18.5;0.6;;;
-Nutritional values total;720;g;;1259.7;91.4;83.6;28.4;37.0;1.2;;;
+Nutritional values per 100g/ml;100;g;;177.3;12.7;11.6;3.9;5.1;0.2;;;
+Nutritional values per ½ Deluxe Tub;360;g;;638.1;45.7;41.8;14.2;18.5;0.6;;;
+Nutritional values total;720;g;;1276.3;91.4;83.6;28.4;37.0;1.2;;;
 ;;;;;;;;;;;;
 FPDF / PAC (target 20..30);26.87;;;;;;;;;;;
-"Protein / Energy Ratio (ok=12%; hi=20%)";11.74%;;;;;;Low-Sugar;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";11.59%;;;;;;Low-Sugar;;;;;
 Milk Solids Non-Fat (MSNF, 7-11%);44.6;g;;6.2%;;;;;;;;
 ;;;;;;;;;;;;
-Process on Lite Ice Cream.;;;;;;;;;;;;
+"Processed on Lite Ice Cream, comes out as soft-serve, with a minor hint of ice crystals.
+Given the high fat content, this is NOT low-cal, and would probably also work on Ice Cream,
+for a denser consistency directly after processing.
+
+Coconut is unsurprisingly the dominant flavor.";;;;;;;;;;;;
 ;;;;;;;;;;;;
 ;;;;;;;;;;;;
-Rating: 😋;;;;;;;;;;;;
+Rating: 😋😋😋😋;;;;;;;;;;;;
 30g Ice Cream Stabilizer (ICSv2) is;"14.3g erythritol, 1.43g Tylose powder (CMC, E466), 
 0.5g tara gum (E417), 0.15g xanthan (E415),
 14.3g inulin, 0.5g salt.";;;;;;;;;;;
@@ -28,7 +32,7 @@ Xylitol;30.00;g;2;238.00;;100.00;;;;2.20;;"Sweetness = 100%; GI = 7"
 ICSv2 [Erythritol / CMC / Tara / XG / Inulin];20.00;g;2;107.3;0.0;54.7;3.7;0.1;1.7;1.32;;http://bit.ly/4frc4Vj
 Skim Milkpowder 1:10 [Vita2You];20.00;g;2;358.00;0.97;50.50;50.50;35.00;1.00;0.51;94.03;
 Whey protein Vanilla [MaxiNutrition];20.00;g;2;392.00;5.80;6.20;5.30;78.00;0.57;0.05;89.20;
-Glycerol Monostearate (E471) [Bulk];2.00;g;2;415.00;;;;;;;;
+Glycerol Monostearate (E471) [Bulk];6.00;g;2;415.00;;;;;;;;
 ;;;;;;;;;;;;
 ;;;;;;;;;;;;
-Water to MAX line;158.00;ml;3;;;;;;;;;
+Water to MAX line;154.00;ml;3;;;;;;;;;

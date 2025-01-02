@@ -1,8 +1,14 @@
 # Coconut (Deluxe)
 
-Process on Lite Ice Cream.
+Processed on Lite Ice Cream, comes out as soft-serve, with a minor hint of ice crystals.
+Given the high fat content, this is NOT low-cal, and would probably also work on Ice Cream,
+for a denser consistency directly after processing.
 
-Rating: 😋🥥🥥
+Coconut is unsurprisingly the dominant flavor.
+
+> <img width=360 alt="Spun Ice Cream" src="" />
+
+Rating: 😋😋😋😋
 
 # INGREDIENTS
 
@@ -21,11 +27,11 @@ Rating: 😋🥥🥥
   - _20g_ ICSv2 [Erythritol / CMC / Tara / XG / Inulin] • [http﹕//bit.ly/4frc4Vj](https://github.com/jhermann/ice-creamery/tree/main/recipes/Ice%20Cream%20Stabilizer%20%28ICS%29)
   - _20g_ Skim Milkpowder 1:10 [Vita2You]
   - _20g_ Whey protein Vanilla [MaxiNutrition]
-  - _2g_ Glycerol Monostearate (E471) [Bulk]
+  - _6g_ Glycerol Monostearate (E471) [Bulk]
 
 **Fill to MAX**
 
-  - _158ml_ Water to MAX line
+  - _154ml_ Water to MAX line
 
 # DIRECTIONS
 
@@ -38,11 +44,11 @@ Rating: 😋🥥🥥
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
 
 # NUTRITIONAL & OTHER INFO
-- **Nutritional values per 100g/ml:** 100g; 175.0 kcal; fat 12.7g; carbs 11.6g; sugar 3.9g; protein 5.1g; salt 0.2g
-- **Nutritional values per ½ Deluxe Tub:** 360g; 629.8 kcal; fat 45.7g; carbs 41.8g; sugar 14.2g; protein 18.5g; salt 0.6g
-- **Nutritional values total:** 720g; 1259.7 kcal; fat 91.4g; carbs 83.6g; sugar 28.4g; protein 37.0g; salt 1.2g
+- **Nutritional values per 100g/ml:** 100g; 177.3 kcal; fat 12.7g; carbs 11.6g; sugar 3.9g; protein 5.1g; salt 0.2g
+- **Nutritional values per ½ Deluxe Tub:** 360g; 638.1 kcal; fat 45.7g; carbs 41.8g; sugar 14.2g; protein 18.5g; salt 0.6g
+- **Nutritional values total:** 720g; 1276.3 kcal; fat 91.4g; carbs 83.6g; sugar 28.4g; protein 37.0g; salt 1.2g
 - **FPDF / PAC (target 20..30):** 26.87
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 11.74% • Low-Sugar
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 11.59% • Low-Sugar
 - **Milk Solids Non-Fat (MSNF, 7-11%):** 44.6g • 6.2%
 - **30g Ice Cream Stabilizer (ICSv2) is:** 14.3g erythritol, 1.43g Tylose powder (CMC, E466), 
 0.5g tara gum (E417), 0.15g xanthan (E415),
