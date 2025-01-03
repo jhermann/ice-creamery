@@ -1,10 +1,10 @@
 # Pineapple Sorbet (Deluxe)
 
-Process on Sorbet.
+Processed on Sorbet, with a re-spin.
 
-> <img width=360 alt="Spun Ice Cream" src="" />
+> <img width=360 alt="Spun Ice Cream" src="https://github.com/jhermann/ice-creamery/blob/main/recipes/Pineapple%20Sorbet%20(Deluxe)/Pineapple-Sorbet_2025-01-03.jpg?raw=true" />
 
-Rating: 😋
+Rating: 😋😋😋🍍🍍
 
 # INGREDIENTS
 
