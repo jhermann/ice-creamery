@@ -6,6 +6,8 @@ The orange is clearly noticeable, but not overpowering.
 
 > <img width=360 alt="Spun Ice Cream" src="https://github.com/jhermann/ice-creamery/blob/main/recipes/Orange%20&%20Peach%20(Deluxe)/Peach+Orange_2025-01-03.jpg?raw=true" />
 
+Very freezer stable, comes out soft after days.
+
 Rating: 😋😋😋🍊🍑
 
 # INGREDIENTS
