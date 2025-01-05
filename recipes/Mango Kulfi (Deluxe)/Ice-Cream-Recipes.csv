@@ -1,0 +1,36 @@
+Mango Kulfi (Deluxe);;;;;;;;;;;;
+;;;;;;;;;;;;
+;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;
+Nutritional values per 100g/ml;100;g;;128.2;7.2;12.9;6.6;2.6;0.2;;;
+Nutritional values per ½ Deluxe Tub;360;g;;461.6;25.8;46.6;23.8;9.2;0.6;;;
+Nutritional values total;720;g;;923.3;51.5;93.2;47.6;18.5;1.2;;;
+;;;;;;;;;;;;
+FPDF / PAC (target 20..30);31.13;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";8.01%;;;;;;;;;;;
+Milk Solids Non-Fat (MSNF, 7-11%);20.7;g;;2.9%;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+Process on Light Ice Cream.;;;;;;;;;;;;
+;;;;;;;;;;;;
+Rating: 😋;;;;;;;;;;;;
+30g Ice Cream Stabilizer (ICSv2) is;"14.3g erythritol, 1.43g Tylose powder (CMC, E466), 
+0.5g tara gum (E417), 0.15g xanthan (E415),
+14.3g inulin, 0.5g salt.";;;;;;;;;;;
+The [brand names] used are in brackets.;;;;;;;;;;;;
+;;;;;;;;;;;;
+Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment
+Mango;300.00;g;1;62.00;0.50;13.00;13.00;0.60;0.00;0.13;;
+Cottage Cheese 4% [REWE Bio];100.00;g;1;91.00;4.00;1.00;1.00;12.70;0.69;0.01;16.00;
+Coconut milk 22% [REWE Bio];100.00;ml;1;222.00;22.00;4.00;4.00;2.00;0.04;0.04;;
+Lemon juice;30.00;ml;1;25.00;0.10;3.36;1.65;0.30;0.01;0.02;;
+Brandy 40 vol%;15.00;g;1;280.00;;;;;;2.96;;
+Glycerin (E422, VG) [hd-line];15.00;g;1;400.00;0.00;99.00;0.00;0.00;0.00;3.70;;"Sweetness = 60%; GI = 5"
+Flavor drops Peach / Maracuja [IronMaxx];7.00;drops;1;;;;;;;;;with sucralose
+ICSv2 [Erythritol / CMC / Tara / XG / Inulin];20.00;g;2;107.3;0.0;54.7;3.7;0.1;1.7;1.32;;http://bit.ly/4frc4Vj
+Xylitol;20.00;g;2;238.00;0.00;100.00;0.00;0.00;0.00;2.20;;"Sweetness = 100%; GI = 7"
+Glycerol Monostearate (E471) [Bulk];3.00;g;2;415.00;0.00;0.00;0.00;0.00;0.00;;;
+Cardamom;1.00;pinch;2;;;;;;;;;
+;;;;;;;;;;;;
+Cream 32% [REWE Beste Wahl];75.00;ml;3;311.00;32.00;3.20;3.20;2.50;0.13;0.03;6.32;
+Water to MAX line;42.00;ml;3;;;;;;;;;
