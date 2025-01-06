@@ -1,6 +1,6 @@
 # Mango Kulfi (Deluxe)
 
-Processed on Light Ice Cream, scrape-down and a mix-in run resulted in a soft consistency, on the firmer side.
+Processed on Sorbet, scrape-down and a mix-in run resulted in a soft consistency, on the firmer side.
 
 > <img width=360 alt="Spun Ice Cream" src="https://github.com/jhermann/ice-creamery/blob/main/recipes/Mango%20Kulfi%20(Deluxe)/Mango-Kulfi_2025-01-06.jpg?raw=true" />
 
