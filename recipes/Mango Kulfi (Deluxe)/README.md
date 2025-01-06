@@ -1,10 +1,13 @@
 # Mango Kulfi (Deluxe)
 
-Process on Light Ice Cream.
+Processed on Light Ice Cream, scrape-down and a mix-in run resulted in a soft consistency, on the firmer side.
 
-> <img width=360 alt="Spun Ice Cream" src="" />
+> <img width=360 alt="Spun Ice Cream" src="https://github.com/jhermann/ice-creamery/blob/main/recipes/Mango%20Kulfi%20(Deluxe)/Mango-Kulfi_2025-01-06.jpg?raw=true" />
 
-Rating: 😋
+The flavor is certainly different, and personally I don't like it that much.
+Probably due to the doubled amount of mango compared to other recipes I did with mango before.
+
+Rating: 😋😋😋
 
 # INGREDIENTS
 
