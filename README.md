@@ -8,6 +8,7 @@
 - [How to convert a recipe to Markdown?](#how-to-convert-a-recipe-to-markdown)
 - [How to get a live version of a recipe?](#how-to-get-a-live-version-of-a-recipe)
 - [Tips \& Tricks](#tips--tricks)
+- [Resources](#resources)
 
 
 ## What's this?
@@ -149,3 +150,12 @@ in parallel to a Microsoft Office installation.
    This is especially useful while experimenting and when
    you don't want to use `git` yet, where commit messages
    would take that place.
+
+
+## Resources
+
+ * [Ice Cream Science • Dream Scoops](https://www.dreamscoops.com/ice-cream-science/)
+ * [Ice Cream @ Underbelly](https://under-belly.org/category/ice-cream/)
+ * [Ruben Porto's Blog & Ice Cream Spreadsheet](https://www.icecreamscience.com/)
+ * [What PAC Is, and How to Calculate It (Medium)](https://medium.com/@gelatologist/what-pac-is-and-how-to-calculate-it-2f1ade1bd5df)
+ * [E numbers @ Wikipedia](https://en.wikipedia.org/wiki/E_number#E400%E2%80%93E499)
