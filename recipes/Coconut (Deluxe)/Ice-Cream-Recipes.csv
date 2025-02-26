@@ -1,15 +1,17 @@
 Coconut (Deluxe);;;;;;;;;;;;
 ;;;;;;;;;;;;
 ;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;
-Nutritional values per 100g/ml;100;g;;177.3;12.7;11.6;3.9;5.1;0.2;;;
-Nutritional values per ½ Deluxe Tub;360;g;;638.1;45.7;41.8;14.2;18.5;0.6;;;
-Nutritional values total;720;g;;1276.3;91.4;83.6;28.4;37.0;1.2;;;
+Nutritional values per 100g/ml;100;g;;165.3;11.2;11.4;3.8;4.1;0.2;;;
+Nutritional values per ½ Deluxe Tub;360;g;;595.2;40.4;41.1;13.5;14.7;0.8;;;
+Nutritional values total;720;g;;1190.4;80.8;82.2;27.1;29.5;1.6;;;
 ;;;;;;;;;;;;
-FPDF / PAC (target 20..30);26.87;;;;;;;;;;;
-"Protein / Energy Ratio (ok=12%; hi=20%)";11.59%;;;;;;Low-Sugar;;;;;
-Milk Solids Non-Fat (MSNF, 7-11%);44.6;g;;6.2%;;;;;;;;
+FPDF / PAC (target 20..30);31.93;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";9.90%;;;;;;Low-Sugar;;;;;
+Milk Solids Non-Fat (MSNF, 7-11%);41.7;g;;5.8%;;;;;;;;
 ;;;;;;;;;;;;
-"Processed on Lite Ice Cream, comes out as soft-serve, with a minor hint of ice crystals.
+"Process on Ice Cream.
+
+Jan 2nd: Came out as soft-serve, with a minor hint of ice crystals.
 Given the high fat content, this is NOT low-cal, and would probably also work on Ice Cream,
 for a denser consistency directly after processing.
 
@@ -24,15 +26,21 @@ Rating: 😋😋😋😋;;;;;;;;;;;;
 The [brand names] used are in brackets.;;;;;;;;;;;;
 ;;;;;;;;;;;;
 Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment
-Coconut milk 22% [REWE Bio];400.00;ml;1;222.00;22.00;4.00;4.00;2.00;0.04;0.04;;
-Cottage Cheese 4% [REWE Bio];50.00;g;1;91.00;4.00;1.00;1.00;12.70;0.69;0.01;16.00;
-Glycerin (E422, VG) [hd-line];15.00;g;1;400.00;;99.00;;;;3.70;;"Sweetness = 60%; GI = 5; Density = 1.26 g/ml"
-Vanilla Extract (w/ alcohol) [Native Vanilla];5.00;ml;1;300.00;;;;;;2.22;;
-Xylitol;30.00;g;2;238.00;;100.00;;;;2.20;;"Sweetness = 100%; GI = 7"
-ICSv2 [Erythritol / CMC / Tara / XG / Inulin];20.00;g;2;107.3;0.0;54.7;3.7;0.1;1.7;1.32;;http://bit.ly/4frc4Vj
+Water (boiling);150.00;ml;0;;;;;;;;;
+Coconut flakes (desiccated) [Biojoy];50.00;g;0;660.00;63.00;6.40;6.40;6.20;0.08;0.06;;
+Xylitol;25.00;g;0;238.00;;100.00;;;;2.20;;"Sweetness = 100%; GI = 7"
+Glycerin (E422, VG) [hd-line];15.00;g;0;400.00;;99.00;;;;3.70;;"Sweetness = 60%; GI = 5; Density = 1.26 g/ml"
+Rum / Brandy 40 vol%;15.00;g;0;280.00;;;;;;2.96;;
+Coconut milk 22% [REWE Bio];200.00;ml;1;222.00;22.00;4.00;4.00;2.00;0.04;0.04;;
+Cottage Cheese 4% [REWE Bio];100.00;g;1;91.00;4.00;1.00;1.00;12.70;0.69;0.01;16.00;
+Skim Milk 1.5% [Weihenstephan];75.00;ml;1;47.00;1.50;4.90;4.90;3.50;0.11;0.05;9.16;
+Flavor drops Vanilla [IronMaxx];5.00;drops;1;;;;;;;;;with sucralose
+ICSv2 [Erythritol / CMC / Tara / XG / Inulin];30.00;g;2;107.3;0.0;54.7;3.7;0.1;1.7;1.32;;http://bit.ly/4frc4Vj
 Skim Milkpowder 1:10 [Vita2You];20.00;g;2;358.00;0.97;50.50;50.50;35.00;1.00;0.51;94.03;
-Whey protein Vanilla [MaxiNutrition];20.00;g;2;392.00;5.80;6.20;5.30;78.00;0.57;0.05;89.20;
 Glycerol Monostearate (E471) [Bulk];6.00;g;2;415.00;;;;;;;;
 ;;;;;;;;;;;;
 ;;;;;;;;;;;;
-Water to MAX line;154.00;ml;3;;;;;;;;;
+Water to MAX line;34.00;ml;3;;;;;;;;;
+;;;;;;;;;;;;
+Jan 2, 2025;"Added alcohol & more cottage cheese; no SMP";;;;;;;;;;;
+Jan 4, 2025;Coconut flakes, no whey, reintroduced SMP;;;;;;;;;;;
