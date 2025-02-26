@@ -3,7 +3,7 @@
 Coconut is unsurprisingly the dominant flavor.
 Process on Ice Cream.
 
-> <img width=360 alt="Spun Ice Cream" src="" />
+> <img width=360 alt="Spun Ice Cream" src="https://github.com/jhermann/ice-creamery/blob/main/recipes/Coconut%20(Deluxe)/Coconut_2025-01-02.jpg?raw=true" />
 
 Rating: 😋😋😋😋
 
