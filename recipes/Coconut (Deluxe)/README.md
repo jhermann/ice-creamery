@@ -1,11 +1,15 @@
 # Coconut (Deluxe)
 
-Coconut is unsurprisingly the dominant flavor.
-Process on Ice Cream.
+Coconut is unsurprisingly the dominant flavor. Process on Ice Cream.
 
 > <img width=360 alt="Spun Ice Cream" src="https://github.com/jhermann/ice-creamery/blob/main/recipes/Coconut%20(Deluxe)/Coconut_2025-01-02.jpg?raw=true" />
-
 Rating: 😋😋😋😋
+
+With Coconut flakes, processed with FroYo and remix.
+Add dark chocolate pieces to make it like "Bounty."
+
+> <img width=360 alt="Spun Ice Cream" src="https://github.com/jhermann/ice-creamery/blob/main/recipes/Coconut%20(Deluxe)/coconut_2025-02-27.jpg?raw=true" />
+Rating: 😋😋😋🥥🥥
 
 Jan 2nd: Came out as soft-serve, with a minor hint of ice crystals.
 Given the high fat content, this is NOT low-cal, and would probably also work on Ice Cream,
