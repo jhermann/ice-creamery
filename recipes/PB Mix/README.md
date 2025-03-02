@@ -2,11 +2,11 @@
 
 PB&J ice cream, based on PB powder and dried strawberry slices.
 This one is a favorite, so it gets its own recipe mix for convenient indulgence…
-the final base then only takes 4 ingredients, including water.
 
-> <img width=720 alt="Spun Ice Cream" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/recipes/PB%20Mix/PB-Mix_2024-11-12_1.jpg" />
-
+> <img width=360 alt="Spun Ice Cream" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/recipes/PB%20Mix/PB-Mix_2024-11-12_1.jpg" />
 Rating: 😋😋😋😋
+
+Counting the pre-made mix as one, it is a 7 ingredients recipe for the final base, including the water.
 
 Use ~125g of the mix in your final base (or 85g for a regular 16oz tub).
 Process on Light Ice Cream, then fill the center hole with the crumbled strawberry slices and mix-in.
@@ -45,29 +45,34 @@ and whisk them carefully but thoroughly. A ball whisk works best.
 
 **Wet**
 
-  - _450ml_ Water
+  - _275ml_ Skim Milk 1.5% [Weihenstephan]
+  - _150ml_ Water
   - _100g_ Cottage Cheese 4% [REWE Bio]
   - _20g_ Glycerin (E422, VG) [hd-line] • Sweetness = 60%; GI = 5
+  - _15g_ Brandy “Williams Birne” 40 vol%
+  - _7 drops_ Flavor drops Vanilla [IronMaxx] • with sucralose
 
-**Top Off**
+**Fill to MAX**
 
-  - _25ml_ Water to MAX line
+  - _36ml_ Water to MAX line
 
-**Mix-In**
+**Mix-ins**
 
   - _10g_ Strawberry slices freeze-dried [EWL] • Mix-in for a full tub (2 servings)
 
 # DIRECTIONS
 
  1. Add "wet" ingredients to empty Creami tub.
- 2. Add the prepared dry ingredients, and blend QUICKLY using an immersion blender on full speed.
- 3. Add remaining ingredients (to the MAX line) and stir with a spoon.
- 4. Put on the lid, freeze for 24h, then spin as usual. Flatten any humps before that.
+ 1. Add the prepared dry ingredients, and blend QUICKLY using an immersion blender on full speed.
+ 1. Add remaining ingredients (to the MAX line) and stir with a spoon.
+ 1. Put on the lid, freeze for 24h, then spin as usual. Flatten any humps before that.
+ 1. Process with RE-SPIN mode when not creamy enough after the first spin.
+ 1. Process with MIX-IN after adding mix-ins evenly. For that, add partial amounts into a hole going down to the bottom, and fold the ice cream over, building pockets of mix-ins.
 
 # NUTRITIONAL & OTHER INFO
-- **Nutritional values per 100g/ml:** 100g; 83.0 kcal; fat 1.3g; carbs 10.9g; sugar 3.2g; protein 6.9g; salt 0.2g
-- **Nutritional values per ½ Deluxe Tub:** 360g; 298.8 kcal; fat 4.6g; carbs 39.3g; sugar 11.7g; protein 24.9g; salt 0.6g
-- **Nutritional values total:** 719g; 596.8 kcal; fat 9.2g; carbs 78.5g; sugar 23.3g; protein 49.8g; salt 1.1g
-- **FPDF / PAC (target 20..30):** 22.98
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 33.37% • LOW-FAT • Low-Sugar • Hi-Protein
-- **Milk Solids Non-Fat (MSNF, 7-11%):** 36.1g • 5.0%
+- **Nutritional values per 100g/ml:** 100g; 106.7 kcal; fat 1.9g; carbs 12.8g; sugar 5.1g; protein 8.3g; salt 0.2g
+- **Nutritional values per ½ Deluxe Tub:** 360g; 384.0 kcal; fat 6.7g; carbs 46.0g; sugar 18.4g; protein 29.7g; salt 0.7g
+- **Nutritional values total:** 720g; 768.1 kcal; fat 13.4g; carbs 92.0g; sugar 36.8g; protein 59.4g; salt 1.4g
+- **FPDF / PAC (target 20..30):** 31.23
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 30.94% • LOW-FAT • Hi-Protein
+- **Milk Solids Non-Fat (MSNF, 7-11%):** 61.3g • 8.5%
