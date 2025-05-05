@@ -1,13 +1,13 @@
 Almond Buttermilk (Deluxe);;;;;;;;;;;;
 ;;;;;;;;;;;;
 ;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;
-Nutritional values per 100g/ml;100;g;;118.0;5.3;14.2;5.2;5.1;0.2;;;
-Nutritional values per ½ Deluxe Tub;360;g;;425.0;19.1;51.1;18.9;18.5;0.9;;;
-Nutritional values total;695;g;;820.4;37.0;98.7;36.5;35.7;1.7;;;
+Nutritional values per 100g/ml;100;g;;113.9;5.1;13.7;5.1;5.0;0.2;;;
+Nutritional values per ½ Deluxe Tub;360;g;;410.2;18.5;49.4;18.2;17.9;0.9;;;
+Nutritional values total;720;g;;820.4;37.0;98.7;36.5;35.7;1.7;;;
 ;;;;;;;;;;;;
-FPDF / PAC (target 20..30);34.00;;;;;;;;;;;
+FPDF / PAC (target 20..30);32.82;;;;;;;;;;;
 "Protein / Energy Ratio (ok=12%; hi=20%)";17.43%;;;;;;;;;;;
-Milk Solids Non-Fat (MSNF, 7-11%);67.4;g;;9.7%;;;;;;;;
+Milk Solids Non-Fat (MSNF, 7-11%);67.4;g;;9.4%;;;;;;;;
 ;;;;;;;;;;;;
 Process on Lite Ice Cream.;;;;;;;;;;;;
 ;;;;;;;;;;;;
@@ -30,3 +30,5 @@ Flavor drops Cookies&Cream [Nick’s];10.00;drops;1;;;;;;;;;with stevia
 ICSv2 [Erythritol / CMC / Tara / XG / Inulin];30.00;g;2;107.3;0.0;54.7;3.7;0.1;1.7;1.32;;http://bit.ly/4frc4Vj
 Xylitol;30.00;g;2;238.00;;100.00;;;;2.20;;"POD = 100%; GI = 7"
 Skim Milkpowder 1:10 [Vita2You];20.00;g;2;358.00;0.97;50.50;50.50;35.00;1.00;0.51;94.03;
+;;;;;;;;;;;;
+Water to MAX line;25.00;ml;3;;;;;;;;;
