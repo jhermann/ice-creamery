@@ -5,7 +5,11 @@ Processed on *Lite Ice Cream*, with scrape-down and a respin.
 
 > <img width=360 alt="Spun Ice Cream" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/recipes/Almond%20Buttermilk%20(Deluxe)/almond-buttermilk_2025-05-06_1.jpg" />
 
-Rating: 😋
+After 2 hours of freezing for firmer consistency — still on the soft side, but this will firm up further overnight.
+
+> <img width=360 alt="Spun Ice Cream" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/recipes/Almond%20Buttermilk%20(Deluxe)/almond-buttermilk_2025-05-06_2.jpg" />
+
+Rating: 😋😋😋😋😋
 
 # INGREDIENTS
 
