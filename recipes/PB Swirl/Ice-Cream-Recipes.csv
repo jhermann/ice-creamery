@@ -1,0 +1,31 @@
+PB Swirl;;;;;;;;;;;;
+;;;;;;;;;;;;
+;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;
+Nutritional values per 100g/ml;100;g;;318.1;25.1;18.2;3.4;11.7;0.3;;;
+Nutritional values total;100;g;;318.9;25.2;18.2;3.4;11.8;0.3;;;
+;;;;;;;;;;;;
+FPDF / PAC (target 20..30);28.85;;;;;;;;;;;
+;;;;;;;;;;;;
+"This adds a swirl to your processed creami base. The recipe for the base must allow to refreeze after processing.
+
+1. Put ingredients into a bowl, and stir with a spoon until smooth.";;;;;;;;;;;;
+;;;;;;;;;;;;
+"1. Make *several* small holes in your processed base, using the handle of a cooking spoon.
+The base should not be too soft for this.
+Place one hole in the center and 6 to 8 holes in a circle.";;;;;;;;;;;;
+;;;;;;;;;;;;
+"1. Then fill those holes with the cream/PB mix, and use the pointy end of a chopstick
+to *carefully* fold the base and the swirl into each other, without mixing.
+
+1. This is best done by slowly moving the chopstick in a circle,
+sticking it diagonally into the base, while also slowly turning the tub until you did a full circle.";;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment
+Cream 32%;70.00;ml;1;311.00;32.00;3.20;3.20;2.50;0.13;0.03;6.32;
+PB powder;20.00;g;1;387.00;14.00;30.00;6.00;50.00;0.00;0.06;;
+Xylitol;10.00;g;1;238.00;;100.00;;;;2.20;;"POD = 100%; GI = 7"
+Salt;0.25;g;1;;;;;;100.00;5.90;;5-7 shakes
