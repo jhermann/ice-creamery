@@ -1,5 +1,8 @@
 # Vanilla Protein (Deluxe)
 
+This is my usual base, but pure vanilla, no cream or cottage cheese, and double the protein powder.
+Low fat & sugar, and high protein.
+
 Process on Lite Ice Cream.
 
 > <img width=360 alt="Spun Ice Cream" src="" />
