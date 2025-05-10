@@ -1,0 +1,31 @@
+Vanilla Protein (Deluxe);;;;;;;;;;;;
+;;;;;;;;;;;;
+;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;
+Nutritional values per 100g/ml;100;g;;85.4;1.3;11.7;3.3;8.4;0.2;;;
+Nutritional values per ½ Deluxe Tub;360;g;;307.4;4.7;42.3;11.9;30.4;0.6;;;
+Nutritional values total;720;g;;614.8;9.5;84.6;23.9;60.8;1.3;;;
+;;;;;;;;;;;;
+FPDF / PAC (target 20..30);30.71;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";39.58%;;;;LOW-FAT;;Low-Sugar;Hi-Protein;;;;
+Milk Solids Non-Fat (MSNF, 7-11%);90.2;g;;12.5%;;;;;;;;
+;;;;;;;;;;;;
+Process on Lite Ice Cream.;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+Rating: 😋;;;;;;;;;;;;
+30g Ice Cream Stabilizer (ICSv2) is;"14.3g erythritol, 1.43g Tylose powder (CMC, E466), 
+0.5g tara gum (E417), 0.15g xanthan (E415),
+14.3g inulin, 0.5g salt.";;;;;;;;;;;
+The [brand names] used are in brackets.;;;;;;;;;;;;
+;;;;;;;;;;;;
+Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment
+Skim Milk 1.5% [Weihenstephan];400.00;ml;1;47.00;1.50;4.90;4.90;3.50;0.11;0.05;9.16;
+Glycerin (E422, VG) [hd-line];15.00;g;1;400.00;;99.00;;;;3.70;;"POD = 60%; GI = 5; Density = 1.26 g/ml"
+Brandy “Williams Birne” 40 vol%;10.00;g;1;280.00;;;;;;2.96;;
+Flavor drops Vanilla [IronMaxx];5.00;drops;1;;;;;;;;;with sucralose
+Whey protein Vanilla [MaxiNutrition];60.00;g;2;392.00;5.80;6.20;5.30;78.00;0.57;0.05;89.20;
+ICSv2 [Erythritol / CMC / Tara / XG / Inulin];30.00;g;2;107.3;0.0;54.7;3.7;0.1;1.7;1.32;;http://bit.ly/4frc4Vj
+Xylitol;30.00;g;2;238.00;;100.00;;;;2.20;;"POD = 100%; GI = 7"
+;;;;;;;;;;;;
+Water to MAX line;175.00;ml;3;;;;;;;;;
