@@ -1,20 +1,21 @@
 Vanil-Low (Deluxe);;;;;;;;;;;;
 ;;;;;;;;;;;;
 ;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;
-Nutritional values per 100g/ml;100;g;;45.5;2.5;6.1;0.3;2.6;0.7;;;
-Nutritional values per ½ Deluxe Tub;360;g;;163.8;8.9;21.9;1.2;9.2;2.4;;;
-Nutritional values total;715;g;;325.4;17.8;43.4;2.5;18.3;4.8;;;
+Nutritional values per 100g/ml;100;g;;49.3;2.5;6.5;0.3;2.6;0.7;;;
+Nutritional values per ½ Deluxe Tub;360;g;;177.4;9.0;23.5;1.2;9.3;2.4;;;
+Nutritional values total;710;g;;349.9;17.8;46.4;2.5;18.3;4.8;;;
 ;;;;;;;;;;;;
-FPDF / PAC (target 20..30);20.30;;;;;;;;;;;
-"Protein / Energy Ratio (ok=12%; hi=20%)";22.44%;;;;LOW-FAT;;Low-Sugar;Hi-Protein;;;;
-Milk Solids Non-Fat (MSNF, 7-11%);16.0;g;;2.2%;;;;;;;;
+FPDF / PAC (target 20..30);22.28;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";20.87%;;;;LOW-FAT;;Low-Sugar;Hi-Protein;;;;
+Milk Solids Non-Fat (MSNF, 7-11%);16.0;g;;2.3%;;;;;;;;
 ;;;;;;;;;;;;
 Process on Lite Ice Cream.;;;;;;;;;;;;
 ;;;;;;;;;;;;
 "Use 20g *Ube Yam Root powder* instead of the vanilla
-for a different taste and color, and 53 kcal/100g.";;;;;;;;;;;;
+for a different taste and color, and with 7 kcal/100g more.";;;;;;;;;;;;
 ;;;;;;;;;;;;
-;;;;;;;;;;;;
+"If you have access to it (North America), you can use 40g Allulose as sweetener,
+instead of the sugar alcohols and for 4 kcal/100g less.";;;;;;;;;;;;
 ;;;;;;;;;;;;
 The [brand names] used are in brackets.;;;;;;;;;;;;
 ;;;;;;;;;;;;
@@ -22,11 +23,13 @@ Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment
 Almond milk (unsweetened);550.00;ml;1;29.00;2.50;0.50;0.00;1.00;0.10;;;
 Cottage Cheese 4% [REWE Bio];100.00;g;1;91.00;4.00;1.00;1.00;12.70;0.69;0.01;16.00;
 Glycerin (E422, VG) [hd-line];5.00;g;1;400.00;;99.00;;;;3.70;;"POD = 60%; GI = 5; Density = 1.26 g/ml"
-Allulose;40.00;g;2;40.00;;80.00;;;;1.90;;"Sweetness = 70%; GI  ~= 0"
+Brandy “Williams Birne” 40 vol%;;g;1;280.00;;;;;;2.96;;
+Erythritol (E968);20.00;g;2;24.00;0.00;100.00;0.00;0.00;0.00;2.80;;POD = 75%
+Xylitol;15.00;g;2;238.00;;100.00;;;;2.20;;"POD = 100%; GI = 7"
 Inulin [Vit4ever];10.00;g;2;210.00;;8.00;8.00;;0.20;0.09;;"Sweetness = 8%; GI ~= 0"
 Vanilla Bean Powder ;5.00;g;2;288.00;0.10;13.00;13.00;0.00;0.00;;;
 Salt;3.50;g;2;0.00;0.00;0.00;0.00;0.00;100.00;5.90;;
 Tara gum (E417);1.00;g;2;185.00;0.31;87.00;0.00;2.26;0.00;;;
 Xanthan gum (E415, XG);0.50;g;2;320.00;0.00;78.00;0.00;6.00;1.00;;;
+Allulose;;g;2;40.00;;80.00;;;;1.90;;"Sweetness = 70%; GI  ~= 0"
 Ube Yam Root powder [Fil Choice];;g;2;382.00;0.60;83.00;9.50;6.10;0.30;0.10;;like vanilla+pistachio
-Brandy “Williams Birne” 40 vol%;;g;1;280.00;;;;;;2.96;;
