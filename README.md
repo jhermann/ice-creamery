@@ -1,5 +1,7 @@
 > **ice-creamery** • A collection of my tested / approved Ninja Creami recipes.
 
+> <img width=720 alt="Gelato Cart" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/assets/gelato-cart.webp" />
+
 **Contents**
 - [What's this?](#whats-this)
 - [Structure of the recipe spreadsheet](#structure-of-the-recipe-spreadsheet)
