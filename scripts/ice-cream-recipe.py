@@ -69,7 +69,7 @@ def main():
     lines = []
     nutrition = []
     steps = {  # These correlate to the "#" column in the sheet's ingredient list, with prep ~ 0 and mix-in ~ 4
-        'Prep': 'Prepare the ingredients, e.g. bloom the cocoa.',
+        'Prep': 'Prepare specified ingredients by dissolving / hydrating in hot water.',
         'Wet': 'Add "wet" ingredients to empty Creami tub.',
         'Dry': """
             Weigh and mix dry ingredients, easiest by adding to a jar with a secure lid and shaking vigorously.
@@ -82,6 +82,9 @@ def main():
             ' For that, add partial amounts into a hole going down to the bottom, and fold the ice cream over, building pockets of mix-ins.',
         'Topping Options': '',
     }
+    premix = [
+        ' 1. Add the prepared dry ingredients, and blend QUICKLY using an immersion blender on full speed.',
+    ]
     freezing = [  # inserted before 'mix-in' step
         ' 1. Put on the lid, freeze for 24h, then spin as usual. Flatten any humps before that.',
         ' 1. Process with RE-SPIN mode when not creamy enough after the first spin.',
@@ -90,7 +93,10 @@ def main():
         ' 1. After mixing, let the base sit in the fridge for at least 30min (better 2h),'
         ' for the seeds to properly soak. Stir before freezing.',
     ]
+    STEP_PREP = 0
+    STEP_WET = 1
     STEP_DRY = 2
+    STEP_FILL = 3
     STEP_MIX_IN = 4
 
     def handle_top_row(row):
@@ -175,6 +181,7 @@ def main():
         lines.extend(['', f'**{name}**', ''])
         for ingredient in recipe[step]:
             ingredient['spacer'] = '' if ingredient['unit'] in {'g', 'ml'} else ' '
+            ingredient['amount'] = ingredient['amount'].replace(".50", ".5")
             lines.append('  - _{amount}{spacer}{unit}_ {ingredients}'.format(**ingredient))
             if ingredient['comment']:
                 lines[-1] += f" • {ingredient['comment']}"
@@ -182,6 +189,9 @@ def main():
     # Add directions
     lines.extend(['', subtitle('Directions'), ''])
     for step, (name, directions) in enumerate(steps.items()):
+        if step == STEP_PREP:
+            if recipe[STEP_PREP] and not any('water' in x['ingredients'].lower() for x in recipe[STEP_PREP]):
+                continue
         if step == STEP_MIX_IN:
             if any('chia' in x['ingredients'].lower() for x in recipe[STEP_DRY]):
                 lines.extend(soaking)
@@ -189,6 +199,9 @@ def main():
         if recipe[step]:  # we have ingredients for this step?
             for line in [x.strip() for x in directions.strip().splitlines()]:
                 lines.append(f' 1. {line}')
+        if step == STEP_WET:
+            if recipe[STEP_PREP] and not any('water' in x['ingredients'].lower() for x in recipe[STEP_PREP]):
+                lines.extend(premix)
 
     # Add nutritional info
     lines.extend(['', subtitle('Nutritional & Other Info'), '- ' + '\n- '.join(nutrition)])
