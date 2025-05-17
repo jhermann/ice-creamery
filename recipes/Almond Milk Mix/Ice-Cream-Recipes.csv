@@ -1,0 +1,34 @@
+Almond Milk Mix;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;
+Nutritional values per 100g/ml;100;g;;136.0;0.0;76.9;1.6;0.2;4.1;;;;
+Nutritional values per serving;50;g;;68.0;0.0;38.4;0.8;0.1;2.0;;;;
+Nutritional values total;500;g;;679.9;0.1;384.3;8.0;0.8;20.3;;;;
+;;;;;;;;;;;;;
+FPDF / PAC (target 20..30);229.50;;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";0.44%;;;;LOW-FAT;;Low-Sugar;;;;;;
+Milk Solids Non-Fat (MSNF, 7-11%);0.0;g;;0.0%;;;;;;;;;
+;;;;;;;;;;;;;
+Prepared mix of ‘flavor-free’ dry ingredients for bases using almond milk.;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+"This yields ten 50g servings intended for a Deluxe recipe, in total 500g.
+
+If you use low-cal flavoring, the resulting base typically ends up at 50..55kcal / 100g energy.";;;;;;;;;;;;;
+;;;;;;;;;;;;;
+"If you have access to it (North America), you can use 400g Allulose as sweetener,
+instead of the sugar alcohols and for 4 kcal/100g less.";;;;;;;;;;;;;
+;;;;;;;;;;;;;
+The [brand names] used are in brackets.;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment;
+Almond milk (unsweetened) [REWE Bio];;ml;1;19.00;1.70;0.00;0.00;0.80;0.15;;;with guar gum (<1.5g);5500.00
+Cottage Cheese 4% [REWE Bio];;g;1;91.00;4.00;1.00;1.00;12.70;0.69;0.01;16.00;;1000.00
+Brandy “Williams Birne” 40 vol%;;g;1;280.00;;;;;;2.96;;;100.00
+Glycerin (E422, VG) [hd-line];;g;1;400.00;;99.00;;;;3.70;;"POD = 60%; GI = 5; Density = 1.26 g/ml";100.00
+;;;;;;;;;;;;;
+Erythritol (E968);200.00;g;2;24.00;0.00;100.00;0.00;0.00;0.00;2.80;;POD = 75%;
+Xylitol;155.00;g;2;238.00;;100.00;;;;2.20;;"POD = 100%; GI = 7";
+Inulin [Vit4ever];100.00;g;2;210.00;;8.00;8.00;;0.20;0.09;;"Sweetness = 8%; GI ~= 0";
+Salt;20.00;g;2;0.00;0.00;0.00;0.00;0.00;100.00;5.90;;;
+Tara gum (E417);20.00;g;2;185.00;0.31;87.00;0.00;2.26;0.00;;;;
+Xanthan gum (E415, XG);5.00;g;2;320.00;0.00;78.00;0.00;6.00;1.00;;;;
