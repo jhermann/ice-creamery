@@ -7,6 +7,9 @@ Process on Lite Ice Cream.
 Use 20g *Ube Yam Root powder* instead of the vanilla
 for a different taste and color, and with 7 kcal/100g more.
 
+Or 20g Strawberry powder and strawberry flavor drops
+instead of the vanilla ones (same caloric impact).
+
 If you have access to it (North America), you can use 40g Allulose as sweetener,
 instead of the sugar alcohols and for 4 kcal/100g less.
 
@@ -16,18 +19,19 @@ instead of the sugar alcohols and for 4 kcal/100g less.
 
 **Wet**
 
-  - _550ml_ Almond milk (unsweetened)
+  - _550ml_ Almond milk (unsweetened) [REWE Bio] • with guar gum (<1.5g)
   - _100g_ Cottage Cheese 4% [REWE Bio]
-  - _5g_ Glycerin (E422, VG) [hd-line] • POD = 60%; GI = 5; Density = 1.26 g/ml
+  - _10g_ Brandy “Williams Birne” 40 vol%
+  - _10g_ Glycerin (E422, VG) [hd-line] • POD = 60%; GI = 5; Density = 1.26 g/ml
+  - _7 drops_ Flavor drops Vanilla [IronMaxx] • with sucralose
 
 **Dry**
 
   - _20g_ Erythritol (E968) • POD = 75%
-  - _15g_ Xylitol • POD = 100%; GI = 7
+  - _15.5g_ Xylitol • POD = 100%; GI = 7
   - _10g_ Inulin [Vit4ever] • Sweetness = 8%; GI ~= 0
-  - _5g_ Vanilla Bean Powder 
-  - _3.5g_ Salt
-  - _1g_ Tara gum (E417)
+  - _2g_ Salt
+  - _2g_ Tara gum (E417)
   - _0.5g_ Xanthan gum (E415, XG)
 
 # DIRECTIONS
@@ -40,9 +44,9 @@ instead of the sugar alcohols and for 4 kcal/100g less.
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
 
 # NUTRITIONAL & OTHER INFO
-- **Nutritional values per 100g/ml:** 100g; 49.3 kcal; fat 2.5g; carbs 6.5g; sugar 0.3g; protein 2.6g; salt 0.7g
-- **Nutritional values per ½ Deluxe Tub:** 360g; 177.4 kcal; fat 9.0g; carbs 23.5g; sugar 1.2g; protein 9.3g; salt 2.4g
-- **Nutritional values total:** 710g; 349.9 kcal; fat 17.8g; carbs 46.4g; sugar 2.5g; protein 18.3g; salt 4.8g
-- **FPDF / PAC (target 20..30):** 22.28
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 20.87% • LOW-FAT • Low-Sugar • Hi-Protein
-- **Milk Solids Non-Fat (MSNF, 7-11%):** 16.0g • 2.3%
+- **Nutritional values per 100g/ml:** 100g; 46.0 kcal; fat 1.9g; carbs 6.9g; sugar 0.3g; protein 2.4g; salt 0.5g
+- **Nutritional values per ½ Deluxe Tub:** 360g; 165.7 kcal; fat 6.7g; carbs 24.7g; sugar 0.9g; protein 8.6g; salt 1.8g
+- **Nutritional values total:** 720g; 331.5 kcal; fat 13.4g; carbs 49.3g; sugar 1.8g; protein 17.2g; salt 3.5g
+- **FPDF / PAC (target 20..30):** 26.57
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 20.72% • LOW-FAT • Low-Sugar • Hi-Protein
+- **Milk Solids Non-Fat (MSNF, 7-11%):** 16.0g • 2.2%

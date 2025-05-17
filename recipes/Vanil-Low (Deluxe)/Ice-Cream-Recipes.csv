@@ -1,18 +1,21 @@
 Vanil-Low (Deluxe);;;;;;;;;;;;
 ;;;;;;;;;;;;
 ;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;
-Nutritional values per 100g/ml;100;g;;49.3;2.5;6.5;0.3;2.6;0.7;;;
-Nutritional values per ½ Deluxe Tub;360;g;;177.4;9.0;23.5;1.2;9.3;2.4;;;
-Nutritional values total;710;g;;349.9;17.8;46.4;2.5;18.3;4.8;;;
+Nutritional values per 100g/ml;100;g;;46.0;1.9;6.9;0.3;2.4;0.5;;;
+Nutritional values per ½ Deluxe Tub;360;g;;165.7;6.7;24.7;0.9;8.6;1.8;;;
+Nutritional values total;720;g;;331.5;13.4;49.3;1.8;17.2;3.5;;;
 ;;;;;;;;;;;;
-FPDF / PAC (target 20..30);22.28;;;;;;;;;;;
-"Protein / Energy Ratio (ok=12%; hi=20%)";20.87%;;;;LOW-FAT;;Low-Sugar;Hi-Protein;;;;
-Milk Solids Non-Fat (MSNF, 7-11%);16.0;g;;2.3%;;;;;;;;
+FPDF / PAC (target 20..30);26.57;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";20.72%;;;;LOW-FAT;;Low-Sugar;Hi-Protein;;;;
+Milk Solids Non-Fat (MSNF, 7-11%);16.0;g;;2.2%;;;;;;;;
 ;;;;;;;;;;;;
 Process on Lite Ice Cream.;;;;;;;;;;;;
 ;;;;;;;;;;;;
 "Use 20g *Ube Yam Root powder* instead of the vanilla
-for a different taste and color, and with 7 kcal/100g more.";;;;;;;;;;;;
+for a different taste and color, and with 7 kcal/100g more.
+
+Or 20g Strawberry powder and strawberry flavor drops
+instead of the vanilla ones (same caloric impact).";;;;;;;;;;;;
 ;;;;;;;;;;;;
 "If you have access to it (North America), you can use 40g Allulose as sweetener,
 instead of the sugar alcohols and for 4 kcal/100g less.";;;;;;;;;;;;
@@ -20,16 +23,20 @@ instead of the sugar alcohols and for 4 kcal/100g less.";;;;;;;;;;;;
 The [brand names] used are in brackets.;;;;;;;;;;;;
 ;;;;;;;;;;;;
 Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment
-Almond milk (unsweetened);550.00;ml;1;29.00;2.50;0.50;0.00;1.00;0.10;;;
+Almond milk (unsweetened) [REWE Bio];550.00;ml;1;19.00;1.70;0.00;0.00;0.80;0.15;;;with guar gum (<1.5g)
 Cottage Cheese 4% [REWE Bio];100.00;g;1;91.00;4.00;1.00;1.00;12.70;0.69;0.01;16.00;
-Glycerin (E422, VG) [hd-line];5.00;g;1;400.00;;99.00;;;;3.70;;"POD = 60%; GI = 5; Density = 1.26 g/ml"
-Brandy “Williams Birne” 40 vol%;;g;1;280.00;;;;;;2.96;;
+Brandy “Williams Birne” 40 vol%;10.00;g;1;280.00;;;;;;2.96;;
+Glycerin (E422, VG) [hd-line];10.00;g;1;400.00;;99.00;;;;3.70;;"POD = 60%; GI = 5; Density = 1.26 g/ml"
+Flavor drops Vanilla [IronMaxx];7.00;drops;1;;;;;;;;;with sucralose
+Flavor drops Strawberry [IronMaxx];;drops;1;;;;;;;;;with sucralose
+Vanilla Extract (w/ alcohol) [Native Vanilla];;ml;1;300.00;;;;;;2.22;;
 Erythritol (E968);20.00;g;2;24.00;0.00;100.00;0.00;0.00;0.00;2.80;;POD = 75%
-Xylitol;15.00;g;2;238.00;;100.00;;;;2.20;;"POD = 100%; GI = 7"
+Xylitol;15.50;g;2;238.00;;100.00;;;;2.20;;"POD = 100%; GI = 7"
 Inulin [Vit4ever];10.00;g;2;210.00;;8.00;8.00;;0.20;0.09;;"Sweetness = 8%; GI ~= 0"
-Vanilla Bean Powder ;5.00;g;2;288.00;0.10;13.00;13.00;0.00;0.00;;;
-Salt;3.50;g;2;0.00;0.00;0.00;0.00;0.00;100.00;5.90;;
-Tara gum (E417);1.00;g;2;185.00;0.31;87.00;0.00;2.26;0.00;;;
+Salt;2.00;g;2;0.00;0.00;0.00;0.00;0.00;100.00;5.90;;
+Tara gum (E417);2.00;g;2;185.00;0.31;87.00;0.00;2.26;0.00;;;
 Xanthan gum (E415, XG);0.50;g;2;320.00;0.00;78.00;0.00;6.00;1.00;;;
 Allulose;;g;2;40.00;;80.00;;;;1.90;;"Sweetness = 70%; GI  ~= 0"
+Strawberry powder [Supergarden];;g;2;287.00;3.70;50.90;50.60;7.60;0.00;0.51;;
 Ube Yam Root powder [Fil Choice];;g;2;382.00;0.60;83.00;9.50;6.10;0.30;0.10;;like vanilla+pistachio
+Vanilla Bean Powder ;;g;2;288.00;0.10;13.00;13.00;0.00;0.00;;;
