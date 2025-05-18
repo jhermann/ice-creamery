@@ -19,20 +19,25 @@ instead of the sugar alcohols and for 4 kcal/100g less.
 
 **Wet**
 
-  - _550ml_ Almond milk (unsweetened) [REWE Bio] • with guar gum (<1.5g)
+  - _500ml_ Almond milk (unsweetened) [REWE Bio] • with guar gum (<1.5g)
   - _100g_ Cottage Cheese 4% [REWE Bio]
+  - _15g_ Glycerin (E422, VG) [hd-line] • POD = 60%; GI = 5; Density = 1.26 g/ml
   - _10g_ Brandy “Williams Birne” 40 vol%
-  - _10g_ Glycerin (E422, VG) [hd-line] • POD = 60%; GI = 5; Density = 1.26 g/ml
-  - _7 drops_ Flavor drops Vanilla [IronMaxx] • with sucralose
 
 **Dry**
 
   - _20g_ Erythritol (E968) • POD = 75%
-  - _15.5g_ Xylitol • POD = 100%; GI = 7
-  - _10g_ Inulin [Vit4ever] • Sweetness = 8%; GI ~= 0
+  - _20g_ Xylitol • POD = 100%; GI = 7
+  - _15g_ Inulin [Vit4ever] • Sweetness = 8%; GI ~= 0
+  - _10g_ Vanilla Bean Powder 
+  - _10g_ Whey protein Vanilla [MaxiNutrition]
   - _2g_ Salt
   - _2g_ Tara gum (E417)
   - _0.5g_ Xanthan gum (E415, XG)
+
+**Fill to MAX**
+
+  - _15.5ml_ Water to MAX line
 
 # DIRECTIONS
 
@@ -40,13 +45,14 @@ instead of the sugar alcohols and for 4 kcal/100g less.
  1. Weigh and mix dry ingredients, easiest by adding to a jar with a secure lid and shaking vigorously.
  1. Pour into the tub and *QUICKLY* use an immersion blender on full speed to homogenize everything.
  1. Let blender run until thickeners are properly hydrated, up to 1-2 min. Or blend again after waiting that time.
+ 1. Add remaining ingredients (to the MAX line) and stir with a spoon.
  1. Put on the lid, freeze for 24h, then spin as usual. Flatten any humps before that.
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
 
 # NUTRITIONAL & OTHER INFO
-- **Nutritional values per 100g/ml:** 100g; 46.0 kcal; fat 1.9g; carbs 6.9g; sugar 0.3g; protein 2.4g; salt 0.5g
-- **Nutritional values per ½ Deluxe Tub:** 360g; 165.7 kcal; fat 6.7g; carbs 24.7g; sugar 0.9g; protein 8.6g; salt 1.8g
-- **Nutritional values total:** 720g; 331.5 kcal; fat 13.4g; carbs 49.3g; sugar 1.8g; protein 17.2g; salt 3.5g
-- **FPDF / PAC (target 20..30):** 26.57
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 20.72% • LOW-FAT • Low-Sugar • Hi-Protein
-- **Milk Solids Non-Fat (MSNF, 7-11%):** 16.0g • 2.2%
+- **Nutritional values per 100g/ml:** 100g; 59.9 kcal; fat 1.8g; carbs 8.5g; sugar 0.6g; protein 3.4g; salt 0.5g
+- **Nutritional values per ½ Deluxe Tub:** 360g; 215.6 kcal; fat 6.5g; carbs 30.6g; sugar 2.0g; protein 12.3g; salt 1.8g
+- **Nutritional values total:** 720g; 431.2 kcal; fat 13.1g; carbs 61.1g; sugar 4.0g; protein 24.6g; salt 3.5g
+- **FPDF / PAC (target 20..30):** 30.64
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 22.80% • LOW-FAT • Low-Sugar • Hi-Protein
+- **Milk Solids Non-Fat (MSNF, 7-11%):** 24.9g • 3.5%
