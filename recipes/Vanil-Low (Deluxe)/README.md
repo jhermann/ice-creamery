@@ -1,4 +1,6 @@
 # Vanil-Low (Deluxe)
+> <img width=240 alt="Logo" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/recipes/Vanil-Low%20(Deluxe)/logo-vanil-low.png
+" />
 
 Process on Lite Ice Cream.
 
