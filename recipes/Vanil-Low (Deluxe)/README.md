@@ -1,9 +1,19 @@
 # Vanil-Low (Deluxe)
 > <img width=240 alt="Logo" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/recipes/Vanil-Low%20(Deluxe)/logo-vanil-low.png" />
 
-Process on Lite Ice Cream.
+Vanilla ice cream based on almond milk and cottage cheese, clocking on at 60kcal / 100g.
+Process on Frozen Yogurt.
 
-> <img width=360 alt="Spun Ice Cream" src="" />
+> <img width=360 alt="Spun Ice Cream" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/recipes/Vanil-Low%20(Deluxe)/Vanillow_2025-05-22_1.jpg" />
+
+Scrape down the sides, process again on Ice Cream.
+
+> <img width=360 alt="Spun Ice Cream" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/recipes/Vanil-Low%20(Deluxe)/Vanillow_2025-05-22_2.jpg" />
+>
+> *Served with walnut pieces and pomegranate syrup,*
+> *after firming up an hour in the freezer.*
+>
+> Rating: 😋😋😋😋😋
 
 Use 20g *Ube Yam Root powder* instead of the vanilla
 for a different taste and color, and with 7 kcal/100g more.
@@ -30,7 +40,7 @@ instead of the sugar alcohols and for 4 kcal/100g less.
   - _20g_ Erythritol (E968) • POD = 75%
   - _20g_ Xylitol • POD = 100%; GI = 7
   - _15g_ Inulin [Vit4ever] • Sweetness = 8%; GI ~= 0
-  - _10g_ Vanilla Bean Powder 
+  - _10g_ Vanilla Bean Powder [InterVanilla]
   - _10g_ Whey protein Vanilla [MaxiNutrition]
   - _2g_ Salt
   - _2g_ Tara gum (E417)
