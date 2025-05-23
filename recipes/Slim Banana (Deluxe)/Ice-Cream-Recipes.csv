@@ -1,11 +1,11 @@
 Slim Banana (Deluxe);;;;;;;;;;;;
 ;;;;;;;;;;;;
 ;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;
-Nutritional values per 100g/ml;100;g;;76.1;2.5;13.0;4.2;1.5;0.1;;;
-Nutritional values per ½ Deluxe Tub;360;g;;273.9;8.9;46.8;15.1;5.4;0.5;;;
-Nutritional values total;720;g;;547.7;17.7;93.5;30.2;10.8;1.0;;;
+Nutritional values per 100g/ml;100;g;;72.6;2.2;12.8;4.2;1.4;0.2;;;
+Nutritional values per ½ Deluxe Tub;360;g;;261.4;7.9;46.1;15.1;5.1;0.6;;;
+Nutritional values total;720;g;;522.7;15.7;92.3;30.2;10.3;1.2;;;
 ;;;;;;;;;;;;
-FPDF / PAC (target 20..30);28.75;;;;;;;;;;;
+FPDF / PAC (target 20..30);28.86;;;;;;;;;;;
 "Protein / Energy Ratio (ok=12%; hi=20%)";7.85%;;;;LOW-FAT;;Low-Sugar;;;;;
 Milk Solids Non-Fat (MSNF, 7-11%);17.1;g;;2.4%;;;;;;;;
 ;;;;;;;;;;;;
@@ -20,7 +20,7 @@ Rating: 😋😋😋😋🍌;;;;;;;;;;;;
 The [brand names] used are in brackets.;;;;;;;;;;;;
 ;;;;;;;;;;;;
 Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment
-Almond milk (unsweetened);250.00;ml;1;29.00;2.50;0.50;0.00;1.00;0.10;;;
+Almond milk (unsweetened) [REWE Bio];250.00;ml;1;19.00;1.70;0.00;0.00;0.80;0.15;;;with guar gum (<1.5g)
 Bananas (peeled);125.00;g;1;108.00;0.60;21.50;16.00;1.22;0.03;0.16;;1 mid-size banana, eat any surplus 😋
 Greek Yogurt 9% [Lyttos];100.00;g;1;113.00;9.20;3.80;3.80;3.20;0.13;0.04;7.91;
 Skim Milk 1.5% [Weihenstephan];100.00;ml;1;47.00;1.50;4.90;4.90;3.50;0.11;0.05;9.16;

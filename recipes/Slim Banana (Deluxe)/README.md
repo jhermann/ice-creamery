@@ -12,7 +12,7 @@ Rating: 😋😋😋😋🍌
 
 **Wet**
 
-  - _250ml_ Almond milk (unsweetened)
+  - _250ml_ Almond milk (unsweetened) [REWE Bio] • with guar gum (<1.5g)
   - _125g_ Bananas (peeled) • 1 mid-size banana, eat any surplus 😋
   - _100g_ Greek Yogurt 9% [Lyttos]
   - _100ml_ Skim Milk 1.5% [Weihenstephan]
@@ -40,10 +40,10 @@ Rating: 😋😋😋😋🍌
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
 
 # NUTRITIONAL & OTHER INFO
-- **Nutritional values per 100g/ml:** 100g; 76.1 kcal; fat 2.5g; carbs 13.0g; sugar 4.2g; protein 1.5g; salt 0.1g
-- **Nutritional values per ½ Deluxe Tub:** 360g; 273.9 kcal; fat 8.9g; carbs 46.8g; sugar 15.1g; protein 5.4g; salt 0.5g
-- **Nutritional values total:** 720g; 547.7 kcal; fat 17.7g; carbs 93.5g; sugar 30.2g; protein 10.8g; salt 1.0g
-- **FPDF / PAC (target 20..30):** 28.75
+- **Nutritional values per 100g/ml:** 100g; 72.6 kcal; fat 2.2g; carbs 12.8g; sugar 4.2g; protein 1.4g; salt 0.2g
+- **Nutritional values per ½ Deluxe Tub:** 360g; 261.4 kcal; fat 7.9g; carbs 46.1g; sugar 15.1g; protein 5.1g; salt 0.6g
+- **Nutritional values total:** 720g; 522.7 kcal; fat 15.7g; carbs 92.3g; sugar 30.2g; protein 10.3g; salt 1.2g
+- **FPDF / PAC (target 20..30):** 28.86
 - **Protein / Energy Ratio (ok=12%; hi=20%):** 7.85% • LOW-FAT • Low-Sugar
 - **Milk Solids Non-Fat (MSNF, 7-11%):** 17.1g • 2.4%
 - **30g Ice Cream Stabilizer (ICSv2) is:** 14.3g erythritol, 1.43g Tylose powder (CMC, E466), 
