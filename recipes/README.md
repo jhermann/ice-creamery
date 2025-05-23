@@ -33,7 +33,7 @@ And the answer is this:
 To actually load the recipes into *NotebookLM*, you need to provide them in text format.
 Use this command in a shell while you are in the `recipes` folder:
 
-    head -999 */README.md >all-recipes.txt
+    head -9999 */README.md >all-recipes.txt
 
 The resulting file `all-recipes.txt` can now be uploaded as a text source into your notebook.
 
@@ -41,4 +41,7 @@ The resulting file `all-recipes.txt` can now be uploaded as a text source into y
 
 This is how the [Ice-Cream-Recipes.fods](https://github.com/jhermann/ice-creamery/blob/main/recipes/Ice-Cream-Recipes.fods)
 recipe template document looks like:
-> ![spreadsheet-template](https://github.com/jhermann/ice-creamery/blob/main/assets/spreadsheet-template.png?raw=true)
+
+> <img width=640 alt="spreadsheet-template" src="https://github.com/jhermann/ice-creamery/blob/main/assets/spreadsheet-template.png?raw=true" />
+>
+> *The spreadsheet with ingredient facts and ice cream calculator formulas*
