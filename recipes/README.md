@@ -2,6 +2,9 @@
 
 Click on one of the folders listed above to view a specific recipe.
 
+You can directly download this folder with the full recipe collection using
+[DownGit](https://downgit.github.io/#/home?url=https://github.com/jhermann/ice-creamery/tree/main/recipes).
+
 See the main README for more details.
 
 ----
