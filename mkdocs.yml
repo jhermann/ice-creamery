@@ -1,6 +1,7 @@
 site_name: jhermann's Ice Creamery
 site_url: https://jhermann.github.io/ice-creamery
 repo_url: https://github.com/jhermann/ice-creamery
+
 theme:
   name: material
   locale: en
@@ -9,3 +10,9 @@ theme:
   favicon: assets/favicon.png
   features:
     - navigation.tabs
+
+plugins:
+  - search
+  - social:
+      cache: true
+      cards: true
