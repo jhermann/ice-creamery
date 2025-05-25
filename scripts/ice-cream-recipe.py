@@ -24,6 +24,7 @@
     SOFTWARE.
 """
 import os
+import re
 import csv
 import subprocess
 
@@ -35,6 +36,40 @@ import yaml
 
 CSV_FILE = 'Ice-Cream-Recipes.csv'  # TODO: add argument parsing
 MD_FILE = 'recipe-{file_title}.md'
+
+DEFAULT_TAGS = set([
+    'Erythritol',
+    'Hi-Protein',
+    'Low-Fat',
+    'Low-Sugar',
+    'Stevia',
+    'Xylitol',
+    'Xanthan',
+    'Vanilla',
+])
+DEFAULT_TAGS_EXACT = {
+    '(Deluxe)': 'Deluxe',
+    'XG': 'Xanthan',
+    'CMC': 'Tylo Powder (CMC)',
+}
+
+
+def add_default_tags(md_text, docmeta):
+    """Insert YAML metadata into generated markdown text."""
+    md_text_words = set(re.split(r'[^-A-Za-z]+', md_text))
+    md_text_words_lc = set(x.lower() for x in md_text_words)
+    docmeta.setdefault('description', 'Recipe for the Ninja Creami Deluxe [24oz]')
+    docmeta.setdefault('tags', [])
+    for tag in DEFAULT_TAGS:
+        if tag.lower() in md_text_words_lc:
+            docmeta['tags'].append(tag)
+    for word, tag in DEFAULT_TAGS_EXACT.items():
+        if word in md_text_words:
+            docmeta['tags'].append(tag)
+    if docmeta:
+        docmeta['tags'] = list(sorted(set(docmeta['tags'])))
+        md_text = '---\n' + yaml.safe_dump(docmeta).rstrip() + '\n---\n' + md_text
+    return md_text
 
 
 def read_images():
@@ -58,7 +93,7 @@ def read_meta():
                 loader = yaml.SafeLoader(handle)
                 try:
                     if loader.check_node():
-                        result = loader.get_data()
+                        result = loader.get_data() or {}
                 finally:
                     loader.dispose()
 
@@ -87,7 +122,7 @@ def markdown_file(title):
 def main():
     """Main loop."""
     recipe = defaultdict(list)
-    lines = ['---', '---']
+    lines = []
     nutrition = []
     steps = {  # These correlate to the "#" column in the sheet's ingredient list, with prep ~ 0 and mix-in ~ 4
         'Prep': 'Prepare specified ingredients by dissolving / hydrating in hot water.',
@@ -229,12 +264,13 @@ def main():
     # Add nutritional info
     lines.extend(['', subtitle('Nutritional & Other Info'), '- ' + '\n- '.join(nutrition)])
 
-    # Create the Markdown file
-    if docmeta:
-        lines[1:1] = [yaml.safe_dump(docmeta).rstrip()]
+    # Add default tags
     lines.append('')  # add trailing line end
-    md_file = markdown_file(title)
     md_text = '\n'.join(lines)
+    md_text = add_default_tags(md_text, docmeta)
+
+    # Create the Markdown file
+    md_file = markdown_file(title)
     md_text = md_text.replace('http://bit.ly/4frc4Vj', '[http﹕//bit.ly/4frc4Vj]'
         '(https://github.com/jhermann/ice-creamery/tree/main/'
         'recipes/Ice%20Cream%20Stabilizer%20%28ICS%29)')  # take care of Reddit stupidness
