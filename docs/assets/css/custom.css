@@ -22,3 +22,32 @@ a.headerlink:hover:after {
   color: white;
   text-shadow: 1px 1px 0 #ffff0099;
 }
+
+a.md-tag[href$="tag:draft"] {
+  color: #ff4400 !important;
+}
+
+a.md-tag[href$="tag:erythritol"],
+a.md-tag[href$="tag:stevia"],
+a.md-tag[href$="tag:xylitol"] {
+  color: skyblue !important;
+}
+
+a.md-tag[href$="tag:guar-gum"],
+a.md-tag[href$="tag:tara-gum"],
+a.md-tag[href$="tag:xanthan"],
+a.md-tag[href$="-cmc"] {
+  color: #880033 !important;
+}
+
+a.md-tag[href*="tag:hi-"],
+a.md-tag[href*="tag:low-"] {
+  color: yellow !important;
+}
+
+a.md-tag[href*="tag:dairy"],
+a.md-tag[href*="tag:fruit"],
+a.md-tag[href*="tag:sorbet"],
+a.md-tag[href*="tag:vanilla"] {
+  color: royalblue !important;
+}
