@@ -28,7 +28,7 @@ import re
 import csv
 import subprocess
 
-from pprint import pp
+from pprint import pp  # pylint: disable=unused-import
 from pathlib import Path
 from collections import defaultdict
 
@@ -117,7 +117,7 @@ def read_meta():
     if filename.exists():
         lines = filename.read_text(encoding='utf-8').splitlines()
         if lines and lines[0] == '---':
-            with filename.open(mode='r') as handle:
+            with filename.open(mode='r', encoding='utf-8') as handle:
                 loader = yaml.SafeLoader(handle)
                 try:
                     if loader.check_node():
