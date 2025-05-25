@@ -165,7 +165,8 @@ Install the [mkvenv3](https://github.com/jhermann/ruby-slippers/blob/master/home
 script before that into your `~/bin`.
 
     sudo apt install libgtk-4-dev libevent-dev libavif-dev
-    mkvenv3 mkdocs 'mkdocs-material[imaging]' mkdocs-exporter
+    mkvenv3 mkdocs 'mkdocs-material[imaging]' mkdocs-exporter \
+        mkdocs-git-revision-date-localized-plugin
 
 Then call `mkdocs serve` in the repository's root directory.
 
