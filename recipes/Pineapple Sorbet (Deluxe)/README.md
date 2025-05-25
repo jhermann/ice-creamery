@@ -1,3 +1,15 @@
+---
+description: Recipe for the Ninja Creami Deluxe [24oz]
+tags:
+- Dairy
+- Erythritol
+- Fruit
+- Low-Fat
+- Sorbet
+- Tylo Powder (CMC)
+- Xanthan
+- Xylitol
+---
 # Pineapple Sorbet (Deluxe)
 
 Processed on Sorbet, with a re-spin.
