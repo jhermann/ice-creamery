@@ -1,0 +1,10 @@
+site_name: jhermann's Ice Creamery
+#site_url: GH pages!
+repo_url: https://github.com/jhermann/ice-creamery
+theme:
+  name: material
+  locale: en
+  include_sidebar: true
+  logo: assets/logo.png
+  features:
+    - navigation.tabs
