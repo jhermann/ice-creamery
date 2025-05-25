@@ -10,6 +10,7 @@ theme:
   favicon: assets/favicon.png
   features:
     - navigation.tabs
+    - toc.follow
 
 plugins:
   - search
@@ -57,6 +58,7 @@ plugins:
       print_page_title: "All Recipes @ jhermann's Ice Creamery"
       add_print_site_banner: false
       add_table_of_contents: true
+      toc_title: 'Table of Contents'
       toc_depth: 6
       enumerate_headings: false
       enumerate_figures: false
@@ -68,6 +70,12 @@ plugins:
         #- index.md
         #- tags.md
         - changed.md
+
+markdown_extensions:
+  - toc:
+      title: Table of Contents
+      permalink: true
+      permalink_title: Anchor link to this section for reference
 
 extra_css:
   - assets/css/link-embeds.css

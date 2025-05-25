@@ -9,3 +9,16 @@
     display: none !important;
     height: 0px;
 }
+
+a.headerlink {
+  font-size: 0;
+}
+a.headerlink:after {
+  content: '🔗';
+  font-size: initial;
+  color: #ffffff80;
+}
+a.headerlink:hover:after {
+  color: white;
+  text-shadow: 1px 1px 0 #ffff0099;
+}
