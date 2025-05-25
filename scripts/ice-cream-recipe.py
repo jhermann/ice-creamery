@@ -47,6 +47,25 @@ DEFAULT_TAGS = set([
     'Xanthan',
     'Vanilla',
 ])
+DEFAULT_TAGS_TITLE = set([
+    'Sorbet',
+])
+DEFAULT_TAG_GROUPS = {
+    'Dairy': set(['Dairy',
+        'Buttermilk',
+        'Cheese',
+    ]),
+    'Fruit': set(['Fruit'
+        'Apple', 'Apricot',
+        'Banana', 'Blueberry',
+        'Cherry',
+        'Mandarin', 'Mango',
+        'Orange',
+        'Peach', 'Pineapple', 'Plum',
+        'Strawberry',
+        'Ube',
+    ]),
+}
 DEFAULT_TAGS_EXACT = {
     '(Deluxe)': 'Deluxe',
     'XG': 'Xanthan',
@@ -58,10 +77,17 @@ def add_default_tags(md_text, docmeta):
     """Insert YAML metadata into generated markdown text."""
     md_text_words = set(re.split(r'[^-A-Za-z]+', md_text))
     md_text_words_lc = set(x.lower() for x in md_text_words)
+    md_text_title_lc = md_text.splitlines()[0].lower()
     docmeta.setdefault('description', 'Recipe for the Ninja Creami Deluxe [24oz]')
     docmeta.setdefault('tags', [])
     for tag in DEFAULT_TAGS:
         if tag.lower() in md_text_words_lc:
+            docmeta['tags'].append(tag)
+    for tag in DEFAULT_TAGS_TITLE:
+        if tag.lower() in md_text_title_lc:
+            docmeta['tags'].append(tag)
+    for tag, group in DEFAULT_TAG_GROUPS.items():
+        if any(word.lower() in md_text_words_lc for word in group):
             docmeta['tags'].append(tag)
     for word, tag in DEFAULT_TAGS_EXACT.items():
         if word in md_text_words:
