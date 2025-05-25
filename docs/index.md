@@ -11,6 +11,9 @@ This website is based on a collection of calculated recipes stored in a
 url: https://github.com/jhermann/ice-creamery#readme
 ```
 
+> 💡 You can load <a href="/ice-creamery/print_page/" target="_blank">all pages at once<sup>↗</sup></a>
+> to save the site as stand-alone HTML or PDF.
+
 The recipes are written as *LibreOffice* spreadsheets, which allows to directly
 use formulas for the calculation of important ice cream metrics and nutritional information.
 

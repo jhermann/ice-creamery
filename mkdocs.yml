@@ -51,5 +51,24 @@ plugins:
       accent: "FFFFFF1A"
       verbose: false
 
+  # must be last!
+  - print-site:
+      add_to_navigation: false
+      print_page_title: "All Recipes @ jhermann's Ice Creamery"
+      add_print_site_banner: false
+      add_table_of_contents: true
+      toc_depth: 6
+      enumerate_headings: false
+      enumerate_figures: false
+      add_cover_page: true
+      path_to_pdf: ""
+      include_css: true
+      enabled: true
+      exclude:
+        #- index.md
+        #- tags.md
+        - changed.md
+
 extra_css:
   - assets/css/link-embeds.css
+  - assets/css/custom.css
