@@ -32,6 +32,6 @@ jobs:
           restore-keys: |
             mkdocs-material-
 
-      - run: "pip install 'mkdocs-material[imaging]'"
+      - run: "pip install 'mkdocs-material[imaging]' mkdocs-exporter"
       - run: bash linkdocs.sh
       - run: mkdocs gh-deploy --force

@@ -13,6 +13,7 @@
 - [How to convert a recipe to Markdown?](#how-to-convert-a-recipe-to-markdown)
 - [How to get a live version of a recipe?](#how-to-get-a-live-version-of-a-recipe)
 - [Tips \& Tricks](#tips--tricks)
+- [Setting up mkdocs](#setting-up-mkdocs)
 - [Resources](#resources)
 
 
@@ -155,6 +156,24 @@ in parallel to a Microsoft Office installation.
    This is especially useful while experimenting and when
    you don't want to use `git` yet, where commit messages
    would take that place.
+
+
+## Setting up mkdocs
+
+To serve the recipe web site locally, you need to run the following commands.
+Install the [mkvenv3](https://github.com/jhermann/ruby-slippers/blob/master/home/bin/mkvenv3)
+script before that into your `~/bin`.
+
+    sudo apt install libgtk-4-dev libevent-dev libavif-dev
+    mkvenv3 mkdocs 'mkdocs-material[imaging]' mkdocs-exporter
+
+Then call `mkdocs serve` in the repository's root directory.
+
+You can also optionally create a PDF rendering into `site/.well-known/site.pdf`, using this command:
+
+    MKDOCS_EXPORTER_PDF=true mkdocs build
+
+More plugins are available from the [catalog](https://github.com/mkdocs/catalog).
 
 
 ## Resources

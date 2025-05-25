@@ -13,7 +13,26 @@ theme:
 
 plugins:
   - search
+
   - social:
       cards: true
-  - tags:
-      export: true
+      cards_layout_options:
+        font_family: Genos
+
+  - tags: {}
+      #export: true
+
+  - exporter:
+      formats:
+        pdf:
+          enabled: !ENV [MKDOCS_EXPORTER_PDF, false]
+          concurrency: 4
+          #stylesheets:
+          #  - resources/stylesheets/pdf.scss
+          #covers:
+          #  front: resources/templates/covers/front.html.j2
+          #  back: resources/templates/covers/back.html.j2
+          aggregator:
+            enabled: true
+            output: .well-known/site.pdf
+            covers: all
