@@ -1,0 +1,11 @@
+#print-site-page nav,
+#print-site-page .md-header,
+#print-site-page .md-sidebar,
+#print-site-page .md-footer,
+#print-site-page .md-tabs,
+#print-site-page .md-tags,
+#print-site-page .md-header__inner
+{
+    display: none !important;
+    height: 0px;
+}
