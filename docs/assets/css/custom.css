@@ -45,9 +45,12 @@ a.md-tag[href*="tag:low-"] {
   color: yellow !important;
 }
 
+a.md-tag[href*="tag:cooked-base"],
 a.md-tag[href*="tag:dairy"],
+a.md-tag[href*="tag:dairy-free"],
 a.md-tag[href*="tag:fruit"],
 a.md-tag[href*="tag:sorbet"],
-a.md-tag[href*="tag:vanilla"] {
+a.md-tag[href*="tag:vanilla"],
+a.md-tag[href*="tag:vegan"] {
   color: royalblue !important;
 }
