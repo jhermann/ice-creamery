@@ -31,6 +31,8 @@ from pprint import pp
 from pathlib import Path
 from collections import defaultdict
 
+import yaml
+
 CSV_FILE = 'Ice-Cream-Recipes.csv'  # TODO: add argument parsing
 MD_FILE = 'recipe-{file_title}.md'
 
@@ -42,6 +44,25 @@ def read_images():
     if filename.exists():
         result = [x for x in filename.read_text(encoding='utf-8').splitlines() if '<img ' in x]
     return result or ['> <img width=360 alt="Spun Ice Cream" src="" />']
+
+
+def read_meta():
+    """Read metadata from readme."""
+    result = {}
+    filename = Path('README.md')
+
+    if filename.exists():
+        lines = filename.read_text(encoding='utf-8').splitlines()
+        if lines and lines[0] == '---':
+            with filename.open(mode='r') as handle:
+                loader = yaml.SafeLoader(handle)
+                try:
+                    if loader.check_node():
+                        result = loader.get_data()
+                finally:
+                    loader.dispose()
+
+    return result
 
 
 def subtitle(text):
@@ -66,7 +87,7 @@ def markdown_file(title):
 def main():
     """Main loop."""
     recipe = defaultdict(list)
-    lines = []
+    lines = ['---', '---']
     nutrition = []
     steps = {  # These correlate to the "#" column in the sheet's ingredient list, with prep ~ 0 and mix-in ~ 4
         'Prep': 'Prepare specified ingredients by dissolving / hydrating in hot water.',
@@ -128,6 +149,8 @@ def main():
             images = []
 
     images = read_images()
+    docmeta = read_meta()
+    #print(yaml.safe_dump(docmeta)); die
 
     with open(CSV_FILE, 'r', encoding='utf-8') as handle:
         reader = csv.reader(handle, delimiter=';')
@@ -207,6 +230,8 @@ def main():
     lines.extend(['', subtitle('Nutritional & Other Info'), '- ' + '\n- '.join(nutrition)])
 
     # Create the Markdown file
+    if docmeta:
+        lines[1:1] = [yaml.safe_dump(docmeta).rstrip()]
     lines.append('')  # add trailing line end
     md_file = markdown_file(title)
     md_text = '\n'.join(lines)

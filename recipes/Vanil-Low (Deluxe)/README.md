@@ -1,3 +1,9 @@
+---
+tags:
+- Low-Fat
+- Low-Sugar
+- Hi-Protein
+---
 # Vanil-Low (Deluxe)
 <img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/recipes/Vanil-Low%20(Deluxe)/logo-vanil-low.png" />
 

@@ -1,3 +1,10 @@
+---
+tags:
+- Fruit
+- Low-Fat
+- Low-Sugar
+- Hi-Protein
+---
 # Blueberry Buttermilk (Deluxe)
 
 Process on *Fozen Yogurt*, with scrape-down and a respin.

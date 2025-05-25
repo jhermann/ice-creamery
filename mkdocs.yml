@@ -14,5 +14,6 @@ theme:
 plugins:
   - search
   - social:
-      cache: true
       cards: true
+  - tags:
+      export: true
