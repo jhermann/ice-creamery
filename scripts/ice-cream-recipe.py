@@ -81,7 +81,7 @@ def add_default_tags(md_text, docmeta):
     md_text_words_lc = set(x.lower() for x in md_text_words)
     md_text_title_lc = md_text.splitlines()[0].lower()
     docmeta.setdefault('description', 'Recipe for the Ninja Creami Deluxe [24oz]')
-    docmeta.setdefault('tags', [])
+    docmeta.setdefault('tags', ['Draft'])
     for tag in DEFAULT_TAGS:
         if tag.lower() in md_text_words_lc:
             docmeta['tags'].append(tag)
