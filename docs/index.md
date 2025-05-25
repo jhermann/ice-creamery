@@ -15,7 +15,11 @@ The recipes are written as *LibreOffice* spreadsheets, which allows to directly
 use formulas for the calculation of important ice cream metrics and nutritional information.
 
 A Python script then converts CSV exports of the spreadsheets to markdown files, which are in turn used to render this HTML web site using
-[MkDocs](https://www.mkdocs.org/).
+[MkDocs](https://github.com/mkdocs/mkdocs#readme).
+
+```embed
+url: https://www.mkdocs.org/
+```
 
 ## General Recipe Hints
 
