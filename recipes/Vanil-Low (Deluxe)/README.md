@@ -1,7 +1,8 @@
 # Vanil-Low (Deluxe)
-> <img width=240 alt="Logo" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/recipes/Vanil-Low%20(Deluxe)/logo-vanil-low.png" />
+<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/recipes/Vanil-Low%20(Deluxe)/logo-vanil-low.png" />
 
-Vanilla ice cream based on almond milk and cottage cheese, clocking on at 60kcal / 100g.
+Vanilla ice cream based on almond milk and cottage cheese, clocking in at 60kcal / 100g.
+
 Process on Frozen Yogurt.
 
 > <img width=360 alt="Spun Ice Cream" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/recipes/Vanil-Low%20(Deluxe)/Vanillow_2025-05-22_1.jpg" />
@@ -9,10 +10,9 @@ Process on Frozen Yogurt.
 Scrape down the sides, process again on Ice Cream.
 
 > <img width=360 alt="Spun Ice Cream" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/recipes/Vanil-Low%20(Deluxe)/Vanillow_2025-05-22_2.jpg" />
->
-> *Served with walnut pieces and pomegranate syrup,*
-> *after firming up an hour in the freezer.*
->
+> 
+> *Served with crumbled walnuts and a pomegranate syrup drizzle.*
+> 
 > Rating: 😋😋😋😋😋
 
 Use 20g *Ube Yam Root powder* instead of the vanilla
@@ -32,23 +32,23 @@ instead of the sugar alcohols and for 4 kcal/100g less.
 
   - _500ml_ Almond milk (unsweetened) [REWE Bio] • with guar gum (<1.5g)
   - _100g_ Cottage Cheese 4% [REWE Bio]
-  - _15g_ Glycerin (E422, VG) [hd-line] • POD = 60%; GI = 5; Density = 1.26 g/ml
+  - _10g_ Glycerin (E422, VG) [hd-line] • POD = 60%; GI = 5; Density = 1.26 g/ml
   - _10g_ Brandy “Williams Birne” 40 vol%
 
 **Dry**
 
-  - _20g_ Erythritol (E968) • POD = 75%
-  - _20g_ Xylitol • POD = 100%; GI = 7
+  - _25g_ Erythritol (E968) • POD = 75%
+  - _25g_ Xylitol • POD = 100%; GI = 7
   - _15g_ Inulin [Vit4ever] • Sweetness = 8%; GI ~= 0
-  - _10g_ Vanilla Bean Powder [InterVanilla]
+  - _7g_ Vanilla Bean Powder [InterVanilla]
   - _10g_ Whey protein Vanilla [MaxiNutrition]
-  - _2g_ Salt
+  - _1g_ Salt
   - _2g_ Tara gum (E417)
-  - _0.5g_ Xanthan gum (E415, XG)
+  - _0.25g_ Xanthan gum (E415, XG)
 
 **Fill to MAX**
 
-  - _15.5ml_ Water to MAX line
+  - _14.75ml_ Water to MAX line
 
 # DIRECTIONS
 
@@ -61,9 +61,9 @@ instead of the sugar alcohols and for 4 kcal/100g less.
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
 
 # NUTRITIONAL & OTHER INFO
-- **Nutritional values per 100g/ml:** 100g; 59.9 kcal; fat 1.8g; carbs 8.5g; sugar 0.6g; protein 3.4g; salt 0.5g
-- **Nutritional values per ½ Deluxe Tub:** 360g; 215.6 kcal; fat 6.5g; carbs 30.6g; sugar 2.0g; protein 12.3g; salt 1.8g
-- **Nutritional values total:** 720g; 431.2 kcal; fat 13.1g; carbs 61.1g; sugar 4.0g; protein 24.6g; salt 3.5g
-- **FPDF / PAC (target 20..30):** 30.64
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 22.80% • LOW-FAT • Low-Sugar • Hi-Protein
+- **Nutritional values per 100g/ml:** 100g; 57.6 kcal; fat 1.8g; carbs 9.1g; sugar 0.5g; protein 3.4g; salt 0.4g
+- **Nutritional values per ½ Deluxe Tub:** 360g; 207.4 kcal; fat 6.5g; carbs 32.8g; sugar 1.8g; protein 12.3g; salt 1.3g
+- **Nutritional values total:** 720g; 414.9 kcal; fat 13.1g; carbs 65.6g; sugar 3.6g; protein 24.6g; salt 2.5g
+- **FPDF / PAC (target 20..30):** 29.90
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 23.68% • LOW-FAT • Low-Sugar • Hi-Protein
 - **Milk Solids Non-Fat (MSNF, 7-11%):** 24.9g • 3.5%
