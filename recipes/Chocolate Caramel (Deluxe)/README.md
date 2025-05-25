@@ -1,8 +1,8 @@
 # Chocolate Caramel (Deluxe)
 
-FroYo spin; dense & a few small ice crystals. Taste of the cocoa and caramel combo is great.
+FroYo spin; very dense; a few small ice crystals. Taste of the cocoa and caramel combo is great.
 
-> <img width=720 alt="Spun Ice Cream" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/recipes/Chocolate%20Caramel%20(Deluxe)/choca_2024-11-01.jpg" />
+> <img width=360 alt="Spun Ice Cream" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/recipes/Chocolate%20Caramel%20(Deluxe)/choca_2024-11-01.jpg" />
 
 Might add some almond butter next time, or replace the yogurt with cream cheese.
 
@@ -11,27 +11,31 @@ Might add some almond butter next time, or replace the yogurt with cream cheese.
 ℹ️ Brand names are in square brackets `[...]`.
 
 **Prep**
+
   - _100ml_ Water (boiling)
   - _30g_ Cocoa Powder 21% [Bensdorp Premium]
 
 **Wet**
+
   - _300ml_ Skim Milk 1.5% [Weihenstephan]
   - _150g_ Greek Yogurt 9% [Lyttos]
   - _15g_ Glycerin (E422, VG) [hd-line] • Sweetness = 60%; GI = 5
-  - _5drops_ Caramel flavor drops [IronMaxx]
+  - _5 drops_ Caramel flavor drops [IronMaxx]
   - _5ml_ Vanilla Extract (w/ alcohol) [Native Vanilla]
 
 **Dry**
+
   - _25g_ Xylitol • Sweetness = 100%; GI = 7
   - _25g_ Whey protein Caramel [MaxiNutrition]
-  - _30g_ ICSv2 [Erythritol / CMC / Tara / XG / Inulin] • http://bit.ly/4frc4Vj
+  - _30g_ ICSv2 [Erythritol / CMC / Tara / XG / Inulin] • [http﹕//bit.ly/4frc4Vj](https://github.com/jhermann/ice-creamery/tree/main/recipes/Ice%20Cream%20Stabilizer%20%28ICS%29)
 
-**Top Off**
+**Fill to MAX**
+
   - _40ml_ Water to MAX line
 
 # DIRECTIONS
 
- 1. Prepare the ingredients, e.g. bloom the cocoa.
+ 1. Prepare specified ingredients by dissolving / hydrating in hot water.
  1. Add "wet" ingredients to empty Creami tub.
  1. Weigh and mix dry ingredients, easiest by adding to a jar with a secure lid and shaking vigorously.
  1. Pour into the tub and *QUICKLY* use an immersion blender on full speed to homogenize everything.
