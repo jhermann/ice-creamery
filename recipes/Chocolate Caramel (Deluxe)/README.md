@@ -1,3 +1,15 @@
+---
+description: Recipe for the Ninja Creami Deluxe [24oz]
+tags:
+- Dairy
+- Erythritol
+- Hi-Protein
+- Low-Sugar
+- Tylo Powder (CMC)
+- Vanilla
+- Xanthan
+- Xylitol
+---
 # Chocolate Caramel (Deluxe)
 
 FroYo spin; very dense; a few small ice crystals. Taste of the cocoa and caramel combo is great.

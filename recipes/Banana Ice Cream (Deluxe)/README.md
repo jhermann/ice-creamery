@@ -1,3 +1,16 @@
+---
+description: Recipe for the Ninja Creami Deluxe [24oz]
+tags:
+- Dairy
+- Erythritol
+- Fruit
+- Hi-Protein
+- Low-Fat
+- Tylo Powder (CMC)
+- Vanilla
+- Xanthan
+- Xylitol
+---
 # Banana Ice Cream (Deluxe)
 
 FroYo spin, mix-in with crushed cantuccini, and topped with almonds.

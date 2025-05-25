@@ -1,6 +1,20 @@
+---
+description: Recipe for the Ninja Creami Deluxe [24oz]
+tags:
+- Dairy
+- Erythritol
+- Fruit
+- Hi-Protein
+- Low-Fat
+- Low-Sugar
+- Tylo Powder (CMC)
+- Vanilla
+- Xanthan
+- Xylitol
+---
 # Cherry Ice Cream (Deluxe)
 
-> <img width=720 alt="Spun Ice Cream" src="https://github.com/jhermann/ice-creamery/blob/main/recipes/Cherry%20Ice%20Cream%20(Deluxe)/cherry_2024-10-23.jpg?raw=true" />
+> <img width=360 alt="Spun Ice Cream" src="https://github.com/jhermann/ice-creamery/blob/main/recipes/Cherry%20Ice%20Cream%20(Deluxe)/cherry_2024-10-23.jpg?raw=true" />
 
 # INGREDIENTS
 
@@ -19,7 +33,7 @@
   - _30g_ Xylitol • Sweetness = 100%; GI = 7
   - _30g_ ICSv2 [Erythritol / CMC / Tara / XG / Inulin] • [http﹕//bit.ly/4frc4Vj](https://github.com/jhermann/ice-creamery/tree/main/recipes/Ice%20Cream%20Stabilizer%20%28ICS%29)
 
-**Top Off**
+**Fill to MAX**
 
   - _115ml_ Water to MAX line
 

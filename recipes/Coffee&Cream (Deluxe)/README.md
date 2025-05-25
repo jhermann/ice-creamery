@@ -1,3 +1,15 @@
+---
+description: Recipe for the Ninja Creami Deluxe [24oz]
+tags:
+- Dairy
+- Erythritol
+- Hi-Protein
+- Low-Sugar
+- Tylo Powder (CMC)
+- Vanilla
+- Xanthan
+- Xylitol
+---
 # Coffee&Cream (Deluxe)
 
 Spun on Sorbet, followed by a scrape-down and a re-spin.
