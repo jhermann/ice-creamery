@@ -1,8 +1,12 @@
 ---
+description: Recipe for the Ninja Creami Deluxe [24oz]
 tags:
-- Xylitol
+- Dairy
 - Erythritol
 - Stevia
+- Tylo Powder (CMC)
+- Xanthan
+- Xylitol
 ---
 # Almond Buttermilk (Deluxe)
 <img style="float: right; margin-left: 1.5em;" width=240 alt="logo" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/recipes/Almond%20Buttermilk%20(Deluxe)/logo.jpeg" />
