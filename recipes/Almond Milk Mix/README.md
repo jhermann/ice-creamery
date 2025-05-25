@@ -1,3 +1,13 @@
+---
+description: Prepared mix for almond milk bases.
+tags:
+- Draft
+- Erythritol
+- Low-Fat
+- Low-Sugar
+- Xanthan
+- Xylitol
+---
 # Almond Milk Mix
 
 Prepared mix of ‘flavor-free’ dry ingredients for bases using almond milk.
@@ -26,7 +36,7 @@ instead of the sugar alcohols and for 4 kcal/100g less.
 
  1. Weigh and mix ingredients, easiest by adding to a jar with a secure lid and shaking vigorously.
  1. Store in an air-tight jar with enough room (1000ml).
- 
+
 # NUTRITIONAL & OTHER INFO
 - **Nutritional values per 100g/ml:** 100g; 136.0 kcal; fat 0.0g; carbs 76.9g; sugar 1.6g; protein 0.2g; salt 4.1g
 - **Nutritional values per serving:** 50g; 68.0 kcal; fat 0.0g; carbs 38.4g; sugar 0.8g; protein 0.1g; salt 2.0g

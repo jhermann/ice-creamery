@@ -1,3 +1,13 @@
+---
+description: Recipe for the Ninja Creami Deluxe [24oz]
+tags:
+- Draft
+- Erythritol
+- Fruit
+- Tylo Powder (CMC)
+- Xanthan
+- Xylitol
+---
 # Piña Colada (Deluxe)
 
 # INGREDIENTS

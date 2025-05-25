@@ -1,24 +1,16 @@
 ---
 description: Recipe for the Ninja Creami Deluxe [24oz]
 tags:
-- Dairy-Free
+- Dairy
 - Draft
 - Erythritol
 - Fruit
-- Low-Fat
+- Sorbet
 - Tylo Powder (CMC)
-- Vanilla
-- Vegan
 - Xanthan
 - Xylitol
 ---
-# Banana • Dairy-Free + Vegan (Deluxe)
-
-Process on FroYo, followed by a scrape down and a re-spin.
-
-> <img width=360 alt="Spun Ice Cream" src="" />
-
-Rating: 😋 (untested)
+# Plum Sherbet (Deluxe)
 
 # INGREDIENTS
 
@@ -26,20 +18,18 @@ Rating: 😋 (untested)
 
 **Wet**
 
-  - _350ml_ Almond milk (unsweetened) [REWE Bio] • with guar gum (<1.5g)
-  - _250g_ Bananas (peeled) • 2 mid-size bananas, eat any surplus 😋
-  - _10g_ Fruit Brandy 40 vol%
-  - _10g_ Glycerin (E422, VG) [hd-line] • Sweetness = 60%; GI = 5; Density = 1.26 g/ml
+  - _600g_ Plums
+  - _50g_ Cream Cheese [Exquisa]
+  - _15g_ Glycerin (E422, VG) [hd-line] • Sweetness = 60%; GI = 5
 
 **Dry**
 
   - _30g_ ICSv2 [Erythritol / CMC / Tara / XG / Inulin] • [http﹕//bit.ly/4frc4Vj](https://github.com/jhermann/ice-creamery/tree/main/recipes/Ice%20Cream%20Stabilizer%20%28ICS%29)
-  - _30g_ Xylitol • Sweetness = 100%; GI = 7
-  - _3g_ Vanilla Bean Powder [InterVanilla]
+  - _15g_ Xylitol • Sweetness = 100%; GI = 7
 
 **Fill to MAX**
 
-  - _37ml_ Water to MAX line
+  - _10ml_ Water to MAX line
 
 # DIRECTIONS
 
@@ -52,12 +42,10 @@ Rating: 😋 (untested)
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
 
 # NUTRITIONAL & OTHER INFO
-- **Nutritional values per 100g/ml:** 100g; 71.8 kcal; fat 1.0g; carbs 15.3g; sugar 5.8g; protein 0.8g; salt 0.2g
-- **Nutritional values per ½ Deluxe Tub:** 360g; 258.4 kcal; fat 3.7g; carbs 55.2g; sugar 20.8g; protein 2.9g; salt 0.6g
-- **Nutritional values total:** 720g; 516.7 kcal; fat 7.5g; carbs 110.5g; sugar 41.5g; protein 5.9g; salt 1.1g
-- **FPDF / PAC (target 20..30):** 30.38
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 4.55% • LOW-FAT
-- **Milk Solids Non-Fat (MSNF, 7-11%):** 0.0g • 0.0%
+- **Nutritional values per 100g/ml:** 100g; 74.3 kcal; fat 1.6g; carbs 15.8g; sugar 8.7g; protein 1.2g; salt 0.3g
+- **Nutritional values per ½ Deluxe Tub:** 360g; 267.4 kcal; fat 5.6g; carbs 56.9g; sugar 31.3g; protein 4.4g; salt 0.9g
+- **Nutritional values total:** 720g; 534.9 kcal; fat 11.3g; carbs 113.8g; sugar 62.6g; protein 8.8g; salt 1.8g
+- **FPDF / PAC (target 20..30):** 27.82
 - **30g Ice Cream Stabilizer (ICSv2) is:** 14.3g erythritol, 1.43g Tylose powder (CMC, E466), 
 0.5g tara gum (E417), 0.15g xanthan (E415),
 14.3g inulin, 0.5g salt.

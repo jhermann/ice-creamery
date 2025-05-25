@@ -1,0 +1,28 @@
+Plum Sherbet (Deluxe);;;;;;;;;;;
+;;;;;;;;;;;
+;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;
+Nutritional values per 100g/ml;100;g;;74.3;1.6;15.8;8.7;1.2;0.3;;
+Nutritional values per ½ Deluxe Tub;360;g;;267.4;5.6;56.9;31.3;4.4;0.9;;
+Nutritional values total;720;g;;534.9;11.3;113.8;62.6;8.8;1.8;;
+;;;;;;;;;;;
+FPDF / PAC (target 20..30);27.82;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+30g Ice Cream Stabilizer (ICSv2) is;"14.3g erythritol, 1.43g Tylose powder (CMC, E466), 
+0.5g tara gum (E417), 0.15g xanthan (E415),
+14.3g inulin, 0.5g salt.";;;;;;;;;;
+;;;;;;;;;;;
+The [brand names] used are in brackets.;;;;;;;;;;;
+;;;;;;;;;;;
+Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;Comment
+Plums;600.00;g;1;48.00;0.00;11.00;10.00;1.00;0.16;0.10;
+Cream Cheese [Exquisa];50.00;g;1;238.00;22.50;3.00;3.00;5.50;0.70;0.03;
+Glycerin (E422, VG) [hd-line];15.00;g;1;400.00;0.00;99.00;0.00;0.00;0.00;3.70;"Sweetness = 60%; GI = 5"
+ICSv2 [Erythritol / CMC / Tara / XG / Inulin];30.00;g;2;107.3;0.0;54.7;3.7;0.1;1.7;1.32;http://bit.ly/4frc4Vj
+Xylitol;15.00;g;2;238.00;0.00;100.00;0.00;0.00;0.00;2.20;"Sweetness = 100%; GI = 7"
+Water to MAX line;10.00;ml;3;;;;;;;;

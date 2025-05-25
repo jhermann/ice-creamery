@@ -1,3 +1,16 @@
+---
+description: Recipe for the Ninja Creami Deluxe [24oz]
+tags:
+- Dairy
+- Draft
+- Erythritol
+- Fruit
+- Low-Sugar
+- Tylo Powder (CMC)
+- Vanilla
+- Xanthan
+- Xylitol
+---
 # Ube Coconut (Deluxe)
 
 This works with any fruit powder that harmonizes with coconut milk.

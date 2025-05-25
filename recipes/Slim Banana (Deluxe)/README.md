@@ -1,3 +1,16 @@
+---
+description: Recipe for the Ninja Creami Deluxe [24oz]
+tags:
+- Draft
+- Erythritol
+- Fruit
+- Low-Fat
+- Low-Sugar
+- Tylo Powder (CMC)
+- Vanilla
+- Xanthan
+- Xylitol
+---
 # Slim Banana (Deluxe)
 
 Process on FroYo, followed by a scrape down and a re-spin.
