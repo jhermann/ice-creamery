@@ -2,6 +2,9 @@
 
 > <img width=720 alt="Gelato Cart" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/assets/gelato-cart.webp" />
 
+> 💡 See [GitHub pages](https://jhermann.github.io/ice-creamery/)
+>  for a website with navigation and search.
+
 **Contents**
 - [What's this?](#whats-this)
 - [Structure of the recipe spreadsheet](#structure-of-the-recipe-spreadsheet)
