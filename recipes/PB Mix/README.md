@@ -1,3 +1,15 @@
+---
+description: Prepared mix for peanut butter bases.
+tags:
+- Dairy
+- Draft
+- Fruit
+- Hi-Protein
+- Low-Fat
+- Tylo Powder (CMC)
+- Vanilla
+- Xylitol
+---
 # PB Mix
 
 PB&J ice cream, based on PB powder and dried strawberry slices.
@@ -40,8 +52,8 @@ and whisk them carefully but thoroughly. A ball whisk works best.
   - _25g_ Skim Milkpowder 1:10 [Vita2You]
   - _20g_ Whey protein Vanilla [MaxiNutrition]
   - _20g_ Inulin [Vit4ever] • Sweetness = 8%; GI ~= 0
-  - _2.50g_ Tylose powder (E466 / CMC) [GoodBake]
-  - _1.50g_ Tara gum (E417)
+  - _2.5g_ Tylose powder (E466 / CMC) [GoodBake]
+  - _1.5g_ Tara gum (E417)
 
 **Wet**
 
