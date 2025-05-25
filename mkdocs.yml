@@ -6,5 +6,6 @@ theme:
   locale: en
   include_sidebar: true
   logo: assets/logo.png
+  favicon: assets/favicon.png
   features:
     - navigation.tabs
