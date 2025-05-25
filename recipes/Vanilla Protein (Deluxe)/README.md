@@ -1,3 +1,15 @@
+---
+description: Recipe for the Ninja Creami Deluxe [24oz]
+tags:
+- Erythritol
+- Hi-Protein
+- Low-Fat
+- Low-Sugar
+- Tylo Powder (CMC)
+- Vanilla
+- Xanthan
+- Xylitol
+---
 # Vanilla Protein (Deluxe)
 
 This is my usual base, but pure vanilla, no cream or cottage cheese, and double the protein powder.
