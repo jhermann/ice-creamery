@@ -7,6 +7,10 @@ A collection of my tested / approved Ninja Creami recipes.
 This website is based on a collection of calculated recipes stored in a
 [GitHub repository](https://github.com/jhermann/ice-creamery#readme).
 
+```embed
+url: https://github.com/jhermann/ice-creamery#readme
+```
+
 The recipes are written as *LibreOffice* spreadsheets, which allows to directly
 use formulas for the calculation of important ice cream metrics and nutritional information.
 

@@ -37,3 +37,19 @@ plugins:
             enabled: true
             output: .well-known/site.pdf
             covers: all
+
+  - link-embeds:
+      enabled: true
+      name_default: "Untitled Link"
+      desc_default: "No description found"
+      image_default: "https://github.com/Aetherinox/mkdocs-link-embeds/assets/118329232/c0298d98-0910-4235-a88f-0c3e2f704ba7"
+      image_disabled: false
+      favicon_default: "https://github.com/Aetherinox/mkdocs-link-embeds/assets/118329232/b37da9c6-6f17-4c3f-9c94-c346a6f31bfa"
+      favicon_disabled: false
+      favicon_size: 25
+      target: "_blank"
+      accent: "FFFFFF1A"
+      verbose: false
+
+extra_css:
+  - assets/css/link-embeds.css
