@@ -1,0 +1,39 @@
+Cocofruit (Deluxe);;;;;;;;;;;;
+;;;;;;;;;;;;
+;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;
+Nutritional values per 100g/ml;100;g;;113.6;4.3;15.3;6.7;4.4;0.2;;;
+Nutritional values per ½ Deluxe Tub;360;g;;409.0;15.3;55.0;24.0;16.0;0.8;;;
+Nutritional values total;720;g;;818.0;30.7;110.0;48.1;32.0;1.6;;;
+;;;;;;;;;;;;
+FPDF / PAC (target 20..30);32.53;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";15.65%;;;;;;;;;;;
+Milk Solids Non-Fat (MSNF, 7-11%);57.7;g;;8.0%;;;;;;;;
+;;;;;;;;;;;;
+"Process on SORBET and MIX-IN or RE-SPIN (choose depending on consistency you get after processing, and eventually want after 2nd spin).
+
+Rating: 😋🍌🥥🥥";;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+"You can vary by replacing SMP → whey, and replace the banana by other fruit, e.g. strawberries.
+Both variants were good, I liked the whey/strawberry one little better.
+
+Rating: 😋🍓🥥🍓🥥";;;;;;;;;;;;
+30g Ice Cream Stabilizer (ICSv2) is;"14.3g erythritol, 1.43g Tylose powder (CMC, E466), 
+0.5g tara gum (E417), 0.15g xanthan (E415),
+14.3g inulin, 0.5g salt.";;;;;;;;;;;
+The [brand names] used are in brackets.;;;;;;;;;;;;
+;;;;;;;;;;;;
+Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment
+Skim Milk 1.5% [Weihenstephan];250.00;ml;1;47.00;1.50;4.90;4.90;3.50;0.11;0.05;9.16;
+Bananas (peeled);125.00;g;1;108.00;0.60;21.50;16.00;1.22;0.03;0.16;;
+Coconut milk 22% [REWE Bio];100.00;ml;1;222.00;22.00;4.00;4.00;2.00;0.04;0.04;;
+Cottage Cheese 4% [REWE Bio];100.00;g;1;91.00;4.00;1.00;1.00;12.70;0.69;0.01;16.00;
+Glycerin (E422, VG) [hd-line];15.00;g;1;400.00;;99.00;;;;3.70;;"POD = 60%; GI = 5; Density = 1.26 g/ml"
+Brandy “Williams Birne” 40 vol%;10.00;g;1;280.00;;;;;;2.96;;
+Flavor drops Vanilla [IronMaxx];7.00;drops;1;;;;;;;;;with sucralose
+Xylitol;30.00;g;2;238.00;;100.00;;;;2.20;;"POD = 100%; GI = 7"
+ICSv2 [Erythritol / CMC / Tara / XG / Inulin];20.00;g;2;107.3;0.0;54.7;3.7;0.1;1.7;1.32;;http://bit.ly/4frc4Vj
+Skim Milkpowder 1:10 [Vita2You];20.00;g;2;358.00;0.97;50.50;50.50;35.00;1.00;0.51;94.03;
+;;;;;;;;;;;;
+Water to MAX line;50.00;ml;3;;;;;;;;;
