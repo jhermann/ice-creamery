@@ -1,8 +1,20 @@
+---
+description: Recipe for the Ninja Creami Deluxe [24oz]
+tags:
+- Dairy
+- Draft
+- Erythritol
+- Fruit
+- Tylo Powder (CMC)
+- Vanilla
+- Xanthan
+- Xylitol
+---
 # Strawberry Ice Cream (Deluxe)
 
 Processed on Lite Ice Cream directly from the freezer,
 filled the hole with crumbled dried strawberry slices,
-and worked them in via mix-in.
+and worked them in via a mix-in run.
 
 > <img width=720 alt="Spun Ice Cream" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/recipes/Strawberry%20Ice%20Cream%20(Deluxe)/Strawberry_2024-11-07_1.jpg" />
 
@@ -29,7 +41,7 @@ Rating: 😋😋😋😋😋
   - _25g_ Xylitol • Sweetness = 100%; GI = 7
   - _15g_ Skim Milkpowder 1:10 [Vita2You]
 
-**Top Off**
+**Fill to MAX**
 
   - _80ml_ Water to MAX line
 

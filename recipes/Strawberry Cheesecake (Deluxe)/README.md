@@ -1,3 +1,16 @@
+---
+description: Recipe for the Ninja Creami Deluxe [24oz]
+tags:
+- Dairy
+- Draft
+- Erythritol
+- Fruit
+- Stevia
+- Tylo Powder (CMC)
+- Vanilla
+- Xanthan
+- Xylitol
+---
 # Strawberry Cheesecake (Deluxe)
 
 A great combination of various tart flavors,
