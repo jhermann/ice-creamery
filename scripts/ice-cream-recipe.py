@@ -54,6 +54,7 @@ DEFAULT_TAG_GROUPS = {
     'Dairy': set(['Dairy',
         'Buttermilk',
         'Cheese',
+        'Sherbet',
     ]),
     'Fruit': set(['Fruit'
         'Apple', 'Apricot',
@@ -65,6 +66,7 @@ DEFAULT_TAG_GROUPS = {
         'Strawberry',
         'Ube',
     ]),
+    'Sorbet': set(['Sherbet']),
 }
 DEFAULT_TAGS_EXACT = {
     '(Deluxe)': 'Deluxe',

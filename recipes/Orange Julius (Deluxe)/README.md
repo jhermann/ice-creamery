@@ -1,3 +1,17 @@
+---
+description: Recipe for the Ninja Creami Deluxe [24oz]
+tags:
+- Dairy
+- Erythritol
+- Fruit
+- Hi-Protein
+- Low-Fat
+- Sorbet
+- Tylo Powder (CMC)
+- Vanilla
+- Xanthan
+- Xylitol
+---
 # Orange Julius (Deluxe)
 
 Processed on Sorbet, followed by a scrape-down and re-mix.

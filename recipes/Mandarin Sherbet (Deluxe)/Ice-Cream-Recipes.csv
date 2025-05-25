@@ -1,29 +1,38 @@
 Mandarin Sherbet (Deluxe);;;;;;;;;;;;
 ;;;;;;;;;;;;
 ;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;
-Nutritional values per 100g/ml;100;g;;82.6;1.0;17.8;9.9;2.2;0.2;;;
-Nutritional values per ½ Deluxe Tub;360;g;;297.3;3.5;64.2;35.6;7.9;0.6;;;
-Nutritional values total;720;g;;594.7;7.0;128.3;71.2;15.8;1.1;;;
+Nutritional values per 100g/ml;100;g;;83.7;2.0;14.3;7.2;2.8;0.2;;;
+Nutritional values per ½ Deluxe Tub;360;g;;301.2;7.2;51.6;26.0;10.2;0.7;;;
+Nutritional values total;720;g;;602.4;14.5;103.2;52.0;20.3;1.4;;;
 ;;;;;;;;;;;;
-FPDF / PAC (target 20..30);28.46;;;;;;;;;;;
-"Protein / Energy Ratio (ok=12%; hi=20%)";10.61%;;;;LOW-FAT;;;;;;;
-Milk Solids Non-Fat (MSNF, 7-11%);31.1;g;;4.3%;;;;;;;;
+FPDF / PAC (target 20..30);30.11;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";13.50%;;;;LOW-FAT;;;;;;;
+Milk Solids Non-Fat (MSNF, 7-11%);46.6;g;;6.5%;;;;;;;;
 ;;;;;;;;;;;;
-Oct 14, 2024;Dense, intensive, some small ice crystals;;;;;;;;;;;
-Oct 19, 2024;Changed recipe;;;;;;;;;;;
-Nov 11, 2024;Switched to ICSv2, added SMP;;;;;;;;;;;
+Mostly mandarin slices and juice, which means a relatively high sugar content, but still reasonably lo-cal because it has only 2% fat.;;;;;;;;;;;;
 ;;;;;;;;;;;;
+Small ice crystals (but then it is a sorbet / sherbet), and still immediately scoopable after 1 day in the freezer.;;;;;;;;;;;;
+Rating: 😋😋😋😋❄️ ;;;;;;;;;;;;
 30g Ice Cream Stabilizer (ICSv2) is;"14.3g erythritol, 1.43g Tylose powder (CMC, E466), 
 0.5g tara gum (E417), 0.15g xanthan (E415),
 14.3g inulin, 0.5g salt.";;;;;;;;;;;
+Oct 14, 2024;Dense, intensive, some small ice crystals;;;;;;;;;;;
+Oct 19, 2024;Changed recipe;;;;;;;;;;;
+Nov 11, 2024;Switched to ICSv2, added SMP;;;;;;;;;;;
+Dec 13, 2024;Half the fruit, added milk + flavor doprs;;;;;;;;;;;
 ;;;;;;;;;;;;
-The [brand names] used are in brackets.;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
 ;;;;;;;;;;;;
 Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment
-Mandarins in juice [REWE];600.00;g;1;48.00;0.00;11.00;9.00;0.60;0.02;0.09;;
-Cream Cheese [Exquisa];30.00;g;1;238.00;22.50;3.00;3.00;5.50;0.70;0.03;9.64;
+Mandarins in juice [REWE];300.00;g;1;48.00;0.00;11.00;9.00;0.60;0.02;0.09;;
+Skim Milk 1.5% [Weihenstephan];200.00;ml;1;47.00;1.50;4.90;4.90;3.50;0.11;0.05;9.16;
+Cream Cheese [Exquisa];50.00;g;1;238.00;22.50;3.00;3.00;5.50;0.70;0.03;9.64;
 Glycerin (E422, VG) [hd-line];15.00;g;1;400.00;0.00;99.00;0.00;0.00;0.00;3.70;;"Sweetness = 60%; GI = 5"
+Brandy “Williams Birne” 40 vol%;10.00;g;1;280.00;0.00;0.00;0.00;0.00;0.00;2.96;;
+Flavor drops Peach / Maracuja [IronMaxx];5.00;drops;1;;;;;;;;;
 ICSv2 [Erythritol / CMC / Tara / XG / Inulin];30.00;g;2;107.3;0.0;54.7;3.7;0.1;1.7;1.32;;http://bit.ly/4frc4Vj
-Skim Milkpowder 1:10 [Vita2You];30.00;g;2;358.00;0.97;50.50;50.50;35.00;1.00;0.51;94.03;
+Skim Milkpowder 1:10 [Vita2You];25.00;g;2;358.00;0.97;50.50;50.50;35.00;1.00;0.51;94.03;
 Xylitol;15.00;g;2;238.00;0.00;100.00;0.00;0.00;0.00;2.20;;"Sweetness = 100%; GI = 7"
-Water to MAX line;0.00;ml;3;;;;;;;;;
+;;;;;;;;;;;;
+Water to MAX line;75.00;ml;3;;;;;;;;;
