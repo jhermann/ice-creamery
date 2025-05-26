@@ -34,9 +34,7 @@ a.md-tag[href$="tag:xylitol"] {
   color: skyblue !important;
 }
 
-a.md-tag[href$="tag:guar-gum"],
-a.md-tag[href$="tag:tara-gum"],
-a.md-tag[href$="tag:xanthan"],
+a.md-tag[href$="-gum"],
 a.md-tag[href$="-cmc"] {
   color: #880033 !important;
 }
