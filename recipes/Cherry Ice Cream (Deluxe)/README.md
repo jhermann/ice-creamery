@@ -6,11 +6,12 @@ tags:
 - Favorite
 - Fruit
 - Hi-Protein
+- Light
 - Low-Fat
 - Low-Sugar
+- Polysaccharide Gum
 - Tylo Powder (CMC)
 - Vanilla
-- Polysaccharide Gum
 - Xylitol
 ---
 # Cherry Ice Cream (Deluxe)

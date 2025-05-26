@@ -1,12 +1,15 @@
 ---
 description: Almond milk + cottage cheese base at ~50kcal / 100g
 tags:
+- Dairy
 - Erythritol
+- Fruit
 - Hi-Protein
+- Light
 - Low-Fat
 - Low-Sugar
-- Vanilla
 - Polysaccharide Gum
+- Vanilla
 - Xylitol
 ---
 # Vanil-Low (Deluxe)

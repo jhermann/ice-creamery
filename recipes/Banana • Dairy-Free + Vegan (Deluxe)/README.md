@@ -5,11 +5,12 @@ tags:
 - Draft
 - Erythritol
 - Fruit
+- Light
 - Low-Fat
+- Polysaccharide Gum
 - Tylo Powder (CMC)
 - Vanilla
 - Vegan
-- Polysaccharide Gum
 - Xylitol
 ---
 # Banana • Dairy-Free + Vegan (Deluxe)

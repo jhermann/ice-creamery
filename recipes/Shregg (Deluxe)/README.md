@@ -3,6 +3,7 @@ description: Recipe for the Ninja Creami Deluxe [24oz]
 tags:
 - Alcohol
 - Dairy
+- Light
 - Polysaccharide Gum
 - Tylo Powder (CMC)
 - Vanilla

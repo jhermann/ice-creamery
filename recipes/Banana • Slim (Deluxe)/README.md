@@ -4,11 +4,12 @@ tags:
 - Draft
 - Erythritol
 - Fruit
+- Light
 - Low-Fat
 - Low-Sugar
+- Polysaccharide Gum
 - Tylo Powder (CMC)
 - Vanilla
-- Polysaccharide Gum
 - Xylitol
 ---
 # Banana • Slim (Deluxe)

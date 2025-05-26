@@ -5,6 +5,7 @@ tags:
 - Draft
 - Erythritol
 - Fruit
+- Light
 - Polysaccharide Gum
 - Sorbet
 - Tylo Powder (CMC)

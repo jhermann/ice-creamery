@@ -6,11 +6,12 @@ tags:
 - Erythritol
 - Fruit
 - Hi-Protein
+- Light
 - Low-Fat
 - Low-Sugar
+- Polysaccharide Gum
 - Tylo Powder (CMC)
 - Vanilla
-- Polysaccharide Gum
 - Xylitol
 ---
 # Blueberry Buttermilk (Deluxe)

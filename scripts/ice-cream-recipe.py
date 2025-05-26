@@ -38,6 +38,7 @@ import yaml
 CSV_FILE = 'Ice-Cream-Recipes.csv'  # TODO: add argument parsing
 MD_FILE = 'recipe-{file_title}.md'
 
+TAG_LIGHT_KCAL_LIMIT = 75.0
 DEFAULT_TAGS = set([
     'Erythritol',
     'Hi-Protein',
@@ -84,6 +85,9 @@ def add_default_tags(md_text, docmeta):
     md_text_title_lc = md_text.splitlines()[0].lower()
     docmeta.setdefault('description', 'Recipe for the Ninja Creami Deluxe [24oz]')
     docmeta.setdefault('tags', ['Draft'])
+    kcal = re.search(r'100g; ([.0-9]+) kcal;', md_text)
+    if kcal and float(kcal.group(1)) <= TAG_LIGHT_KCAL_LIMIT:
+        docmeta['tags'].append('Light')
     for tag in DEFAULT_TAGS:
         if tag.lower() in md_text_words_lc:
             docmeta['tags'].append(tag)

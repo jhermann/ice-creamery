@@ -4,6 +4,7 @@ tags:
 - Dairy
 - Erythritol
 - Fruit
+- Light
 - Low-Fat
 - Polysaccharide Gum
 - Sorbet
