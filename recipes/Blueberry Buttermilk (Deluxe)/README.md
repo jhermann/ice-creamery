@@ -14,6 +14,7 @@ tags:
 - Xylitol
 ---
 # Blueberry Buttermilk (Deluxe)
+<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/recipes/Blueberry%20Buttermilk%20(Deluxe)/blueberry-ice-cream-logo.png" />
 
 Process on *Fozen Yogurt*, with scrape-down and a respin.
 
