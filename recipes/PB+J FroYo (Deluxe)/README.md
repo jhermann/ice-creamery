@@ -1,33 +1,47 @@
+---
+description: Recipe for the Ninja Creami Deluxe [24oz]
+tags:
+- Dairy
+- Erythritol
+- Fruit
+- Tylo Powder (CMC)
+- Vanilla
+---
 # PB+J FroYo (Deluxe)
+<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/recipes/PB%20Mix/pb-ice-cream-logo.png" />
 
 FroYo spin, scrape-down, and mix-in with pre-crumbled strawberry slices.
 
 > <img width=720 alt="Spun Ice Cream" src="https://github.com/jhermann/ice-creamery/blob/main/recipes/PB%2BJ%20FroYo%20(Deluxe)/PB%2BJ_FroYo_2024-10-20.jpg?raw=true" />
-
-Comes out creamy, and no ice crystals at all.
+>
+> *Comes out creamy, and no ice crystals at all.*
 
 # INGREDIENTS
 
 ℹ️ Brand names are in square brackets `[...]`.
 
 **Wet**
+
   - _350ml_ Skim Milk 1.5% [Weihenstephan]
   - _150g_ Greek Yogurt 9% [Lyttos]
   - _50g_ Cream Cheese [Exquisa]
   - _15g_ Glycerin (E422, VG) [hd-line] • Sweetness = 60%; GI = 5
 
 **Dry**
+
   - _35g_ Erythritol (E968) • Sweetness = 75%
   - _20g_ PB powder [Vilgain]
   - _20g_ Whey protein Vanilla [MaxiNutrition]
   - _20g_ Inulin [Vit4ever] • Sweetness = 8%; GI ~= 0
-  - _2.50g_ Glycerol Monostearate (E471) [Bulk]
-  - _2.50g_ Tylose powder (E466 / CMC) [GoodBake]
+  - _2.5g_ Glycerol Monostearate (E471) [Bulk]
+  - _2.5g_ Tylose powder (E466 / CMC) [GoodBake]
 
-**Top Off**
+**Fill to MAX**
+
   - _55ml_ Water to MAX line
 
-**Mix-In**
+**Mix-ins**
+
   - _10g_ Strawberry slices freeze-dried [EWL] • Mix-in for a full tub (2 servings)
 
 # DIRECTIONS

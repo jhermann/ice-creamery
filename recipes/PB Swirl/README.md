@@ -1,4 +1,12 @@
+---
+description: PB swirl as a manual mix-in for refreezable bases.
+tags:
+- Draft
+- Xylitol
+- Vegan
+---
 # PB Swirl
+<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/recipes/PB%20Mix/pb-ice-cream-logo.png" />
 
 This adds a swirl to your processed creami base. The recipe for the base must allow to refreeze after processing.
 
@@ -6,7 +14,7 @@ This adds a swirl to your processed creami base. The recipe for the base must al
 
 # INGREDIENTS
 
-  - _70ml_ Cream 32%
+  - _70ml_ Cream 32% • Use coconut or soy cream to keep this vegan!
   - _20g_ PB powder
   - _10g_ Xylitol • POD = 100%; GI = 7
   - _0.25g_ Salt • 5-7 shakes
