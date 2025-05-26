@@ -16,7 +16,7 @@ Recipes that have less than 75 kcal per 100g:
  - [Winter Apple](https://jhermann.github.io/ice-creamery/?q=Winter%20Apple): 69.1 kcal/100g
  - [Banana • Dairy-Free + Vegan](https://jhermann.github.io/ice-creamery/?q=Banana%20%E2%80%A2%20Dairy-Free%20%2B%20Vegan): 71.8 kcal/100g
  - [Blueberry Buttermilk](https://jhermann.github.io/ice-creamery/?q=Blueberry%20Buttermilk): 72.1 kcal/100g
- - [Slim Banana](https://jhermann.github.io/ice-creamery/?q=Slim%20Banana): 72.6 kcal/100g
+ - [Banana • Slim](https://jhermann.github.io/ice-creamery/?q=Banana%20Slim): 72.6 kcal/100g
  - [Plum Sherbet](https://jhermann.github.io/ice-creamery/?q=Plum%20Sherbet): 74.3 kcal/100g
 
 <!--
