@@ -1,3 +1,16 @@
+---
+description: Recipe for the Ninja Creami Deluxe [24oz]
+tags:
+- Dairy
+- Erythritol
+- Fruit
+- Low-Fat
+- Polysaccharide Gum
+- Sorbet
+- Tylo Powder (CMC)
+- Vanilla
+- Xylitol
+---
 # Winter Apple (Deluxe)
 
 Applesauce sherbet with cinnamon, and stollen pieces as a mix-in.

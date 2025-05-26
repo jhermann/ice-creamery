@@ -1,3 +1,15 @@
+---
+description: Recipe for the Ninja Creami Deluxe [24oz]
+tags:
+- Dairy
+- Erythritol
+- Hi-Protein
+- Low-Sugar
+- Polysaccharide Gum
+- Tylo Powder (CMC)
+- Vanilla
+- Xylitol
+---
 # Pistachio Ice Cream (Deluxe)
 
 Processed on Lite Ice Cream, came out as soft-serve on the firmer side of things.

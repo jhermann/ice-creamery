@@ -1,3 +1,14 @@
+---
+description: Recipe for the Ninja Creami Deluxe [24oz]
+tags:
+- Dairy
+- Erythritol
+- Low-Sugar
+- Polysaccharide Gum
+- Tylo Powder (CMC)
+- Vanilla
+- Xylitol
+---
 # Coconut (Deluxe)
 
 Coconut is unsurprisingly the dominant flavor. Process on Ice Cream.

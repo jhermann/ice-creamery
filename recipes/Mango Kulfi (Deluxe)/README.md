@@ -1,3 +1,13 @@
+---
+description: Recipe for the Ninja Creami Deluxe [24oz]
+tags:
+- Dairy
+- Erythritol
+- Fruit
+- Polysaccharide Gum
+- Tylo Powder (CMC)
+- Xylitol
+---
 # Mango Kulfi (Deluxe)
 
 Processed on Sorbet, scrape-down and a mix-in run resulted in a soft consistency, on the firmer side.

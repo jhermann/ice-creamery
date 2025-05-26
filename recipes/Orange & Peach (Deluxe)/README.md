@@ -1,3 +1,15 @@
+---
+description: Recipe for the Ninja Creami Deluxe [24oz]
+tags:
+- Dairy
+- Erythritol
+- Fruit
+- Low-Fat
+- Polysaccharide Gum
+- Tylo Powder (CMC)
+- Vanilla
+- Xylitol
+---
 # Orange & Peach (Deluxe)
 
 Processed on Light Ice Cream to an airy soft serve.

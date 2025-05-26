@@ -1,3 +1,13 @@
+---
+description: Recipe for the Ninja Creami Deluxe [24oz]
+tags:
+- Dairy
+- Erythritol
+- Fruit
+- Polysaccharide Gum
+- Tylo Powder (CMC)
+- Xylitol
+---
 # Lazy Apricot FroYo (Deluxe)
 
 “Lazily” using a container of pre-flavored yogurt,

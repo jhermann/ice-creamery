@@ -1,3 +1,12 @@
+---
+description: Recipe for the Ninja Creami Deluxe [24oz]
+tags:
+- Alcohol
+- Dairy
+- Polysaccharide Gum
+- Tylo Powder (CMC)
+- Vanilla
+---
 # Shregg (Deluxe)
 
 Egg liqueur ice cream.

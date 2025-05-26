@@ -1,3 +1,14 @@
+---
+description: Recipe for the Ninja Creami Deluxe [24oz]
+tags:
+- Dairy
+- Erythritol
+- Fruit
+- Polysaccharide Gum
+- Tylo Powder (CMC)
+- Vanilla
+- Xylitol
+---
 # Cocofruit (Deluxe)
 
 Process on SORBET and MIX-IN or RE-SPIN (choose depending on consistency you get after processing, and eventually want after 2nd spin).

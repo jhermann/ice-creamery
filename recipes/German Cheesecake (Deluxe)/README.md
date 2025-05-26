@@ -1,3 +1,15 @@
+---
+description: Recipe for the Ninja Creami Deluxe [24oz]
+tags:
+- Dairy
+- Erythritol
+- Low-Sugar
+- Polysaccharide Gum
+- Stevia
+- Tylo Powder (CMC)
+- Vanilla
+- Xylitol
+---
 # German Cheesecake (Deluxe)
 
 Inspired by German cheesecake, which is made with ‘Quark’ or ‘Topfen’

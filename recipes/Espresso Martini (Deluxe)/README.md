@@ -1,3 +1,14 @@
+---
+description: Recipe for the Ninja Creami Deluxe [24oz]
+tags:
+- Alcohol
+- Erythritol
+- Low-Sugar
+- Polysaccharide Gum
+- Tylo Powder (CMC)
+- Vanilla
+- Xylitol
+---
 # Espresso Martini (Deluxe)
 
 Mix the hot coffee with the cocoa powder to bloom it, then let it cool down.

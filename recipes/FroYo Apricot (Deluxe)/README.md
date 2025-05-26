@@ -1,3 +1,12 @@
+---
+description: Recipe for the Ninja Creami Deluxe [24oz]
+tags:
+- Erythritol
+- Fruit
+- Polysaccharide Gum
+- Tylo Powder (CMC)
+- Xylitol
+---
 # FroYo Apricot (Deluxe)
 
 Fruity, a little tangy, perfect consistency after 1st FROYO spin.

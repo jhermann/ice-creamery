@@ -1,3 +1,15 @@
+---
+description: Recipe for the Ninja Creami Deluxe [24oz]
+tags:
+- Dairy
+- Erythritol
+- Fruit
+- Hi-Protein
+- Low-Fat
+- Polysaccharide Gum
+- Tylo Powder (CMC)
+- Xylitol
+---
 # FroSky (Deluxe)
 
 Tangy & fresh.

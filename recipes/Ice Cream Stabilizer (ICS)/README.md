@@ -1,3 +1,10 @@
+---
+description: Prepared mix for a general ice cream stabilizer.
+tags:
+- Erythritol
+- Polysaccharide Gum
+- Tylo Powder (CMC)
+---
 # Ice Cream Stabilizer • ICSv2
 
 <img style="float: right; padding-left: 1rem;" width=320 alt="ICS Logo" src="https://github.com/jhermann/ice-creamery/blob/main/assets/ICS-logo.jpg?raw=true" />

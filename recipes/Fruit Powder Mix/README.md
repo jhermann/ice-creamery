@@ -1,3 +1,16 @@
+---
+description: Recipe for the Ninja Creami Deluxe [24oz]
+tags:
+- Dairy
+- Erythritol
+- Fruit
+- Hi-Protein
+- Low-Fat
+- Polysaccharide Gum
+- Tylo Powder (CMC)
+- Vanilla
+- Xylitol
+---
 # Fruit Powder Mix (Deluxe)
 
 Spun in Light Ice Cream mode, plus a mix-in run with 10g freeze-dried strawberry slices.
