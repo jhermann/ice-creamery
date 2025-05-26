@@ -26,6 +26,7 @@
 import os
 import re
 import csv
+import sys
 import subprocess
 
 from pprint import pp  # pylint: disable=unused-import
@@ -44,7 +45,6 @@ DEFAULT_TAGS = set([
     'Low-Sugar',
     'Stevia',
     'Xylitol',
-    'Xanthan',
     'Vanilla',
 ])
 DEFAULT_TAGS_TITLE = set([
@@ -151,6 +151,7 @@ def markdown_file(title):
 
 def main():
     """Main loop."""
+    tags_only = '--tags' in sys.argv  # XXX: very cheap cmd line arg parsing
     recipe = defaultdict(list)
     lines = []
     nutrition = []
@@ -304,6 +305,16 @@ def main():
     md_text = md_text.replace('http://bit.ly/4frc4Vj', '[http﹕//bit.ly/4frc4Vj]'
         '(https://github.com/jhermann/ice-creamery/tree/main/'
         'recipes/Ice%20Cream%20Stabilizer%20%28ICS%29)')  # take care of Reddit stupidness
+    if tags_only:
+        md_text = Path(md_file).read_text(encoding='utf-8').splitlines()
+        if md_text[0] == '---':
+            for idx in range(1, len(md_text)):
+                if md_text[idx] == '---':
+                    del md_text[0:idx+1]
+                    break
+        md_text = '\n'.join(md_text).strip() + '\n'
+        md_text = add_default_tags(md_text, docmeta)
+        print(f'Updating tags only: {", ".join(sorted(docmeta["tags"]))}')
     with open(md_file, 'w', encoding='utf-8') as out:
         out.write(md_text)
 
