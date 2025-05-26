@@ -1,6 +1,7 @@
 ---
 description: Recipe for the Ninja Creami Deluxe [24oz]
 tags:
+- Coconut
 - Dairy
 - Erythritol
 - Low-Sugar

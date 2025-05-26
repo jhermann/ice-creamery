@@ -45,6 +45,7 @@ a.md-tag[href*="tag:low-"] {
 }
 
 a.md-tag[href*="tag:cooked-base"],
+a.md-tag[href*="tag:coconut"],
 a.md-tag[href*="tag:dairy"],
 a.md-tag[href*="tag:dairy-free"],
 a.md-tag[href*="tag:fruit"],
