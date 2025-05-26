@@ -11,7 +11,7 @@ tags:
 - Polysaccharide Gum
 - Xylitol
 ---
-# Slim Banana (Deluxe)
+# Banana • Slim (Deluxe)
 
 Process on FroYo, followed by a scrape down and a re-spin.
 
