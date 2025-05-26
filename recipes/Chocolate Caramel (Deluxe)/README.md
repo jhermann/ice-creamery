@@ -3,6 +3,7 @@ description: Recipe for the Ninja Creami Deluxe [24oz]
 tags:
 - Dairy
 - Erythritol
+- Favorite
 - Hi-Protein
 - Low-Sugar
 - Tylo Powder (CMC)

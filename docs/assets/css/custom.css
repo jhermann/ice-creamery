@@ -23,7 +23,8 @@ a.headerlink:hover:after {
   text-shadow: 1px 1px 0 #ffff0099;
 }
 
-a.md-tag[href$="tag:draft"] {
+a.md-tag[href$="tag:draft"],
+a.md-tag[href$="tag:favorite"] {
   color: #ff4400 !important;
 }
 
