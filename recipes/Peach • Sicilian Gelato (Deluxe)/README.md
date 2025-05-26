@@ -8,6 +8,7 @@ tags:
 - Low-Fat
 - Low-Sugar
 - Xylitol
+- Vegan
 ---
 # Peach • Sicilian Gelato (Deluxe)
 
@@ -18,6 +19,8 @@ Sicilian gelato is thickened with cornstarch instead of eggs, a traditional meth
 Process on Lite Ice Cream.
 
 Rating: 😋 (untested)
+
+> ‼️ This is vegan if you leave out the 10g of SMP (use more inulin).
 
 # INGREDIENTS
 
@@ -34,7 +37,7 @@ Rating: 😋 (untested)
   - _25g_ Xylitol • POD = 100%; GI = 7
   - _10g_ Corn starch
   - _10g_ Inulin [Vit4ever] • Sweetness = 8%; GI ~= 0
-  - _10g_ Skim Milkpowder 1:10 [Vita2You]
+  - _10g_ Skim Milkpowder 1:10 [Vita2You] • Leave out for vegan, use more inulin instead
   - _0.5g_ Salt • 10-15 shakes
 
 **Fill to MAX**
