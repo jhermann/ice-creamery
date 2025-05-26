@@ -8,7 +8,7 @@ tags:
 - Low-Sugar
 - Tylo Powder (CMC)
 - Vanilla
-- Xanthan
+- Polysaccharide Gum
 - Xylitol
 ---
 # Chocolate Caramel (Deluxe)

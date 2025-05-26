@@ -8,7 +8,7 @@ tags:
 - Stevia
 - Tylo Powder (CMC)
 - Vanilla
-- Xanthan
+- Polysaccharide Gum
 - Xylitol
 ---
 # Strawberry Cheesecake (Deluxe)

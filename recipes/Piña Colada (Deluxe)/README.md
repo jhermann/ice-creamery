@@ -5,7 +5,7 @@ tags:
 - Erythritol
 - Fruit
 - Tylo Powder (CMC)
-- Xanthan
+- Polysaccharide Gum
 - Xylitol
 ---
 # Piña Colada (Deluxe)

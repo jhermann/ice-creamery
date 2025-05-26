@@ -5,7 +5,7 @@ tags:
 - Erythritol
 - Low-Fat
 - Low-Sugar
-- Xanthan
+- Polysaccharide Gum
 - Xylitol
 ---
 # Almond Milk Mix

@@ -8,7 +8,7 @@ tags:
 - Low-Fat
 - Tylo Powder (CMC)
 - Vanilla
-- Xanthan
+- Polysaccharide Gum
 - Xylitol
 ---
 # Banana Ice Cream (Deluxe)

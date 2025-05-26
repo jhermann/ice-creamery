@@ -9,7 +9,7 @@ tags:
 - Tylo Powder (CMC)
 - Vanilla
 - Vegan
-- Xanthan
+- Polysaccharide Gum
 - Xylitol
 ---
 # Banana • Dairy-Free + Vegan (Deluxe)

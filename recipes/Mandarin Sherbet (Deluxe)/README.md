@@ -7,7 +7,7 @@ tags:
 - Low-Fat
 - Sorbet
 - Tylo Powder (CMC)
-- Xanthan
+- Polysaccharide Gum
 - Xylitol
 ---
 # Mandarin Sherbet (Deluxe)

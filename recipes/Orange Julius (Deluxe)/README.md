@@ -9,7 +9,7 @@ tags:
 - Sorbet
 - Tylo Powder (CMC)
 - Vanilla
-- Xanthan
+- Polysaccharide Gum
 - Xylitol
 ---
 # Orange Julius (Deluxe)

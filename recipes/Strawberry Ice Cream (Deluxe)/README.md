@@ -7,7 +7,7 @@ tags:
 - Fruit
 - Tylo Powder (CMC)
 - Vanilla
-- Xanthan
+- Polysaccharide Gum
 - Xylitol
 ---
 # Strawberry Ice Cream (Deluxe)

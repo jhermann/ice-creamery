@@ -5,9 +5,9 @@ tags:
 - Draft
 - Erythritol
 - Fruit
+- Polysaccharide Gum
 - Sorbet
 - Tylo Powder (CMC)
-- Xanthan
 - Xylitol
 ---
 # Plum Sherbet (Deluxe)

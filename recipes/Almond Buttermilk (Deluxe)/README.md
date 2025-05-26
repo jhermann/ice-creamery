@@ -5,7 +5,7 @@ tags:
 - Erythritol
 - Stevia
 - Tylo Powder (CMC)
-- Xanthan
+- Polysaccharide Gum
 - Xylitol
 ---
 # Almond Buttermilk (Deluxe)

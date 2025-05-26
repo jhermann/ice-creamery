@@ -6,7 +6,7 @@ tags:
 - Low-Fat
 - Low-Sugar
 - Vanilla
-- Xanthan
+- Polysaccharide Gum
 - Xylitol
 ---
 # Vanil-Low (Deluxe)
