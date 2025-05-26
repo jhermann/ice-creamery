@@ -12,6 +12,7 @@ tags:
 - Xylitol
 ---
 # Strawberry Cheesecake (Deluxe)
+<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/assets/strawberry-ice-cream-logo.png" />
 
 A great combination of various tart flavors,
 and a variation of my German cheesecake base, which is made with ‘Quark’ or ‘Topfen’

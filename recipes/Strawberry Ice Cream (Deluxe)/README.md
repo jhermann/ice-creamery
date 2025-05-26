@@ -11,6 +11,7 @@ tags:
 - Xylitol
 ---
 # Strawberry Ice Cream (Deluxe)
+<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/assets/strawberry-ice-cream-logo.png" />
 
 Processed on Lite Ice Cream directly from the freezer,
 filled the hole with crumbled dried strawberry slices,
