@@ -66,11 +66,13 @@ DEFAULT_TAG_GROUPS = {
         'Strawberry',
         'Ube',
     ]),
+    'Polysaccharide Gum': set([
+        'LBG', 'Locust', 'Guar', 'Tara', 'XG', 'Xanthan',
+    ]),
     'Sorbet': set(['Sherbet']),
 }
 DEFAULT_TAGS_EXACT = {
     '(Deluxe)': 'Deluxe',
-    'XG': 'Xanthan',
     'CMC': 'Tylo Powder (CMC)',
 }
 
