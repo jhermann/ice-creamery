@@ -3,7 +3,7 @@
 Spun in Light Ice Cream mode, plus a mix-in run with 10g freeze-dried strawberry slices.
 Comes out as soft-serve, I put it back into the cold for 45min for a firmer consistency.
 
-> <img width=720 alt="Spun Ice Cream" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/recipes/Fruit%20Powder%20Mix/Strawberry-FP-Mix_2024-11-21.jpg" />
+> <img width=360 alt="Spun Ice Cream" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/recipes/Fruit%20Powder%20Mix/Strawberry-FP-Mix_2024-11-21.jpg" />
 
 This one is a favorite, so it gets its own recipe mix for convenient indulgence…
 It works for fruit or root powders with a sugar content from low (Ube, 10%) to high (Lingonberry, 73%).

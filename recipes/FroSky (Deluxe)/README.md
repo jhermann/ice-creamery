@@ -2,7 +2,7 @@
 
 Tangy & fresh.
 
-> <img width=720 alt="Spun Ice Cream" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/recipes/FroSky%20(Deluxe)/frosky-mango_2024-11-13.jpg" />
+> <img width=360 alt="Spun Ice Cream" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/recipes/FroSky%20(Deluxe)/frosky-mango_2024-11-13.jpg" />
 
 Rating: 😋😋😋😋
 
