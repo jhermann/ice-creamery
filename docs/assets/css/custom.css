@@ -39,6 +39,7 @@ a.md-tag[href$="-cmc"] {
   color: #880033 !important;
 }
 
+a.md-tag[href*="tag:light"],
 a.md-tag[href*="tag:hi-"],
 a.md-tag[href*="tag:low-"] {
   color: yellow !important;
