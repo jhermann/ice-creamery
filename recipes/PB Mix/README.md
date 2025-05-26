@@ -11,11 +11,13 @@ tags:
 - Xylitol
 ---
 # PB Mix
+<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/recipes/PB%20Mix/pb-ice-cream-logo.png" />
 
 PB&J ice cream, based on PB powder and dried strawberry slices.
 This one is a favorite, so it gets its own recipe mix for convenient indulgence…
 
 > <img width=360 alt="Spun Ice Cream" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/recipes/PB%20Mix/PB-Mix_2024-11-12_1.jpg" />
+
 Rating: 😋😋😋😋
 
 Counting the pre-made mix as one, it is a 7 ingredients recipe for the final base, including the water.
@@ -28,6 +30,10 @@ To make your life easier, take the “prep” ingredients times 4, mix them,
 and store in an air-tight 1l or 1.3l container (1l is the minimum you need for 500g powder).
 To mix, take a BIG bowl like used for baking, measure the ingredients,
 and whisk them carefully but thoroughly. A ball whisk works best.
+
+> <img width=360 alt="Spun Ice Cream" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/recipes/PB%20Mix/pb-mix_1day_16C.jpg" />
+>
+> *The base is freezer stable, this one is fresh out of the freezer (-16°C) 1 day after processing.*
 
 **Serves:** 4 tubs          
 **Total:** 496 g          
