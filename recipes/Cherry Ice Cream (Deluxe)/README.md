@@ -14,8 +14,9 @@ tags:
 - Xylitol
 ---
 # Cherry Ice Cream (Deluxe)
+<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/recipes/Cherry%20Ice%20Cream%20(Deluxe)/cherry-bliss.png" />
 
-> <img width=360 alt="Spun Ice Cream" src="https://github.com/jhermann/ice-creamery/blob/main/recipes/Cherry%20Ice%20Cream%20(Deluxe)/cherry_2024-10-23.jpg?raw=true" />
+> <img width=360 alt="Spun Ice Cream" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/recipes/Cherry%20Ice%20Cream%20(Deluxe)/cherry_2024-10-23.jpg" />
 
 # INGREDIENTS
 
