@@ -10,6 +10,8 @@ theme:
   favicon: assets/favicon.png
   features:
     - navigation.tabs
+    - search.highlight
+    - search.suggest
     - toc.follow
 
 plugins:
