@@ -1,17 +1,18 @@
 R-ice Cream (Deluxe);;;;;;;;;;;;
 ;;;;;;;;;;;;
 ;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;
-Nutritional values per 100g/ml;100;g;;102.3;2.8;18.3;1.8;2.5;0.3;;;
-Nutritional values per ½ Deluxe Tub;360;g;;368.1;10.1;66.1;6.5;8.8;1.2;;;
-Nutritional values total;711;g;;727.1;19.9;130.5;12.8;17.4;2.4;;;
+Nutritional values per 100g/ml;100;g;;101.8;2.8;18.3;1.8;2.4;0.3;;;
+Nutritional values per ½ Deluxe Tub;360;g;;366.6;10.0;65.8;6.5;8.8;1.2;;;
+Nutritional values total;714;g;;727.1;19.9;130.5;12.8;17.4;2.4;;;
 ;;;;;;;;;;;;
-FPDF / PAC (target 20..30);29.84;;;;;;;;;;;
+FPDF / PAC (target 20..30);29.72;;;;;;;;;;;
 "Protein / Energy Ratio (ok=12%; hi=20%)";9.58%;;;;LOW-FAT;;Low-Sugar;;;;;
-Milk Solids Non-Fat (MSNF, 7-11%);23.1;g;;3.3%;;;;;;;;
+Milk Solids Non-Fat (MSNF, 7-11%);23.1;g;;3.2%;;;;;;;;
 ;;;;;;;;;;;;
 Milk rice gelato, inspired by https://youtu.be/9naNqC0I6g0 from *Polar Ice Cream*.;;;;;;;;;;;;
 ;;;;;;;;;;;;
- 1. Wash the rice in a sieve, and cook it on medium heat for 30min with the other ‘prep’ ingredients.;;;;;;;;;;;;
+" 1. Wash the rice in a sieve, and cook it on medium heat for 30min with the other ‘prep’ ingredients.
+ 1. Add ""wet"" ingredients and the cooked rice to empty Creami tub.";;;;;;;;;;;;
 ;;;;;;;;;;;;
 "Process on Lite Ice Cream.
 
@@ -26,6 +27,7 @@ Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment
 Almond milk (unsweetened) [REWE Bio];300.00;ml;0;19.00;1.70;0.00;0.00;0.80;0.15;;;with guar gum (<1.5g)
 Paella Rice (Bomba) [Santo Tomas];75.00;g;0;344.00;0.68;76.90;0.21;7.00;0.01;;;"Wash the rice; can use any short grain rice"
 Xylitol;40.00;g;0;238.00;;100.00;;;;2.20;;"POD = 100%; GI = 7"
+Cinnamon (Ceylon);3.00;g;0;;;;;;;;;1tsp = 3g
 Salt;1.00;g;0;;;;;;100.00;5.90;;
 Skim Milk 1.5% [Weihenstephan];200.00;ml;1;47.00;1.50;4.90;4.90;3.50;0.11;0.05;9.16;
 Cream Cheese 23% [Exquisa];50.00;g;1;238.00;22.50;3.00;3.00;5.50;0.70;0.03;9.64;
