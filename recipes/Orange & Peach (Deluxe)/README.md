@@ -11,6 +11,7 @@ tags:
 - Xylitol
 ---
 # Orange & Peach (Deluxe)
+<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/assets/orange-ice-cream-logo.png" />
 
 Processed on Light Ice Cream to an airy soft serve.
 

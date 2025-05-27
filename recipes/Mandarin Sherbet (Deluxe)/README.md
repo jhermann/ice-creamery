@@ -11,6 +11,7 @@ tags:
 - Xylitol
 ---
 # Mandarin Sherbet (Deluxe)
+<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/assets/orange-ice-cream-logo.png" />
 
 Mostly mandarin slices and juice, which means a relatively high sugar content, but still reasonably lo-cal because it has only 2% fat.
 
