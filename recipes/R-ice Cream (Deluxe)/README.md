@@ -44,13 +44,12 @@ Rating: 😋 (untested)
 
 **Dry**
 
-  - _20g_ ICSv2 [Erythritol / CMC / Tara / XG / Inulin] • [http﹕//bit.ly/4frc4Vj](https://github.com/jhermann/ice-creamery/tree/main/recipes/Ice%20Cream%20Stabilizer%20%28ICS%29)
-  - _5g_ Vanilla Bean Powder [InterVanilla]
+  - _15g_ ICSv2 [Erythritol / CMC / Tara / XG / Inulin] • [http﹕//bit.ly/4frc4Vj](https://github.com/jhermann/ice-creamery/tree/main/recipes/Ice%20Cream%20Stabilizer%20%28ICS%29)
+  - _4g_ Vanilla Bean Powder [InterVanilla]
 
 # DIRECTIONS
 
  1. Wash the rice in a sieve, and cook it on medium heat until very soft (~30min), together with the other ‘prep’ ingredients.
- 1. Wash the rice in a sieve, and cook it on medium heat for 30min with the other ‘prep’ ingredients.
  1. Add "wet" ingredients and the cooked rice to empty Creami tub.
  1. Weigh and mix dry ingredients, easiest by adding to a jar with a secure lid and shaking vigorously.
  1. Pour into the tub and *QUICKLY* use an immersion blender on full speed to homogenize everything.
@@ -59,12 +58,12 @@ Rating: 😋 (untested)
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
 
 # NUTRITIONAL & OTHER INFO
-- **Nutritional values per 100g/ml:** 100g; 101.8 kcal; fat 2.8g; carbs 18.3g; sugar 1.8g; protein 2.4g; salt 0.3g
-- **Nutritional values per ½ Deluxe Tub:** 360g; 366.6 kcal; fat 10.0g; carbs 65.8g; sugar 6.5g; protein 8.8g; salt 1.2g
-- **Nutritional values total:** 714g; 727.1 kcal; fat 19.9g; carbs 130.5g; sugar 12.8g; protein 17.4g; salt 2.4g
-- **FPDF / PAC (target 20..30):** 29.72
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 9.58% • LOW-FAT • Low-Sugar
-- **Milk Solids Non-Fat (MSNF, 7-11%):** 23.1g • 3.2%
+- **Nutritional values per 100g/ml:** 100g; 101.5 kcal; fat 2.8g; carbs 18.0g; sugar 1.8g; protein 2.5g; salt 0.3g
+- **Nutritional values per ½ Deluxe Tub:** 360g; 365.5 kcal; fat 10.1g; carbs 64.9g; sugar 6.4g; protein 8.9g; salt 1.2g
+- **Nutritional values total:** 708g; 718.8 kcal; fat 19.9g; carbs 127.6g; sugar 12.5g; protein 17.4g; salt 2.3g
+- **FPDF / PAC (target 20..30):** 28.96
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 9.69% • LOW-FAT • Low-Sugar
+- **Milk Solids Non-Fat (MSNF, 7-11%):** 23.1g • 3.3%
 - **30g Ice Cream Stabilizer (ICSv2) is:** 14.3g erythritol, 1.43g Tylose powder (CMC, E466), 
 0.5g tara gum (E417), 0.15g xanthan (E415),
 14.3g inulin, 0.5g salt.
