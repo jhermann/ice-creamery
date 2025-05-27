@@ -13,6 +13,7 @@ tags:
 - Xylitol
 ---
 # Banana • Slim (Deluxe)
+<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/assets/banana-ice-cream-logo.png" />
 
 Process on FroYo, followed by a scrape down and a re-spin.
 

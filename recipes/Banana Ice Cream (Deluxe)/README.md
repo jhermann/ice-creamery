@@ -12,6 +12,7 @@ tags:
 - Xylitol
 ---
 # Banana Ice Cream (Deluxe)
+<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/assets/banana-ice-cream-logo.png" />
 
 FroYo spin, mix-in with crushed cantuccini, and topped with almonds.
 Very dense and non-melty, no ice crystals whatsoever.
