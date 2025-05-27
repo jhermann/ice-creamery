@@ -14,7 +14,7 @@ tags:
 ---
 # R-ice Cream (Deluxe)
 
-Milk rice gelato, inspired by https://youtu.be/9naNqC0I6g0 from *Polar Ice Cream*.
+Milk rice gelato, inspired by [Gelato di Riso](https://youtu.be/9naNqC0I6g0) from *Polar Ice Cream*.
 
 Process on Lite Ice Cream.
 
