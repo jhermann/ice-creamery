@@ -49,6 +49,7 @@ Rating: 😋 (untested)
 
 # DIRECTIONS
 
+ 1. Wash the rice in a sieve, and cook it on medium heat until very soft (~30min), together with the other ‘prep’ ingredients.
  1. Wash the rice in a sieve, and cook it on medium heat for 30min with the other ‘prep’ ingredients.
  1. Add "wet" ingredients and the cooked rice to empty Creami tub.
  1. Weigh and mix dry ingredients, easiest by adding to a jar with a secure lid and shaking vigorously.
