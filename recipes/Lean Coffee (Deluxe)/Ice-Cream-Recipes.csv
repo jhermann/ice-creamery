@@ -1,0 +1,39 @@
+Lean Coffee (Deluxe);;;;;;;;;;;;
+;;;;;;;;;;;;
+;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;
+Nutritional values per 100g/ml;100;g;;66.6;1.0;10.9;2.5;5.4;0.2;;;
+Nutritional values per ½ Deluxe Tub;360;g;;239.8;3.4;39.3;9.1;19.4;0.8;;;
+Nutritional values total;720;g;;479.6;6.9;78.5;18.2;38.8;1.6;;;
+;;;;;;;;;;;;
+FPDF / PAC (target 20..30);30.19;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";32.39%;;;;LOW-FAT;;Low-Sugar;Hi-Protein;;;;
+Milk Solids Non-Fat (MSNF, 7-11%);61.8;g;;8.6%;;;;;;;;
+;;;;;;;;;;;;
+"A version of “Coffee & Cream” with calories reduced by about 30%
+
+Spun on Sorbet, followed by a scrape-down and a re-spin.
+Went to the freezer again for an hour to firm up.";;;;;;;;;;;;
+;;;;;;;;;;;;
+"The coffee flavor is there but not dominant,
+the consistency is soft and from experience will get a bit firmer after several hours in the freezer.";;;;;;;;;;;;
+;;;;;;;;;;;;
+Rating: 😋😋😋😋☕;;;;;;;;;;;;
+30g Ice Cream Stabilizer (ICSv2) is;"14.3g erythritol, 1.43g Tylose powder (CMC, E466), 
+0.5g tara gum (E417), 0.15g xanthan (E415),
+14.3g inulin, 0.5g salt.";;;;;;;;;;;
+The [brand names] used are in brackets.;;;;;;;;;;;;
+;;;;;;;;;;;;
+Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment
+Extra strong coffee;325.00;ml;1;0.00;0.00;0.00;0.00;0.00;0.00;;;
+Skim Milk 1.5% [Weihenstephan];100.00;ml;1;47.00;1.50;4.90;4.90;3.50;0.11;0.05;9.16;
+Cottage Cheese 4% [REWE Bio];100.00;g;1;91.00;4.00;1.00;1.00;12.70;0.69;0.01;16.00;
+Glycerin (E422, VG) [hd-line];15.00;g;1;400.00;0.00;99.00;0.00;0.00;0.00;3.70;;"Sweetness = 60%; GI = 5"
+Brandy 40 vol%;10.00;g;1;280.00;;;;;;2.96;;
+Flavor drops Caramel [IronMaxx];7.00;drops;1;;;;;;;;;with sucralose
+ICSv2 [Erythritol / CMC / Tara / XG / Inulin];30.00;g;2;107.3;0.0;54.7;3.7;0.1;1.7;1.32;;http://bit.ly/4frc4Vj
+Xylitol;30.00;g;2;238.00;0.00;100.00;0.00;0.00;0.00;2.20;;"Sweetness = 100%; GI = 7"
+Whey protein Vanilla [MaxiNutrition];20.00;g;2;392.00;5.80;6.20;5.30;78.00;0.57;0.05;89.20;
+Skim Milkpowder 1:10 [Vita2You];20.00;g;2;358.00;0.97;50.50;50.50;35.00;1.00;0.51;94.03;
+Cream 32% [REWE Beste Wahl];;ml;3;311.00;32.00;3.20;3.20;2.50;0.13;0.03;6.32;
+;;;;;;;;;;;;
+Water to MAX line;70.00;ml;3;;;;;;;;;
