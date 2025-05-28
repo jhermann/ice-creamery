@@ -9,6 +9,7 @@ tags:
 - Xylitol
 ---
 # Lazy Apricot FroYo (Deluxe)
+<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/assets/froyo-ice-cream-logo.png" />
 
 “Lazily” using a container of pre-flavored yogurt,
 just adding a few things for freezing point depression

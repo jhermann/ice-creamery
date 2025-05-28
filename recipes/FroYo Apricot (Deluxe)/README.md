@@ -8,6 +8,7 @@ tags:
 - Xylitol
 ---
 # FroYo Apricot (Deluxe)
+<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/assets/froyo-ice-cream-logo.png" />
 
 Fruity, a little tangy, perfect consistency after 1st FROYO spin.
 
