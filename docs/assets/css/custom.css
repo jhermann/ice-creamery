@@ -28,6 +28,9 @@ a.md-tag[href$="tag:favorite"] {
   color: #ff4400 !important;
 }
 
+a.md-tag[href$="tag:allulose"],
+a.md-tag[href$="tag:monk-fruit"],
+a.md-tag[href$="tag:sucralose"],
 a.md-tag[href$="tag:erythritol"],
 a.md-tag[href$="tag:stevia"],
 a.md-tag[href$="tag:xylitol"] {

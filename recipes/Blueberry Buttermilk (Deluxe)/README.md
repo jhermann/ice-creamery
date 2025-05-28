@@ -2,7 +2,6 @@
 description: Recipe for the Ninja Creami Deluxe [24oz]
 tags:
 - Dairy
-- Draft
 - Erythritol
 - Fruit
 - Hi-Protein
@@ -10,6 +9,7 @@ tags:
 - Low-Fat
 - Low-Sugar
 - Polysaccharide Gum
+- Sucralose
 - Tylo Powder (CMC)
 - Vanilla
 - Xylitol

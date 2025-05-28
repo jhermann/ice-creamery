@@ -40,11 +40,14 @@ MD_FILE = 'recipe-{file_title}.md'
 
 TAG_LIGHT_KCAL_LIMIT = 75.0
 DEFAULT_TAGS = set([
+    'Allulose',
     'Erythritol',
     'Hi-Protein',
     'Low-Fat',
     'Low-Sugar',
+    'Monk-Fruit',
     'Stevia',
+    'Sucralose',
     'Xylitol',
     'Vanilla',
 ])
