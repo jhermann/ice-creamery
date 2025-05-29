@@ -12,6 +12,7 @@ tags:
 - Xylitol
 ---
 # Chocolate Caramel (Deluxe)
+<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/assets/chocolate-ice-cream-logo.png" />
 
 FroYo spin; very dense; a few small ice crystals. Taste of the cocoa and caramel combo is great.
 

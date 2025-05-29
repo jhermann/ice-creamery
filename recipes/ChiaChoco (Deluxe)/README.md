@@ -7,6 +7,7 @@ tags:
 - Xylitol
 ---
 # ChiaChoco (Deluxe)
+<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/assets/chocolate-ice-cream-logo.png" />
 
 After mixing, let the base sit in the fridge for at least 30min (better 2h), for the chia to properly soak. Stir before freezing.
 
