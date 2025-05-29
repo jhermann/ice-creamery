@@ -3,6 +3,7 @@ description: Recipe for the Ninja Creami Deluxe [24oz]
 tags:
 - Dairy
 - Erythritol
+- Favorite
 - Fruit
 - Hi-Protein
 - Light

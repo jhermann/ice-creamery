@@ -4,6 +4,7 @@ tags:
 - Dairy
 - Draft
 - Erythritol
+- Favorite
 - Fruit
 - Tylo Powder (CMC)
 - Vanilla

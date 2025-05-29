@@ -3,6 +3,7 @@ description: Mostly mandarin slices and juice, at 7% sugar and 2% fat [24oz]
 tags:
 - Dairy
 - Erythritol
+- Favorite
 - Fruit
 - Low-Fat
 - Sorbet
