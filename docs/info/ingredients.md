@@ -51,13 +51,21 @@ RDA is 8-18g (tested for up to 24 weeks). Most common side effects include gas, 
 
 Natural chicory / agave inulin has 8g sugar, and 88% fiber. Further processing leads to HP inulin that has 97% fiber and 0% sugar, and it needs to be heated to 65°C to dissolve.
 
-### Stevia
+### Stevia (E960)
 
 Stevia is a natural, calorie-free sweetener derived from the leaves of the *Stevia rebaudiana* plant, native to South America. The leaves contain compounds called steviol glycosides, which are significantly sweeter than sugar (around 200-400 times sweeter).
 
-Many people find stevia to have a slight bitter or licorice aftertaste.
+Many people find stevia to have a slightly bitter or licorice aftertaste.
 
 In ice cream, stevia in its pure form (as a liquid) makes it simple to dial in the sweetness of a base without influencing its texture and PAC value.
+
+### Sucralose (E955)
+
+Sucralose is a non-caloric artificial sweetener that is about 600 times sweeter than table sugar.
+It is derived from sucrose through a chemical process.
+Sucralose is commonly known by the brand name Splenda.
+
+Like stevia, when used in liquid form, it makes it simple to dial in the sweetness of a base without influencing its texture and PAC value.
 
 ### Vegetable Glycerin / Glycerol (VG / E422)
 
