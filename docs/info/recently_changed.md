@@ -1,3 +1,5 @@
+# Recently Changed
+
 These recipes were changed in the last 2 months.
 
  * [Almond Buttermilk (Deluxe)](/ice-creamery/A/Almond Buttermilk (Deluxe))
