@@ -4,6 +4,10 @@ A measure of the amount of reducing sugars present in a sugar product, expressed
 
 The dextrose equivalent gives an indication of the average degree of polymerisation (DP) for starch sugars. As a rule of thumb, `DE × DP = 120`.
 
+## Freezing Point Depression Factor (FPDF)
+
+See [PAC](#potere-anti-congelante-pac).
+
 ## Potere Anti Congelante (PAC)
 
 PAC is the same as FPDF but includes lactose, which constitutes 54.5% of MSNF. Typically SMP (skimmed milk powder) contains 97% MSNF, so 53% of lactose.
