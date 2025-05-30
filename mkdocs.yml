@@ -10,10 +10,11 @@ theme:
   favicon: assets/favicon.png
   features:
     - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.path
     - search.highlight
     - search.share
     - search.suggest
-    - toc.follow
 
 plugins:
   - search
