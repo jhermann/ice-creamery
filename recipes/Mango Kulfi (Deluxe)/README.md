@@ -10,6 +10,7 @@ tags:
 - Xylitol
 ---
 # Mango Kulfi (Deluxe)
+<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/assets/mango-ice-cream-logo.png" />
 
 Processed on Sorbet, scrape-down and a mix-in run resulted in a soft consistency, on the firmer side.
 
