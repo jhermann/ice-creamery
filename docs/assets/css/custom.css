@@ -1,3 +1,8 @@
+.md-nav__item--active label span.md-ellipsis {
+  color: teal;
+  font-style: italic;
+}
+
 #print-site-page nav,
 #print-site-page .md-header,
 #print-site-page .md-sidebar,
@@ -6,8 +11,8 @@
 #print-site-page .md-tags,
 #print-site-page .md-header__inner
 {
-    display: none !important;
-    height: 0px;
+  display: none !important;
+  height: 0px;
 }
 
 a.headerlink {
