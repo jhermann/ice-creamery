@@ -38,4 +38,11 @@ To fix that, **after** the 1st (main) processing step, run *cold* tap water (20.
 
 Then, for already relatively soft bases, do a 2nd run on "Mix-in" to minimize the additional heat induced, otherwise perform a "Respin."
 
+If your ice cream gets too soft that way, put it back into the freezer for at least an hour.
+Once you made a recipe, you know how it reacts and can plan ahead accordingly.
+
+Recipes with a PAC value of about 25 typically need a refreeze — see it as an advantage
+since you can spin a base during the day and enjoy it late at night without any noise polution.
+And later on, any left-overs can be consumed directly out of the freezer, since they remain scoopable permanently.
+
 > ⛔ It is *not* recommended to use hot water *before* the 1st (main) processing step! You risk your machine since the frozen block can get loose and spin within the tub, with commonly catastrophic consequences (burn-out of the machine, shearing of the rod tip and paddle).
