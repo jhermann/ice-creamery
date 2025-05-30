@@ -53,11 +53,32 @@ Natural chicory / agave inulin has 8g sugar, and 88% fiber. Further processing l
 
 ### Stevia
 
+Stevia is a natural, calorie-free sweetener derived from the leaves of the *Stevia rebaudiana* plant, native to South America. The leaves contain compounds called steviol glycosides, which are significantly sweeter than sugar (around 200-400 times sweeter).
+
+Many people find stevia to have a slight bitter or licorice aftertaste.
+
+In ice cream, stevia in its pure form (as a liquid) makes it simple to dial in the sweetness of a base without influencing its texture and PAC value.
+
 ### Vegetable Glycerin / Glycerol (VG / E422)
 
-VegetableGlycerin has 60% the sweetness of table sugar, and is hygroscopic. Shelf life of glycerin is 24 months when stored below 100°F in a closed container.
+Glycerin, also known as glycerol or E422, is widely used in ice cream to reduce the hardness of the frozen base.
+It is a sugar alcohol and has one of the highest freezing point depression factors, at 3.7 compared to table sugar.
+
+It is a clear, odorless, and sweet-tasting liquid with a syrupy consistency.
+
+*Vegetable* glycerin is typically made from plant oils like soybean, coconut, or palm oil.
+It has 60% the sweetness of table sugar, and is hygroscopic.
+Shelf life of glycerin is 24 months when stored below 100°F in a closed container.
 
 *Dosage:*  Add 5-15g to a 720g mix.
+
+Glycerin serves several key purposes in ice cream:
+
+ * *Anti-freeze and Anti-crystallization:* This is its primary function. Glycerin helps to prevent the formation of large, hard ice crystals, which can make ice cream feel icy and less creamy. By lowering the freezing point of water and retaining moisture, it ensures a smoother, more scoopable texture, even at very low freezer temperatures. This is particularly beneficial for homemade ice cream, or for ice creams that are refrozen.
+ * *Humectant:* It acts as a humectant, meaning it helps to retain moisture. This contributes to the overall texture and prevents the ice cream from drying out or becoming too hard.
+ * *Emulsifier:* Glycerin can help oil and water-based ingredients mix more effectively, improving the stability and consistency of the ice cream.
+ * *Sweetener:* While it has a mild sweetness (about 60-75% as sweet as sugar), its sweetening power in the small amounts used in ice cream is often negligible compared to its other functional benefits. It's also considered a sugar substitute with a lower glycemic index.
+
 
 ### Xylitol (E967)
 
