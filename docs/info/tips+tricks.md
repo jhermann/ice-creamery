@@ -41,7 +41,7 @@ Then, for already relatively soft bases, do a 2nd run on "Mix-in" to minimize th
 If your ice cream gets too soft that way, put it back into the freezer for at least an hour.
 Once you made a recipe, you know how it reacts and can plan ahead accordingly.
 
-Recipes with a PAC value of about 25 typically need a refreeze — see it as an advantage
+Recipes with a PAC value of above 25 typically need a refreeze — see it as an advantage
 since you can spin a base during the day and enjoy it late at night without any noise pollution.
 And later on, any left-overs can be consumed directly out of the freezer, since they remain scoopable permanently.
 
