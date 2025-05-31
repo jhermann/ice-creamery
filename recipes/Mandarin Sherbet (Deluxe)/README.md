@@ -68,4 +68,4 @@ Rating: 😋😋😋😋❄️
 - **Oct 14, 2024:** Dense, intensive, some small ice crystals
 - **Oct 19, 2024:** Changed recipe
 - **Nov 11, 2024:** Switched to ICSv2, added SMP
-- **Dec 13, 2024:** Half the fruit, added milk + flavor doprs
+- **Dec 13, 2024:** Half the fruit, added milk + flavor drops
