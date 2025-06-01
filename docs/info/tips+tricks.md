@@ -54,7 +54,7 @@ Here's a breakdown of how speed and duration vary by mode:
 
 
 > Detailed movement durations and spin speeds for different modes
-> <br /><sup>*(source: [Dream Scoops](https://www.dreamscoops.com/best-ice-cream-gelato-maker/ninja-creami-review/) • [IngoCoffee's video](https://www.youtube.com/watch?v=W6oqyBKQ2vg&t=7s) • [Swirl](https://www.reddit.com/r/ninjacreami/comments/13kt4a7/comment/mtalfop/))*</sup>
+> <br /><sup>*(source: [Dream Scoops](https://www.dreamscoops.com/best-ice-cream-gelato-maker/ninja-creami-review/) • [IngoCoffee's video](https://www.youtube.com/watch?v=W6oqyBKQ2vg&t=7s))*</sup>
 
 <img width=720 alt="Swirl speeds" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/assets/swirl-speeds-reddit-u_rodzlenz.png" />
 
