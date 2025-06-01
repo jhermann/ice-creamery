@@ -53,7 +53,8 @@ Here's a breakdown of how speed and duration vary by mode:
 | Frozen Yogurt | 150    | 1790 	| 150  | 1790 |
 
 
-> <sup>Detailed movement durations and spin speeds for different modes *(source: [Dream Scoops](https://www.dreamscoops.com/best-ice-cream-gelato-maker/ninja-creami-review/))*</sup>
+> Detailed movement durations and spin speeds for different modes
+> <br /><sup>*(source: [Dream Scoops](https://www.dreamscoops.com/best-ice-cream-gelato-maker/ninja-creami-review/) • [IngoCoffee's video](https://www.youtube.com/watch?v=W6oqyBKQ2vg&t=7s))*</sup>
 
 ## Scrape Test, Always
 
