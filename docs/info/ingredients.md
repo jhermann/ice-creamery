@@ -154,3 +154,19 @@ In ice cream, it creates a creamier, richer mouth feel than guar gum.
 [Xanthan](https://en.wikipedia.org/wiki/Xanthan_gum) works at room temperature. To easily mix it with water, dissolve in some oil or mix with other dry ingredients first. For liquids, always use a blender or immersion blender.
 
 Combine it with LBG for a cold gel. At certain ratios, like 7:3 LBG to XG, the synergistic effect is maximized, resulting in a harder gel. Heating can facilitate the formation of the gel network.
+
+## Emulsifiers
+
+### Glycerol Monostearate (GMS / E471)
+
+Glycerol Monostearate (GMS) is an emulsifier, and also a thickening and anti-caking agent. In ice cream, it adds body and helps to create a smooth texture (by reducing ice crystal formation), and prevents it from drying out or being too sweet.
+
+GMS takes the form of a white, odorless, and sweet-tasting flaky powder that is hygroscopic.
+It's the result of a chemical reaction of glycerol with stearic acid,
+both typically refined from plant or animal sources.
+
+Due to its low HLB value of around 3.8–5.4, to incorporate GMS into a water-based solution,
+it can be first mixed with oil and then blended into the water phase (similar to xanthan).
+
+GMS is typically used at concentrations of 0.1% to 0.5% of the total mix.
+When used with CMC, typical ratios go from 2:1 to 7:1 (GMS:CMC).
