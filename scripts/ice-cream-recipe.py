@@ -60,6 +60,10 @@ DEFAULT_TAG_GROUPS = {
         'Cheese',
         'Sherbet',
     ]),
+    'Emulsifier': set([
+        'Glycerol Monostearate', 'GMS',
+        'Lecithin',
+    ]),
     'Fruit': set(['Fruit'
         'Apple', 'Apricot',
         'Banana', 'Blueberry',
