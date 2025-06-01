@@ -22,6 +22,38 @@ You typically prepare enough for 4-10 tubs, making the overall process more effi
 
 When you make the final base, you weigh that mix, making it easier to use only a kitchen scale, most of which are not that precise with low amounts.
 
+## Choosing Processing Modes
+
+Each mode has specific speeds and durations for the down / up movement, optimized for different recipe types.
+Here's a breakdown of how speed and duration vary by mode:
+
+ * **Ice Cream:** Spins at medium speed to incorporate air, resulting in a creamy and smooth texture. Needs "normal" ratios of sugar and fat.
+ * **Lite Ice Cream:** Similar to Ice Cream, but optimized for lower-fat bases, with higher spin speeds and slower movement. Often used for milk alternatives and protein shakes.
+ * **Sorbet:** Fast speed downwards to prevent large ice crystals from forming, creating a smooth, icy texture. Fast retraction at low speed.
+ * **Gelato:** The same as *Ice Cream*.
+ * **Smoothie Bowl (NC30x):** The same as *Light Ice Cream*.
+ * **Frozen Yogurt (Deluxe):** The same speeds as *Light Ice Cream*, but 5 min total duration, split equally in half. This is the *safest mode of all*, but also induces the most heat.
+ * **Milkshake:** Downwards the speed of sorbet with the duration of ice cream, and a very fast retraction at low speed.
+ * **Mix-in:** A low-speed setting used to fold in mix-ins like chocolate chips.
+ * **Respin:** Timed like *Mix-in*, but at about 2.5 times the speed, to integrate crumbly spins or induce heat for softer consistency.
+
+| Processing Mode | Time Down [s] | Down [rpm] | Time Up [s] | Spin Up [rpm] |
+| :-------------- | -----: | -----: | -----: | -----: |
+| Ice Cream 	|  60 	| 1200 	|  35 	|  450 |
+| Lite Ice Cream | 105  | 1790 	|  40 	| 1790 |
+| Sorbet 		| 105 	| 1790 	|  35 	|  450 |
+| Gelato 		|  60 	| 1200 	|  35 	|  450 |
+| Milkshake 	|  60 	| 1790 	|   5 	|  450 |
+| *Mix-in* 		|  30 	|  450 	|  35 	|  450 |
+| *Re-Spin* 		|  30 	| 1200 	|  35 	| 1200 |
+| | | *NC30x* | | |
+| Smoothie Bowl | 105 	| 1790 	|  40 	| 1790 |
+| | | *Deluxe* | | |
+| Frozen Yogurt | 150    | 1790 	| 150  | 1790 |
+
+
+> <sup>*Source: [Dream Scoops](https://www.dreamscoops.com/best-ice-cream-gelato-maker/ninja-creami-review/)*</sup>
+
 ## Scrape Test, Always
 
 *Always* perform a [scrape test](https://www.reddit.com/r/ninjacreami/comments/1hvk23j) before processing,
