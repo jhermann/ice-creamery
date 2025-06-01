@@ -187,6 +187,7 @@ def main():
         ' 1. After mixing, let the base sit in the fridge for at least 30min (better 2h),'
         ' for the seeds to properly soak. Stir before freezing.',
     ]
+    special_directions = []
     STEP_PREP = 0
     STEP_WET = 1
     STEP_DRY = 2
@@ -242,12 +243,14 @@ def main():
             nutrients = "; ".join([f'{k.lower()} {v}g' for k, v in data.items() if v])
             nutrition.append(f'**{row[0]}:** {row[1]}{row[2]}; {row[4]} kcal; {nutrients}')
 
-        # Parse to ingredient list
+        # Parse up to ingredient list
         while row[0] != 'Ingredients':  # process comment / text lines, up to the ingredient list
             row = next(reader)
             #print('!', row)
             if row[0] == 'Ingredients':
                 break  # pass header line to ingredients processing
+            elif row[0].lstrip().startswith('1. '):
+                special_directions.append(' ' + row[0].strip())
             else:
                 handle_top_row(row)
 
@@ -284,6 +287,10 @@ def main():
 
     # Add directions
     lines.extend(['', subtitle('Directions'), ''])
+    if special_directions:
+        lines.extend(special_directions)
+        if any(x in line.lower().split() for line in special_directions for x in {'heat', 'cook'}):
+            docmeta['tags'].append('Cooked Base')
     for step, (name, directions) in enumerate(steps.items()):
         if step == STEP_PREP:
             if recipe[STEP_PREP] and not any('water' in x['ingredients'].lower() for x in recipe[STEP_PREP]):
