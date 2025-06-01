@@ -2,6 +2,7 @@
 description: Recipe for the Ninja Creami Deluxe [24oz]
 tags:
 - Dairy
+- Emulsifier
 - Erythritol
 - Hi-Protein
 - Low-Sugar
@@ -23,13 +24,17 @@ Rating: 😋😋😋😋
 
 ℹ️ Brand names are in square brackets `[...]`.
 
+**Prep**
+
+  - _30g_ Pistachio butter [Limfood]
+  - _20g_ Almond butter (creamy) [Seba Garden]
+  - _4g_ Glycerol Monostearate (E471) [Bulk] • approx. 1½ tsp
+
 **Wet**
 
   - _250ml_ Skim Milk 1.5% [Weihenstephan]
   - _145g_ Greek Yogurt 9% [Lyttos]
   - _100g_ Cottage Cheese 4% [REWE Bio]
-  - _30g_ Pistachio butter [Limfood]
-  - _20g_ Almond butter (creamy) [Seba Garden]
   - _15g_ Glycerin (E422, VG) [hd-line] • Sweetness = 60%; GI = 5
   - _10g_ Brandy “Williams Birne” 40 vol%
 
@@ -38,7 +43,6 @@ Rating: 😋😋😋😋
   - _30g_ ICSv2 [Erythritol / CMC / Tara / XG / Inulin] • [http﹕//bit.ly/4frc4Vj](https://github.com/jhermann/ice-creamery/tree/main/recipes/Ice%20Cream%20Stabilizer%20%28ICS%29)
   - _25g_ Xylitol • Sweetness = 100%; GI = 7
   - _20g_ Whey protein Vanilla [MaxiNutrition]
-  - _4g_ Glycerol Monostearate (E471) [Bulk]
 
 **Fill to MAX**
 
@@ -46,7 +50,8 @@ Rating: 😋😋😋😋
 
 # DIRECTIONS
 
- 1. Add "wet" ingredients to empty Creami tub.
+ 1. Mix the GMS with the nut butters first, then add the other ‘wet’ ingredients and blend to emulsify.
+ 1. Add the prepared dry ingredients, and blend QUICKLY using an immersion blender on full speed.
  1. Weigh and mix dry ingredients, easiest by adding to a jar with a secure lid and shaking vigorously.
  1. Pour into the tub and *QUICKLY* use an immersion blender on full speed to homogenize everything.
  1. Let blender run until thickeners are properly hydrated, up to 1-2 min. Or blend again after waiting that time.
