@@ -25,6 +25,7 @@ When you make the final base, you weigh that mix, making it easier to use only a
 ## Choosing Processing Modes
 
 Each mode has specific speeds and durations for the down / up movement, optimized for different recipe types.
+
 Here's a breakdown of how speed and duration vary by mode:
 
  * **Ice Cream:** Spins at medium speed to incorporate air, resulting in a creamy and smooth texture. Needs "normal" ratios of sugar and fat.
@@ -52,7 +53,7 @@ Here's a breakdown of how speed and duration vary by mode:
 | Frozen Yogurt | 150    | 1790 	| 150  | 1790 |
 
 
-> <sup>*Source: [Dream Scoops](https://www.dreamscoops.com/best-ice-cream-gelato-maker/ninja-creami-review/)*</sup>
+> <sup>Detailed movement durations and spin speeds for different modes *(source: [Dream Scoops](https://www.dreamscoops.com/best-ice-cream-gelato-maker/ninja-creami-review/))*</sup>
 
 ## Scrape Test, Always
 
