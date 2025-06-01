@@ -39,12 +39,12 @@ Rating: 😋 (untested)
   - _20g_ Erythritol (E968) • POD = 75%
   - _15g_ Xylitol • POD = 100%; GI = 7
   - _15g_ Inulin [Vit4ever] • Sweetness = 8%; GI ~= 0
-  - _4g_ Salt
+  - _3.70g_ Salt
   - _0.30g_ Xanthan gum (E415, XG)
 
 **Fill to MAX**
 
-  - _80ml_ Water to MAX line
+  - _81ml_ Water to MAX line
 
 # DIRECTIONS
 
@@ -57,9 +57,9 @@ Rating: 😋 (untested)
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
 
 # NUTRITIONAL & OTHER INFO
-- **Nutritional values per 100g/ml:** 100g; 68.9 kcal; fat 3.0g; carbs 12.0g; sugar 4.9g; protein 1.4g; salt 0.7g
-- **Nutritional values per ½ Deluxe Tub:** 360g; 248.0 kcal; fat 10.9g; carbs 43.2g; sugar 17.7g; protein 5.1g; salt 2.4g
-- **Nutritional values total:** 720g; 496.0 kcal; fat 21.7g; carbs 86.4g; sugar 35.4g; protein 10.2g; salt 4.8g
-- **FPDF / PAC (target 20..30):** 29.64
+- **Nutritional values per 100g/ml:** 100g; 68.9 kcal; fat 3.0g; carbs 12.0g; sugar 4.9g; protein 1.4g; salt 0.6g
+- **Nutritional values per ½ Deluxe Tub:** 360g; 248.0 kcal; fat 10.9g; carbs 43.2g; sugar 17.7g; protein 5.1g; salt 2.2g
+- **Nutritional values total:** 720g; 496.0 kcal; fat 21.7g; carbs 86.4g; sugar 35.4g; protein 10.2g; salt 4.5g
+- **FPDF / PAC (target 20..30):** 29.15
 - **Protein / Energy Ratio (ok=12%; hi=20%):** 8.23% • Low-Sugar
 - **Milk Solids Non-Fat (MSNF, 7-11%):** 0.0g • 0.0%

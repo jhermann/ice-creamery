@@ -1,11 +1,11 @@
 Dulce de Leche • Vegan (Deluxe);;;;;;;;;;;;
 ;;;;;;;;;;;;
 ;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;
-Nutritional values per 100g/ml;100;g;;68.9;3.0;12.0;4.9;1.4;0.7;;;
-Nutritional values per ½ Deluxe Tub;360;g;;248.0;10.9;43.2;17.7;5.1;2.4;;;
-Nutritional values total;720;g;;496.0;21.7;86.4;35.4;10.2;4.8;;;
+Nutritional values per 100g/ml;100;g;;68.9;3.0;12.0;4.9;1.4;0.6;;;
+Nutritional values per ½ Deluxe Tub;360;g;;248.0;10.9;43.2;17.7;5.1;2.2;;;
+Nutritional values total;720;g;;496.0;21.7;86.4;35.4;10.2;4.5;;;
 ;;;;;;;;;;;;
-FPDF / PAC (target 20..30);29.64;;;;;;;;;;;
+FPDF / PAC (target 20..30);29.15;;;;;;;;;;;
 "Protein / Energy Ratio (ok=12%; hi=20%)";8.23%;;;;;;Low-Sugar;;;;;
 Milk Solids Non-Fat (MSNF, 7-11%);0.0;g;;0.0%;;;;;;;;
 ;;;;;;;;;;;;
@@ -29,9 +29,9 @@ Molasses [Grafschafter Goldsaft];;g;1;306.00;0.50;70.00;66.00;2.30;0.03;0.66;;Sw
 Erythritol (E968);20.00;g;2;24.00;0.00;100.00;0.00;0.00;0.00;2.80;;POD = 75%
 Xylitol;15.00;g;2;238.00;;100.00;;;;2.20;;"POD = 100%; GI = 7"
 Inulin [Vit4ever];15.00;g;2;210.00;;8.00;8.00;;0.20;0.09;;"Sweetness = 8%; GI ~= 0"
-Salt;4.00;g;2;;;;;;100.00;5.90;;
+Salt;3.70;g;2;;;;;;100.00;5.90;;
 Xanthan gum (E415, XG);0.30;g;2;320.00;;78.00;;6.00;1.00;;;
 Guar gum (E412);;g;2;180.00;0.60;84.00;0.00;5.50;0.30;;;
 Whey protein Vanilla [MaxiNutrition];;g;2;392.00;5.80;6.20;5.30;78.00;0.57;0.05;89.20;
 ;;;;;;;;;;;;
-Water to MAX line;80.70;ml;3;;;;;;;;;
+Water to MAX line;81.00;ml;3;;;;;;;;;
