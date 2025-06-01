@@ -13,6 +13,7 @@ tags:
 - Xylitol
 ---
 # Dulce de Leche • Vegan (Deluxe)
+<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/assets/logo-dolce-gelato.png" />
 
 Process on Lite Ice Cream.
 
