@@ -8,6 +8,18 @@ The dextrose equivalent gives an indication of the average degree of polymerisat
 
 See [PAC](#potere-anti-congelante-pac).
 
+## Hydrophilic-Lipophilic Balance (HLB)
+
+HLB is a numerical value assigned to emulsifiers to describe their balance
+between hydrophilic (water-loving) and lipophilic (oil-loving) properties.
+
+It's a scale from 0 to 20, with 0 being highly lipophilic (oil-soluble)
+and 20 being highly hydrophilic (water-soluble).
+
+HLB dictates the stability and performance of an emulsion.
+The HLB of the emulsifier needs to match the HLB requirements
+of the oil phase to create a stable emulsion.
+
 ## Potere Anti Congelante (PAC)
 
 PAC is the same as FPDF but includes lactose, which constitutes 54.5% of MSNF. Typically SMP (skimmed milk powder) contains 97% MSNF, so 53% of lactose.
