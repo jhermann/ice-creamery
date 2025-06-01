@@ -1,0 +1,37 @@
+Dulce de Leche • Vegan (Deluxe);;;;;;;;;;;;
+;;;;;;;;;;;;
+;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;
+Nutritional values per 100g/ml;100;g;;68.9;3.0;12.0;4.9;1.4;0.7;;;
+Nutritional values per ½ Deluxe Tub;360;g;;248.0;10.9;43.2;17.7;5.1;2.4;;;
+Nutritional values total;720;g;;496.0;21.7;86.4;35.4;10.2;4.8;;;
+;;;;;;;;;;;;
+FPDF / PAC (target 20..30);29.64;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";8.23%;;;;;;Low-Sugar;;;;;
+Milk Solids Non-Fat (MSNF, 7-11%);0.0;g;;0.0%;;;;;;;;
+;;;;;;;;;;;;
+Process on Lite Ice Cream.;;;;;;;;;;;;
+;;;;;;;;;;;;
+The medjool dates used here have a distinctive caramel taste with hints of vanilla.;;;;;;;;;;;;
+;;;;;;;;;;;;
+Rating: 😋 (untested);;;;;;;;;;;;
+;;;;;;;;;;;;
+The [brand names] used are in brackets.;;;;;;;;;;;;
+;;;;;;;;;;;;
+Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment
+Almond milk (unsweetened) [REWE Bio];500.00;ml;1;19.00;1.70;0.00;0.00;0.80;0.15;;;with guar gum (<1.5g)
+Coconut milk 22% [REWE Bio];0.00;ml;1;222.00;22.00;4.00;4.00;2.00;0.04;0.04;;
+Medjool dates (pitted, organic) [Seba Garden];50.00;g;1;277.00;0.20;75.00;66.00;1.80;0.01;0.66;;approx. 5 dates
+Almond butter (creamy) [Seba Garden];25.00;g;1;598.00;52.54;10.11;4.86;21.15;0.01;0.05;;
+Brandy “Williams Birne” 40 vol%;;g;1;280.00;;;;;;2.96;;
+Glycerin (E422, VG) [hd-line];10.00;g;1;400.00;;99.00;;;;3.70;;"POD = 60%; GI = 5; Density = 1.26 g/ml"
+Flavor drops Caramel [IronMaxx];5.00;drops;1;;;;;;;;;with sucralose
+Molasses [Grafschafter Goldsaft];;g;1;306.00;0.50;70.00;66.00;2.30;0.03;0.66;;Sweetness = 66%
+Erythritol (E968);20.00;g;2;24.00;0.00;100.00;0.00;0.00;0.00;2.80;;POD = 75%
+Xylitol;15.00;g;2;238.00;;100.00;;;;2.20;;"POD = 100%; GI = 7"
+Inulin [Vit4ever];15.00;g;2;210.00;;8.00;8.00;;0.20;0.09;;"Sweetness = 8%; GI ~= 0"
+Salt;4.00;g;2;;;;;;100.00;5.90;;
+Xanthan gum (E415, XG);0.30;g;2;320.00;;78.00;;6.00;1.00;;;
+Guar gum (E412);;g;2;180.00;0.60;84.00;0.00;5.50;0.30;;;
+Whey protein Vanilla [MaxiNutrition];;g;2;392.00;5.80;6.20;5.30;78.00;0.57;0.05;89.20;
+;;;;;;;;;;;;
+Water to MAX line;80.70;ml;3;;;;;;;;;
