@@ -14,17 +14,18 @@ Process on Lite Ice Cream.;;;;;;;;;;;;
 The medjool dates used here have a distinctive caramel taste with hints of vanilla.;;;;;;;;;;;;
 ;;;;;;;;;;;;
 Rating: 😋 (untested);;;;;;;;;;;;
-;;;;;;;;;;;;
+"1. Blend the dates with part of the milk and the other ‘prep’ ingredients to a smooth paste.
+ 1. Fill up with the rest of the milk.";;;;;;;;;;;;
 The [brand names] used are in brackets.;;;;;;;;;;;;
 ;;;;;;;;;;;;
 Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment
-Almond milk (unsweetened) [REWE Bio];500.00;ml;1;19.00;1.70;0.00;0.00;0.80;0.15;;;with guar gum (<1.5g)
-Coconut milk 22% [REWE Bio];0.00;ml;1;222.00;22.00;4.00;4.00;2.00;0.04;0.04;;
-Medjool dates (pitted, organic) [Seba Garden];50.00;g;1;277.00;0.20;75.00;66.00;1.80;0.01;0.66;;approx. 5 dates
-Almond butter (creamy) [Seba Garden];25.00;g;1;598.00;52.54;10.11;4.86;21.15;0.01;0.05;;
+Almond milk (unsweetened) [REWE Bio];100.00;ml;0;19.00;1.70;0.00;0.00;0.80;0.15;;;with guar gum (<1.5g)
+Almond milk (unsweetened) [REWE Bio];400.00;ml;1;19.00;1.70;0.00;0.00;0.80;0.15;;;with guar gum (<1.5g)
+Medjool dates (pitted, organic) [Seba Garden];50.00;g;0;277.00;0.20;75.00;66.00;1.80;0.01;0.66;;approx. 5 dates
+Almond butter (creamy) [Seba Garden];25.00;g;0;598.00;52.54;10.11;4.86;21.15;0.01;0.05;;
 Brandy “Williams Birne” 40 vol%;;g;1;280.00;;;;;;2.96;;
-Glycerin (E422, VG) [hd-line];10.00;g;1;400.00;;99.00;;;;3.70;;"POD = 60%; GI = 5; Density = 1.26 g/ml"
-Flavor drops Caramel [IronMaxx];5.00;drops;1;;;;;;;;;with sucralose
+Glycerin (E422, VG) [hd-line];10.00;g;0;400.00;;99.00;;;;3.70;;"POD = 60%; GI = 5; Density = 1.26 g/ml"
+Flavor drops Caramel [IronMaxx];5.00;drops;0;;;;;;;;;with sucralose
 Molasses [Grafschafter Goldsaft];;g;1;306.00;0.50;70.00;66.00;2.30;0.03;0.66;;Sweetness = 66%
 Erythritol (E968);20.00;g;2;24.00;0.00;100.00;0.00;0.00;0.00;2.80;;POD = 75%
 Xylitol;15.00;g;2;238.00;;100.00;;;;2.20;;"POD = 100%; GI = 7"

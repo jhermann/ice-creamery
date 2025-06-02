@@ -8,7 +8,6 @@ tags:
 - Low-Sugar
 - Polysaccharide Gum
 - Sucralose
-- Vanilla
 - Vegan
 - Xylitol
 ---
@@ -27,13 +26,17 @@ Rating: 😋 (untested)
 
 ℹ️ Brand names are in square brackets `[...]`.
 
-**Wet**
+**Prep**
 
-  - _500ml_ Almond milk (unsweetened) [REWE Bio] • with guar gum (<1.5g)
+  - _100ml_ Almond milk (unsweetened) [REWE Bio] • with guar gum (<1.5g)
   - _50g_ Medjool dates (pitted, organic) [Seba Garden] • approx. 5 dates
   - _25g_ Almond butter (creamy) [Seba Garden]
   - _10g_ Glycerin (E422, VG) [hd-line] • POD = 60%; GI = 5; Density = 1.26 g/ml
   - _5 drops_ Flavor drops Caramel [IronMaxx] • with sucralose
+
+**Wet**
+
+  - _400ml_ Almond milk (unsweetened) [REWE Bio] • with guar gum (<1.5g)
 
 **Dry**
 
@@ -49,7 +52,8 @@ Rating: 😋 (untested)
 
 # DIRECTIONS
 
- 1. Add "wet" ingredients to empty Creami tub.
+ 1. Blend the dates with part of the milk and the other ‘prep’ ingredients to a smooth paste.
+ 1. Fill up with the rest of the milk.
  1. Weigh and mix dry ingredients, easiest by adding to a jar with a secure lid and shaking vigorously.
  1. Pour into the tub and *QUICKLY* use an immersion blender on full speed to homogenize everything.
  1. Let blender run until thickeners are properly hydrated, up to 1-2 min. Or blend again after waiting that time.
