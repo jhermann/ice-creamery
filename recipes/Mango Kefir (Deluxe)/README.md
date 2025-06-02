@@ -1,5 +1,10 @@
 ---
 description: Recipe for the Ninja Creami Deluxe [24oz]
+social:
+  cards_layout: default/only/image
+  cards_layout_options:
+    background_color: orange
+    background_image: Mango-Kefir_2025-06-02_3.jpg
 tags:
 - Dairy
 - Erythritol
@@ -19,15 +24,15 @@ tags:
 Process on *Frozen Yogurt*, [hold it shortly under running water](/ice-creamery/info/tips%2Btricks/#handling-of-icy-sides-bottom)
 *after* that.Then a scrape-down and a respin.
 
-> <img width=360 alt="Spun Ice Cream" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/recipes/Mango%20Kefir%20(Deluxe)/Mango-Kefir_2025-06-02_1.jpg" />
+> <img width=360 alt="Spun Ice Cream" src="Mango-Kefir_2025-06-02_1.jpg" />
 
 The base went from almost -18°C to -7°C after the respin.
 
-> <img width=360 alt="Spun Ice Cream" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/recipes/Mango%20Kefir%20(Deluxe)/Mango-Kefir_2025-06-02_2.jpg" />
+> <img width=360 alt="Spun Ice Cream" src="Mango-Kefir_2025-06-02_2.jpg" />
 
 Served after 1h refreezing with pomegranate syrup.
 
-> <img width=360 alt="Spun Ice Cream" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/recipes/Mango%20Kefir%20(Deluxe)/Mango-Kefir_2025-06-02_3.jpg" />
+> <img width=360 alt="Spun Ice Cream" src="Mango-Kefir_2025-06-02_3.jpg" />
 
 Rating: 😋😋😋😋
 
