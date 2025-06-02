@@ -9,7 +9,7 @@ The dextrose equivalent gives an indication of the average degree of polymerisat
 See [PAC](#potere-anti-congelante-pac).
 
 ## Glycemic Index (GI)
-The GI is a measure of how quickly your blood sugar rises after consuming certain foods.
+The [GI](https://en.wikipedia.org/wiki/Glycemic_index) is a measure of how quickly your blood sugar rises after consuming certain foods. Pure glucose is arbitrarily given the value of 100, and a GI of 55 or less is considered low, while 70 or more is classified as high, leaving the mid-range at 56 to 69.
 
 > <img width=720 alt="Low & high GI" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/assets/glycemic-index.png" />
 
