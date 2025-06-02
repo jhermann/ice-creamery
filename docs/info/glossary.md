@@ -1,3 +1,5 @@
+# Glossary
+
 ## Dextrose Equivalent (DE)
 
 A measure of the amount of reducing sugars present in a sugar product, expressed as a percentage on a dry basis relative to dextrose (percentage of glucose molecules in dry matter).
