@@ -8,6 +8,13 @@ The dextrose equivalent gives an indication of the average degree of polymerisat
 
 See [PAC](#potere-anti-congelante-pac).
 
+## Glycemic Index (GI)
+The GI is a measure of how quickly your blood sugar rises after consuming certain foods.
+
+> <img width=720 alt="Low & high GI" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/assets/glycemic-index.png" />
+
+Only foods that contain carbohydrates have a GI, while those with only fats and proteins do not, even though in people with diabetes, they can also affect the change rate of blood sugar.
+
 ## Hydrophilic-Lipophilic Balance (HLB)
 
 HLB is a numerical value assigned to emulsifiers to describe their balance
@@ -31,6 +38,12 @@ The PAC method should be used when lactose concentration significantly varies or
  Ice cream stored at -18°C with a total FPDF of 20..25 will be easily scoopable, while <15 will be quite hard. Ice cream is considered soft enough when about 65% of the water molecules are frozen at serving temperature (e.g. -11°C).
 
  For milk ice cream, target range is 24-28 (double the serving temp, i.e. 2*-12°C), for sorbets 30-36 (factor 2.5).
+
+## Potere Dolcificante (POD)
+
+POD measures the sweetness of an ingredient relative to sucrose (table sugar). It is also known as PS (Pouvoir Sucrant) in France and SP (Sweetening Power) in the US.
+
+By convention, the POD of sucrose is 100. Dextrose for example has a POD of 70, which means it is less sweet compared to the same amount of sugar. This can be used to change the PAC while keeping the POD stable, by using sucrose and dextrose (or other sweeteners with a higher PAC) in specific ratios.
 
 ## Synergistic Interaction Gels (SIGs)
 
