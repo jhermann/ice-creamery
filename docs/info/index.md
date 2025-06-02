@@ -27,7 +27,7 @@ use the Markdown format for the output.
 
 *   **Recently Changed**
 
-    This section lists recipes that have been updated within the last two months.
+    This section lists recipes that have been created within the last two months.
 
 *   **Tips & Tricks**
 
