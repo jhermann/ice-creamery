@@ -2,7 +2,6 @@
 description: Recipe for the Ninja Creami Deluxe [24oz]
 tags:
 - Dairy
-- Draft
 - Erythritol
 - Fruit
 - Hi-Protein
@@ -17,9 +16,14 @@ tags:
 # Mango Kefir (Deluxe)
 <img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/assets/mango-ice-cream-logo.png" />
 
-Process on *Fozen Yogurt*, [hold it shortly under running water](/ice-creamery/info/tips%2Btricks/#handling-of-icy-sides-bottom) *after* that. Then a scrape-down and a respin.
+Process on *Frozen Yogurt*, [hold it shortly under running water](/ice-creamery/info/tips%2Btricks/#handling-of-icy-sides-bottom)
+*after* that.Then a scrape-down and a respin.
 
-> <img width=360 alt="Spun Ice Cream" src="" />
+> <img width=360 alt="Spun Ice Cream" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/recipes/Mango%20Kefir%20(Deluxe)/Mango-Kefir_2025-06-02_1.jpg" />
+
+The base went from almost -18°C to -7°C after the respin.
+
+> <img width=360 alt="Spun Ice Cream" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/recipes/Mango%20Kefir%20(Deluxe)/Mango-Kefir_2025-06-02_2.jpg" />
 
 Rating: 😋 (untested)
 
