@@ -25,7 +25,11 @@ The base went from almost -18°C to -7°C after the respin.
 
 > <img width=360 alt="Spun Ice Cream" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/recipes/Mango%20Kefir%20(Deluxe)/Mango-Kefir_2025-06-02_2.jpg" />
 
-Rating: 😋 (untested)
+Served after 1h refreezing with pomegranate syrup.
+
+> <img width=360 alt="Spun Ice Cream" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/recipes/Mango%20Kefir%20(Deluxe)/Mango-Kefir_2025-06-02_3.jpg" />
+
+Rating: 😋😋😋😋
 
 # INGREDIENTS
 
