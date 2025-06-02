@@ -1,7 +1,6 @@
 ---
 description: Recipe for the Ninja Creami Deluxe [24oz]
 tags:
-- Draft
 - Erythritol
 - Fruit
 - Light
@@ -17,7 +16,7 @@ tags:
 
 Process on FroYo, followed by a scrape down and a re-spin.
 
-> <img width=360 alt="Spun Ice Cream" src="" />
+> <img width=360 alt="Spun Ice Cream" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/recipes/Banana%20%E2%80%A2%20Slim%20(Deluxe)/banana-slim_2025-06-02.jpg" />
 
 Rating: 😋😋😋😋🍌
 
