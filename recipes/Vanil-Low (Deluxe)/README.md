@@ -17,17 +17,19 @@ tags:
 
 Vanilla ice cream based on almond milk and cottage cheese, clocking in at 60kcal / 100g.
 
-Process on Frozen Yogurt.
+Process on *Frozen Yogurt*, [hold it shortly under running water](/ice-creamery/info/tips%2Btricks/#handling-of-icy-sides-bottom) *after* that.
 
 > <img width=360 alt="Spun Ice Cream" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/recipes/Vanil-Low%20(Deluxe)/Vanillow_2025-05-22_1.jpg" />
 
-Scrape down the sides, process again on Ice Cream.
+Then scrape down the sides, process again on Ice Cream.
 
 > <img width=360 alt="Spun Ice Cream" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/recipes/Vanil-Low%20(Deluxe)/Vanillow_2025-05-22_2.jpg" />
 > 
 > *Served with crumbled walnuts and a pomegranate syrup drizzle.*
-> 
+>
 > Rating: 😋😋😋😋😋
+
+----
 
 Use 20g *Ube Yam Root powder* instead of the vanilla
 for a different taste and color, and with 7 kcal/100g more.
