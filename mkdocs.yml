@@ -17,6 +17,7 @@ theme:
     - search.suggest
 
 plugins:
+  - meta
   - search
   - git-revision-date-localized
 
