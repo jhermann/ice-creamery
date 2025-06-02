@@ -7,7 +7,7 @@ Here you can find some background information about common ingredients in ice cr
 Freezing point depression factor (FPDF) of common ingredients:
 
  * Sucrose (1:1 glucose:fructose) / Lactose / Polydextrose 1.0
- * Ethanol 7.4
+ * Ethanol 7.4 (40vol% booze 2.96)
  * Salt (sodium chloride, NaCl) 5.9
  * Vegetable glycerin 3.7 (sweetness=60%; GI=5)
  * Erythritol 2.8
