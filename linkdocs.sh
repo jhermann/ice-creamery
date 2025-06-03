@@ -1,6 +1,9 @@
 #! /usr/bin/env bash
 set -e
 
+# Clean up broken symlinks
+find docs/ -xtype l | xargs -I+ rm "+"
+
 find recipes -mindepth 1 -type d | \
 while read dir; do
     name=$(basename "$dir")
