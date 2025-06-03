@@ -16,7 +16,7 @@ tags:
 
 FroYo spin; very dense; a few small ice crystals. Taste of the cocoa and caramel combo is great.
 
-> <img width=360 alt="Spun Ice Cream" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/recipes/Chocolate%20Caramel%20(Deluxe)/choca_2024-11-01.jpg" />
+> <img width=360 alt="Spun Ice Cream" src="choca_2024-11-01.jpg" />
 
 Might add some almond butter next time, or replace the yogurt with cream cheese.
 

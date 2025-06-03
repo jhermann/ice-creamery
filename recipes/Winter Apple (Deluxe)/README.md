@@ -13,7 +13,7 @@ tags:
 - Xylitol
 ---
 # Winter Apple (Deluxe)
-<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/recipes/Winter%20Apple%20(Deluxe)/winter-apple-ice-cream-logo.png" />
+<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="winter-apple-ice-cream-logo.png" />
 
 Applesauce sherbet with cinnamon, and stollen pieces as a mix-in.
 

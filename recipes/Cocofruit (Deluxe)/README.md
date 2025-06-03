@@ -14,14 +14,14 @@ tags:
 
 Process on SORBET and MIX-IN or RE-SPIN (choose depending on consistency you get after processing, and eventually want after 2nd spin).
 
-> <img width=360 alt="Spun Ice Cream" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/recipes/Cocofruit%20(Deluxe)/Coco-Banana_2025-04-06.jpg" />
+> <img width=360 alt="Spun Ice Cream" src="Coco-Banana_2025-04-06.jpg" />
 
 Rating: 😋🍌🥥🥥
 
 You can vary by replacing SMP → whey, and replace the banana by other fruit, e.g. strawberries.
 Both variants were good, I liked the whey/strawberry one a little better.
 
-> <img width=360 alt="Spun Ice Cream" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/recipes/Cocofruit%20(Deluxe)/Coco-Strawberry_2025-04-06.jpg" />
+> <img width=360 alt="Spun Ice Cream" src="Coco-Strawberry_2025-04-06.jpg" />
 
 Rating: 😋🍓🥥🍓🥥
 

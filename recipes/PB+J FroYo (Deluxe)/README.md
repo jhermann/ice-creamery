@@ -12,7 +12,7 @@ tags:
 
 FroYo spin, scrape-down, and mix-in with pre-crumbled strawberry slices.
 
-> <img width=360 alt="Spun Ice Cream" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/recipes/PB%2BJ%20FroYo%20(Deluxe)/PB%2BJ_FroYo_2024-10-20.jpg" />
+> <img width=360 alt="Spun Ice Cream" src="PB%2BJ_FroYo_2024-10-20.jpg" />
 >
 > *Comes out creamy, and no ice crystals at all.*
 
