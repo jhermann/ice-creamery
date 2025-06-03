@@ -321,8 +321,8 @@ def main():
     # Create the Markdown file
     md_file = markdown_file(title)
     md_text = md_text.replace('http://bit.ly/4frc4Vj', '[http﹕//bit.ly/4frc4Vj]'
-        '(https://github.com/jhermann/ice-creamery/tree/main/'
-        'recipes/Ice%20Cream%20Stabilizer%20%28ICS%29)')  # take care of Reddit stupidness
+        '(https://jhermann.github.io/ice-creamery/'
+        'I/Ice%20Cream%20Stabilizer%20(ICS)/)')  # take care of Reddit stupidness
     if tags_only:
         md_text = Path(md_file).read_text(encoding='utf-8').splitlines()
         if md_text[0] == '---':
