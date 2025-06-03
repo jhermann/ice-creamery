@@ -5,6 +5,10 @@
   margin-bottom: .05rem;
 }
 
+.md-typeset .md-tag {
+  background: #b8b;
+}
+
 .md-nav__item--active label span.md-ellipsis {
   color: teal;
   font-style: italic;
