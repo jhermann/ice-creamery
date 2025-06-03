@@ -2,6 +2,7 @@
 description: Almond milk + cottage cheese base at ~50kcal / 100g
 tags:
 - Dairy
+- Draft
 - Erythritol
 - Fruit
 - Hi-Protein
@@ -15,7 +16,8 @@ tags:
 # Vanil-Low (Deluxe)
 <img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="logo-vanil-low.png" />
 
-Vanilla ice cream based on almond milk and cottage cheese, clocking in at 60kcal / 100g.
+Vanilla ice cream based on almond milk, almond butter and cottage cheese, clocking in at 71kcal / 100g.
+Leave out the almond butter for 10kcal less.
 
 Process on *Frozen Yogurt*, [hold it shortly under running water](https://jhermann.github.io/ice-creamery/info/tips%2Btricks/#handling-of-icy-sides-bottom) *after* that.
 
@@ -26,10 +28,8 @@ Then scrape down the sides, process again on Ice Cream.
 > <img width=360 alt="Spun Ice Cream" src="Vanillow_2025-05-22_2.jpg" />
 > 
 > *Served with crumbled walnuts and a pomegranate syrup drizzle.*
->
+> 
 > Rating: 😋😋😋😋😋
-
-----
 
 Use 20g *Ube Yam Root powder* instead of the vanilla
 for a different taste and color, and with 7 kcal/100g more.
@@ -46,17 +46,18 @@ instead of the sugar alcohols and for 4 kcal/100g less.
 
 **Wet**
 
-  - _500ml_ Almond milk (unsweetened) [REWE Bio] • with guar gum (<1.5g)
+  - _450ml_ Almond milk (unsweetened) [REWE Bio] • with guar gum (<1.5g)
   - _100g_ Cottage Cheese 4% [REWE Bio]
-  - _10g_ Glycerin (E422, VG) [hd-line] • POD = 60%; GI = 5; Density = 1.26 g/ml
+  - _15g_ Almond butter (creamy) [Seba Garden]
+  - _15g_ Glycerin (E422, VG) [hd-line] • POD = 60%; GI = 5; Density = 1.26 g/ml
   - _10g_ Brandy “Williams Birne” 40 vol%
 
 **Dry**
 
   - _25g_ Erythritol (E968) • POD = 75%
-  - _25g_ Xylitol • POD = 100%; GI = 7
+  - _20g_ Xylitol • POD = 100%; GI = 7
   - _15g_ Inulin [Vit4ever] • Sweetness = 8%; GI ~= 0
-  - _7g_ Vanilla Bean Powder [InterVanilla]
+  - _5g_ Vanilla Bean Powder [InterVanilla]
   - _10g_ Whey protein Vanilla [MaxiNutrition]
   - _1g_ Salt
   - _2g_ Tara gum (E417)
@@ -64,7 +65,7 @@ instead of the sugar alcohols and for 4 kcal/100g less.
 
 **Fill to MAX**
 
-  - _14.75ml_ Water to MAX line
+  - _51.75ml_ Water to MAX line
 
 # DIRECTIONS
 
@@ -77,9 +78,10 @@ instead of the sugar alcohols and for 4 kcal/100g less.
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
 
 # NUTRITIONAL & OTHER INFO
-- **Nutritional values per 100g/ml:** 100g; 57.6 kcal; fat 1.8g; carbs 9.1g; sugar 0.5g; protein 3.4g; salt 0.4g
-- **Nutritional values per ½ Deluxe Tub:** 360g; 207.4 kcal; fat 6.5g; carbs 32.8g; sugar 1.8g; protein 12.3g; salt 1.3g
-- **Nutritional values total:** 720g; 414.9 kcal; fat 13.1g; carbs 65.6g; sugar 3.6g; protein 24.6g; salt 2.5g
-- **FPDF / PAC (target 20..30):** 29.90
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 23.68% • LOW-FAT • Low-Sugar • Hi-Protein
+- **Nutritional values per 100g/ml:** 100g; 69.1 kcal; fat 2.8g; carbs 9.3g; sugar 0.6g; protein 3.8g; salt 0.3g
+- **Nutritional values per ½ Deluxe Tub:** 360g; 248.7 kcal; fat 10.1g; carbs 33.4g; sugar 2.1g; protein 13.7g; salt 1.2g
+- **Nutritional values total:** 720g; 497.4 kcal; fat 20.1g; carbs 66.8g; sugar 4.1g; protein 27.3g; salt 2.5g
+- **FPDF / PAC (target 20..30):** 30.99
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 21.98% • LOW-FAT • Low-Sugar • Hi-Protein
 - **Milk Solids Non-Fat (MSNF, 7-11%):** 24.9g • 3.5%
+- **Jun 4, 2025:** Added almond butter.
