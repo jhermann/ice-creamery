@@ -7,6 +7,7 @@ social:
     background_image: Mango-Kefir_2025-06-02_3.jpg
 tags:
 - Dairy
+- Draft
 - Erythritol
 - Fruit
 - Hi-Protein
@@ -51,12 +52,12 @@ Rating: 😋😋😋😋
 
 **Dry**
 
-  - _30g_ ICSv2 [Erythritol / CMC / Tara / XG / Inulin] • [http﹕//bit.ly/4frc4Vj](https://github.com/jhermann/ice-creamery/tree/main/recipes/Ice%20Cream%20Stabilizer%20%28ICS%29)
-  - _20g_ Xylitol • Sweetness = 100%; GI = 7
+  - _30g_ ICSv2 [Erythritol / CMC / Tara / XG / Inulin] • [http﹕//bit.ly/4frc4Vj](https://jhermann.github.io/ice-creamery/I/Ice%20Cream%20Stabilizer%20(ICS)/)
+  - _25g_ Xylitol • Sweetness = 100%; GI = 7
 
 **Fill to MAX**
 
-  - _20ml_ Water to MAX line
+  - _15ml_ Water to MAX line
 
 # DIRECTIONS
 
@@ -69,11 +70,11 @@ Rating: 😋😋😋😋
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
 
 # NUTRITIONAL & OTHER INFO
-- **Nutritional values per 100g/ml:** 100g; 72.8 kcal; fat 1.5g; carbs 11.8g; sugar 4.8g; protein 3.7g; salt 0.2g
-- **Nutritional values per ½ Deluxe Tub:** 360g; 262.1 kcal; fat 5.3g; carbs 42.5g; sugar 17.4g; protein 13.1g; salt 0.8g
-- **Nutritional values total:** 720g; 524.3 kcal; fat 10.6g; carbs 84.9g; sugar 34.8g; protein 26.3g; salt 1.7g
-- **FPDF / PAC (target 20..30):** 29.48
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 20.05% • LOW-FAT • Low-Sugar • Hi-Protein
+- **Nutritional values per 100g/ml:** 100g; 74.5 kcal; fat 1.5g; carbs 12.5g; sugar 4.8g; protein 3.7g; salt 0.2g
+- **Nutritional values per ½ Deluxe Tub:** 360g; 268.1 kcal; fat 5.3g; carbs 45.0g; sugar 17.4g; protein 13.1g; salt 0.8g
+- **Nutritional values total:** 720g; 536.2 kcal; fat 10.6g; carbs 89.9g; sugar 34.8g; protein 26.3g; salt 1.7g
+- **FPDF / PAC (target 20..30):** 31.01
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 19.60% • LOW-FAT • Low-Sugar
 - **Milk Solids Non-Fat (MSNF, 7-11%):** 46.0g • 6.4%
 - **30g Ice Cream Stabilizer (ICSv2) is:** 14.3g erythritol, 1.43g Tylose powder (CMC, E466), 
 0.5g tara gum (E417), 0.15g xanthan (E415),
