@@ -21,7 +21,7 @@ tags:
 # Mango Kefir (Deluxe)
 <img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/assets/mango-ice-cream-logo.png" />
 
-Process on *Frozen Yogurt*, [hold it shortly under running water](/ice-creamery/info/tips%2Btricks/#handling-of-icy-sides-bottom)
+Process on *Frozen Yogurt*, [hold it shortly under running water](https://jhermann.github.io/ice-creamery/info/tips%2Btricks/#handling-of-icy-sides-bottom)
 *after* that.Then a scrape-down and a respin.
 
 > <img width=360 alt="Spun Ice Cream" src="Mango-Kefir_2025-06-02_1.jpg" />

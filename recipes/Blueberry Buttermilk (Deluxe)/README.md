@@ -20,7 +20,7 @@ tags:
 
 The buttermilk gives this a tangy and fresh profile, refreeze after processing for best texture and consistency.
 
-Process on *Fozen Yogurt*, giving it the [running water treatment](/ice-creamery/info/tips%2Btricks/#handling-of-icy-sides-bottom)
+Process on *Fozen Yogurt*, giving it the [running water treatment](https://jhermann.github.io/ice-creamery/info/tips%2Btricks/#handling-of-icy-sides-bottom)
 *after* that. Then a scrape-down and a respin.
 
 > <img width=360 alt="Spun Ice Cream" src="blueberry_2025-05-28_1.jpg" />
