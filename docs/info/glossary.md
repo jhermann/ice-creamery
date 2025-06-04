@@ -29,6 +29,13 @@ HLB dictates the stability and performance of an emulsion.
 The HLB of the emulsifier needs to match the HLB requirements
 of the oil phase to create a stable emulsion.
 
+## Milk Solids Not-Fat (MSNF)
+MSNF, also known as Solids Not-Fat (SNF), refers to all the solid components of milk excluding the fat and water. It's essentially a measure of the non-fat nutrients in milk, including proteins, lactose, vitamins, and minerals.
+
+Generally, a good traditional ice cream contains 12% fat, 7-11% milk solids not-fat (11 for high fat), 15% sugar, 0.3% stabilizer and emulsifier, and 38.3% total solids.
+
+For dairy, multiply the non-fat part by 0.093 to get the amount of MSNF in the milk serum (9.3%), if you have no better data like a dry mass percentage.
+
 ## Potere Anti Congelante (PAC)
 
 PAC is the same as FPDF but includes lactose, which constitutes 54.5% of MSNF. Typically SMP (skimmed milk powder) contains 97% MSNF, so 53% of lactose.
@@ -58,3 +65,8 @@ SIGs are typically more potent and sometimes have new characteristics compared
 to the isolated use of their components.
 
 A typical example is the combination of LBG and XG.
+
+## Ultra Processed Food (UPF)
+UPFs are industrially produced foods that have been significantly altered from their original state.
+
+UPFs undergo extensive industrial processing, including chemical processes and additives, to alter their composition and properties. They often are ingredients not typically found in home cooking, such as preservatives, emulsifiers, sweeteners, artificial flavors, and colors.
