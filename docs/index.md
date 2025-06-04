@@ -11,7 +11,7 @@ Use the top bar to navigate using [Tags](tags/) or the first letter of a recipe 
 
 Check out the [Info](info/) section to get background information on the 'philosophy'
 behind the specific formulation of these recipes, the ingredients used, and some tips & tricks
-to successfully redproduce them in your kitchen.
+to successfully reproduce them in your kitchen.
 
 That section also contains a FAQ page and a glossary, in case some abbreviations used arer unknown to you.
 
