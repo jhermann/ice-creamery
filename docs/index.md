@@ -13,7 +13,7 @@ Check out the [Info](info/) section to get background information on the 'philos
 behind the specific formulation of these recipes, the ingredients used, and some tips & tricks
 to successfully reproduce them in your kitchen.
 
-That section also contains a FAQ page and a glossary, in case some abbreviations used arer unknown to you.
+That section also contains a FAQ page and a glossary, in case some abbreviations used are unknown to you.
 
 ## How It's Made?
 This website is based on a collection of calculated recipes stored in a
