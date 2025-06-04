@@ -164,7 +164,7 @@ Combine it with GMS (emulsifier), in a 7:1 to 4:1 ratio (up to 1% of water conte
 
 ### Guar Gum (E412)
 
-Guar gum is a binding agent which combines favorably with LBG or XG. If combined with XG, use a 4:1 ratio (GG:XG). If replacing XG, use 3 parts GG for 2 parts of XG (3:2 ratio).
+Guar gum is a binding agent which combines favorably with LBG or XG. If combined with XG, use a `3GG:1XG` ratio. If replacing XG, use 3 parts GG for 2 parts of XG (3:2 ratio).
 
 For hydration, heat it to 80°C, or let it soak for a few minutes. Guar gum can withstand 80°C for a few minutes, beyond that point it degrades and looses effectiveness.
 
