@@ -46,11 +46,17 @@ Mixing with at least 40% of xylitol has the same effect.
 
 ### Inulin
 
-Inulin is a naturally occurring polysaccharide, and used to improve mouthfeel, stability, acceptability of low-fat ice creams, and forms a gel-like network that binds water. Add 10-20g to a 720g mix.
+Inulin is a naturally occurring polysaccharide, and used to improve mouthfeel, stability, acceptability of low-fat ice creams, and forms a gel-like network that binds water.
 
-RDA is 8-18g (tested for up to 24 weeks). Most common side effects include gas, bloating, diarrhea, constipation, and cramps. As a fructan, inulin has minimal impact on  increasing blood sugar.
+Inulin has fewer calories (2 kcal/g) compared to fat (9 kcal/g) or sucrose (4 kcal/g).
+
+Fat can be reduced by 50% with 5% native inulin — i.e. up to 35g in a Deluxe tub. It improves creaminess perception and melting resistance. Typically 10-20g in a 720g mix is enough.
+
+RDA is 8-18g (tested for up to 24 weeks). Most common side effects include gas, bloating, diarrhea, constipation, and cramps. As a fructan, inulin has minimal impact on increasing blood sugar.
 
 Natural chicory / agave inulin has 8g sugar, and 88% fiber. Further processing leads to HP inulin that has 97% fiber and 0% sugar, and it needs to be heated to 65°C to dissolve.
+
+> <sup>*Source:* https://www.icecreamscience.com/blog/why-is-inulin-used-in-ice-cream</sup>
 
 ### Stevia (E960)
 
@@ -107,6 +113,47 @@ Most thickeners are hydrocolloids, which are hydrophilic molecules that have a h
 
 Many thickeners also have an emulsifying effect.
 
+Using only a singular thickener means you often miss out on synergistic effects of a combination of several thickeners, e.g. forming specific kinds of gels (SIGs).
+
+ * Use guar/tara in combination with xanthan, ratio `4TG:1XG` or `3GG:1XG`.
+ * Guar gum and LBG is also a good combination (`3GG:2LBG`).
+ * Similarly, CMC and GMS should always go together, and can be combined with GG. Use 0.2–0.5% of the mix for each, the exact ratios depend on the make-up of your mix, and targets like creaminess, resistance to melting, and mouthfeel. Start on the lower ends, and adjust until you hit your targets.
+ * Another complementary combination is guar (0.1–0.3%), CMC / tylo (0.1–0.3%), and gum arabic (0.1–0.5%). Again, start on the lower ends, and adjust until you hit your desired targets. A Deluxe tub dosage would be 2g+2g (GG:CMC) vs. 1.25+1.25+1.5g (GG:CMC:GA).
+
+ Blends recommended by `under-belly.org` (dosage generally 0.15% of total weight):
+
+  * *Gelatin + XG*: Use a 3:1 ratio, 1g+⅓g / 1kg.
+  * *LBG + GG + λC* (general purpose): 4:2:1, 0.8g+0.4g+0.2g / 1kg (0.25% of water weight); has to be heated to >80°C for full LBG hydration.
+  * *Soy Lecithin + LBG + GG + λC* (eggless): 4:4:2:1, 1g+1g+0.5g+0.25g / 1kg (0.4% of water weight); has to be heated to >80°C for full LBG hydration.
+  * *CMC + GG + λC* (sorbet): 2:1:1, 2g+1g+1g / 1kg (0.5% of water weight); no cooking; add 1g lecithin when you have fatty ingredients (nut butter, melted chocolate, ...).
+
+### Acacia Gum (Gum Arabic / E414)
+Gum arabic is a complex mixture of glycoproteins and polysaccharides, predominantly polymers of arabinose and galactose. It is soluble in water.
+
+### Agar-Agar (E406)
+Agar-Agar is a natural, plant-based gelling and thickening agent (hydrocolloid), derived from red algae. It's commonly used as a vegan alternative to gelatin, since it is also tasteless and odorless; its gelling power is higher. It is heat-stable and acid-stable, and resulting gels tend to be brittle.
+
+ * Hydration: simmer for 3…5min at 100°C.
+ * LBG / Agar mix: 0.25% LBG + 0.2% agar / for juice noodles: 0.33% each / *replace* 5% … 15% of agar.
+ * For a gel: 0.2% soft gels / 3.0% firm gels.
+ * For a fluid gel: 0.5% to 2.0% / fluid gels are made by blending the already set gel.
+ * For foam: 0.3% to 1.0% for light foams and 1.0% to 2.0% for denser foams.
+
+> <sup>*Source:* https://www.amazingfoodmadeeasy.com/info/modernist-ingredients/more/agar-agar</sup>
+
+### Carrageenans (E407)
+[Carrageenans](https://en.wikipedia.org/wiki/Carrageenan) are a family of natural polysaccharides derived from red seaweed (*Irish Moss*), and used as a thickening, emulsifying, and stabilizing agent. They improve texture and prevent ice crystal formation, and are often added to plant-based milks.
+
+Different types of carrageenan exist, each with slightly different properties, including κ-carrageenan, ι-carrageenan, and λ-carrageenan. 
+
+ * *Kappa* forms strong, rigid gels in the presence of potassium ions, and reacts with dairy proteins.
+ * *Iota* forms soft gels in the presence of calcium ions.
+ * *Lambda* does not gel, and is used to thicken dairy products.
+
+Alternative natural thickeners include xanthan, guar/tara/carob gum, and pectin. Synergies exist, especially with LBG.
+
+*Safety:* Carrageenans are considered GRAS by the FDA, and an EFSA re-evaluation concluded that they are not absorbed intact, and there is no concern with respect to carcinogenicity or genotoxicity. EFSA sees the need to obtain further data though, to address identified gaps.
+
 ### Carboxymethyl Cellulose (CMC / E466)
 
 CMC is used to stabilize and improve the texture of ice cream. It's a thickening agent and emulsifier that helps prevent ice crystals from forming, resulting in a smoother, more scoopable ice cream. It can also improve the ice cream's resistance to melting, keeping it firmer for longer.
@@ -146,10 +193,9 @@ It is synergistic when combined with other hydrocolloids to increase their gelli
 *Also know as:* carob / Johannisbrotkernmehl.
 
 ### Tara Gum (E417)
+Tara can replace guar 1:1 in recipes and will give you slightly better results, on average. It creates a creamier, richer mouth feel than guar gum.
 
-In ice cream, it creates a creamier, richer mouth feel than guar gum.
-
-*Dosage:* 0.05-0.15% for ice cream, sorbet and sherbet
+*Dosage:* 0.05-0.15% for ice cream, sorbet and sherbet.
 
 ### Xanthan Gum (XG / E415)
 [Xanthan](https://en.wikipedia.org/wiki/Xanthan_gum) works at room temperature. To easily mix it with water, dissolve in some oil or mix with other dry ingredients first. For liquids, always use a blender or immersion blender.
@@ -159,8 +205,8 @@ Combine it with LBG for a cold gel. At certain ratios, like 7:3 LBG to XG, the s
 ## Emulsifiers
 
 ### Glycerol Monostearate (GMS / E471)
-
 Glycerol Monostearate (GMS) is an emulsifier, and also a thickening and anti-caking agent. In ice cream, it adds body and helps to create a smooth texture (by reducing ice crystal formation), and prevents it from drying out or being too sweet.
+It's most often used in egg-less ice cream bases, and in combination with CMC.
 
 GMS takes the form of a white, odorless, and sweet-tasting flaky powder that is hygroscopic.
 It's the result of a chemical reaction of glycerol with stearic acid,
@@ -171,3 +217,25 @@ it can be first mixed with oil and then blended into the water phase (similar to
 
 GMS is typically used at concentrations of 0.1% to 0.5% of the total mix.
 When used with CMC, typical ratios go from 2:1 to 7:1 (GMS:CMC).
+
+### Soy Lecithin (E322)
+Soy lecithin is an emulsifier gained from soy beans, and used in ice cream to improve texture and stability.
+
+Lecithin reduces the surface tension between fat and water, contributing to a smoother, more velvety mouthfeel. It helps prevent fat separation and ice crystal growth, maintaining the ice cream's structure and flavor during freezing and thawing. 
+
+> ⚠️ While generally safe, individuals with soy allergies should be aware of potential reactions.
+
+Soy lecithin is often extracted using chemical solvents, which makes it a UPF, and it might come from GMO sources.
+
+## Miscellaneous
+### Baking Soda (Sodium Bicarbonate)
+Baking soda is not a typical ingredient in ice cream recipes.
+When used, it is to improve texture and maintain a neutral pH.
+It has about 67% of the sodium of table salt, and you can add up to 0.6% to a base.
+
+It can make the texture softer and creamier, potentially due to the formation of small cavities from CO₂ bubbles that weaken the bonding between ice crystals and other ingredients.
+
+Milk solids, cream, and stabilizers are more commonly used to achieve desired textures. 
+
+### Sodium Alginate
+Improves texture, forms matrix with casein, increases elasticity. Up to 1g per 720g.
