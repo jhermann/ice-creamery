@@ -237,5 +237,23 @@ It can make the texture softer and creamier, potentially due to the formation of
 
 Milk solids, cream, and stabilizers are more commonly used to achieve desired textures. 
 
+### Whey Protein
+Whey protein primarily functions as a water-binding agent, contributing to viscosity, stability, and texture. It helps to maintain small ice crystals avoiding grittiness (by limiting water mobility and ice crystal growth), and increases your protein intake.
+
+By limiting water-ice-water transitions, whey proteins help to improve the freeze/thaw stability of ice cream, which also avoids a big quality degradation during long-term storage in the freezer.
+
+### Skim Milk Powder (SMP)
+SMP plays a crucial role in ice cream production, primarily due to its ability to increase the MSNF content, which affects the texture, structure, and freezing point of the final product.
+
+Its major effects are:
+
+ * Reducing the amount of "free water", preventing ice crystal formation.
+ * Improving the structure and body of the ice cream, making it less watery and more stable.
+ * Helping to emulsify the ice cream mix, via its contained milk proteins.
+ * Lowering the freezing point via contained lactose.
+ * Ensuring a uniform mixing of ingredients, leading to a more consistent ice cream flavor and texture.
+
+SMP is convenient to use because it can be stored at room temperature and rehydrated with water.
+
 ### Sodium Alginate
 Improves texture, forms matrix with casein, increases elasticity. Up to 1g per 720g.
