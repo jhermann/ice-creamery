@@ -9,7 +9,7 @@ Use the top bar to navigate using [Tags](tags/) or the first letter of recipe na
 > 💡 You can load <a href="/ice-creamery/print_page/" target="_blank">all pages at once<sup>↗</sup></a>
 > to save the site as stand-alone HTML or PDF.
 
-Check out the [Info](/info/) section to get background information on the 'philosophy'
+Check out the [Info](info/) section to get background information on the 'philosophy'
 behind the specific formulation of these recipes, the ingredients used, and some tips & tricks
 to successfully redproduce them in your kitchen.
 
