@@ -15,6 +15,12 @@ to successfully reproduce them in your kitchen.
 
 That section also contains a FAQ page and a glossary, in case some abbreviations used are unknown to you.
 
+> <span id="audio">🗣️</span> Another way to explore background topics is to listen to this ~18min long interview-style summary of the site.
+> 
+> <audio controls><source src="https://github.com/jhermann/ice-creamery/raw/refs/heads/main/assets/audio/interview-style-tour-of-the-site-96k.mp3" type="audio/mpeg" /></audio>
+> 
+> If your browser does not support the audio element, try to [download](https://github.com/jhermann/ice-creamery/raw/refs/heads/main/assets/audio/interview-style-tour-of-the-site-96k.mp3) the MP3 file.
+
 ## How It's Made?
 This website is based on a collection of calculated recipes stored in a
 [GitHub repository](https://github.com/jhermann/ice-creamery#readme).
