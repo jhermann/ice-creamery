@@ -26,7 +26,7 @@ Rating: 😋🥥🍵 (untested)
 **Prep**
 
   - _100ml_ Water (hot)
-  - _6g_ Matcha Green Tea Powder • 1tbsp = 6g; 1tsp = 2g
+  - _6g_ Matcha green tea powder (organic) [Mandoi] • 1tbsp = 6g; 1tsp = 2g
 
 **Wet**
 
@@ -59,11 +59,11 @@ Rating: 😋🥥🍵 (untested)
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
 
 # NUTRITIONAL & OTHER INFO
-- **Nutritional values per 100g/ml:** 100g; 90.4 kcal; fat 4.2g; carbs 11.1g; sugar 2.5g; protein 3.5g; salt 0.2g
-- **Nutritional values per ½ Deluxe Tub:** 360g; 325.6 kcal; fat 15.0g; carbs 39.8g; sugar 9.1g; protein 12.6g; salt 0.7g
-- **Nutritional values total:** 720g; 651.1 kcal; fat 30.0g; carbs 79.7g; sugar 18.1g; protein 25.2g; salt 1.3g
+- **Nutritional values per 100g/ml:** 100g; 90.9 kcal; fat 4.2g; carbs 11.4g; sugar 2.5g; protein 3.5g; salt 0.2g
+- **Nutritional values per ½ Deluxe Tub:** 360g; 327.2 kcal; fat 15.0g; carbs 41.0g; sugar 9.0g; protein 12.6g; salt 0.7g
+- **Nutritional values total:** 720g; 654.3 kcal; fat 30.0g; carbs 81.9g; sugar 18.0g; protein 25.2g; salt 1.3g
 - **FPDF / PAC (target 20..30):** 30.72
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 15.49% • Low-Sugar
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 15.42% • Low-Sugar
 - **Milk Solids Non-Fat (MSNF, 7-11%):** 38.9g • 5.4%
 - **30g Ice Cream Stabilizer (ICSv2) is:** 14.3g erythritol, 1.43g Tylose powder (CMC, E466), 
 0.5g tara gum (E417), 0.15g xanthan (E415),
