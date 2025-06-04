@@ -4,7 +4,7 @@ A collection of my tested / approved Ninja Creami recipes.
 > <img width=720 alt="Gelato Cart" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/assets/gelato-cart.webp" />
 
 ## How to Use This Site?
-Use the top bar to navigate using [Tags](tags/) or the first letter of recipe name.
+Use the top bar to navigate using [Tags](tags/) or the first letter of a recipe name.
 
 > 💡 You can load <a href="/ice-creamery/print_page/" target="_blank">all pages at once<sup>↗</sup></a>
 > to save the site as stand-alone HTML or PDF.
