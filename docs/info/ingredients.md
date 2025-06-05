@@ -227,16 +227,7 @@ Lecithin reduces the surface tension between fat and water, contributing to a sm
 
 Soy lecithin is often extracted using chemical solvents, which makes it a UPF, and it might come from GMO sources.
 
-## Miscellaneous
-### Baking Soda (Sodium Bicarbonate)
-Baking soda is not a typical ingredient in ice cream recipes.
-When used, it is to improve texture and maintain a neutral pH.
-It has about 67% of the sodium of table salt, and you can add up to 0.6% to a base.
-
-It can make the texture softer and creamier, potentially due to the formation of small cavities from CO₂ bubbles that weaken the bonding between ice crystals and other ingredients.
-
-Milk solids, cream, and stabilizers are more commonly used to achieve desired textures. 
-
+## Dairy & Milk Alternatives
 ### Coconut Milk
 Coconut milk can be used for delicious and creamy bases,
 especially for dairy-free or vegan options.
@@ -282,10 +273,20 @@ Its major effects are:
 
 SMP is convenient to use because it can be stored at room temperature and rehydrated with water.
 
-### Sodium Alginate
-Improves texture, forms matrix with casein, increases elasticity. Up to 1g per 720g.
-
 ### Whey Protein
 Whey protein primarily functions as a water-binding agent, contributing to viscosity, stability, and texture. It helps to maintain small ice crystals avoiding grittiness (by limiting water mobility and ice crystal growth), and increases your protein intake.
 
 By limiting water-ice-water transitions, whey proteins help to improve the freeze/thaw stability of ice cream, which also avoids a big quality degradation during long-term storage in the freezer.
+
+## Miscellaneous
+### Baking Soda (Sodium Bicarbonate)
+Baking soda is not a typical ingredient in ice cream recipes.
+When used, it is to improve texture and maintain a neutral pH.
+It has about 67% of the sodium of table salt, and you can add up to 0.6% to a base.
+
+It can make the texture softer and creamier, potentially due to the formation of small cavities from CO₂ bubbles that weaken the bonding between ice crystals and other ingredients.
+
+Milk solids, cream, and stabilizers are more commonly used to achieve desired textures. 
+
+### Sodium Alginate
+Improves texture, forms matrix with casein, increases elasticity. Up to 1g per 720g.
