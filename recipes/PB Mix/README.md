@@ -6,6 +6,8 @@ tags:
 - Fruit
 - Hi-Protein
 - Low-Fat
+- Polysaccharide Gum
+- Sucralose
 - Tylo Powder (CMC)
 - Vanilla
 - Xylitol
@@ -53,21 +55,21 @@ and whisk them carefully but thoroughly. A ball whisk works best.
 
 **Prep**
 
-  - _30g_ Xylitol • Sweetness = 100%; GI = 7
+  - _30g_ [Xylitol](/ice-creamery/info/ingredients/#xylitol-e967){target="_blank"}<sup>↗</sup> • Sweetness = 100%; GI = 7
   - _25g_ PB powder [Vilgain]
-  - _25g_ Skim Milkpowder 1:10 [Vita2You]
-  - _20g_ Whey protein Vanilla [MaxiNutrition]
-  - _20g_ Inulin [Vit4ever] • Sweetness = 8%; GI ~= 0
-  - _2.5g_ Tylose powder (E466 / CMC) [GoodBake]
-  - _1.5g_ Tara gum (E417)
+  - _25g_ [Skim Milkpowder 1:10 \[Vita2You\]](/ice-creamery/info/ingredients/#skim-milk-powder-smp){target="_blank"}<sup>↗</sup>
+  - _20g_ [Whey protein Vanilla \[MaxiNutrition\]](/ice-creamery/info/ingredients/#whey-protein){target="_blank"}<sup>↗</sup>
+  - _20g_ [Inulin \[Vit4ever\]](/ice-creamery/info/ingredients/#inulin){target="_blank"}<sup>↗</sup> • Sweetness = 8%; GI ~= 0
+  - _2.5g_ [Tylose powder (E466 / CMC) \[GoodBake\]](/ice-creamery/info/ingredients/#carboxymethyl-cellulose-cmc-e466){target="_blank"}<sup>↗</sup>
+  - _1.5g_ [Tara gum (E417)](/ice-creamery/info/ingredients/#tara-gum-e417){target="_blank"}<sup>↗</sup>
 
 **Wet**
 
-  - _275ml_ Skim Milk 1.5% [Weihenstephan]
+  - _275ml_ [Skim Milk 1.5% \[Weihenstephan\]](/ice-creamery/info/ingredients/#skim-milk){target="_blank"}<sup>↗</sup>
   - _150ml_ Water
   - _100g_ Cottage Cheese 4% [REWE Bio]
-  - _20g_ Glycerin (E422, VG) [hd-line] • Sweetness = 60%; GI = 5
-  - _15g_ Brandy “Williams Birne” 40 vol%
+  - _20g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • Sweetness = 60%; GI = 5
+  - _15g_ [Brandy “Williams Birne” 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup>
   - _7 drops_ Flavor drops Vanilla [IronMaxx] • with sucralose
 
 **Fill to MAX**
