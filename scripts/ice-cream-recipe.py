@@ -163,7 +163,7 @@ def ingredient_link(ingredient):
     for anchor, words in parse_ingredients_docs.wordmap.items():
         score = sum(len(difflib.get_close_matches(x, words, cutoff=0.8)) for x in given)
         score /= len(words)
-        if score:
+        if score > 0.4:
             scores[score] = anchor
             #print(score, anchor, ingredient)
     if scores:
