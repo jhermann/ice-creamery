@@ -242,6 +242,19 @@ Whey protein primarily functions as a water-binding agent, contributing to visco
 
 By limiting water-ice-water transitions, whey proteins help to improve the freeze/thaw stability of ice cream, which also avoids a big quality degradation during long-term storage in the freezer.
 
+### Skim Milk
+Skim milk or nonfat milk has a reduced fat content compared to whole milk.
+Typically it has less than 0.5%; in Germany it is 0.1% to 0.3%,
+but *low-fat* milk is more common with a fat content of 1.5%.
+It's best to state the expected fat content in a recipe,
+because terms like "skim", "full fat", and "double" can be interpreted differently over the world.
+
+When skim milk is used, there will be trade-offs in texture, flavor, and quality
+compared to ice cream made with whole milk or cream.
+These can and should be compensated, e.g. by adding inulin and increased suppression of ice crystal formation.
+
+The benefits are lower fat and calories, and reduced cholesterol.
+
 ### Skim Milk Powder (SMP)
 SMP plays a crucial role in ice cream production, primarily due to its ability to increase the MSNF content, which affects the texture, structure, and freezing point of the final product.
 
