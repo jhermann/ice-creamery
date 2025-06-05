@@ -59,9 +59,9 @@ Rating: 😋😋😋😋😋
 - **Nutritional values per 100g/ml:** 100g; 97.4 kcal; fat 3.6g; carbs 13.4g; sugar 4.8g; protein 4.6g; salt 0.2g
 - **Nutritional values per ½ Deluxe Tub:** 360g; 350.5 kcal; fat 13.0g; carbs 48.3g; sugar 17.2g; protein 16.5g; salt 0.7g
 - **Nutritional values total:** 720g; 701.0 kcal; fat 25.9g; carbs 96.7g; sugar 34.4g; protein 33.0g; salt 1.4g
-- **FPDF / PAC (target 20..30):** 32.27
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 32.27
 - **Protein / Energy Ratio (ok=12%; hi=20%):** 18.82% • Low-Sugar
-- **Milk Solids Non-Fat (MSNF, 7-11%):** 62.2g • 8.6%
+- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 62.2g • 8.6%
 - **30g Ice Cream Stabilizer (ICSv2) is:** 14.3g erythritol, 1.43g Tylose powder (CMC, E466), 
 0.5g tara gum (E417), 0.15g xanthan (E415),
 14.3g inulin, 0.5g salt.
