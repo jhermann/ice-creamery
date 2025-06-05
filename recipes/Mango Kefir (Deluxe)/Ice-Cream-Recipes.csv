@@ -1,13 +1,13 @@
 Mango Kefir (Deluxe);;;;;;;;;;;;
 ;;;;;;;;;;;;
 ;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;
-Nutritional values per 100g/ml;100;g;;74.5;1.5;12.5;4.8;3.7;0.2;;;
-Nutritional values per ½ Deluxe Tub;360;g;;268.1;5.3;45.0;17.4;13.1;0.8;;;
-Nutritional values total;720;g;;536.2;10.6;89.9;34.8;26.3;1.7;;;
+Nutritional values per 100g/ml;100;g;;86.0;1.6;12.4;4.7;6.1;0.2;;;
+Nutritional values per ½ Deluxe Tub;360;g;;309.5;5.7;44.7;17.0;22.1;0.9;;;
+Nutritional values total;720;g;;619.0;11.3;89.4;34.0;44.2;1.8;;;
 ;;;;;;;;;;;;
-FPDF / PAC (target 20..30);31.01;;;;;;;;;;;
-"Protein / Energy Ratio (ok=12%; hi=20%)";19.60%;;;;LOW-FAT;;Low-Sugar;;;;;
-Milk Solids Non-Fat (MSNF, 7-11%);46.0;g;;6.4%;;;;;;;;
+FPDF / PAC (target 20..30);30.98;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";28.55%;;;;LOW-FAT;;Low-Sugar;Hi-Protein;;;;
+Milk Solids Non-Fat (MSNF, 7-11%);64.6;g;;9.0%;;;;;;;;
 ;;;;;;;;;;;;
 "Process on *Frozen Yogurt*, [hold it shortly under running water](https://jhermann.github.io/ice-creamery/info/tips%2Btricks/#handling-of-icy-sides-bottom)
 *after* that.Then a scrape-down and a respin.
@@ -16,7 +16,7 @@ The base went from almost -18°C to -7°C after the respin.
 
 Served after 1h refreezing with pomegranate syrup.";;;;;;;;;;;;
 ;;;;;;;;;;;;
-Rating: 😋 (untested);;;;;;;;;;;;
+Rating: 😋😋😋 (flavor is good, but needs to be creamier);;;;;;;;;;;;
 ;;;;;;;;;;;;
 30g Ice Cream Stabilizer (ICSv2) is;"14.3g erythritol, 1.43g Tylose powder (CMC, E466), 
 0.5g tara gum (E417), 0.15g xanthan (E415),
@@ -25,12 +25,14 @@ Rating: 😋 (untested);;;;;;;;;;;;
 The [brand names] used are in brackets.;;;;;;;;;;;;
 ;;;;;;;;;;;;
 Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment
-Kefir mild [Milsani / Aldi];400.00;g;1;47.00;1.50;4.10;4.10;3.20;0.12;0.04;7.50;500g container
+Kefir mild [Milsani / Aldi];350.00;g;1;47.00;1.50;4.10;4.10;3.20;0.12;0.04;7.50;500g container
 Cottage Cheese 4% [REWE Bio];100.00;g;1;91.00;4.00;1.00;1.00;12.70;0.69;0.01;16.00;
 Glycerin (E422, VG) [hd-line];15.00;g;1;400.00;;99.00;;;;3.70;;"Sweetness = 60%; GI = 5; Density = 1.26 g/ml"
 Brandy “Williams Birne” 40 vol%;10.00;g;1;280.00;;;;;;2.96;;
 ICSv2 [Erythritol / CMC / Tara / XG / Inulin];30.00;g;2;107.30;0.00;54.70;3.70;0.10;1.70;1.32;;http://bit.ly/4frc4Vj
 Xylitol;25.00;g;2;238.00;0.00;100.00;0.00;0.00;0.00;2.20;;"Sweetness = 100%; GI = 7"
+Whey protein Vanilla [MaxiNutrition];25.00;g;2;392.00;5.80;6.20;5.30;78.00;0.57;0.05;89.20;
+Glycerol Monostearate (E471) [Bulk];2.00;g;2;415.00;;;;;;;;
 Flavor drops Peach / Maracuja [IronMaxx];5.00;drops;1;;;;;;;;;with sucralose
 ;;;;;;;;;;;;
 Cherries;;g;1;61.00;0.10;13.60;9.60;0.90;0.00;0.10;;
@@ -39,4 +41,4 @@ Ube Yam Root powder [Fil Choice];;g;2;382.00;0.60;83.00;9.50;6.10;0.30;0.10;;lik
 Lingonberry powder [Bio Leis];;g;2;351.00;2.30;78.80;72.50;3.70;0.01;0.73;;
 Strawberry powder [Supergarden];;g;2;287.00;3.70;50.90;50.60;7.60;0.00;0.51;;
 ;;;;;;;;;;;;
-Water to MAX line;15.00;ml;3;;;;;;;;;
+Water to MAX line;38.00;ml;3;;;;;;;;;
