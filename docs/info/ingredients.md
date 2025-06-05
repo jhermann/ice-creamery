@@ -237,10 +237,24 @@ It can make the texture softer and creamier, potentially due to the formation of
 
 Milk solids, cream, and stabilizers are more commonly used to achieve desired textures. 
 
-### Whey Protein
-Whey protein primarily functions as a water-binding agent, contributing to viscosity, stability, and texture. It helps to maintain small ice crystals avoiding grittiness (by limiting water mobility and ice crystal growth), and increases your protein intake.
+### Coconut Milk
+Coconut milk can be used for delicious and creamy bases,
+especially for dairy-free or vegan options.
+It provides a rich, tropical flavor and a creamy texture.
 
-By limiting water-ice-water transitions, whey proteins help to improve the freeze/thaw stability of ice cream, which also avoids a big quality degradation during long-term storage in the freezer.
+Coconut milk typically has a high fat content,
+particularly saturated fat (anywhere from 60–93% of total fat),
+but also incudes medium-chain triglycerides (MCTs).
+The exact amount can vary based on the specific product and the country it's from.
+That is why in recipes the expected percentage should always be included explicitly.
+
+*Full fat* ranges from 14% to 29% (and even higher in coconut cream),
+while *reduced fat* products typically have 7% to 17%.
+
+Besides fat content, always check for ingredients other than coconut and water,
+especially thickeners, emulsifers, and stabilizers.
+In your recipes, make sure to prevent separation of fatty and watery phases
+by adding enough emulsifiers.
 
 ### Skim Milk
 Skim milk or nonfat milk has a reduced fat content compared to whole milk.
@@ -270,3 +284,8 @@ SMP is convenient to use because it can be stored at room temperature and rehydr
 
 ### Sodium Alginate
 Improves texture, forms matrix with casein, increases elasticity. Up to 1g per 720g.
+
+### Whey Protein
+Whey protein primarily functions as a water-binding agent, contributing to viscosity, stability, and texture. It helps to maintain small ice crystals avoiding grittiness (by limiting water mobility and ice crystal growth), and increases your protein intake.
+
+By limiting water-ice-water transitions, whey proteins help to improve the freeze/thaw stability of ice cream, which also avoids a big quality degradation during long-term storage in the freezer.
