@@ -259,6 +259,17 @@ especially thickeners, emulsifers, and stabilizers.
 In your recipes, make sure to prevent separation of fatty and watery phases
 by adding enough emulsifiers.
 
+### Cottage Cheese
+Cottage cheese is primarily used due to its creamy texture and high protein content,
+which can contribute to a healthier and more satisfying dessert.
+It can also be a simpler alternative to traditional ice cream bases,
+but adds a slight tanginess from the cheese itself.
+
+Make sure to thoroughly blend it into the base,
+or use tempering to incorporate it into a cooked base.
+
+As with similar ingredients, always state the expected fat percentage explicitly in a recipe.
+
 ### Skim Milk
 Skim milk or nonfat milk has a reduced fat content compared to whole milk.
 Typically it has less than 0.5%; in Germany it is 0.1% to 0.3%,
