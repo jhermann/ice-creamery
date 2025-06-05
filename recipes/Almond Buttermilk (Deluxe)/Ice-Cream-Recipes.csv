@@ -1,13 +1,13 @@
 Almond Buttermilk (Deluxe);;;;;;;;;;;;
 ;;;;;;;;;;;;
 ;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;
-Nutritional values per 100g/ml;100;g;;113.9;5.1;13.7;5.1;5.0;0.2;;;
-Nutritional values per ½ Deluxe Tub;360;g;;410.2;18.5;49.4;18.2;17.9;0.9;;;
-Nutritional values total;720;g;;820.4;37.0;98.7;36.5;35.7;1.7;;;
+Nutritional values per 100g/ml;100;g;;97.4;3.6;13.4;4.8;4.6;0.2;;;
+Nutritional values per ½ Deluxe Tub;360;g;;350.5;13.0;48.3;17.2;16.5;0.7;;;
+Nutritional values total;720;g;;701.0;25.9;96.7;34.4;33.0;1.4;;;
 ;;;;;;;;;;;;
-FPDF / PAC (target 20..30);32.82;;;;;;;;;;;
-"Protein / Energy Ratio (ok=12%; hi=20%)";17.43%;;;;;;;;;;;
-Milk Solids Non-Fat (MSNF, 7-11%);67.4;g;;9.4%;;;;;;;;
+FPDF / PAC (target 20..30);32.27;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";18.82%;;;;;;Low-Sugar;;;;;
+Milk Solids Non-Fat (MSNF, 7-11%);62.2;g;;8.6%;;;;;;;;
 ;;;;;;;;;;;;
 Processed on *Lite Ice Cream*, with scrape-down and a respin.;;;;;;;;;;;;
 ;;;;;;;;;;;;
@@ -23,15 +23,15 @@ Rating: 😋😋😋😋😋
 The [brand names] used are in brackets.;;;;;;;;;;;;
 ;;;;;;;;;;;;
 Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment
-Buttermilk 1% [REWE];300.00;ml;1;35.00;0.50;4.00;4.00;3.50;0.15;0.04;8.50;
+Buttermilk 1% [REWE];350.00;ml;1;35.00;0.50;4.00;4.00;3.50;0.15;0.04;8.50;
 Skim Milk 1.5% [Weihenstephan];200.00;ml;1;47.00;1.50;4.90;4.90;3.50;0.11;0.05;9.16;
-Cream Cheese 23% [Exquisa];50.00;g;1;238.00;22.50;3.00;3.00;5.50;0.70;0.03;9.64;
+Cream Cheese 23% [Exquisa];;g;1;238.00;22.50;3.00;3.00;5.50;0.70;0.03;9.64;
 Almond butter (creamy) [Seba Garden];40.00;g;1;598.00;52.54;10.11;4.86;21.15;0.01;0.05;;
 Glycerin (E422, VG) [hd-line];15.00;g;1;400.00;;99.00;;;;3.70;;"POD = 60%; GI = 5; Density = 1.26 g/ml"
 Brandy “Williams Birne” 40 vol%;10.00;g;1;280.00;;;;;;2.96;;
 Flavor drops Cookies&Cream [Nick’s];10.00;drops;1;;;;;;;;;with stevia
 ICSv2 [Erythritol / CMC / Tara / XG / Inulin];30.00;g;2;107.3;0.0;54.7;3.7;0.1;1.7;1.32;;http://bit.ly/4frc4Vj
 Xylitol;30.00;g;2;238.00;;100.00;;;;2.20;;"POD = 100%; GI = 7"
-Skim Milkpowder 1:10 [Vita2You];20.00;g;2;358.00;0.97;50.50;50.50;35.00;1.00;0.51;94.03;
+Skim milk powder 1:10 (SMP) [Vita2You];15.00;g;2;358.00;0.97;50.50;50.50;35.00;1.00;0.51;94.03;
 ;;;;;;;;;;;;
-Water to MAX line;25.00;ml;3;;;;;;;;;
+Water to MAX line;30.00;ml;3;;;;;;;;;

@@ -3,6 +3,7 @@ description: Recipe for the Ninja Creami Deluxe [24oz]
 tags:
 - Dairy
 - Erythritol
+- Low-Sugar
 - Polysaccharide Gum
 - Stevia
 - Tylo Powder (CMC)
@@ -27,9 +28,8 @@ Rating: 😋😋😋😋😋
 
 **Wet**
 
-  - _300ml_ Buttermilk 1% [REWE]
+  - _350ml_ Buttermilk 1% [REWE]
   - _200ml_ [Skim Milk 1.5% \[Weihenstephan\]](/ice-creamery/info/ingredients/#skim-milk){target="_blank"}<sup>↗</sup>
-  - _50g_ Cream Cheese 23% [Exquisa]
   - _40g_ [Almond butter (creamy) \[Seba Garden\]](/ice-creamery/info/ingredients/#almond-milk-butter){target="_blank"}<sup>↗</sup>
   - _15g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • POD = 60%; GI = 5; Density = 1.26 g/ml
   - _10g_ [Brandy “Williams Birne” 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup>
@@ -39,11 +39,11 @@ Rating: 😋😋😋😋😋
 
   - _30g_ ICSv2 [Erythritol / CMC / Tara / XG / Inulin] • [http﹕//bit.ly/4frc4Vj](https://jhermann.github.io/ice-creamery/I/Ice%20Cream%20Stabilizer%20(ICS)/)
   - _30g_ [Xylitol](/ice-creamery/info/ingredients/#xylitol-e967){target="_blank"}<sup>↗</sup> • POD = 100%; GI = 7
-  - _20g_ [Skim Milkpowder 1:10 \[Vita2You\]](/ice-creamery/info/ingredients/#skim-milk-powder-smp){target="_blank"}<sup>↗</sup>
+  - _15g_ [Skim milk powder 1:10 (SMP) \[Vita2You\]](/ice-creamery/info/ingredients/#skim-milk-powder-smp){target="_blank"}<sup>↗</sup>
 
 **Fill to MAX**
 
-  - _25ml_ Water to MAX line
+  - _30ml_ Water to MAX line
 
 # DIRECTIONS
 
@@ -56,12 +56,12 @@ Rating: 😋😋😋😋😋
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
 
 # NUTRITIONAL & OTHER INFO
-- **Nutritional values per 100g/ml:** 100g; 113.9 kcal; fat 5.1g; carbs 13.7g; sugar 5.1g; protein 5.0g; salt 0.2g
-- **Nutritional values per ½ Deluxe Tub:** 360g; 410.2 kcal; fat 18.5g; carbs 49.4g; sugar 18.2g; protein 17.9g; salt 0.9g
-- **Nutritional values total:** 720g; 820.4 kcal; fat 37.0g; carbs 98.7g; sugar 36.5g; protein 35.7g; salt 1.7g
-- **FPDF / PAC (target 20..30):** 32.82
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 17.43%
-- **Milk Solids Non-Fat (MSNF, 7-11%):** 67.4g • 9.4%
+- **Nutritional values per 100g/ml:** 100g; 97.4 kcal; fat 3.6g; carbs 13.4g; sugar 4.8g; protein 4.6g; salt 0.2g
+- **Nutritional values per ½ Deluxe Tub:** 360g; 350.5 kcal; fat 13.0g; carbs 48.3g; sugar 17.2g; protein 16.5g; salt 0.7g
+- **Nutritional values total:** 720g; 701.0 kcal; fat 25.9g; carbs 96.7g; sugar 34.4g; protein 33.0g; salt 1.4g
+- **FPDF / PAC (target 20..30):** 32.27
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 18.82% • Low-Sugar
+- **Milk Solids Non-Fat (MSNF, 7-11%):** 62.2g • 8.6%
 - **30g Ice Cream Stabilizer (ICSv2) is:** 14.3g erythritol, 1.43g Tylose powder (CMC, E466), 
 0.5g tara gum (E417), 0.15g xanthan (E415),
 14.3g inulin, 0.5g salt.
