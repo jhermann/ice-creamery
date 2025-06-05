@@ -6,7 +6,6 @@ tags:
 - Tylo Powder (CMC)
 ---
 # Ice Cream Stabilizer • ICSv2
-
 <img style="float: right; padding-left: 1rem;" width=320 alt="ICS Logo" src="https://github.com/jhermann/ice-creamery/blob/main/assets/ICS-logo.png?raw=true" />
 
 > Pre-mixed stabilizer for Ninja Creami recipes.
@@ -25,12 +24,12 @@ http://bit.ly/4frc4Vj
 
 # INGREDIENTS
 
-  - _100g_ Erythritol (E968) • Sweetness = 75%
-  - _10g_ Tylose powder (E466, Tylo, CMC)
-  - _3.5g_ Tara gum (E417)
+  - _100g_ [Erythritol (E968)](/ice-creamery/info/ingredients/#erythritol-e968){target="_blank"}<sup>↗</sup> • Sweetness = 75%
+  - _10g_ [Tylose powder (E466, Tylo, CMC)](/ice-creamery/info/ingredients/#carboxymethyl-cellulose-cmc-e466){target="_blank"}<sup>↗</sup>
+  - _3.5g_ [Tara gum (E417)](/ice-creamery/info/ingredients/#tara-gum-e417){target="_blank"}<sup>↗</sup>
   - _3.5g_ Salt
-  - _1g_ Xanthan gum (E415, XG)
-  - _100g_ Inulin • Sweetness = 8%; GI ~= 0
+  - _1g_ [Xanthan gum (E415, XG)](/ice-creamery/info/ingredients/#xanthan-gum-xg-e415){target="_blank"}<sup>↗</sup>
+  - _100g_ [Inulin \[Vit4ever\]](/ice-creamery/info/ingredients/#inulin){target="_blank"}<sup>↗</sup> • Sweetness = 8%; GI ~= 0
 
 # DIRECTIONS
 

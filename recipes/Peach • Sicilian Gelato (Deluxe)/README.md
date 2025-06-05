@@ -1,5 +1,6 @@
 ---
-description: Sicilian gelato is thickened with cornstarch, a traditional method in Sicily.
+description: Sicilian gelato is thickened with cornstarch, a traditional method in
+  Sicily.
 tags:
 - Cooked Base
 - Draft
@@ -7,8 +8,10 @@ tags:
 - Fruit
 - Low-Fat
 - Low-Sugar
-- Xylitol
+- Polysaccharide Gum
+- Sucralose
 - Vegan
+- Xylitol
 ---
 # Peach • Sicilian Gelato (Deluxe)
 
@@ -28,24 +31,24 @@ Rating: 😋 (untested)
 
 **Wet**
 
-  - _150ml_ Almond milk (unsweetened) [REWE Bio] • with guar gum (<1.5g)
-  - _25g_ Almond butter (creamy) [Seba Garden]
+  - _150ml_ [Almond milk (unsweetened) \[REWE Bio\]](/ice-creamery/info/ingredients/#almond-milk-butter){target="_blank"}<sup>↗</sup> • with guar gum (<1.5g)
+  - _25g_ [Almond butter (creamy) \[Seba Garden\]](/ice-creamery/info/ingredients/#almond-milk-butter){target="_blank"}<sup>↗</sup>
 
 **Dry**
 
-  - _25g_ Erythritol (E968) • POD = 75%
-  - _25g_ Xylitol • POD = 100%; GI = 7
+  - _25g_ [Erythritol (E968)](/ice-creamery/info/ingredients/#erythritol-e968){target="_blank"}<sup>↗</sup> • POD = 75%
+  - _25g_ [Xylitol](/ice-creamery/info/ingredients/#xylitol-e967){target="_blank"}<sup>↗</sup> • POD = 100%; GI = 7
   - _10g_ Corn starch
-  - _10g_ Inulin [Vit4ever] • Sweetness = 8%; GI ~= 0
-  - _10g_ Skim Milkpowder 1:10 [Vita2You] • Leave out for vegan, use more inulin instead
+  - _10g_ [Inulin \[Vit4ever\]](/ice-creamery/info/ingredients/#inulin){target="_blank"}<sup>↗</sup> • Sweetness = 8%; GI ~= 0
+  - _10g_ [Skim milk powder 1:10 (SMP) \[Vita2You\]](/ice-creamery/info/ingredients/#skim-milk-powder-smp){target="_blank"}<sup>↗</sup> • Leave out for vegan, use more inulin instead
   - _0.5g_ Salt • 10-15 shakes
 
 **Fill to MAX**
 
   - _250g_ Peaches in Grape Juice [Libby’s] • Drained; Can = 410g
-  - _150ml_ Almond milk (unsweetened) [REWE Bio] • with guar gum (<1.5g)
+  - _150ml_ [Almond milk (unsweetened) \[REWE Bio\]](/ice-creamery/info/ingredients/#almond-milk-butter){target="_blank"}<sup>↗</sup> • with guar gum (<1.5g)
   - _10g_ Brandy “Williams Birne” 40 vol%
-  - _10g_ Glycerin (E422, VG) [hd-line] • POD = 60%; GI = 5; Density = 1.26 g/ml
+  - _10g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • POD = 60%; GI = 5; Density = 1.26 g/ml
   - _5 drops_ Flavor drops Peach / Maracuja [IronMaxx] • with sucralose
   - _44.5ml_ Water to MAX line
 
