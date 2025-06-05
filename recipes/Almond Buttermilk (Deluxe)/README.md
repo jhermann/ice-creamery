@@ -9,7 +9,7 @@ tags:
 - Xylitol
 ---
 # Almond Buttermilk (Deluxe)
-<img style="float: right; margin-left: 1.5em;" width=240 alt="logo" src="logo.jpeg" />
+<img style="float: right; margin-left: 1.5em;" width=240 alt="logo" src="logo.png" />
 
 Processed on *Lite Ice Cream*, with scrape-down and a respin.
 
