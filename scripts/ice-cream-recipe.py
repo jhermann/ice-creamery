@@ -159,7 +159,10 @@ parse_ingredients_docs.wordmap = {}
 
 def ingredient_link(ingredient):
     """Link a recognized ingredient, otherwise return the given text unchanged."""
-    cleaned = ingredient.rsplit('[', 1)[0]  # strip off brand names in '[]'
+    cleaned = ingredient.replace('Skim Milkpowder', 'skim milk powder SMP')  # legacy recipes
+    for word in {'Brandy', 'Vodka', 'Rum'}:
+        cleaned = cleaned.replace(word, 'Alcohol (Ethanol)')
+    cleaned = cleaned.rsplit('[', 1)[0]  # strip off brand names in '[]'
     given = md_anchor(cleaned).split('-')
     scores = {}
     for anchor, words in parse_ingredients_docs.wordmap.items():

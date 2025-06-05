@@ -291,6 +291,24 @@ Whey protein primarily functions as a water-binding agent, contributing to visco
 By limiting water-ice-water transitions, whey proteins help to improve the freeze/thaw stability of ice cream, which also avoids a big quality degradation during long-term storage in the freezer.
 
 ## Miscellaneous
+### Alcohol (Ethanol)
+Alcohol can enhance or provide flavor,
+and it also affects the freezing point,
+potentially making the ice cream softer and more prone to melting.
+The PAC of pure ethanol is 7.4, and 2.96 for 40 vol% booze.
+
+A small amount (1-2 tbsp of a spirit) can add a subtle flavor,
+while more (3-4 tbsp) can create a noticeable kick.
+Liqueurs and fortified wines can be added in larger quantities
+without significantly affecting the freezing point, up to a point.
+
+A good rule of thumb is to never add more than 200g of 40% (80 proof) alcohol
+in 1kg base (i.e. max. 20%), leading to roughly 8 vol% in total.
+This is good if you are looking to make a boozy ice cream,
+as you will get plenty of flavor and still have
+a scoopable texture at around -18°C / 0°F.
+*Always* use an ice cream calculator in such cases though.
+
 ### Baking Soda (Sodium Bicarbonate)
 Baking soda is not a typical ingredient in ice cream recipes.
 When used, it is to improve texture and maintain a neutral pH.
