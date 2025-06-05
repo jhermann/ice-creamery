@@ -27,6 +27,7 @@ import os
 import re
 import csv
 import sys
+import difflib
 import subprocess
 
 from pprint import pp  # pylint: disable=unused-import
@@ -140,6 +141,40 @@ def read_meta():
 
     return result
 
+def md_anchor(title, _re=re.compile(r'([^a-z0-9]+)')):
+    """Convert a readable title into an anchor."""
+    return _re.subn('-', title.lower())[0].strip('-')
+
+def parse_ingredients_docs():
+    """Parse the Markdown file 'ingredients.md' for linking from recipes to it."""
+    docsfile = Path(__file__).readlink().parent.parent / 'docs' / 'info' / 'ingredients.md'
+    markup = docsfile.read_text(encoding='utf-8')
+    titles = [x.lstrip('#').strip() for x in markup.splitlines() if x.startswith('### ')]
+    wordmap = {md_anchor(x): set(md_anchor(x).split('-')) for x in titles}
+    parse_ingredients_docs.wordmap = wordmap
+    return wordmap
+parse_ingredients_docs.wordmap = {}
+
+def ingredient_link(ingredient):
+    """Link a recognized ingredient, otherwise return the given text unchanged."""
+    cleaned = ingredient.rsplit('[', 1)[0]  # strip off brand names in '[]'
+    given = md_anchor(cleaned).split('-')
+    scores = {}
+    for anchor, words in parse_ingredients_docs.wordmap.items():
+        score = sum(len(difflib.get_close_matches(x, words, cutoff=0.8)) for x in given)
+        score /= len(words)
+        if score:
+            scores[score] = anchor
+            #print(score, anchor, ingredient)
+    if scores:
+        anchor = list(sorted(scores.items()))[-1][1]
+        href = f'/ice-creamery/info/ingredients/#{anchor}'
+        ingredient = ingredient.replace("[", r"\[").replace("]", r"\]")
+        link = f'[{ingredient}]({href})'
+        #print(link)
+        return link
+    else:
+        return ingredient
 
 def subtitle(text):
     """Create markdown for a recipe subtitle."""
@@ -228,6 +263,7 @@ def main():
 
     images = read_images()
     docmeta = read_meta()
+    parse_ingredients_docs()
     #print(yaml.safe_dump(docmeta)); die
 
     with open(CSV_FILE, 'r', encoding='utf-8') as handle:
@@ -285,7 +321,8 @@ def main():
         for ingredient in recipe[step]:
             ingredient['spacer'] = '' if ingredient['unit'] in {'g', 'ml'} else ' '
             ingredient['amount'] = ingredient['amount'].replace(".50", ".5")
-            lines.append('  - _{amount}{spacer}{unit}_ {ingredients}'.format(**ingredient))
+            ingredient['href'] = ingredient_link(ingredient['ingredients'])
+            lines.append('  - _{amount}{spacer}{unit}_ {href}'.format(**ingredient))
             if ingredient['comment']:
                 lines[-1] += f" • {ingredient['comment']}"
 
