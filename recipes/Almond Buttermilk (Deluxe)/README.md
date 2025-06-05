@@ -3,9 +3,9 @@ description: Recipe for the Ninja Creami Deluxe [24oz]
 tags:
 - Dairy
 - Erythritol
+- Polysaccharide Gum
 - Stevia
 - Tylo Powder (CMC)
-- Polysaccharide Gum
 - Xylitol
 ---
 # Almond Buttermilk (Deluxe)
@@ -28,18 +28,18 @@ Rating: 😋😋😋😋😋
 **Wet**
 
   - _300ml_ Buttermilk 1% [REWE]
-  - _200ml_ Skim Milk 1.5% [Weihenstephan]
+  - _200ml_ [Skim Milk 1.5% \[Weihenstephan\]](/ice-creamery/info/ingredients/#skim-milk){target="_blank"}<sup>↗</sup>
   - _50g_ Cream Cheese 23% [Exquisa]
-  - _40g_ Almond butter (creamy) [Seba Garden]
-  - _15g_ Glycerin (E422, VG) [hd-line] • POD = 60%; GI = 5; Density = 1.26 g/ml
-  - _10g_ Brandy “Williams Birne” 40 vol%
+  - _40g_ [Almond butter (creamy) \[Seba Garden\]](/ice-creamery/info/ingredients/#almond-milk-butter){target="_blank"}<sup>↗</sup>
+  - _15g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • POD = 60%; GI = 5; Density = 1.26 g/ml
+  - _10g_ [Brandy “Williams Birne” 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup>
   - _10 drops_ Flavor drops Cookies&Cream [Nick’s] • with stevia
 
 **Dry**
 
-  - _30g_ ICSv2 [Erythritol / CMC / Tara / XG / Inulin] • [http﹕//bit.ly/4frc4Vj](https://github.com/jhermann/ice-creamery/tree/main/recipes/Ice%20Cream%20Stabilizer%20%28ICS%29)
-  - _30g_ Xylitol • POD = 100%; GI = 7
-  - _20g_ Skim Milkpowder 1:10 [Vita2You]
+  - _30g_ ICSv2 [Erythritol / CMC / Tara / XG / Inulin] • [http﹕//bit.ly/4frc4Vj](https://jhermann.github.io/ice-creamery/I/Ice%20Cream%20Stabilizer%20(ICS)/)
+  - _30g_ [Xylitol](/ice-creamery/info/ingredients/#xylitol-e967){target="_blank"}<sup>↗</sup> • POD = 100%; GI = 7
+  - _20g_ [Skim Milkpowder 1:10 \[Vita2You\]](/ice-creamery/info/ingredients/#skim-milk-powder-smp){target="_blank"}<sup>↗</sup>
 
 **Fill to MAX**
 
