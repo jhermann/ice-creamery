@@ -11,7 +11,7 @@ while read dir; do
     mkdir -p "docs/$letter"
     ln -nfs "../../$dir/README.md" "docs/$letter/$name.md"
 
-    ( ls -1 "$dir"/*.{png,jpg} 2>/dev/null || : ) | \
+    ( ls -1 "$dir"/*.{png,jpg,jpeg} 2>/dev/null || : ) | \
     while read img; do
         mkdir -p "docs/$letter/$(basename "$dir")"
         ln -nfs "../../../$img" "docs/$letter/$(basename "$dir")/$(basename "$img")"
