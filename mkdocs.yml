@@ -77,6 +77,7 @@ plugins:
         - changed.md
 
 markdown_extensions:
+  - attr_list
   - toc:
       title: Table of Contents
       permalink: true
