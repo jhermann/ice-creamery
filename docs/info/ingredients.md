@@ -228,6 +228,18 @@ Lecithin reduces the surface tension between fat and water, contributing to a sm
 Soy lecithin is often extracted using chemical solvents, which makes it a UPF, and it might come from GMO sources.
 
 ## Dairy & Milk Alternatives
+### Almond Milk & Butter
+Almond milk is a dairy-free and vegan-friendly option for ice cream bases,
+just like Coconot milk but with less flavor impact and way lower fat content.
+Almond butter can be used to make it more similar to coconut milk,
+especially as a replacement when you don't like coconut.
+
+For creaminess, you can combine almond milk with ingredients like
+almond butter, bananas, dates, cashews, and hemp hearts.
+
+Always check for ingredients other than almonds and water,
+especially thickeners, emulsifers, and stabilizers.
+
 ### Coconut Milk
 Coconut milk can be used for delicious and creamy bases,
 especially for dairy-free or vegan options.
