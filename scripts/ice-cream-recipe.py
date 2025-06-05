@@ -150,17 +150,17 @@ def md_anchor(title, _re=re.compile(r'([^a-z0-9]+)')):
     """Convert a readable title into an anchor."""
     return _re.subn('-', title.lower())[0].strip('-')
 
-def parse_ingredients_docs():
+def parse_info_docs(kind, header):
     """Parse the Markdown file 'ingredients.md' for linking from recipes to it."""
-    docsfile = Path(__file__).readlink().parent.parent / 'docs' / 'info' / 'ingredients.md'
+    docsfile = Path(__file__).readlink().parent.parent / 'docs' / 'info' / f'{kind}.md'
     markup = docsfile.read_text(encoding='utf-8')
-    titles = [x.lstrip('#').strip() for x in markup.splitlines() if x.startswith('### ')]
+    titles = [x.lstrip('#').strip() for x in markup.splitlines() if x.startswith(header)]
     wordmap = {md_anchor(x): set(md_anchor(x).split('-')) for x in titles}
-    parse_ingredients_docs.wordmap = wordmap
+    parse_info_docs.wordmap[kind] = wordmap
     return wordmap
-parse_ingredients_docs.wordmap = {}
+parse_info_docs.wordmap = defaultdict(dict)
 
-def ingredient_link(ingredient):
+def ingredient_link(ingredient, kind='ingredients', threshold=0.4):
     """Link a recognized ingredient, otherwise return the given text unchanged."""
     cleaned = ingredient.replace('Skim Milkpowder', 'skim milk powder SMP')  # legacy recipes
     for word in {'Brandy', 'Vodka', 'Rum'}:
@@ -168,21 +168,31 @@ def ingredient_link(ingredient):
     cleaned = cleaned.rsplit('[', 1)[0]  # strip off brand names in '[]'
     given = md_anchor(cleaned).split('-')
     scores = {}
-    for anchor, words in parse_ingredients_docs.wordmap.items():
+    #print(parse_info_docs.wordmap[kind].items())
+    for anchor, words in parse_info_docs.wordmap[kind].items():
         score = sum(len(difflib.get_close_matches(x, words, cutoff=0.8)) for x in given)
         score /= len(words)
-        if score > 0.4:
+        if score > threshold:
             scores[score] = anchor
             #print(score, anchor, ingredient)
     if scores:
         anchor = list(sorted(scores.items()))[-1][1]
-        href = f'/ice-creamery/info/ingredients/#{anchor}'
+        href = f'/ice-creamery/info/{kind}/#{anchor}'
         ingredient = ingredient.replace("[", r"\[").replace("]", r"\]")
         link = f'[{ingredient}]({href}){{target="_blank"}}<sup>↗</sup>'
         #print(link)
         return link
     else:
         return ingredient
+
+def info_link(term):
+    """Link recognized terms within an info bullet."""
+    well_known = {'MSNF', 'PAC'}
+    for fragment in well_known:
+        link = ingredient_link(fragment, kind='glossary', threshold=0.01)
+        if link != fragment:
+            term = term.replace(fragment, link)
+    return term
 
 def subtitle(text):
     """Create markdown for a recipe subtitle."""
@@ -256,7 +266,7 @@ def main():
                 line = ' *', line[1].replace('.00', ''), line[2], line[0]
             lines.append(' '.join(line))
         elif row[1]:  # row with a value in the 2nd column
-            nutrition.append(f'**{row[0].strip()}:** {row[1].strip()}')
+            nutrition.append(f'**{info_link(row[0].strip())}:** {row[1].strip()}')
             if any(row[2:]):
                 aux_info = ' • '.join([''] + [x.strip() for x in row[2:] if x.strip()])
                 if aux_info.startswith(' • g • '):
@@ -270,7 +280,8 @@ def main():
 
     images = read_images()
     docmeta = read_meta()
-    parse_ingredients_docs()
+    parse_info_docs('ingredients', '### ')
+    parse_info_docs('glossary', '## ')
     #print(yaml.safe_dump(docmeta)); die
 
     with open(CSV_FILE, 'r', encoding='utf-8') as handle:
