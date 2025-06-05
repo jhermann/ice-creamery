@@ -9,6 +9,10 @@
   background: #b8b;
 }
 
+.md-tabs__link {
+	font-size: 175%;
+}
+
 .md-nav__item--active label span.md-ellipsis {
   color: teal;
   font-style: italic;
