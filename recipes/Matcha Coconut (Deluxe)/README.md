@@ -1,5 +1,7 @@
 ---
 description: Recipe for the Ninja Creami Deluxe [24oz]
+excluded_tags:
+- Vanilla
 tags:
 - Dairy
 - Draft
@@ -30,16 +32,16 @@ Rating: 😋🥥🍵 (untested)
 
 **Wet**
 
-  - _250ml_ Skim Milk 1.5% [Weihenstephan]
-  - _100ml_ Coconut milk 22% [REWE Bio]
+  - _250ml_ [Skim Milk 1.5% \[Weihenstephan\]](/ice-creamery/info/ingredients/#skim-milk){target="_blank"}<sup>↗</sup>
+  - _100ml_ [Coconut milk 22% \[REWE Bio\]](/ice-creamery/info/ingredients/#coconut-milk){target="_blank"}<sup>↗</sup>
   - _100g_ Cottage Cheese 4% [REWE Bio]
-  - _20g_ Glycerin (E422, VG) [hd-line] • POD = 60%; GI = 5; Density = 1.26 g/ml
+  - _20g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • POD = 60%; GI = 5; Density = 1.26 g/ml
   - _10g_ Brandy “Williams Birne” 40 vol%
   - _7 drops_ Flavor drops Vanilla [IronMaxx] • with sucralose
 
 **Dry**
 
-  - _30g_ Xylitol • POD = 100%; GI = 7
+  - _30g_ [Xylitol](/ice-creamery/info/ingredients/#xylitol-e967){target="_blank"}<sup>↗</sup> • POD = 100%; GI = 7
   - _20g_ ICSv2 [Erythritol / CMC / Tara / XG / Inulin] • [http﹕//bit.ly/4frc4Vj](https://jhermann.github.io/ice-creamery/I/Ice%20Cream%20Stabilizer%20(ICS)/)
 
 **Fill to MAX**

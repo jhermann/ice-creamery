@@ -30,27 +30,27 @@ Rating: 😋😋😋😋🎅
 **Wet**
 
   - _355ml_ Apple Sauce (no added sugar) [Gut Bio] • 1 jar = 355g
-  - _175ml_ Skim Milk 1.5% [Weihenstephan]
+  - _175ml_ [Skim Milk 1.5% \[Weihenstephan\]](/ice-creamery/info/ingredients/#skim-milk)
   - _100g_ Cottage Cheese 4% [REWE Bio]
-  - _15g_ Glycerin (E422, VG) [hd-line] • Sweetness = 60%; GI = 5; Density = 1.26 g/ml
-  - _3drops_ Flavor drops Vanilla [IronMaxx]
-  - _3drops_ Flavor drops Caramel [IronMaxx]
+  - _15g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422) • Sweetness = 60%; GI = 5; Density = 1.26 g/ml
+  - _3 drops_ Flavor drops Vanilla [IronMaxx]
+  - _3 drops_ Flavor drops Caramel [IronMaxx]
 
 **Dry**
 
-  - _30g_ ICSv2 [Erythritol / CMC / Tara / XG / Inulin] • [http﹕//bit.ly/4frc4Vj](https://github.com/jhermann/ice-creamery/tree/main/recipes/Ice%20Cream%20Stabilizer%20%28ICS%29)
-  - _20g_ Xylitol • Sweetness = 100%; GI = 7
+  - _30g_ ICSv2 [Erythritol / CMC / Tara / XG / Inulin] • [http﹕//bit.ly/4frc4Vj](https://jhermann.github.io/ice-creamery/I/Ice%20Cream%20Stabilizer%20(ICS)/)
+  - _20g_ [Xylitol](/ice-creamery/info/ingredients/#xylitol-e967) • Sweetness = 100%; GI = 7
   - _3g_ Cinnamon (Ceylon) • 1tsp = 3g
 
-**Top Off**
+**Fill to MAX**
 
   - _22ml_ Water to MAX line
 
-**Mix-Ins**
+**Mix-ins**
 
   - _20g_ Almond slivers • Mixin / Topping
   - _10g_ Raisins • Mixin / Topping
-  - _50g_ Stollen, coarsely cubed
+  - _50g_ Stollen, coarsely cubed • Mixin
 
 # DIRECTIONS
 

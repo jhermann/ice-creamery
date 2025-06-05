@@ -109,6 +109,8 @@ def add_default_tags(md_text, docmeta):
         if word in md_text_words:
             docmeta['tags'].append(tag)
     if docmeta:
+        if 'excluded_tags' in docmeta:
+            docmeta['tags'] = list(set(docmeta['tags']).difference(set(docmeta['excluded_tags'])))
         docmeta['tags'] = list(sorted(set(docmeta['tags'])))
         md_text = '---\n' + yaml.safe_dump(docmeta).rstrip() + '\n---\n' + md_text
     return md_text
@@ -271,6 +273,10 @@ def main():
         row = ''
         title = next(reader)[0]
         lines.extend([f'# {title}', ''])
+
+        if images and 'float: right' in images[0]:
+            lines[-1:-1] = [images[0]]
+            del images[0]
 
         # Handle nutrients
         next(reader)  # skip empty row
