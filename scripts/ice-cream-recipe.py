@@ -115,15 +115,18 @@ def add_default_tags(md_text, docmeta):
         md_text = '---\n' + yaml.safe_dump(docmeta).rstrip() + '\n---\n' + md_text
     return md_text
 
-
 def read_images():
     """Read IMG tags from readme."""
     filename = Path('README.md')
     result = []
     if filename.exists():
-        result = [x for x in filename.read_text(encoding='utf-8').splitlines() if '<img ' in x]
-    return result or ['> <img width=360 alt="Spun Ice Cream" src="" />']
-
+        lines = filename.read_text(encoding='utf-8').splitlines()
+        for idx, line in reversed(list(enumerate(lines))):
+            if line == '---':
+                lines = lines[idx+1:]
+                break
+        result = {n : x for n, x in enumerate(lines) if '<img ' in x}
+    return result or {999: '> <img width=360 alt="Spun Ice Cream" src="" />'}
 
 def read_meta():
     """Read metadata from readme."""
@@ -202,7 +205,10 @@ def markdown_file(title):
 
 def main():
     """Main loop."""
-    tags_only = '--tags' in sys.argv  # XXX: very cheap cmd line arg parsing
+    # XXX: very cheap cmd line arg parsing
+    tags_only = '--tags' in sys.argv
+    dry_run = '-n' in sys.argv or '--dry-run' in sys.argv
+
     recipe = defaultdict(list)
     lines = []
     nutrition = []
@@ -258,13 +264,9 @@ def main():
                 nutrition[-1] += aux_info
         elif row[0]:  # non-empty text
             if '[brand names]' not in row[0]:
-                lines.append(row[0].replace(' \n', '\n').strip())
+                lines.extend(row[0].replace(' \n', '\n').strip().splitlines())
         elif lines[-1] != '':  # empty row (1st one after some text)
             lines.append('')
-
-        if lines and images and lines[-1] and not lines[-1].startswith('#'):
-            lines.extend([''] + images)
-            images = []
 
     images = read_images()
     docmeta = read_meta()
@@ -276,10 +278,9 @@ def main():
         row = ''
         title = next(reader)[0]
         lines.extend([f'# {title}', ''])
-
-        if images and 'float: right' in images[0]:
-            lines[-1:-1] = [images[0]]
-            del images[0]
+        if 1 in images:
+            lines[-1:-1] = [images[1]]
+            del images[1]
 
         # Handle nutrients
         next(reader)  # skip empty row
@@ -294,6 +295,12 @@ def main():
 
         # Parse up to ingredient list
         while row[0] != 'Ingredients':  # process comment / text lines, up to the ingredient list
+            img_idx = min(images) if images else 9999
+            #print('L:', len(lines), 'I:', img_idx); pp(lines[-3:])
+            if images and len(lines) >= img_idx:
+                lines[img_idx:img_idx] = [images[img_idx], '']
+                del images[img_idx]
+
             row = next(reader)
             #print('!', row)
             if row[0] == 'Ingredients':
@@ -302,6 +309,10 @@ def main():
                 special_directions.append(' ' + row[0].strip())
             else:
                 handle_top_row(row)
+
+        if images:
+            lines.extend([''] + list(images.values()))
+            images = {}
 
         fields = [x.lower().replace('#', 'step') for x in row]
         #print(fields)
@@ -379,11 +390,15 @@ def main():
         md_text = '\n'.join(md_text).strip() + '\n'
         md_text = add_default_tags(md_text, docmeta)
         print(f'Updating tags only: {", ".join(sorted(docmeta["tags"]))}')
-    with open(md_file, 'w', encoding='utf-8') as out:
-        out.write(md_text)
 
-    # Open markdown file in VS Code
-    os.system(f'{os.getenv("GUI_EDITOR", "code")} "{md_file}"')
+    if dry_run:
+        print(md_text, end=None)
+    else:
+        with open(md_file, 'w', encoding='utf-8') as out:
+            out.write(md_text)
+
+        # Open markdown file in VS Code
+        os.system(f'{os.getenv("GUI_EDITOR", "code")} "{md_file}"')
 
 if __name__ == '__main__':
     main()
