@@ -170,7 +170,7 @@ def ingredient_link(ingredient):
         anchor = list(sorted(scores.items()))[-1][1]
         href = f'/ice-creamery/info/ingredients/#{anchor}'
         ingredient = ingredient.replace("[", r"\[").replace("]", r"\]")
-        link = f'[{ingredient}]({href})'
+        link = f'[{ingredient}]({href}){{target="_blank"}}<sup>↗</sup>'
         #print(link)
         return link
     else:
