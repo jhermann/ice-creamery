@@ -12,16 +12,17 @@ tags:
 - Xylitol
 ---
 # German Cheesecake (Deluxe)
+<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="german-cheesecake-ice-cream-logo.png" />
 
 Inspired by German cheesecake, which is made with ‘Quark’ or ‘Topfen’
 – think of a cross between yogurt, cottage cheese and ricotta.
 The lemon juice and soured milk add the necessary tanginess.
 
-> <img width=360 alt="Spun Ice Cream" src="https://github.com/jhermann/ice-creamery/blob/main/recipes/German%20Cheesecake%20(Deluxe)/german-cheesecake_2024-12-18_2.jpg?raw=true" />
+> <img width=360 alt="Spun Ice Cream" src="german-cheesecake_2024-12-18_2.jpg" />
 
 Spin on Lite Ice Cream.
 
-> <img width=360 alt="Spun Ice Cream" src="https://github.com/jhermann/ice-creamery/blob/main/recipes/German%20Cheesecake%20(Deluxe)/german-cheesecake_2024-12-18_1.jpg?raw=true" />
+> <img width=360 alt="Spun Ice Cream" src="german-cheesecake_2024-12-18_1.jpg" />
 
 Rating: 😋
 
