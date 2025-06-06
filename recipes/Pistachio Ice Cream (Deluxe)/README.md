@@ -16,7 +16,7 @@ tags:
 Processed on Lite Ice Cream, came out as soft-serve on the firmer side of things.
 Freeze again for about an hour to get to scoopable.
 
-> <img width=360 alt="Spun Ice Cream" src="https://github.com/jhermann/ice-creamery/blob/main/recipes/Pistachio%20Ice%20Cream%20(Deluxe)/Pistachio_2025-01-01.jpg?raw=true" />
+> <img width=360 alt="Spun Ice Cream" src="Pistachio_2025-01-01.jpg" />
 
 Rating: 😋😋😋😋
 

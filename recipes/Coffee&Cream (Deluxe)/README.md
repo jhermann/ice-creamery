@@ -18,7 +18,7 @@ tags:
 Spun on Sorbet, followed by a scrape-down and a re-spin.
 Went to the freezer again for an hour to firm up.
 
-> <img width=360 alt="Spun Ice Cream" src="https://github.com/jhermann/ice-creamery/blob/main/recipes/Coffee&Cream%20(Deluxe)/Coffee+Cream_2024-12-29.jpg?raw=true" />
+> <img width=360 alt="Spun Ice Cream" src="Coffee+Cream_2024-12-29.jpg" />
 
 The coffee flavor is there but not dominant,
 the consistency is soft and from experience will get a bit firmer after several hours in the freezer.

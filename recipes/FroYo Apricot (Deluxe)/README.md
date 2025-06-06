@@ -12,7 +12,7 @@ tags:
 
 Fruity, a little tangy, perfect consistency after 1st FROYO spin.
 
-> <img width=360 alt="Spun Ice Cream" src="https://github.com/jhermann/ice-creamery/blob/main/recipes/FroYo%20Apricot%20(Deluxe)/apricot_froyo_2024-10-29.jpg?raw=true" />
+> <img width=360 alt="Spun Ice Cream" src="apricot_froyo_2024-10-29.jpg" />
 
 # INGREDIENTS
 

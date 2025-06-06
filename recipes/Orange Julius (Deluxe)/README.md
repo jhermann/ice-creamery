@@ -18,8 +18,8 @@ tags:
 Processed on Sorbet, followed by a scrape-down and re-mix.
 Ends up with a creamy sorbet consistency.
 
-> <img width=360 alt="Organic Orange" src="https://github.com/jhermann/ice-creamery/blob/main/recipes/Orange%20Julius%20(Deluxe)/Orange-Julius_2024-12-27_1.jpg?raw=true" />
-> <img width=360 alt="Spun Ice Cream" src="https://github.com/jhermann/ice-creamery/blob/main/recipes/Orange%20Julius%20(Deluxe)/Orange-Julius_2024-12-27_2.jpg?raw=true" />
+> <img width=360 alt="Organic Orange" src="Orange-Julius_2024-12-27_1.jpg" />
+> <img width=360 alt="Spun Ice Cream" src="Orange-Julius_2024-12-27_2.jpg" />
 
 Very intense flavor due to the orange zest, it might be better with half the orange peel.
 

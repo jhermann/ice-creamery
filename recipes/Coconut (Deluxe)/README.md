@@ -14,13 +14,13 @@ tags:
 
 Coconut is unsurprisingly the dominant flavor. Process on Ice Cream.
 
-> <img width=360 alt="Spun Ice Cream" src="https://github.com/jhermann/ice-creamery/blob/main/recipes/Coconut%20(Deluxe)/Coconut_2025-01-02.jpg?raw=true" />
+> <img width=360 alt="Spun Ice Cream" src="Coconut_2025-01-02.jpg" />
 Rating: 😋😋😋😋
 
 With Coconut flakes, processed with FroYo and remix.
 Add dark chocolate pieces to make it like "Bounty."
 
-> <img width=360 alt="Spun Ice Cream" src="https://github.com/jhermann/ice-creamery/blob/main/recipes/Coconut%20(Deluxe)/coconut_2025-02-27.jpg?raw=true" />
+> <img width=360 alt="Spun Ice Cream" src="coconut_2025-02-27.jpg" />
 Rating: 😋😋😋🥥🥥
 
 # INGREDIENTS

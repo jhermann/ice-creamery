@@ -18,13 +18,13 @@ tags:
 FroYo spin, mix-in with crushed cantuccini, and topped with almonds.
 Very dense and non-melty, no ice crystals whatsoever.
 
-<img width=360 alt="Spun Ice Cream" src="https://github.com/jhermann/ice-creamery/blob/main/recipes/Banana%20Ice%20Cream%20(Deluxe)/banana_almond_2024-10-30_1.jpg?raw=true" />
+<img width=360 alt="Spun Ice Cream" src="banana_almond_2024-10-30_1.jpg" />
 
 With brandy added: ice-free soft-serve after Light Ice Cream spin, scrape down, and a Re-Spin.
 
 Rating: 😋😋😋😋🍦
 
-<img width=360 alt="Spun Ice Cream" src="https://github.com/jhermann/ice-creamery/blob/main/recipes/Banana%20Ice%20Cream%20(Deluxe)/banana_2024-12-05.jpg?raw=true" />
+<img width=360 alt="Spun Ice Cream" src="banana_2024-12-05.jpg" />
 
 # INGREDIENTS
 
