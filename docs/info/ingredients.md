@@ -198,9 +198,18 @@ Tara can replace guar 1:1 in recipes and will give you slightly better results, 
 *Dosage:* 0.05-0.15% for ice cream, sorbet and sherbet.
 
 ### Xanthan Gum (XG / E415)
-[Xanthan](https://en.wikipedia.org/wiki/Xanthan_gum) works at room temperature. To easily mix it with water, dissolve in some oil or mix with other dry ingredients first. For liquids, always use a blender or immersion blender.
+In ice cream, xanthan is typically used in stabilizer blends (i.e. not in isolation),
+at a rate of 0.1% to 0.3% of the total ice cream formulation.
+Some sources suggest starting at around 0.1-0.15% by weight,
+with a maximum of 0.25% to avoid undesirable textures (it becomes slimy beyond that).
 
-Combine it with LBG for a cold gel. At certain ratios, like 7:3 LBG to XG, the synergistic effect is maximized, resulting in a harder gel. Heating can facilitate the formation of the gel network.
+[Xanthan](https://en.wikipedia.org/wiki/Xanthan_gum) works at room temperature.
+To easily mix it with water, dissolve in some oil or mix with other dry ingredients first.
+For liquids, always use a blender or immersion blender.
+
+Combine it with LBG for a cold gel. At certain ratios, like 7:3 LBG to XG,
+the synergistic effect is maximized, resulting in a harder gel.
+Heating can facilitate the formation of the gel network.
 
 ## Emulsifiers
 
