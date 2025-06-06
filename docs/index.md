@@ -29,8 +29,9 @@ This website is based on a collection of calculated recipes stored in a
 url: https://github.com/jhermann/ice-creamery#readme
 ```
 
-The recipes are written as *LibreOffice* spreadsheets, which allows to directly
-use formulas for the calculation of important ice cream metrics and nutritional information.
+The recipes are written as [LibreOffice](https://www.libreoffice.org/download/download-libreoffice/)
+spreadsheets, which allows to directly use formulas for the calculation of
+important ice cream metrics and nutritional information.
 
 A Python script then converts CSV exports of the spreadsheets to markdown files, which are in turn used to render this HTML web site using
 [MkDocs](https://github.com/mkdocs/mkdocs#readme).
