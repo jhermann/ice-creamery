@@ -13,6 +13,7 @@ tags:
 - Xylitol
 ---
 # Coffee&Cream (Deluxe)
+<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="" />
 
 Spun on Sorbet, followed by a scrape-down and a re-spin.
 Went to the freezer again for an hour to firm up.
