@@ -18,6 +18,10 @@
   font-style: italic;
 }
 
+.mkde-embed-container {
+	background-color: #99b;
+}
+
 #print-site-page nav,
 #print-site-page .md-header,
 #print-site-page .md-sidebar,
