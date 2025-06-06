@@ -33,6 +33,11 @@ The recipes are written as [LibreOffice](https://www.libreoffice.org/download/do
 spreadsheets, which allows to directly use formulas for the calculation of
 important ice cream metrics and nutritional information.
 
+```embed
+url: https://www.libreoffice.org/
+image: https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/assets/libre-office-logo.png
+```
+
 A Python script then converts CSV exports of the spreadsheets to markdown files, which are in turn used to render this HTML web site using
 [MkDocs](https://github.com/mkdocs/mkdocs#readme).
 
