@@ -32,6 +32,7 @@ import subprocess
 
 from pprint import pp  # pylint: disable=unused-import
 from pathlib import Path
+from operator import itemgetter
 from collections import defaultdict
 
 import yaml
@@ -217,6 +218,7 @@ def main():
     """Main loop."""
     # XXX: very cheap cmd line arg parsing
     tags_only = '--tags' in sys.argv
+    macros_only = '--macros' in sys.argv
     dry_run = '-n' in sys.argv or '--dry-run' in sys.argv
 
     recipe = defaultdict(list)
@@ -336,7 +338,7 @@ def main():
             elif data['ingredients']:
                 if data['amount'].endswith('.00'):
                     data['amount'] = data['amount'][:-3]
-                if data['amount'] and data['amount'] != '0':
+                if macros_only or data['amount'] and data['amount'] != '0':
                     step = int(data['step'])
                     recipe[step].append(data)
 
@@ -391,6 +393,39 @@ def main():
     md_text = md_text.replace('http://bit.ly/4frc4Vj', '[http﹕//bit.ly/4frc4Vj]'
         '(https://jhermann.github.io/ice-creamery/'
         'I/Ice%20Cream%20Stabilizer%20(ICS)/)')  # take care of Reddit stupidness
+
+    if macros_only:
+        def all_ingredients():
+            'Helper.'
+            for step in recipe.values():
+                yield from step
+
+        fields = dict(
+            href='Ingredient' + '\u2001' * 15,
+            kcal='Energy<br/>[kcal]',
+            fat='',
+            carbs='',
+            sugar='',
+            protein='',
+            salt='',
+            fpdf='PAC',
+            msnf='MSNF',
+            comment='',
+        )
+        header = ''.join([
+            '\n', '| ', ' | '.join(v if v else k.title() for k, v in fields.items()), ' |',
+            '\n', '| :--- |', ' ---: |' * (len(fields) - 2), ' :--- |',
+        ])
+        idx = 0
+        print(header)
+        for row in sorted(all_ingredients(), key=itemgetter('ingredients')):
+            if row['kcal']:
+                if idx and not(idx % 10):
+                    print(header)
+                print('|', ' | '.join(row[x].replace(' [', '<br />[').replace(r' \[', r'<br />\[') for x in fields), '|')
+                idx = idx + 1
+        return
+
     if tags_only:
         md_text = Path(md_file).read_text(encoding='utf-8').splitlines()
         if md_text[0] == '---':
