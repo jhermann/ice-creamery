@@ -279,6 +279,16 @@ or use tempering to incorporate it into a cooked base.
 
 As with similar ingredients, always state the expected fat percentage explicitly in a recipe.
 
+### Quark (Topfen)
+Quark (German) and Topfen (Austrian, South German) are both types of fresh, soft cheese,
+essentially the same dairy product (*curd cheese*).
+
+They are made from milk, often by adding an acid or rennet to curdle the milk,
+and then draining the whey. While they are similar,
+there can be slight regional variations in texture and fat content.
+
+When making cheesecake, Germans use quark where US recipes would use cream cheese.
+
 ### Skim Milk
 Skim milk or nonfat milk has a reduced fat content compared to whole milk.
 Typically it has less than 0.5%; in Germany it is 0.1% to 0.3%,
@@ -304,6 +314,20 @@ Its major effects are:
  * Ensuring a uniform mixing of ingredients, leading to a more consistent ice cream flavor and texture.
 
 SMP is convenient to use because it can be stored at room temperature and rehydrated with water.
+
+### Soured Milk
+Soured milk, also known as *Dickmilch* in German, is a fermented dairy product
+with a tart, tangy flavor and a thickened, curdled consistency.
+It's produced by allowing milk to sour naturally through bacterial fermentation,
+or by adding an acid like lemon juice or vinegar, causing the milk proteins to coagulate.
+
+Soured milk is often used as a substitute for buttermilk or yogurt in recipes.
+
+Soured milk can be incorporated into ice cream recipes,
+especially when a tangy or slightly tart flavor is desired.
+It's important to consider the fat content and thickness
+when substituting soured milk for regular milk or cream.
+*Avoid heating the soured milk*, and whisk it in after a custard base has cooled. 
 
 ### Whey Protein
 Whey protein primarily functions as a water-binding agent, contributing to viscosity, stability, and texture. It helps to maintain small ice crystals avoiding grittiness (by limiting water mobility and ice crystal growth), and increases your protein intake.

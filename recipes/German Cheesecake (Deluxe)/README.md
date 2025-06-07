@@ -24,7 +24,7 @@ Spin on Lite Ice Cream.
 
 > <img width=360 alt="Spun Ice Cream" src="german-cheesecake_2024-12-18_1.jpg" />
 
-Rating: 😋
+Rating: 😋😋😋😋😋
 
 # INGREDIENTS
 
@@ -32,8 +32,8 @@ Rating: 😋
 
 **Wet**
 
-  - _400g_ [Soured Milk 3.5% \[Schwälbchen\]](/ice-creamery/info/ingredients/#skim-milk){target="_blank"}<sup>↗</sup> • 500g container
-  - _240g_ Topfen / Quark 14.4% [Berchtesgadener] • 250g container
+  - _400g_ [Soured Milk 3.5% \[Schwälbchen\]](/ice-creamery/info/ingredients/#soured-milk){target="_blank"}<sup>↗</sup> • 500g container
+  - _240g_ [Topfen / Quark 14.4% \[Berchtesgadener\]](/ice-creamery/info/ingredients/#quark-topfen){target="_blank"}<sup>↗</sup> • 250g container
   - _15g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • Sweetness = 60%; GI = 5; Density = 1.26 g/ml
   - _15ml_ Lemon juice
   - _5ml_ [Vanilla Extract (w/ alcohol) \[Native Vanilla\]](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup>
