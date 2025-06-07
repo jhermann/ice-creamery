@@ -1,4 +1,4 @@
-# Ingredients
+# Ingredients<img style="float: right; margin-left: 1.5em;" width=160 alt="Logo" src="../logo-ingredients.png" />
 
 Here you can find some background information about common ingredients in ice cream recipes.
 

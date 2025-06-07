@@ -1,4 +1,4 @@
-# Recently Changed
+# Recently Changed<img style="float: right; margin-left: 1.5em;" width=160 alt="Logo" src="../logo-changed.png" />
 <!--
 1. git log --since="2 months ago" --pretty=format:"%H %ad %s" --date=short --numstat recipes >history.txt
 2. add "history.txt" as a source to NotebookLM (as "Copied text")

@@ -1,4 +1,4 @@
-# Overview
+# Overview<img style="float: right; margin-left: 1.5em;" width=160 alt="Logo" src="logo-overview.png" />
 <!--
 summarize the top-level source sections in concise form, without extensive citations.
 use the Markdown format for the output.
@@ -7,6 +7,8 @@ use the Markdown format for the output.
 *   **Overview**
 
     *You are here.* Use the left sidebar to select a section of interest.
+
+<div clear="all" />
 
 *   **Frequently Asked Questions (FAQ)**
 

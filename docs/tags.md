@@ -2,7 +2,7 @@
 search:
   exclude: true
 ---
-# Tags
+# Tags<img style="float: right; margin-left: 1.5em;" width=160 alt="Logo" src="../assets/logo-tags.png" />
 
 <!-- material/tags -->
 

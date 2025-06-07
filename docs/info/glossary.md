@@ -1,4 +1,4 @@
-# Glossary
+# Glossary<img style="float: right; margin-left: 1.5em;" width=160 alt="Logo" src="../logo-glossary.png" />
 
 ## Dextrose Equivalent (DE)
 

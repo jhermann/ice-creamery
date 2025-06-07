@@ -1,11 +1,11 @@
-# Nutritional Values
+# Nutritional Values<img style="float: right; margin-left: 1.5em;" width=160 alt="Logo" src="../logo-nutritional-info.png" />
 
 This table shows the nutritional values and PAC / MSNF
 of common ingredients, with a regional bias towards Germany.
 
 > 🛒 Sourcable in German supermarkets (REWE/Aldi), or on `amazon.de`.
 
-All values are per 100g.
+All values are per 100g.<br clear="all" />
 
 | Ingredient                | Energy<br/>[kcal] | Fat | Carbs | Sugar | Protein | Salt | PAC | MSNF | Comment |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | :--- |

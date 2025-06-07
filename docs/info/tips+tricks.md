@@ -1,6 +1,7 @@
-# Tips & Tricks
-
+# Tips & Tricks<img style="float: right; margin-left: 1.5em;" width=160 alt="Logo" src="../logo-tips_tricks.png" />
 ## General Recipe Hints
+These are some basic facts applying to all recipes.
+<br clear="all" />
 
  1. Most of the recipes here can be *put back into the freezer* after processing, and *remain scoopable for days* without processing them again. Plan ahead accordingly.
 
