@@ -1,6 +1,23 @@
 .md-typeset {
   line-height: 1.35;
 }
+.md-typeset table:not([class]) th,
+.md-typeset table:not([class]) td {
+  padding: .3rem .2rem;
+  min-width: 1rem;
+}
+.md-typeset table:not([class]) thead tr {
+  background-color: #bbb;
+}
+.md-typeset table:not([class]) tbody tr:nth-child(odd) {
+  background-color: #eef;
+}
+.md-typeset table:not([class]) tbody tr:nth-child(even) {
+  background-color: #ccf;
+}
+.md-typeset table:not([class]) tbody tr:hover {
+  background-color: #ccc;
+}
 .md-typeset ol li, .md-typeset ul li {
   margin-bottom: .05rem;
 }
