@@ -80,7 +80,7 @@ Natural chicory / agave inulin has 8g sugar, and 88% fiber. Further processing l
 
 > <sup>*Source:* https://www.icecreamscience.com/blog/why-is-inulin-used-in-ice-cream</sup>
 
-# Maltitol (E965)
+### Maltitol (E965)
 Maltitol is a white crystalline powder that can be used as
 a bulking agent, emulsifier, humectant, stabilizer, sweetener, and thickener.
 It is a type of sugar alcohol, or polyol, derived from corn syrup.
