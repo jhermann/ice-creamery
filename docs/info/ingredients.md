@@ -329,6 +329,19 @@ or use tempering to incorporate it into a cooked base.
 
 As with similar ingredients, always state the expected fat percentage explicitly in a recipe.
 
+### Cream Cheese
+Cream cheese is a soft, unripened cheese made from milk and cream,
+and has a mild, creamy flavor and smooth texture.
+
+In the US, a standard cream cheese must contain at least 33% milkfat and have a moisture content of no more than 55%.
+As with similar ingredients, always state the expected fat percentage explicitly in a recipe.
+
+Also make sure to check for any added stabilizers and other additions in a product;
+a good product just needs milk/cream and salt, and maybe some yogurt.
+
+In ice cream it acts as a stabilizer (via its milk solids, proteins, and lactose),
+and improves texture. Cream cheese also contributes to a richer, denser flavor. 
+
 ### Quark (Topfen)
 Quark (German) and Topfen (Austrian, South German) are both types of fresh, soft cheese,
 essentially the same dairy product (*curd cheese*).
@@ -378,6 +391,14 @@ especially when a tangy or slightly tart flavor is desired.
 It's important to consider the fat content and thickness
 when substituting soured milk for regular milk or cream.
 *Avoid heating the soured milk*, and whisk it in after a custard base has cooled. 
+
+### Soy Milk
+Soy milk is a plant-based alternative to cow's milk made from soybeans.
+It is often used due to lactose intolerance or dairy allergies, and for vegan recipes.
+Soy milk is produced by soaking, grinding, and filtering soybeans.
+
+Like unsweetened almond milk, sugar-free products can be used to for
+very low-cal bases that are well-suited for people with diabetes.
 
 ### Whey Protein
 Whey protein primarily functions as a water-binding agent, contributing to viscosity, stability, and texture. It helps to maintain small ice crystals avoiding grittiness (by limiting water mobility and ice crystal growth), and increases your protein intake.
