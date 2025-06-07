@@ -11,6 +11,7 @@ tags:
 - Xylitol
 ---
 # Cocofruit (Deluxe)
+<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="cocofruit-ice-cream-logo.png" />
 
 Process on SORBET and MIX-IN or RE-SPIN (choose depending on consistency you get after processing, and eventually want after 2nd spin).
 
