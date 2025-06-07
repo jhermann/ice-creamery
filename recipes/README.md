@@ -40,6 +40,10 @@ Use this command in a shell while you are in the `recipes` folder:
 
 The resulting file `all-recipes.txt` can now be uploaded as a text source into your notebook.
 
+> <img width=480 alt="spreadsheet-template" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/assets/prompt-ingredient-combo.png" style="filter: drop-shadow(3px 2px 4px #ccc);" />
+> 
+> *Another example, for sharing ingredients across several recipes when preparing tubs in batches, reducing waste and left-overs.*
+
 ## Ready-to-go List of Ingredients and Their Nutritional Facts
 
 This is how the [Ice-Cream-Recipes.fods](https://github.com/jhermann/ice-creamery/blob/main/recipes/Ice-Cream-Recipes.fods)
