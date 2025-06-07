@@ -1,29 +1,51 @@
-# Ingredients
+| # Ingredients
 
 Here you can find some background information about common ingredients in ice cream recipes.
 
 ## Freezing Point Depression Factors
 
-Freezing point depression factor (FPDF) of common ingredients:
+[Freezing point depression factor](/ice-creamery/info/glossary/#potere-anti-congelante-pac) (FPDF / PAC),
+[sweetness](/ice-creamery/info/glossary/#potere-dolcificante-pod) (POD),
+and [glycemic index](/ice-creamery/info/glossary/#glycemic-index-gi) (GI)
+of common ingredients, sorted by PAC.
 
- * Sucrose (1:1 glucose:fructose) / Lactose / Polydextrose 1.0
- * Ethanol 7.4 (40vol% booze 2.96)
- * Salt (sodium chloride, NaCl) 5.9
- * Vegetable glycerin 3.7 (sweetness=60%; GI=5)
- * Erythritol 2.8
- * Xylitol 2.2
- * Allulose / Fructose / Dextrose / Invert sugar / Sorbitol / Honey 1.9
- * Agave Syrup 1.8
- * Glucose Syrup (42 DE) 1.29
- * MC corn starch 0.5
- * Glucose Syrup (28 DE) 0.5
- * Maltodextrin (18 DE)	0.34 (other sources: 1.29)
- * Inulin 0.1 (other sources: 0.25)
+| FPDF/PAC | POD |  GI | Ingredient | Comment |
+| -: | -: | -: | :----------------- | :------ |
+| 740 |  -/- | -/- | Ethanol | Do not use pure ethanol in ice cream |
+| 590 |  -/- | -/- | Salt  | Sodium chloride (NaCl) |
+| 370 |  60 |  5 | Vegetable glycerin | |
+| 296 |  -/- | -/- | Hard liquor | 40 vol% (80 proof) |
+| 280 | ≈75 |  0 | Erythritol | POD ranges from 70 to 80 |
+| 220 | 100 | 12 | Xylitol | |
+| 190 |  70 |  0 | Allulose | |
+| 190 |  70 | **100** | Dextrose | 100% glucose (monosaccharide) |
+| 190 | 170 | 19 | Fructose | |
+| 190 | 105 | 50 | Honey | |
+| 190 | ≈130 | 87 | Invert sugar | a/k/a inverted sugar, invert syrup,<br />(invert) sugar syrup, simple syrup,<br />or high-fructose corn syrup (HFCS) |
+| 190 |  60 |  9 | Sorbitol | |
+| 180 | ≈160 | 11 | Agave Syrup | POD ranges from 140 to 180 |
+| 130 |  55 | 100 | Glucose Syrup (42 DE) | |
+| 100 |  16 | 45 | Lactose | Milk sugar |
+| 100 |  10 |  6 | Polydextrose | |
+| **100** | **100** | 65 | **Sucrose** | Table sugar, 1:1 glucose:fructose |
+| 100 |  45 | 38 | Trehalose | Disaccharide, found in plants & fungi;<br />also improves texture / icyness |
+|  77 | ≈57 | 55 | Molasses | Less sweet than sugar, with a<br />complex flavor profile (bittersweet) |
+|  68 | ≈66 | 54 | Maple syrup | High in sucrose, but also has fructose and glucose|
+|  50 |  44 | 100 | Glucose Syrup (28 DE) | |
+|  50 |  -/- | 85 | Modified corn starch | Possibly lower GI for some modifications |
+|  34 |  21 | 110 | Maltodextrin<br />(18 DE) | |
+|  22 |  10 |  1 | Inulin | |
+|  10 |  44 | 35 | Maltitol (E965) | |
 
- Ultra-sweet fluids (sucralose, stevia/steviol, monk fruit) have no effect
- on the freezing point, since they lack the necessary mass.
- If in powdered form, make sure the bulking agent has no effect
- – quite often erythritol is used since it adds no calories.
+Note that natural ingredients like molasses or maple syrup
+can lightly differ depending on brand, check the sugar content
+in the nutrition information. For recipe balancing, this normally
+will have no impact though.
+
+Ultra-sweet fluids (sucralose, stevia/steviol, monk fruit) have no effect
+on the freezing point, since they lack the necessary mass.
+If in powdered form, make sure the bulking agent has no effect
+– quite often erythritol is used since it adds no calories.
 
 
 ## Sweeteners
