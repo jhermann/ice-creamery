@@ -1,0 +1,35 @@
+Dirty Peach Bourbon (Deluxe);;;;;;;;;;;;
+;;;;;;;;;;;;
+;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;
+Nutritional values per 100g/ml;100;g;;82.8;1.9;13.2;5.8;1.3;0.1;;;
+Nutritional values per ½ Deluxe Tub;360;g;;298.1;6.8;47.6;20.8;4.7;0.4;;;
+Nutritional values total;720;g;;596.2;13.7;95.3;41.5;9.4;0.8;;;
+;;;;;;;;;;;;
+FPDF / PAC (target 20..30);30.61;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";6.30%;;;;LOW-FAT;;;;Low-Salt;;;
+Milk Solids Non-Fat (MSNF, 7-11%);4.8;g;;0.7%;;;;;;;;
+;;;;;;;;;;;;
+The “dirty” refers to the molasses that is used instead of brown sugar.;;;;;;;;;;;;
+;;;;;;;;;;;;
+Process on Lite Ice Cream.;;;;;;;;;;;;
+;;;;;;;;;;;;
+"Rating: 😋 (untested)
+
+> <sup>Inspired by [u/formercotsachick](https://www.reddit.com/user/formercotsachick/)</sup>";;;;;;;;;;;;
+30g Ice Cream Stabilizer (ICSv2) is;"14.3g erythritol, 1.43g Tylose powder (CMC, E466), 
+0.5g tara gum (E417), 0.15g xanthan (E415),
+14.3g inulin, 0.5g salt.";;;;;;;;;;;
+The [brand names] used are in brackets.;;;;;;;;;;;;
+;;;;;;;;;;;;
+Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment
+Peaches in Grape Juice [Libby’s];400.00;g;1;53.00;;12.00;9.00;0.50;;;;Can = 410g
+Soy milk 1.6% (sugar-free) [Berief];150.00;ml;1;30.00;1.60;0.90;0.00;3.00;0.08;;;
+Almond milk 2.5% (sugar-free);;ml;1;29.00;2.50;0.50;0.00;1.00;0.10;;;
+Cream Cheese 23% [Exquisa];50.00;g;1;238.00;22.50;3.00;3.00;5.50;0.70;0.03;9.64;
+Bourbon 40 vol% (80 proof);40.00;g;1;280.00;;;;;;2.96;;
+Xylitol;30.00;g;2;238.00;;100.00;;;;2.20;;"POD = 100%; GI = 7"
+ICSv2 [Erythritol / CMC / Tara / XG / Inulin];20.00;g;2;107.3;0.0;54.7;3.7;0.1;1.7;1.32;;http://bit.ly/4frc4Vj
+Flavor drops Peach / Maracuja [IronMaxx];5.00;drops;1;;;;;;;;;with sucralose
+Molasses [Grafschafter Goldsaft];5.00;g;1;306.00;0.50;70.00;66.00;2.30;0.03;0.66;;Sweetness = 66%
+;;;;;;;;;;;;
+Water to MAX line;25.00;ml;3;;;;;;;;;
