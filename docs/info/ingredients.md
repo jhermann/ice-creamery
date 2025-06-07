@@ -80,6 +80,20 @@ Natural chicory / agave inulin has 8g sugar, and 88% fiber. Further processing l
 
 > <sup>*Source:* https://www.icecreamscience.com/blog/why-is-inulin-used-in-ice-cream</sup>
 
+# Maltitol (E965)
+Maltitol is a white crystalline powder that can be used as
+a bulking agent, emulsifier, humectant, stabilizer, sweetener, and thickener.
+It is a type of sugar alcohol, or polyol, derived from corn syrup.
+
+Maltitol is about 90% as sweet as sugar and has a similar texture,
+making it a good alternative for sugar, with about half as many calories.
+The body does not absorb maltitol well, leading to a low glycemic index of 35.
+
+Large amounts of maltitol (over 20-30g) can have a laxative effect,
+but on the positive side it does not promote tooth decay.
+
+Maltitol is commercially produced by hydrogenating maltose, which comes from starch.
+
 ### Stevia (E960)
 
 Stevia is a natural, calorie-free sweetener derived from the leaves of the *Stevia rebaudiana* plant, native to South America. The leaves contain compounds called steviol glycosides, which are significantly sweeter than sugar (around 200-400 times sweeter).
@@ -95,6 +109,20 @@ It is derived from sucrose through a chemical process.
 Sucralose is commonly known by the brand name Splenda.
 
 Like stevia, when used in liquid form, it makes it simple to dial in the sweetness of a base without influencing its texture and PAC value.
+
+### Trehalose (E965)
+Trehalose is a disaccharide (composed of two glucose molecules),
+naturally occurring in plants, fungi, shellfish, and insects.
+It is also known as mycose or tremalose,
+and has the same PAC as sugar, but is only half as sweet.
+
+Sorbets are the ideal application for trehalose, where it supports
+hitting the right amount of solids and freezing point depression.
+When replacing sucrose, it increases the PAC while keeping sweetness the same.
+
+Trehalose is much less soluble than lactose and offers way less water control,
+and is an uncommon ingredient leading to potentially high prices.
+Use it in concentrations of 2% to at most 8%.
 
 ### Vegetable Glycerin / Glycerol (VG / E422)
 
