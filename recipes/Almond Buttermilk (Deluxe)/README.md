@@ -26,7 +26,7 @@ Rating: 😋😋😋😋😋
 > <img width=180 alt="Spun Ice Cream" src="almond-buttermilk_lite-mixin_2025-06-07_2.jpg" />
 > <img width=180 alt="Spun Ice Cream" src="almond-buttermilk_lite-mixin_2025-06-07_3.jpg" />
 >
-> *Final version from Sat 2025-06-07 (after lite ice cream & re-mix, and scooped).*
+> *Final version from Sat 2025-06-07 (after lite ice cream & mix-in, and scooped).*
 
 # INGREDIENTS
 
