@@ -397,7 +397,7 @@ Soy milk is a plant-based alternative to cow's milk made from soybeans.
 It is often used due to lactose intolerance or dairy allergies, and for vegan recipes.
 Soy milk is produced by soaking, grinding, and filtering soybeans.
 
-Like unsweetened almond milk, sugar-free products can be used to for
+Like unsweetened almond milk, sugar-free products can be used to create
 very low-cal bases that are well-suited for people with diabetes.
 
 ### Whey Protein
