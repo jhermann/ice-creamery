@@ -9,8 +9,13 @@ tags:
 - Sorbet
 - Tylo Powder (CMC)
 - Xylitol
+- Vegan
 ---
 # Pineapple Sorbet (Deluxe)
+<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="pineapple_sherbet-ice-cream-logo.png" />
+
+> ‼️ For the vegan option, replace the cottage cheese with 100ml coconut milk (adds 20kcal),
+ > or else 5g of almond butter and 150ml or either soy or almond milk.
 
 Processed on Sorbet, with a re-spin.
 
