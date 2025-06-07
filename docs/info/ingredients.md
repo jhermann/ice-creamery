@@ -1,4 +1,4 @@
-| # Ingredients
+# Ingredients
 
 Here you can find some background information about common ingredients in ice cream recipes.
 
