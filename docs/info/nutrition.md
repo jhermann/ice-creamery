@@ -3,6 +3,8 @@
 This table shows the nutritional values and PAC / MSNF
 of common ingredients, with a regional bias towards Germany.
 
+> 🛒 Sourcable in German supermarkets (REWE/Aldi), or on `amazon.de`.
+
 All values are per 100g.
 
 | Ingredient                | Energy<br/>[kcal] | Fat | Carbs | Sugar | Protein | Salt | PAC | MSNF | Comment |
