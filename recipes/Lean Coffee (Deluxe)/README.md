@@ -22,7 +22,7 @@ A version of “Coffee & Cream” with calories reduced by about 30%
 Spun on Sorbet, followed by a scrape-down and a re-spin.
 Went to the freezer again for an hour to firm up.
 
-> <img width=360 alt="Spun Ice Cream" src="" />
+> <img width=360 alt="Spun Ice Cream" src="" class="zoomable" />
 
 The coffee flavor is there but not dominant,
 the consistency is soft and from experience will get a bit firmer after several hours in the freezer.

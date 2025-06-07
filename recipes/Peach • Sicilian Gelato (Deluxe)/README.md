@@ -17,7 +17,7 @@ tags:
 
 Sicilian gelato is thickened with cornstarch instead of eggs, a traditional method common in Sicily.
 
-> <img width=360 alt="Spun Ice Cream" src="" />
+> <img width=360 alt="Spun Ice Cream" src="" class="zoomable" />
 
 Process on Lite Ice Cream.
 

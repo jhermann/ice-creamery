@@ -20,11 +20,11 @@ tags:
 PB&J ice cream, based on PB powder and dried strawberry slices.
 This one is a favorite, so it gets its own recipe mix for convenient indulgence…
 
-> <img width=360 alt="Spun Ice Cream" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/recipes/PB%20Mix/PB-Mix_2024-11-12_1.jpg" />
+> <img width=360 alt="Spun Ice Cream" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/recipes/PB%20Mix/PB-Mix_2024-11-12_1.jpg" class="zoomable" />
 
 Rating: 😋😋😋😋
 
-> <img width=360 alt="Spun Ice Cream" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/recipes/PB%20Mix/pb-mix_1day_16C.jpg" />
+> <img width=360 alt="Spun Ice Cream" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/recipes/PB%20Mix/pb-mix_1day_16C.jpg" class="zoomable" />
 >
 > *The base is freezer stable, this one is fresh out of the freezer (-16°C) 1 day after processing.*
 

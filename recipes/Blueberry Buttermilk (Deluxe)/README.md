@@ -23,15 +23,15 @@ The buttermilk gives this a tangy and fresh profile, refreeze after processing f
 Process on *Fozen Yogurt*, giving it the [running water treatment](https://jhermann.github.io/ice-creamery/info/tips%2Btricks/#handling-of-icy-sides-bottom)
 *after* that. Then a scrape-down and a respin.
 
-> <img width=360 alt="Spun Ice Cream" src="blueberry_2025-05-28_1.jpg" />
-> <img width=360 alt="Spun Ice Cream" src="blueberry_2025-05-28_2.jpg" />
+> <img width=360 alt="Spun Ice Cream" src="blueberry_2025-05-28_1.jpg" class="zoomable" />
+> <img width=360 alt="Spun Ice Cream" src="blueberry_2025-05-28_2.jpg" class="zoomable" />
 > 
 > Rating: 😋😋😋😋😋
 
 The variant made with strawberries, processed the same but with only a final Mix-In, since it was a bit softer.
 
-> <img width=360 alt="Spun Ice Cream" src="strawberry_2025-05-28_1.jpg" />
-> <img width=360 alt="Spun Ice Cream" src="strawberry_2025-05-28_2.jpg" />
+> <img width=360 alt="Spun Ice Cream" src="strawberry_2025-05-28_1.jpg" class="zoomable" />
+> <img width=360 alt="Spun Ice Cream" src="strawberry_2025-05-28_2.jpg" class="zoomable" />
 > 
 > Rating: 😋😋😋😋😋
 

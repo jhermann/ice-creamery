@@ -11,7 +11,7 @@ tags:
 
 After mixing, let the base sit in the fridge for at least 30min (better 2h), for the chia to properly soak. Stir before freezing.
 
-> <img width=360 alt="Spun Ice Cream" src="" />
+> <img width=360 alt="Spun Ice Cream" src="" class="zoomable" />
 
 The seeds practically disappear, only some are left intact (i.e. noticable) on the walls and bottom.
 

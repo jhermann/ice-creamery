@@ -19,7 +19,7 @@ Process on SORBET and MIX-IN or RE-SPIN (choose depending on consistency you get
 
 Rating: 😋🥥🍵 (untested)
 
-> <img width=360 alt="Spun Ice Cream" src="" />
+> <img width=360 alt="Spun Ice Cream" src="" class="zoomable" />
 
 # INGREDIENTS
 

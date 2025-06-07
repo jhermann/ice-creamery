@@ -18,7 +18,7 @@ tags:
 
 Process on FroYo, followed by a scrape down and a re-spin.
 
-> <img width=360 alt="Spun Ice Cream" src="" />
+> <img width=360 alt="Spun Ice Cream" src="" class="zoomable" />
 
 Rating: 😋 (untested)
 

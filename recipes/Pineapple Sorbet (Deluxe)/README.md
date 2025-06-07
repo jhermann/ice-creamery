@@ -19,7 +19,7 @@ tags:
 
 Processed on Sorbet, with a re-spin.
 
-> <img width=360 alt="Spun Ice Cream" src="Pineapple-Sorbet_2025-01-03.jpg" />
+> <img width=360 alt="Spun Ice Cream" src="Pineapple-Sorbet_2025-01-03.jpg" class="zoomable" />
 
 Rating: 😋😋😋🍍🍍
 

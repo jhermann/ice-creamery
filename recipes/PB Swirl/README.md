@@ -10,7 +10,7 @@ tags:
 
 This adds a swirl to your processed creami base. The recipe for the base must allow to refreeze after processing.
 
-> <img width=360 alt="Spun Ice Cream" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/recipes/PB%20Swirl/pb-swirl_2025-05-06.jpg" />
+> <img width=360 alt="Spun Ice Cream" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/recipes/PB%20Swirl/pb-swirl_2025-05-06.jpg" class="zoomable" />
 
 # INGREDIENTS
 

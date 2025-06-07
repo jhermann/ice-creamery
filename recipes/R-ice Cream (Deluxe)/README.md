@@ -17,7 +17,7 @@ tags:
 
 Milk rice gelato, inspired by [Gelato di Riso](https://youtu.be/9naNqC0I6g0) from *Polar Ice Cream*.
 
-> <img width=360 alt="Spun Ice Cream" src="" />
+> <img width=360 alt="Spun Ice Cream" src="" class="zoomable" />
 
 Process on Sorbet.
 

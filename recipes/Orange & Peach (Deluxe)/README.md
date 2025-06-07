@@ -17,7 +17,7 @@ Processed on Light Ice Cream to an airy soft serve.
 
 The orange is clearly noticeable, but not overpowering.
 
-> <img width=360 alt="Spun Ice Cream" src="Peach+Orange_2025-01-03.jpg" />
+> <img width=360 alt="Spun Ice Cream" src="Peach+Orange_2025-01-03.jpg" class="zoomable" />
 
 Very freezer stable, comes out soft after days.
 

@@ -12,7 +12,7 @@ tags:
 
 FroYo spin, scrape-down, and mix-in with pre-crumbled strawberry slices.
 
-> <img width=360 alt="Spun Ice Cream" src="PB%2BJ_FroYo_2024-10-20.jpg" />
+> <img width=360 alt="Spun Ice Cream" src="PB%2BJ_FroYo_2024-10-20.jpg" class="zoomable" />
 >
 > *Comes out creamy, and no ice crystals at all.*
 

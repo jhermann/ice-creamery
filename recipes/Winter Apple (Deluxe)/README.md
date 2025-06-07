@@ -17,11 +17,11 @@ tags:
 
 Applesauce sherbet with cinnamon, and stollen pieces as a mix-in.
 
-> <img width=320 alt="Spun Ice Cream" src="winter-apple_2024-12-12_1.jpg" />
+> <img width=320 alt="Spun Ice Cream" src="winter-apple_2024-12-12_1.jpg" class="zoomable" />
 
 Spun on Sorbet with a re-spin, and coarsely cubed stollen as a mix-in. The mix-in puts this squarely into delish territory.
 
-> <img width=320 alt="Spun Ice Cream" src="winter-apple_2024-12-12_2.jpg" />
+> <img width=320 alt="Spun Ice Cream" src="winter-apple_2024-12-12_2.jpg" class="zoomable" />
 
 Rating: 😋😋😋😋🎅
 

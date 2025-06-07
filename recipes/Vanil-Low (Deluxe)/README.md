@@ -21,11 +21,11 @@ Leave out the almond butter for 10kcal less.
 
 Process on *Frozen Yogurt*, [hold it shortly under running water](https://jhermann.github.io/ice-creamery/info/tips%2Btricks/#handling-of-icy-sides-bottom) *after* that.
 
-> <img width=360 alt="Spun Ice Cream" src="Vanillow_2025-05-22_1.jpg" />
+> <img width=360 alt="Spun Ice Cream" src="Vanillow_2025-05-22_1.jpg" class="zoomable" />
 
 Then scrape down the sides, process again on Ice Cream.
 
-> <img width=360 alt="Spun Ice Cream" src="Vanillow_2025-05-22_2.jpg" />
+> <img width=360 alt="Spun Ice Cream" src="Vanillow_2025-05-22_2.jpg" class="zoomable" />
 > 
 > *Served with crumbled walnuts and a pomegranate syrup drizzle.*
 > 

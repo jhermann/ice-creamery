@@ -18,11 +18,11 @@ Inspired by German cheesecake, which is made with ‘Quark’ or ‘Topfen’
 – think of a cross between yogurt, cottage cheese and ricotta.
 The lemon juice and soured milk add the necessary tanginess.
 
-> <img width=360 alt="Spun Ice Cream" src="german-cheesecake_2024-12-18_2.jpg" />
+> <img width=360 alt="Spun Ice Cream" src="german-cheesecake_2024-12-18_2.jpg" class="zoomable" />
 
 Spin on Lite Ice Cream.
 
-> <img width=360 alt="Spun Ice Cream" src="german-cheesecake_2024-12-18_1.jpg" />
+> <img width=360 alt="Spun Ice Cream" src="german-cheesecake_2024-12-18_1.jpg" class="zoomable" />
 
 Rating: 😋😋😋😋😋
 

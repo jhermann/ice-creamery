@@ -16,7 +16,7 @@ tags:
 
 Process on Lite Ice Cream.
 
-> <img width=360 alt="Spun Ice Cream" src="" />
+> <img width=360 alt="Spun Ice Cream" src="" class="zoomable" />
 
 The medjool dates used here have a distinctive caramel taste with hints of vanilla.
 

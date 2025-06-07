@@ -17,8 +17,8 @@ A great combination of various tart flavors,
 and a variation of my German cheesecake base, which is made with ‘Quark’ or ‘Topfen’
 – think of a cross between yogurt, cottage cheese and ricotta.
 
-> <img width=320 alt="Spun Ice Cream after Mix-in" src="Strawberry-Cheesecake_2024-12-29_1.jpg" />
-> <img width=320 alt="Spun Ice Cream" src="Strawberry-Cheesecake_2024-12-29_2.jpg" />
+> <img width=320 alt="Spun Ice Cream after Mix-in" src="Strawberry-Cheesecake_2024-12-29_1.jpg" class="zoomable" />
+> <img width=320 alt="Spun Ice Cream" src="Strawberry-Cheesecake_2024-12-29_2.jpg" class="zoomable" />
 
 Spun on Lite Ice Cream, followed by a scrape-down and a mix-in run.
 Serve with graham crackers or butter cookies to stand in for the pie crust.

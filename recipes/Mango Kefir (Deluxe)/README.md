@@ -27,15 +27,15 @@ tags:
 Process on *Frozen Yogurt*, [hold it shortly under running water](https://jhermann.github.io/ice-creamery/info/tips%2Btricks/#handling-of-icy-sides-bottom)
 *after* that.Then a scrape-down and a respin.
 
-> <img width=360 alt="Spun Ice Cream" src="Mango-Kefir_2025-06-02_1.jpg" />
+> <img width=360 alt="Spun Ice Cream" src="Mango-Kefir_2025-06-02_1.jpg" class="zoomable" />
 
 The base went from almost -18°C to -7°C after the respin.
 
-> <img width=360 alt="Spun Ice Cream" src="Mango-Kefir_2025-06-02_2.jpg" />
+> <img width=360 alt="Spun Ice Cream" src="Mango-Kefir_2025-06-02_2.jpg" class="zoomable" />
 
 Served after 1h refreezing with pomegranate syrup.
 
-> <img width=360 alt="Spun Ice Cream" src="Mango-Kefir_2025-06-02_4.jpg" />
+> <img width=360 alt="Spun Ice Cream" src="Mango-Kefir_2025-06-02_4.jpg" class="zoomable" />
 
 Rating: 😋😋😋 (flavor is good, but needs to be creamier)
 

@@ -15,7 +15,7 @@ tags:
 
 Tangy & fresh.
 
-> <img width=360 alt="Spun Ice Cream" src="frosky-mango_2024-11-13.jpg" />
+> <img width=360 alt="Spun Ice Cream" src="frosky-mango_2024-11-13.jpg" class="zoomable" />
 
 Rating: 😋😋😋😋
 

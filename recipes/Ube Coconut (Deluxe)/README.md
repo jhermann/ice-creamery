@@ -16,7 +16,7 @@ tags:
 
 This works with any fruit powder that harmonizes with coconut milk.
 
-> <img width=360 alt="Spun Ice Cream" src="" />
+> <img width=360 alt="Spun Ice Cream" src="" class="zoomable" />
 
 Oct 21: Grainy texture, residue on the tub wall! Ricotta?!
 

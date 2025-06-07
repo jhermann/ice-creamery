@@ -13,7 +13,7 @@ tags:
 
 Mix the hot coffee with the cocoa powder to bloom it, then let it cool down.
 
-> <img width=360 alt="Spun Ice Cream" src="espresso-martini_2024-12-06.jpg" />
+> <img width=360 alt="Spun Ice Cream" src="espresso-martini_2024-12-06.jpg" class="zoomable" />
 
 Spun with Sorbet mode, scrape-down, and a final mix-in run.
 

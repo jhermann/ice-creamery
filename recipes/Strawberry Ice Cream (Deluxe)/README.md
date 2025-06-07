@@ -18,7 +18,7 @@ Process on Lite Ice Cream directly from the freezer, fill the hole with crumbled
 
 Intense flavor, very creamy, dense and free of ice crystals, with a nice crunch from the mix-in.
 
-> <img width=360 alt="Spun Ice Cream" src="Strawberry_2024-11-07_1.jpg" />
+> <img width=360 alt="Spun Ice Cream" src="Strawberry_2024-11-07_1.jpg" class="zoomable" />
 
 Rating: 😋😋😋😋😋
 

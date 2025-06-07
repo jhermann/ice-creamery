@@ -20,7 +20,7 @@ Low fat & sugar, and high protein.
 
 Process on Lite Ice Cream.
 
-> <img width=360 alt="Spun Ice Cream" src="Vanilla-Protein_2025-05-12.jpg" />
+> <img width=360 alt="Spun Ice Cream" src="Vanilla-Protein_2025-05-12.jpg" class="zoomable" />
 
 Rating: 😋😋😋😋 (needs more testing)
 

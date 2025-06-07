@@ -15,11 +15,11 @@ tags:
 just adding a few things for freezing point depression
 and ice crystal inhibition.
 
-> <img width=320 alt="Spun Ice Cream" src="Lyttos-Apricot.jpg" />
+> <img width=320 alt="Spun Ice Cream" src="Lyttos-Apricot.jpg" class="zoomable" />
 
 Spin on FroYo, scrape down, and re-mix.
 
-> <img width=320 alt="Spun Ice Cream" src="lazy-apricot-froyo_2024-12-11.jpg" />
+> <img width=320 alt="Spun Ice Cream" src="lazy-apricot-froyo_2024-12-11.jpg" class="zoomable" />
 
 # INGREDIENTS
 

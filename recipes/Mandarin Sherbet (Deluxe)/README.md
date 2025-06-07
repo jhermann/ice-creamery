@@ -16,7 +16,7 @@ tags:
 
 Mostly mandarin slices and juice, which means a relatively high sugar content, but still reasonably lo-cal because it has only 2% fat.
 
-> <img width=360 alt="Spun Ice Cream" src="Mandarin-Sherbet_2024-11-16.jpg" />
+> <img width=360 alt="Spun Ice Cream" src="Mandarin-Sherbet_2024-11-16.jpg" class="zoomable" />
 
 Small ice crystals (but then it is a sorbet / sherbet), and still immediately scoopable after 1 day in the freezer.
 
