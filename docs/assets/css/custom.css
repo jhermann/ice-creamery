@@ -1,3 +1,19 @@
+img.zoomable {
+  user-drag: none;
+  cursor: zoom-in;
+}
+img.zoomable:active {
+  cursor: zoom-out;
+  transition-property: width, height;
+  transition-duration: .5s;
+  width: 100%;
+  max-width: 600px; /* real image width */
+  position: fixed;
+  top: 0; left: 0; right: 0; bottom: 0;
+  margin: auto;
+  padding-top: 80px;
+}
+
 .md-typeset {
   line-height: 1.35;
 }

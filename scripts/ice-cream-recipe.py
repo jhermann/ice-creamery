@@ -127,7 +127,7 @@ def read_images():
                 lines = lines[idx+1:]
                 break
         result = {n : x for n, x in enumerate(lines) if '<img ' in x}
-    return result or {999: '> <img width=360 alt="Spun Ice Cream" src="" />'}
+    return result or {999: '> <img width=360 alt="Spun Ice Cream" src="" class="zoomable" />'}
 
 def read_meta():
     """Read metadata from readme."""

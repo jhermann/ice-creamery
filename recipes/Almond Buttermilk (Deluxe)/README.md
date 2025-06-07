@@ -14,17 +14,17 @@ tags:
 
 Processed on *Lite Ice Cream*, with scrape-down and a respin.
 
-> <img width=360 alt="Spun Ice Cream" src="almond-buttermilk_2025-05-06_1.jpg" />
+> <img width=360 alt="Spun Ice Cream" src="almond-buttermilk_2025-05-06_1.jpg" class="zoomable" />
 
 After 2 hours of freezing for firmer consistency — still on the soft side, but this will firm up further overnight.
 
-> <img width=360 alt="Spun Ice Cream" src="almond-buttermilk_2025-05-06_2.jpg" />
+> <img width=360 alt="Spun Ice Cream" src="almond-buttermilk_2025-05-06_2.jpg" class="zoomable" />
 
 Rating: 😋😋😋😋😋
 
-> <img width=180 alt="Spun Ice Cream" src="almond-buttermilk_lite-mixin_2025-06-07_1.jpg" />
-> <img width=180 alt="Spun Ice Cream" src="almond-buttermilk_lite-mixin_2025-06-07_2.jpg" />
-> <img width=180 alt="Spun Ice Cream" src="almond-buttermilk_lite-mixin_2025-06-07_3.jpg" />
+> <img width=180 alt="Spun Ice Cream" src="almond-buttermilk_lite-mixin_2025-06-07_1.jpg" class="zoomable" />
+> <img width=180 alt="Spun Ice Cream" src="almond-buttermilk_lite-mixin_2025-06-07_2.jpg" class="zoomable" />
+> <img width=180 alt="Spun Ice Cream" src="almond-buttermilk_lite-mixin_2025-06-07_3.jpg" class="zoomable" />
 >
 > *Final version from Sat 2025-06-07 (after lite ice cream & mix-in, and scooped).*
 
