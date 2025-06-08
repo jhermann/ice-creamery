@@ -37,6 +37,7 @@ jobs:
               mkdocs-exporter \
               mkdocs-git-revision-date-localized-plugin \
               mkdocs-link-embeds-plugin \
-              mkdocs-print-site-plugin
+              mkdocs-print-site-plugin \
+              mkdocs-macros-plugin
       - run: bash linkdocs.sh
       - run: mkdocs gh-deploy --force
