@@ -6,7 +6,7 @@ It currently has `{{ path(config.docs_dir).glob('?/*.md') | list | length }}` re
 
 🗓️ Last changed *{{ git.date_ISO | rchop(14) }}* by *{{ git.author }}*
 
-> [{{ git.short_commit }}](https://github.com/jhermann/ice-creamery/commit/{{ git.short_commit }}){target="_blank"} `{{ git.message | truncate(50) }}]`
+> [{{ git.short_commit }}](https://github.com/jhermann/ice-creamery/commit/{{ git.short_commit }}){target="_blank"} `{{ git.message | truncate(50) }}`
 
 ## How to Use This Site?
 Use the top bar to navigate using [Tags](tags/) or the first letter of a recipe name.
