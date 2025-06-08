@@ -163,6 +163,12 @@ parse_info_docs.wordmap = defaultdict(dict)
 
 def ingredient_link(ingredient, kind='ingredients', threshold=0.4):
     """Link a recognized ingredient, otherwise return the given text unchanged."""
+    stop_words = {
+        'Condensed milk', 'Cream 32%', 'Cream Punch', 'Evaporated milk',
+        'Irish Cream', 'Milk 3.5%', 'Philadelphia Milka', 'Soy sauce',
+    }
+    if any(x in ingredient for x in stop_words):
+        return ingredient
     cleaned = ingredient.replace('Skim Milkpowder', 'skim milk powder SMP')  # legacy recipes
     for word in {'Brandy', 'Vodka', 'Rum'}:
         cleaned = cleaned.replace(word, 'Alcohol (Ethanol)')
