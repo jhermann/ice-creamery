@@ -33,11 +33,11 @@ Rating: 😋 (untested)
 
   - _500ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
   - _25g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • POD = 60%; GI = 5; Density = 1.26 g/ml
-  - _10g_ Fir honey [Bihophar]
 
 **Dry**
 
   - _20g_ [Soy protein isolate (nature) \[Powerstar\]](/ice-creamery/info/ingredients/#soy-protein-isolate){target="_blank"}<sup>↗</sup> • 1kg bag, unsweetened, unflavored
+  - _2g_ Salt
 
 # DIRECTIONS
 
@@ -50,9 +50,9 @@ Rating: 😋 (untested)
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
 
 # NUTRITIONAL & OTHER INFO
-- **Nutritional values per 100g/ml:** 100g; 66.0 kcal; fat 1.6g; carbs 6.5g; sugar 0.9g; protein 5.8g; salt 0.1g
-- **Nutritional values per ½ Deluxe Tub:** 360g; 237.4 kcal; fat 5.8g; carbs 23.3g; sugar 3.1g; protein 21.0g; salt 0.5g
-- **Nutritional values total:** 710g; 468.3 kcal; fat 11.5g; carbs 45.9g; sugar 6.1g; protein 41.4g; salt 0.9g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 15.86
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 35.34% • LOW-FAT • Low-Sugar • Hi-Protein
+- **Nutritional values per 100g/ml:** 100g; 61.9 kcal; fat 1.6g; carbs 5.3g; sugar 0.0g; protein 5.9g; salt 0.4g
+- **Nutritional values per ½ Deluxe Tub:** 360g; 222.8 kcal; fat 5.9g; carbs 19.2g; sugar 0.1g; protein 21.2g; salt 1.5g
+- **Nutritional values total:** 702g; 434.5 kcal; fat 11.5g; carbs 37.5g; sugar 0.3g; protein 41.4g; salt 2.9g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 17.31
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 38.08% • LOW-FAT • Low-Sugar • Hi-Protein
 - **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 18.6g • 2.6%
