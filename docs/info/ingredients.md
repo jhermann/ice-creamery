@@ -101,6 +101,8 @@ Stevia is a natural, calorie-free sweetener derived from the leaves of the *Stev
 Many people find stevia to have a slightly bitter or licorice aftertaste.
 
 In ice cream, stevia in its pure form (as a liquid) makes it simple to dial in the sweetness of a base without influencing its texture and PAC value.
+You have to be aware of the effects of bulking agents on your base when it comes in powdered form;
+one common example is the use of erythritol for that, with significant FP depression changes.
 
 ### Sucralose (E955)
 
