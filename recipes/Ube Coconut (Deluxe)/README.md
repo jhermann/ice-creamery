@@ -1,5 +1,7 @@
 ---
 description: Recipe for the Ninja Creami Deluxe [24oz]
+excluded_tags:
+- Vanilla
 tags:
 - Coconut
 - Dairy
@@ -8,11 +10,11 @@ tags:
 - Fruit
 - Low-Sugar
 - Tylo Powder (CMC)
-- Vanilla
 - Polysaccharide Gum
 - Xylitol
 ---
 # Ube Coconut (Deluxe)
+<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="logo-ube-coconut.png" />
 
 This works with any fruit powder that harmonizes with coconut milk.
 

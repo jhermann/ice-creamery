@@ -14,6 +14,7 @@ tags:
 - Xylitol
 ---
 # Peach • Sicilian Gelato (Deluxe)
+<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="logo-peach-gelato.png" />
 
 Sicilian gelato is thickened with cornstarch instead of eggs, a traditional method common in Sicily.
 
