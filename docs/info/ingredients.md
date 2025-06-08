@@ -296,8 +296,9 @@ especially as a replacement when you don't like coconut.
 For creaminess, you can combine almond milk with ingredients like
 almond butter, bananas, dates, cashews, and hemp hearts.
 
-Always check for ingredients other than almonds and water,
-especially thickeners, emulsifers, and stabilizers.
+ >‼️**Check Ingredients List**<br />
+ Always check for ingredients other than almonds and water, especially thickeners, emulsifers, and stabilizers.
+ > Adapt your recipe accordingly if necessary.
 
 ### Coconut Milk
 Coconut milk can be used for delicious and creamy bases,
@@ -313,8 +314,10 @@ That is why in recipes the expected percentage should always be included explici
 *Full fat* ranges from 14% to 29% (and even higher in coconut cream),
 while *reduced fat* products typically have 7% to 17%.
 
-Besides fat content, always check for ingredients other than coconut and water,
-especially thickeners, emulsifers, and stabilizers.
+ >‼️**Check Ingredients List**<br />
+ Always check for ingredients other than coconut and water, especially thickeners, emulsifers, and stabilizers.
+ > Adapt your recipe accordingly if necessary.
+
 In your recipes, make sure to prevent separation of fatty and watery phases
 by adding enough emulsifiers.
 
@@ -400,10 +403,18 @@ Soy milk is produced by soaking, grinding, and filtering soybeans.
 Like unsweetened almond milk, sugar-free products can be used to create
 very low-cal bases that are well-suited for people with diabetes.
 
+ >‼️**Check Ingredients List**<br />
+ Always check for ingredients other than soybeans and water, especially thickeners, emulsifers, and stabilizers.
+ > Adapt your recipe accordingly if necessary.
+
 ### Whey Protein
 Whey protein primarily functions as a water-binding agent, contributing to viscosity, stability, and texture. It helps to maintain small ice crystals avoiding grittiness (by limiting water mobility and ice crystal growth), and increases your protein intake.
 
 By limiting water-ice-water transitions, whey proteins help to improve the freeze/thaw stability of ice cream, which also avoids a big quality degradation during long-term storage in the freezer.
+
+ >‼️**Check Ingredients List**<br />
+ Always check for ingredients other than protein, especially thickeners, emulsifers, and stabilizers.
+ > Adapt your recipe accordingly if necessary.
 
 ## Miscellaneous
 ### Alcohol (Ethanol)
