@@ -1,7 +1,12 @@
 # About
 A collection of my tested / approved Ninja Creami recipes.
+It currently has `{{ path(config.docs_dir).glob('?/*.md') | list | length }}` recipes.
 
 > <img width=720 alt="Gelato Cart" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/assets/gelato-cart.webp" />
+
+🗓️ Last changed *{{ git.date_ISO | rchop(14) }}* by *{{ git.author }}*
+
+> [{{ git.short_commit }}](https://github.com/jhermann/ice-creamery/commit/{{ git.short_commit }}){target="_blank"} `{{ git.message | truncate(50) }}]`
 
 ## How to Use This Site?
 Use the top bar to navigate using [Tags](tags/) or the first letter of a recipe name.
@@ -44,3 +49,8 @@ A Python script then converts CSV exports of the spreadsheets to markdown files,
 ```embed
 url: https://www.mkdocs.org/
 ```
+
+<!--
+{ macros_info() }}
+{ context(git) | pretty }}
+-->

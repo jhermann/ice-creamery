@@ -17,6 +17,8 @@ theme:
     - search.suggest
 
 plugins:
+  - macros:
+      module_name: macros
   - meta
   - search
   - git-revision-date-localized
