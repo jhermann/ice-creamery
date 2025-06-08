@@ -28,6 +28,10 @@ Rating: 😋😋😋😋😋
 >
 > *Final version from Sat 2025-06-07 (after lite ice cream & mix-in, and scooped).*
 
+> <img width=360 alt="Almond Buttermilk with Toppings" src="almond-buttermilk_lite-mixin_2025-06-07_4.jpg" class="zoomable" />
+>
+> *Served with a topping of black sesame in a creamy pomegranate sauce.*
+
 # INGREDIENTS
 
 ℹ️ Brand names are in square brackets `[...]`.
