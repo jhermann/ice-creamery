@@ -20,7 +20,7 @@ tags:
 
 This works with any fruit powder that harmonizes with coconut milk.
 
-> ‼️ This is vegan and dairy-free, using only coconut and soy.
+> 🌿 **Vegan & Dairy-free**<br />Recipe is using only coconut and soy.
 
 Spin on Light Ice Cream, followed by a scrape-down, and either a Respin or Mix-In run.
 
@@ -73,4 +73,4 @@ Rating: 😋🥥 (untested)
 0.5g tara gum (E417), 0.15g xanthan (E415),
 14.3g inulin, 0.5g salt.
 - **Oct 21, 2024:** Grainy texture, residue on the tub wall! Ricotta?!
-- **Jun 8, 2025:** Using soy milk, less coconut milk, and soy protein instead of SMP
+- **Jun 8, 2025:** Using soy milk, less coconut milk, and soy protein instead of SMP.
