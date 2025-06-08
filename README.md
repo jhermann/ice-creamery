@@ -164,16 +164,24 @@ To serve the recipe web site locally, you need to run the following commands.
 Install the [mkvenv3](https://github.com/jhermann/ruby-slippers/blob/master/home/bin/mkvenv3)
 script before that into your `~/bin`.
 
-    sudo apt install libgtk-4-dev libevent-dev libavif-dev
-    mkvenv3 mkdocs 'mkdocs-material[imaging]' \
-        mkdocs-exporter mkdocs-git-revision-date-localized-plugin \
-        mkdocs-link-embeds-plugin mkdocs-print-site-plugin
+```sh
+sudo apt install libgtk-4-dev libevent-dev libavif-dev
+mkvenv3 mkdocs 'mkdocs-material[imaging]' \
+    mkdocs-exporter mkdocs-git-revision-date-localized-plugin \
+    mkdocs-link-embeds-plugin mkdocs-print-site-plugin mkdocs-macros-plugin
+```
 
-Then call `./linkdocs.sh && mkdocs serve` in the repository's root directory.
+Then call the following command in the repository's root directory:
+
+```sh
+./linkdocs.sh && mkdocs serve 2>&1 | grep -v 'INFO.*absolute link'
+```
 
 You can also optionally create a PDF rendering into `site/.well-known/site.pdf`, using this command:
 
-    MKDOCS_EXPORTER_PDF=true mkdocs build
+```sh
+MKDOCS_EXPORTER_PDF=true mkdocs build
+```
 
 More plugins are available from the [catalog](https://github.com/mkdocs/catalog).
 
