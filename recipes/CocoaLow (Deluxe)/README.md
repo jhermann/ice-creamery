@@ -15,10 +15,11 @@ tags:
 
 Spin on Sorbet, followed by a scrape-down, and either a Respin or Mix-In run.
 
+> <img width=360 alt="Spun Ice Cream" src="" class="zoomable" />
+
 **This is an experimental recipe, and great texture is not guaranteed!**
 
 Rating: 😋 (untested)
-> <img width=360 alt="Spun Ice Cream" src="" class="zoomable" />
 
 # INGREDIENTS
 
@@ -41,8 +42,8 @@ Rating: 😋 (untested)
 
 # DIRECTIONS
 
- 1. Prepare specified ingredients by dissolving / hydrating in hot water.
- 1. Add "wet" ingredients to empty Creami tub.
+ 1. Mix the boiling water with the cocoa powder to bloom it, then let it cool down.
+ 1. Add "wet" ingredients and the bloomed cocoa to empty Creami tub.
  1. Weigh and mix dry ingredients, easiest by adding to a jar with a secure lid and shaking vigorously.
  1. Pour into the tub and *QUICKLY* use an immersion blender on full speed to homogenize everything.
  1. Let blender run until thickeners are properly hydrated, up to 1-2 min. Or blend again after waiting that time.
