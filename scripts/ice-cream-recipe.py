@@ -86,6 +86,10 @@ DEFAULT_TAGS_EXACT = {
     '(Deluxe)': 'Deluxe',
     'CMC': 'Tylo Powder (CMC)',
 }
+AUTO_LINK_STOP_WORDS = {
+    'Condensed milk', 'Cream 32%', 'Cream Punch', 'Evaporated milk', 'Extract',
+    'Flavor drops', 'Irish Cream', 'Milk 3.5%', 'Philadelphia Milka', 'Soy sauce',
+}
 
 
 def add_default_tags(md_text, docmeta):
@@ -164,11 +168,7 @@ parse_info_docs.wordmap = defaultdict(dict)
 
 def ingredient_link(ingredient, kind='ingredients', threshold=0.4):
     """Link a recognized ingredient, otherwise return the given text unchanged."""
-    stop_words = {
-        'Condensed milk', 'Cream 32%', 'Cream Punch', 'Evaporated milk', 'Flavor drops',
-        'Irish Cream', 'Milk 3.5%', 'Philadelphia Milka', 'Soy sauce',
-    }
-    if any(x in ingredient for x in stop_words):
+    if any(x in ingredient for x in AUTO_LINK_STOP_WORDS):
         return ingredient
     cleaned = ingredient.replace('Skim Milkpowder', 'skim milk powder SMP')  # legacy recipes
     for word in {'Brandy', 'Vodka', 'Rum'}:
