@@ -9,6 +9,7 @@ tags:
 - Low-Fat
 - Low-Sugar
 - Polysaccharide Gum
+- Sucralose
 - Tylo Powder (CMC)
 - Vanilla
 - Vegan
@@ -43,6 +44,7 @@ Rating: 😋 (untested)
   - _300ml_ [Almond milk 1.7% (sugar-free) \[REWE Bio\]](/ice-creamery/info/ingredients/#almond-milk-butter){target="_blank"}<sup>↗</sup> • with guar gum (<1.5g)
   - _15g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • Sweetness = 60%; GI = 5; Density = 1.26 g/ml
   - _10g_ [Fruit Brandy 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup>
+  - _7 drops_ Flavor drops Vanilla [IronMaxx] • with sucralose
 
 **Dry**
 
