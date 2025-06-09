@@ -85,4 +85,18 @@ Recipes with a PAC value of above 25 typically need a refreeze — see it as an 
 since you can spin a base during the day and enjoy it late at night without any noise pollution.
 And later on, any left-overs can be consumed directly out of the freezer, since they remain scoopable permanently.
 
-> ⛔ It is *not* recommended to use hot water *before* the 1st (main) processing step! You risk your machine since the frozen block can get loose and spin within the tub, with commonly catastrophic consequences (burn-out of the machine, shearing of the rod tip and paddle).
+### 💡 Make a Milk Shake
+The icy bottom often is not influenced by a scrape-down run and remains.
+Put it to good use by making a milk shake from the bottom half inch or so (≈1.5cm).
+
+1. Fill the tub to a third or half with your preferred milk.
+2. Add sweetener or flavor drops of choice, and possibly a dollop of cream.
+3. Froth it up with a blender, incorporating all of the ice cream.
+4. Pour into a long-drink glass.
+
+We might eat out of the tub, but only babarians drink out of it. 😉
+
+### ⛔ No Premature Thawing
+It is *not* recommended to use hot water *before* the 1st (main) processing step!
+
+You risk your machine since the frozen block can get loose and spin within the tub, with commonly catastrophic consequences — burn-out of the machine, shearing of the rod tip and paddle.
