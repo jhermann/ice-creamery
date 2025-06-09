@@ -24,6 +24,10 @@ You can also use Baileys at 17 vol%, which bumps up
 the energy to ~125 kcal.
 And I’d use 3g GMS due to higher fat content.
 
+When using egg-nog, check the label for the alcohol content;
+some brands go above 20 vol%, which will make this recipe come out too soft.
+“Kirkland Signature” has 14.75 vol%, which fits perfectly.
+
 # INGREDIENTS
 
 ℹ️ Brand names are in square brackets `[...]`.
@@ -44,7 +48,7 @@ And I’d use 3g GMS due to higher fat content.
 
 **Fill to MAX**
 
-  - _25ml_ Water to MAX line • Use cream instead for more richness
+  - _25ml_ Water to MAX line • Use cream instead for more richness.
 
 # DIRECTIONS
 
