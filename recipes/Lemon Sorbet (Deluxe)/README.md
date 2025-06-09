@@ -1,5 +1,7 @@
 ---
 description: Recipe for the Ninja Creami Deluxe [24oz]
+excluded_tags:
+- Dairy
 tags:
 - Draft
 - Erythritol
@@ -16,6 +18,8 @@ tags:
 - Xylitol
 ---
 # Lemon Sorbet (Deluxe)
+
+> 🌿 **Vegan & Dairy-free**<br />Recipe is using only lemon juice and no dairy.
 
 > ℹ️ This is keto, at 25 net carbs per tub, so 6-8 per serving.
 
