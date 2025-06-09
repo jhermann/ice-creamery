@@ -1,10 +1,12 @@
 ---
 description: Recipe for the Ninja Creami Deluxe [24oz]
+excluded_tags:
+- Vanilla
 tags:
 - Dairy-Free
 - Draft
 - Erythritol
-- Light
+- Hi-Protein
 - Low-Sugar
 - Polysaccharide Gum
 - Sucralose
@@ -30,32 +32,36 @@ Rating: 😋 (untested)
 
 **Prep**
 
-  - _100ml_ Almond milk (unsweetened) [REWE Bio] • with guar gum (<1.5g)
-  - _50g_ Medjool dates (pitted, organic) [Seba Garden] • approx. 5 dates
-  - _25g_ Almond butter (creamy) [Seba Garden]
-  - _10g_ Glycerin (E422, VG) [hd-line] • POD = 60%; GI = 5; Density = 1.26 g/ml
+  - _100ml_ [Almond milk 1.7% (sugar-free) \[REWE Bio\]](/ice-creamery/info/ingredients/#almond-milk-butter){target="_blank"}<sup>↗</sup> • with guar gum (<1.5g)
+  - _50g_ Medjool dates (pitted, organic) [Seba Garden] • distinctive caramel taste with hints of vanilla
+  - _25g_ [Almond butter (creamy) \[Seba Garden\]](/ice-creamery/info/ingredients/#almond-milk-butter){target="_blank"}<sup>↗</sup>
+  - _15g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • POD = 60%; GI = 5; Density = 1.26 g/ml
+  - _10g_ [Brandy “Williams Birne” 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup>
   - _5 drops_ Flavor drops Caramel [IronMaxx] • with sucralose
 
 **Wet**
 
-  - _400ml_ Almond milk (unsweetened) [REWE Bio] • with guar gum (<1.5g)
+  - _400ml_ [Almond milk 1.7% (sugar-free) \[REWE Bio\]](/ice-creamery/info/ingredients/#almond-milk-butter){target="_blank"}<sup>↗</sup> • with guar gum (<1.5g)
 
 **Dry**
 
-  - _20g_ Erythritol (E968) • POD = 75%
-  - _15g_ Xylitol • POD = 100%; GI = 7
-  - _15g_ Inulin [Vit4ever] • Sweetness = 8%; GI ~= 0
-  - _3.70g_ Salt
-  - _0.30g_ Xanthan gum (E415, XG)
+  - _25g_ [Soy protein isolate (nature) \[Powerstar\]](/ice-creamery/info/ingredients/#soy-protein-isolate){target="_blank"}<sup>↗</sup> • 1kg bag, unsweetened, unflavored
+  - _20g_ [Erythritol (E968)](/ice-creamery/info/ingredients/#erythritol-e968){target="_blank"}<sup>↗</sup> • POD = 75%
+  - _15g_ [Inulin \[Vit4ever\]](/ice-creamery/info/ingredients/#inulin){target="_blank"}<sup>↗</sup> • Sweetness = 8%; GI ~= 0
+  - _10g_ [Xylitol](/ice-creamery/info/ingredients/#xylitol-e967){target="_blank"}<sup>↗</sup> • POD = 100%; GI = 7
+  - _1.70g_ Salt
+  - _0.30g_ [Xanthan gum (E415, XG)](/ice-creamery/info/ingredients/#xanthan-gum-xg-e415){target="_blank"}<sup>↗</sup>
 
 **Fill to MAX**
 
-  - _81ml_ Water to MAX line
+  - _48ml_ Water to MAX line
 
 # DIRECTIONS
 
  1. Blend the dates with part of the milk and the other ‘prep’ ingredients to a smooth paste.
  1. Fill up with the rest of the milk.
+ 1. Add "wet" ingredients to empty Creami tub.
+ 1. Add the prepared dry ingredients, and blend QUICKLY using an immersion blender on full speed.
  1. Weigh and mix dry ingredients, easiest by adding to a jar with a secure lid and shaking vigorously.
  1. Pour into the tub and *QUICKLY* use an immersion blender on full speed to homogenize everything.
  1. Let blender run until thickeners are properly hydrated, up to 1-2 min. Or blend again after waiting that time.
@@ -64,9 +70,9 @@ Rating: 😋 (untested)
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
 
 # NUTRITIONAL & OTHER INFO
-- **Nutritional values per 100g/ml:** 100g; 68.9 kcal; fat 3.0g; carbs 12.0g; sugar 4.9g; protein 1.4g; salt 0.6g
-- **Nutritional values per ½ Deluxe Tub:** 360g; 248.0 kcal; fat 10.9g; carbs 43.2g; sugar 17.7g; protein 5.1g; salt 2.2g
-- **Nutritional values total:** 720g; 496.0 kcal; fat 21.7g; carbs 86.4g; sugar 35.4g; protein 10.2g; salt 4.5g
-- **FPDF / PAC (target 20..30):** 29.15
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 8.23% • Low-Sugar
-- **Milk Solids Non-Fat (MSNF, 7-11%):** 0.0g • 0.0%
+- **Nutritional values per 100g/ml:** 100g; 86.8 kcal; fat 3.1g; carbs 12.0g; sugar 4.9g; protein 4.5g; salt 0.4g
+- **Nutritional values per ½ Deluxe Tub:** 360g; 312.5 kcal; fat 11.0g; carbs 43.3g; sugar 17.7g; protein 16.3g; salt 1.6g
+- **Nutritional values total:** 720g; 625.1 kcal; fat 22.0g; carbs 86.6g; sugar 35.4g; protein 32.7g; salt 3.1g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 31.54
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 20.90% • Low-Sugar • Hi-Protein
+- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 23.3g • 3.2%
