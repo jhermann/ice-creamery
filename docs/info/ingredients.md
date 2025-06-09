@@ -245,7 +245,9 @@ It is synergistic when combined with other hydrocolloids to increase their gelli
 *Also know as:* carob / Johannisbrotkernmehl.
 
 ### Tara Gum (E417)
-Tara can replace guar 1:1 in recipes and will give you slightly better results, on average. It creates a creamier, richer mouth feel than guar gum.
+Tara can replace guar 1:1 in recipes (and vice versa)
+and will give you slightly better results, on average.
+It creates a creamier, richer mouth feel than guar gum.
 
 *Dosage:* 0.05-0.15% for ice cream, sorbet and sherbet.
 
