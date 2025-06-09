@@ -86,6 +86,8 @@ since you can spin a base during the day and enjoy it late at night without any 
 And later on, any left-overs can be consumed directly out of the freezer, since they remain scoopable permanently.
 
 ### 💡 Make a Milk Shake
+> 💭 *If life gives you icy residue, make a milk shake.*
+
 The icy bottom often is not influenced by a scrape-down run and remains.
 Put it to good use by making a milk shake from the bottom half inch or so (≈1.5cm).
 
