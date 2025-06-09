@@ -1,33 +1,42 @@
 Banana • Dairy-Free + Vegan (Deluxe);;;;;;;;;;;;
 ;;;;;;;;;;;;
 ;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;
-Nutritional values per 100g/ml;100;g;;71.8;1.0;15.3;5.8;0.8;0.2;;;
-Nutritional values per ½ Deluxe Tub;360;g;;258.4;3.7;55.2;20.8;2.9;0.6;;;
-Nutritional values total;720;g;;516.7;7.5;110.5;41.5;5.9;1.1;;;
+Nutritional values per 100g/ml;100;g;;66.9;1.1;13.9;4.7;0.8;0.2;;;
+Nutritional values per ½ Deluxe Tub;360;g;;240.8;4.0;49.9;16.8;2.8;0.6;;;
+Nutritional values total;720;g;;481.6;8.0;99.8;33.6;5.7;1.2;;;
 ;;;;;;;;;;;;
-FPDF / PAC (target 20..30);30.38;;;;;;;;;;;
-"Protein / Energy Ratio (ok=12%; hi=20%)";4.55%;;;;LOW-FAT;;;;;;;
+FPDF / PAC (target 20..30);30.37;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";4.72%;;;;LOW-FAT;;Low-Sugar;;;;;
 Milk Solids Non-Fat (MSNF, 7-11%);0.0;g;;0.0%;;;;;;;;
 ;;;;;;;;;;;;
-Process on FroYo, followed by a scrape down and a re-spin.;;;;;;;;;;;;
+> 🌿 **Vegan & Dairy-free**<br />Recipe is using only almond milk.;;;;;;;;;;;;
 ;;;;;;;;;;;;
+"Process on *Frozen Yogurt*, [hold it shortly under running water](https://jhermann.github.io/ice-creamery/info/tips%2Btricks/#handling-of-icy-sides-bottom)
+*after* that.
+Then a scrape-down and a respin or re-mix.
+
+Rating: 😋 (untested)
+
+💡 Planned improvement is adding 30g soy protein to boost solids & protein content.";;;;;;;;;;;;
 ;;;;;;;;;;;;
-;;;;;;;;;;;;
-Rating: 😋 (untested);;;;;;;;;;;;
+"1. Blend the bananas and the lemon juice in the empty tub.
+ 1. Add ""wet"" ingredients to the banana puree.";;;;;;;;;;;;
 30g Ice Cream Stabilizer (ICSv2) is;"14.3g erythritol, 1.43g Tylose powder (CMC, E466), 
 0.5g tara gum (E417), 0.15g xanthan (E415),
 14.3g inulin, 0.5g salt.";;;;;;;;;;;
 The [brand names] used are in brackets.;;;;;;;;;;;;
 ;;;;;;;;;;;;
 Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment
-Almond milk (unsweetened) [REWE Bio];350.00;ml;1;19.00;1.70;0.00;0.00;0.80;0.15;;;with guar gum (<1.5g)
-Bananas (peeled);250.00;g;1;108.00;0.60;21.50;16.00;1.22;0.03;0.16;;2 mid-size bananas, eat any surplus 😋
+Bananas (peeled);200.00;g;0;108.00;0.60;21.50;16.00;1.22;0.03;0.16;;2 mid-sized bananas, eat any surplus 😋
+Lemon juice;5.00;ml;0;25.00;0.10;3.36;1.65;0.30;0.01;0.02;;
+Almond milk 1.7% (sugar-free) [REWE Bio];300.00;ml;1;19.00;1.70;0.00;0.00;0.80;0.15;;;with guar gum (<1.5g)
+Glycerin (E422, VG) [hd-line];15.00;g;1;400.00;;99.00;;;;3.70;;"Sweetness = 60%; GI = 5; Density = 1.26 g/ml"
 Fruit Brandy 40 vol%;10.00;g;1;280.00;;;;;;2.96;;
-Glycerin (E422, VG) [hd-line];10.00;g;1;400.00;;99.00;;;;3.70;;"Sweetness = 60%; GI = 5; Density = 1.26 g/ml"
-Lemon juice;;ml;1;25.00;0.10;3.36;1.65;0.30;0.01;0.02;;
 Vanilla flavor drops [IronMaxx];;drops;1;;;;;;;;;
 ICSv2 [Erythritol / CMC / Tara / XG / Inulin];30.00;g;2;107.3;0.0;54.7;3.7;0.1;1.7;1.32;;http://bit.ly/4frc4Vj
-Xylitol;30.00;g;2;238.00;0.00;100.00;0.00;0.00;0.00;2.20;;"Sweetness = 100%; GI = 7"
+Xylitol;25.00;g;2;238.00;0.00;100.00;0.00;0.00;0.00;2.20;;"Sweetness = 100%; GI = 7"
 Vanilla Bean Powder [InterVanilla];3.00;g;2;288.00;0.10;13.00;13.00;0.00;0.00;;;
+Soy protein isolate (nature) [Powerstar];;g;2;372.00;1.00;1.00;0.00;89.80;2.50;;93.00;1kg bag, unsweetened, unflavored
 ;;;;;;;;;;;;
-Water to MAX line;37.00;ml;3;0.00;0.00;0.00;0.00;0.00;0.00;;;
+Almond milk 1.7% (sugar-free) [REWE Bio];100.00;ml;3;19.00;1.70;0.00;0.00;0.80;0.15;;;make blending easier by splitting the milk
+Water to MAX line;32.00;ml;3;;;;;;;;;
