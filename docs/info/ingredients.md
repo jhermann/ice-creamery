@@ -404,6 +404,8 @@ Soy milk is produced by soaking, grinding, and filtering soybeans.
 
 Like unsweetened almond milk, sugar-free products can be used to create
 very low-cal bases that are well-suited for people with diabetes.
+No additional sugar also helps in boozy recipes, where you want to use
+all your "FP depression budget" on the boozy part.
 
  >‼️**Check Ingredients List**<br />
  Always check for ingredients other than soybeans and water, especially thickeners, emulsifers, and stabilizers.
