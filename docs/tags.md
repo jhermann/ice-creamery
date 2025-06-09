@@ -8,23 +8,32 @@ search:
 
 ## Light Recipes
 
-Recipes that have less than 75 kcal per 100g:
+Recipes that have less than 75 kcal per 100g, sorted by their energy value:
 
- - [Vanil-Low](https://jhermann.github.io/ice-creamery/?q=Vanil-Low): 57.6 kcal/100g
- - [Shregg](https://jhermann.github.io/ice-creamery/?q=Shregg): 61.4 kcal/100g
- - [Cherry Ice Cream](https://jhermann.github.io/ice-creamery/?q=Cherry%20Ice%20Cream): 67.6 kcal/100g
- - [Winter Apple](https://jhermann.github.io/ice-creamery/?q=Winter%20Apple): 69.1 kcal/100g
- - [Banana • Dairy-Free + Vegan](https://jhermann.github.io/ice-creamery/?q=Banana%20%E2%80%A2%20Dairy-Free%20%2B%20Vegan): 71.8 kcal/100g
- - [Blueberry Buttermilk](https://jhermann.github.io/ice-creamery/?q=Blueberry%20Buttermilk): 72.1 kcal/100g
- - [Banana • Slim](https://jhermann.github.io/ice-creamery/?q=Banana%20Slim): 72.6 kcal/100g
- - [Plum Sherbet](https://jhermann.github.io/ice-creamery/?q=Plum%20Sherbet): 74.3 kcal/100g
+*   **[Lemon Sorbet](/ice-creamery/L/Lemon%20Sorbet%20%28Deluxe%29)** - 35.7 kcal
+*   **[Shregg](/ice-creamery/S/Shregg%20%28Deluxe%29)** - 61.4 kcal
+*   **[CocoaLow](/ice-creamery/C/CocoaLow%20%28Deluxe%29)** - 61.9 kcal
+*   **[Lean Coffee](/ice-creamery/L/Lean%20Coffee%20%28Deluxe%29)** - 66.6 kcal
+*   **[Cherry Ice Cream](/ice-creamery/C/Cherry%20Ice%20Cream%20%28Deluxe%29)** - 67.6 kcal
+*   **[Dulce de Leche • Vegan](/ice-creamery/D/Dulce%20de%20Leche%20%E2%80%A2%20Vegan%20%28Deluxe%29)** - 68.9 kcal
+*   **[Vanil-Low](/ice-creamery/V/Vanil-Low%20%28Deluxe%29)** - 69.1 kcal
+*   **[Winter Apple](/ice-creamery/W/Winter%20Apple%20%28Deluxe%29)** - 69.1 kcal
+*   **[Banana • Dairy-Free + Vegan](/ice-creamery/B/Banana%20%E2%80%A2%20Dairy-Free%20%2B%20Vegan%20%28Deluxe%29)** - 71.8 kcal
+*   **[Blueberry Buttermilk](/ice-creamery/B/Blueberry%20Buttermilk%20%28Deluxe%29)** - 72.1 kcal
+*   **[Banana • Slim](/ice-creamery/B/Banana%20%E2%80%A2%20Slim%20%28Deluxe%29)** - 72.6 kcal
+*   **[Plum Sherbet](/ice-creamery/P/Plum%20Sherbet%20%28Deluxe%29)** - 74.3 kcal
 
 <!--
 Ask a notebook at https://notebooklm.google.com/
-with this source: https://jhermann.github.io/ice-creamery/print_page/index.html
+with "all-recipes" as the source (see `recipes/README.md` for that).
 
 List ALL recipes below 75kcal, with just their name and energy, sorted by energy.
 Energy values are listed for each recipe in a list item starting with "Nutritional values per 100g/ml",
 in the "NUTRITIONAL & OTHER INFO" section.
-Hyperlink the names by appending the www-urlencoded name to the "https://jhermann.github.io/ice-creamery/?q=" URL.
+leave out the text " (Deluxe)" in the visible recipe name.
+link the recipe name using Markdown format, with the URL prefix
+"/ice-creamery/" followed by the first letter of the name as a 2nd path component,
+and finally followed by the FULL original recipe name.
+url-encode that link. so to reiterate, the links have the markdown format
+"[shortened recipe name](url-enconded full recipe name)".
 -->
