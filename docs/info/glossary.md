@@ -1,5 +1,14 @@
 # Glossary<img style="float: right; margin-left: 1.5em;" width=160 alt="Logo" src="../logo-glossary.png" />
 
+## Alcohol by Volume (ABV)
+Alcohol by volume can be taken literally, it specifies the percentage
+of pure ethanol contained in a beverage.
+
+In the EU, "vol%" (volume percentage) is the usual way to express ABV.
+
+In the US, "proof" is probably still quite common,
+it's essentially double the ABV value (80-proof ≅ 40 vol%).
+
 ## Dextrose Equivalent (DE)
 
 A measure of the amount of reducing sugars present in a sugar product, expressed as a percentage on a dry basis relative to dextrose (percentage of glucose molecules in dry matter).
