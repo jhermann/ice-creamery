@@ -165,7 +165,7 @@ parse_info_docs.wordmap = defaultdict(dict)
 def ingredient_link(ingredient, kind='ingredients', threshold=0.4):
     """Link a recognized ingredient, otherwise return the given text unchanged."""
     stop_words = {
-        'Condensed milk', 'Cream 32%', 'Cream Punch', 'Evaporated milk',
+        'Condensed milk', 'Cream 32%', 'Cream Punch', 'Evaporated milk', 'Flavor drops',
         'Irish Cream', 'Milk 3.5%', 'Philadelphia Milka', 'Soy sauce',
     }
     if any(x in ingredient for x in stop_words):
@@ -319,7 +319,7 @@ def main():
         title = next(reader)[0]
         is_topping = title.endswith(' (Topping)')
         if is_topping:
-            title = title.rsplit('(', 1)[0]
+            title = title.rsplit('(', 1)[0].strip()
         lines.extend([f"#{'#' if is_topping else ''} {title}", ''])
         if 1 in images:
             lines[-1:-1] = [images[1]]
@@ -419,7 +419,7 @@ def main():
 
     # Add nutritional info
     lines.extend([
-        '', subtitle('Nutritional & Other Info', is_topping),
+        '', subtitle('Nutritional & Other Info', is_topping), '' if is_topping else None,
         '- ' + '\n- '.join(nutrition)])
 
     # Add default tags
