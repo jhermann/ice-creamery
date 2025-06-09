@@ -21,7 +21,7 @@ Process on SORBET.
 > <img width=360 alt="Spun Ice Cream" src="" class="zoomable" />
 
 You can also use Baileys at 17 vol%, which bumps up
-the energy to ~125 kcal due to the higher fat content.
+the energy to ~125 kcal.
 And I’d use 3g GMS due to higher fat content.
 
 # INGREDIENTS
