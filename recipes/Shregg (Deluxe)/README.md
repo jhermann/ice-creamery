@@ -1,12 +1,16 @@
 ---
 description: Recipe for the Ninja Creami Deluxe [24oz]
+excluded_tags:
+- Vanilla
 tags:
 - Alcohol
-- Dairy
+- Emulsifier
+- Hi-Protein
 - Light
+- Low-Fat
 - Polysaccharide Gum
+- Sucralose
 - Tylo Powder (CMC)
-- Vanilla
 ---
 # Shregg (Deluxe)
 
@@ -14,24 +18,33 @@ Egg liqueur ice cream.
 
 Process on SORBET.
 
+> <img width=360 alt="Spun Ice Cream" src="" class="zoomable" />
+
 You can also use Baileys at 17 vol%, which bumps up
-the energy to 421 kcal. And I’d use 3g GMS due to higher fat content.
+the energy to ~125 kcal due to the higher fat content.
+And I’d use 3g GMS due to higher fat content.
 
 # INGREDIENTS
 
 ℹ️ Brand names are in square brackets `[...]`.
 
 **Wet**
-  - _420ml_ Water
-  - _175ml_ Egg Liqueur 15 vol% [Bols Advocaat] • 1 bottle = 700ml
-  - _100g_ Cream Cheese 23% [Exquisa]
-  - _5drops_ Flavor drops Vanilla [IronMaxx]
+
+  - _450ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
+  - _190ml_ Egg Liqueur 15 vol% [Bols Advocaat] • 1 bottle = 700ml
+  - _10 drops_ Flavor drops Vanilla [IronMaxx] • with sucralose
 
 **Dry**
-  - _20g_ Inulin [Vit4ever] • Sweetness = 8%; GI ~= 0
-  - _2g_ Glycerol Monostearate (E471) [Bulk]
-  - _2g_ Tylose powder (E466, Tylo, CMC)
-  - _1g_ Tara gum (E417)
+
+  - _30g_ [Soy protein isolate (nature) \[Powerstar\]](/ice-creamery/info/ingredients/#soy-protein-isolate){target="_blank"}<sup>↗</sup> • 1kg bag, unsweetened, unflavored
+  - _20g_ [Inulin \[Vit4ever\]](/ice-creamery/info/ingredients/#inulin){target="_blank"}<sup>↗</sup> • Sweetness = 8%; GI ~= 0
+  - _2g_ [Glycerol Monostearate (E471) \[Bulk\]](/ice-creamery/info/ingredients/#glycerol-monostearate-gms-e471){target="_blank"}<sup>↗</sup>
+  - _2g_ [Tylose powder (E466, Tylo, CMC)](/ice-creamery/info/ingredients/#carboxymethyl-cellulose-cmc-e466){target="_blank"}<sup>↗</sup>
+  - _1g_ [Tara gum (E417)](/ice-creamery/info/ingredients/#tara-gum-e417){target="_blank"}<sup>↗</sup>
+
+**Fill to MAX**
+
+  - _25ml_ Water to MAX line
 
 # DIRECTIONS
 
@@ -39,12 +52,14 @@ the energy to 421 kcal. And I’d use 3g GMS due to higher fat content.
  1. Weigh and mix dry ingredients, easiest by adding to a jar with a secure lid and shaking vigorously.
  1. Pour into the tub and *QUICKLY* use an immersion blender on full speed to homogenize everything.
  1. Let blender run until thickeners are properly hydrated, up to 1-2 min. Or blend again after waiting that time.
+ 1. Add remaining ingredients (to the MAX line) and stir with a spoon.
  1. Put on the lid, freeze for 24h, then spin as usual. Flatten any humps before that.
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
 
 # NUTRITIONAL & OTHER INFO
-- **Nutritional values per 100g/ml:** 100g; 61.4 kcal; fat 4.8g; carbs 7.5g; sugar 7.2g; protein 1.0g; salt 0.1g
-- **Nutritional values per ½ Deluxe Tub:** 360g; 220.9 kcal; fat 17.2g; carbs 27.1g; sugar 25.9g; protein 3.6g; salt 0.4g
-- **Nutritional values total:** 720g; 441.8 kcal; fat 34.4g; carbs 54.2g; sugar 51.9g; protein 7.3g; salt 0.7g
-- **FPDF / PAC (target 20..30):** 29.12
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 6.59% • Low-Salt
+- **Nutritional values per 100g/ml:** 100g; 64.3 kcal; fat 2.8g; carbs 8.3g; sugar 7.3g; protein 5.9g; salt 0.2g
+- **Nutritional values per ½ Deluxe Tub:** 360g; 231.6 kcal; fat 10.2g; carbs 29.8g; sugar 26.5g; protein 21.2g; salt 0.6g
+- **Nutritional values total:** 720g; 463.1 kcal; fat 20.4g; carbs 59.6g; sugar 52.9g; protein 42.4g; salt 1.2g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 31.43
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 36.59% • LOW-FAT • Hi-Protein
+- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 27.9g • 3.9%
