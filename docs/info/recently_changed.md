@@ -16,7 +16,7 @@ leave out the text " (Deluxe)" in the visible directory name.
 link the directory name using Markdown format, with the URL prefix
 "/ice-creamery/" followed by the first letter of the name as a 2nd path component,
 and finally followed by the FULL original directory name.
-url-encode that link. so to reiterate, the links have the makrdown format
+url-encode that link. so to reiterate, the links have the markdown format
 "[shortened directory name](url-enconded full directory name)".
 put the number of added lines into a HTML comment after the link, in the format "added NNN lines".
 -->
