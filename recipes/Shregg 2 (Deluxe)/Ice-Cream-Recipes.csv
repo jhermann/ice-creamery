@@ -1,0 +1,36 @@
+Shregg 2 (Deluxe);;;;;;;;;;;;
+;;;;;;;;;;;;
+;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;
+Nutritional values per 100g/ml;100;g;;80.6;1.4;4.6;1.8;5.2;0.1;;;
+Nutritional values per ½ Deluxe Tub;360;g;;290.2;5.2;16.7;6.4;18.7;0.5;;;
+Nutritional values total;720;g;;580.4;10.3;33.4;12.9;37.5;1.0;;;
+;;;;;;;;;;;;
+FPDF / PAC (target 20..30);33.05;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";25.82%;;;;LOW-FAT;;Low-Sugar;Hi-Protein;;;;
+Milk Solids Non-Fat (MSNF, 7-11%);27.9;g;;3.9%;;;;;;;;
+;;;;;;;;;;;;
+[Egg&cream punch](https://world.openfoodfacts.org/product/4001486916119/sahne-eierpunsch-katlenburger) ice cream.;;;;;;;;;;;;
+;;;;;;;;;;;;
+Process on SORBET.;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+The [brand names] used are in brackets.;;;;;;;;;;;;
+;;;;;;;;;;;;
+Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment
+Water;;ml;1;;;;;;;;;
+Skim Milk 1.5% [Weihenstephan];;ml;1;47.00;1.50;4.90;4.90;3.50;0.11;0.05;9.16;
+Soy milk 1.6% (sugar-free) [Berief];250.00;ml;1;30.00;1.60;0.90;0.00;3.00;0.08;;;
+Egg Cream Punch 9 vol% [Katlenburger];375.00;ml;1;84.00;1.60;4.50;3.00;0.80;;0.56;;1 bottle = 750ml
+Cream Cheese 23% [Exquisa];;g;1;238.00;22.50;3.00;3.00;5.50;0.70;0.03;9.64;
+Flavor drops Vanilla [IronMaxx];10.00;drops;1;;;;;;;;;with sucralose
+Soy protein isolate (nature) [Powerstar];30.00;g;2;372.00;1.00;1.00;0.00;89.80;2.50;;93.00;1kg bag, unsweetened, unflavored
+Inulin [Vit4ever];20.00;g;2;210.00;0.00;8.00;8.00;0.00;0.20;0.09;;"Sweetness = 8%; GI ~= 0"
+Xylitol;10.00;g;2;238.00;;100.00;;;;2.20;;"Sweetness = 100%; GI = 7"
+Glycerol Monostearate (E471) [Bulk];2.00;g;2;415.00;;;;;;;;
+Tylose powder (E466, Tylo, CMC);2.00;g;2;143.00;0.00;75.00;0.00;0.00;0.00;;;
+Tara gum (E417);1.00;g;2;185.00;0.31;87.00;0.00;2.26;0.00;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+Water to MAX line;30.00;ml;3;;;;;;;;;Use cream instead for more richness.
