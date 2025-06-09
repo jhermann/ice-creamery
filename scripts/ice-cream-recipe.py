@@ -28,6 +28,7 @@ import re
 import csv
 import sys
 import difflib
+import argparse
 import subprocess
 
 from pprint import pp  # pylint: disable=unused-import
@@ -37,7 +38,7 @@ from collections import defaultdict
 
 import yaml
 
-CSV_FILE = 'Ice-Cream-Recipes.csv'  # TODO: add argument parsing
+CSV_FILE = 'Ice-Cream-Recipes.csv'
 MD_FILE = 'recipe-{file_title}.md'
 
 TAG_LIGHT_KCAL_LIMIT = 75.0
@@ -201,32 +202,52 @@ def info_link(term):
             term = term.replace(fragment, link)
     return term
 
-def subtitle(text):
+def subtitle(text, is_topping=False):
     """Create markdown for a recipe subtitle."""
     # TODO: add a `--format=reddit|generic` option
-    return f'# {text.upper()}'  # This is optimized for Reddit
+    return (
+        f"{'*' if is_topping else '# '}"
+        f"{text if is_topping else text.upper()}"
+        f"{'*' if is_topping else ''}")  # This is optimized for Reddit
     #return f'**{text.upper()}**'  # This is what it should be, if the Reddit Markdown parser wouldn't suck
 
 
-def markdown_file(title):
+def markdown_file(title, is_topping=False):
     """Return name of Markdown file for a given recipe title."""
-    filename = MD_FILE.format(file_title="_".join(title.replace("(", "").replace(")", "").split()))
-    try:  # automatic recipe git repo mode
-        git_root = Path(subprocess.check_output('git rev-parse --show-toplevel'.split(), encoding='utf-8').rstrip())
-        if git_root / 'recipes' == Path.cwd().parent:
-            filename = 'README.md'
-    except (FileNotFoundError, subprocess.CalledProcessError):
-        pass
+    filename = MD_FILE.format(file_title="_".join(title.lower().rsplit('(', 1)[0].strip().split()))
+    if not is_topping:
+        try:  # automatic recipe git repo mode
+            git_root = Path(subprocess.check_output('git rev-parse --show-toplevel'.split(), encoding='utf-8').rstrip())
+            if git_root / 'recipes' == Path.cwd().parent:
+                filename = 'README.md'
+        except (FileNotFoundError, subprocess.CalledProcessError):
+            pass
     return filename
 
+def parse_cli(argv=None):
+    """"""
+    argv = argv or sys.argv
+    parser = argparse.ArgumentParser(
+        prog='ice-cream-recipe',
+        description=__doc__.split('.', 1)[0].strip() + '.',
+        epilog='See https://github.com/jhermann/ice-creamery/#readme for more.')
+
+    parser.add_argument('-n', '--dry-run', action='store_true',
+                        help='Do not write results to file system.')
+    parser.add_argument('-t', '--tags-only', action='store_true',
+                        help='Only update the tags metadata section.')
+    parser.add_argument('--macros', action='store_true',
+                        help='Produce a table of macros for all given ingredients.')
+    parser.add_argument('csv_name', metavar='csv-name',
+                        type=Path, nargs='?', default=CSV_FILE,
+                        help=f'The name of the saved spreadsheet tab (from "File > Save a Copy..."). [{CSV_FILE}]')
+
+    return parser.parse_args()
 
 def main():
     """Main loop."""
-    # XXX: very cheap cmd line arg parsing
-    tags_only = '--tags' in sys.argv
-    macros_only = '--macros' in sys.argv
-    dry_run = '-n' in sys.argv or '--dry-run' in sys.argv
-
+    args = parse_cli()
+    #pp(args)
     recipe = defaultdict(list)
     lines = []
     nutrition = []
@@ -292,14 +313,21 @@ def main():
     parse_info_docs('glossary', '## ')
     #print(yaml.safe_dump(docmeta)); die
 
-    with open(CSV_FILE, 'r', encoding='utf-8') as handle:
+    with open(args.csv_name, 'r', encoding='utf-8') as handle:
         reader = csv.reader(handle, delimiter=';')
         row = ''
         title = next(reader)[0]
-        lines.extend([f'# {title}', ''])
+        is_topping = title.endswith(' (Topping)')
+        if is_topping:
+            title = title.rsplit('(', 1)[0]
+        lines.extend([f"#{'#' if is_topping else ''} {title}", ''])
         if 1 in images:
             lines[-1:-1] = [images[1]]
             del images[1]
+
+        if is_topping and 999 in images:
+            # No default image
+            del images[999]
 
         # Handle nutrients
         next(reader)  # skip empty row
@@ -344,7 +372,7 @@ def main():
             elif data['ingredients']:
                 if data['amount'].endswith('.00'):
                     data['amount'] = data['amount'][:-3]
-                if macros_only or data['amount'] and data['amount'] != '0':
+                if args.macros or data['amount'] and data['amount'] != '0':
                     step = int(data['step'])
                     recipe[step].append(data)
 
@@ -352,11 +380,13 @@ def main():
     #pp(recipe)
 
     # Add ingredient list
-    lines.extend([subtitle('Ingredients'), '', 'ℹ️ Brand names are in square brackets `[...]`.'])
+    lines.extend([
+        subtitle('Ingredients', is_topping),
+        None if is_topping else '\nℹ️ Brand names are in square brackets `[...]`.'])
     for step, (name, directions) in enumerate(steps.items()):
         if not recipe[step]:  # no ingredients for this step?
             continue
-        lines.extend(['', f'**{name}**', ''])
+        lines.extend([''] if is_topping else ['', f'**{name}**', ''])
         for ingredient in recipe[step]:
             ingredient['spacer'] = '' if ingredient['unit'] in {'g', 'ml'} else ' '
             ingredient['amount'] = ingredient['amount'].replace(".50", ".5")
@@ -366,41 +396,46 @@ def main():
                 lines[-1] += f" • {ingredient['comment']}"
 
     # Add directions
-    lines.extend(['', subtitle('Directions'), ''])
+    lines.extend(['', subtitle('Directions', is_topping), ''])
     if special_directions:
         lines.extend(special_directions)
         if any(x in line.lower().split() for line in special_directions for x in {'heat', 'cook'}):
             docmeta['tags'].append('Cooked Base')
-    for step, (name, directions) in enumerate(steps.items()):
-        if step == STEP_PREP:
-            if recipe[STEP_PREP] and not any('water' in x['ingredients'].lower() for x in recipe[STEP_PREP]):
-                continue
-        if step == STEP_MIX_IN:
-            if any('chia' in x['ingredients'].lower() for x in recipe[STEP_DRY]):
-                lines.extend(soaking)
-            lines.extend(freezing)
-        if recipe[step]:  # we have ingredients for this step?
-            for line in [x.strip() for x in directions.strip().splitlines()]:
-                lines.append(f' 1. {line}')
-        if step == STEP_WET:
-            if recipe[STEP_PREP] and not any('water' in x['ingredients'].lower() for x in recipe[STEP_PREP]):
-                lines.extend(premix)
+    if not is_topping:
+        for step, (name, directions) in enumerate(steps.items()):
+            if step == STEP_PREP:
+                if recipe[STEP_PREP] and not any('water' in x['ingredients'].lower() for x in recipe[STEP_PREP]):
+                    continue
+            if step == STEP_MIX_IN:
+                if any('chia' in x['ingredients'].lower() for x in recipe[STEP_DRY]):
+                    lines.extend(soaking)
+                lines.extend(freezing)
+            if recipe[step]:  # we have ingredients for this step?
+                for line in [x.strip() for x in directions.strip().splitlines()]:
+                    lines.append(f' 1. {line}')
+            if step == STEP_WET:
+                if recipe[STEP_PREP] and not any('water' in x['ingredients'].lower() for x in recipe[STEP_PREP]):
+                    lines.extend(premix)
 
     # Add nutritional info
-    lines.extend(['', subtitle('Nutritional & Other Info'), '- ' + '\n- '.join(nutrition)])
+    lines.extend([
+        '', subtitle('Nutritional & Other Info', is_topping),
+        '- ' + '\n- '.join(nutrition)])
 
     # Add default tags
     lines.append('')  # add trailing line end
+    lines = [x for x in lines if x is not None]
     md_text = '\n'.join(lines)
-    md_text = add_default_tags(md_text, docmeta)
+    if not is_topping:
+        md_text = add_default_tags(md_text, docmeta)
 
     # Create the Markdown file
-    md_file = markdown_file(title)
+    md_file = markdown_file(title, is_topping)
     md_text = md_text.replace('http://bit.ly/4frc4Vj', '[http﹕//bit.ly/4frc4Vj]'
         '(https://jhermann.github.io/ice-creamery/'
         'I/Ice%20Cream%20Stabilizer%20(ICS)/)')  # take care of Reddit stupidness
 
-    if macros_only:
+    if args.macros:
         def all_ingredients():
             'Helper.'
             for step in recipe.values():
@@ -432,7 +467,7 @@ def main():
                 idx = idx + 1
         return
 
-    if tags_only:
+    if args.tags_only:
         md_text = Path(md_file).read_text(encoding='utf-8').splitlines()
         if md_text[0] == '---':
             for idx in range(1, len(md_text)):
@@ -443,7 +478,7 @@ def main():
         md_text = add_default_tags(md_text, docmeta)
         print(f'Updating tags only: {", ".join(sorted(docmeta["tags"]))}')
 
-    if dry_run:
+    if args.dry_run:
         print(md_text, end=None)
     else:
         with open(md_file, 'w', encoding='utf-8') as out:
