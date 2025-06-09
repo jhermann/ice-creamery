@@ -44,7 +44,7 @@ And I’d use 3g GMS due to higher fat content.
 
 **Fill to MAX**
 
-  - _25ml_ Water to MAX line
+  - _25ml_ Water to MAX line • Use cream instead for more richness
 
 # DIRECTIONS
 
