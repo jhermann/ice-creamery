@@ -421,7 +421,7 @@ especially in low-fat versions, and to enhance the protein content.
 It acts as a fat replacer, contributing to viscosity and the ability to create foam.
 Additionally, it can reduce ice recrystallization, leading to a smoother texture and slower melting.
 
-Soy protein isolate is a *great vegan replacement for SMP*.
+Soy protein isolate is a *great vegan & sugar-free replacement for SMP*.
 
 ### Whey Protein
 Whey protein primarily functions as a water-binding agent, contributing to viscosity, stability, and texture. It helps to maintain small ice crystals avoiding grittiness (by limiting water mobility and ice crystal growth), and increases your protein intake.
