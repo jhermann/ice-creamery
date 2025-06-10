@@ -42,6 +42,7 @@ CSV_FILE = 'Ice-Cream-Recipes.csv'
 MD_FILE = 'recipe-{file_title}.md'
 
 TAG_LIGHT_KCAL_LIMIT = 75.0
+TAG_SCOOPABLE_PAC_LIMIT = 30.0
 DEFAULT_TAGS = set([
     'Allulose',
     'Erythritol',
@@ -103,6 +104,9 @@ def add_default_tags(md_text, docmeta):
     kcal = re.search(r'100g; ([.0-9]+) kcal;', md_text)
     if kcal and float(kcal.group(1)) <= TAG_LIGHT_KCAL_LIMIT:
         docmeta['tags'].append('Light')
+    pac = re.search(r'FPDF / .?PAC.+:.?.? ([.0-9]+)', md_text)
+    if pac and float(pac.group(1)) >= TAG_SCOOPABLE_PAC_LIMIT:
+        docmeta['tags'].append('Scoopable')
     for tag in DEFAULT_TAGS:
         if tag.lower() in md_text_words_lc:
             docmeta['tags'].append(tag)
