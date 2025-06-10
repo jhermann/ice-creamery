@@ -2,7 +2,7 @@
 description: Almond milk + cottage cheese base at ~50kcal / 100g
 tags:
 - Dairy
-- Draft
+- Promising
 - Erythritol
 - Fruit
 - Hi-Protein
