@@ -407,6 +407,11 @@ def main():
             docmeta['tags'].append('Cooked Base')
     if not is_topping:
         for step, (name, directions) in enumerate(steps.items()):
+            directions = '\n'.join(line
+                for line in directions.splitlines()
+                if not any(x in line for x in docmeta['excluded_steps']))
+            if not directions:
+                continue
             if step == STEP_PREP:
                 if recipe[STEP_PREP] and not any('water' in x['ingredients'].lower() for x in recipe[STEP_PREP]):
                     continue
