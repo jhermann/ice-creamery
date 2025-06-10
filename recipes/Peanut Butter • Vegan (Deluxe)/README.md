@@ -21,6 +21,11 @@ Process on Lite Ice Cream.
 
 Rating: 😋 (untested)
 
+**Topping & mix-in options**
+
+ * [Dark chocolate flakes](../../T/Toppings/#dark-chocolate-flakes-mix-in)
+ * Roasted peanuts (chopped)
+
 # INGREDIENTS
 
 ℹ️ Brand names are in square brackets `[...]`.
