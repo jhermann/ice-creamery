@@ -4,7 +4,7 @@ excluded_tags:
 - Vanilla
 tags:
 - Coconut
-- Dairy-free
+- Dairy-Free
 - Draft
 - Erythritol
 - Fruit
