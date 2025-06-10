@@ -409,7 +409,7 @@ def main():
         for step, (name, directions) in enumerate(steps.items()):
             directions = '\n'.join(line
                 for line in directions.splitlines()
-                if not any(x in line for x in docmeta['excluded_steps']))
+                if not any(x in line for x in docmeta.get('excluded_steps', [])))
             if not directions:
                 continue
             if step == STEP_PREP:
