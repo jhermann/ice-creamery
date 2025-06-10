@@ -1,9 +1,9 @@
 ---
 description: Recipe for the Ninja Creami Deluxe [24oz]
 excluded_tags:
+- Dairy
 - Vanilla
 tags:
-- Dairy
 - Draft
 - Erythritol
 - Fruit
