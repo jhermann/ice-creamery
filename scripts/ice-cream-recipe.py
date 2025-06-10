@@ -353,7 +353,10 @@ def main():
             if row[0] == 'Ingredients':
                 break  # pass header line to ingredients processing
             elif row[0].lstrip().startswith('1. '):
-                special_directions.append(' ' + row[0].strip())
+                if 'Before freezing' in row[0]:
+                    freezing[0:0] = [' ' + row[0].strip()]
+                else:
+                    special_directions.append(' ' + row[0].strip())
             else:
                 handle_top_row(row)
 
