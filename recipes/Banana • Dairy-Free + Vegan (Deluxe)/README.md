@@ -2,7 +2,7 @@
 description: Recipe for the Ninja Creami Deluxe [24oz]
 tags:
 - Dairy-Free
-- Draft
+- Promising
 - Erythritol
 - Fruit
 - Light
@@ -25,9 +25,10 @@ Process on *Frozen Yogurt*, [hold it shortly under running water](https://jherma
 *after* that.
 Then a scrape-down and a respin or re-mix.
 
-> <img width=360 alt="Spun Ice Cream" src="" class="zoomable" />
+> <img width=360 alt="Spun on Light Ice Cream" src="banana-vegan_2025-06-10_1.jpg" class="zoomable" />
+> <img width=360 alt="After Re-Spin" src="banana-vegan_2025-06-10_2.jpg" class="zoomable" />
 
-Rating: 😋 (untested)
+Rating: 😋😋😋😋 Good banana flavor, a little melty directly after spinning, we'll see what it's like after refreezing.
 
 💡 Planned improvement is adding 30g soy protein to boost solids & protein content.
 
