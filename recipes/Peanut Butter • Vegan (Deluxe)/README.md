@@ -32,7 +32,7 @@ Rating: 😋 (untested)
 
 **Prep**
 
-  - _15g_ [Peanut butter (creamy, organic) \[REWE Bio\]](/ice-creamery/info/ingredients/#cream-cheese){target="_blank"}<sup>↗</sup> • 250g glass jar
+  - _15g_ Peanut butter (creamy, organic) [REWE Bio] • 250g glass jar
 
 **Wet**
 
