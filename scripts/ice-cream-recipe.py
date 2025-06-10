@@ -287,7 +287,7 @@ def main():
         '''Helper for non-ingredient row handling.'''
         nonlocal images
 
-        if row[2] and 'MSNF' not in row[0]:  # structured / complex row
+        if row[2] and 'MSNF' not in row[0]:  # structured / complex row, e.g. with formulas
             line = [x.strip() for x in row]
             if line[0].endswith(':'):
                 line[0] = f'**{line[0]}**'
@@ -317,17 +317,17 @@ def main():
         reader = csv.reader(handle, delimiter=';')
         row = ''
         title = next(reader)[0]
-        is_topping = title.endswith(' (Topping)')
+        is_topping = title.endswith(' (Topping)') or title.endswith(' (Mix-in)')
         if is_topping:
-            title = title.rsplit('(', 1)[0].strip()
+            if 999 in images:
+                # No default image
+                del images[999]
+            if not title.endswith(' (Mix-in)'):
+                title = title.rsplit('(', 1)[0].strip()
         lines.extend([f"#{'#' if is_topping else ''} {title}", ''])
         if 1 in images:
             lines[-1:-1] = [images[1]]
             del images[1]
-
-        if is_topping and 999 in images:
-            # No default image
-            del images[999]
 
         # Handle nutrients
         next(reader)  # skip empty row
