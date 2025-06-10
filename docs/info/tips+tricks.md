@@ -16,6 +16,14 @@ These are some basic facts applying to all recipes.
 
  1. Ingredient amounts fit the 720ml (24oz) container size of the *Creami Deluxe*. For the base model and the *Swirl*, scale the recipes by using ⅔ of all ingredients (66%).
 
+## 🤓 Remotely Monitor Your Freezer
+Freezers, especially auto-defrosting ones, do strange things. If as a nerd you want to have an eye on that,
+and also know how cold your tubs come out of it, you can use a smarthome remote sensor than works via Bluetooth or Wi-Fi.
+
+> <img width=360 alt="App screenshot" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/assets/freezer_remote_sensor_2025-06-10.png" class="zoomable" />
+> 
+> *SwitchBot IP65 outdoor thermometer / hygrometer*
+
 ## Prepared Dry Mixes
 Some of the recipes have 'Mix' in their name. These are partial recipes where you can weigh a mix of most or all of the dry ingredients in bulk.
 
