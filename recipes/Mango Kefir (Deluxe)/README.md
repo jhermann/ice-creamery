@@ -9,7 +9,6 @@ social:
     background_image: Mango-Kefir_2025-06-02_3.jpg
 tags:
 - Dairy
-- Draft
 - Erythritol
 - Fruit
 - Hi-Protein
@@ -17,6 +16,7 @@ tags:
 - Low-Fat
 - Low-Sugar
 - Polysaccharide Gum
+- Promising
 - Sucralose
 - Tylo Powder (CMC)
 - Xylitol
