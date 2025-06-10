@@ -87,6 +87,20 @@ DEFAULT_TAGS_EXACT = {
     '(Deluxe)': 'Deluxe',
     'CMC': 'Tylo Powder (CMC)',
 }
+# these are removed before adding them back (or not, when they do not apply any more)
+CALCULATED_TAGS = {
+    'Allulose',
+    'Erythritol',
+    'Hi-Protein',
+    'Low-Fat',
+    'Low-Sugar',
+    'Light',
+    'Monk-Fruit',
+    'Scoopable',
+    'Stevia',
+    'Sucralose',
+    'Xylitol',
+}
 AUTO_LINK_STOP_WORDS = {
     'Condensed milk', 'Cream 32%', 'Cream Punch', 'Evaporated milk', 'Extract',
     'Flavor drops', 'Irish Cream', 'Milk 3.5%', 'Peanut butter', 'Philadelphia Milka',
@@ -101,6 +115,7 @@ def add_default_tags(md_text, docmeta):
     md_text_title_lc = md_text.splitlines()[0].lower()
     docmeta.setdefault('description', 'Recipe for the Ninja Creami Deluxe [24oz]')
     docmeta.setdefault('tags', ['Draft'])
+    docmeta['tags'] = list(set(docmeta['tags']) - CALCULATED_TAGS)
     kcal = re.search(r'100g; ([.0-9]+) kcal;', md_text)
     if kcal and float(kcal.group(1)) <= TAG_LIGHT_KCAL_LIMIT:
         docmeta['tags'].append('Light')
