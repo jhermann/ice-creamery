@@ -1,5 +1,7 @@
 ---
 description: Recipe for the Ninja Creami Deluxe [24oz]
+excluded_tags:
+- Vanilla
 tags:
 - Dairy
 - Emulsifier
@@ -8,7 +10,6 @@ tags:
 - Low-Sugar
 - Polysaccharide Gum
 - Tylo Powder (CMC)
-- Vanilla
 - Xylitol
 ---
 # Pistachio Ice Cream (Deluxe)

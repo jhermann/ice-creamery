@@ -1,5 +1,7 @@
 ---
 description: Recipe for the Ninja Creami Deluxe [24oz]
+excluded_tags:
+- Vanilla
 tags:
 - Dairy
 - Erythritol
@@ -12,7 +14,6 @@ tags:
 - Polysaccharide Gum
 - Sucralose
 - Tylo Powder (CMC)
-- Vanilla
 - Xylitol
 ---
 # Blueberry Buttermilk (Deluxe)

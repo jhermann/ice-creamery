@@ -1,5 +1,7 @@
 ---
 description: Recipe for the Ninja Creami Deluxe [24oz]
+excluded_tags:
+- Vanilla
 tags:
 - Dairy
 - Erythritol
@@ -9,7 +11,6 @@ tags:
 - Polysaccharide Gum
 - Sorbet
 - Tylo Powder (CMC)
-- Vanilla
 - Xylitol
 ---
 # Winter Apple (Deluxe)

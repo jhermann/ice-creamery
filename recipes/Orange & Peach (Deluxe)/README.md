@@ -1,5 +1,7 @@
 ---
 description: Recipe for the Ninja Creami Deluxe [24oz]
+excluded_tags:
+- Vanilla
 tags:
 - Dairy
 - Erythritol
@@ -7,7 +9,6 @@ tags:
 - Low-Fat
 - Polysaccharide Gum
 - Tylo Powder (CMC)
-- Vanilla
 - Xylitol
 ---
 # Orange & Peach (Deluxe)

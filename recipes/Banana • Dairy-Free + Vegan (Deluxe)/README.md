@@ -1,5 +1,7 @@
 ---
 description: Recipe for the Ninja Creami Deluxe [24oz]
+excluded_tags:
+- Vanilla
 tags:
 - Dairy-Free
 - Promising
@@ -12,7 +14,6 @@ tags:
 - Scoopable
 - Sucralose
 - Tylo Powder (CMC)
-- Vanilla
 - Vegan
 - Xylitol
 ---
