@@ -43,9 +43,9 @@ Rating: 😋 (untested)
 **Dry**
 
   - _45g_ PB powder [Fitmeals]
-  - _25g_ [Xylitol](/ice-creamery/info/ingredients/#xylitol-e967){target="_blank"}<sup>↗</sup> • POD = 100%; GI = 7
+  - _30g_ [Erythritol (E968)](/ice-creamery/info/ingredients/#erythritol-e968){target="_blank"}<sup>↗</sup> • POD = 75%
   - _20g_ [Soy protein isolate (nature) \[Powerstar\]](/ice-creamery/info/ingredients/#soy-protein-isolate){target="_blank"}<sup>↗</sup> • 1kg bag, unsweetened, unflavored
-  - _15g_ [Erythritol (E968)](/ice-creamery/info/ingredients/#erythritol-e968){target="_blank"}<sup>↗</sup> • POD = 75%
+  - _10g_ [Xylitol](/ice-creamery/info/ingredients/#xylitol-e967){target="_blank"}<sup>↗</sup> • POD = 100%; GI = 7
   - _2g_ Salt
   - _1.5g_ [Lecithin (Soy) \[My Lecithin\]](/ice-creamery/info/ingredients/#soy-lecithin-e322){target="_blank"}<sup>↗</sup>
 
@@ -65,9 +65,9 @@ Rating: 😋 (untested)
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
 
 # NUTRITIONAL & OTHER INFO
-- **Nutritional values per 100g/ml:** 100g; 86.3 kcal; fat 3.0g; carbs 10.2g; sugar 0.5g; protein 7.8g; salt 0.4g
-- **Nutritional values per ½ Deluxe Tub:** 360g; 310.8 kcal; fat 11.0g; carbs 36.7g; sugar 1.7g; protein 28.1g; salt 1.4g
-- **Nutritional values total:** 720g; 621.7 kcal; fat 21.9g; carbs 73.4g; sugar 3.5g; protein 56.2g; salt 2.9g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 29.67
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 36.14% • Low-Sugar • Hi-Protein
+- **Nutritional values per 100g/ml:** 100g; 81.9 kcal; fat 3.0g; carbs 10.2g; sugar 0.5g; protein 7.8g; salt 0.4g
+- **Nutritional values per ½ Deluxe Tub:** 360g; 294.8 kcal; fat 11.0g; carbs 36.7g; sugar 1.7g; protein 28.1g; salt 1.4g
+- **Nutritional values total:** 720g; 589.6 kcal; fat 21.9g; carbs 73.4g; sugar 3.5g; protein 56.2g; salt 2.9g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.92
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 38.11% • Low-Sugar • Hi-Protein
 - **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 18.6g • 2.6%
