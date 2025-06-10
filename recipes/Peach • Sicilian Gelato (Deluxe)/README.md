@@ -9,6 +9,7 @@ tags:
 - Low-Fat
 - Low-Sugar
 - Polysaccharide Gum
+- Scoopable
 - Sucralose
 - Vegan
 - Xylitol

@@ -12,6 +12,7 @@ tags:
 - Light
 - Low-Fat
 - Low-Sugar
+- Scoopable
 - Vegan
 - Xylitol
 ---

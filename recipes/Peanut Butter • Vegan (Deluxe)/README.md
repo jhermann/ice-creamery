@@ -7,6 +7,7 @@ tags:
 - Erythritol
 - Hi-Protein
 - Low-Sugar
+- Scoopable
 - Vegan
 - Xylitol
 ---

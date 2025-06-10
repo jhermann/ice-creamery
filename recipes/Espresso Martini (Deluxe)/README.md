@@ -5,6 +5,7 @@ tags:
 - Erythritol
 - Low-Sugar
 - Polysaccharide Gum
+- Scoopable
 - Tylo Powder (CMC)
 - Vanilla
 - Xylitol

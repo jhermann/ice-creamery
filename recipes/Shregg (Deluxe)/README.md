@@ -9,6 +9,7 @@ tags:
 - Light
 - Low-Fat
 - Polysaccharide Gum
+- Scoopable
 - Sucralose
 - Tylo Powder (CMC)
 ---

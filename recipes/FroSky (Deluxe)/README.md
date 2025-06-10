@@ -7,6 +7,7 @@ tags:
 - Hi-Protein
 - Low-Fat
 - Polysaccharide Gum
+- Scoopable
 - Tylo Powder (CMC)
 - Xylitol
 ---

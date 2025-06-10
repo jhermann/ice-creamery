@@ -9,6 +9,7 @@ tags:
 - Sorbet
 - Tylo Powder (CMC)
 - Polysaccharide Gum
+- Scoopable
 - Xylitol
 ---
 # Mandarin Sherbet (Deluxe)

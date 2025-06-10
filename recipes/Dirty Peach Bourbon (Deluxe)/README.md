@@ -8,6 +8,7 @@ tags:
 - Fruit
 - Low-Fat
 - Polysaccharide Gum
+- Scoopable
 - Sucralose
 - Tylo Powder (CMC)
 - Xylitol

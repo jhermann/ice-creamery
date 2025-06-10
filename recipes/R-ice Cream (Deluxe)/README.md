@@ -8,6 +8,7 @@ tags:
 - Low-Fat
 - Low-Sugar
 - Polysaccharide Gum
+- Scoopable
 - Stevia
 - Tylo Powder (CMC)
 - Vanilla

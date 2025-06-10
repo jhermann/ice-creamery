@@ -17,6 +17,7 @@ tags:
 - Low-Sugar
 - Polysaccharide Gum
 - Promising
+- Scoopable
 - Sucralose
 - Tylo Powder (CMC)
 - Xylitol

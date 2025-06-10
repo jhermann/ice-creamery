@@ -9,6 +9,7 @@ tags:
 - Hi-Protein
 - Low-Sugar
 - Polysaccharide Gum
+- Scoopable
 - Sucralose
 - Vegan
 - Xylitol

@@ -13,6 +13,7 @@ tags:
 - Hi-Protein
 - Low-Fat
 - Low-Sugar
+- Scoopable
 - Vegan
 - Xylitol
 ---

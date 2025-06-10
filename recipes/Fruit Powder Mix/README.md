@@ -11,6 +11,7 @@ tags:
 - Low-Fat
 - Low-Sugar
 - Polysaccharide Gum
+- Scoopable
 - Tylo Powder (CMC)
 - Xylitol
 ---

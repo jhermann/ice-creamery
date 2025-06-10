@@ -6,6 +6,7 @@ tags:
 - Fruit
 - Hi-Protein
 - Low-Fat
+- Scoopable
 - Sorbet
 - Tylo Powder (CMC)
 - Vanilla

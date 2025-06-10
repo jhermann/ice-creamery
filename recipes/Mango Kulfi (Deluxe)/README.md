@@ -6,6 +6,7 @@ tags:
 - Erythritol
 - Fruit
 - Polysaccharide Gum
+- Scoopable
 - Tylo Powder (CMC)
 - Xylitol
 ---

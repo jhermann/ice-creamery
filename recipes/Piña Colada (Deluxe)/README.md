@@ -6,6 +6,7 @@ tags:
 - Draft
 - Erythritol
 - Fruit
+- Scoopable
 - Tylo Powder (CMC)
 - Polysaccharide Gum
 - Xylitol

@@ -12,6 +12,7 @@ tags:
 - Low-Fat
 - Low-Sugar
 - Polysaccharide Gum
+- Scoopable
 - Sorbet
 - Sucralose
 - Tylo Powder (CMC)

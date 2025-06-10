@@ -6,6 +6,7 @@ tags:
 - Fruit
 - Low-Fat
 - Polysaccharide Gum
+- Scoopable
 - Sorbet
 - Tylo Powder (CMC)
 - Xylitol
