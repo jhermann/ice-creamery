@@ -4,6 +4,18 @@ search:
 ---
 # Tags<img style="float: right; margin-left: 1.5em;" width=160 alt="Logo" src="../assets/logo-tags.png" />
 
+Tags are keywords used to describe and categorize the recipes,
+mostly based on traits of the ingredients they use.
+
+Some tags probably need an explanation:
+
+ * [Draft](#tag:draft) marks recipes that are incomplete, or not tested yet.
+ * [Promising](#tag:promising) recipes showed to be viable, but have potential to be improved.
+ * [Favorite](#tag:favorite) are *my* favorites. YMMV, but if you're new here, it is a good pre-selection.
+ * [Light](#tag:light) recipes have an energy value of at most 75 kcal/100g.
+ * [Polysaccharide Gum](#tag:polysaccharide-gum) contain one of LBG, xanthan, guar or tara gum.
+ * [Alcohol](#tag:alcohol) only marks explicitly 'boozy' recipes; many others contain small amounts of pure ethanol (typically 4g) to help with [Freezing Point Depression](../info/glossary/#freezing-point-depression-factor-fpdf).
+
 <!-- material/tags -->
 
 ## Light Recipes
