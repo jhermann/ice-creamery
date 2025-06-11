@@ -12,7 +12,6 @@ tags:
 - Erythritol
 - Fruit
 - Hi-Protein
-- Light
 - Low-Fat
 - Low-Sugar
 - Polysaccharide Gum

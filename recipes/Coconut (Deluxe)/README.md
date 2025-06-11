@@ -5,10 +5,12 @@ excluded_tags:
 tags:
 - Coconut
 - Dairy
+- Emulsifier
 - Erythritol
 - Low-Sugar
 - Polysaccharide Gum
 - Scoopable
+- Sucralose
 - Tylo Powder (CMC)
 - Xylitol
 ---

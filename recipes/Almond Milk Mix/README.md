@@ -1,10 +1,11 @@
 ---
 description: Prepared mix for almond milk bases.
+excluded_tags:
+- Allulose
+- Scoopable
 tags:
 - Draft
 - Erythritol
-- Low-Fat
-- Low-Sugar
 - Polysaccharide Gum
 - Xylitol
 ---

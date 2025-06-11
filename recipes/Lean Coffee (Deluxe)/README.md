@@ -11,7 +11,6 @@ tags:
 - Low-Sugar
 - Polysaccharide Gum
 - Scoopable
-- Stevia
 - Sucralose
 - Tylo Powder (CMC)
 - Xylitol

@@ -6,9 +6,10 @@ tags:
 - Dairy
 - Erythritol
 - Fruit
-- Stevia
-- Tylo Powder (CMC)
 - Polysaccharide Gum
+- Stevia
+- Sucralose
+- Tylo Powder (CMC)
 - Xylitol
 ---
 # Strawberry Cheesecake (Deluxe)
