@@ -15,6 +15,7 @@ tags:
 - Xylitol
 ---
 # Shregg 2 (Deluxe)
+<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="../Shregg%20%28Deluxe%29/logo-shregg.png" />
 
 [Egg&cream punch](https://world.openfoodfacts.org/product/4001486916119/sahne-eierpunsch-katlenburger) ice cream.
 

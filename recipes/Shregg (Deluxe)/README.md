@@ -14,6 +14,7 @@ tags:
 - Tylo Powder (CMC)
 ---
 # Shregg (Deluxe)
+<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="../Shregg%20%28Deluxe%29/logo-shregg.png" />
 
 Egg liqueur ice cream.
 
