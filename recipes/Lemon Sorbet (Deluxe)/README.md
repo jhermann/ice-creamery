@@ -19,6 +19,7 @@ tags:
 - Xylitol
 ---
 # Lemon Sorbet (Deluxe)
+<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="logo-lemon-sorbet.png" />
 
 > 🌿 **Vegan & Dairy-free**<br />Recipe is using only lemon juice and no dairy.
 
