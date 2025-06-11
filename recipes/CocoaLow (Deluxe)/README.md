@@ -17,6 +17,7 @@ tags:
 - Xylitol
 ---
 # CocoaLow (Deluxe)
+<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/assets/chocolate-ice-cream-logo.png" />
 
 > 🌿 **Vegan & Dairy-free**<br />Recipe is using only soy milk and protein.
 

@@ -15,6 +15,7 @@ tags:
 - Xylitol
 ---
 # Coconut (Deluxe)
+<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="../Coconut%20%28Deluxe%29/logo-coconut.png" />
 
 Coconut is unsurprisingly the dominant flavor. Process on Ice Cream.
 

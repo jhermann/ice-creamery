@@ -12,6 +12,7 @@ tags:
 - Xylitol
 ---
 # Piña Colada (Deluxe)
+<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="logo-pina-colada.png" />
 
 # INGREDIENTS
 
