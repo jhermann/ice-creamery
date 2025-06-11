@@ -18,7 +18,7 @@ These are some basic facts applying to all recipes.
 
 ## 🤓 Remotely Monitor Your Freezer
 Freezers, especially auto-defrosting ones, do strange things. If as a nerd you want to have an eye on that,
-and also know how cold your tubs come out of it, you can use a smarthome remote sensor than works via Bluetooth or Wi-Fi.
+and also know how cold your tubs come out of it, you can use a smarthome remote sensor that works via Bluetooth or Wi-Fi.
 
 > <img width=360 alt="App screenshot" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/assets/freezer_remote_sensor_2025-06-10.png" class="zoomable" />
 > 
