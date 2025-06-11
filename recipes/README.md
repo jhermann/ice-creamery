@@ -52,3 +52,15 @@ recipe template document looks like:
 > <img width=640 alt="spreadsheet-template" src="https://github.com/jhermann/ice-creamery/blob/main/assets/spreadsheet-template.png?raw=true" />
 >
 > *The spreadsheet with ingredient facts and ice cream calculator formulas*
+
+## Updating automatically generated tags
+Updating auto-tags includes adding new ones created by additional code,
+but also removing them when based on metrics that are no longer true (PAC, energy values).
+
+Use this command in the `recipes` directory:
+
+    for i in */README.md; do \
+        ( cd "$(dirname "$i")"; test -e Ice-Cream-Recipes.csv && ice-cream-recipe.py -E --tags || :; echo; ) \
+    done
+
+Then review with `git add -p`, commit, and push.
