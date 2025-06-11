@@ -6,9 +6,9 @@ tags:
 - Draft
 - Erythritol
 - Fruit
+- Polysaccharide Gum
 - Scoopable
 - Tylo Powder (CMC)
-- Polysaccharide Gum
 - Xylitol
 ---
 # Piña Colada (Deluxe)

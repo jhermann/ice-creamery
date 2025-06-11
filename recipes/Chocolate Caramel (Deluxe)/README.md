@@ -8,8 +8,8 @@ tags:
 - Favorite
 - Hi-Protein
 - Low-Sugar
-- Tylo Powder (CMC)
 - Polysaccharide Gum
+- Tylo Powder (CMC)
 - Xylitol
 ---
 # Chocolate Caramel (Deluxe)

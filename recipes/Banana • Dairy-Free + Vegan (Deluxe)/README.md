@@ -4,13 +4,13 @@ excluded_tags:
 - Vanilla
 tags:
 - Dairy-Free
-- Promising
 - Erythritol
 - Fruit
 - Light
 - Low-Fat
 - Low-Sugar
 - Polysaccharide Gum
+- Promising
 - Scoopable
 - Sucralose
 - Tylo Powder (CMC)

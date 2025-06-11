@@ -2,8 +2,8 @@
 description: PB swirl as a manual mix-in for refreezable bases.
 tags:
 - Draft
-- Xylitol
 - Vegan
+- Xylitol
 ---
 # PB Swirl
 <img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/recipes/PB%20Mix/pb-ice-cream-logo.png" />

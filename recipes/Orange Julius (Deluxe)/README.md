@@ -6,11 +6,11 @@ tags:
 - Fruit
 - Hi-Protein
 - Low-Fat
+- Polysaccharide Gum
 - Scoopable
 - Sorbet
 - Tylo Powder (CMC)
 - Vanilla
-- Polysaccharide Gum
 - Xylitol
 ---
 # Orange Julius (Deluxe)

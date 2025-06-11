@@ -6,10 +6,10 @@ tags:
 - Favorite
 - Fruit
 - Low-Fat
-- Sorbet
-- Tylo Powder (CMC)
 - Polysaccharide Gum
 - Scoopable
+- Sorbet
+- Tylo Powder (CMC)
 - Xylitol
 ---
 # Mandarin Sherbet (Deluxe)
