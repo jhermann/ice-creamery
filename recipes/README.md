@@ -59,8 +59,8 @@ but also removing them when based on metrics that are no longer true (PAC, energ
 
 Use this command in the `recipes` directory:
 
-    for i in */README.md; do \
-        ( cd "$(dirname "$i")"; test -e Ice-Cream-Recipes.csv && ice-cream-recipe.py -E --tags || :; echo; ) \
+    for i in */Ice-Cream-Recipes.csv; do \
+        ( cd "$(dirname "$i")"; ice-cream-recipe.py -E --tags; echo; ) \
     done
 
 Then review with `git add -p`, commit, and push.
