@@ -207,15 +207,31 @@ Alternative natural thickeners include xanthan, guar/tara/carob gum, and pectin.
 *Safety:* Carrageenans are considered GRAS by the FDA, and an EFSA re-evaluation concluded that they are not absorbed intact, and there is no concern with respect to carcinogenicity or genotoxicity. EFSA sees the need to obtain further data though, to address identified gaps.
 
 ### Carboxymethyl Cellulose (CMC / E466)
-
 CMC is used to stabilize and improve the texture of ice cream. It's a thickening agent and emulsifier that helps prevent ice crystals from forming, resulting in a smoother, more scoopable ice cream. It can also improve the ice cream's resistance to melting, keeping it firmer for longer.
 
 Combine it with GMS (emulsifier), in a 7:1 to 4:1 ratio (up to 1% of water content; typically 0.3% GMS and 0.05–0.15% CMC).
 
 *Also know as:* cellulose gum / Tylo / Tylose / Blütenpuder.
 
-### Guar Gum (E412)
+### Gelatin
+Gelatin acts as a stabilizer, preventing ice crystal formation and
+improving the overall texture and shelf life of ice cream by
+preventing it from separating or becoming watery over time.
 
+It effectively traps water, resulting in smaller ice crystals
+and a smoother, less icy texture. Gelatin can also help slow down melting.
+
+Gelatin should be used in moderation (0.15–0.3% by weight),
+as excessive amounts can result in a pudding-like consistency.
+One teaspoon of powdered gelatin is ≈2.8g, so ½–1 tsp in 720g is a good dosage.
+
+It's important to bloom the gelatin (dissolve it in a small amount of liquid),
+before adding it to the base.
+
+Be aware that certain uncooked fruits (mango, pineapple, kiwi, etc.)
+contain enzymes that can break down gelatin and prevent it from gelling.
+
+### Guar Gum (E412)
 Guar gum is a binding agent which combines favorably with LBG or XG. If combined with XG, use a `3GG:1XG` ratio. If replacing XG, use 3 parts GG for 2 parts of XG (3:2 ratio).
 
 For hydration, heat it to 80°C, or let it soak for a few minutes. Guar gum can withstand 80°C for a few minutes, beyond that point it degrades and looses effectiveness.
@@ -224,7 +240,6 @@ For hydration, heat it to 80°C, or let it soak for a few minutes. Guar gum can 
 
 
 ### Locust Bean Gum (LBG / E410)
-
 LBG is a vegetable-based hydrocolloid extracted from the seeds of the carob tree.
 It's a galactomannan polysaccharide, meaning it's made up of sugar molecules (galactose and mannose).
 
