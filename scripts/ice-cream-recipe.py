@@ -254,6 +254,8 @@ def parse_cli(argv=None):
 
     parser.add_argument('-n', '--dry-run', action='store_true',
                         help='Do not write results to file system.')
+    parser.add_argument('-E', '--no-edit', action='store_true',
+                        help='Do not start the editor with a newly written recipe file.')
     parser.add_argument('-t', '--tags-only', action='store_true',
                         help='Only update the tags metadata section.')
     parser.add_argument('--macros', action='store_true',
@@ -513,7 +515,8 @@ def main():
             out.write(md_text)
 
         # Open markdown file in VS Code
-        os.system(f'{os.getenv("GUI_EDITOR", "code")} "{md_file}"')
+        if not args.no_edit:
+            os.system(f'{os.getenv("GUI_EDITOR", "code")} "{md_file}"')
 
 if __name__ == '__main__':
     main()
