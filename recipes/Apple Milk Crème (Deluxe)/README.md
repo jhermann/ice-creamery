@@ -16,6 +16,7 @@ tags:
 - Xylitol
 ---
 # Apple Milk Crème (Deluxe)
+<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="logo-apple-milk-creme.png" />
 
 > 🌿 **Vegan & Dairy-free**<br />Recipe is using only soy milk and protein.
 
