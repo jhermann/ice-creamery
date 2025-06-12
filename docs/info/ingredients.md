@@ -276,7 +276,12 @@ with a maximum of 0.25% to avoid undesirable textures (it becomes slimy beyond t
 To easily mix it with water, dissolve in some oil or mix with other dry ingredients first.
 For liquids, always use a blender or immersion blender.
 
-Combine it with LBG for a cold gel. At certain ratios, like 7:3 LBG to XG,
+*Instant xanthan*, also called "perfected xanthan gum", is designed
+to be easier to dissolve and mix with no clumping and to hydrate faster,
+compared with regular xanthan gum.
+This is achieved by either *pre-hydration* or *agglomeration* (granularization).
+
+Combine xanthan with LBG for a cold gel. At certain ratios, like 7:3 LBG to XG,
 the synergistic effect is maximized, resulting in a harder gel.
 Heating can facilitate the formation of the gel network.
 
