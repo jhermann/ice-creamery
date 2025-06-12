@@ -19,6 +19,10 @@ img.zoomable:active {
 .md-typeset {
   line-height: 1.35;
 }
+.md-typeset h1 {
+  margin-top: 1rem;
+  margin-bottom: .5rem;
+}
 .md-typeset table:not([class]) th,
 .md-typeset table:not([class]) td {
   padding: .3rem .2rem;
