@@ -28,6 +28,8 @@ Process on *Sorbet*, [hold it shortly under running water](https://jhermann.gith
 
 Rating: 😋🍓 (untested)
 
+> 💡 If you can get ahold of it, mulled wine from berries (Bär Gløgg) is a great alternative to the red wine.
+
 # INGREDIENTS
 
 ℹ️ Brand names are in square brackets `[...]`.
