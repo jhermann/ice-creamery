@@ -12,6 +12,7 @@ tags:
 - Low-Sugar
 - Polysaccharide Gum
 - Scoopable
+- Sorbet
 - Sucralose
 - Vegan
 ---
