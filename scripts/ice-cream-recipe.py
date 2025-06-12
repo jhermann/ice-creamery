@@ -106,6 +106,7 @@ AUTO_LINK_STOP_WORDS = {
     'Flavor drops', 'Irish Cream', 'Milk 3.5%', 'Peanut butter', 'Philadelphia Milka',
     'Soy sauce',
 }
+LOGO_IMG = '<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="%s" />'
 
 
 def add_default_tags(md_text, docmeta):
@@ -152,6 +153,10 @@ def read_images():
                 lines = lines[idx+1:]
                 break
         result = {n : x for n, x in enumerate(lines) if '<img ' in x}
+    if 1 not in result: # no logo yet
+        imgnames = [x for x in sorted(Path('.').glob('logo-*.*')) if x.suffix in {'.png', '.jpg', '.jpeg'}]
+        if imgnames:
+            result[1] = LOGO_IMG % str(imgnames[0])
     return result or {999: '> <img width=360 alt="Spun Ice Cream" src="" class="zoomable" />'}
 
 def read_meta():
