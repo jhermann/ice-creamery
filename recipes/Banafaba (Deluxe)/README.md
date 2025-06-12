@@ -15,6 +15,7 @@ tags:
 - Hi-Protein
 - Low-Fat
 - Low-Sugar
+- Sucralose
 - Vegan
 - Xylitol
 ---
@@ -47,7 +48,7 @@ Rating: 😋🍌 (untested)
   - _300ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
   - _15g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • Sweetness = 60%; GI = 5; Density = 1.26 g/ml
   - _10g_ [Fruit Brandy 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup>
-  - _5 drops_ Vanilla flavor drops [IronMaxx] • to taste
+  - _5 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
 
 **Dry**
 
