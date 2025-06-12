@@ -48,8 +48,8 @@ Rating: 😋🍎🍏 (untested)
   - _350g_ Apple Sauce (no added sugar) [Gut Bio/Aldi] • 1 jar = 355g
   - _125ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
   - _15g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • POD = 60%; GI = 5; Density = 1.26 g/ml
-  - _3 drops_ Flavor drops Caramel (sucralose) [IronMaxx]
-  - _3 drops_ Flavor drops Vanilla (sucralose) [IronMaxx]
+  - _3 drops_ Flavor drops Caramel (sucralose) [IronMaxx] • to taste
+  - _3 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
 
 **Dry**
 
@@ -57,7 +57,7 @@ Rating: 😋🍎🍏 (untested)
   - _25g_ [Soy protein isolate (nature) \[Powerstar\]](/ice-creamery/info/ingredients/#soy-protein-isolate){target="_blank"}<sup>↗</sup> • 1kg bag, unsweetened, unflavored
   - _15g_ [Inulin \[Vit4ever\]](/ice-creamery/info/ingredients/#inulin){target="_blank"}<sup>↗</sup> • Sweetness = 8%; GI ~= 0
   - _15g_ [Xylitol](/ice-creamery/info/ingredients/#xylitol-e967){target="_blank"}<sup>↗</sup> • POD = 100%; GI = 7
-  - _2g_ Cinnamon (Ceylon) • 1tsp = 3g
+  - _2g_ Cinnamon (Ceylon) • to taste; 1tsp = 3g
   - _2g_ [Glycerol Monostearate (E471) \[Bulk\]](/ice-creamery/info/ingredients/#glycerol-monostearate-gms-e471){target="_blank"}<sup>↗</sup>
   - _2g_ [Tylose powder (E466 / CMC) \[GoodBake\]](/ice-creamery/info/ingredients/#carboxymethyl-cellulose-cmc-e466){target="_blank"}<sup>↗</sup>
   - _2g_ Salt
