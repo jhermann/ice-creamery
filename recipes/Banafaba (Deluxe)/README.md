@@ -11,6 +11,7 @@ tags:
 - Draft
 - Erythritol
 - Fruit
+- Gum-Free
 - Hi-Protein
 - Low-Fat
 - Low-Sugar
@@ -22,8 +23,10 @@ tags:
 
 > 🌿 **Vegan & Dairy-free**<br />Recipe is using only soy milk and protein.
 
+Since there are no extra thickeners, the base is relatively fluid.
+
 Process on *Frozen Yogurt*, [hold it shortly under running water](https://jhermann.github.io/ice-creamery/info/tips%2Btricks/#handling-of-icy-sides-bottom)
-*after* that.Then a scrape-down and a respin.
+*after* that. Then a scrape-down and a respin.
 
 > <img width=360 alt="Spun Ice Cream" src="" class="zoomable" />
 
@@ -44,7 +47,7 @@ Rating: 😋🍌 (untested)
   - _300ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
   - _15g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • Sweetness = 60%; GI = 5; Density = 1.26 g/ml
   - _10g_ [Fruit Brandy 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup>
-  - _2-7 drops_ Vanilla flavor drops [IronMaxx] • to taste
+  - _5 drops_ Vanilla flavor drops [IronMaxx] • to taste
 
 **Dry**
 
@@ -64,6 +67,7 @@ Rating: 😋🍌 (untested)
  1. Weigh and mix dry ingredients, easiest by adding to a jar with a secure lid and shaking vigorously.
  1. Pour into the tub and *QUICKLY* use an immersion blender on full speed to homogenize everything.
  1. Add remaining ingredients (to the MAX line) and stir with a spoon.
+ 1. Before freezing, let it rest in the fridge for at least 2 hours.
  1. Put on the lid, freeze for 24h, then spin as usual. Flatten any humps before that.
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
 
