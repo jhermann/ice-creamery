@@ -1,9 +1,11 @@
 ---
 description: Recipe for the Ninja Creami Deluxe [24oz]
-tags:
-- Draft
-- Low-Sugar
+excluded_tags:
 - Vanilla
+tags:
+- Emulsifier
+- Gum-Free
+- Low-Sugar
 - Xylitol
 ---
 # ChiaChoco (Deluxe)
