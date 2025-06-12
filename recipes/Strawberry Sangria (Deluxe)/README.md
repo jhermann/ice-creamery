@@ -34,8 +34,9 @@ Rating: 😋🍓 (untested)
 
 **Wet**
 
-  - _450g_ Strawberries
+  - _450g_ Strawberries • Alternatives: blueberries, berry mix, ...
   - _200ml_ Red Wine 13 vol% (dry) • also works with rosé or white wine
+  - _25ml_ Lime juice + zest (organic) [REWE Bio] • 1 lime = 60..65g
   - _10g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • Sweetness = 60%; GI = 5; Density = 1.26 g/ml
   - _10 drops_ Flavor drops Strawberry (sucralose) [IronMaxx] • to taste
 
@@ -47,7 +48,7 @@ Rating: 😋🍓 (untested)
 
 **Fill to MAX**
 
-  - _38ml_ Water to MAX line
+  - _13ml_ Water to MAX line
 
 # DIRECTIONS
 
@@ -60,9 +61,9 @@ Rating: 😋🍓 (untested)
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
 
 # NUTRITIONAL & OTHER INFO
-- **Nutritional values per 100g/ml:** 100g; 54.8 kcal; fat 0.3g; carbs 5.5g; sugar 4.0g; protein 0.5g; salt 0.1g
-- **Nutritional values per ½ Deluxe Tub:** 360g; 197.4 kcal; fat 0.9g; carbs 19.9g; sugar 14.3g; protein 1.8g; salt 0.5g
-- **Nutritional values total:** 720g; 394.7 kcal; fat 1.8g; carbs 39.8g; sugar 28.6g; protein 3.7g; salt 1.1g
+- **Nutritional values per 100g/ml:** 100g; 55.7 kcal; fat 0.3g; carbs 5.8g; sugar 4.0g; protein 0.5g; salt 0.1g
+- **Nutritional values per ½ Deluxe Tub:** 360g; 200.5 kcal; fat 0.9g; carbs 20.9g; sugar 14.5g; protein 1.9g; salt 0.5g
+- **Nutritional values total:** 720g; 401.0 kcal; fat 1.8g; carbs 41.9g; sugar 29.1g; protein 3.8g; salt 1.1g
 - **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 32.02
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 3.71% • LOW-FAT • Low-Sugar
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 3.75% • LOW-FAT • Low-Sugar
 - **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 0.0g • 0.0%
