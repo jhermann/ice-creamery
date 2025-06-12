@@ -48,5 +48,5 @@ link the recipe name using Markdown format, with the URL prefix
 "/ice-creamery/" followed by the first letter of the name as a 2nd path component,
 and finally followed by the FULL original recipe name.
 url-encode that link. so to reiterate, the links have the markdown format
-"[shortened recipe name](url-enconded full recipe name)".
+"[shortened recipe name](url-encoded full recipe name)".
 -->
