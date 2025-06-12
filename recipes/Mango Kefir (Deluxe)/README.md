@@ -45,7 +45,7 @@ Rating: 😋😋😋 (flavor is good, but needs to be creamier)
 
 **Wet**
 
-  - _400g_ Kefir mild 1.5% [Milsani / Aldi] • 500g container
+  - _400g_ Kefir mild 1.5% [Milsani / Aldi] • 500g container • Alternative: Buttermilk
   - _50g_ [Cream Cheese 23% \[Exquisa\]](/ice-creamery/info/ingredients/#cream-cheese){target="_blank"}<sup>↗</sup>
   - _15g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • Sweetness = 60%; GI = 5; Density = 1.26 g/ml
   - _10g_ [Brandy “Williams Birne” 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup>
