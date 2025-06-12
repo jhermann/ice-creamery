@@ -5,6 +5,7 @@ excluded_steps:
 excluded_tags:
 - Vanilla
 tags:
+- Dairy-Free
 - Draft
 - Erythritol
 - Hi-Protein
@@ -13,6 +14,7 @@ tags:
 - Scoopable
 - Sucralose
 - Tylo Powder (CMC)
+- Vegan
 - Xylitol
 ---
 # Apple Milk Crème (Deluxe)
