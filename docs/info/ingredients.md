@@ -297,7 +297,9 @@ For a cold-acting mix, combine it with guar gum using a `3GG:1XG` ratio.
 [Xanthan](https://en.wikipedia.org/wiki/Xanthan_gum) works at room temperature.
 To easily mix it with water, dissolve in some oil or mix with other dry ingredients first.
 For liquids, always use a blender or immersion blender.
-Xanthan is stable across a wide pH range, and works well in acidic bases containing fruit or citrus.
+
+Xanthan is stable across a wide pH range (2–12), and functions well in acidic bases containing fruit or citrus.
+It works from −20°C to 120°C, and is also robust to high salinity.
 
 *Instant xanthan*, also called "perfected xanthan gum", is designed
 to be easier to dissolve and mix with no clumping and to hydrate faster,
