@@ -104,7 +104,12 @@ Put it to good use by making a milk shake from the bottom half inch or so (≈1.
 3. Froth it up with a blender, incorporating all of the ice cream.
 4. Pour into a long-drink glass.
 
+> <img width=240 alt="Frozen bottom" src="../milkshake_2025-06-13_1.jpg" class="zoomable" />
+> <img width=240 alt="Blended frothy" src="../milkshake_2025-06-13_2.jpg" class="zoomable" />
+
 We might eat out of the tub, but only babarians drink out of it. 😉
+
+> <img width=240 alt="Served" src="../milkshake_2025-06-13_3.jpg" class="zoomable" />
 
 ### ⛔ No Premature Thawing
 It is *not* recommended to use hot water *before* the 1st (main) processing step!
