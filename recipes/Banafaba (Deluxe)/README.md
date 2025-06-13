@@ -16,6 +16,7 @@ tags:
 - Low-Fat
 - Low-Sugar
 - Sucralose
+- Tylo Powder (CMC)
 - Vegan
 - Xylitol
 ---
@@ -25,11 +26,14 @@ tags:
 > 🌿 **Vegan & Dairy-free**<br />Recipe is using only soy milk and protein.
 
 Since there are no extra thickeners, the base is relatively fluid.
+It also leads to a rather watery melt, 1g of CMC or another stabilizer will prevent that.
 
-Process on *Frozen Yogurt*, [hold it shortly under running water](https://jhermann.github.io/ice-creamery/info/tips%2Btricks/#handling-of-icy-sides-bottom)
-*after* that. Then a scrape-down and a respin.
+Process on *Sorbet*, [hold it shortly under running water](https://jhermann.github.io/ice-creamery/info/tips%2Btricks/#handling-of-icy-sides-bottom)
+*after* that. Then a scrape-down with compaction, and a respin.
 
-> <img width=360 alt="Spun Ice Cream" src="" class="zoomable" />
+> <img width=240 alt="After Sorbet" src="Banafaba_2025-06-13_1.jpg" class="zoomable" />
+> <img width=240 alt="After Respin" src="Banafaba_2025-06-13_2.jpg" class="zoomable" />
+> <img width=240 alt="Flat + Scooped" src="Banafaba_2025-06-13_3.jpg" class="zoomable" />
 
 Rating: 😋🍌 (untested)
 
@@ -56,10 +60,11 @@ Rating: 😋🍌 (untested)
   - _30g_ [Soy protein isolate (nature) \[Powerstar\]](/ice-creamery/info/ingredients/#soy-protein-isolate){target="_blank"}<sup>↗</sup> • 1kg bag, unsweetened, unflavored
   - _10g_ [Xylitol](/ice-creamery/info/ingredients/#xylitol-e967){target="_blank"}<sup>↗</sup> • Sweetness = 100%; GI = 7
   - _2g_ Vanilla Bean Powder [InterVanilla]
+  - _1g_ [Tylose powder (E466 / CMC) \[GoodBake\]](/ice-creamery/info/ingredients/#carboxymethyl-cellulose-cmc-e466){target="_blank"}<sup>↗</sup> • optional, for chewier texture and slower melting
 
 **Fill to MAX**
 
-  - _53ml_ Water to MAX line
+  - _52ml_ Water to MAX line
 
 # DIRECTIONS
 
@@ -73,9 +78,9 @@ Rating: 😋🍌 (untested)
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
 
 # NUTRITIONAL & OTHER INFO
-- **Nutritional values per 100g/ml:** 100g; 84.1 kcal; fat 2.3g; carbs 11.8g; sugar 2.4g; protein 6.3g; salt 0.1g
-- **Nutritional values per ½ Deluxe Tub:** 360g; 302.7 kcal; fat 8.4g; carbs 42.6g; sugar 8.7g; protein 22.5g; salt 0.5g
-- **Nutritional values total:** 720g; 605.4 kcal; fat 16.9g; carbs 85.2g; sugar 17.4g; protein 45.1g; salt 1.0g
+- **Nutritional values per 100g/ml:** 100g; 84.9 kcal; fat 2.3g; carbs 11.9g; sugar 2.4g; protein 6.3g; salt 0.1g
+- **Nutritional values per ½ Deluxe Tub:** 360g; 305.7 kcal; fat 8.4g; carbs 43.0g; sugar 8.7g; protein 22.5g; salt 0.5g
+- **Nutritional values total:** 720g; 611.4 kcal; fat 16.9g; carbs 85.9g; sugar 17.4g; protein 45.1g; salt 1.0g
 - **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 29.62
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 29.77% • LOW-FAT • Low-Sugar • Hi-Protein
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 29.48% • LOW-FAT • Low-Sugar • Hi-Protein
 - **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 27.9g • 3.9%

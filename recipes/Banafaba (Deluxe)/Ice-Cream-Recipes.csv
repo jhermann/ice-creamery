@@ -1,20 +1,22 @@
 Banafaba (Deluxe);;;;;;;;;;;;
 ;;;;;;;;;;;;
 ;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;
-Nutritional values per 100g/ml;100;g;;84.1;2.3;11.8;2.4;6.3;0.1;;;
-Nutritional values per ½ Deluxe Tub;360;g;;302.7;8.4;42.6;8.7;22.5;0.5;;;
-Nutritional values total;720;g;;605.4;16.9;85.2;17.4;45.1;1.0;;;
+Nutritional values per 100g/ml;100;g;;84.9;2.3;11.9;2.4;6.3;0.1;;;
+Nutritional values per ½ Deluxe Tub;360;g;;305.7;8.4;43.0;8.7;22.5;0.5;;;
+Nutritional values total;720;g;;611.4;16.9;85.9;17.4;45.1;1.0;;;
 ;;;;;;;;;;;;
 FPDF / PAC (target 20..30);29.62;;;;;;;;;;;
-"Protein / Energy Ratio (ok=12%; hi=20%)";29.77%;;;;LOW-FAT;;Low-Sugar;Hi-Protein;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";29.48%;;;;LOW-FAT;;Low-Sugar;Hi-Protein;;;;
 Milk Solids Non-Fat (MSNF, 7-11%);27.9;g;;3.9%;;;;;;;;
 ;;;;;;;;;;;;
 "> 🌿 **Vegan & Dairy-free**<br />Recipe is using only soy milk and protein.
 
 Since there are no extra thickeners, the base is relatively fluid.
+It also leads to a rather watery melt, 1g of CMC or another stabilizer will prevent that.
 
-Process on *Frozen Yogurt*, [hold it shortly under running water](https://jhermann.github.io/ice-creamery/info/tips%2Btricks/#handling-of-icy-sides-bottom)
-*after* that. Then a scrape-down and a respin.
+Process on *Sorbet*, [hold it shortly under running water](https://jhermann.github.io/ice-creamery/info/tips%2Btricks/#handling-of-icy-sides-bottom)
+*after* that. Then a scrape-down with compaction, and a respin.
+
 
 Rating: 😋🍌 (untested)";;;;;;;;;;;;
 ;;;;;;;;;;;;
@@ -37,5 +39,6 @@ Erythritol (E968);30.00;g;2;24.00;0.00;100.00;0.00;0.00;0.00;2.80;;POD = 75%
 Soy protein isolate (nature) [Powerstar];30.00;g;2;372.00;1.00;1.00;0.00;89.80;2.50;;93.00;1kg bag, unsweetened, unflavored
 Xylitol;10.00;g;2;238.00;0.00;100.00;0.00;0.00;0.00;2.20;;"Sweetness = 100%; GI = 7"
 Vanilla Bean Powder [InterVanilla];2.00;g;2;288.00;0.10;13.00;13.00;0.00;0.00;;;
+Tylose powder (E466 / CMC) [GoodBake];1.00;g;2;600.00;;75.00;;;;;;optional, for chewier texture and slower melting
 ;;;;;;;;;;;;
-Water to MAX line;53.00;ml;3;;;;;;;;;
+Water to MAX line;52.00;ml;3;;;;;;;;;
