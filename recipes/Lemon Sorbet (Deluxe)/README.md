@@ -40,19 +40,20 @@ Rating: 😋 (experimental)
   - _400ml_ Water (cold)
   - _125ml_ Lemon juice
   - _1 tsp_ Lemon zest (½ peel or less) • Zest the lemon BEFORE juicing
-  - _10 drops_ Flavor drops Peach / Maracuja [IronMaxx] • with sucralose
+  - _10 drops_ Flavor drops Peach / Maracuja (sucralose) [IronMaxx]
   - _15g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • Sweetness = 60%; GI = 5; Density = 1.26 g/ml
   - _10g_ [Brandy “Williams Birne” 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup>
 
 **Dry**
 
-  - _40g_ [Xylitol](/ice-creamery/info/ingredients/#xylitol-e967){target="_blank"}<sup>↗</sup> • Sweetness = 100%; GI = 7
+  - _15g_ [Erythritol (E968)](/ice-creamery/info/ingredients/#erythritol-e968){target="_blank"}<sup>↗</sup> • POD = 75%
+  - _15g_ [Xylitol](/ice-creamery/info/ingredients/#xylitol-e967){target="_blank"}<sup>↗</sup> • Sweetness = 100%; GI = 7
   - _40g_ ICSv2 [Erythritol / CMC / Tara / XG / Inulin] • [http﹕//bit.ly/4frc4Vj](https://jhermann.github.io/ice-creamery/I/Ice%20Cream%20Stabilizer%20(ICS)/)
   - _1 pinch_ Tumeric • for color
 
 **Fill to MAX**
 
-  - _90ml_ Water to MAX line
+  - _100ml_ Water to MAX line
 
 # DIRECTIONS
 
@@ -65,11 +66,11 @@ Rating: 😋 (experimental)
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
 
 # NUTRITIONAL & OTHER INFO
-- **Nutritional values per 100g/ml:** 100g; 35.7 kcal; fat 0.0g; carbs 11.2g; sugar 0.5g; protein 0.1g; salt 0.1g
-- **Nutritional values per ½ Deluxe Tub:** 360g; 128.7 kcal; fat 0.1g; carbs 40.5g; sugar 1.8g; protein 0.2g; salt 0.3g
-- **Nutritional values total:** 720g; 257.4 kcal; fat 0.1g; carbs 80.9g; sugar 3.5g; protein 0.4g; salt 0.7g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 32.23
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 0.64% • LOW-CAL • LOW-FAT • Low-Sugar • Low-Salt
+- **Nutritional values per 100g/ml:** 100g; 28.0 kcal; fat 0.0g; carbs 9.9g; sugar 0.5g; protein 0.1g; salt 0.1g
+- **Nutritional values per ½ Deluxe Tub:** 360g; 100.7 kcal; fat 0.1g; carbs 35.5g; sugar 1.8g; protein 0.2g; salt 0.3g
+- **Nutritional values total:** 720g; 201.5 kcal; fat 0.1g; carbs 70.9g; sugar 3.5g; protein 0.4g; salt 0.7g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.42
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 0.82% • LOW-CAL • LOW-FAT • Low-Sugar • Low-Salt
 - **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 0.0g • 0.0%
 - **30g Ice Cream Stabilizer (ICSv2) is:** 14.3g erythritol, 1.43g Tylose powder (CMC, E466), 
 0.5g tara gum (E417), 0.15g xanthan (E415),

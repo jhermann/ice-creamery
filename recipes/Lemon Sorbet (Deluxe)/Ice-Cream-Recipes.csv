@@ -1,12 +1,12 @@
 Lemon Sorbet (Deluxe);;;;;;;;;;;;
 ;;;;;;;;;;;;
 ;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;
-Nutritional values per 100g/ml;100;g;;35.7;0.0;11.2;0.5;0.1;0.1;;;
-Nutritional values per ½ Deluxe Tub;360;g;;128.7;0.1;40.5;1.8;0.2;0.3;;;
-Nutritional values total;720;g;;257.4;0.1;80.9;3.5;0.4;0.7;;;
+Nutritional values per 100g/ml;100;g;;28.0;0.0;9.9;0.5;0.1;0.1;;;
+Nutritional values per ½ Deluxe Tub;360;g;;100.7;0.1;35.5;1.8;0.2;0.3;;;
+Nutritional values total;720;g;;201.5;0.1;70.9;3.5;0.4;0.7;;;
 ;;;;;;;;;;;;
-FPDF / PAC (target 20..30);32.23;;;;;;;;;;;
-"Protein / Energy Ratio (ok=12%; hi=20%)";0.64%;;;LOW-CAL;LOW-FAT;;Low-Sugar;;Low-Salt;;;
+FPDF / PAC (target 20..30);30.42;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";0.82%;;;LOW-CAL;LOW-FAT;;Low-Sugar;;Low-Salt;;;
 Milk Solids Non-Fat (MSNF, 7-11%);0.0;g;;0.0%;;;;;;;;
 ;;;;;;;;;;;;
 "> 🌿 **Vegan & Dairy-free**<br />Recipe is using only lemon juice and no dairy.
@@ -25,11 +25,12 @@ Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment
 Water (cold);400.00;ml;1;;;;;;;;;
 Lemon juice;125.00;ml;1;25.00;0.10;3.36;1.65;0.30;0.01;0.02;;
 Lemon zest (½ peel or less);1.00;tsp;1;;;;;;;;;Zest the lemon BEFORE juicing
-Flavor drops Peach / Maracuja [IronMaxx];10.00;drops;1;;;;;;;;;with sucralose
+Flavor drops Peach / Maracuja (sucralose) [IronMaxx];10.00;drops;1;;;;;;;;;
 Glycerin (E422, VG) [hd-line];15.00;g;1;400.00;;99.00;;;;3.70;;"Sweetness = 60%; GI = 5; Density = 1.26 g/ml"
 Brandy “Williams Birne” 40 vol%;10.00;g;1;280.00;;;;;;2.96;;
-Xylitol;40.00;g;2;238.00;;100.00;;;;2.20;;"Sweetness = 100%; GI = 7"
+Erythritol (E968);15.00;g;2;24.00;0.00;100.00;0.00;0.00;0.00;2.80;;POD = 75%
+Xylitol;15.00;g;2;238.00;;100.00;;;;2.20;;"Sweetness = 100%; GI = 7"
 ICSv2 [Erythritol / CMC / Tara / XG / Inulin];40.00;g;2;107.30;0.00;54.70;3.70;0.10;1.70;1.32;;http://bit.ly/4frc4Vj
 Tumeric;1.00;pinch;2;;;;;;;;;for color
 ;;;;;;;;;;;;
-Water to MAX line;90.00;ml;3;;;;;;;;;
+Water to MAX line;100.00;ml;3;;;;;;;;;
