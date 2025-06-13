@@ -24,6 +24,9 @@ tags:
 
 > 🌿 **Vegan & Dairy-free**<br />Recipe is using only soy milk and protein.
 
+This uses aquafaba in the base, and only one mid-sized banana.
+Healthy fat is provided by hemp seeds.
+
 Since there are no extra thickeners, the base is relatively fluid.
 It also leads to a rather watery melt, 1g of CMC or another stabilizer will prevent that.
 
@@ -34,8 +37,12 @@ Process on *Sorbet*, [hold it shortly under running water](https://jhermann.gith
 > <img width=240 alt="After Respin" src="Banafaba_2025-06-13_2.jpg" class="zoomable" />
 > <img width=240 alt="Flat + Scooped" src="Banafaba_2025-06-13_3.jpg" class="zoomable" />
 
-Rating: 😋🍌 
+
+
+Rating: 😋😋😋🍌
+
 Directly after the respin, you get a “soft scoopable” consistency, smooth and crystal-free.
+It’s a tiny bit gritty — from the hemp seeds? The banana flavor is very mild.
 
 # INGREDIENTS
 
