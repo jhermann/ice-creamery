@@ -5,10 +5,10 @@ excluded_steps:
 - are properly hydrated
 - Let blender run
 excluded_tags:
+- Tylo Powder (CMC)
 - Vanilla
 tags:
 - Dairy-Free
-- Draft
 - Erythritol
 - Fruit
 - Gum-Free
@@ -16,7 +16,6 @@ tags:
 - Low-Fat
 - Low-Sugar
 - Sucralose
-- Tylo Powder (CMC)
 - Vegan
 - Xylitol
 ---
@@ -35,7 +34,8 @@ Process on *Sorbet*, [hold it shortly under running water](https://jhermann.gith
 > <img width=240 alt="After Respin" src="Banafaba_2025-06-13_2.jpg" class="zoomable" />
 > <img width=240 alt="Flat + Scooped" src="Banafaba_2025-06-13_3.jpg" class="zoomable" />
 
-Rating: 😋🍌 (untested)
+Rating: 😋🍌 
+Directly after the respin, you get a “soft scoopable” consistency, smooth and crystal-free.
 
 # INGREDIENTS
 
@@ -68,7 +68,7 @@ Rating: 😋🍌 (untested)
 
 # DIRECTIONS
 
- 1. In an empty tub, blend the hemp hearts, banana, and squafaba to a smooth puree.
+ 1. In an empty tub, blend the hemp hearts, banana, and aquafaba to a smooth puree.
  1. Then add all the other ‘wet’ ingredients.
  1. Weigh and mix dry ingredients, easiest by adding to a jar with a secure lid and shaking vigorously.
  1. Pour into the tub and *QUICKLY* use an immersion blender on full speed to homogenize everything.
