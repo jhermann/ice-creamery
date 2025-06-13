@@ -204,12 +204,24 @@ Different types of carrageenan exist, each with slightly different properties, i
 
 Alternative natural thickeners include xanthan, guar/tara/carob gum, and pectin. Synergies exist, especially with LBG.
 
+Carrageenan hydrates cold and is primarily used to control wheying off,
+leading to a better melting behaviour.
+
 *Safety:* Carrageenans are considered GRAS by the FDA, and an EFSA re-evaluation concluded that they are not absorbed intact, and there is no concern with respect to carcinogenicity or genotoxicity. EFSA sees the need to obtain further data though, to address identified gaps.
 
 ### Carboxymethyl Cellulose (CMC / E466)
-CMC is used to stabilize and improve the texture of ice cream. It's a thickening agent and emulsifier that helps prevent ice crystals from forming, resulting in a smoother, more scoopable ice cream. It can also improve the ice cream's resistance to melting, keeping it firmer for longer.
+CMC is used to stabilize and improve the texture of ice cream.
+It's a thickening agent and emulsifier that is very good at
+preventing ice crystals from forming, resulting in a smoother,
+more scoopable ice cream.
+
+It can also improve the ice cream's
+resistance to melting, keeping it firmer for longer.
+It hydrates cold and adds body and chewiness to the ice cream.
 
 Combine it with GMS (emulsifier), in a 7:1 to 4:1 ratio (up to 1% of water content; typically 0.3% GMS and 0.05–0.15% CMC).
+
+CMC forms weak gels by itself but gels well in combination with carrageenan, LBG, or guar gum.
 
 *Also know as:* cellulose gum / Tylo / Tylose / Blütenpuder.
 
@@ -224,6 +236,7 @@ and a smoother, less icy texture. Gelatin can also help slow down melting.
 Gelatin should be used in moderation (0.15–0.3% by weight),
 as excessive amounts can result in a pudding-like consistency.
 One teaspoon of powdered gelatin is ≈2.8g, so ½–1 tsp in 720g is a good dosage.
+When combining with xanthan, use a `3G:1XG` ratio.
 
 It's important to bloom the gelatin (dissolve it in a small amount of liquid),
 before adding it to the base.
@@ -255,7 +268,7 @@ It is synergistic when combined with other hydrocolloids to increase their gelli
  * Fully hydrated at 90°C, gels at about 85°C.
  * Combine with xanthan for a cold gel.
  * Combine with agar to get a less brittle / more elastic gel.
- * Stabilizes ice cream, combined with guar and/or CMC.
+ * Stabilizes ice cream, combined with guar (`2LBG:1GG`) and/or CMC.
 
 *Also know as:* carob / Johannisbrotkernmehl.
 
@@ -263,6 +276,14 @@ It is synergistic when combined with other hydrocolloids to increase their gelli
 Tara can replace guar 1:1 in recipes (and vice versa)
 and will give you slightly better results, on average.
 It creates a creamier, richer mouth feel than guar gum.
+Tara does not produce any taste or ﬂavor-masking properties.
+
+Its composition of sugars is like a 1:1 mix of guar and LBG.
+It does not create any wheying off like LBG,
+so can be used without adding carrageenan.
+
+For full hydration, it needs to be heated to 80°C/176°F,
+but is partly cold soluable.
 
 *Dosage:* 0.05-0.15% for ice cream, sorbet and sherbet.
 
@@ -271,10 +292,12 @@ In ice cream, xanthan is typically used in stabilizer blends (i.e. not in isolat
 at a rate of 0.1% to 0.3% of the total ice cream formulation.
 Some sources suggest starting at around 0.1-0.15% by weight,
 with a maximum of 0.25% to avoid undesirable textures (it becomes slimy beyond that).
+For a cold-acting mix, combine it with guar gum using a `3GG:1XG` ratio.
 
 [Xanthan](https://en.wikipedia.org/wiki/Xanthan_gum) works at room temperature.
 To easily mix it with water, dissolve in some oil or mix with other dry ingredients first.
 For liquids, always use a blender or immersion blender.
+Xanthan is stable across a wide pH range, and works well in acidic bases containing fruit or citrus.
 
 *Instant xanthan*, also called "perfected xanthan gum", is designed
 to be easier to dissolve and mix with no clumping and to hydrate faster,
