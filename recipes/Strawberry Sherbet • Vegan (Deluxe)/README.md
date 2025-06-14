@@ -4,6 +4,7 @@ excluded_tags:
 - Dairy
 - Vanilla
 tags:
+- Dairy-Free
 - Draft
 - Erythritol
 - Fruit
@@ -14,6 +15,7 @@ tags:
 - Sorbet
 - Sucralose
 - Tylo Powder (CMC)
+- Vegan
 - Xylitol
 ---
 # Strawberry Sherbet • Vegan (Deluxe)
