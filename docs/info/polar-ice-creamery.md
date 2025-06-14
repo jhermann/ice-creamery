@@ -171,9 +171,9 @@ Stabilizers are additives that significantly enhance the quality of homemade and
     -   **Gelling:** "Very good at slightly lower temperatures but it does not hold up well to continual Heating."
     -   **Effectiveness:** "Doesn't have the same efficiency as some of the some of the other stabilizers." While it will "increase viscosity," it "just doesn't do a good a job as good a job as controlling Ice Crystal formation and improving mouth feel and overrun."
 
--   **Corn Starch**
+-   **Corn Starch:**
 
-    -   **:Origin:** "Extracted from the endosperm of corn kernels."
+    -   **Origin:** "Extracted from the endosperm of corn kernels."
     -   **Properties:** Has a "strong Flavor" that can be "powdery unpleasant." Does "not end clear, it has an opaque finish." Gluten-free.
     -   **Gelling:** "Can take continual heating very very well."
     -   **General:** Starches are "very popular stabilizer in Asia." They require "a lot more tapioca starch or corn starch than you would for any of the other stabilizers because that's just their process you know they need a lot more to stabilize the free water." Generally, tapioca starch is preferred over corn starch for ice cream due to flavor and clarity.
