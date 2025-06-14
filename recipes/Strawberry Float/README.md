@@ -7,15 +7,14 @@ excluded_steps:
 tags:
 - Favorite
 - Fruit
-- Hi-Protein
 - Low-Fat
 - Low-Sugar
 - Vegan
 ---
 # Strawberry Float
 
-Very refreshing long-drink for hot summer days 🌞,
-based on the [Strawberry Sangria](https://jhermann.github.io/ice-creamery/S/Strawberry%20Sangria%20%28Deluxe%29/) recipe.
+Very refreshing long-drink for hot summer days 🌞, based on the
+[Strawberry Sangria](https://jhermann.github.io/ice-creamery/S/Strawberry%20Sangria%20%28Deluxe%29/) recipe.
 
 > <img width=360 alt="Served as Long Drink" src="Strawberry-Sangria-Float_2025-06-14.jpg" class="zoomable" />
 
@@ -38,6 +37,7 @@ Rating: 😋🥤🥤🍓🍓
  1. Enjoy!
 
 # NUTRITIONAL & OTHER INFO
+
 - **Nutritional values per 100g/ml:** 100ml; 19.2 kcal; fat 0.1g; carbs 2.3g; sugar 1.6g; protein 0.2g; salt 0.1g
 - **Nutritional values per serving:** 354ml; 67.9 kcal; fat 0.4g; carbs 8.3g; sugar 5.8g; protein 0.8g; salt 0.2g
-- **Properties:** LOW-CAL • LOW-FAT • Low-Sugar • Hi-Protein • Low-Salt
+- **Properties:** LOW-CAL • LOW-FAT • Low-Sugar • Low-Salt
