@@ -5,7 +5,7 @@ excluded_tags:
 tags:
 - Alcohol
 - Dairy-Free
-- Draft
+- Favorite
 - Fruit
 - Light
 - Low-Fat
@@ -21,12 +21,13 @@ tags:
 
 > 🌿 **Vegan & Dairy-free**<br />Recipe is using only fruit and no dairy.
 
-Process on *Sorbet*, [hold it shortly under running water](https://jhermann.github.io/ice-creamery/info/tips%2Btricks/#handling-of-icy-sides-bottom)
-*after* that. Then a scrape-down and a respin.
+Process on *Sorbet*, then a scrape-down and a mix-in run.
+Comes out “soft scoopable”, refreeze for at least 1–2 hours.
 
-> <img width=360 alt="Spun Ice Cream" src="" class="zoomable" />
+> <img width=360 alt="After Mix-in" src="Strawberry-Sangria_2025-06-14_1.jpg" class="zoomable" />
+> <img width=360 alt="Scooped" src="Strawberry-Sangria_2025-06-14_2.jpg" class="zoomable" />
 
-Rating: 😋🍓 (untested)
+Rating: 😋🍷🍓🍓🍓
 
 > 💡 If you can get ahold of it, mulled wine from berries (Bär Gløgg) is a great alternative to the red wine.
 
