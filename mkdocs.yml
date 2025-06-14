@@ -1,6 +1,12 @@
 site_name: jhermann's Ice Creamery
 site_url: https://jhermann.github.io/ice-creamery
 repo_url: https://github.com/jhermann/ice-creamery
+copyright: |
+  Copyright &copy; 2025 Jürgen Hermann
+  <a target="_blank" href="https://creativecommons.org/licenses/by-nc/4.0/"
+   ><img style="height: 0.9em;" alt="CC-BY-NC-4.0"
+         src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/assets/logo-cc-by-nc-4.0.png" /></a>
+  • Made with <a target="_blank" href="https://squidfunk.github.io/mkdocs-material/">Material for MkDocs</a>
 
 theme:
   name: material
@@ -9,6 +15,7 @@ theme:
   logo: assets/logo.png
   favicon: assets/favicon.png
   features:
+    - navigation.footer
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.path
@@ -84,6 +91,12 @@ markdown_extensions:
       title: Table of Contents
       permalink: true
       permalink_title: Anchor link to this section for reference
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/jhermann
 
 extra_css:
   - assets/css/link-embeds.css
