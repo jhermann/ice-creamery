@@ -23,18 +23,18 @@ Some tags probably need an explanation:
 
 Recipes that have less than 75 kcal per 100g, sorted by their energy value:
 
-*   **[Lemon Sorbet](/ice-creamery/L/Lemon%20Sorbet%20%28Deluxe%29)** - 35.7 kcal
-*   **[Shregg](/ice-creamery/S/Shregg%20%28Deluxe%29)** - 61.4 kcal
-*   **[CocoaLow](/ice-creamery/C/CocoaLow%20%28Deluxe%29)** - 61.9 kcal
-*   **[Lean Coffee](/ice-creamery/L/Lean%20Coffee%20%28Deluxe%29)** - 66.6 kcal
-*   **[Cherry Ice Cream](/ice-creamery/C/Cherry%20Ice%20Cream%20%28Deluxe%29)** - 67.6 kcal
-*   **[Dulce de Leche • Vegan](/ice-creamery/D/Dulce%20de%20Leche%20%E2%80%A2%20Vegan%20%28Deluxe%29)** - 68.9 kcal
-*   **[Vanil-Low](/ice-creamery/V/Vanil-Low%20%28Deluxe%29)** - 69.1 kcal
-*   **[Winter Apple](/ice-creamery/W/Winter%20Apple%20%28Deluxe%29)** - 69.1 kcal
-*   **[Banana • Dairy-Free + Vegan](/ice-creamery/B/Banana%20%E2%80%A2%20Dairy-Free%20%2B%20Vegan%20%28Deluxe%29)** - 71.8 kcal
-*   **[Blueberry Buttermilk](/ice-creamery/B/Blueberry%20Buttermilk%20%28Deluxe%29)** - 72.1 kcal
-*   **[Banana • Slim](/ice-creamery/B/Banana%20%E2%80%A2%20Slim%20%28Deluxe%29)** - 72.6 kcal
-*   **[Plum Sherbet](/ice-creamery/P/Plum%20Sherbet%20%28Deluxe%29)** - 74.3 kcal
+*   [Lemon Sorbet](/ice-creamery/L/Lemon%20Sorbet%20%28Deluxe%29): 28.0 kcal
+*   [Strawberry Sangria](/ice-creamery/S/Strawberry%20Sangria%20%28Deluxe%29): 56.2 kcal
+*   [CocoaLow](/ice-creamery/C/CocoaLow%20%28Deluxe%29): 61.4 kcal
+*   [Shregg](/ice-creamery/S/Shregg%20%28Deluxe%29): 61.4 kcal
+*   [Lean Coffee](/ice-creamery/L/Lean%20Coffee%20%28Deluxe%29): 66.6 kcal
+*   [Banana • Dairy-Free + Vegan](/ice-creamery/B/Banana%20%E2%80%A2%20Dairy-Free%20%2B%20Vegan%20%28Deluxe%29): 66.9 kcal
+*   [Cherry Ice Cream](/ice-creamery/C/Cherry%20Ice%20Cream%20%28Deluxe%29): 67.6 kcal
+*   [Vanil-Low](/ice-creamery/V/Vanil-Low%20%28Deluxe%29): 69.1 kcal
+*   [Winter Apple](/ice-creamery/W/Winter%20Apple%20%28Deluxe%29): 69.1 kcal
+*   [Blueberry Buttermilk](/ice-creamery/B/Blueberry%20Buttermilk%20%28Deluxe%29): 72.1 kcal
+*   [Banana • Slim](/ice-creamery/B/Banana%20%E2%80%A2%20Slim%20%28Deluxe%29): 72.6 kcal
+*   [Plum Sherbet](/ice-creamery/P/Plum%20Sherbet%20%28Deluxe%29): 74.3 kcal
 
 <!--
 Ask a notebook at https://notebooklm.google.com/
