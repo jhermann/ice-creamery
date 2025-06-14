@@ -64,3 +64,12 @@ Use this command in the `recipes` directory:
     done
 
 Then review with `git add -p`, commit, and push.
+
+<!--
+Prompts:
+
+List recipes from the source "all-recipes.txt" that in their README.md
+do not contain the text '<img style="float: right; margin-left: 1.5em;" width=240 alt="logo"'.
+But: egrep -L 'img.+style..float' recipes/*/README.md
+
+-->
