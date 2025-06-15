@@ -16,6 +16,34 @@ These are some basic facts applying to all recipes.
 
  1. Ingredient amounts fit the 720ml (24oz) container size of the *Creami Deluxe*. For the base model and the *Swirl*, scale the recipes by using ⅔ of all ingredients (66%).
 
+## Regular Cleaning is Key
+
+*Regular* cleaning ensures continuous enjoyment of your creamis,
+and ensures the machine operates under the best conditions,
+especially when it comes to a strong paddle / rod connection.
+
+After you're done with processing a tub,
+clean the tip of the rod with a damp cloth, **instantly and every time**.
+Throw the lid and paddle into your (shallowly) filled sink, so they're submerged.
+That gives you ample opportunity to dig into your freshly made creami,
+without residue drying up or congealing.
+
+> ⚠️ **Using a Dishwasher**<br />
+> The manual might state everything is dishwasher safe, but generally plastic ages faster when exposed to the harsh chemicals in a dishwasher. Cleaning by hand, if you do it regularly, is over in a minute or so.
+
+Later, clean the lid by lifting it out of the water and shaking it horizontally,
+repeating the submerging and lifting+shaking cycle several times.
+You can also hold it under the running tap, the good hole for running water through the lid is the rectangular one in the lever.
+
+> <img width=480 alt="Where to apply running water" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/assets/cleaning-lid-running-water.jpg" class="zoomable" />
+
+Finally, shake every drop of water out of the lid, and let it dry in a rack.
+Keep a firm grip when doing that.
+
+Also, take out the gasket from time to time (at least once a month), and clean it and under it.
+When ice cream overflowed the rim, do that immediately.
+*Do not overstretch the gasket* when removing, cleaning, and putting it back.
+
 ## 🤓 Remotely Monitor Your Freezer
 Freezers, especially auto-defrosting ones, do strange things. If as a nerd you want to have an eye on that,
 and also know how cold your tubs come out of it, you can use a smarthome remote sensor that works via Bluetooth or Wi-Fi.
