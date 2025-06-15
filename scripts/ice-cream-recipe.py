@@ -327,7 +327,8 @@ def main():
                 aux_info = ' • '.join([''] + [x.strip() for x in row[2:] if x.strip()])
                 if aux_info.startswith(' • g • '):
                     aux_info = aux_info[3:]
-                aux_info = aux_info.strip().lstrip('•').strip()
+                if not row[1].strip():
+                    aux_info = aux_info.strip().lstrip('•').strip()
                 nutrition[-1] += aux_info
         elif row[0]:  # non-empty text
             if '[brand names]' not in row[0]:
