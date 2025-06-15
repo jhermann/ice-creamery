@@ -38,7 +38,7 @@ of common ingredients, sorted by PAC.
 |  10 |  44 | 35 | Maltitol (E965) | |
 
 Note that natural ingredients like molasses or maple syrup
-can lightly differ depending on brand, check the sugar content
+can slightly differ depending on brand, check the sugar content
 in the nutrition information. For recipe balancing, this normally
 will have no impact though.
 
