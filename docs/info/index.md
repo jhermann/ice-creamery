@@ -27,6 +27,18 @@ use the Markdown format for the output.
 
     It lists Freezing Point Depression Factors for various ingredients. It also details properties, usage, and effects of different *sweeteners*, describes various *thickeners* (hydrocolloids), and explains the function of *emulsifiers* in improving texture and stability.
 
+*   **Nutritional Values**
+
+    Lists the nutritional values and PAC / MSNF of common ingredients, with a regional bias towards Germany.
+    All the ingrdients are sourcable in German supermarkets (REWE/Aldi), or on amazon.de.
+
+*   **"Polar Ice Creamery" Wisdoms**
+
+    Important ideas and facts regarding various ice cream topics, drawing information directly from
+    the YouTube video transscripts of the well-known *Polar Ice Creamery* channel.
+
+    This accompanies the information on the other pages here, and you can expect some duplication.
+
 *   **Recently Changed**
 
     This section lists recipes that have been created within the last two months.
