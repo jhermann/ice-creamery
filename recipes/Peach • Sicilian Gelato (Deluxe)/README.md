@@ -35,7 +35,7 @@ Rating: 😋🍑 (untested)
 
 **Wet**
 
-  - _150ml_ [Almond milk 1.7% (sugar-free) \[REWE Bio\]](/ice-creamery/info/ingredients/#almond-milk-butter){target="_blank"}<sup>↗</sup> • with guar gum (<1.5g)
+  - _150ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
   - _25g_ [Almond butter (creamy) \[Seba Garden\]](/ice-creamery/info/ingredients/#almond-milk-butter){target="_blank"}<sup>↗</sup>
 
 **Dry**
@@ -50,7 +50,7 @@ Rating: 😋🍑 (untested)
 **Fill to MAX**
 
   - _250g_ Peaches in Grape Juice [Libby’s] • Drained; Can = 410g
-  - _150ml_ [Almond milk (unsweetened) \[REWE Bio\]](/ice-creamery/info/ingredients/#almond-milk-butter){target="_blank"}<sup>↗</sup> • with guar gum (<1.5g)
+  - _150ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
   - _10g_ [Brandy “Williams Birne” 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup>
   - _10g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • POD = 60%; GI = 5; Density = 1.26 g/ml
   - _5 drops_ Flavor drops Peach / Maracuja (sucralose) [IronMaxx] • to taste
@@ -67,9 +67,9 @@ Rating: 😋🍑 (untested)
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
 
 # NUTRITIONAL & OTHER INFO
-- **Nutritional values per 100g/ml:** 100g; 78.8 kcal; fat 2.6g; carbs 14.9g; sugar 3.4g; protein 2.5g; salt 0.3g
-- **Nutritional values per ½ Deluxe Tub:** 360g; 283.6 kcal; fat 9.2g; carbs 53.5g; sugar 12.3g; protein 9.0g; salt 1.1g
-- **Nutritional values total:** 720g; 567.2 kcal; fat 18.4g; carbs 106.9g; sugar 24.6g; protein 18.0g; salt 2.2g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 31.90
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 12.67% • LOW-FAT • Low-Sugar
+- **Nutritional values per 100g/ml:** 100g; 83.4 kcal; fat 2.5g; carbs 15.2g; sugar 3.4g; protein 3.4g; salt 0.3g
+- **Nutritional values per ½ Deluxe Tub:** 360g; 300.1 kcal; fat 9.0g; carbs 54.8g; sugar 12.3g; protein 12.3g; salt 1.0g
+- **Nutritional values total:** 720g; 600.2 kcal; fat 18.1g; carbs 109.6g; sugar 24.6g; protein 24.6g; salt 2.0g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 31.73
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 16.37% • LOW-FAT • Low-Sugar
 - **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 9.3g • 1.3%
