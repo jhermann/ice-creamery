@@ -46,7 +46,6 @@ Rating: 😋🍷🍓🍓🍓
   - _200ml_ Red Wine 13 vol% (dry) • also works with rosé or white wine
   - _20ml_ Lime juice + zest (organic) [REWE Bio] • 1 lime = 60..65g
   - _10g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • Sweetness = 60%; GI = 5; Density = 1.26 g/ml
-  - _10 drops_ Flavor drops Strawberry (sucralose) [IronMaxx] • to taste
 
 **Dry**
 
@@ -56,7 +55,8 @@ Rating: 😋🍷🍓🍓🍓
 
 **Fill to MAX**
 
-  - _68ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
+  - _68ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup> • fill to MAX line
+  - _10 drops_ Flavor drops Strawberry (sucralose) [IronMaxx] • to taste
 
 # DIRECTIONS
 
