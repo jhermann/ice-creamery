@@ -21,6 +21,8 @@ tags:
 
 > 🌿 **Vegan & Dairy-free**<br />Recipe is using only fruit and no dairy.
 
+This creamy sorbet is inspired by Sangria, a refreshing, fruity, alcoholic punch originating from Spain and Portugal.
+
 Process on *Sorbet*, then a scrape-down and a mix-in run.
 Comes out “soft scoopable”, refreeze for at least 1–2 hours.
 
@@ -29,7 +31,10 @@ Comes out “soft scoopable”, refreeze for at least 1–2 hours.
 
 Rating: 😋🍷🍓🍓🍓
 
-> 💡 If you can get ahold of it, mulled wine from berries (Bär Gløgg) is a great alternative to the red wine.
+> <img width=360 alt="Scooped" src="Strawberry-Sangria_Scooped_2025-06-15_1.jpg" class="zoomable" /><br />
+> *Served a day later, with a drizzle of pomegranate syrup.*
+
+💡 If you can get ahold of it, mulled wine from berries (Bär Gløgg) is a great alternative to the red wine.
 
 # INGREDIENTS
 
