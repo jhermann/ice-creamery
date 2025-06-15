@@ -1,6 +1,8 @@
 ---
-description: Sicilian gelato is thickened with cornstarch, a traditional method in
-  Sicily.
+description: Traditional Sicilian gelato, thickened with cornstarch.
+excluded_steps:
+- blender run until
+- remaining ingredients
 tags:
 - Cooked Base
 - Draft
@@ -25,7 +27,7 @@ Process on Lite Ice Cream.
 
 > <img width=360 alt="Spun Ice Cream" src="" class="zoomable" />
 
-Rating: 😋 (untested)
+Rating: 😋🍑 (untested)
 
 # INGREDIENTS
 
@@ -51,7 +53,7 @@ Rating: 😋 (untested)
   - _150ml_ [Almond milk (unsweetened) \[REWE Bio\]](/ice-creamery/info/ingredients/#almond-milk-butter){target="_blank"}<sup>↗</sup> • with guar gum (<1.5g)
   - _10g_ [Brandy “Williams Birne” 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup>
   - _10g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • POD = 60%; GI = 5; Density = 1.26 g/ml
-  - _5 drops_ Flavor drops Peach / Maracuja [IronMaxx] • with sucralose
+  - _5 drops_ Flavor drops Peach / Maracuja (sucralose) [IronMaxx] • to taste
   - _38.5ml_ Water to MAX line
 
 # DIRECTIONS
