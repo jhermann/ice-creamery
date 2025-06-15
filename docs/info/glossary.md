@@ -46,16 +46,20 @@ Generally, a good traditional ice cream contains 12% fat, 7-11% milk solids not-
 For dairy, multiply the non-fat part by 0.093 to get the amount of MSNF in the milk serum (9.3%), if you have no better data like a dry mass percentage.
 
 ## Potere Anti Congelante (PAC)
-
 PAC is the same as FPDF but includes lactose, which constitutes 54.5% of MSNF. Typically SMP (skimmed milk powder) contains 97% MSNF, so 53% of lactose.
+
+Different ingredients have different potentials to depress the FP, e.g. dextrose is almost twice as effective as sugar (PAC 190).
+What this means is that lower amounts of ingredients with a higher PAC, when used instead of sugar, make your ice cream softer straight out the freezer and easier to scoop.
 
 The PAC method should be used when lactose concentration significantly varies or is high enough to make the ice cream too soft.
 
-*Total FPDF:* Sum of (weight[g] * specific FPDF) over all sweeteners (in 100g ice cream mix).
+> **Total FPDF**
+> <br />The formula is `sum(weight[g] * specific FPDF) / total weight * 100` with the sum taken over all sweeteners (in 100g ice cream mix).
+> With a PAC of 5.9 the salt percentage should be added too, even when it is commonly in the low single digit percentages.
 
- Ice cream stored at -18°C with a total FPDF of 20..25 will be easily scoopable, while <15 will be quite hard. Ice cream is considered soft enough when about 65% of the water molecules are frozen at serving temperature (e.g. -11°C).
+Ice cream stored at -18°C with a total FPDF of 20..25 will be easily scoopable, while <15 will be quite hard. Ice cream is considered soft enough when about 65% of the water molecules are frozen at serving temperature (e.g. -11°C).
 
- For milk ice cream, target range is 24-28 (double the serving temp, i.e. 2*-12°C), for sorbets 30-36 (factor 2.5).
+For milk ice cream, target range is 24-28 (double the serving temp, i.e. 2*-12°C), for sorbets 30-36 (factor 2.5).
 
 ## Potere Dolcificante (POD)
 
