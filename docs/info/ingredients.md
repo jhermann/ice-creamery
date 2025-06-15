@@ -64,7 +64,22 @@ Erythritol lowers the freezing point of water drastically (2.8x compared to suga
 It has a strong tendency to crystallise in long-term frozen state (weeks), leading to a hard texture. This can be alleviated by adding at least 0.05% of a stabilizer, and staying below 8% of total weight.
 Mixing with at least 40% of xylitol has the same effect.
 
-*Dosage:* 6.5-8% of an ice cream base.
+*Dosage:* 6.5–8% of an ice cream base.
+
+#### Jungbunzlauer Study: Soft Ice Cream with Erythritol
+The Jungbunzlauer study
+[Erythritol makes a difference – tasty and creamy ice cream without added sugar](https://www.jungbunzlauer.com/fileadmin/content/_PDF/PRINT_PROJECTS/Article_facts/JBL_AR_Erythritol_makes_a_difference_2015-104.pdf)
+from 2015 looks at no-sugar-added dairy ice cream using erythritol,
+that maintains the indulgence of traditional sugar-based products.
+
+In ice cream, erythritol presents two main challenges:
+
+ 1. **Harder Texture / Cold Sensation:** Due to its small molecular size, erythritol has a threefold higher freezing point depression factor than sucrose, requiring lower temperatures to achieve the desired texture.
+ 2. **Crystallization Tendency:** Erythritol has a strong propensity to crystallize after freezing, which significantly hardens the ice cream texture during storage.
+
+To overcome these issues, the study found that a crystallization inhibitor, like other polyols (sorbitol, maltitol, xylitol), is essential to soften the ice cream structure.
+
+An ideal ratio of three parts erythritol to two parts of a second polyol is suggested. The optimal usage level for erythritol was determined to be between 6.5% and 8.0% of the total recipe to maximize taste benefits without causing irreversible textural hardening. High-intensity sweeteners, such as sucralose, are also needed to balance sweetness, as polyols generally provide less sweetness than sugar.
 
 ### Inulin
 
