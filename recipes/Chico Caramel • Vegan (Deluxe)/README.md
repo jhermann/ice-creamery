@@ -26,6 +26,8 @@ tags:
 
 Not the lowest in calories, but rich in chocolate+caramel flavor and high in protein.
 
+> <img width=360 alt="Ingredients" src="Chico-Caramel_2025-06-15_1.png" class="zoomable" />
+
 Process on Lite Ice Cream.
 
 > <img width=360 alt="Spun Ice Cream" src="" class="zoomable" />
