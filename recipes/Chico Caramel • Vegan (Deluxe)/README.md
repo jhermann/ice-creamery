@@ -8,12 +8,12 @@ excluded_tags:
 - Vanilla
 tags:
 - Dairy-Free
-- Draft
 - Erythritol
 - Gum-Free
 - Hi-Protein
 - Low-Fat
 - Low-Sugar
+- Promising
 - Scoopable
 - Sucralose
 - Vegan
@@ -34,7 +34,12 @@ Process on Lite Ice Cream, followed by a scrape-down with compaction and a respi
 > <img width=360 alt="After Respin" src="Chico-Caramel_2025-06-16_2.jpg" class="zoomable" />
 > <img width=360 alt="Scooped" src="Chico-Caramel_2025-06-16_3.jpg" class="zoomable" />
 
-Rating: 😋😋😋🍫🍫
+Rating: 😋😋🍫🍫
+
+> <img width=360 alt="Scooped" src="Chico-Caramel_2025-06-16_4.jpg" class="zoomable" /><br />
+> *Served with whipped cream and strawberry jam.*
+
+🔜 Flavor is good, but the texture is a bit dense, crumbly, and hard. Try it with *either* the chickpeas *or* the dates, for a hopefully better texture.
 
 **Topping & mix-in options**
 
