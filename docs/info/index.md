@@ -30,7 +30,7 @@ use the Markdown format for the output.
 *   **Nutritional Values**
 
     Lists the nutritional values and PAC / MSNF of common ingredients, with a regional bias towards Germany.
-    All the ingrdients are sourcable in German supermarkets (REWE/Aldi), or on amazon.de.
+    All the ingredients are sourcable in German supermarkets (REWE/Aldi), or on amazon.de.
 
 *   **"Polar Ice Creamery" Wisdoms**
 
