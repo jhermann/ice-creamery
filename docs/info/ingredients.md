@@ -289,6 +289,18 @@ It is synergistic when combined with other hydrocolloids to increase their gelli
 
 *Also know as:* carob / Johannisbrotkernmehl.
 
+### Salep
+
+Salep is a thickening agent derived from the tubers of certain orchids, primarily used in Turkish ice cream (*Dondurma*)
+and a warming winter drink of the same name. In ice cream, salep gives it a distinctive chewy and stretchy texture.
+It's also known to provide a unique flavor and aroma.
+
+> ℹ️ Within the EU, where all orchid species are protected, the trade of salep is generally prohibited.
+
+If salep is unavailable, possible substitutes are konjac flour (40–60% glucomannan) and also guar gum (galactomannan).
+
+Glucomannan is a water-soluble polysaccharide that is considered a dietary fiber and primarily composed of mannose and glucose. Guar gum is a galactomannan, primarily composed of galactose and mannose. They can both form gels and be used as thickeners and emulsifiers.
+
 ### Tara Gum (E417)
 Tara can replace guar 1:1 in recipes (and vice versa)
 and will give you slightly better results, on average.
