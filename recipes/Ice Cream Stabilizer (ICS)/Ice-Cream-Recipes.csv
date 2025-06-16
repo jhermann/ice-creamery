@@ -1,33 +1,43 @@
 Ice Cream Stabilizer • ICSv2;;;;;;;;;;;
 ;;;;;;;;;;;
 ;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;
-Nutritional values per 100g/ml;100;g;;107.3;0.0;54.7;3.7;0.1;1.7;1.32;
+Nutritional values per 100g/ml;100;g;;107.2;0.0;54.7;3.7;0.1;1.7;1.32;
 Nutritional values per dose;30;g;;32.2;0.0;16.4;1.1;0.0;0.5;1.32;
-Nutritional values total;218;g;;234.0;0.0;119.3;8.0;0.1;3.7;1.32;
+Nutritional values total;218;g;;233.8;0.0;119.2;8.0;0.3;3.7;1.32;
 ;;;;;;;;;;;
 FPDF;1.42;;;;;;;;;;
 FPDF (w/o salt);1.32;;;;;;;;;;
-;;;;;;;;;;;
-Pre-mixed stabilizer for Ninja Creami recipes.;;;;;;;;;;;
-"It takes handling small amounts of ingredients and their ratio to each other 
+Servings (Deluxe);7.27;;;;;;;;;;
+"> *Pre-mixed stabilizer for Ninja Creami recipes.*
+
+It takes handling small amounts of ingredients and their ratio to each other 
 out of the process of mixing your final ice cream base,
-making the overall process less finicky.";;;;;;;;;;;
-"Use 30g of the mix for a Creami Deluxe tub (24oz),
-And 20g for the regular size (16oz).";;;;;;;;;;;
-"The salt is added for convenience with final recipes,
+making the overall process less finicky.
+
+Use 30g of the mix for a Creami Deluxe tub (24oz, yield 7),
+and 20g for the regular size (16oz, yield 11).
+
+The salt is added for convenience with final recipes,
 and for a FPDF boost.";;;;;;;;;;;
 ;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+http://bit.ly/4frc4Vj;;;;;;;;;;;
 30g Ice Cream Stabilizer (ICSv2) is;"14.3g erythritol, 1.43g Tylose powder (CMC, E466), 
-0.5g tara gum (E417), 0.15g xanthan (E415),
+0.5g guar gum (E412), 0.15g xanthan (E415),
 14.3g inulin, 0.5g salt.";;;;;;;;;;
-10/29/24;ICSv2 – Added inulin;;;;;;;;;;
+;;;;;;;;;;;
 ;;;;;;;;;;;
 ;;;;;;;;;;;
 Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;Comment
 Erythritol (E968);100.00;g;2;0.00;0.00;100.00;0.00;0.00;0.00;2.80;Sweetness = 75%
 Tylose powder (E466, Tylo, CMC);10.00;g;2;143.00;0.00;75.00;0.00;0.00;0.00;;
-Tara gum (E417);3.50;g;2;185.00;0.31;87.00;0.00;2.26;0.00;;
+Guar gum (E412);3.50;g;2;180.00;0.60;84.00;0.00;5.50;0.30;;
 Salt;3.50;g;2;0.00;0.00;0.00;0.00;0.00;100.00;5.90;
 Xanthan gum (E415, XG);1.00;g;2;320.00;0.00;78.00;0.00;6.00;1.00;;
 Xylitol;0.00;g;2;238.00;0.00;100.00;0.00;0.00;0.00;2.20;"Sweetness = 100%; GI = 7"
 Inulin [Vit4ever];100.00;g;2;210.00;0.00;8.00;8.00;0.00;0.20;0.09;"Sweetness = 8%; GI ~= 0"
+;;;;;;;;;;;
+;;;;;;;;;;;
+Oct 29, 2024;ICSv2 – Added inulin;;;;;;;;;;
+Jun 16, 2025;Tara → Guar;;;;;;;;;;
