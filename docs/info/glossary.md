@@ -1,5 +1,9 @@
 # Glossary<img style="float: right; margin-left: 1.5em;" width=160 alt="Logo" src="../logo-glossary.png" />
 
+See also:
+
+* [Hydrocolloid Glossary](https://blog.modernistpantry.com/advice/hydrocolloid-glossary/) by *Kitchen Alchemy*
+
 ## Alcohol by Volume (ABV)
 Alcohol by volume can be taken literally, it specifies the percentage
 of pure ethanol contained in a beverage.
