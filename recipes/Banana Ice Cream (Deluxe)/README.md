@@ -58,7 +58,7 @@ Rating: 😋😋🍌🍌🍦
 **Fill to MAX**
 
   - _40ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup> • fill to MAX
-  - _5 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
+  - _3–5 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
 
 # DIRECTIONS
 
