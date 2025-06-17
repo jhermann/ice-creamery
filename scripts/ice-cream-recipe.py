@@ -191,8 +191,9 @@ def parse_info_docs(kind, header):
     return wordmap
 parse_info_docs.wordmap = defaultdict(dict)
 
-def ingredient_link(ingredient, kind='ingredients', threshold=0.4):
+def ingredient_link(ingredient, kind='ingredients', threshold=0.4, args=None):
     """Link a recognized ingredient, otherwise return the given text unchanged."""
+    args = vars(args) if args else {}
     if any(x in ingredient for x in AUTO_LINK_STOP_WORDS):
         return ingredient
     cleaned = ingredient.replace('Skim Milkpowder', 'skim milk powder SMP')  # legacy recipes
@@ -211,18 +212,22 @@ def ingredient_link(ingredient, kind='ingredients', threshold=0.4):
     if scores:
         anchor = list(sorted(scores.items()))[-1][1]
         href = f'/ice-creamery/info/{kind}/#{anchor}'
+        if args.get('reddit'):
+            href = 'https://jhermann.github.io/ice-creamery' + href
         ingredient = ingredient.replace("[", r"\[").replace("]", r"\]")
-        link = f'[{ingredient}]({href}){{target="_blank"}}<sup>↗</sup>'
+        link = f'[{ingredient}]({href})'
+        if not args.get('reddit'):
+            link += '{target="_blank"}<sup>↗</sup>'
         #print(link)
         return link
     else:
         return ingredient
 
-def info_link(term):
+def info_link(term, args=None):
     """Link recognized terms within an info bullet."""
     well_known = {'MSNF', 'PAC'}
     for fragment in well_known:
-        link = ingredient_link(fragment, kind='glossary', threshold=0.01)
+        link = ingredient_link(fragment, kind='glossary', threshold=0.01, args=args)
         if link != fragment:
             term = term.replace(fragment, link)
     return term
@@ -263,6 +268,8 @@ def parse_cli(argv=None):
                         help='Do not start the editor with a newly written recipe file.')
     parser.add_argument('-t', '--tags-only', action='store_true',
                         help='Only update the tags metadata section.')
+    parser.add_argument('-r', '--reddit', action='store_true',
+                        help='Use markup that is compatible to Reddit.')
     parser.add_argument('--macros', action='store_true',
                         help='Produce a table of macros for all given ingredients.')
     parser.add_argument('csv_name', metavar='csv-name',
@@ -322,7 +329,7 @@ def main():
                 line = ' *', line[1].replace('.00', ''), line[2], line[0]
             lines.append(' '.join(line))
         elif row[1]:  # row with a value in the 2nd column
-            nutrition.append(f'**{info_link(row[0].strip())}:** {row[1].strip()}')
+            nutrition.append(f'**{info_link(row[0].strip(), args=args)}:** {row[1].strip()}')
             if any(row[2:]):
                 aux_info = ' • '.join([''] + [x.strip() for x in row[2:] if x.strip()])
                 if aux_info.startswith(' • g • '):
@@ -422,7 +429,7 @@ def main():
         for ingredient in recipe[step]:
             ingredient['spacer'] = '' if ingredient['unit'] in {'g', 'ml'} else ' '
             ingredient['amount'] = ingredient['amount'].replace(".50", ".5")
-            ingredient['href'] = ingredient_link(ingredient['ingredients'])
+            ingredient['href'] = ingredient_link(ingredient['ingredients'], args=args)
             lines.append('  - _{amount}{spacer}{unit}_ {href}'.format(**ingredient))
             if ingredient['comment']:
                 lines[-1] += f" • {ingredient['comment']}"
