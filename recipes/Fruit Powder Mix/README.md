@@ -30,6 +30,8 @@ Counting the pre-made mix as one, it is a 6 ingredients recipe for the final bas
 
 Use 93g of the mix in your final base (or 62g for a regular 16oz tub).
 
+> 🌿 **Vegan & Dairy-free Option**<br />Replace the SMP & whey with soy protein isolate, and the cottage cheese with silken tofu.
+
 Spun in Light Ice Cream mode, plus a scrape-down and a mix-in run — optionally with 10g freeze-dried fruit, e.g. strawberry slices.
 Comes out as soft-serve, put it back into the cold for 45min for a firmer consistency.
 
@@ -39,8 +41,6 @@ To make your life easier, take the “prep” ingredients times 5 (see list belo
 and store in an air-tight 1l container (the powder has a low density and needs space).
 To mix, take a **BIG** bowl like used for baking, measure the ingredients on a scale,
 and whisk them carefully but thoroughly. A ball whisk works best.
-
-> 🌿 **Vegan & Dairy-free Option**<br />Replace the SMP & whey with soy protein isolate, and the cottage cheese with silken tofu.
 
 **Serves:** 5 tubs          
 **Total:** 463 g          
