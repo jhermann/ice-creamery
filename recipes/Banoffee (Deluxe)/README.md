@@ -39,7 +39,7 @@ Rating: 😋🍌  (untested)
 **Prep**
 
   - _100g_ Banana (peeled) • 1 mid-sized ripe banana, eat any surplus 😋
-  - _100g_ Tofu (plain) [REWE Bio] • use 150g of silken tofu if you have it
+  - _100g_ [Tofu (plain) \[REWE Bio\]](/ice-creamery/info/ingredients/#tofu){target="_blank"}<sup>↗</sup> • use 150g of silken tofu if you have it
   - _40g_ Medjool dates (pitted, organic) [Seba Garden] • 2 dates • distinctive caramel taste with hints of vanilla
   - _15g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • Sweetness = 60%; GI = 5; Density = 1.26 g/ml
   - _10g_ [Brandy or Vodka 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup>
