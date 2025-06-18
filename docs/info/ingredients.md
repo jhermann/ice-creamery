@@ -506,6 +506,19 @@ Additionally, it can reduce ice recrystallization, leading to a smoother texture
 
 Soy protein isolate is a *great vegan & sugar-free replacement for SMP*.
 
+### Tofu
+Tofu, also known as bean curd, is a food made from dried soybeans. It is created by curdling fresh soy milk
+and pressing the curds into a solid block. Tofu is a versatile ingredient and has a high protein content.
+
+In vegan recipes, tofu can replace several dairy products, including ricotta cheese, cream, and yogurt.
+Silken tofu, when blended, can mimic the texture of heavy cream or sour cream,
+and also be used as a substitute for yogurt.
+
+> 💡 **Silken from firm tofu**<br />
+> When you can only get firm tofu, blend it before use
+> with a little soy milk or water (10% of weight),
+> to a creamy consistency.
+
 ### Whey Protein
 Whey protein primarily functions as a water-binding agent, contributing to viscosity, stability, and texture. It helps to maintain small ice crystals avoiding grittiness (by limiting water mobility and ice crystal growth), and increases your protein intake.
 
