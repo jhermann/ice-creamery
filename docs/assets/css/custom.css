@@ -121,3 +121,15 @@ a.md-tag[href*="tag:vanilla"],
 a.md-tag[href*="tag:vegan"] {
   color: royalblue !important;
 }
+
+/* Absolute favorites
+a[href*=""]::before, h1[id*="" i]::before,
+  content: "✨";
+ */
+a[href*="Cherry%20Ice%20Cream"]::before, h1[id*="Cherry-Ice-Cream" i]::before,
+a[href*="Strawberry%20Sangria"]::before, h1[id*="Strawberry-Sangria" i]::before {
+  content: "😍";
+}
+li.md-tabs__item a::before {
+  content: "";
+}
