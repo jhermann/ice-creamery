@@ -13,7 +13,6 @@ tags:
 - Hi-Protein
 - Low-Fat
 - Polysaccharide Gum
-- Scoopable
 - Sucralose
 - Tylo Powder (CMC)
 - Vegan
@@ -53,12 +52,12 @@ Rating: 😋🍌  (untested)
 
   - _15g_ [Soy protein isolate (nature) \[Powerstar\]](/ice-creamery/info/ingredients/#soy-protein-isolate){target="_blank"}<sup>↗</sup> • 1kg bag, unsweetened, unflavored
   - _25g_ [Xylitol](/ice-creamery/info/ingredients/#xylitol-e967){target="_blank"}<sup>↗</sup> • Sweetness = 100%; GI = 7
-  - _25g_ ICSv2 [Erythritol / CMC / Tara / XG / Inulin] • [http﹕//bit.ly/4frc4Vj](https://jhermann.github.io/ice-creamery/I/Ice%20Cream%20Stabilizer%20(ICS)/)
+  - _10g_ ICSv2 [Erythritol / CMC / Tara / XG / Inulin] • [http﹕//bit.ly/4frc4Vj](https://jhermann.github.io/ice-creamery/I/Ice%20Cream%20Stabilizer%20(ICS)/)
   - _3g_ Vanilla Bean Powder [InterVanilla]
 
 **Fill to MAX**
 
-  - _132ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup> • make blending easier by splitting the milk
+  - _147ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup> • make blending easier by splitting the milk
   - _3–7 drops_ Flavor drops Caramel (sucralose) [IronMaxx] • to taste
 
 # DIRECTIONS
@@ -74,11 +73,11 @@ Rating: 😋🍌  (untested)
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
 
 # NUTRITIONAL & OTHER INFO
-- **Nutritional values per 100g/ml:** 100g; 97.6 kcal; fat 2.0g; carbs 15.4g; sugar 6.2g; protein 5.5g; salt 0.2g
-- **Nutritional values per ½ Deluxe Tub:** 360g; 351.2 kcal; fat 7.2g; carbs 55.5g; sugar 22.1g; protein 20.0g; salt 0.7g
-- **Nutritional values total:** 720g; 702.4 kcal; fat 14.5g; carbs 111.0g; sugar 44.3g; protein 39.9g; salt 1.3g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 31.04
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 22.73% • LOW-FAT • Hi-Protein
+- **Nutritional values per 100g/ml:** 100g; 95.9 kcal; fat 2.0g; carbs 14.3g; sugar 6.1g; protein 5.6g; salt 0.2g
+- **Nutritional values per ½ Deluxe Tub:** 360g; 345.4 kcal; fat 7.3g; carbs 51.5g; sugar 21.9g; protein 20.2g; salt 0.5g
+- **Nutritional values total:** 720g; 690.8 kcal; fat 14.7g; carbs 102.9g; sugar 43.7g; protein 40.3g; salt 1.1g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 28.09
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 23.36% • LOW-FAT • Hi-Protein
 - **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 29.5g • 4.1%
 - **30g Ice Cream Stabilizer (ICSv2) is:** 14.3g erythritol, 1.43g Tylose powder (CMC, E466), 
 0.5g tara gum (E417), 0.15g xanthan (E415),
