@@ -126,6 +126,7 @@ a.md-tag[href*="tag:vegan"] {
 a[href*=""]::before, h1[id*="" i]::before,
   content: "✨";
  */
+a[href*="Banana%20Ice%20Cream"]::before, h1[id*="Banana-Ice-Cream" i]::before,
 a[href*="Cherry%20Ice%20Cream"]::before, h1[id*="Cherry-Ice-Cream" i]::before,
 a[href*="Strawberry%20Sangria"]::before, h1[id*="Strawberry-Sangria" i]::before {
   content: "😍";
