@@ -33,6 +33,12 @@ With brandy added: ice-free soft-serve after Light Ice Cream spin, scrape down, 
 
 Rating: 😋😋🍌🍌🍦
 
+> <img width=360 alt="Lite Ice Cream" src="Banana_2025-06-18_1.jpg*" class="zoomable" />
+> <img width=360 alt="After Re-mix" src="Banana_2025-06-18_1.jpg*" class="zoomable" />
+>
+> *2025-06-18: Made with soy milk,* Lite Ice Cream *and a re-mix.*
+
+
 # INGREDIENTS
 
 ℹ️ Brand names are in square brackets `[...]`.
