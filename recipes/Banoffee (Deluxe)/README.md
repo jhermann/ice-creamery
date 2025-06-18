@@ -20,6 +20,7 @@ tags:
 - Xylitol
 ---
 # Banoffee (Deluxe)
+<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="logo-banoffee.png" />
 
 > 🌿 **Vegan & Dairy-free**<br />Recipe is using only soy milk and protein.
 
