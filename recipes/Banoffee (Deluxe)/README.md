@@ -24,7 +24,7 @@ tags:
 
 > 🌿 **Vegan & Dairy-free**<br />Recipe is using only soy milk and protein.
 
-Process on *Frozen Yogurt*, [hold it shortly under running water](https://jhermann.github.io/ice-creamery/info/tips%2Btricks/#handling-of-icy-sides-bottom)
+Process on *Light Ice Cream*, [hold it shortly under running water](https://jhermann.github.io/ice-creamery/info/tips%2Btricks/#handling-of-icy-sides-bottom)
 *after* that.
 Then a scrape-down and a respin or re-mix.
 
