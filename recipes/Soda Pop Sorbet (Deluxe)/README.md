@@ -42,7 +42,7 @@ Rating: 😋🥤 (experimental)
   - _40ml_ Soda syrup “afri cola zero” [Sodapop] • 500ml bottle (1:19, yields 10l)
   - _20g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • Sweetness = 60%; GI = 5; Density = 1.26 g/ml
   - _15g_ [Brandy or Vodka 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup>
-  - _15ml_ Lemon juice
+  - _15ml_ Lemon or lime juice
 
 **Dry**
 
