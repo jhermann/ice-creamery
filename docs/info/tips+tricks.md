@@ -38,7 +38,9 @@ You can also hold it under the running tap, the good hole for running water thro
 > <img width=480 alt="Where to apply running water" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/assets/cleaning-lid-running-water.jpg" class="zoomable" />
 
 Finally, shake every drop of water out of the lid, and let it dry in a rack.
-Keep a firm grip when doing that.
+Keep a firm grip when doing that (don't drop the lid).
+
+> <img width=480 alt="Do not break the install sensor nub" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/assets/install-sensor-nub.jpg" class="zoomable" />
 
 Also, take out the gasket from time to time (at least once a month), and clean it and under it.
 When ice cream overflowed the rim, do that immediately.
