@@ -40,6 +40,7 @@ import yaml
 
 CSV_FILE = 'Ice-Cream-Recipes.csv'
 MD_FILE = 'recipe-{file_title}.md'
+WEBSITE_BASE_URL = 'https://jhermann.github.io/ice-creamery'
 
 TAG_LIGHT_KCAL_LIMIT = 75.0
 TAG_SCOOPABLE_PAC_LIMIT = 30.0
@@ -213,7 +214,7 @@ def ingredient_link(ingredient, kind='ingredients', threshold=0.4, args=None):
         anchor = list(sorted(scores.items()))[-1][1]
         href = f'/ice-creamery/info/{kind}/#{anchor}'
         if args.get('reddit'):
-            href = 'https://jhermann.github.io/ice-creamery' + href
+            href = WEBSITE_BASE_URL.rsplit('/', 1)[0] + href
         ingredient = ingredient.replace("[", r"\[").replace("]", r"\]")
         link = f'[{ingredient}]({href})'
         if not args.get('reddit'):
@@ -476,8 +477,8 @@ def main():
     # Create the Markdown file
     md_file = markdown_file(title, is_topping)
     md_text = md_text.replace('http://bit.ly/4frc4Vj', '[http﹕//bit.ly/4frc4Vj]'
-        '(https://jhermann.github.io/ice-creamery/'
-        'I/Ice%20Cream%20Stabilizer%20(ICS)/)')  # take care of Reddit stupidness
+        f'({WEBSITE_BASE_URL}'
+        '/I/Ice%20Cream%20Stabilizer%20(ICS)/)')  # take care of Reddit stupidness
 
     if args.macros:
         def all_ingredients():
