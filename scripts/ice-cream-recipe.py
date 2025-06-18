@@ -322,7 +322,8 @@ def main():
         '''Helper for non-ingredient row handling.'''
         nonlocal images
 
-        if row[2] and 'MSNF' not in row[0]:  # structured / complex row, e.g. with formulas
+        if row[2] and 'MSNF' not in row[0] and 'ℹ️' not in row[0]:
+            # structured / complex row, e.g. with formulas
             line = [x.strip() for x in row]
             if line[0].endswith(':'):
                 line[0] = f'**{line[0]}**'
@@ -330,7 +331,7 @@ def main():
                 line = ' *', line[1].replace('.00', ''), line[2], line[0]
             lines.append(' '.join(line))
         elif row[1]:  # row with a value in the 2nd column
-            nutrition.append(f'**{info_link(row[0].strip(), args=args)}:** {row[1].strip()}')
+            nutrition.append(f'**{info_link(row[0].strip("ℹ️").strip(), args=args)}:** {row[1].strip()}')
             if any(row[2:]):
                 aux_info = ' • '.join([''] + [x.strip() for x in row[2:] if x.strip()])
                 if aux_info.startswith(' • g • '):
