@@ -23,7 +23,7 @@ tags:
 
 > 🌿 **Vegan & Dairy-free**<br />Recipe is using only lemon juice and no dairy.
 
-> ℹ️ This is keto, at 23 net carbs per tub, so 5-8 per serving.
+> ℹ️ This is keto, at 6 net carbs per tub, so 1.3-2 per serving.
 
 Process on Sorbet.
 
@@ -72,7 +72,7 @@ Rating: 😋 (experimental)
 - **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.42
 - **Protein / Energy Ratio (ok=12%; hi=20%):** 0.82% • LOW-CAL • LOW-FAT • Low-Sugar • Low-Salt
 - **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 0.0g • 0.0%
-- **Net carbs:** 22.6g • *∝ 5 servings@144g:* 4.5g • *∝ 3 servings@240g:* 7.5g
+- **Net carbs:** 6.3g • *∝ 5 servings@144g:* 1.3g • *∝ 3 servings@240g:* 2.1g
 - **30g Ice Cream Stabilizer (ICSv2) is:** 14.3g erythritol, 1.43g Tylose powder (CMC, E466), 
 0.5g tara gum (E417), 0.15g xanthan (E415),
 14.3g inulin, 0.5g salt.
