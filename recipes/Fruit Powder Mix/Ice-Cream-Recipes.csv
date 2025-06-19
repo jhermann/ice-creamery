@@ -1,14 +1,14 @@
-Fruit Powder Mix (Deluxe);;;;;;;;;;;;
-;;;;;;;;;;;;
-;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;
-Nutritional values per 100g/ml;100;g;;80.2;1.6;13.4;1.8;6.0;0.3;;;
-Nutritional values per ½ Deluxe Tub;360;g;;288.9;5.8;48.3;6.5;21.6;0.9;;;
-Nutritional values total;720;g;;577.7;11.6;96.6;12.9;43.2;1.9;;;
-;;;;;;;;;;;;
-FPDF / PAC (target 20..30);31.82;;;;;;;;;;;
-"Protein / Energy Ratio (ok=12%; hi=20%)";29.92%;;;;LOW-FAT;;Low-Sugar;Hi-Protein;;;;
-Milk Solids Non-Fat (MSNF, 7-11%);43.5;g;;6.0%;;;;;;;;
-;;;;;;;;;;;;
+Fruit Powder Mix (Deluxe);;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;
+Nutritional values per 100g/ml;100;g;;80.2;1.6;13.4;1.8;6.0;0.3;;;;
+Nutritional values per ½ Deluxe Tub;360;g;;288.9;5.8;48.3;6.5;21.6;0.9;;;;
+Nutritional values total;720;g;;577.7;11.6;96.6;12.9;43.2;1.9;;;;
+;;;;;;;;;;;;;
+FPDF / PAC (target 20..30);31.82;;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";29.92%;;;;LOW-FAT;;Low-Sugar;Hi-Protein;;;;;
+ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);43.5;g;;6.0%;;;;;;;;;
+ℹ️ Net carbs;36.6;g;;*∝ 5 servings@144g:* 7.3g;;;*∝ 3 servings@240g:* 12.2g;;;;;;
 "This one is a favorite, so it gets its own recipe mix for convenient indulgence…
 
 It works for fruit or root powders with a sugar content from low (Ube, 10%) to high (Lingonberry, 73%).
@@ -16,57 +16,59 @@ Counting the pre-made mix as one, it is a 6 ingredients recipe for the final bas
 
 Use 93g of the mix in your final base (or 62g for a regular 16oz tub).
 
-> 🌿 **Vegan & Dairy-free Option**<br />Replace the SMP & whey with soy protein isolate, and the cottage cheese with silken tofu.";;;;;;;;;;;;
-;;;;;;;;;;;;
+> 🌿 **Vegan & Dairy-free Option**<br />Replace the SMP & whey with soy protein isolate, and the cottage cheese with silken tofu.";;;;;;;;;;;;;
+;;;;;;;;;;;;;
 "Spun in Light Ice Cream mode, plus a scrape-down and a mix-in run — optionally with 10g freeze-dried fruit, e.g. strawberry slices.
 Comes out as soft-serve, put it back into the cold for 45min for a firmer consistency.
+
+> *Processed strawberry and ube ice cream.*
 
 To make your life easier, take the “prep” ingredients times 5 (see list below), mix them,
 and store in an air-tight 1l container (the powder has a low density and needs space).
 To mix, take a **BIG** bowl like used for baking, measure the ingredients on a scale,
-and whisk them carefully but thoroughly. A ball whisk works best.";;;;;;;;;;;;
-;;;;;;;;;;;;
-;;;;;;;;;;;;
+and whisk them carefully but thoroughly. A ball whisk works best.";;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
 "1. Take all the ‘prep’ ingredients from your ready-to-use mix — the list per tub is just there for reference!
- 1. Add the prepared dry ingredients mixed with the chosen fruit powder, and blend *QUICKLY* using an immersion blender on full speed.";;;;;;;;;;;;
-;;;;;;;;;;;;
-Serves:;5;tubs;;;;;;;;;;
-Total:;463;g;;;;;;;;;;
-Per tub:;93;g;;;;;;;;;;
-;;;;;;;;;;;;
-Erythritol (E968);150.00;g;;;;;;;;;;
-Inulin [Vit4ever];75.00;g;;;;;;;;;;
-Skim Milkpowder 1:10 [Vita2You];75.00;g;;;;;;;;;;
-Whey protein Vanilla [MaxiNutrition];75.00;g;;;;;;;;;;
-Xylitol;75.00;g;;;;;;;;;;
-Tylose powder (E466, Tylo, CMC);7.50;g;;;;;;;;;;
-Guar gum (E412);2.50;g;;;;;;;;;;
-Salt;2.50;g;;;;;;;;;;
-Xanthan gum (E415, XG);0.75;g;;;;;;;;;;
-;;;;;;;;;;;;
-;;;;;;;;;;;;
-Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment
-Erythritol (E968);30.00;g;0;0.00;0.00;100.00;0.00;0.00;0.00;2.80;;Sweetness = 75%
-Inulin [Vit4ever];15.00;g;0;210.00;0.00;8.00;8.00;0.00;0.20;0.09;;"Sweetness = 8%; GI ~= 0"
-Skim Milkpowder 1:10 [Vita2You];15.00;g;0;358.00;0.97;50.50;50.50;35.00;1.00;0.51;94.03;
-Whey protein Vanilla [MaxiNutrition];15.00;g;0;392.00;5.80;6.20;5.30;78.00;0.57;0.05;89.20;
-Xylitol;15.00;g;0;238.00;;100.00;;;;2.20;;"Sweetness = 100%; GI = 7"
-Tylose powder (E466, Tylo, CMC);1.50;g;0;143.00;0.00;75.00;0.00;0.00;0.00;;;
-Guar gum (E412);0.50;g;0;180.00;0.60;84.00;0.00;5.50;0.30;;;
-Salt;0.50;g;0;0.00;0.00;0.00;0.00;0.00;100.00;5.90;;
-Xanthan gum (E415, XG);0.15;g;0;320.00;0.00;78.00;0.00;6.00;1.00;;;
-Soy milk 1.6% (sugar-free) [Berief];400.00;ml;1;30.00;1.60;0.90;0.00;3.00;0.08;;;
-Cottage Cheese 4% [REWE Bio];100.00;g;1;91.00;4.00;1.00;1.00;12.70;0.69;0.01;16.00;
-Tofu (silken) [REWE];;g;1;48.00;2.10;1.80;0.50;5.30;0.01;;7.46;
-Glycerin (E422, VG) [hd-line];15.00;g;1;400.00;0.00;99.00;0.00;0.00;0.00;3.70;;"Sweetness = 60%; GI = 5"
-Brandy or Vodka 40 vol%;10.00;g;1;280.00;;;;;;2.96;;
-Skim Milk 1.5% [Weihenstephan];;ml;1;47.00;1.50;4.90;4.90;3.50;0.11;0.05;9.16;
-Water;;ml;1;;;;;;;;;
-;;;;;;;;;;;;
-Water to MAX line;77.35;ml;3;;;;;;;;;
-;;;;;;;;;;;;
-Ube Yam Root powder [Fil Choice];25.00;g;2;382.00;0.60;83.00;9.50;6.10;0.30;0.10;;like vanilla+pistachio
-Lingonberry powder [Bio Leis];;g;2;351.00;2.30;78.80;72.50;3.70;0.01;0.73;;
-Strawberry powder [Supergarden];;g;2;287.00;3.70;50.90;50.60;7.60;0.00;0.51;;
-Blueberry powder [Bio Leis];;g;2;360.00;5.10;60.10;51.10;5.10;0.02;0.51;;
-Dragon Fruit (freeze dried) [Zingy Zoo];;g;2;393.00;5.30;78.60;53.60;7.10;0.00;0.54;;
+ 1. Add the prepared dry ingredients mixed with the chosen fruit powder, and blend *QUICKLY* using an immersion blender on full speed.";;;;;;;;;;;;;
+;;;;;;;;;;;;;
+Serves:;5;tubs;;;;;;;;;;;
+Total:;463;g;;;;;;;;;;;
+Per tub:;93;g;;;;;;;;;;;
+;;;;;;;;;;;;;
+Erythritol (E968);150.00;g;;;;;;;;;;;
+Inulin [Vit4ever];75.00;g;;;;;;;;;;;
+Skim Milkpowder 1:10 [Vita2You];75.00;g;;;;;;;;;;;
+Whey protein Vanilla [MaxiNutrition];75.00;g;;;;;;;;;;;
+Xylitol;75.00;g;;;;;;;;;;;
+Tylose powder (E466, Tylo, CMC);7.50;g;;;;;;;;;;;
+Guar gum (E412);2.50;g;;;;;;;;;;;
+Salt;2.50;g;;;;;;;;;;;
+Xanthan gum (E415, XG);0.75;g;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment;0Carb[%]
+Erythritol (E968);30.00;g;0;0.00;0.00;100.00;0.00;0.00;0.00;2.80;;Sweetness = 75%;100.00
+Inulin [Vit4ever];15.00;g;0;210.00;0.00;8.00;8.00;0.00;0.20;0.09;;"Sweetness = 8%; GI ~= 0";50.00
+Skim Milkpowder 1:10 [Vita2You];15.00;g;0;358.00;0.97;50.50;50.50;35.00;1.00;0.51;94.03;;
+Whey protein Vanilla [MaxiNutrition];15.00;g;0;392.00;5.80;6.20;5.30;78.00;0.57;0.05;89.20;;
+Xylitol;15.00;g;0;238.00;;100.00;;;;2.20;;"Sweetness = 100%; GI = 7";100.00
+Tylose powder (E466, Tylo, CMC);1.50;g;0;143.00;0.00;75.00;0.00;0.00;0.00;;;;
+Guar gum (E412);0.50;g;0;180.00;0.60;84.00;0.00;5.50;0.30;;;;
+Salt;0.50;g;0;0.00;0.00;0.00;0.00;0.00;100.00;5.90;;;
+Xanthan gum (E415, XG);0.15;g;0;320.00;0.00;78.00;0.00;6.00;1.00;;;;
+Soy milk 1.6% (sugar-free) [Berief];400.00;ml;1;30.00;1.60;0.90;0.00;3.00;0.08;;;;
+Cottage Cheese 4% [REWE Bio];100.00;g;1;91.00;4.00;1.00;1.00;12.70;0.69;0.01;16.00;;
+Tofu (silken) [REWE];;g;1;48.00;2.10;1.80;0.50;5.30;0.01;;7.46;;
+Glycerin (E422, VG) [hd-line];15.00;g;1;400.00;0.00;99.00;0.00;0.00;0.00;3.70;;"Sweetness = 60%; GI = 5";50.00
+Brandy or Vodka 40 vol%;10.00;g;1;280.00;;;;;;2.96;;;
+Skim Milk 1.5% [Weihenstephan];;ml;1;47.00;1.50;4.90;4.90;3.50;0.11;0.05;9.16;;
+Water;;ml;1;;;;;;;;;;
+;;;;;;;;;;;;;
+Water to MAX line;77.35;ml;3;;;;;;;;;;
+;;;;;;;;;;;;;
+Ube Yam Root powder [Fil Choice];25.00;g;2;382.00;0.60;83.00;9.50;6.10;0.30;0.10;;like vanilla+pistachio;
+Lingonberry powder [Bio Leis];;g;2;351.00;2.30;78.80;72.50;3.70;0.01;0.73;;;
+Strawberry powder [Supergarden];;g;2;287.00;3.70;50.90;50.60;7.60;0.00;0.51;;;
+Blueberry powder [Bio Leis];;g;2;360.00;5.10;60.10;51.10;5.10;0.02;0.51;;;
+Dragon Fruit (freeze dried) [Zingy Zoo];;g;2;393.00;5.30;78.60;53.60;7.10;0.00;0.54;;;

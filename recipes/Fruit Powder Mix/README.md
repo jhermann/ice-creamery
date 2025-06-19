@@ -45,9 +45,9 @@ and store in an air-tight 1l container (the powder has a low density and needs s
 To mix, take a **BIG** bowl like used for baking, measure the ingredients on a scale,
 and whisk them carefully but thoroughly. A ball whisk works best.
 
-**Serves:** 5 tubs          
-**Total:** 463 g          
-**Per tub:** 93 g          
+**Serves:** 5 tubs           
+**Total:** 463 g           
+**Per tub:** 93 g           
 
  * 150 g Erythritol (E968)
  * 75 g Inulin [Vit4ever]
@@ -107,3 +107,4 @@ and whisk them carefully but thoroughly. A ball whisk works best.
 - **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 31.82
 - **Protein / Energy Ratio (ok=12%; hi=20%):** 29.92% • LOW-FAT • Low-Sugar • Hi-Protein
 - **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 43.5g • 6.0%
+- **Net carbs:** 36.6g • *∝ 5 servings@144g:* 7.3g • *∝ 3 servings@240g:* 12.2g
