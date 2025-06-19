@@ -273,6 +273,11 @@ For hydration, heat it to 80°C, or let it soak for a few minutes. Guar gum can 
 
 *Dosage:* Use 0.1% … 0.3% in ice cream (max. 1.5%). It creates a creamy mouth feel, and can replace milk or cream powder. Tara gum can replace guar gum.
 
+### Hydroxypropyl Methylcellulose (HPMC / E464)
+
+HPMC (a/k/a Hypromellose) is used in ice cream as a stabilizer and emulsifier,
+helping to improve texture, mouthfeel, and prevent ice crystal formation.
+It can also act as a fat replacer, providing creaminess without the added calories.
 
 ### Locust Bean Gum (LBG / E410)
 LBG is a vegetable-based hydrocolloid extracted from the seeds of the carob tree.
