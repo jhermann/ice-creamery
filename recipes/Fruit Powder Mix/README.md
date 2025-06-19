@@ -35,10 +35,11 @@ Use 93g of the mix in your final base (or 62g for a regular 16oz tub).
 Spun in Light Ice Cream mode, plus a scrape-down and a mix-in run — optionally with 10g freeze-dried fruit, e.g. strawberry slices.
 Comes out as soft-serve, put it back into the cold for 45min for a firmer consistency.
 
-> <img width=320 alt="Spun Ice Cream Strawberry" src="Strawberry-FP-Mix_2024-11-21.jpg" class="zoomable" />
-> <img width=320 alt="Spun Ice Cream Ube" src="Ube-FP-Mix_2025-06-19_1.jpg" class="zoomable" />
+> <img width=240 alt="Spun Ice Cream Strawberry" src="Strawberry-FP-Mix_2024-11-21.jpg" class="zoomable" />
+> <img width=240 alt="Spun Ice Cream Ube" src="Ube-FP-Mix_2025-06-19_1.jpg" class="zoomable" />
+> <img width=240 alt="Spun Ice Cream Ube" src="Ube-FP-Mix_2025-06-19_2.jpg" class="zoomable" />
 > 
-> *Processed strawberry and ube ice cream.*
+> *Processed strawberry, and ube ice cream after spinning and scooped.*
 
 To make your life easier, take the “prep” ingredients times 5 (see list below), mix them,
 and store in an air-tight 1l container (the powder has a low density and needs space).
