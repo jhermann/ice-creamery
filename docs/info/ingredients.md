@@ -299,8 +299,14 @@ It is synergistic when combined with other hydrocolloids to increase their gelli
 
 *Also know as:* carob / Johannisbrotkernmehl.
 
-### Salep
+### Resistant Dextrin (E1400)
+Resistant dextrin is a soluble dietary fiber that can be used in ice cream
+to improve texture and potentially boost nutritional value. It's often used
+as a fat substitute or to add creaminess, and can also help prevent ice crystal formation.
 
+It can replace or accompany inulin.
+
+### Salep
 Salep is a thickening agent derived from the tubers of certain orchids, primarily used in Turkish ice cream (*Dondurma*)
 and a warming winter drink of the same name. In ice cream, salep gives it a distinctive chewy and stretchy texture.
 It's also known to provide a unique flavor and aroma.
