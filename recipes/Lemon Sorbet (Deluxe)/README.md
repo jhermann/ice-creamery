@@ -23,7 +23,7 @@ tags:
 
 > 🌿 **Vegan & Dairy-free**<br />Recipe is using only lemon juice and no dairy.
 
-> ℹ️ This is keto, at 25 net carbs per tub, so 6-8 per serving.
+> ℹ️ This is keto, at 23 net carbs per tub, so 5-8 per serving.
 
 Process on Sorbet.
 
@@ -42,7 +42,7 @@ Rating: 😋 (experimental)
   - _1 tsp_ Lemon zest (½ peel or less) • Zest the lemon BEFORE juicing
   - _10 drops_ Flavor drops Peach / Maracuja (sucralose) [IronMaxx]
   - _15g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • Sweetness = 60%; GI = 5; Density = 1.26 g/ml
-  - _10g_ [Brandy “Williams Birne” 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup>
+  - _10g_ [Brandy or Vodka 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup>
 
 **Dry**
 
@@ -72,6 +72,7 @@ Rating: 😋 (experimental)
 - **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.42
 - **Protein / Energy Ratio (ok=12%; hi=20%):** 0.82% • LOW-CAL • LOW-FAT • Low-Sugar • Low-Salt
 - **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 0.0g • 0.0%
+- **Net carbs:** 22.6g • *∝ 5 servings@144g:* 4.5g • *∝ 3 servings@240g:* 7.5g
 - **30g Ice Cream Stabilizer (ICSv2) is:** 14.3g erythritol, 1.43g Tylose powder (CMC, E466), 
 0.5g tara gum (E417), 0.15g xanthan (E415),
 14.3g inulin, 0.5g salt.
