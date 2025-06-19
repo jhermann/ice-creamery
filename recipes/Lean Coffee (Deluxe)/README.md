@@ -16,6 +16,7 @@ tags:
 - Xylitol
 ---
 # Lean Coffee (Deluxe)
+<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="logo-lean-coffee.png" />
 
 A version of “Coffee & Cream” with calories reduced by about 30%
 
