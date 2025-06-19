@@ -62,7 +62,7 @@ Rating: 😋🍌  (untested)
 
 # DIRECTIONS
 
- 1. Cut the dates into halves by their long side, and make sure they’re pitted and not spoiled.
+ 1. Cut the dates into halves by their long side, and make sure they’re pitted and not spoiled. Use a splash of soy milk, if needed to combine things.
  1. In an empty Creami tub, blend the dates and the other ‘prep’ ingredients to a smooth paste.
  1. Add "wet" ingredients to the puree.
  1. Weigh and mix dry ingredients, easiest by adding to a jar with a secure lid and shaking vigorously.
@@ -79,6 +79,7 @@ Rating: 😋🍌  (untested)
 - **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 28.09
 - **Protein / Energy Ratio (ok=12%; hi=20%):** 23.36% • LOW-FAT • Hi-Protein
 - **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 29.5g • 4.1%
+- **Net carbs:** 61.7g • *∝ 5 servings@144g:* 12.3g • *∝ 3 servings@240g:* 20.6g
 - **30g Ice Cream Stabilizer (ICSv2) is:** 14.3g erythritol, 1.43g Tylose powder (CMC, E466), 
 0.5g tara gum (E417), 0.15g xanthan (E415),
 14.3g inulin, 0.5g salt.
