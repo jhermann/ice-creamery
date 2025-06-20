@@ -44,6 +44,14 @@ WEBSITE_BASE_URL = 'https://jhermann.github.io/ice-creamery'
 
 TAG_LIGHT_KCAL_LIMIT = 75.0
 TAG_SCOOPABLE_PAC_LIMIT = 30.0
+ICSv2 = {
+    'Erythritol (E968)': 100.00,
+    'Inulin': 100.00,
+    'Tylose powder (E466, Tylo, CMC)': 10.00,
+    'Guar gum (E412)': 3.50,
+    'Salt': 3.50,
+    'Xanthan gum (E415, XG)': 1.00,
+}
 DEFAULT_TAGS = set([
     'Allulose',
     'Erythritol',
@@ -330,7 +338,7 @@ def main():
             elif line[2] in {'g', 'ml'}:
                 line = ' *', line[1].replace('.00', ''), line[2], line[0]
             lines.append(' '.join(line))
-        elif row[1]:  # row with a value in the 2nd column
+        elif row[1] and row[0].strip():  # row with a value in the 2nd column
             nutrition.append(f'**{info_link(row[0].strip("ℹ️").strip(), args=args)}:** {row[1].strip()}')
             if any(row[2:]):
                 aux_info = ' • '.join([''] + [x.strip() for x in row[2:] if x.strip()])
@@ -435,6 +443,10 @@ def main():
             lines.append('  - _{amount}{spacer}{unit}_ {href}'.format(**ingredient))
             if ingredient['comment']:
                 lines[-1] += f" • {ingredient['comment']}"
+            if 'ICSv2' in ingredient['ingredients']:
+                scale = float(ingredient['amount']) / sum(ICSv2.values())
+                nutrient = ' • '.join([f"{round(v * scale, 2 if v * scale < 1 else 1)}g {k}" for k, v in ICSv2.items()])
+                nutrition.append(f"**{ingredient['amount']}g Ice Cream Stabilizer (ICSv2) is:** {nutrient}.")
 
     # Add directions
     lines.extend(['', subtitle('Directions', is_topping), ''])

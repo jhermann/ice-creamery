@@ -64,7 +64,7 @@ Rating: 😋😋🍌🍌🍦
 
 **Dry**
 
-  - _30g_ ICSv2 [Erythritol / CMC / Tara / XG / Inulin] • [http﹕//bit.ly/4frc4Vj](https://jhermann.github.io/ice-creamery/I/Ice%20Cream%20Stabilizer%20(ICS)/)
+  - _30g_ ICSv2 [Erythritol / Inulin / CMC / Guar / XG / Salt] • [http﹕//bit.ly/4frc4Vj](https://jhermann.github.io/ice-creamery/I/Ice%20Cream%20Stabilizer%20(ICS)/)
   - _20g_ [Whey protein Vanilla \[MaxiNutrition\]](/ice-creamery/info/ingredients/#whey-protein){target="_blank"}<sup>↗</sup>
   - _20g_ [Xylitol (E967)](/ice-creamery/info/ingredients/#xylitol-e967){target="_blank"}<sup>↗</sup> • Sweetness = 100%; GI = 7
 
@@ -91,10 +91,8 @@ Rating: 😋😋🍌🍌🍦
 - **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.06
 - **Protein / Energy Ratio (ok=12%; hi=20%):** 23.78% • LOW-FAT • Hi-Protein
 - **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 33.8g • 4.7%
-- **Net carbs:** 63.6g • *∝ 5 servings@144g:* 12.7g • *∝ 3 servings@240g:* 21.2g
-- **30g Ice Cream Stabilizer (ICSv2) is:** 14.3g erythritol, 1.43g Tylose powder (CMC, E466), 
-0.5g tara gum (E417), 0.15g xanthan (E415),
-14.3g inulin, 0.5g salt.
+- **Net carbs:** 62.3g • *∝ 5 servings@144g:* 12.5g • *∝ 3 servings@240g:* 20.8g
 - **Nov 15, 2024:** Add 1cl brandy
 - **Jan 1, 2025:** Add lemon juice
 - **Jun 8, 2025:** Use soy milk (less sugar)
+- **30g Ice Cream Stabilizer (ICSv2) is:** 13.8g Erythritol (E968) • 13.8g Inulin • 1.4g Tylose powder (E466, Tylo, CMC) • 0.48g Guar gum (E412) • 0.48g Salt • 0.14g Xanthan gum (E415, XG).
