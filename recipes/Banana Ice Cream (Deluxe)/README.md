@@ -46,6 +46,10 @@ Rating: 😋😋🍌🍌🍦
 >
 > Still rated 😋😋🍌🍌🍦
 
+> <img width=480 alt="over the top" src="Banana_ganache_almond_syrup_2025-06-20.jpg" class="zoomable" />
+> 
+> *Banana ice cream served with cocoa powder, pomegranate syrup, dark chocolate ganache, and almond slivers.*
+
 # INGREDIENTS
 
 ℹ️ Brand names are in square brackets `[...]`.
