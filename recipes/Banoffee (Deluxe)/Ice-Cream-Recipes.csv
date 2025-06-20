@@ -1,21 +1,28 @@
 Banoffee (Deluxe);;;;;;;;;;;;;
 ;;;;;;;;;;;;;
 ;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;
-Nutritional values per 100g/ml;100;g;;95.9;2.0;14.3;6.1;5.6;0.2;;;;
-Nutritional values per ½ Deluxe Tub;360;g;;345.4;7.3;51.5;21.9;20.2;0.5;;;;
-Nutritional values total;720;g;;690.8;14.7;102.9;43.7;40.3;1.1;;;;
+Nutritional values per 100g/ml;100;g;;95.9;2.0;14.9;6.1;5.6;0.2;;;;
+Nutritional values per ½ Deluxe Tub;360;g;;345.4;7.3;53.5;21.9;20.2;0.5;;;;
+Nutritional values total;720;g;;690.8;14.7;107.0;43.7;40.3;1.1;;;;
 ;;;;;;;;;;;;;
 FPDF / PAC (target 20..30);28.09;;;;;;;;;;;;
 "Protein / Energy Ratio (ok=12%; hi=20%)";23.36%;;;;LOW-FAT;;;Hi-Protein;;;;;
 ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);29.5;g;;4.1%;;;;;;;;;
-ℹ️ Net carbs;61.7;g;;*∝ 5 servings@144g:* 12.3g;;;*∝ 3 servings@240g:* 20.6g;;;;;;
+ℹ️ Net carbs;65.8;g;;*∝ 5 servings@144g:* 13.2g;;;*∝ 3 servings@240g:* 21.9g;;;;;;
 > 🌿 **Vegan & Dairy-free**<br />Recipe is using only soy milk and protein.;;;;;;;;;;;;;
 ;;;;;;;;;;;;;
-"Process on *Light Ice Cream*, [hold it shortly under running water](https://jhermann.github.io/ice-creamery/info/tips%2Btricks/#handling-of-icy-sides-bottom)
+"Banoffee is a dessert that combines banana and toffee flavors. The name is a portmanteau of “banana” and “toffee.”
+
+Top it with butter cookies or graham crackers, dulce de leche or caramel, sliced bananas, and whipped cream.
+You might also add chocolate shavings or toffee bits.
+
+Process on *Sorbet*, [hold it shortly under running water](https://jhermann.github.io/ice-creamery/info/tips%2Btricks/#handling-of-icy-sides-bottom)
 *after* that.
 Then a scrape-down and a respin or re-mix.
 
-Rating: 😋🍌  (untested)";;;;;;;;;;;;;
+> *Spun on sorbet, then a respin, resulting in a soft and smooth consistency. Refreeze for optimal scoopability.*
+
+Rating: 😋😋😋🍌🍌";;;;;;;;;;;;;
 ;;;;;;;;;;;;;
 "1. Cut the dates into halves by their long side, and make sure they’re pitted and not spoiled. Use a splash of soy milk, if needed to combine things.
  1. In an empty Creami tub, blend the dates and the other ‘prep’ ingredients to a smooth paste.
@@ -35,8 +42,8 @@ Lemon juice;5.00;ml;0;25.00;0.10;3.36;1.65;0.30;0.01;0.02;;;
 Soy milk 1.6% (sugar-free) [Berief];250.00;ml;1;30.00;1.60;0.90;0.00;3.00;0.08;;;;
 ;;;;;;;;;;;;;
 Soy protein isolate (nature) [Powerstar];15.00;g;2;372.00;1.00;1.00;0.00;89.80;2.50;;93.00;1kg bag, unsweetened, unflavored;
-Xylitol;25.00;g;2;238.00;0.00;100.00;0.00;0.00;0.00;2.20;;"Sweetness = 100%; GI = 7";100.00
-ICSv2 [Erythritol / CMC / Tara / XG / Inulin];10.00;g;2;107.3;0.0;54.7;3.7;0.1;1.7;1.32;;http://bit.ly/4frc4Vj;86.70
+Xylitol (E967);25.00;g;2;238.00;0.00;100.00;0.00;0.00;0.00;2.20;;"Sweetness = 100%; GI = 7";100.00
+ICSv2 [Erythritol / CMC / Tara / XG / Inulin];10.00;g;2;107.2;0.0;95.5;3.7;0.1;1.7;1.32;;http://bit.ly/4frc4Vj;86.70
 Vanilla Bean Powder [InterVanilla];3.00;g;2;288.00;0.10;13.00;13.00;0.00;0.00;;;;
 ;;;;;;;;;;;;;
 Soy milk 1.6% (sugar-free) [Berief];147.00;ml;3;30.00;1.60;0.90;0.00;3.00;0.08;;;make blending easier by splitting the milk;

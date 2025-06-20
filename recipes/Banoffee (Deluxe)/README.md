@@ -23,13 +23,22 @@ tags:
 
 > 🌿 **Vegan & Dairy-free**<br />Recipe is using only soy milk and protein.
 
-Process on *Light Ice Cream*, [hold it shortly under running water](https://jhermann.github.io/ice-creamery/info/tips%2Btricks/#handling-of-icy-sides-bottom)
+*Banoffee* is a dessert that combines banana and toffee flavors. The name is a portmanteau of “banana” and “toffee.”
+
+Top it with butter cookies or graham crackers, dulce de leche or caramel, sliced bananas, and whipped cream.
+You might also add chocolate shavings or toffee bits.
+
+Process on *Sorbet*, [hold it shortly under running water](https://jhermann.github.io/ice-creamery/info/tips%2Btricks/#handling-of-icy-sides-bottom)
 *after* that.
 Then a scrape-down and a respin or re-mix.
 
-> <img width=360 alt="Spun Ice Cream" src="" class="zoomable" />
+> <img width=220 alt="Spun Ice Cream" src="Banoffee_2025-06-20_1.jpg" class="zoomable" />
+> <img width=220 alt="Spun Ice Cream" src="Banoffee_2025-06-20_2.jpg" class="zoomable" />
+> <img width=220 alt="Spun Ice Cream" src="Banoffee_2025-06-20_3.jpg" class="zoomable" />
+> 
+> *Spun on sorbet, then a respin, resulting in a soft and smooth consistency. Refreeze for optimal scoopability.*
 
-Rating: 😋🍌  (untested)
+Rating: 😋😋😋🍌🍌
 
 # INGREDIENTS
 
@@ -51,7 +60,7 @@ Rating: 😋🍌  (untested)
 **Dry**
 
   - _15g_ [Soy protein isolate (nature) \[Powerstar\]](/ice-creamery/info/ingredients/#soy-protein-isolate){target="_blank"}<sup>↗</sup> • 1kg bag, unsweetened, unflavored
-  - _25g_ [Xylitol](/ice-creamery/info/ingredients/#xylitol-e967){target="_blank"}<sup>↗</sup> • Sweetness = 100%; GI = 7
+  - _25g_ [Xylitol (E967)](/ice-creamery/info/ingredients/#xylitol-e967){target="_blank"}<sup>↗</sup> • Sweetness = 100%; GI = 7
   - _10g_ ICSv2 [Erythritol / CMC / Tara / XG / Inulin] • [http﹕//bit.ly/4frc4Vj](https://jhermann.github.io/ice-creamery/I/Ice%20Cream%20Stabilizer%20(ICS)/)
   - _3g_ Vanilla Bean Powder [InterVanilla]
 
@@ -73,13 +82,13 @@ Rating: 😋🍌  (untested)
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
 
 # NUTRITIONAL & OTHER INFO
-- **Nutritional values per 100g/ml:** 100g; 95.9 kcal; fat 2.0g; carbs 14.3g; sugar 6.1g; protein 5.6g; salt 0.2g
-- **Nutritional values per ½ Deluxe Tub:** 360g; 345.4 kcal; fat 7.3g; carbs 51.5g; sugar 21.9g; protein 20.2g; salt 0.5g
-- **Nutritional values total:** 720g; 690.8 kcal; fat 14.7g; carbs 102.9g; sugar 43.7g; protein 40.3g; salt 1.1g
+- **Nutritional values per 100g/ml:** 100g; 95.9 kcal; fat 2.0g; carbs 14.9g; sugar 6.1g; protein 5.6g; salt 0.2g
+- **Nutritional values per ½ Deluxe Tub:** 360g; 345.4 kcal; fat 7.3g; carbs 53.5g; sugar 21.9g; protein 20.2g; salt 0.5g
+- **Nutritional values total:** 720g; 690.8 kcal; fat 14.7g; carbs 107.0g; sugar 43.7g; protein 40.3g; salt 1.1g
 - **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 28.09
 - **Protein / Energy Ratio (ok=12%; hi=20%):** 23.36% • LOW-FAT • Hi-Protein
 - **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 29.5g • 4.1%
-- **Net carbs:** 61.7g • *∝ 5 servings@144g:* 12.3g • *∝ 3 servings@240g:* 20.6g
+- **Net carbs:** 65.8g • *∝ 5 servings@144g:* 13.2g • *∝ 3 servings@240g:* 21.9g
 - **30g Ice Cream Stabilizer (ICSv2) is:** 14.3g erythritol, 1.43g Tylose powder (CMC, E466), 
 0.5g tara gum (E417), 0.15g xanthan (E415),
 14.3g inulin, 0.5g salt.
