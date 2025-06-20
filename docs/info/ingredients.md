@@ -2,8 +2,9 @@
 
 Here you can find some background information about common ingredients in ice cream recipes.
 
-## Freezing Point Depression Factors
+## Freezing Point Depression Factor (PAC) and Sweetness (POD)
 
+### Common Ingredient PAC/ POD / GI Values
 [Freezing point depression factor](/ice-creamery/info/glossary/#potere-anti-congelante-pac) (FPDF / PAC),
 [sweetness](/ice-creamery/info/glossary/#potere-dolcificante-pod) (POD),
 and [glycemic index](/ice-creamery/info/glossary/#glycemic-index-gi) (GI)
@@ -47,16 +48,29 @@ on the freezing point, since they lack the necessary mass.
 If in powdered form, make sure the bulking agent has no effect
 – quite often erythritol is used since it adds no calories.
 
+### How to Dial in Sweetness?
+
+Bulky sweeteners (granules / powders) often have a high PAC of around 200 or more,
+and their dosage influences the ice cream's scoopability accordingly.
+Thus, determine their amount first, fitting the rest of teh recipe's ingredients.
+
+Then to arrive at the desired sweetness, ultra-sweet liquids are great since they
+keep the PAC at the same level and only increase the POD.
+Liquid stevia or sucralose are most commonly used here.
+
+In "classic" recipes, a similar effect is used by balancing table sugar with sweeteners
+that have a higher PAC and a lower POD, like dextrose.
+If both PAC and POD are too low, invert sugar or fructose give a boost to both at the same time.
+
+See the table above and the next section for details.
 
 ## Sweeteners
 
 ### Allulose
-
 Using it as a single sweetener in ice cream results in a poor texture,
 only use in combination with e.g. erythritol.
 
 ### Erythritol (E968)
-
 Sugar alcohol with a cooling mouth-feel and about 75% as sweet as sugar (add ⅓ when swapping). Erythritol is non-caloric.
 
 Erythritol lowers the freezing point of water drastically (2.8x compared to sugar).
@@ -82,7 +96,6 @@ To overcome these issues, the study found that a crystallization inhibitor, like
 An ideal ratio of three parts erythritol to two parts of a second polyol is suggested. The optimal usage level for erythritol was determined to be between 6.5% and 8.0% of the total recipe to maximize taste benefits without causing irreversible textural hardening. High-intensity sweeteners, such as sucralose, are also needed to balance sweetness, as polyols generally provide less sweetness than sugar.
 
 ### Inulin
-
 Inulin is a naturally occurring polysaccharide, and used to improve mouthfeel, stability, acceptability of low-fat ice creams, and forms a gel-like network that binds water.
 
 Inulin has fewer calories (2 kcal/g) compared to fat (9 kcal/g) or sucrose (4 kcal/g).
