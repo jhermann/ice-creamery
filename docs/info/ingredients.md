@@ -4,7 +4,7 @@ Here you can find some background information about common ingredients in ice cr
 
 ## Freezing Point Depression Factor (PAC) and Sweetness (POD)
 
-### Common Ingredient PAC/ POD / GI Values
+### Common Ingredient PAC / POD / GI Values
 [Freezing point depression factor](/ice-creamery/info/glossary/#potere-anti-congelante-pac) (FPDF / PAC),
 [sweetness](/ice-creamery/info/glossary/#potere-dolcificante-pod) (POD),
 and [glycemic index](/ice-creamery/info/glossary/#glycemic-index-gi) (GI)
@@ -52,7 +52,7 @@ If in powdered form, make sure the bulking agent has no effect
 
 Bulky sweeteners (granules / powders) often have a high PAC of around 200 or more,
 and their dosage influences the ice cream's scoopability accordingly.
-Thus, determine their amount first, fitting the rest of teh recipe's ingredients.
+Thus, determine their amount first, fitting the rest of the recipe's ingredients.
 
 Then to arrive at the desired sweetness, ultra-sweet liquids are great since they
 keep the PAC at the same level and only increase the POD.
@@ -67,8 +67,19 @@ See the table above and the next section for details.
 ## Sweeteners
 
 ### Allulose
-Using it as a single sweetener in ice cream results in a poor texture,
-only use in combination with e.g. erythritol.
+Allulose is a low-calorie sweetener (about 10% the energy of sucrose, and a GI of zero),
+that can be used to replace some or all of the sugar in a recipe, and does not count as "added sugar."
+It is offering a clean, well-rounded sweetness and similar texture
+while reducing the overall sugar and calorie content.
+
+Using it as a single sweetener in ice cream might result in a poorer texture (slight graininess),
+so if you experience that use it in combination with e.g. erythritol.
+
+It is a "rare sugar" that is naturally found in small amounts in certain foods,
+but is also produced commercially. In ice cream, allulose helps achieve
+a desirable sweetness, texture, and freezing point depression.
+
+In 2025, allulose is considered GRAS by the FDA, and still being evaluated by EFSA in the EU.
 
 ### Erythritol (E968)
 Sugar alcohol with a cooling mouth-feel and about 75% as sweet as sugar (add ⅓ when swapping). Erythritol is non-caloric.
