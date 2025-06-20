@@ -70,8 +70,8 @@ Rating: 😋😋😋🍌🍌
 
 # DIRECTIONS
 
- 1. Cut the dates into halves by their long side, and make sure they’re pitted and not spoiled. Use a splash of soy milk, if needed to combine things.
- 1. In an empty Creami tub, blend the dates and the other ‘prep’ ingredients to a smooth paste.
+ 1. Cut the dates into halves by their long side, and make sure they’re pitted and not spoiled.
+ 1. In an empty Creami tub, blend the dates and the other ‘prep’ ingredients to a smooth paste. Add a splash of soy milk, if needed, to combine things.
  1. Add "wet" ingredients to the puree.
  1. Weigh and mix dry ingredients, easiest by adding to a jar with a secure lid and shaking vigorously.
  1. Pour into the tub and *QUICKLY* use an immersion blender on full speed to homogenize everything.
