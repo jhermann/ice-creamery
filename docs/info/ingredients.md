@@ -575,6 +575,10 @@ while more (3-4 tbsp) can create a noticeable kick.
 Liqueurs and fortified wines can be added in larger quantities
 without significantly affecting the freezing point, up to a point.
 
+> 💡 **Alcohol Replacement**<br />If you don't want alcohol in your ice cream,
+> or prepare it for kids, replace the small amount of alcohol in non-boozy
+> recipes with vegetable glycerin. For 10g booze (40 vol%) use 8g VG instead.
+
 A good rule of thumb is to never add more than 200g of 40% (80 proof) alcohol
 in 1kg base (i.e. max. 20%), leading to roughly 8 vol% in total.
 This is good if you are looking to make a boozy ice cream,
