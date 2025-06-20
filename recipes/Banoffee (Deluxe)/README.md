@@ -60,7 +60,7 @@ Rating: 😋😋😋🍌🍌
 
   - _15g_ [Soy protein isolate (nature) \[Powerstar\]](/ice-creamery/info/ingredients/#soy-protein-isolate){target="_blank"}<sup>↗</sup> • 1kg bag, unsweetened, unflavored
   - _25g_ [Xylitol (E967)](/ice-creamery/info/ingredients/#xylitol-e967){target="_blank"}<sup>↗</sup> • Sweetness = 100%; GI = 7
-  - _10g_ ICSv2 [Erythritol / CMC / Tara / XG / Inulin] • [http﹕//bit.ly/4frc4Vj](https://jhermann.github.io/ice-creamery/I/Ice%20Cream%20Stabilizer%20(ICS)/)
+  - _10g_ ICSv2 [Erythritol / Inulin / CMC / Guar / XG / Salt] • [http﹕//bit.ly/4frc4Vj](https://jhermann.github.io/ice-creamery/I/Ice%20Cream%20Stabilizer%20(ICS)/)
   - _3g_ Vanilla Bean Powder [InterVanilla]
 
 **Fill to MAX**
@@ -87,7 +87,5 @@ Rating: 😋😋😋🍌🍌
 - **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 28.09
 - **Protein / Energy Ratio (ok=12%; hi=20%):** 23.36% • LOW-FAT • Hi-Protein
 - **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 29.5g • 4.1%
-- **Net carbs:** 65.8g • *∝ 5 servings@144g:* 13.2g • *∝ 3 servings@240g:* 21.9g
-- **30g Ice Cream Stabilizer (ICSv2) is:** 14.3g erythritol, 1.43g Tylose powder (CMC, E466), 
-0.5g tara gum (E417), 0.15g xanthan (E415),
-14.3g inulin, 0.5g salt.
+- **Net carbs:** 65.4g • *∝ 5 servings@144g:* 13.1g • *∝ 3 servings@240g:* 21.8g
+- **10g Ice Cream Stabilizer (ICSv2) is:** 4.6g Erythritol (E968) • 4.6g Inulin • 0.46g Tylose powder (E466, Tylo, CMC) • 0.16g Guar gum (E412) • 0.16g Salt • 0.05g Xanthan gum (E415, XG).
