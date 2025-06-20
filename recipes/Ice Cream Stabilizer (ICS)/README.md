@@ -30,25 +30,23 @@ and for a FPDF boost.
 # INGREDIENTS
 
   - _100g_ [Erythritol (E968)](/ice-creamery/info/ingredients/#erythritol-e968){target="_blank"}<sup>↗</sup> • Sweetness = 75%
+  - _100g_ [Inulin \[Vit4ever\]](/ice-creamery/info/ingredients/#inulin){target="_blank"}<sup>↗</sup> • Sweetness = 8%; GI ~= 0
   - _10g_ [Tylose powder (E466, Tylo, CMC)](/ice-creamery/info/ingredients/#carboxymethyl-cellulose-cmc-e466){target="_blank"}<sup>↗</sup>
   - _3.5g_ [Guar gum (E412)](/ice-creamery/info/ingredients/#guar-gum-e412){target="_blank"}<sup>↗</sup>
   - _3.5g_ Salt
   - _1g_ [Xanthan gum (E415, XG)](/ice-creamery/info/ingredients/#xanthan-gum-xg-e415){target="_blank"}<sup>↗</sup>
-  - _100g_ [Inulin \[Vit4ever\]](/ice-creamery/info/ingredients/#inulin){target="_blank"}<sup>↗</sup> • Sweetness = 8%; GI ~= 0
 
 # DIRECTIONS
 
  1. Weigh and mix dry ingredients, easiest by adding to a jar with a secure lid and shaking vigorously.
 
 # NUTRITIONAL & OTHER INFO
-- **Nutritional values per 100g/ml:** 100g; 107.2 kcal; fat 0.0g; carbs 54.7g; sugar 3.7g; protein 0.1g; salt 1.7g; fpdf 1.32g
-- **Nutritional values per dose:** 30g; 32.2 kcal; fat 0.0g; carbs 16.4g; sugar 1.1g; protein 0.0g; salt 0.5g; fpdf 1.32g
-- **Nutritional values total:** 218g; 233.8 kcal; fat 0.0g; carbs 119.2g; sugar 8.0g; protein 0.3g; salt 3.7g; fpdf 1.32g
+- **Nutritional values per 100g/ml:** 100g; 107.2 kcal; fat 0.0g; carbs 95.5g; sugar 3.7g; protein 0.1g; salt 1.7g; fpdf 1.32g
+- **Nutritional values per dose:** 30g; 32.2 kcal; fat 0.0g; carbs 28.7g; sugar 1.1g; protein 0.0g; salt 0.5g; fpdf 1.32g
+- **Nutritional values total:** 218g; 233.8 kcal; fat 0.0g; carbs 208.2g; sugar 8.0g; protein 0.3g; salt 3.7g; fpdf 1.32g
 - **FPDF:** 1.42
 - **FPDF (w/o salt):** 1.32
 - **Servings (Deluxe):** 7.27
-- **30g Ice Cream Stabilizer (ICSv2) is:** 14.3g erythritol, 1.43g Tylose powder (CMC, E466), 
-0.5g guar gum (E412), 0.15g xanthan (E415),
-14.3g inulin, 0.5g salt.
+- **Net carbs:** 19.2g • *∝ 7 servings@31g:* 2.7g
 - **Oct 29, 2024:** ICSv2 – Added inulin
 - **Jun 16, 2025:** Tara → Guar
