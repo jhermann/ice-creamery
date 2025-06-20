@@ -31,11 +31,12 @@ Process on *Sorbet*, [hold it shortly under running water](https://jhermann.gith
 *after* that.
 Then a scrape-down and a respin or re-mix.
 
-> <img width=220 alt="Spun Ice Cream" src="Banoffee_2025-06-20_1.jpg" class="zoomable" />
-> <img width=220 alt="Spun Ice Cream" src="Banoffee_2025-06-20_2.jpg" class="zoomable" />
-> <img width=220 alt="Spun Ice Cream" src="Banoffee_2025-06-20_3.jpg" class="zoomable" />
+> <img width=280 alt="Spun Ice Cream" src="Banoffee_2025-06-20_1.jpg" class="zoomable" />
+> <img width=280 alt="Spun Ice Cream" src="Banoffee_2025-06-20_2.jpg" class="zoomable" />
+> <img width=280 alt="Spun Ice Cream" src="Banoffee_2025-06-20_3.jpg" class="zoomable" />
+> <img width=280 alt="Spun Ice Cream" src="Banoffee_2025-06-20_4.jpg" class="zoomable" />
 > 
-> *Spun on sorbet, then a respin, resulting in a soft and smooth consistency. Refreeze for optimal scoopability.*
+> *Spun on sorbet, then a respin, resulting in a soft and smooth consistency. Refrozen for optimal scoopability, and served with dark chocolate chunks.*
 
 Rating: 😋😋😋🍌🍌
 
