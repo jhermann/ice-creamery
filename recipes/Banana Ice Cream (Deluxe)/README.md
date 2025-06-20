@@ -36,8 +36,11 @@ Rating: 😋😋🍌🍌🍦
 > <img width=220 alt="Lite Ice Cream" src="Banana_2025-06-18_0.jpg" class="zoomable" />
 > <img width=220 alt="Lite Ice Cream" src="Banana_2025-06-18_1.jpg" class="zoomable" />
 > <img width=220 alt="After Re-mix" src="Banana_2025-06-18_2.jpg" class="zoomable" />
+> <img width=220 alt="2 days later" src="Banana_2days_2025-06-20.jpg" class="zoomable" />
 >
-> *2025-06-18: Served with a cocoa powder sprinkle and almond slivers. Made with soy milk, spun on* Lite Ice Cream *and a re-mix. Still 😋😋🍌🍌🍦*
+> *2025-06-18: Served with a cocoa powder sprinkle and almond slivers. Made with soy milk, spun on* Lite Ice Cream *and a re-mix. The last picture is scooping texture after 2 days in the freezer.*
+> 
+> Still rated 😋😋🍌🍌🍦
 
 # INGREDIENTS
 
