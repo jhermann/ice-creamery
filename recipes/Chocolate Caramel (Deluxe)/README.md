@@ -9,6 +9,8 @@ tags:
 - Hi-Protein
 - Low-Sugar
 - Polysaccharide Gum
+- Scoopable
+- Sucralose
 - Tylo Powder (CMC)
 - Xylitol
 ---
@@ -28,25 +30,26 @@ Might add some almond butter next time, or replace the yogurt with cream cheese.
 **Prep**
 
   - _100ml_ Water (boiling)
-  - _30g_ Cocoa Powder 21% [Bensdorp Premium]
+  - _40g_ Cocoa Powder Organic 11% [Sevenhills]
 
 **Wet**
 
-  - _300ml_ Skim Milk 1.5% [Weihenstephan]
-  - _150g_ Greek Yogurt 9% [Lyttos]
-  - _15g_ Glycerin (E422, VG) [hd-line] • Sweetness = 60%; GI = 5
-  - _5 drops_ Caramel flavor drops [IronMaxx]
-  - _5ml_ Vanilla Extract (w/ alcohol) [Native Vanilla]
+  - _275ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
+  - _140g_ Greek Yogurt 9% [Lyttos]
+  - _20g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • POD = 60%; GI = 5; Density = 1.26 g/ml
+  - _10g_ [Brandy or Vodka 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup>
 
 **Dry**
 
-  - _25g_ Xylitol • Sweetness = 100%; GI = 7
-  - _25g_ Whey protein Caramel [MaxiNutrition]
-  - _30g_ ICSv2 [Erythritol / CMC / Tara / XG / Inulin] • [http﹕//bit.ly/4frc4Vj](https://github.com/jhermann/ice-creamery/tree/main/recipes/Ice%20Cream%20Stabilizer%20%28ICS%29)
+  - _30g_ [Xylitol (E967)](/ice-creamery/info/ingredients/#xylitol-e967){target="_blank"}<sup>↗</sup> • POD = 100%; GI = 7
+  - _25g_ [Whey protein Caramel \[MaxiNutrition\]](/ice-creamery/info/ingredients/#whey-protein){target="_blank"}<sup>↗</sup>
+  - _30g_ ICSv2 [Erythritol / Inulin / CMC / Guar / XG / Salt] • [http﹕//bit.ly/4frc4Vj](https://jhermann.github.io/ice-creamery/I/Ice%20Cream%20Stabilizer%20(ICS)/)
 
 **Fill to MAX**
 
-  - _40ml_ Water to MAX line
+  - _50ml_ Water to MAX line
+  - _2–4 drops_ Flavor drops Caramel (sucralose) [IronMaxx] • to taste
+  - _2–4 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
 
 # DIRECTIONS
 
@@ -60,11 +63,12 @@ Might add some almond butter next time, or replace the yogurt with cream cheese.
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
 
 # NUTRITIONAL & OTHER INFO
-- **Nutritional values per 100g/ml:** 100g; 95.1 kcal; fat 3.6g; carbs 11.2g; sugar 3.2g; protein 5.7g; salt 0.2g
-- **Nutritional values per ½ Deluxe Tub:** 360g; 342.5 kcal; fat 13.0g; carbs 40.4g; sugar 11.5g; protein 20.4g; salt 0.6g
-- **Nutritional values total:** 720g; 685.0 kcal; fat 26.1g; carbs 80.9g; sugar 23.0g; protein 40.8g; salt 1.2g
-- **FPDF / PAC (target 20..30):** 26.40
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 23.84% • Low-Sugar • Hi-Protein
-- **30g Ice Cream Stabilizer (ICSv2) is:** 14.3g erythritol, 1.43g Tylose powder (CMC, E466), 
-0.5g tara gum (E417), 0.15g xanthan (E415),
-14.3g inulin, 0.5g salt.
+- **Nutritional values per 100g/ml:** 100g; 96.8 kcal; fat 3.2g; carbs 13.7g; sugar 1.1g; protein 6.0g; salt 0.1g
+- **Nutritional values per ½ Deluxe Tub:** 360g; 348.5 kcal; fat 11.6g; carbs 49.3g; sugar 4.1g; protein 21.7g; salt 0.5g
+- **Nutritional values total:** 720g; 697.1 kcal; fat 23.1g; carbs 98.5g; sugar 8.1g; protein 43.5g; salt 1.1g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.86
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 24.94% • Low-Sugar • Hi-Protein
+- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 33.4g • 4.6%
+- **Net carbs:** 31.3g • *∝ 5 servings@144g:* 6.3g • *∝ 3 servings@240g:* 10.4g
+- **Jun 21, 2025:** Switched to soy milk
+- **30g Ice Cream Stabilizer (ICSv2) is:** 13.8g Erythritol (E968) • 13.8g Inulin • 1.4g Tylose powder (E466, Tylo, CMC) • 0.48g Guar gum (E412) • 0.48g Salt • 0.14g Xanthan gum (E415, XG).
