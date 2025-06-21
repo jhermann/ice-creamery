@@ -7,7 +7,12 @@ tags:
 - Erythritol
 - Favorite
 - Fruit
+- Hi-Protein
+- Low-Fat
+- Low-Sugar
 - Polysaccharide Gum
+- Scoopable
+- Sucralose
 - Tylo Powder (CMC)
 - Xylitol
 ---
@@ -28,21 +33,22 @@ Rating: 😋😋😋😋😋
 
 **Wet**
 
+  - _300ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
   - _225g_ Strawberries
-  - _250ml_ [Skim Milk 1.5% \[Weihenstephan\]](/ice-creamery/info/ingredients/#skim-milk){target="_blank"}<sup>↗</sup>
-  - _75g_ [Cream Cheese 23% \[Exquisa\]](/ice-creamery/info/ingredients/#cottage-cheese){target="_blank"}<sup>↗</sup>
-  - _15g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • Sweetness = 60%; GI = 5; Density = 1.26 g/ml
-  - _5ml_ [Vanilla Extract (w/ alcohol) \[Native Vanilla\]](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup>
+  - _50g_ [Cream Cheese 23% \[Exquisa\]](/ice-creamery/info/ingredients/#cream-cheese){target="_blank"}<sup>↗</sup>
+  - _20g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • POD = 60%; GI = 5; Density = 1.26 g/ml
+  - _10g_ [Brandy or Vodka 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup>
 
 **Dry**
 
-  - _30g_ ICSv2 [Erythritol / CMC / Tara / XG / Inulin] • [http﹕//bit.ly/4frc4Vj](https://jhermann.github.io/ice-creamery/I/Ice%20Cream%20Stabilizer%20(ICS)/)
-  - _25g_ [Xylitol](/ice-creamery/info/ingredients/#xylitol-e967){target="_blank"}<sup>↗</sup> • Sweetness = 100%; GI = 7
-  - _15g_ [Skim Milkpowder 1:10 \[Vita2You\]](/ice-creamery/info/ingredients/#skim-milk-powder-smp){target="_blank"}<sup>↗</sup>
+  - _30g_ ICSv2 [Erythritol / Inulin / CMC / Guar / XG / Salt] • [http﹕//bit.ly/4frc4Vj](https://jhermann.github.io/ice-creamery/I/Ice%20Cream%20Stabilizer%20(ICS)/)
+  - _25g_ [Xylitol (E967)](/ice-creamery/info/ingredients/#xylitol-e967){target="_blank"}<sup>↗</sup> • POD = 100%; GI = 7
+  - _25g_ [Soy protein isolate (nature) \[Powerstar\]](/ice-creamery/info/ingredients/#soy-protein-isolate){target="_blank"}<sup>↗</sup> • 1kg bag, unsweetened, unflavored
 
 **Fill to MAX**
 
-  - _80ml_ Water to MAX line
+  - _35ml_ Water to MAX line
+  - _3–5 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
 
 # DIRECTIONS
 
@@ -55,13 +61,13 @@ Rating: 😋😋😋😋😋
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
 
 # NUTRITIONAL & OTHER INFO
-- **Nutritional values per 100g/ml:** 100g; 81.4 kcal; fat 3.0g; carbs 12.7g; sugar 5.0g; protein 2.8g; salt 0.2g
-- **Nutritional values per ½ Deluxe Tub:** 360g; 293.1 kcal; fat 10.8g; carbs 45.7g; sugar 18.0g; protein 10.0g; salt 0.7g
-- **Nutritional values total:** 720g; 586.1 kcal; fat 21.7g; carbs 91.4g; sugar 36.0g; protein 20.0g; salt 1.5g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 28.43
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 13.62%
-- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 44.2g • 6.1%
-- **30g Ice Cream Stabilizer (ICSv2) is:** 14.3g erythritol, 1.43g Tylose powder (CMC, E466), 
-0.5g tara gum (E417), 0.15g xanthan (E415),
-14.3g inulin, 0.5g salt.
+- **Nutritional values per 100g/ml:** 100g; 79.4 kcal; fat 2.4g; carbs 12.6g; sugar 2.1g; protein 5.0g; salt 0.2g
+- **Nutritional values per ½ Deluxe Tub:** 360g; 285.7 kcal; fat 8.6g; carbs 45.5g; sugar 7.7g; protein 18.0g; salt 0.9g
+- **Nutritional values total:** 720g; 571.4 kcal; fat 17.2g; carbs 91.0g; sugar 15.4g; protein 36.0g; salt 1.7g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.93
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 25.22% • LOW-FAT • Low-Sugar • Hi-Protein
+- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 28.1g • 3.9%
+- **Net carbs:** 28.7g • *∝ 5 servings@144g:* 5.7g • *∝ 3 servings@240g:* 9.6g
 - **Nov 15, 2024:** Swap whey with SMP
+- **Jun 21, 2025:** Switched to soy milk and protein
+- **30g Ice Cream Stabilizer (ICSv2) is:** 13.8g Erythritol (E968) • 13.8g Inulin • 1.4g Tylose powder (E466, Tylo, CMC) • 0.48g Guar gum (E412) • 0.48g Salt • 0.14g Xanthan gum (E415, XG).
