@@ -32,6 +32,7 @@ Comes out “soft scoopable”, refreeze for at least 1–2 hours.
 Rating: 😋🍷🍓🍓🍓
 
 > <img width=360 alt="Scooped" src="Strawberry-Sangria_Scooped_2025-06-15_1.jpg" class="zoomable" /><br />
+> 
 > *Served a day later, with a drizzle of pomegranate syrup.*
 
 💡 If you can get ahold of it, mulled wine from berries (Bär Gløgg) is a great alternative to the red wine.
@@ -70,9 +71,10 @@ Rating: 😋🍷🍓🍓🍓
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
 
 # NUTRITIONAL & OTHER INFO
-- **Nutritional values per 100g/ml:** 100g; 56.2 kcal; fat 0.4g; carbs 5.4g; sugar 3.6g; protein 0.7g; salt 0.2g
-- **Nutritional values per ½ Deluxe Tub:** 360g; 202.3 kcal; fat 1.4g; carbs 19.6g; sugar 13.1g; protein 2.7g; salt 0.6g
-- **Nutritional values total:** 720g; 404.6 kcal; fat 2.7g; carbs 39.2g; sugar 26.1g; protein 5.4g; salt 1.1g
+- **Nutritional values per 100g/ml:** 100g; 56.2 kcal; fat 0.4g; carbs 7.9g; sugar 3.6g; protein 0.7g; salt 0.2g
+- **Nutritional values per ½ Deluxe Tub:** 360g; 202.3 kcal; fat 1.4g; carbs 28.5g; sugar 13.1g; protein 2.7g; salt 0.6g
+- **Nutritional values total:** 720g; 404.6 kcal; fat 2.7g; carbs 57.0g; sugar 26.1g; protein 5.4g; salt 1.1g
 - **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 31.67
 - **Protein / Energy Ratio (ok=12%; hi=20%):** 5.32% • LOW-FAT • Low-Sugar
 - **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 0.0g • 0.0%
+- **Net carbs:** 34.2g • *∝ 5 servings@144g:* 6.8g • *∝ 3 servings@240g:* 11.4g
