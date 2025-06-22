@@ -20,13 +20,15 @@ tags:
 # Soda Pop Sorbet (Deluxe)
 <img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="logo-soda-pop-sorbet.png" />
 
-> 🌿 **Vegan & Dairy-free**<br />Recipe is using only syrup + lemon juice and no dairy.
-
-> ℹ️ This is keto, at 24 net carbs per tub, so 5-8 per serving.
-
 Soda sorbet from 0-cal syrup. Works with any 0-sugar soda syrup — increase the recommended dosage by 33%, because ice cream.
 
-Process on Sorbet.
+<img style="float: left; margin-right: 1.5em;" width=240 alt="Syrup + lime" src="Sodapop_2025-06-22.jpg" class="zoomable" />
+
+> 🌿 **Vegan & Dairy-free**<br />Recipe is using only syrup + lemon juice and no dairy.
+
+> ℹ️ This is keto, at 14 net carbs per tub, so 2-5 per serving.
+
+<br clear=all /><br />Process on Sorbet.
 
 > <img width=360 alt="Spun Ice Cream" src="" class="zoomable" />
 
@@ -48,7 +50,7 @@ Rating: 😋🥤 (experimental)
 
   - _20g_ [Inulin \[Vit4ever\]](/ice-creamery/info/ingredients/#inulin){target="_blank"}<sup>↗</sup> • Sweetness = 8%; GI ~= 0
   - _15g_ [Erythritol (E968)](/ice-creamery/info/ingredients/#erythritol-e968){target="_blank"}<sup>↗</sup> • POD = 75%
-  - _10g_ [Xylitol](/ice-creamery/info/ingredients/#xylitol-e967){target="_blank"}<sup>↗</sup> • POD = 100%; GI = 7
+  - _10g_ [Xylitol (E967)](/ice-creamery/info/ingredients/#xylitol-e967){target="_blank"}<sup>↗</sup> • POD = 100%; GI = 7
   - _10g_ [Soy protein isolate (nature) \[Powerstar\]](/ice-creamery/info/ingredients/#soy-protein-isolate){target="_blank"}<sup>↗</sup> • 1kg bag, unsweetened, unflavored
   - _1.5g_ Salt
   - _1.5g_ [Tylose powder (E466 / CMC) \[GoodBake\]](/ice-creamery/info/ingredients/#carboxymethyl-cellulose-cmc-e466){target="_blank"}<sup>↗</sup>
@@ -69,10 +71,10 @@ Rating: 😋🥤 (experimental)
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
 
 # NUTRITIONAL & OTHER INFO
-- **Nutritional values per 100g/ml:** 100g; 33.8 kcal; fat 0.0g; carbs 6.8g; sugar 0.3g; protein 1.3g; salt 0.2g
-- **Nutritional values per ½ Deluxe Tub:** 360g; 121.6 kcal; fat 0.1g; carbs 24.5g; sugar 0.9g; protein 4.5g; salt 0.9g
-- **Nutritional values total:** 720g; 243.2 kcal; fat 0.1g; carbs 49.0g; sugar 1.8g; protein 9.1g; salt 1.8g
+- **Nutritional values per 100g/ml:** 100g; 33.8 kcal; fat 0.0g; carbs 9.3g; sugar 0.3g; protein 1.3g; salt 0.2g
+- **Nutritional values per ½ Deluxe Tub:** 360g; 121.6 kcal; fat 0.1g; carbs 33.4g; sugar 0.9g; protein 4.5g; salt 0.9g
+- **Nutritional values total:** 720g; 243.2 kcal; fat 0.1g; carbs 66.8g; sugar 1.8g; protein 9.1g; salt 1.8g
 - **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 28.32
 - **Protein / Energy Ratio (ok=12%; hi=20%):** 14.94% • LOW-CAL • LOW-FAT • Low-Sugar
 - **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 9.3g • 1.3%
-- **Net carbs:** 24.0g • *∝ 5 servings@144g:* 4.8g • *∝ 3 servings@240g:* 8g
+- **Net carbs:** 14.0g • *∝ 5 servings@144g:* 2.8g • *∝ 3 servings@240g:* 4.7g

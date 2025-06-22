@@ -1,37 +1,35 @@
 Soda Pop Sorbet (Deluxe);;;;;;;;;;;;;
 ;;;;;;;;;;;;;
 ;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;
-Nutritional values per 100g/ml;100;g;;33.8;0.0;6.8;0.3;1.3;0.2;;;;
-Nutritional values per ½ Deluxe Tub;360;g;;121.6;0.1;24.5;0.9;4.5;0.9;;;;
-Nutritional values total;720;g;;243.2;0.1;49.0;1.8;9.1;1.8;;;;
+Nutritional values per 100g/ml;100;g;;33.8;0.0;9.3;0.3;1.3;0.2;;;;
+Nutritional values per ½ Deluxe Tub;360;g;;121.6;0.1;33.4;0.9;4.5;0.9;;;;
+Nutritional values total;720;g;;243.2;0.1;66.8;1.8;9.1;1.8;;;;
 ;;;;;;;;;;;;;
 FPDF / PAC (target 20..30);28.32;;;;;;;;;;;;
 "Protein / Energy Ratio (ok=12%; hi=20%)";14.94%;;;LOW-CAL;LOW-FAT;;Low-Sugar;;;;;;
 ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);9.3;g;;1.3%;;;;;;;;;
-ℹ️ Net carbs;24.0;g;;*∝ 5 servings@144g:* 4.8g;;;*∝ 3 servings@240g:* 8g;;;;;;
-"> 🌿 **Vegan & Dairy-free**<br />Recipe is using only syrup + lemon juice and no dairy.
-
-> ℹ️ This is keto, at 24 net carbs per tub, so 5-8 per serving.";;;;;;;;;;;;;
-;;;;;;;;;;;;;
+ℹ️ Net carbs;14.0;g;;*∝ 5 servings@144g:* 2.8g;;;*∝ 3 servings@240g:* 4.7g;;;;;;
 "Soda sorbet from 0-cal syrup. Works with any 0-sugar soda syrup — increase the recommended dosage by 33%, because ice cream.
 
-Process on Sorbet.
+> 🌿 **Vegan & Dairy-free**<br />Recipe is using only syrup + lemon juice and no dairy.";;;;;;;;;;;;;
+;;;;;;;;;;;;;
+> ℹ️ This is keto, at 14 net carbs per tub, so 2-5 per serving.;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+"<br clear=all /><br />Process on Sorbet.
 
 Rating: 😋🥤 (experimental)";;;;;;;;;;;;;
-;;;;;;;;;;;;;
-;;;;;;;;;;;;;
 ;;;;;;;;;;;;;
 The [brand names] used are in brackets.;;;;;;;;;;;;;
 ;;;;;;;;;;;;;
 Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment;0Carb[%]
 Water (cold);400.00;ml;1;;;;;;;;;;
 Soda syrup “afri cola zero” [Sodapop];40.00;ml;1;0.00;0.00;0.00;0.00;0.00;0.01;;;500ml bottle (1:19, yields 10l);
-Glycerin (E422, VG) [hd-line];20.00;g;1;400.00;;99.00;;;;3.70;;"Sweetness = 60%; GI = 5; Density = 1.26 g/ml";
+Glycerin (E422, VG) [hd-line];20.00;g;1;400.00;;99.00;;;;3.70;;"Sweetness = 60%; GI = 5; Density = 1.26 g/ml";50.00
 Brandy or Vodka 40 vol%;15.00;g;1;280.00;;;;;;2.96;;;
 Lemon or lime juice;15.00;ml;1;25.00;0.10;3.36;1.65;0.30;0.01;0.02;;;
-Inulin [Vit4ever];20.00;g;2;210.00;;8.00;8.00;;0.20;0.09;;"Sweetness = 8%; GI ~= 0";
+Inulin [Vit4ever];20.00;g;2;210.00;;97.00;8.00;;0.20;0.09;;"Sweetness = 8%; GI ~= 0";89.00
 Erythritol (E968);15.00;g;2;24.00;0.00;100.00;0.00;0.00;0.00;2.80;;POD = 75%;100.00
-Xylitol;10.00;g;2;238.00;;100.00;;;;2.20;;"POD = 100%; GI = 7";100.00
+Xylitol (E967);10.00;g;2;238.00;;100.00;;;;2.20;;"POD = 100%; GI = 7";100.00
 Soy protein isolate (nature) [Powerstar];10.00;g;2;372.00;1.00;1.00;0.00;89.80;2.50;;93.00;1kg bag, unsweetened, unflavored;
 Salt;1.50;g;2;;;;;;100.00;5.90;;;
 Tylose powder (E466 / CMC) [GoodBake];1.50;g;2;600.00;;75.00;;;;;;;
