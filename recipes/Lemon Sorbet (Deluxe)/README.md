@@ -23,7 +23,7 @@ tags:
 
 > 🌿 **Vegan & Dairy-free**<br />Recipe is using only lemon juice and no dairy.
 
-> ℹ️ This is keto, at 6 net carbs per tub, so 1.3-2 per serving.
+> ℹ️ This is keto, at 13 net carbs per tub, so 2-5 per serving.
 
 Process on Sorbet.
 
@@ -47,8 +47,8 @@ Rating: 😋 (experimental)
 **Dry**
 
   - _15g_ [Erythritol (E968)](/ice-creamery/info/ingredients/#erythritol-e968){target="_blank"}<sup>↗</sup> • POD = 75%
-  - _15g_ [Xylitol](/ice-creamery/info/ingredients/#xylitol-e967){target="_blank"}<sup>↗</sup> • Sweetness = 100%; GI = 7
-  - _40g_ ICSv2 [Erythritol / CMC / Tara / XG / Inulin] • [http﹕//bit.ly/4frc4Vj](https://jhermann.github.io/ice-creamery/I/Ice%20Cream%20Stabilizer%20(ICS)/)
+  - _15g_ [Xylitol (E967)](/ice-creamery/info/ingredients/#xylitol-e967){target="_blank"}<sup>↗</sup> • Sweetness = 100%; GI = 7
+  - _40g_ ICSv2 [Erythritol / Inulin / CMC / Guar / XG / Salt] • [http﹕//bit.ly/4frc4Vj](https://jhermann.github.io/ice-creamery/I/Ice%20Cream%20Stabilizer%20(ICS)/)
   - _1 pinch_ Tumeric • for color
 
 **Fill to MAX**
@@ -66,13 +66,11 @@ Rating: 😋 (experimental)
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
 
 # NUTRITIONAL & OTHER INFO
-- **Nutritional values per 100g/ml:** 100g; 28.0 kcal; fat 0.0g; carbs 9.9g; sugar 0.5g; protein 0.1g; salt 0.1g
-- **Nutritional values per ½ Deluxe Tub:** 360g; 100.7 kcal; fat 0.1g; carbs 35.5g; sugar 1.8g; protein 0.2g; salt 0.3g
-- **Nutritional values total:** 720g; 201.5 kcal; fat 0.1g; carbs 70.9g; sugar 3.5g; protein 0.4g; salt 0.7g
+- **Nutritional values per 100g/ml:** 100g; 28.0 kcal; fat 0.0g; carbs 12.1g; sugar 0.5g; protein 0.1g; salt 0.1g
+- **Nutritional values per ½ Deluxe Tub:** 360g; 100.7 kcal; fat 0.1g; carbs 43.6g; sugar 1.8g; protein 0.2g; salt 0.3g
+- **Nutritional values total:** 720g; 201.4 kcal; fat 0.1g; carbs 87.3g; sugar 3.5g; protein 0.4g; salt 0.7g
 - **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.42
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 0.82% • LOW-CAL • LOW-FAT • Low-Sugar • Low-Salt
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 0.84% • LOW-CAL • LOW-FAT • Low-Sugar • Low-Salt
 - **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 0.0g • 0.0%
-- **Net carbs:** 6.3g • *∝ 5 servings@144g:* 1.3g • *∝ 3 servings@240g:* 2.1g
-- **30g Ice Cream Stabilizer (ICSv2) is:** 14.3g erythritol, 1.43g Tylose powder (CMC, E466), 
-0.5g tara gum (E417), 0.15g xanthan (E415),
-14.3g inulin, 0.5g salt.
+- **Net carbs:** 13.4g • *∝ 5 servings@144g:* 2.7g • *∝ 3 servings@240g:* 4.5g
+- **40g Ice Cream Stabilizer (ICSv2) is:** 18.3g Erythritol (E968) • 18.3g Inulin • 1.8g Tylose powder (E466, Tylo, CMC) • 0.64g Guar gum (E412) • 0.64g Salt • 0.18g Xanthan gum (E415, XG).

@@ -1,5 +1,8 @@
 ---
 description: Recipe for the Ninja Creami Deluxe [24oz]
+excluded_steps:
+- Prepare specified ingredients
+- ingredients to empty Creami tub.
 excluded_tags:
 - Vanilla
 tags:
@@ -8,7 +11,6 @@ tags:
 - Erythritol
 - Low-Sugar
 - Polysaccharide Gum
-- Scoopable
 - Sucralose
 - Tylo Powder (CMC)
 - Xylitol
@@ -18,9 +20,9 @@ tags:
 
 Process on SORBET and MIX-IN or RE-SPIN (choose depending on consistency you get after processing, and eventually want after 2nd spin).
 
-Rating: 😋🥥🍵 (untested)
-
 > <img width=360 alt="Spun Ice Cream" src="" class="zoomable" />
+
+Rating: 😋🥥🍵 (untested)
 
 # INGREDIENTS
 
@@ -33,21 +35,21 @@ Rating: 😋🥥🍵 (untested)
 
 **Wet**
 
-  - _250ml_ [Skim Milk 1.5% \[Weihenstephan\]](/ice-creamery/info/ingredients/#skim-milk){target="_blank"}<sup>↗</sup>
+  - _250ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
   - _100ml_ [Coconut milk 22% \[REWE Bio\]](/ice-creamery/info/ingredients/#coconut-milk){target="_blank"}<sup>↗</sup>
-  - _100g_ Cottage Cheese 4% [REWE Bio]
+  - _100g_ [Cottage Cheese 4% \[REWE Bio\]](/ice-creamery/info/ingredients/#cottage-cheese){target="_blank"}<sup>↗</sup>
   - _20g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • POD = 60%; GI = 5; Density = 1.26 g/ml
-  - _10g_ Brandy “Williams Birne” 40 vol%
-  - _7 drops_ Flavor drops Vanilla [IronMaxx] • with sucralose
+  - _10g_ [Brandy or Vodka 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup>
 
 **Dry**
 
-  - _30g_ [Xylitol](/ice-creamery/info/ingredients/#xylitol-e967){target="_blank"}<sup>↗</sup> • POD = 100%; GI = 7
-  - _20g_ ICSv2 [Erythritol / CMC / Tara / XG / Inulin] • [http﹕//bit.ly/4frc4Vj](https://jhermann.github.io/ice-creamery/I/Ice%20Cream%20Stabilizer%20(ICS)/)
+  - _30g_ [Xylitol (E967)](/ice-creamery/info/ingredients/#xylitol-e967){target="_blank"}<sup>↗</sup> • POD = 100%; GI = 7
+  - _20g_ ICSv2 [Erythritol / Inulin / CMC / Guar / XG / Salt] • [http﹕//bit.ly/4frc4Vj](https://jhermann.github.io/ice-creamery/I/Ice%20Cream%20Stabilizer%20(ICS)/)
 
 **Fill to MAX**
 
   - _84ml_ Water to MAX line
+  - _5–8 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
 
 # DIRECTIONS
 
@@ -62,12 +64,11 @@ Rating: 😋🥥🍵 (untested)
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
 
 # NUTRITIONAL & OTHER INFO
-- **Nutritional values per 100g/ml:** 100g; 90.9 kcal; fat 4.2g; carbs 11.4g; sugar 2.5g; protein 3.5g; salt 0.2g
-- **Nutritional values per ½ Deluxe Tub:** 360g; 327.2 kcal; fat 15.0g; carbs 41.0g; sugar 9.0g; protein 12.6g; salt 0.7g
-- **Nutritional values total:** 720g; 654.3 kcal; fat 30.0g; carbs 81.9g; sugar 18.0g; protein 25.2g; salt 1.3g
-- **FPDF / PAC (target 20..30):** 30.72
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 15.42% • Low-Sugar
-- **Milk Solids Non-Fat (MSNF, 7-11%):** 38.9g • 5.4%
-- **30g Ice Cream Stabilizer (ICSv2) is:** 14.3g erythritol, 1.43g Tylose powder (CMC, E466), 
-0.5g tara gum (E417), 0.15g xanthan (E415),
-14.3g inulin, 0.5g salt.
+- **Nutritional values per 100g/ml:** 100g; 85.0 kcal; fat 4.2g; carbs 11.1g; sugar 0.8g; protein 3.3g; salt 0.2g
+- **Nutritional values per ½ Deluxe Tub:** 360g; 305.9 kcal; fat 15.1g; carbs 40.0g; sugar 2.9g; protein 12.0g; salt 0.6g
+- **Nutritional values total:** 720g; 611.8 kcal; fat 30.2g; carbs 80.1g; sugar 5.7g; protein 24.0g; salt 1.3g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 28.96
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 15.68% • Low-Sugar
+- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 16.0g • 2.2%
+- **Net carbs:** 21.9g • *∝ 5 servings@144g:* 4.4g • *∝ 3 servings@240g:* 7.3g
+- **20g Ice Cream Stabilizer (ICSv2) is:** 9.2g Erythritol (E968) • 9.2g Inulin • 0.92g Tylose powder (E466, Tylo, CMC) • 0.32g Guar gum (E412) • 0.32g Salt • 0.09g Xanthan gum (E415, XG).
