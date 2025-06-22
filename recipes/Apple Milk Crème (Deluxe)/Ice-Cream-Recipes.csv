@@ -1,47 +1,47 @@
-Apple Milk Crème (Deluxe);;;;;;;;;;;;
-;;;;;;;;;;;;
-;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;
-Nutritional values per 100g/ml;100;g;;94.1;2.9;14.3;5.1;5.5;0.4;;;
-Nutritional values per ½ Deluxe Tub;360;g;;338.8;10.4;51.6;18.4;19.9;1.4;;;
-Nutritional values total;720;g;;677.5;20.8;103.2;36.7;39.8;2.9;;;
-;;;;;;;;;;;;
-FPDF / PAC (target 20..30);31.04;;;;;;;;;;;
-"Protein / Energy Ratio (ok=12%; hi=20%)";23.50%;;;;LOW-FAT;;;Hi-Protein;;;;
-Milk Solids Non-Fat (MSNF, 7-11%);23.3;g;;3.2%;;;;;;;;
-;;;;;;;;;;;;
+Apple Milk Crème (Deluxe);;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;
+Nutritional values per 100g/ml;100;g;;94.1;2.9;16.2;5.1;5.5;0.4;;;;
+Nutritional values per ½ Deluxe Tub;360;g;;338.8;10.4;58.3;18.4;19.9;1.4;;;;
+Nutritional values total;720;g;;677.5;20.8;116.6;36.7;39.8;2.9;;;;
+;;;;;;;;;;;;;
+FPDF / PAC (target 20..30);31.04;;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";23.50%;;;;LOW-FAT;;;Hi-Protein;;;;;
+ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);23.3;g;;3.2%;;;;;;;;;
+ℹ️ Net carbs;55.7;g;;*∝ 5 servings@144g:* 11.1g;;;*∝ 3 servings@240g:* 18.6g;;;;;;
 "> 🌿 **Vegan & Dairy-free**<br />Recipe is using only soy milk and protein.
 
 Process on *Frozen Yogurt*, [hold it shortly under running water](https://jhermann.github.io/ice-creamery/info/tips%2Btricks/#handling-of-icy-sides-bottom)
 *after* that. Then a scrape-down and a respin.
 
-Rating: 😋🍎🍏 (untested)";;;;;;;;;;;;
-;;;;;;;;;;;;
+Rating: 😋🍎🍏 (untested)";;;;;;;;;;;;;
+;;;;;;;;;;;;;
 "**Mix-in Options**
 
  * 20g [Almond slivers](../../T/Toppings/#chopped-nuts) • Mixin / Topping
- * 10g Raisins • Mixin / Topping";;;;;;;;;;;;
+ * 10g Raisins • Mixin / Topping";;;;;;;;;;;;;
 "1. In an empty tub, blend the hemp hearts and parts of the milk to a smooth puree.
- 1. Then add all the other ‘wet’ ingredients.";;;;;;;;;;;;
-1. Before freezing, let it rest in the fridge for at least 2 hours.;;;;;;;;;;;;
-;;;;;;;;;;;;
-The [brand names] used are in brackets.;;;;;;;;;;;;
-;;;;;;;;;;;;
-Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment
-Soy milk 1.6% (sugar-free) [Berief];75.00;ml;0;30.00;1.60;0.90;0.00;3.00;0.08;;;
-Hemp hearts (organic, shelled) [alnatura];30.00;g;0;630.00;52.00;5.40;1.80;32.00;0.02;;;
-Apple Sauce (no added sugar) [Gut Bio/Aldi];350.00;g;1;52.00;0.50;12.00;10.00;0.50;0.01;0.10;;1 jar = 355g
-Soy milk 1.6% (sugar-free) [Berief];125.00;ml;1;30.00;1.60;0.90;0.00;3.00;0.08;;;
-Glycerin (E422, VG) [hd-line];15.00;g;1;400.00;;99.00;;;;3.70;;"POD = 60%; GI = 5; Density = 1.26 g/ml"
-Flavor drops Caramel (sucralose) [IronMaxx];3.00;drops;1;;;;;;;;;to taste
-Flavor drops Vanilla (sucralose) [IronMaxx];3.00;drops;1;;;;;;;;;to taste
-Erythritol (E968);25.00;g;2;24.00;0.00;100.00;0.00;0.00;0.00;2.80;;POD = 75%
-Soy protein isolate (nature) [Powerstar];25.00;g;2;372.00;1.00;1.00;0.00;89.80;2.50;;93.00;1kg bag, unsweetened, unflavored
-Inulin [Vit4ever];15.00;g;2;210.00;;8.00;8.00;;0.20;0.09;;"Sweetness = 8%; GI ~= 0"
-Xylitol;15.00;g;2;238.00;;100.00;;;;2.20;;"POD = 100%; GI = 7"
-Cinnamon (Ceylon);2.00;g;2;;;;;;;;;"to taste; 1tsp = 3g"
-Glycerol Monostearate (E471) [Bulk];2.00;g;2;415.00;;;;;;;;
-Tylose powder (E466 / CMC) [GoodBake];2.00;g;2;600.00;;75.00;;;;;;
-ICSv2 [Erythritol / CMC / Tara / XG / Inulin];;g;2;107.3;0.0;54.7;3.7;0.1;1.7;1.32;;http://bit.ly/4frc4Vj
-Salt;2.00;g;2;;;;;;100.00;5.90;;
-;;;;;;;;;;;;
-Water to MAX line;37.00;ml;3;;;;;;;;;
+ 1. Then add all the other ‘wet’ ingredients.";;;;;;;;;;;;;
+1. Before freezing, let it rest in the fridge for at least 2 hours.;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+The [brand names] used are in brackets.;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment;0Carb[%]
+Soy milk 1.6% (sugar-free) [Berief];75.00;ml;0;30.00;1.60;0.90;0.00;3.00;0.08;;;;
+Hemp hearts (organic, shelled) [alnatura];30.00;g;0;630.00;52.00;5.40;1.80;32.00;0.02;;;;
+Apple Sauce (no added sugar) [Gut Bio/Aldi];350.00;g;1;52.00;0.50;12.00;10.00;0.50;0.01;0.10;;1 jar = 355g;
+Soy milk 1.6% (sugar-free) [Berief];125.00;ml;1;30.00;1.60;0.90;0.00;3.00;0.08;;;;
+Glycerin (E422, VG) [hd-line];15.00;g;1;400.00;;99.00;;;;3.70;;"Sweetness = 60%; GI = 5; Density = 1.26 g/ml";50.00
+Erythritol (E968);25.00;g;2;24.00;0.00;100.00;0.00;0.00;0.00;2.80;;POD = 75%;100.00
+Soy protein isolate (nature) [Powerstar];25.00;g;2;372.00;1.00;1.00;0.00;89.80;2.50;;93.00;1kg bag, unsweetened, unflavored;
+Inulin [Vit4ever];15.00;g;2;210.00;;97.00;8.00;;0.20;0.09;;"Sweetness = 8%; GI ~= 0";89.00
+Xylitol (E967);15.00;g;2;238.00;;100.00;;;;2.20;;"POD = 100%; GI = 7";100.00
+Cinnamon (Ceylon);2.00;g;2;;;;;;;;;"to taste; 1tsp = 3g";
+Glycerol Monostearate (E471) [Bulk];2.00;g;2;415.00;;;;;;;;;
+Tylose powder (E466 / CMC) [GoodBake];2.00;g;2;600.00;;75.00;;;;;;;
+ICSv2 [Erythritol / Inulin / CMC / Guar / XG / Salt];;g;2;107.2;0.0;95.5;3.7;0.1;1.7;1.32;;http://bit.ly/4frc4Vj;90.80
+Salt;2.00;g;2;;;;;;100.00;5.90;;;
+;;;;;;;;;;;;;
+Water to MAX line;37.00;ml;3;;;;;;;;;;
+Flavor drops Caramel (sucralose) [IronMaxx];2–4;drops;3;;;;;;;;;to taste;
+Flavor drops Vanilla (sucralose) [IronMaxx];2–4;drops;3;;;;;;;;;to taste;
