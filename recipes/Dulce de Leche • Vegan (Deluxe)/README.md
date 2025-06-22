@@ -1,5 +1,8 @@
 ---
 description: Recipe for the Ninja Creami Deluxe [24oz]
+excluded_steps:
+- ingredients to empty Creami tub.
+- Add the prepared dry ingredients
 excluded_tags:
 - Vanilla
 tags:
@@ -63,8 +66,6 @@ Rating: 😋🥛 (untested)
  1. Cut the dates into halves by their long side, and make sure they’re pitted and not spoiled.
  1. Blend the dates with part of the milk and the other ‘prep’ ingredients to a smooth paste.
  1. Fill up with the rest of the milk.
- 1. Add "wet" ingredients to empty Creami tub.
- 1. Add the prepared dry ingredients, and blend QUICKLY using an immersion blender on full speed.
  1. Weigh and mix dry ingredients, easiest by adding to a jar with a secure lid and shaking vigorously.
  1. Pour into the tub and *QUICKLY* use an immersion blender on full speed to homogenize everything.
  1. Let blender run until thickeners are properly hydrated, up to 1-2 min. Or blend again after waiting that time.
