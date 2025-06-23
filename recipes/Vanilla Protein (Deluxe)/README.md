@@ -1,13 +1,15 @@
 ---
 description: Recipe for the Ninja Creami Deluxe [24oz]
-tags:
+excluded_tags:
 - Dairy
-- Draft
+tags:
+- Dairy-Free
 - Erythritol
 - Hi-Protein
 - Low-Fat
 - Low-Sugar
 - Polysaccharide Gum
+- Promising
 - Scoopable
 - Sucralose
 - Tylo Powder (CMC)
@@ -15,9 +17,12 @@ tags:
 - Xylitol
 ---
 # Vanilla Protein (Deluxe)
+<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="logo-vanilla-protein.png" />
 
 This is my usual base, but pure vanilla, no cream or cottage cheese, and double the protein powder.
 Low fat & sugar, and high protein.
+
+> 🌿 **Vegan & Dairy-free**<br />Recipe is using only soy milk + protein.
 
 Process on Lite Ice Cream.
 
@@ -31,20 +36,21 @@ Rating: 😋😋😋😋 (needs more testing)
 
 **Wet**
 
-  - _400ml_ [Skim Milk 1.5% \[Weihenstephan\]](/ice-creamery/info/ingredients/#skim-milk){target="_blank"}<sup>↗</sup>
-  - _15g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • POD = 60%; GI = 5; Density = 1.26 g/ml
-  - _10g_ [Brandy “Williams Birne” 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup>
-  - _5 drops_ Flavor drops Vanilla [IronMaxx] • with sucralose
+  - _450ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
+  - _20g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • Sweetness = 60%; GI = 5; Density = 1.26 g/ml
+  - _10g_ [Brandy or Vodka 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup>
 
 **Dry**
 
-  - _60g_ [Whey protein Vanilla \[MaxiNutrition\]](/ice-creamery/info/ingredients/#whey-protein){target="_blank"}<sup>↗</sup>
-  - _30g_ ICSv2 [Erythritol / CMC / Tara / XG / Inulin] • [http﹕//bit.ly/4frc4Vj](https://jhermann.github.io/ice-creamery/I/Ice%20Cream%20Stabilizer%20(ICS)/)
-  - _30g_ [Xylitol](/ice-creamery/info/ingredients/#xylitol-e967){target="_blank"}<sup>↗</sup> • POD = 100%; GI = 7
+  - _60g_ [Soy protein isolate (nature) \[Powerstar\]](/ice-creamery/info/ingredients/#soy-protein-isolate){target="_blank"}<sup>↗</sup> • 1kg bag, unsweetened, unflavored
+  - _30g_ ICSv2 [Erythritol / Inulin / CMC / Guar / XG / Salt] • [http﹕//bit.ly/4frc4Vj](https://jhermann.github.io/ice-creamery/I/Ice%20Cream%20Stabilizer%20(ICS)/)
+  - _30g_ [Xylitol (E967)](/ice-creamery/info/ingredients/#xylitol-e967){target="_blank"}<sup>↗</sup> • POD = 100%; GI = 7
+  - _4g_ Vanilla Bean Powder [InterVanilla]
 
 **Fill to MAX**
 
-  - _175ml_ Water to MAX line
+  - _116ml_ Water to MAX line
+  - _3–7 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
 
 # DIRECTIONS
 
@@ -57,12 +63,11 @@ Rating: 😋😋😋😋 (needs more testing)
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
 
 # NUTRITIONAL & OTHER INFO
-- **Nutritional values per 100g/ml:** 100g; 85.4 kcal; fat 1.3g; carbs 11.7g; sugar 3.3g; protein 8.4g; salt 0.2g
-- **Nutritional values per ½ Deluxe Tub:** 360g; 307.4 kcal; fat 4.7g; carbs 42.3g; sugar 11.9g; protein 30.4g; salt 0.6g
-- **Nutritional values total:** 720g; 614.8 kcal; fat 9.5g; carbs 84.6g; sugar 23.9g; protein 60.8g; salt 1.3g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.71
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 39.58% • LOW-FAT • Low-Sugar • Hi-Protein
-- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 90.2g • 12.5%
-- **30g Ice Cream Stabilizer (ICSv2) is:** 14.3g erythritol, 1.43g Tylose powder (CMC, E466), 
-0.5g tara gum (E417), 0.15g xanthan (E415),
-14.3g inulin, 0.5g salt.
+- **Nutritional values per 100g/ml:** 100g; 80.7 kcal; fat 1.1g; carbs 11.6g; sugar 0.2g; protein 9.4g; salt 0.3g
+- **Nutritional values per ½ Deluxe Tub:** 360g; 290.6 kcal; fat 3.9g; carbs 41.8g; sugar 0.8g; protein 33.7g; salt 1.2g
+- **Nutritional values total:** 720g; 581.3 kcal; fat 7.8g; carbs 83.6g; sugar 1.6g; protein 67.4g; salt 2.4g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 31.00
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 46.39% • LOW-FAT • Low-Sugar • Hi-Protein
+- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 55.8g • 7.8%
+- **Net carbs:** 16.4g • *∝ 5 servings@144g:* 3.3g • *∝ 3 servings@240g:* 5.5g
+- **30g Ice Cream Stabilizer (ICSv2) is:** 13.8g Erythritol (E968) • 13.8g Inulin • 1.4g Tylose powder (E466, Tylo, CMC) • 0.48g Guar gum (E412) • 0.48g Salt • 0.14g Xanthan gum (E415, XG).
