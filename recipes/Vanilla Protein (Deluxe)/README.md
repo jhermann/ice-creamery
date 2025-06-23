@@ -14,6 +14,7 @@ tags:
 - Sucralose
 - Tylo Powder (CMC)
 - Vanilla
+- Vegan
 - Xylitol
 ---
 # Vanilla Protein (Deluxe)
