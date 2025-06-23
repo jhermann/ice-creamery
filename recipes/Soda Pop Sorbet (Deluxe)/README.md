@@ -22,7 +22,7 @@ tags:
 
 Soda sorbet from 0-cal syrup. Works with any 0-sugar soda syrup — increase the recommended dosage by 33%, because ice cream.
 
-<img style="float: left; margin-right: 1.5em;" width=240 alt="Syrup + lime" src="Sodapop_2025-06-22.jpg" class="zoomable" />
+<img style="float: left; margin-right: 1.5em;" width=240 alt="Syrup bottles + lime" src="Sodapop_2025-06-23.jpg" class="zoomable" />
 
 > 🌿 **Vegan & Dairy-free**<br />Recipe is using only syrup + lemon juice and no dairy.
 
