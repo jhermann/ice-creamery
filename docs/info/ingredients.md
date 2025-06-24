@@ -250,6 +250,8 @@ That is the same reaction from molecular gastronomy used to create spherified fo
 
 *Dosage:* 0.1–0.5%; overdosing leads to gummy or overly chewy texture; needs some resting for hydration; flavorless, but slightly salty at higher concentrations.
 
+Combine with xanthan in a `3SA:2XG` ratio, e.g. 1.25g SA and .75g XG in a Deluxe tub (710ml).
+
 *Safety:* Sodium alginate is generally recognized as safe (GRAS) by the FDA,
 and is an [EFSA authorised food additive](https://www.efsa.europa.eu/en/efsajournal/pub/5049).
 
