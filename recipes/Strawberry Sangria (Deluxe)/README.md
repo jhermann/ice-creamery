@@ -23,19 +23,19 @@ tags:
 
 This creamy sorbet is inspired by Sangria, a refreshing, fruity, alcoholic punch originating from Spain and Portugal.
 
+>💡**Using mulled wine**<br />If you can get ahold of it, mulled wine from berries (Bär Gløgg) is a great alternative to the red wine.
+
 Process on *Sorbet*, then a scrape-down and a mix-in run.
 Comes out “soft scoopable”, refreeze for at least 1–2 hours.
 
-> <img width=360 alt="After Mix-in" src="Strawberry-Sangria_2025-06-14_1.jpg" class="zoomable" />
-> <img width=360 alt="Scooped" src="Strawberry-Sangria_2025-06-14_2.jpg" class="zoomable" />
+> <img width=220 alt="After Mix-in" src="Strawberry-Sangria_2025-06-14_1.jpg" class="zoomable" />
+> <img width=220 alt="Scooped" src="Strawberry-Sangria_2025-06-14_2.jpg" class="zoomable" />
 
 Rating: 😋🍷🍓🍓🍓
 
 > <img width=360 alt="Scooped" src="Strawberry-Sangria_Scooped_2025-06-15_1.jpg" class="zoomable" /><br />
 > 
 > *Served a day later, with a drizzle of pomegranate syrup.*
-
-💡 If you can get ahold of it, mulled wine from berries (Bär Gløgg) is a great alternative to the red wine.
 
 # INGREDIENTS
 
@@ -57,7 +57,7 @@ Rating: 😋🍷🍓🍓🍓
 **Fill to MAX**
 
   - _68ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup> • fill to MAX line
-  - _10 drops_ Flavor drops Strawberry (sucralose) [IronMaxx] • to taste
+  - _6–12 drops_ Flavor drops Strawberry (sucralose) [IronMaxx] • to taste
 
 # DIRECTIONS
 
