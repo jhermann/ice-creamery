@@ -239,6 +239,18 @@ Agar-Agar is a natural, plant-based gelling and thickening agent (hydrocolloid),
 
 > <sup>*Source:* https://www.amazingfoodmadeeasy.com/info/modernist-ingredients/more/agar-agar</sup>
 
+### Sodium Alginate (E401)
+*Sodium alginate* is a natural polysaccharide derived from brown seaweed,
+acting as a stabilizer, thickener, and gelling agent.
+In molecular gastronomy, it's used to create spherified foods like "caviar."
+
+In ice cream and especially sorbets, it helps to improve texture and prevent ice crystal formation. It contributes to a smooth and creamy consistency, enhancing the overall eating experience.
+
+*Dosage:* 0.1–0.5%; overdosing leads to gummy or overly chewy texture; needs some resting for hydration.
+
+*Safety:* Sodium alginate is generally recognized as safe (GRAS) by the FDA,
+and is an [EFSA authorised food additive](https://www.efsa.europa.eu/en/efsajournal/pub/5049).
+
 ### Carrageenans (E407)
 [Carrageenans](https://en.wikipedia.org/wiki/Carrageenan) are a family of natural polysaccharides derived from red seaweed (*Irish Moss*), and used as a thickening, emulsifying, and stabilizing agent. They improve texture and prevent ice crystal formation, and are often added to plant-based milks.
 
