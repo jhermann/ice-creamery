@@ -242,11 +242,13 @@ Agar-Agar is a natural, plant-based gelling and thickening agent (hydrocolloid),
 ### Sodium Alginate (E401)
 *Sodium alginate* is a natural polysaccharide derived from brown seaweed,
 acting as a stabilizer, thickener, and gelling agent.
-In molecular gastronomy, it's used to create spherified foods like "caviar."
 
 In ice cream and especially sorbets, it helps to improve texture and prevent ice crystal formation. It contributes to a smooth and creamy consistency, enhancing the overall eating experience.
 
-*Dosage:* 0.1–0.5%; overdosing leads to gummy or overly chewy texture; needs some resting for hydration.
+It works by reacting with calcium ions in cow's or vegan milk to form a gel-like structure
+That is the same reaction from molecular gastronomy used to create spherified foods like "caviar."
+
+*Dosage:* 0.1–0.5%; overdosing leads to gummy or overly chewy texture; needs some resting for hydration; flavorless, but slightly salty at higher concentrations.
 
 *Safety:* Sodium alginate is generally recognized as safe (GRAS) by the FDA,
 and is an [EFSA authorised food additive](https://www.efsa.europa.eu/en/efsajournal/pub/5049).
