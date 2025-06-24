@@ -1,0 +1,37 @@
+Toasted Cowcoa (Deluxe);;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;
+Nutritional values per 100g/ml;100;g;;75.8;0.7;15.5;5.4;4.6;0.2;;;;
+Nutritional values per ½ Deluxe Tub;360;g;;272.8;2.5;56.0;19.6;16.6;0.8;;;;
+Nutritional values total;720;g;;545.5;4.9;111.9;39.1;33.2;1.6;;;;
+;;;;;;;;;;;;;
+FPDF / PAC (target 20..30);31.49;;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";24.36%;;;;LOW-FAT;;;Hi-Protein;;;;;
+ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);69.4;g;;9.6%;;;;;;;;;
+ℹ️ Net carbs;52.2;g;;*∝ 5 servings@144g:* 10.4g;;;*∝ 3 servings@240g:* 17.4g;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+"Process on *Lite Ice Cream*, then a scrape-down and a mix-in run.
+
+Rating: 😋🐮🥛 (untested)";;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+"1. Carefully toast the milk powder in a pan.
+ 1. Add milk powder and cocoa into a bowl, and bloom it with the boiling water.
+ 1. Add the ‘wet’ ingredients and the cocoa paste into an empty Creami tub.";;;;;;;;;;;;;
+The [brand names] used are in brackets.;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment;0Carb[%]
+Water (boiling);100.00;ml;0;;;;;;;;;;
+Cocoa Powder Organic 11% [Sevenhills];20.00;g;0;367.00;11.00;26.80;0.90;28.00;0.05;;;;
+Skim milk powder 1:10 (SMP) [Vita2You];30.00;g;0;358.00;0.97;50.50;50.50;35.00;1.00;0.51;94.03;toasted;
+Buttermilk 1% [REWE];400.00;ml;1;35.00;0.50;4.00;4.00;3.50;0.15;0.04;8.50;;
+Glycerin (E422, VG) [hd-line];15.00;g;1;400.00;;99.00;;;;3.70;;"Sweetness = 60%; GI = 5; Density = 1.26 g/ml";50.00
+Brandy or Vodka 40 vol%;10.00;g;1;280.00;;;;;;2.96;;;
+Molasses [Grafschafter Goldsaft];5.00;g;1;306.00;0.50;70.00;66.00;2.30;0.03;0.66;;Sweetness = 66%;
+ICSv2 [Erythritol / Inulin / CMC / Guar / XG / Salt];30.00;g;2;107.2;0.0;95.5;3.7;0.1;1.7;1.32;;http://bit.ly/4frc4Vj;90.80
+Xylitol (E967);25.00;g;2;238.00;;100.00;;;;2.20;;"POD = 100%; GI = 7";100.00
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+Buttermilk 1% [REWE];85.00;ml;3;35.00;0.50;4.00;4.00;3.50;0.15;0.04;8.50;;
+Flavor drops Caramel (sucralose) [IronMaxx];3–6;drops;3;;;;;;;;;to taste;
