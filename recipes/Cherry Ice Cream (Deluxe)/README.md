@@ -14,10 +14,15 @@ tags:
 - Scoopable
 - Sucralose
 - Tylo Powder (CMC)
+- Vegan
 - Xylitol
 ---
 # Cherry Ice Cream (Deluxe)
 <img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="cherry-bliss.png" />
+
+> 🌿 **Vegan Option**<br />Replace the cream cheese with 50g tofu and 10ml water, blended to a creamy paste.
+
+Rating: 😋😋🍒🍒🍒
 
 > <img width=360 alt="Spun Ice Cream" src="cherry_2024-10-23.jpg" class="zoomable" />
 
