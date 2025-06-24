@@ -39,6 +39,10 @@ use the Markdown format for the output.
 
     This accompanies the information on the other pages here, and you can expect some duplication.
 
+*   **Philosophy & Principles**
+
+    A summary of the core components and principles underpinning the recipe formulations.
+
 *   **Recently Changed**
 
     This section lists recipes that have been created within the last two months.
