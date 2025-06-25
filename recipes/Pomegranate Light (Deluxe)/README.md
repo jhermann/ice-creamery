@@ -18,6 +18,7 @@ tags:
 - Xylitol
 ---
 # Pomegranate Light (Deluxe)
+<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="logo-pomegranate-light.png" />
 
 Pomegranate ice cream based on pomegranate syrup (nar ekşisi), soy milk, and cottage cheese. Clocking in at 64 kcal / 100g and 23g net carbs.
 
