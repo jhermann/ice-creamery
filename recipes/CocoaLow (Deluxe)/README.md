@@ -39,7 +39,7 @@ Rating: 😋 (untested)
 **Prep**
 
   - _125ml_ Water (boiling)
-  - _35g_ Cocoa Powder Organic 11% [Sevenhills]
+  - _35g_ [Cocoa Powder Organic 11% \[Sevenhills\]](/ice-creamery/info/ingredients/#cocoa-powder){target="_blank"}<sup>↗</sup>
 
 **Wet**
 
