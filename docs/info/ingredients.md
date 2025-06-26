@@ -579,6 +579,17 @@ By limiting water-ice-water transitions, whey proteins help to improve the freez
  Always check for ingredients other than protein, especially thickeners, emulsifers, and stabilizers.
  > Adapt your recipe accordingly if necessary.
 
+## Mix-ins and Toppings
+See also [Toppings & Mix-ins](/ice-creamery/T/Toppings/) for recipes
+with several ingredients that are processed in some way.
+
+### Cantuccini
+Cantuccini, also known as cantucci or "biscotti di Prato", are traditional Italian almond biscuits, originating from Tuscany. They are known for their oblong shape, twice-baked texture, and crunchy consistency.
+
+These biscuits are sturdy and will *not* totally disappear when using a Creami's mix-in mode.
+
+> <img width=240 alt="Cantuccini on a plate" src="../Cantuccini-dm-Bio.jpg" class="zoomable" />
+
 ## Miscellaneous
 ### Alcohol (Ethanol)
 Alcohol can enhance or provide flavor,
