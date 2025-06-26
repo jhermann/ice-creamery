@@ -622,5 +622,24 @@ It can make the texture softer and creamier, potentially due to the formation of
 
 Milk solids, cream, and stabilizers are more commonly used to achieve desired textures. 
 
+### Cocoa Powder
+
+Cocoa powder is a key ingredient in chocolate ice cream, providing both flavor and color. It's made from cocoa beans, and the powder is essentially the solids left after much of the cocoa butter is removed. In ice cream, it adds a rich, chocolatey taste and contributes to the overall texture and melting properties. 
+
+The type of cocoa powder used can influence the flavor profile, with Dutch-process cocoa powder (a/k/a alkalized or European-style) often preferred for its milder, less acidic and bitter taste. It also has a darker color.
+
+> <img width=240 alt="Sevenhills organic cocoa powder 11%" src="../Cocoa-Powder.jpg" class="zoomable" />
+
+There can be significant differences in fat content (e.g. 21% vs. 11%),
+which in turn changes carbs and proteins.
+This has an impact on flavor, and you should try the brands you have access to —
+they might *not* all taste the same.
+
+An important step you should *never* skip is blooming your cocoa powder. It is a technique where the dry powder is combined with a hot liquid, like water, coffee, or milk, to release its full flavor potential before adding it to a base. Make sure you end up with a smooth paste, free of any lumps.
+
+This process helps to hydrate the cocoa particles, soften their membrane, and release their aromatic compounds, resulting in a more intense chocolate flavor in the final dessert. Also don't forget that pinch of salt.
+
+By blooming cocoa powder, you can achieve a richer, more intense chocolate flavor without necessarily using more cocoa. It's a simple step that can make a noticeable difference in the final taste of your chocolate ice cream.
+
 ### Sodium Alginate
 Improves texture, forms matrix with casein, increases elasticity. Up to 1g per 720g.
