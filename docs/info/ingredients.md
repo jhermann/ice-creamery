@@ -640,6 +640,3 @@ An important step you should *never* skip is blooming your cocoa powder. It is a
 This process helps to hydrate the cocoa particles, soften their membrane, and release their aromatic compounds, resulting in a more intense chocolate flavor in the final dessert. Also don't forget that pinch of salt.
 
 By blooming cocoa powder, you can achieve a richer, more intense chocolate flavor without necessarily using more cocoa. It's a simple step that can make a noticeable difference in the final taste of your chocolate ice cream.
-
-### Sodium Alginate
-Improves texture, forms matrix with casein, increases elasticity. Up to 1g per 720g.
