@@ -14,6 +14,7 @@ tags:
 - Stevia
 ---
 # Forget-Me-Nut Swirl
+<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="logo-forget-me-nut.png" />
 
 A scandalously smooth frozen memento of caramel nostalgia and unapologetically nutty, impossible to forget once tasted.
 
