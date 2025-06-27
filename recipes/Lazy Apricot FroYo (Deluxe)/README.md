@@ -30,13 +30,13 @@ Spin on FroYo, scrape down, and re-mix.
 
   - _500g_ Yogurt 8% Apricot [Lyttos / Aldi]
   - _50g_ [Cottage Cheese 4% \[REWE Bio\]](/ice-creamery/info/ingredients/#cottage-cheese){target="_blank"}<sup>↗</sup>
-  - _15g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • Sweetness = 60%; GI = 5
-  - _10g_ [Brandy “Williams Birne” 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup>
+  - _15g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • POD = 60%; GI = 5; Density = 1.26 g/ml
+  - _10g_ [Brandy or Vodka 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup>
 
 **Dry**
 
-  - _20g_ ICSv2 [Erythritol / CMC / Tara / XG / Inulin] • [http﹕//bit.ly/4frc4Vj](https://jhermann.github.io/ice-creamery/I/Ice%20Cream%20Stabilizer%20(ICS)/)
-  - _20g_ [Xylitol](/ice-creamery/info/ingredients/#xylitol-e967){target="_blank"}<sup>↗</sup> • Sweetness = 100%; GI = 7
+  - _20g_ ICSv2 [Erythritol / Inulin / CMC / Guar / XG / Salt] • [http﹕//bit.ly/4frc4Vj](https://jhermann.github.io/ice-creamery/I/Ice%20Cream%20Stabilizer%20(ICS)/)
+  - _20g_ [Xylitol (E967)](/ice-creamery/info/ingredients/#xylitol-e967){target="_blank"}<sup>↗</sup> • POD = 100%; GI = 7
 
 **Fill to MAX**
 
@@ -53,12 +53,11 @@ Spin on FroYo, scrape down, and re-mix.
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
 
 # NUTRITIONAL & OTHER INFO
-- **Nutritional values per 100g/ml:** 100g; 119.1 kcal; fat 5.8g; carbs 14.9g; sugar 8.2g; protein 2.7g; salt 0.2g
-- **Nutritional values per ½ Deluxe Tub:** 360g; 428.8 kcal; fat 21.0g; carbs 53.6g; sugar 29.4g; protein 9.7g; salt 0.6g
-- **Nutritional values total:** 720g; 857.6 kcal; fat 42.0g; carbs 107.3g; sugar 58.7g; protein 19.4g; salt 1.1g
+- **Nutritional values per 100g/ml:** 100g; 119.1 kcal; fat 5.8g; carbs 16.0g; sugar 8.2g; protein 2.7g; salt 0.2g
+- **Nutritional values per ½ Deluxe Tub:** 360g; 428.8 kcal; fat 21.0g; carbs 57.7g; sugar 29.4g; protein 9.7g; salt 0.6g
+- **Nutritional values total:** 720g; 857.5 kcal; fat 42.0g; carbs 115.5g; sugar 58.7g; protein 19.4g; salt 1.1g
 - **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.58
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 9.03%
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 9.04%
 - **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 90.6g • 12.6%
-- **30g Ice Cream Stabilizer (ICSv2) is:** 14.3g erythritol, 1.43g Tylose powder (CMC, E466), 
-0.5g tara gum (E417), 0.15g xanthan (E415),
-14.3g inulin, 0.5g salt.
+- **Net carbs:** 69.8g • *∝ 5 servings@144g:* 14g • *∝ 3 servings@240g:* 23.3g
+- **20g Ice Cream Stabilizer (ICSv2) is:** 9.2g Erythritol (E968) • 9.2g Inulin • 0.92g Tylose powder (E466, Tylo, CMC) • 0.32g Guar gum (E412) • 0.32g Salt • 0.09g Xanthan gum (E415, XG).
