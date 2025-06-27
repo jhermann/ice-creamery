@@ -24,7 +24,7 @@ especially when it comes to a strong paddle / rod connection.
 
 After you're done with processing a tub,
 clean the tip of the rod with a damp cloth, **instantly and every time**.
-Throw the lid and paddle into your (shallowly) filled sink, so they're submerged.
+Disjoin and drop lid and paddle into your (shallowly) filled sink, so they're submerged.
 That gives you ample opportunity to dig into your freshly made creami,
 without residue drying up or congealing.
 
@@ -45,6 +45,8 @@ Keep a firm grip when doing that (don't drop the lid).
 Also, take out the gasket from time to time (at least once a month), and clean it and under it.
 When ice cream overflowed the rim, do that immediately.
 *Do not overstretch the gasket* when removing, cleaning, and putting it back.
+If you have problems removing the gasket, use a *blunt* instrument
+like the top end of a spoon to lift it up.
 
 ## 🤓 Remotely Monitor Your Freezer
 Freezers, especially auto-defrosting ones, do strange things. If as a nerd you want to have an eye on that,
