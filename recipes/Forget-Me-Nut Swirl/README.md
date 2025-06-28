@@ -37,15 +37,16 @@ Rating: 😋😋😋🥜🥜
   - _40ml_ Syrup Caramel (low-sugar) [Sukrin] • 14g sorbitol, erythritol, stevia
   - _30ml_ Cream 32% [REWE Beste Wahl]
   - _20g_ Peanut butter (crunchy, organic) [REWE] • 250g glass jar
-  - _10g_ [Erythritol (E968)](/ice-creamery/info/ingredients/#erythritol-e968){target="_blank"}<sup>↗</sup> • POD = 75%
-  - _5g_ Molasses [Grafschafter Goldsaft] • Sweetness = 66%
+  - _10g_ [Brandy or Vodka 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup>
+  - _5g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • POD = 60%; GI = 5; Density = 1.26 g/ml
 
 # DIRECTIONS
 
  1. Weigh and mix all ingredients in a small bowl.
 
 # NUTRITIONAL & OTHER INFO
-- **Nutritional values per 100g/ml:** 100g; 277.5 kcal; fat 18.9g; carbs 23.2g; sugar 5.6g; protein 5.6g; salt 0.1g
-- **Nutritional values per serving (for 1 tub):** 105g; 291.4 kcal; fat 19.8g; carbs 24.3g; sugar 5.9g; protein 5.9g; salt 0.2g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 31.59
-- **Net carbs:** 10.3g • *∝ 5 servings@21g:* 2.1g • *∝ 3 servings@35g:* 3.4g
+- **Nutritional values per 100g/ml:** 100g; 306.4 kcal; fat 18.9g; carbs 15.0g; sugar 2.5g; protein 5.5g; salt 0.1g
+- **Nutritional values per serving (for 1 tub):** 105g; 321.7 kcal; fat 19.8g; carbs 15.8g; sugar 2.6g; protein 5.8g; salt 0.2g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 47.58
+- **Net carbs:** 9.3g • *∝ 5 servings@21g:* 1.9g • *∝ 3 servings@35g:* 3.1g
+- **Jun 28, 2025:** Erythritol → Brandy + VG; no molasses
