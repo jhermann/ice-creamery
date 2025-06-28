@@ -28,7 +28,6 @@ You can use other alcohol without a strong flavor profile, like Grappa with 38�
 
 Process on *Sorbet*, [hold it shortly under running water](https://jhermann.github.io/ice-creamery/info/tips%2Btricks/#handling-of-icy-sides-bottom)
 *after* that.
-
 Then a scrape-down and a respin or re-mix.
 
 > <img width=360 alt="Spun Ice Cream" src="" class="zoomable" />
@@ -43,7 +42,7 @@ Rating: 😋🍑 (untested)
 
 **Prep**
 
-  - _50g_ [Tofu (plain) \[REWE Bio\]](/ice-creamery/info/ingredients/#tofu){target="_blank"}<sup>↗</sup> • use 150g of silken tofu if you have it
+  - _50g_ [Tofu (plain) \[REWE Bio\]](/ice-creamery/info/ingredients/#tofu){target="_blank"}<sup>↗</sup> • use 75g of silken tofu if you have it
   - _40g_ Bourbon 40 vol% (80 proof)
   - _5g_ Molasses [Grafschafter Goldsaft] • Sweetness = 66%
 
