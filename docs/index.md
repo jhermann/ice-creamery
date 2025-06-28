@@ -11,8 +11,8 @@ It currently has `{{ path(config.docs_dir).glob('?/*.md') | list | length }}` re
 ## How to Use This Site?
 Use the top bar to navigate using [Tags](tags/) or the first letter of a recipe name.
 
-> 💡 You can load <a href="/ice-creamery/print_page/" target="_blank">all pages at once<sup>↗</sup></a>
-> to save the site as stand-alone HTML or PDF.
+> 💡 You can load the <a href="/ice-creamery/print_page/" target="_blank">All You Can Read<sup>↗</sup></a>
+> version to save the site as a stand-alone HTML or PDF document, to read off-line.
 
 Check out the [Info](info/) section to get background information on the 'philosophy'
 behind the specific formulation of these recipes, the ingredients used, and some tips & tricks
