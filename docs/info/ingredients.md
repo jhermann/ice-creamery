@@ -185,6 +185,18 @@ Glycerin serves several key purposes in ice cream:
  * *Emulsifier:* Glycerin can help oil and water-based ingredients mix more effectively, improving the stability and consistency of the ice cream.
  * *Sweetener:* While it has a mild sweetness (about 60-75% as sweet as sugar), its sweetening power in the small amounts used in ice cream is often negligible compared to its other functional benefits. It's also considered a sugar substitute with a lower glycemic index.
 
+#### Glycerin and Blood Sugar (GI / net carbs)
+Glycerin has a very low GI of 5, since the liver produces glucose from it (via gluconeogenesis),
+but only at a percentage of 3% to 7% (and up to 22% *when fasting*).
+The FDA however mandates to include 100% in the carbs value of food labeling.
+
+[Oral Glycerin Has a Negligible Effect on Plasma Glucose and Insulin in Normal Subjects](https://gpinzone.blogspot.com/2014/03/lost-article-on-insulin-response-to.html)
+concludes that doses of oral glycerin up to 75g have a negligible effect on postprandial plasma glucose and insulin concentrations,
+and that doses up to 35g are well tolerated by healthy humans.
+
+Given the strong evidence of an actually low GI, but considering individual variability and
+the complexities of glucose vs. fat metabolic pathways (glycerin can take part in both),
+I count glycerin as contributing 50% net carbs of its weight.
 
 ### Xylitol (E967)
 
