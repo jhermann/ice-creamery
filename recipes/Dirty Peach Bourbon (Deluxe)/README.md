@@ -24,8 +24,11 @@ tags:
 
 The “dirty” refers to the molasses that is used instead of brown sugar.
 
+You can use other alcohol without a strong flavor profile, like Grappa with 38–44 vol%.
+
 Process on *Sorbet*, [hold it shortly under running water](https://jhermann.github.io/ice-creamery/info/tips%2Btricks/#handling-of-icy-sides-bottom)
 *after* that.
+
 Then a scrape-down and a respin or re-mix.
 
 > <img width=360 alt="Spun Ice Cream" src="" class="zoomable" />
@@ -57,7 +60,7 @@ Rating: 😋🍑 (untested)
 **Fill to MAX**
 
   - _50ml_ Water to MAX line
-  - _5 drops_ Flavor drops Peach / Maracuja (sucralose) [IronMaxx] • to taste
+  - _≈7 drops_ Flavor drops Peach / Maracuja (sucralose) [IronMaxx] • to taste
 
 # DIRECTIONS
 
