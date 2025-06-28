@@ -119,6 +119,9 @@ Natural chicory / agave inulin has 8g sugar, and 88% fiber. Further processing l
 
 > <sup>*Source:* https://www.icecreamscience.com/blog/why-is-inulin-used-in-ice-cream</sup>
 
+*Topinambur* or *Jerusalem artichoke syrup* has about 36% inulin, 1% glucose, and 2% fructose,
+at a density of ≈1.3 g/ml.
+
 ### Maltitol (E965)
 Maltitol is a white crystalline powder that can be used as
 a bulking agent, emulsifier, humectant, stabilizer, sweetener, and thickener.
