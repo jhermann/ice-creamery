@@ -433,7 +433,7 @@ For creaminess, you can combine almond milk with ingredients like
 almond butter, bananas, dates, cashews, and hemp hearts.
 
  >‼️**Check Ingredients List**<br />
- Always check for ingredients other than almonds and water, especially thickeners, emulsifers, and stabilizers.
+ > Always check for ingredients other than soy / oats / nuts, water, and salt, especially thickeners, emulsifiers, and stabilizers.
  > Adapt your recipe accordingly if necessary.
 
 ### Coconut Milk
@@ -451,7 +451,7 @@ That is why in recipes the expected percentage should always be included explici
 while *reduced fat* products typically have 7% to 17%.
 
  >‼️**Check Ingredients List**<br />
- Always check for ingredients other than coconut and water, especially thickeners, emulsifers, and stabilizers.
+ > Always check for ingredients other than soy / oats / nuts, water, and salt, especially thickeners, emulsifiers, and stabilizers.
  > Adapt your recipe accordingly if necessary.
 
 In your recipes, make sure to prevent separation of fatty and watery phases
@@ -542,7 +542,7 @@ No additional sugar also helps in boozy recipes, where you want to use
 all your "FP depression budget" on the boozy part.
 
  >‼️**Check Ingredients List**<br />
- Always check for ingredients other than soybeans and water, especially thickeners, emulsifers, and stabilizers.
+ > Always check for ingredients other than soy / oats / nuts, water, and salt, especially thickeners, emulsifiers, and stabilizers.
  > Adapt your recipe accordingly if necessary.
 
 ### Soy Protein Isolate
@@ -576,7 +576,7 @@ Whey protein primarily functions as a water-binding agent, contributing to visco
 By limiting water-ice-water transitions, whey proteins help to improve the freeze/thaw stability of ice cream, which also avoids a big quality degradation during long-term storage in the freezer.
 
  >‼️**Check Ingredients List**<br />
- Always check for ingredients other than protein, especially thickeners, emulsifers, and stabilizers.
+ > Always check for ingredients other than protein, especially thickeners, emulsifiers, and stabilizers.
  > Adapt your recipe accordingly if necessary.
 
 ## Mix-ins and Toppings
