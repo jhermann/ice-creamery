@@ -5,10 +5,10 @@ excluded_steps:
 - put on the lid
 - process with
 excluded_tags:
+- Fruit
 - Scoopable
 - Vanilla
 tags:
-- Draft
 - Erythritol
 - Low-Sugar
 - Stevia
@@ -24,10 +24,11 @@ Combine with your favorite vanilla or chocolate base.
 
 > <img width=220 alt="Chocolate ice cream after Sorbet run" src="forget-me-nut-choco_2025-06-28_1.jpg" class="zoomable" />
 > <img width=220 alt="Ice cream with caramel/peanut swirl" src="forget-me-nut-choco_2025-06-28_2.jpg" class="zoomable" />
+> <img width=220 alt="Ice cream with caramel/peanut swirl" src="forget-me-nut-choco_2025-06-28_3.jpg" class="zoomable" />
 > 
-> *Spun on Sorbet, swirl poured on top and folded in with a chopstick.*
+> *Spun on Sorbet, swirl poured on top and folded in with a chopstick. Served on cherry confit, topped with crushed cashews.*
 
-Rating: 😋🍫🥜 (untested)
+Rating: 😋😋😋🥜🥜
 
 # INGREDIENTS
 
