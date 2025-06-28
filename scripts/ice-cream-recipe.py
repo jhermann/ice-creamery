@@ -443,7 +443,7 @@ def main():
             lines.append('  - _{amount}{spacer}{unit}_ {href}'.format(**ingredient))
             if ingredient['comment']:
                 lines[-1] += f" • {ingredient['comment']}"
-            if 'ICSv2' in ingredient['ingredients']:
+            if 'ICSv2' in ingredient['ingredients'] and not args.macros:
                 scale = float(ingredient['amount']) / sum(ICSv2.values())
                 nutrient = ' • '.join([f"{round(v * scale, 2 if v * scale < 1 else 1)}g {k}" for k, v in ICSv2.items()])
                 nutrition.append(f"**{ingredient['amount']}g Ice Cream Stabilizer (ICSv2) is:** {nutrient}.")
