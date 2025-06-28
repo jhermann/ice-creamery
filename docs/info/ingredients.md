@@ -177,7 +177,7 @@ It is a clear, odorless, and sweet-tasting liquid with a syrupy consistency.
 
 *Vegetable* glycerin is typically made from plant oils like soybean, coconut, or palm oil.
 It has 60% the sweetness of table sugar, and is hygroscopic.
-Shelf life of glycerin is 24 months when stored below 100°F in a closed container.
+Shelf life of glycerin is 24 months when stored below 38°C / 100°F in a closed container.
 
 *Dosage:*  Add 5-15g to a 720g mix.
 
