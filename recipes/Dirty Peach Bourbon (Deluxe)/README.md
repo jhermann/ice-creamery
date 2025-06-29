@@ -27,10 +27,12 @@ You can use other alcohol without a strong flavor profile, like Grappa with 38�
 
 Process on *Sorbet*, [hold it shortly under running water](https://jhermann.github.io/ice-creamery/info/tips%2Btricks/#handling-of-icy-sides-bottom)
 *after* that.
-Then a scrape-down and a respin or re-mix.
+Then a scrape-down and a respin or re-mix.<br clear=all />
 
-> <img width=360 alt="After Sorbet run" src="dirty-peach_2025-06-29_1.jpg" class="zoomable" />
-> <img width=360 alt="After scrape-down + mix-in" src="dirty-peach_2025-06-29_2.jpg" class="zoomable" />
+> <img width=240 alt="After Sorbet run" src="dirty-peach_2025-06-29_1.jpg" class="zoomable" />
+> <img width=240 alt="After scrape-down + mix-in" src="dirty-peach_2025-06-29_2.jpg" class="zoomable" />
+> <img width=240 alt="Scooped after ~2 hours refreezing" src="dirty-peach_2025-06-29_3.jpg" class="zoomable" />
+> <img width=240 alt="Served with molasses and walnuts" src="dirty-peach_2025-06-29_4.jpg" class="zoomable" />
 
 Rating: 😋😋😋🍑🍑
 
