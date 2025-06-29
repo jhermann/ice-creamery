@@ -13,6 +13,7 @@ tags:
 - Vegan
 ---
 # Umamiso (Deluxe)
+<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="logo-umamiso.png" />
 
 An ‘exotic’ ice cream made from miso, hon mirin, coconut milk, and soy protein.
 
