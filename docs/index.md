@@ -1,5 +1,9 @@
 # About
-A collection of my tested / approved Ninja Creami recipes.
+A collection of my Ninja Creami recipes; the goal is to have only tested / approved ones,
+but on the way there [draft](https://jhermann.github.io/ice-creamery/tags/#tag:draft) recipes
+are tagged as such.
+Most recipes are formulated so that they also work in a classic churning machine.
+
 It currently has `{{ path(config.docs_dir).glob('?/*.md') | list | length }}` recipes.
 
 > <img width=720 alt="Gelato Cart" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/assets/gelato-cart.webp" />
