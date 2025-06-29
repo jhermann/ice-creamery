@@ -5,7 +5,6 @@ excluded_steps:
 tags:
 - Alcohol
 - Dairy-Free
-- Draft
 - Erythritol
 - Fruit
 - Light
@@ -30,9 +29,10 @@ Process on *Sorbet*, [hold it shortly under running water](https://jhermann.gith
 *after* that.
 Then a scrape-down and a respin or re-mix.
 
-> <img width=360 alt="Spun Ice Cream" src="" class="zoomable" />
+> <img width=360 alt="After Sorbet run" src="dirty-peach_2025-06-29_1.jpg" class="zoomable" />
+> <img width=360 alt="After scrape-down + mix-in" src="dirty-peach_2025-06-29_2.jpg" class="zoomable" />
 
-Rating: 😋🍑 (untested)
+Rating: 😋😋😋🍑🍑
 
 > <sup>Inspired by [u/formercotsachick](https://www.reddit.com/user/formercotsachick/)</sup>
 
