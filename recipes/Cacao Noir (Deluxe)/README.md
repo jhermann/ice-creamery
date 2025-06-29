@@ -34,7 +34,7 @@ Rating: 😋🍫 (untested)
 
   - _200ml_ Water (boiling)
   - _50g_ [Cocoa Powder Organic 11% \[Sevenhills\]](/ice-creamery/info/ingredients/#cocoa-powder){target="_blank"}<sup>↗</sup>
-  - _40g_ Dark chocolate 70% [Lindt] • Portion = 20g
+  - _50g_ Dark chocolate 70% [Moser-Roth/Aldi] • Portion = 25g
 
 **Wet**
 
@@ -54,7 +54,7 @@ Rating: 😋🍫 (untested)
 
 **Fill to MAX**
 
-  - _53ml_ Water to MAX line
+  - _43ml_ Water to MAX line
   - _≈4 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
 
 # DIRECTIONS
@@ -69,11 +69,11 @@ Rating: 😋🍫 (untested)
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
 
 # NUTRITIONAL & OTHER INFO
-- **Nutritional values per 100g/ml:** 100g; 109.5 kcal; fat 3.8g; carbs 14.4g; sugar 1.9g; protein 6.8g; salt 0.4g
-- **Nutritional values per ½ Deluxe Tub:** 360g; 394.2 kcal; fat 13.7g; carbs 51.7g; sugar 6.9g; protein 24.4g; salt 1.3g
-- **Nutritional values total:** 720g; 788.4 kcal; fat 27.4g; carbs 103.3g; sugar 13.7g; protein 48.7g; salt 2.6g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.30
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 24.73% • Low-Sugar • Hi-Protein
+- **Nutritional values per 100g/ml:** 100g; 115.7 kcal; fat 4.1g; carbs 14.9g; sugar 2.2g; protein 7.0g; salt 0.4g
+- **Nutritional values per ½ Deluxe Tub:** 360g; 416.7 kcal; fat 14.6g; carbs 53.6g; sugar 8.1g; protein 25.4g; salt 1.3g
+- **Nutritional values total:** 720g; 833.4 kcal; fat 29.2g; carbs 107.1g; sugar 16.1g; protein 50.7g; salt 2.6g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.64
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 24.35% • Low-Sugar • Hi-Protein
 - **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 27.9g • 3.9%
-- **Net carbs:** 38.1g • *∝ 5 servings@144g:* 7.6g • *∝ 3 servings@240g:* 12.7g
+- **Net carbs:** 41.9g • *∝ 5 servings@144g:* 8.4g • *∝ 3 servings@240g:* 14g
 - **30g Ice Cream Stabilizer (ICSv2) is:** 13.8g Erythritol (E968) • 13.8g Inulin • 1.4g Tylose powder (E466, Tylo, CMC) • 0.48g Guar gum (E412) • 0.48g Salt • 0.14g Xanthan gum (E415, XG).
