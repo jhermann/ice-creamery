@@ -17,6 +17,7 @@ tags:
 - Xylitol
 ---
 # Sweet Potato Pie (Deluxe)
+<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="logo-sweet-potato-pie.webp" />
 
 > 🌿 **Vegan & Dairy-free**<br />Recipe is using only soy milk and protein.
 
@@ -48,7 +49,7 @@ Rating: 😋 (untested)
   - _40g_ [Soy protein isolate (nature) \[Powerstar\]](/ice-creamery/info/ingredients/#soy-protein-isolate){target="_blank"}<sup>↗</sup> • 1kg bag, unsweetened, unflavored
   - _30g_ [Xylitol](/ice-creamery/info/ingredients/#xylitol-e967){target="_blank"}<sup>↗</sup> • POD = 100%; GI = 7
   - _15g_ [Inulin \[Vit4ever\]](/ice-creamery/info/ingredients/#inulin){target="_blank"}<sup>↗</sup> • Sweetness = 8%; GI ~= 0
-  - _3g_ Vanilla Bean Powder [InterVanilla]
+  - _3g_ [Vanilla Bean Powder \[InterVanilla\]](/ice-creamery/info/ingredients/#cocoa-powder){target="_blank"}<sup>↗</sup>
   - _1.5g_ Cinnamon (Ceylon) • to taste; 1tsp = 3g
   - _1.5g_ Salt
   - _1g_ Nutmeg • to taste; 1tsp ≈ 3g
