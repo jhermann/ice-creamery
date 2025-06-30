@@ -169,7 +169,7 @@ Stabilizers are additives that significantly enhance the quality of homemade and
     -   **Origin:** "Derived from the roots of the cast of a plant."
     -   **Properties:** "No flavor and also imparts a very glossy finish." Gluten-free.
     -   **Gelling:** "Very good at slightly lower temperatures but it does not hold up well to continual Heating."
-    -   **Effectiveness:** "Doesn't have the same efficiency as some of the some of the other stabilizers." While it will "increase viscosity," it "just doesn't do a good a job as good a job as controlling Ice Crystal formation and improving mouth feel and overrun."
+    -   **Effectiveness:** "Doesn't have the same efficiency as some of the other stabilizers." While it will "increase viscosity," it "just doesn't do a good a job as good a job as controlling Ice Crystal formation and improving mouth feel and overrun."
 
 -   **Corn Starch:**
 
