@@ -163,7 +163,7 @@ def read_images():
                 break
         result = {n : x for n, x in enumerate(lines) if '<img ' in x}
     if 1 not in result: # no logo yet
-        imgnames = [x for x in sorted(Path('.').glob('logo-*.*')) if x.suffix in {'.png', '.jpg', '.jpeg'}]
+        imgnames = [x for x in sorted(Path('.').glob('logo-*.*')) if x.suffix in {'.png', '.jpg', '.jpeg', '.webp'}]
         if imgnames:
             result[1] = LOGO_IMG % str(imgnames[0])
     return result or {999: '> <img width=360 alt="Spun Ice Cream" src="" class="zoomable" />'}
