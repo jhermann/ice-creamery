@@ -45,6 +45,7 @@ important ice cream metrics and nutritional information.
 ```embed
 url: https://www.libreoffice.org/
 image: https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/assets/libre-office-logo.png
+favicon: https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/assets/libre-office-favicon.ico
 ```
 
 A Python script then converts CSV exports of the spreadsheets to markdown files, which are in turn used to render this HTML web site using
