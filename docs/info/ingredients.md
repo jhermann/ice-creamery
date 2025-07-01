@@ -43,6 +43,16 @@ can slightly differ depending on brand, check the sugar content
 in the nutrition information. For recipe balancing, this normally
 will have no impact though.
 
+Some ingredients can make the frozen base harder, one way to account for that is
+using a hardening factor (HF; negative PAC):
+
+- Cocoa powder 21%: -160
+- Cocoa powder 11%: -130
+- Vegetable fat: -90
+- Cocoa butter: -90
+- Cocoa paste: -160
+- Hazelnut paste: -90
+
 Ultra-sweet fluids (sucralose, stevia/steviol, monk fruit) have no effect
 on the freezing point, since they lack the necessary mass.
 If in powdered form, make sure the bulking agent has no effect
