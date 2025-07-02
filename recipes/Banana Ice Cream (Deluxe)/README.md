@@ -22,8 +22,9 @@ tags:
 # Banana Ice Cream (Deluxe)
 <img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/assets/banana-ice-cream-logo.png" />
 
-> 🌿 **Vegan Option**<br />Replace the cottage cheese with 100g tofu,
- > and use soy protein isolate instead of the whey.
+> 🌿 **Vegan Option**<br />Replace the cottage cheese with 75g silken tofu
+> (or 50g firm tofu and 30ml water),
+> and use soy protein isolate instead of the whey.
 
 FroYo spin, mix-in with crushed cantuccini, and topped with almonds.
 
@@ -48,7 +49,7 @@ Rating: 😋😋🍌🍌🍦
 
 > <img width=480 alt="over the top" src="Banana_ganache_almond_syrup_2025-06-20.jpg" class="zoomable" />
 > 
-> *Banana ice cream served with cocoa powder, pomegranate syrup, dark chocolate ganache, and almond slivers.*
+> *Served with cocoa powder dusting, pomegranate syrup swirl, dark chocolate ganache, and almond slivers.*
 
 # INGREDIENTS
 
