@@ -1,16 +1,16 @@
 Banana Ice Cream (Deluxe);;;;;;;;;;;;;
 ;;;;;;;;;;;;;
 ;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;
-Nutritional values per 100g/ml;100;g;;93.0;1.6;16.3;5.5;5.5;0.2;;;;
-Nutritional values per ½ Deluxe Tub;360;g;;334.8;5.6;58.5;19.7;19.9;0.8;;;;
-Nutritional values total;720;g;;669.7;11.2;117.1;39.3;39.8;1.6;;;;
+Nutritional values per 100g/ml;100;g;;93.4;1.6;15.6;5.4;5.5;0.2;;;;
+Nutritional values per ½ Deluxe Tub;360;g;;336.2;5.6;56.3;19.5;20.0;0.7;;;;
+Nutritional values total;720;g;;672.3;11.2;112.6;39.0;39.9;1.4;;;;
 ;;;;;;;;;;;;;
-FPDF / PAC (target 20..30);30.06;;;;;;;;;;;;
-"Protein / Energy Ratio (ok=12%; hi=20%)";23.78%;;;;LOW-FAT;;;Hi-Protein;;;;;
+FPDF / PAC (target 20..30);29.62;;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";23.77%;;;;LOW-FAT;;;Hi-Protein;;;;;
 ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);33.8;g;;4.7%;;;;;;;;;
-ℹ️ Net carbs;62.3;g;;*∝ 5 servings@144g:* 12.5g;;;*∝ 3 servings@240g:* 20.8g;;;;;;
+ℹ️ Net carbs;61.9;g;;*∝ 5 servings@144g:* 12.4g;;;*∝ 3 servings@240g:* 20.6g;;;;;;
 "> 🌿 **Vegan Option**<br />Replace the cottage cheese with 75g silken tofu
-(or 50g firm tofu and 30ml water),
+> (or 50g firm tofu and 30ml water),
 > and use soy protein isolate instead of the whey.
 
 FroYo spin, mix-in with crushed cantuccini, and topped with almonds.
@@ -25,7 +25,7 @@ With brandy added: ice-free soft-serve after Light Ice Cream spin, scrape down, 
 > 
 > Still rated 😋😋🍌🍌🍦
 
-> Served with cocoa powder dusting, pomegranate syrup swirl, dark chocolate ganache, and almond slivers.";;;;;;;;;;;;;
+> *Served with cocoa powder dusting, pomegranate syrup swirl, dark chocolate ganache, and almond slivers.*";;;;;;;;;;;;;
 ;;;;;;;;;;;;;
 "1. Blend the bananas, cottage cheese and the other ‘prep’ ingredients in an empty tub to a soft puree.
  1. Add ""wet"" ingredients to the banana puree.";;;;;;;;;;;;;
@@ -42,13 +42,14 @@ Brandy or Vodka 40 vol%;10.00;g;0;280.00;;;;;;2.96;;;
 Lemon juice;10.00;ml;0;25.00;0.10;3.36;1.65;0.30;0.01;0.02;;;
 Soy milk 1.6% (sugar-free) [Berief];250.00;ml;1;30.00;1.60;0.90;0.00;3.00;0.08;;;;
 Skim Milk 1.5% [Weihenstephan];;ml;1;47.00;1.50;4.90;4.90;3.50;0.11;0.05;9.16;;
-ICSv2 [Erythritol / Inulin / CMC / Guar / XG / Salt];30.00;g;2;107.2;0.0;95.5;3.7;0.1;1.7;1.32;;http://bit.ly/4frc4Vj;90.80
+ICSv2 [Erythritol / Inulin / CMC / Guar / XG / Salt];20.00;g;2;107.2;0.0;95.5;3.7;0.1;1.7;1.32;;http://bit.ly/4frc4Vj;90.80
 Whey protein Vanilla [MaxiNutrition];20.00;g;2;392.00;5.80;6.20;5.30;78.00;0.57;0.05;89.20;;
-Xylitol (E967);20.00;g;2;238.00;0.00;100.00;0.00;0.00;0.00;2.20;;"Sweetness = 100%; GI = 7";100.00
+Xylitol (E967);25.00;g;2;238.00;0.00;100.00;0.00;0.00;0.00;2.20;;"Sweetness = 100%; GI = 7";100.00
 ;;;;;;;;;;;;;
-Soy milk 1.6% (sugar-free) [Berief];40.00;ml;3;30.00;1.60;0.90;0.00;3.00;0.08;;;fill to MAX;
-Flavor drops Vanilla (sucralose) [IronMaxx];3–5;drops;3;;;;;;;;;to taste;
+Soy milk 1.6% (sugar-free) [Berief];45.00;ml;3;30.00;1.60;0.90;0.00;3.00;0.08;;;fill to MAX;
+Flavor drops Vanilla (sucralose) [IronMaxx];≈4;drops;3;;;;;;;;;to taste;
 ;;;;;;;;;;;;;
 Nov 15, 2024;Add 1cl brandy;;;;;;;;;;;;
 Jan 1, 2025;Add lemon juice;;;;;;;;;;;;
 Jun 8, 2025;Use soy milk (less sugar);;;;;;;;;;;;
+Jul 2, 2025;Less ICS;;;;;;;;;;;;
