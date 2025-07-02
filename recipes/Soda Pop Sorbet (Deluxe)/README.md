@@ -5,7 +5,6 @@ excluded_tags:
 - Fruit
 tags:
 - Dairy-Free
-- Draft
 - Erythritol
 - Hi-Protein
 - Keto
@@ -32,8 +31,9 @@ Soda sorbet from 0-cal syrup. Works with any 0-sugar soda syrup — increase the
 
 > <img width=220 alt="After Sorbet spin" src="afri-cola_2025-07-02_1.jpg" class="zoomable" />
 > <img width=220 alt="After scrape-down + mix-in" src="afri-cola_2025-07-02_2.jpg" class="zoomable" />
+> <img width=220 alt="After scrape-down + mix-in" src="afri-cola_2025-07-02_3.jpg" class="zoomable" />
 
-Rating: 😋🥤 (experimental)
+Rating: 😋😋🥤🥤
 
 # INGREDIENTS
 
