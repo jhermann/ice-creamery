@@ -536,6 +536,8 @@ def main():
         md_text = add_default_tags(md_text, docmeta)
         print(f'Updating tags only: {", ".join(sorted(docmeta["tags"]))}')
 
+    md_text, _ = re.subn('\n{2,}', '\n\n', md_text)
+
     if args.dry_run:
         print(md_text, end=None)
     else:
