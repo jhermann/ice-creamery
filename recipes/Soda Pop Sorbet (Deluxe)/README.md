@@ -30,7 +30,8 @@ Soda sorbet from 0-cal syrup. Works with any 0-sugar soda syrup — increase the
 > ℹ️ This is keto, at 16 net carbs per tub, so 3-6 per serving.
 <br clear=all /><br />Process on Sorbet.
 
-> <img width=360 alt="Spun Ice Cream" src="" class="zoomable" />
+> <img width=220 alt="After Sorbet spin" src="afri-cola_2025-07-02_1.jpg" class="zoomable" />
+> <img width=220 alt="After scrape-down + mix-in" src="afri-cola_2025-07-02_2.jpg" class="zoomable" />
 
 Rating: 😋🥤 (experimental)
 
