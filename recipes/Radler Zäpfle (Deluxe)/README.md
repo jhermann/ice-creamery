@@ -1,5 +1,10 @@
 ---
-description: Recipe for the Ninja Creami Deluxe [24oz]
+description: A sorbet from a typical German summer beer mix
+excluded_steps:
+- easiest by adding
+- blender run
+- to empty Creami tub
+- quickly.+use
 excluded_tags:
 - Fruit
 tags:
@@ -10,6 +15,7 @@ tags:
 - Low-Sugar
 - Polysaccharide Gum
 - Scoopable
+- Sucralose
 - Vegan
 ---
 # Radler Zäpfle (Deluxe)
@@ -23,7 +29,8 @@ like Berliner Weiße (wheat beer combined with fruit syrup) or Belgian Früli (s
 
 Spin on “Sorbet”, scrape down, and re-mix.
 
-> <img width=360 alt="Spun Ice Cream" src="" class="zoomable" />
+> <img width=180 alt="Beer bottle" src="radler-zäpfle_2025-07-04_0.jpg" class="zoomable" />
+> <img width=270 alt="Whisked" src="radler-zäpfle_2025-07-04_1.jpg" class="zoomable" />
 
 Rating: 😋🍺🍋 (untested)
 
@@ -43,12 +50,17 @@ Rating: 😋🍺🍋 (untested)
   - _0.70g_ [Xanthan gum (E415, XG)](/ice-creamery/info/ingredients/#xanthan-gum-xg-e415){target="_blank"}<sup>↗</sup> • 1tsp ≈ 2.8g
   - _1.30g_ Salt
 
+**Optional**
+
+  - _≈3 drops_ Flavor drops Peach / Maracuja (sucralose) [IronMaxx] • to taste
+
 # DIRECTIONS
 
- 1. Add "wet" ingredients to empty Creami tub.
- 1. Weigh and mix dry ingredients, easiest by adding to a jar with a secure lid and shaking vigorously.
- 1. Pour into the tub and *QUICKLY* use an immersion blender on full speed to homogenize everything.
- 1. Let blender run until thickeners are properly hydrated, up to 1-2 min. Or blend again after waiting that time.
+ 1. Pour beer into empty Creami tub, add other wet ingredients.
+ 1. Weigh and mix dry ingredients in a small bowl, ideally on a jeweller’s scale.
+ 1. Vigorously whisk the dry stuff into the wet stuff.
+ 1. Optionally, add flavor drops, to taste.
+ 1. Let defoam in the fridge for about 2 hours, give it a final stir.
  1. Put on the lid, freeze for 24h, then spin as usual. Flatten any humps before that.
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
 
