@@ -1,6 +1,7 @@
 # About
 A collection of my Ninja Creami recipes; the goal is to have only tested / approved ones,
-but on the way there [draft](https://jhermann.github.io/ice-creamery/tags/#tag:draft) recipes
+but on the way there [draft](https://jhermann.github.io/ice-creamery/tags/#tag:draft) and
+[promising](https://jhermann.github.io/ice-creamery/tags/#tag:promising) recipes
 are tagged as such.
 Most recipes are formulated so that they also work in a classic churning machine.
 
