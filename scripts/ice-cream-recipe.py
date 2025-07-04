@@ -146,7 +146,8 @@ def add_default_tags(md_text, docmeta):
             docmeta['tags'].append(tag)
     if docmeta:
         if 'excluded_tags' in docmeta:
-            docmeta['tags'] = list(set(docmeta['tags']).difference(set(docmeta['excluded_tags'])))
+            regex = re.compile(f"({')|('.join(docmeta['excluded_tags']).lower()})", flags=re.IGNORECASE)
+            docmeta['tags'] = {x for x in docmeta['tags'] if not regex.search(x)}
         docmeta['tags'] = list(sorted(set(docmeta['tags'])))
         md_text = '---\n' + yaml.safe_dump(docmeta).rstrip() + '\n---\n' + md_text
     return md_text
@@ -307,6 +308,7 @@ def main():
             'Process with MIX-IN after adding mix-ins evenly.'
             ' For that, add partial amounts into a hole going down to the bottom, and fold the ice cream over, building pockets of mix-ins.',
         'Topping Options': '',
+        'Optional': '',
     }
     premix = [
         ' 1. Add the prepared dry ingredients, and blend QUICKLY using an immersion blender on full speed.',
@@ -449,6 +451,7 @@ def main():
                 nutrition.append(f"**{ingredient['amount']}g Ice Cream Stabilizer (ICSv2) is:** {nutrient}.")
 
     # Add directions
+    excluded_steps = re.compile(f"({')|('.join(docmeta.get('excluded_steps', [])).lower()})", flags=re.IGNORECASE)
     lines.extend(['', subtitle('Directions', is_topping), ''])
     if special_directions:
         lines.extend(special_directions)
@@ -456,9 +459,10 @@ def main():
             docmeta['tags'].append('Cooked Base')
     if not is_topping:
         for step, (name, directions) in enumerate(steps.items()):
-            directions = '\n'.join(line
-                for line in directions.splitlines()
-                if not any(x in line for x in docmeta.get('excluded_steps', [])))
+            if 'excluded_steps' in docmeta:
+                directions = '\n'.join(line
+                    for line in directions.splitlines()
+                    if not excluded_steps.search(line))
             if not directions:
                 continue
             if step == STEP_PREP:
