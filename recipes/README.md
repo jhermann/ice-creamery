@@ -44,6 +44,10 @@ The resulting file `all-recipes.txt` can now be uploaded as a text source into y
 > 
 > *Another example, for sharing ingredients across several recipes when preparing tubs in batches, reducing waste and left-overs.*
 
+Other useful prompts:
+
+ * What is the median fat percentage of all recipes that yield 700-730g total?
+
 ## Ready-to-go List of Ingredients and Their Nutritional Facts
 
 This is how the [Ice-Cream-Recipes.fods](https://github.com/jhermann/ice-creamery/blob/main/recipes/Ice-Cream-Recipes.fods)
