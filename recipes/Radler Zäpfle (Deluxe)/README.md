@@ -42,7 +42,7 @@ The base developed a sizable but very soft and crumbly hump. Spin on “Sorbet�
 
 Served with a decorative pretzel (same as the mix-in).
 
-> <img width=240 alt="Served" src="radler-zäpfle_2025-07-04_6.jpg" class="zoomable" />
+> <img width=485 alt="Served" src="radler-zäpfle_2025-07-04_6.jpg" class="zoomable" />
 
 Rating: 😋🍺🍺🍋🍋
 
