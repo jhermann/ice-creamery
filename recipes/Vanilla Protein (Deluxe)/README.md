@@ -1,7 +1,8 @@
 ---
 description: Recipe for the Ninja Creami Deluxe [24oz]
 excluded_tags:
-- Dairy
+- Dairy$
+- Fruit
 tags:
 - Dairy-Free
 - Erythritol
@@ -51,7 +52,12 @@ Rating: 😋😋😋😋 (needs more testing)
 **Fill to MAX**
 
   - _116ml_ Water to MAX line
-  - _3–7 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
+  - _≈5 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
+
+**Mix-ins**
+
+  - _15g_ Cherries, Sour (dried, pitted) [Biojoy] • add chopped as a mix-in [44kcal, 9g sugar]
+  - _15g_ Strawberry slices freeze-dried [EWL] • add crumbled as a mix-in [45kcal, 7g sugar]
 
 # DIRECTIONS
 
@@ -62,6 +68,7 @@ Rating: 😋😋😋😋 (needs more testing)
  1. Add remaining ingredients (to the MAX line) and stir with a spoon.
  1. Put on the lid, freeze for 24h, then spin as usual. Flatten any humps before that.
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
+ 1. Process with MIX-IN after adding mix-ins evenly. For that, add partial amounts into a hole going down to the bottom, and fold the ice cream over, building pockets of mix-ins.
 
 # NUTRITIONAL & OTHER INFO
 - **Nutritional values per 100g/ml:** 100g; 80.7 kcal; fat 1.1g; carbs 11.6g; sugar 0.2g; protein 9.4g; salt 0.3g
