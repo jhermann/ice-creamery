@@ -3,6 +3,9 @@
 Here you can find some background information about common ingredients in ice cream recipes.
 
 ## Freezing Point Depression Factor (PAC) and Sweetness (POD)
+> ℹ️ This info is at the very top because you will most often need it for reference.
+> If you're new to ice cream amking, first read the linked glossary definitions
+> of all those abbreviations, or skip the table for now and read on further below.
 
 ### Common Ingredient PAC / POD / GI Values
 [Freezing point depression factor](/ice-creamery/info/glossary/#potere-anti-congelante-pac) (FPDF / PAC),
