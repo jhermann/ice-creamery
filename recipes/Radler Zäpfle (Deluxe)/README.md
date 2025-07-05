@@ -10,6 +10,7 @@ excluded_tags:
 tags:
 - Dairy-Free
 - Draft
+- Hi-Protein
 - Light
 - Low-Fat
 - Low-Sugar
@@ -58,9 +59,10 @@ Rating: 😋🍺🍺🍋🍋
 
 **Dry**
 
-  - _10g_ [Inulin \[Vit4ever\]](/ice-creamery/info/ingredients/#inulin){target="_blank"}<sup>↗</sup> • Sweetness = 8%; GI ~= 0
-  - _1g_ [Xanthan gum (E415, XG)](/ice-creamery/info/ingredients/#xanthan-gum-xg-e415){target="_blank"}<sup>↗</sup> • 1tsp ≈ 2.8g
+  - _15g_ [Inulin \[Vit4ever\]](/ice-creamery/info/ingredients/#inulin){target="_blank"}<sup>↗</sup> • Sweetness = 8%; GI ~= 0
+  - _15g_ [Soy protein isolate (nature) \[Powerstar\]](/ice-creamery/info/ingredients/#soy-protein-isolate){target="_blank"}<sup>↗</sup> • 1kg bag, unsweetened, unflavored
   - _1g_ Salt
+  - _1g_ [Xanthan gum (E415, XG)](/ice-creamery/info/ingredients/#xanthan-gum-xg-e415){target="_blank"}<sup>↗</sup> • 1tsp ≈ 2.8g
 
 **Mix-ins**
 
@@ -82,10 +84,11 @@ Rating: 😋🍺🍺🍋🍋
  1. Process with MIX-IN after adding mix-ins evenly. For that, add partial amounts into a hole going down to the bottom, and fold the ice cream over, building pockets of mix-ins.
 
 # NUTRITIONAL & OTHER INFO
-- **Nutritional values per 100g/ml:** 100g; 49.4 kcal; fat 0.5g; carbs 10.6g; sugar 4.6g; protein 0.0g; salt 0.3g
-- **Nutritional values per ½ Deluxe Tub:** 360g; 177.9 kcal; fat 1.7g; carbs 38.0g; sugar 16.7g; protein 0.1g; salt 1.0g
-- **Nutritional values total:** 362g; 178.9 kcal; fat 1.7g; carbs 38.2g; sugar 16.8g; protein 0.1g; salt 1.0g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.98
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 0.20% • LOW-FAT • Low-Sugar
-- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 0.0g • 0.0%
-- **Net carbs:** 24.3g • *∝ 5 servings@72g:* 4.9g • *∝ 3 servings@121g:* 8.1g
+- **Nutritional values per 100g/ml:** 100g; 64.2 kcal; fat 0.5g; carbs 11.3g; sugar 4.5g; protein 3.5g; salt 0.4g
+- **Nutritional values per ½ Deluxe Tub:** 360g; 231.1 kcal; fat 1.7g; carbs 40.7g; sugar 16.2g; protein 12.8g; salt 1.3g
+- **Nutritional values total:** 382g; 245.2 kcal; fat 1.8g; carbs 43.2g; sugar 17.2g; protein 13.6g; salt 1.4g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.07
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 22.12% • LOW-FAT • Low-Sugar • Hi-Protein
+- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 14.0g • 3.7%
+- **Net carbs:** 24.9g • *∝ 5 servings@76g:* 5g • *∝ 3 servings@127g:* 8.3g
+- **Jul 5, 2025:** Added more solids
