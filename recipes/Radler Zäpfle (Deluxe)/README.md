@@ -27,7 +27,7 @@ You can also try this with similar fruity beverages, like Berliner Weiße (wheat
 
 > 🌿 **Vegan & Dairy-free**
 
-The beer comes in 0.33l bottles, it foams up when you mix in the additional ingredients. Therefor filling the contaiener only half is recommended.
+The beer comes in 0.33l bottles, it foams up when you mix in the additional ingredients. Therefor filling the container only half is recommended.
 
 > <img width=190 alt="Beer bottle" src="radler-zäpfle_2025-07-04_0.jpg" class="zoomable" />
 > <img width=285 alt="Whisked" src="radler-zäpfle_2025-07-04_1.jpg" class="zoomable" />
