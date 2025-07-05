@@ -1,5 +1,5 @@
 ---
-description: A sorbet from a typical German summer beer mix
+description: A bitter-sweet sorbet from a typical German summer beer mix
 excluded_steps:
 - easiest by adding
 - blender run
@@ -19,6 +19,7 @@ tags:
 - Vegan
 ---
 # Radler Zäpfle (Deluxe)
+<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="logo-radler-sorbet.webp" />
 
 Wheat beer mixed 1:1 with lemonade (which is a common summer drink in southern Germany) as a base.
 
