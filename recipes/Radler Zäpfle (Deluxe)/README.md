@@ -50,6 +50,10 @@ Rating: 😋🍺🍋 (untested)
   - _0.70g_ [Xanthan gum (E415, XG)](/ice-creamery/info/ingredients/#xanthan-gum-xg-e415){target="_blank"}<sup>↗</sup> • 1tsp ≈ 2.8g
   - _1.30g_ Salt
 
+**Mix-ins**
+
+  - _10g_ Salty Prezels [Huober/REWE] • 1 pretzel = 2g; add whole as a mix-in [40kcal, 7.2g carbs]
+
 **Optional**
 
   - _≈3 drops_ Flavor drops Peach / Maracuja (sucralose) [IronMaxx] • to taste
@@ -63,6 +67,7 @@ Rating: 😋🍺🍋 (untested)
  1. Let defoam in the fridge for about 2 hours, give it a final stir.
  1. Put on the lid, freeze for 24h, then spin as usual. Flatten any humps before that.
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
+ 1. Process with MIX-IN after adding mix-ins evenly. For that, add partial amounts into a hole going down to the bottom, and fold the ice cream over, building pockets of mix-ins.
 
 # NUTRITIONAL & OTHER INFO
 - **Nutritional values per 100g/ml:** 100g; 49.2 kcal; fat 0.5g; carbs 10.5g; sugar 4.6g; protein 0.0g; salt 0.4g
