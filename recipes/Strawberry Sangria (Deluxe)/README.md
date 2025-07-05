@@ -33,9 +33,13 @@ Comes out “soft scoopable”, refreeze for at least 1–2 hours.
 
 Rating: 😋🍷🍓🍓🍓
 
-> <img width=360 alt="Scooped" src="Strawberry-Sangria_Scooped_2025-06-15_1.jpg" class="zoomable" /><br />
+> <img width=360 alt="Served" src="Strawberry-Sangria_Scooped_2025-06-15_1.jpg" class="zoomable" /><br />
 > 
 > *Served a day later, with a drizzle of pomegranate syrup.*
+
+> <img width=360 alt="Variation by u/_phillimore" src="u-_phillimore-pinot-noir-blueberries-raspberries.webp" class="zoomable" /><br />
+> 
+> *Variation by [u/\_phillimore](https://www.reddit.com/user/_phillimore/): Pinot noir, blueberries, and raspberries.*
 
 # INGREDIENTS
 
