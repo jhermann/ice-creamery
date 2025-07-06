@@ -385,6 +385,20 @@ If salep is unavailable, possible substitutes are konjac flour (40–60% glucoma
 
 Glucomannan is a water-soluble polysaccharide that is considered a dietary fiber and primarily composed of mannose and glucose. Guar gum is a galactomannan, primarily composed of galactose and mannose. They can both form gels and be used as thickeners and emulsifiers.
 
+### Tapioca Starch
+[Tapioca](https://en.wikipedia.org/wiki/Tapioca) (/ˌtæpiˈoʊkə/) is a starch extracted from the tubers of the cassava plant (also known as manioc), originating from Brazil but now also spread over the world, e.g. to West Africa and Southeast Asia.
+
+It has no flavor and is gluten-free, and also imparts a very glossy finish.
+It thickens between 63°C and 84°C, hit the upper bound for full gelatinization, but avoid continual heating.
+One way to achieve this is to make a tapioca slurry (mix with  water or milk, at a 4:1 ratio) and whisk that into liquid at above 90°C, but taken off the heat. Let it cool down a bit and then refrigerate for several hours (ideally overnight).
+
+Tapioca doesn't have the same efficiency as some of the other stabilizers, meaning it won't do as good a job at controlling ice crystal formation, improving mouth feel, and increasing overrun.
+
+Sicilian gelato is a traditional ice cream that uses cornstarch as a thickener, and similarly tapioca bases are not as rich as egg custard ones, letting the flavor of fresh fruit dominate.
+It also combines very well with coconut milk bases.
+
+*Dosage:* 1.5—3% (15—30g in 1kg of base; 11—22g in a Deluxe tub).
+
 ### Tara Gum (E417)
 Tara can replace guar 1:1 in recipes (and vice versa)
 and will give you slightly better results, on average.
@@ -398,7 +412,7 @@ so can be used without adding carrageenan.
 For full hydration, it needs to be heated to 80°C/176°F,
 but is partly cold soluable.
 
-*Dosage:* 0.05-0.15% for ice cream, sorbet and sherbet.
+*Dosage:* 0.05—0.15% for ice cream, sorbet and sherbet.
 
 ### Xanthan Gum (XG / E415)
 In ice cream, xanthan is typically used in stabilizer blends (i.e. not in isolation),
