@@ -16,6 +16,23 @@ These are some basic facts applying to all recipes.
 
  1. Ingredient amounts fit the 720ml (24oz) container size of the *Creami Deluxe*. For the base model and the *Swirl*, scale the recipes by using ⅔ of all ingredients (66%).
 
+## Folding in Swirls
+If you have soft swirls that are not frozen (and aren't supposed to freeze), you cannot use the mix-in mode.
+
+Best instrument to do that within the tub is a chopstick. It requires a swirl mix that is sufficiently fluid.
+
+1. Make *several* small holes in your processed base, using the blunt end of a chopstick. The base should not be too soft for this. Place one hole in the center and 6 to 8 holes in a circle, down to the bottom.
+
+1. Then fill those holes with the swirl mix, and use the pointy end of a chopstick to *carefully* fold the base and the swirl into each other, without really mixing.
+
+1. This is best done by slowly moving the chopstick in a circle, sticking it diagonally into the base, while also slowly turning the tub until you did a full circle.
+
+1. Refreeze for at least a few hours.
+
+You may also consider to transfer your processed ice cream into a storage container, and layer it with your swirl mix.
+You automatically get swirls while scooping it out again.
+This of course requires you have a scoopable base that can be refrozen without processing again later.
+
 ## Regular Cleaning is Key
 
 *Regular* cleaning ensures continuous enjoyment of your creamis,
