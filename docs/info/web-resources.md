@@ -18,7 +18,7 @@ Lists just like this one.
 - [Scoop Club](https://www.scoopclub.com.au/) — Ice cream recipes and appliance reviews.
 - [Popular Posts on Ice Cream Science](https://www.icecreamscience.com/popular-posts)
 - [proteinninja on RecipeSage](https://recipesage.com/#/people/@proteinninja) — Protein-Ninja.com's shared recipes.
-- [Ninja Creami at Ssamsung Food](https://s.samsungfood.com/eWWyY) — Make ice cream, smoothie bowls, milkshakes, and more using the Ninja Creami.
+- [Ninja Creami at Samsung Food](https://s.samsungfood.com/eWWyY) — Make ice cream, smoothie bowls, milkshakes, and more using the Ninja Creami.
 
 ## Forums
 
