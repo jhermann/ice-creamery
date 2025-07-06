@@ -166,7 +166,7 @@ Stabilizers are additives that significantly enhance the quality of homemade and
 
 -   **Tapioca Starch:**
 
-    -   **Origin:** "Derived from the roots of the cast of a plant."
+    -   **Origin:** "Derived from the roots of the cassava plant."
     -   **Properties:** "No flavor and also imparts a very glossy finish." Gluten-free.
     -   **Gelling:** "Very good at slightly lower temperatures but it does not hold up well to continual Heating."
     -   **Effectiveness:** "Doesn't have the same efficiency as some of the other stabilizers." While it will "increase viscosity," it "just doesn't do as good a job at controlling ice crystal formation and improving mouth feel and overrun."
