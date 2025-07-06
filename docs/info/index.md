@@ -47,6 +47,10 @@ use the Markdown format for the output.
 
     This section lists recipes that have been created within the last two months.
 
+*   **Resources on the Web**
+
+    A list of well-known web sites and other resources like YouTube channels found on the internet.
+
 *   **Tips & Tricks**
 
     This section provides practical advice for using the Ninja Creami.
