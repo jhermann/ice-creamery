@@ -4,7 +4,6 @@ excluded_tags:
 - Dairy
 tags:
 - Alcohol
-- Dairy-Free
 - Favorite
 - Fruit
 - Light
@@ -14,6 +13,7 @@ tags:
 - Scoopable
 - Sorbet
 - Sucralose
+- Tylo Powder (CMC)
 - Vegan
 ---
 # Strawberry Sangria (Deluxe)
@@ -40,6 +40,10 @@ Rating: 😋🍷🍓🍓🍓
 > <img width=360 alt="Variation by u/_phillimore" src="u-_phillimore-pinot-noir-blueberries-raspberries.webp" class="zoomable" /><br />
 > 
 > *Variation by [u/\_phillimore](https://www.reddit.com/user/_phillimore/): Pinot noir, blueberries, and raspberries.*
+
+> <img width=360 alt="Berry mix and CMC" src="Sangria_2025-07-07_3.jpg" class="zoomable" /><br />
+> 
+> *Using a 1:1 mix of strawberries and blueberries, 15g inulin, 15g soy protein, 1g XG, and 1.5g CMC.*
 
 # INGREDIENTS
 
