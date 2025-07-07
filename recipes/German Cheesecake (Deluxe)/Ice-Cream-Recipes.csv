@@ -1,40 +1,50 @@
-German Cheesecake (Deluxe);;;;;;;;;;;;
-;;;;;;;;;;;;
-;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;
-Nutritional values per 100g/ml;100;g;;127.6;8.1;10.2;3.5;4.5;0.1;;;
-Nutritional values per ½ Deluxe Tub;360;g;;459.3;29.1;36.6;12.7;16.3;0.5;;;
-Nutritional values total;760;g;;969.7;61.4;77.2;26.9;34.4;1.1;;;
-;;;;;;;;;;;;
-FPDF / PAC (target 20..30);23.77;;;;;;;;;;;
-"Protein / Energy Ratio (ok=12%; hi=20%)";14.20%;;;;;;Low-Sugar;;;;;
-Milk Solids Non-Fat (MSNF, 7-11%);52.4;g;;6.9%;;;;;;;;
-;;;;;;;;;;;;
+German Cheesecake (Deluxe);;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;;
+Nutritional values per 100g/ml;100;g;;123.0;7.1;12.4;3.5;4.3;0.1;;;;;
+Nutritional values per ½ Deluxe Tub;360;g;;442.9;25.5;44.5;12.7;15.4;0.5;;;;;
+Nutritional values total;717;g;;882.1;50.8;88.7;25.2;30.7;1.1;;;;;
+;;;;;;;;;;;;;;
+FPDF / PAC (target 20..30);29.01;;;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";13.92%;;;;;;Low-Sugar;;;;;;;
+ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);48.8;g;;6.8%;;;;;;;;;;
+ℹ️ Net carbs;33.1;g;;*∝ 5 servings@143g:* 6.6g;;;*∝ 3 servings@239g:* 11g;;;;;;;
+;;;;;;;;;;;;;;
 "Inspired by German cheesecake, which is made with ‘Quark’ or ‘Topfen’
-– think of a cross between yogurt, cottage cheese and ricotta.";;;;;;;;;;;;
-The lemon juice and soured milk add the necessary tanginess.;;;;;;;;;;;;
-;;;;;;;;;;;;
-Spin on Lite Ice Cream.;;;;;;;;;;;;
-30g Ice Cream Stabilizer (ICSv2) is;"14.3g erythritol, 1.43g Tylose powder (CMC, E466), 
-0.5g tara gum (E417), 0.15g xanthan (E415),
-14.3g inulin, 0.5g salt.";;;;;;;;;;;
-Rating: 😋;;;;;;;;;;;;
-The [brand names] used are in brackets.;;;;;;;;;;;;
-;;;;;;;;;;;;
-Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment
-Soured Milk 3.5% [Schwälbchen];400.00;g;1;64.00;3.50;4.00;4.00;3.30;0.13;0.04;8.50;500g container
-Topfen / Quark 14.4% [Berchtesgadener];240.00;g;1;179.00;14.40;3.60;3.60;8.40;0.08;0.04;6.60;250g container
-Glycerin (E422, VG) [hd-line];15.00;g;1;400.00;;99.00;;;;3.70;;"Sweetness = 60%; GI = 5; Density = 1.26 g/ml"
-Lemon juice;15.00;ml;1;25.00;0.10;3.36;1.65;0.30;0.01;0.02;;
-Vanilla Extract (w/ alcohol) [Native Vanilla];5.00;ml;1;300.00;;;;;;2.22;;
-Flavor drops Cookies&Cream [Nick’s];20.00;drops;1;;;;;;;;;with stevia
-Topfen / Quark 0.6% [Berchtesgadener];;g;1;70.00;0.60;3.60;3.60;11.90;0.08;0.04;11.40;250g container
-Flavor drops Vanilla [IronMaxx];;drops;1;;;;;;;;;with sucralose
-Buttermilk 1% [REWE];;ml;1;35.00;0.50;4.00;4.00;3.50;0.15;0.04;8.50;
-ICSv2 [Erythritol / CMC / Tara / XG / Inulin];20.00;g;2;107.3;0.0;54.7;3.7;0.1;1.7;1.32;;http://bit.ly/4frc4Vj
-Xylitol;25.00;g;2;238.00;;100.00;;;;2.20;;"Sweetness = 100%; GI = 7"
-Cream 32% [REWE Beste Wahl];40.00;ml;3;311.00;32.00;3.20;3.20;2.50;0.13;0.03;6.32;
-;;;;;;;;;;;;
-;;;;;;;;;;;;
-;;;;;;;;;;;;
-Graham crackers / Butter cookies;3-4;pieces;5;;;;;;;;;
-Wafers (cream-filled);3-4;pieces;5;;;;;;;;;
+– think of a cross between yogurt, cottage cheese and ricotta.
+
+The lemon juice and soured milk add the necessary tanginess.";;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+"Spin on *FroYo*, do a scrape-down, and finish with a mix-in or respin run.
+
+Serve with graham crackers or butter cookies to stand in for the pie crust.
+
+Rating: 😋😋😋😋😋";;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+The [brand names] used are in brackets.;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment;;Counts?
+Soured milk 3.5% [Schwälbchen];400.00;g;1;64.00;3.50;4.00;4.00;3.30;0.13;0.04;8.50;500g container;;1
+Topfen / Quark 14.4% [Berchtesgadener];200.00;g;1;179.00;14.40;3.60;3.60;8.40;0.08;0.04;6.60;250g container;;1
+Glycerin (E422, VG) [hd-line];15.00;g;1;400.00;;99.00;;;;3.70;;"POD = 60%; GI = 5; Density = 1.26 g/ml";50.00;1
+Lemon juice;15.00;ml;1;25.00;0.10;3.36;1.65;0.30;0.01;0.02;;;;1
+Brandy or Vodka 40 vol%;10.00;g;1;280.00;;;;;;2.96;;;;1
+Topfen / Quark 0.6% [Berchtesgadener];;g;1;70.00;0.60;3.60;3.60;11.90;0.08;0.04;11.40;250g container;;1
+Buttermilk 1% [REWE];;ml;1;35.00;0.50;4.00;4.00;3.50;0.15;0.04;8.50;;;1
+ICSv2 [Erythritol / Inulin / CMC / Guar / XG / Salt];20.00;g;2;107.2;0.0;95.5;3.7;0.1;1.7;1.32;;http://bit.ly/4frc4Vj;90.80;1
+Xylitol (E967);30.00;g;2;238.00;;100.00;;;;2.20;;"POD = 100%; GI = 7";100.00;1
+Vanilla Bean Powder [InterVanilla];2.00;g;2;288.00;0.10;13.00;13.00;0.00;0.00;;;;;1
+;;;;;;;;;;;;;;
+Cream 32% [REWE Beste Wahl];25.00;ml;3;311.00;32.00;3.20;3.20;2.50;0.13;0.03;6.32;;;1
+Flavor drops Vanilla (sucralose) [IronMaxx];≈3;drops;3;;;;;;;;;to taste;;
+Flavor drops Cookies&Cream (stevia) [Nick’s];≈15;drops;3;;;;;;;;;to taste;;
+;;;;;;;;;;;;;;
+Frozen Fruit;50.00;g;4;61.00;0.10;13.60;9.60;0.90;0.00;0.10;;add chopped as a mix-in [31kcal, 5g sugar];;
+Sultanas (organic) [Biojoy];20.00;g;4;298.00;0.60;68.00;67.00;2.50;0.02;0.67;;add chopped as a mix-in [60kcal, 13g sugar];;
+;;;;;;;;;;;;;;
+Graham crackers / Butter cookies;3-4;pieces;5;;;;;;;;;;;
+Wafers (cream-filled);3-4;pieces;5;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
