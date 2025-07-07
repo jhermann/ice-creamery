@@ -111,7 +111,7 @@ CALCULATED_TAGS = {
     'Xylitol',
 }
 AUTO_LINK_STOP_WORDS = {
-    'Bean Powder',
+    'Bean Powder', 'berry powder', 'Root powder',
     'Cherries, Sour', 'Condensed milk', 'Cream 32%', 'Cream Punch',
     'Evaporated milk', 'Extract',
     'Flavor drops', 'Irish Cream', 'Milk 3.5%', 'Peanut butter', 'Philadelphia Milka',
