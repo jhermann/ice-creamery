@@ -52,7 +52,7 @@ Rating: 😋😋😋😋😋
 
   - _25ml_ Cream 32% [REWE Beste Wahl]
   - _≈3 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
-  - _≈15 drops_ Flavor drops Cookies&Cream (stevia) [Nick’s] • to taste
+  - _≈10 drops_ Flavor drops Cookies&Cream (stevia) [Nick’s] • to taste
 
 **Mix-ins**
 
