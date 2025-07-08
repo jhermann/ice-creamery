@@ -114,7 +114,8 @@ AUTO_LINK_STOP_WORDS = {
     'Bean Powder', 'berry powder', 'Root powder', 'cream-filled',
     'Cherries, Sour', 'Condensed milk', 'Cream 32%', 'Cream Punch',
     'Evaporated milk', 'Extract',
-    'Flavor drops', 'Irish Cream', 'Milk 3.5%', 'Peanut butter', 'Philadelphia Milka',
+    'Flavor drops', 'Irish Cream', 'Low fat milk', 'Milk 3.5%',
+    'Peanut butter', 'Philadelphia Milka',
     'Soy sauce',
 }
 LOGO_IMG = '<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="%s" />'
