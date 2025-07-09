@@ -36,7 +36,7 @@ Rating: 😋😋😋😋😋
 > <img width=220 alt="Scooped" src="german-cheesecake_2025-07-09_4.jpg" class="zoomable" />
 > <img width=220 alt="Served" src="german-cheesecake_2025-07-09_5.jpg" class="zoomable" />
 > <img width=220 alt="with Caramel Syrup" src="german-cheesecake_2025-07-09_6.jpg" class="zoomable" />
->
+> 
 > *Spun on FroYo, with 80g slightly thawed and chopped frozen strawberries as a mix-in, and served with low-sugar caramel syrup.*
 
 # INGREDIENTS
@@ -72,6 +72,7 @@ Rating: 😋😋😋😋😋
 
   - _3-4 pieces_ Graham crackers / Butter cookies
   - _3-4 pieces_ Wafers (cream-filled)
+  - _20ml_ Syrup Caramel (low-sugar) [Sukrin] • 14% sorbitol, erythritol, stevia [30kcal, 0.4g sugar]
 
 # DIRECTIONS
 
