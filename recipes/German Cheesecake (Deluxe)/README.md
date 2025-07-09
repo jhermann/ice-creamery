@@ -30,6 +30,13 @@ Serve with graham crackers or butter cookies to stand in for the pie crust.
 
 Rating: 😋😋😋😋😋
 
+> <img width=220 alt="Spun on FroYo" src="german-cheesecake_2025-07-09_1.jpg" class="zoomable" />
+> <img width=220 alt="80g chopped strawberries" src="german-cheesecake_2025-07-09_2.jpg" class="zoomable" />
+> <img width=220 alt="After mix-in" src="german-cheesecake_2025-07-09_3.jpg" class="zoomable" />
+> <img width=220 alt="Scooped" src="german-cheesecake_2025-07-09_4.jpg" class="zoomable" />
+>
+> *Spun on FroYo, with 80g slightly thawed and chopped frozen strawberries as a mix-in.*
+
 # INGREDIENTS
 
 ℹ️ Brand names are in square brackets `[...]`.
