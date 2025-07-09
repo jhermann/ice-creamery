@@ -38,8 +38,8 @@ You can swap out the cherries for one of the “Optional” ingredients, and ada
 **Wet**
 
   - _425ml_ Skyr [arla] • 82% water; 450g container
-  - _50g_ [Cream Cheese 23% \[Exquisa\]](/ice-creamery/info/ingredients/#cream-cheese){target="_blank"}<sup>↗</sup>
-  - _15g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • Sweetness = 60%; GI = 5; Density = 1.26 g/ml
+  - _30g_ [Cream Cheese 23% \[Exquisa\]](/ice-creamery/info/ingredients/#cream-cheese){target="_blank"}<sup>↗</sup>
+  - _20g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • Sweetness = 60%; GI = 5; Density = 1.26 g/ml
   - _10g_ [Brandy or Vodka 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup>
   - _125g_ Cherries
 
@@ -50,15 +50,15 @@ You can swap out the cherries for one of the “Optional” ingredients, and ada
 
 **Fill to MAX**
 
-  - _50ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
+  - _65ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
   - _≈3 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
 
 **Optional**
 
-  - _125g_ Mango
-  - _30g_ Ube Yam Root powder [Fil Choice] • like vanilla+pistachio
-  - _30g_ Lingonberry powder [Bio Leis]
-  - _30g_ Strawberry powder [Supergarden]
+  - _125g_ Mango • fresh or frozen [78kcal, 16g sugar]
+  - _30g_ Ube Yam Root powder [Fil Choice] • like vanilla+pistachio; add more liquid at the end [115kcal, 3g sugar]
+  - _30g_ Lingonberry powder [Bio Leis] • add more liquid at the end [105kcal, 22g sugar]
+  - _30g_ Strawberry powder [Supergarden] • add more liquid at the end [86kcal, 15g sugar]
 
 # DIRECTIONS
 
@@ -71,11 +71,11 @@ You can swap out the cherries for one of the “Optional” ingredients, and ada
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
 
 # NUTRITIONAL & OTHER INFO
-- **Nutritional values per 100g/ml:** 100g; 89.9 kcal; fat 1.8g; carbs 13.2g; sugar 4.3g; protein 7.0g; salt 0.2g
-- **Nutritional values per ½ Deluxe Tub:** 360g; 323.5 kcal; fat 6.5g; carbs 47.5g; sugar 15.6g; protein 25.2g; salt 0.7g
-- **Nutritional values total:** 720g; 646.9 kcal; fat 13.0g; carbs 94.9g; sugar 31.2g; protein 50.4g; salt 1.3g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 31.10
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 31.19% • LOW-FAT • Low-Sugar • Hi-Protein
-- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 80.5g • 11.2%
-- **Net carbs:** 44.2g • *∝ 5 servings@144g:* 8.8g • *∝ 3 servings@240g:* 14.7g
+- **Nutritional values per 100g/ml:** 100g; 86.6 kcal; fat 1.2g; carbs 13.8g; sugar 4.3g; protein 6.9g; salt 0.2g
+- **Nutritional values per ½ Deluxe Tub:** 360g; 311.9 kcal; fat 4.4g; carbs 49.7g; sugar 15.3g; protein 24.9g; salt 0.6g
+- **Nutritional values total:** 720g; 623.8 kcal; fat 8.8g; carbs 99.4g; sugar 30.6g; protein 49.8g; salt 1.2g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.83
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 31.93% • LOW-FAT • Low-Sugar • Hi-Protein
+- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 78.5g • 10.9%
+- **Net carbs:** 46.2g • *∝ 5 servings@144g:* 9.2g • *∝ 3 servings@240g:* 15.4g
 - **20g Ice Cream Stabilizer (ICSv2) is:** 9.2g Erythritol (E968) • 9.2g Inulin • 0.92g Tylose powder (E466, Tylo, CMC) • 0.32g Guar gum (E412) • 0.32g Salt • 0.09g Xanthan gum (E415, XG).
