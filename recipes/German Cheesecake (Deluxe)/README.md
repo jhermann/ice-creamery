@@ -34,8 +34,10 @@ Rating: 😋😋😋😋😋
 > <img width=220 alt="80g chopped strawberries" src="german-cheesecake_2025-07-09_2.jpg" class="zoomable" />
 > <img width=220 alt="After mix-in" src="german-cheesecake_2025-07-09_3.jpg" class="zoomable" />
 > <img width=220 alt="Scooped" src="german-cheesecake_2025-07-09_4.jpg" class="zoomable" />
+> <img width=220 alt="Served" src="german-cheesecake_2025-07-09_5.jpg" class="zoomable" />
+> <img width=220 alt="with Caramel Syrup" src="german-cheesecake_2025-07-09_6.jpg" class="zoomable" />
 >
-> *Spun on FroYo, with 80g slightly thawed and chopped frozen strawberries as a mix-in.*
+> *Spun on FroYo, with 80g slightly thawed and chopped frozen strawberries as a mix-in, and served with low-sugar caramel syrup.*
 
 # INGREDIENTS
 
