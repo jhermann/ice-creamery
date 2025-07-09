@@ -13,7 +13,6 @@ tags:
 - Scoopable
 - Sucralose
 - Tylo Powder (CMC)
-- Vegan
 - Xylitol
 ---
 # FroSky (Deluxe)
@@ -21,15 +20,13 @@ tags:
 
 Skyr with fruit or fruit powder.
 
-> 🌿 **Vegan Option**<br />Replace the cream cheese with 50g tofu and 15ml water, blended to a creamy paste before adding other wet ingredients; or use 60g silken tofu.
+You can swap out the cherries for one of the “Optional” ingredients, and adapt the “Fill to MAX” accordingly.
 
 Processed on FroYo + re-spin, likely would have profited from another re-spin (minor ice crystals).
 
 > <img width=360 alt="Spun Ice Cream" src="frosky-mango_2024-11-13.jpg" class="zoomable" />
 
 Made with mangos, tangy & fresh. Rating: 😋😋😋😋
-
-You can swap out the cherries for one of the “Optional” ingredients, and adapt the “Fill to MAX” accordingly.
 
 # INGREDIENTS
 
