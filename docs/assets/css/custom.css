@@ -128,6 +128,7 @@ a[href*=""]::before, h1[id*="" i]::before,
  */
 a[href*="Banana%20Ice%20Cream"]::before, h1[id*="Banana-Ice-Cream" i]::before,
 a[href*="Cherry%20Ice%20Cream"]::before, h1[id*="Cherry-Ice-Cream" i]::before,
+a[href*="German%20Cheesecake"]::before, h1[id*="German-Cheesecake" i]::before,
 a[href*="Strawberry%20Sangria"]::before, h1[id*="Strawberry-Sangria" i]::before {
   content: "😍";
 }
