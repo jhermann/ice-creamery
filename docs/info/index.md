@@ -6,7 +6,7 @@ use the Markdown format for the output.
 
 *   **Overview**
 
-    *You are here.* Use the left sidebar to select a section of interest.
+    *You are here.* Use the left sidebar, or the hamburger menu in the mobile view, to select a section of interest.
 
 <div clear="all" />
 
