@@ -63,6 +63,12 @@ Rating: 😋😋😋🍑🍑
   - _50ml_ Water to MAX line
   - _≈7 drops_ Flavor drops Peach / Maracuja (sucralose) [IronMaxx] • to taste
 
+**Topping Options**
+
+  - _8g_ Molasses [Grafschafter Goldsaft] • add as a topping [24kcal, 5.3g sugar]
+  - _8g_ Walnuts (organic) [Biojoy] • add as a topping [54kcal, 0.6g sugar]
+  - _8g_ Pecan nuts (organic) [Biojoy] • 10 halves = 15g; add as a topping [58kcal, 0.3g sugar]
+
 # DIRECTIONS
 
  1. In an empty Creami tub, blend the tofu with the other ‘prep’ ingredients to a smooth paste. Add a splash of soy milk, if needed, to combine things.

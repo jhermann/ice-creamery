@@ -1,40 +1,108 @@
-Dirty Peach Bourbon (Deluxe);;;;;;;;;;;;;
-;;;;;;;;;;;;;
-;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;
-Nutritional values per 100g/ml;100;g;;74.2;0.8;14.3;5.6;1.7;0.1;;;;
-Nutritional values per ½ Deluxe Tub;360;g;;267.1;2.9;51.3;20.1;6.2;0.3;;;;
-Nutritional values total;720;g;;534.1;5.8;102.6;40.3;12.4;0.5;;;;
-;;;;;;;;;;;;;
-FPDF / PAC (target 20..30);30.18;;;;;;;;;;;;
-"Protein / Energy Ratio (ok=12%; hi=20%)";9.28%;;;;LOW-FAT;;;;Low-Salt;;;;
-ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);7.8;g;;1.1%;;;;;;;;;
-ℹ️ Net carbs;54.5;g;;*∝ 5 servings@144g:* 10.9g;;;*∝ 3 servings@240g:* 18.2g;;;;;;
+Dirty Peach Bourbon (Deluxe);;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;;
+Nutritional values per 100g/ml;100;g;;74.2;0.8;14.3;5.6;1.7;0.1;;;;;
+Nutritional values per ½ Deluxe Tub;360;g;;267.1;2.9;51.3;20.1;6.2;0.3;;;;;
+Nutritional values total;720;g;;534.1;5.8;102.6;40.3;12.4;0.5;;;;;
+;;;;;;;;;;;;;;
+FPDF / PAC (target 20..30);30.18;;;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";9.28%;;;;LOW-FAT;;;;Low-Salt;;;;;
+ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);7.8;g;;1.1%;;;;;;;;;;
+ℹ️ Net carbs;54.5;g;;*∝ 5 servings@144g:* 10.9g;;;*∝ 3 servings@240g:* 18.2g;;;;;;;
 "> 🌿 **Vegan & Dairy-free**<br />Recipe is using only soy milk and tofu.
 
 The “dirty” refers to the molasses that is used instead of brown sugar.
 
-You can use other alcohol without a strong flavor profile, like Grappa with 38–44 vol%.";;;;;;;;;;;;;
-;;;;;;;;;;;;;
+You can use other alcohol without a strong flavor profile, like Grappa with 38–44 vol%.";;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
 "Process on *Sorbet*, [hold it shortly under running water](https://jhermann.github.io/ice-creamery/info/tips%2Btricks/#handling-of-icy-sides-bottom)
 *after* that.
-Then a scrape-down and a respin or re-mix.";;;;;;;;;;;;;
-;;;;;;;;;;;;;
-"Rating: 😋🍑 (untested)
+Then a scrape-down and a respin or re-mix.<br clear=all />";;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+"Rating: 😋😋😋🍑🍑
 
-> <sup>Inspired by [u/formercotsachick](https://www.reddit.com/user/formercotsachick/)</sup>";;;;;;;;;;;;;
+> <sup>Inspired by [u/formercotsachick](https://www.reddit.com/user/formercotsachick/)</sup>";;;;;;;;;;;;;;
 "1. In an empty Creami tub, blend the tofu with the other ‘prep’ ingredients to a smooth paste. Add a splash of soy milk, if needed, to combine things.
- 1. Add ""wet"" ingredients to the puree.";;;;;;;;;;;;;
-The [brand names] used are in brackets.;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment;0Carb[%]
-Tofu (plain) [REWE Bio];50.00;g;0;129.00;7.50;1.80;0.50;13.00;0.20;;15.54;use 75g of silken tofu if you have it;
-Bourbon 40 vol% (80 proof);40.00;g;0;280.00;;;;;;2.96;;;
-Molasses [Grafschafter Goldsaft];5.00;g;0;306.00;0.50;70.00;66.00;2.30;0.03;0.66;;Sweetness = 66%;
-Peaches in Grape Juice [Libby’s];400.00;g;1;53.00;;12.00;9.00;0.50;;;;Can = 410g;
-Soy milk 1.6% (sugar-free) [Berief];125.00;ml;1;30.00;1.60;0.90;0.00;3.00;0.08;;;;
-Cream Cheese 23% [Exquisa];;g;1;238.00;22.50;3.00;3.00;5.50;0.70;0.03;9.64;;
-Xylitol (E967);30.00;g;2;238.00;;100.00;;;;2.20;;"POD = 100%; GI = 7";100.00
-ICSv2 [Erythritol / Inulin / CMC / Guar / XG / Salt];20.00;g;2;107.2;0.0;95.5;3.7;0.1;1.7;1.32;;http://bit.ly/4frc4Vj;90.80
-;;;;;;;;;;;;;
-Water to MAX line;50.00;ml;3;;;;;;;;;;
-Flavor drops Peach / Maracuja (sucralose) [IronMaxx];≈7;drops;3;;;;;;;;;to taste;
+ 1. Add ""wet"" ingredients to the puree.";;;;;;;;;;;;;;
+The [brand names] used are in brackets.;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment;0Carb[%];Counts?
+Tofu (plain) [REWE Bio];50.00;g;0;129.00;7.50;1.80;0.50;13.00;0.20;;15.54;use 75g of silken tofu if you have it;;1
+Bourbon 40 vol% (80 proof);40.00;g;0;280.00;;;;;;2.96;;;;1
+Molasses [Grafschafter Goldsaft];5.00;g;0;306.00;0.50;70.00;66.00;2.30;0.03;0.66;;Sweetness = 66%;;1
+Peaches in Grape Juice [Libby’s];400.00;g;1;53.00;;12.00;9.00;0.50;;;;Can = 410g;;1
+Soy milk 1.6% (sugar-free) [Berief];125.00;ml;1;30.00;1.60;0.90;0.00;3.00;0.08;;;;;1
+Cream Cheese 23% [Exquisa];;g;1;238.00;22.50;3.00;3.00;5.50;0.70;0.03;9.64;;;1
+Xylitol (E967);30.00;g;2;238.00;;100.00;;;;2.20;;"POD = 100%; GI = 7";100.00;1
+ICSv2 [Erythritol / Inulin / CMC / Guar / XG / Salt];20.00;g;2;107.2;0.0;95.5;3.7;0.1;1.7;1.32;;http://bit.ly/4frc4Vj;90.80;1
+;;;;;;;;;;;;;;
+Water to MAX line;50.00;ml;3;;;;;;;;;;;1
+Flavor drops Peach / Maracuja (sucralose) [IronMaxx];≈7;drops;3;;;;;;;;;to taste;;
+;;;;;;;;;;;;;;
+Molasses [Grafschafter Goldsaft];8.00;g;5;306.00;0.50;70.00;66.00;2.30;0.03;0.66;;add as a topping [24kcal, 5.3g sugar];;
+Walnuts (organic) [Biojoy];8.00;g;5;675.00;63.00;11.00;6.90;14.00;0.01;0.07;;add as a topping [54kcal, 0.6g sugar];;
+Pecan nuts (organic) [Biojoy];8.00;g;5;721.00;72.00;4.30;4.00;9.20;0.00;0.04;;"10 halves = 15g; add as a topping [58kcal, 0.3g sugar]";;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
