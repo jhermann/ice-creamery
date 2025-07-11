@@ -38,6 +38,12 @@ The variant made with strawberries, processed the same but with only a final Mix
 > 
 > Rating: 😋😋😋😋😋
 
+> <img width=220 alt="Spun Ice Cream" src="BBBM_2025-07-11_1.jpg" class="zoomable" />
+> <img width=220 alt="Spun Ice Cream" src="BBBM_2025-07-11_2.jpg" class="zoomable" />
+> <img width=220 alt="Spun Ice Cream" src="BBBM_2025-07-11_3.jpg" class="zoomable" />
+> 
+> 2025-07-11: Made with soy protein isolate. Spun on Sorbet, followed by a scrape-down and respin. Soft-serve consistency.
+
 # INGREDIENTS
 
 ℹ️ Brand names are in square brackets `[...]`.
