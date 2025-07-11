@@ -17,7 +17,7 @@ tags:
 # Strawberry FroYo (Deluxe)
 <img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/assets/froyo-ice-cream-logo.png" />
 
-You can replace the strawberries by other fruit, or fruit powder. Adapt the amount of water or milk to fill up to MAX accordingly.
+You can replace the strawberries by other fruit, or fruit powder (see “Optional”). Adapt the amount of water or milk to fill up to MAX accordingly.
 
 Processed on *FroYo*, with scrape-down and a respin.
 
@@ -45,15 +45,17 @@ Rating: 😋 (untested)
 
 **Fill to MAX**
 
-  - _25ml_ Water to MAX line
+  - _25ml_ [Water, milk, or yogurt to MAX line](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
   - _≈3 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
 
 **Optional**
 
+  - _175g_ Strawberries • fresh or frozen [54kcal, 10g sugar]
+  - _150g_ Blueberries • fresh or frozen [72kcal, 13g sugar]
+  - _150g_ Mango • fresh or frozen [93kcal, 20g sugar]
   - _25g_ Ube Yam Root powder [Fil Choice] • like vanilla+pistachio; add more liquid at the end [96kcal, 2g sugar]
   - _25g_ Lingonberry powder [Bio Leis] • add more liquid at the end [88kcal, 18g sugar]
   - _25g_ Strawberry powder [Supergarden] • add more liquid at the end [72kcal, 13g sugar]
-  - _150g_ Mango • fresh or frozen [93kcal, 20g sugar]
 
 # DIRECTIONS
 

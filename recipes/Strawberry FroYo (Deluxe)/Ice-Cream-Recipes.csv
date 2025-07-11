@@ -10,7 +10,7 @@ FPDF / PAC (target 20..30);31.44;;;;;;;;;;;;;
 ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);44.0;g;;6.1%;;;;;;;;;;
 ℹ️ Net carbs;47.2;g;;*∝ 5 servings@144g:* 9.4g;;;*∝ 3 servings@240g:* 15.7g;;;;;;;
 ;;;;;;;;;;;;;;
-"You can replace the strawberries by other fruit, or fruit powder. Adapt the amount of water or milk to fill up to MAX accordingly.
+"You can replace the strawberries by other fruit, or fruit powder (see “Optional”). Adapt the amount of water or milk to fill up to MAX accordingly.
 
 Processed on *FroYo*, with scrape-down and a respin.
 
@@ -31,12 +31,14 @@ ICSv2 [Erythritol / Inulin / CMC / Guar / XG / Salt];20.00;g;2;107.2;0.0;95.5;3.
 Xylitol (E967);35.00;g;2;238.00;;100.00;;;;2.20;;"POD = 100%; GI = 7";100.00;1
 ;;;;;;;;;;;;;;
 Strawberries;175.00;g;1;31.00;0.40;5.80;5.70;0.80;0.00;0.06;;;;1
+Strawberries;175.00;g;6;31.00;0.40;5.80;5.70;0.80;0.00;0.06;;fresh or frozen [54kcal, 10g sugar];;
+Blueberries;150.00;g;6;48.00;0.40;9.10;8.90;0.40;0.00;0.09;;fresh or frozen [72kcal, 13g sugar];;
+Mango;150.00;g;6;62.00;0.50;13.00;13.00;0.60;0.00;0.13;;fresh or frozen [93kcal, 20g sugar];;
 Ube Yam Root powder [Fil Choice];25.00;g;6;382.00;0.60;83.00;9.50;6.10;0.30;0.10;;"like vanilla+pistachio; add more liquid at the end [96kcal, 2g sugar]";;
 Lingonberry powder [Bio Leis];25.00;g;6;351.00;2.30;78.80;72.50;3.70;0.01;0.73;;add more liquid at the end [88kcal, 18g sugar];;
 Strawberry powder [Supergarden];25.00;g;6;287.00;3.70;50.90;50.60;7.60;0.00;0.51;;add more liquid at the end [72kcal, 13g sugar];;
-Mango;150.00;g;6;62.00;0.50;13.00;13.00;0.60;0.00;0.13;;fresh or frozen [93kcal, 20g sugar];;
 ;;;;;;;;;;;;;;
-Water to MAX line;25.00;ml;3;0.00;0.00;0.00;0.00;0.00;0.00;;;;;1
+Water, milk, or yogurt to MAX line;25.00;ml;3;;;;;;;;;;;1
 Flavor drops Vanilla (sucralose) [IronMaxx];≈3;drops;3;;;;;;;;;to taste;;
 ;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
