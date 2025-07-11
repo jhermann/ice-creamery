@@ -33,6 +33,7 @@ of common ingredients, sorted by PAC.
 | 100 |  10 |  6 | Polydextrose | |
 | **100** | **100** | 65 | **Sucrose** | Table sugar, 1:1 glucose:fructose |
 | 100 |  45 | 38 | Trehalose | Disaccharide, found in plants & fungi;<br />also improves texture / icyness |
+|  80 |  55 | ≈70 | Glucose Powder (42 DE) | Also called 'atomized glucose' |
 |  77 | ≈57 | 55 | Molasses | Less sweet than sugar, with a<br />complex flavor profile (bittersweet) |
 |  68 | ≈66 | 54 | Maple syrup | High in sucrose, but also has fructose and glucose|
 |  50 |  44 | 100 | Glucose Syrup (28 DE) | |
