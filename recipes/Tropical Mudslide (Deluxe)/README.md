@@ -26,7 +26,7 @@ A boozy combination of layered chocolate and coconut ice cream.
 The recipe is rather complicated and prepared in 3 phases, and then combined to 2 flavors forming 2 layers.
 And no, given this delicate balance you can not swap out ingredients, unless you *very* well know what you’re doing.
 
-Spin on “Sorbet”, scrape down, and mix-in. Do not overprocess, to keep discernable layers.
+Spin on “Sorbet”, scrape down, and mix-in. Do not overprocess, to keep discernible layers.
 
 > <img width=360 alt="Spun Ice Cream" src="" class="zoomable" />
 
