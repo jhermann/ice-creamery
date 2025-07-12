@@ -37,6 +37,14 @@ Rating: 😋😋😋😋😋
 > 
 > *Served with a topping of black sesame in a creamy pomegranate sauce.*
 
+Added 2g GMS (emulsifier) and dissolved that, the SMP and the almond butter in heated soy milk. That improved texture a lot, and it needed only one Sorbet spin, no respins.
+
+> <img width=180 alt="Added GMS" src="ABBM_2025-07-12_1.jpg" class="zoomable" />
+> <img width=180 alt="Added GMS" src="ABBM_2025-07-12_2.jpg" class="zoomable" />
+> <img width=180 alt="Added GMS" src="ABBM_2025-07-12_3.jpg" class="zoomable" />
+> 
+> *Served with molasses and almond slivers, directly after processing.*
+
 # INGREDIENTS
 
 ℹ️ Brand names are in square brackets `[...]`.
