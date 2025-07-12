@@ -158,7 +158,7 @@ def add_default_tags(md_text, docmeta):
 def read_images():
     """Read IMG tags from readme."""
     filename = Path('README.md')
-    result = []
+    result = {}
     if filename.exists():
         lines = filename.read_text(encoding='utf-8').splitlines()
         for idx, line in reversed(list(enumerate(lines))):
