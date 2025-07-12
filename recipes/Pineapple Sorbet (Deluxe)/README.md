@@ -17,7 +17,7 @@ tags:
 
 Pineapple in its own juice with dairy, soy or coconut milk to make it more creamy.
 
-If you like to put it into Piña Colada territory, use 75ml of Batida de Côco (16 vol%) in place of the brandy and VG.
+If you like to put it into Piña Colada territory, use 75ml of Batida de Côco (16 vol%) in place of the rum and VG.
 
 > 🌿 For the vegan option, replace the cottage cheese with 100ml coconut milk (adds 20kcal),
 > or else 5g of almond butter and 150ml of either soy or almond milk.
