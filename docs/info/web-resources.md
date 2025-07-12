@@ -31,6 +31,10 @@ Lists just like this one.
 - [Polar Ice Creamery](https://www.youtube.com/c/PolarIceCreamery) — Science-based ice cream making, for classic ice cream machines as well as the Creami.
 - [Odd Scoops](https://www.youtube.com/@OddScoops) — Where ice cream gets weird! Also see [r/cursedcreamis](https://www.reddit.com/r/cursedcreamis/) if you're a fan.
 
+**Noteworthy Videos**
+
+- [Gelato Masterclass: Make the best Italian ice cream at home](https://www.youtube.com/watch?v=eH1wuQg4h4Y)
+
 ## Ice Cream Calculators
 I use my spreadsheet, so this is a "what I found on the web" list, without any preferences attached.
 
