@@ -56,20 +56,17 @@ using a hardening factor (HF; negative PAC):
 - Cocoa paste: -160
 - Hazelnut paste: -90
 
-Ultra-sweet fluids (sucralose, stevia/steviol, monk fruit) have no effect
-on the freezing point, since they lack the necessary mass.
-If in powdered form, make sure the bulking agent has no effect
-– quite often erythritol is used since it adds no calories.
-
 ### How to Dial in Sweetness?
 
 Bulky sweeteners (granules / powders) often have a high PAC of around 200 or more,
 and their dosage influences the ice cream's scoopability accordingly.
 Thus, determine their amount first, fitting the rest of the recipe's ingredients.
 
-Then to arrive at the desired sweetness, ultra-sweet liquids are great since they
-keep the PAC at the same level and only increase the POD.
-Liquid stevia or sucralose are most commonly used here.
+Then to arrive at the desired sweetness, ultra-sweet liquids (sucralose, stevia/steviol, monk fruit)
+are great since they keep the PAC at the same level (have no effect on the freezing point),
+since they lack the necessary mass. So they only increase the POD, and liquid stevia or sucralose
+are most commonly used here. If in powdered form, make sure the bulking agent has no effect
+– quite often erythritol (PAC = 280) is used since it adds no calories.
 
 In "classic" recipes, a similar effect is used by balancing table sugar with sweeteners
 that have a higher PAC and a lower POD, like dextrose.
