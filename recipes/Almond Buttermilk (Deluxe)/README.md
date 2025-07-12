@@ -17,6 +17,9 @@ tags:
 # Almond Buttermilk (Deluxe)
 <img style="float: right; margin-left: 1.5em;" width=240 alt="logo" src="logo.png" />
 
+Ice cream based on almond butter as the main flavor component, adding buttermilk and unsweetened soy milk (to keep sugar low).
+An emulsifier is used to properly integrate the nut butter.
+
 Processed on *Lite Ice Cream*, with scrape-down and a respin.
 
 > <img width=360 alt="Spun Ice Cream" src="almond-buttermilk_2025-05-06_1.jpg" class="zoomable" />
@@ -76,6 +79,10 @@ Added 2g GMS (emulsifier) and dissolved that, the SMP and the almond butter in h
 
   - _25g_ Dark chocolate 70% [Moser-Roth/Aldi] • add chopped or shaved as a mix-in [145kcal, 7g sugar]
   - _10g_ Almond slivers [naturix24] • add as a topping or mix-in [59kcal, 0.4g sugar]
+
+**Topping Options**
+
+  - _5ml_ Molasses [Grafschafter Goldsaft] • add as a topping [15kcal, 3.3g sugar]
 
 # DIRECTIONS
 
