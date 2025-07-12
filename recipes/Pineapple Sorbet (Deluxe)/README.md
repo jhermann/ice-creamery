@@ -50,7 +50,7 @@ Rating: 😋😋😋🍍🍍
 
 **Optional**
 
-  - _75ml_ Batida de Côco 16 vol% [Mangaroca] • swap in for VG and brandy [179kcal, 12g sugar]
+  - _75ml_ Batida de Côco 16 vol% [Mangaroca] • swap in for VG and rum [179kcal, 12g sugar]
 
 # DIRECTIONS
 
