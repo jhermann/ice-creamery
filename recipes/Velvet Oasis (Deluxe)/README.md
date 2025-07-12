@@ -37,7 +37,7 @@ Rating: 😋🌴 (untested)
   - _150ml_ Water (boiling)
   - _60g_ Medjool dates (pitted, organic) [Seba Garden] • 3 dates • distinctive caramel taste with hints of vanilla
   - _30g_ Cashew nuts (organic) [Biojoy]
-  - _20g_ [Coconut flakes (desiccated) \[Biojoy\]](/ice-creamery/info/ingredients/#coconut-milk){target="_blank"}<sup>↗</sup>
+  - _20g_ Coconut flakes (desiccated) [Biojoy]
 
 **Wet**
 
@@ -49,7 +49,7 @@ Rating: 😋🌴 (untested)
 
   - _25g_ [Xylitol (E967)](/ice-creamery/info/ingredients/#xylitol-e967){target="_blank"}<sup>↗</sup> • POD = 100%; GI = 7
   - _15g_ ICSv2 [Erythritol / Inulin / CMC / Guar / XG / Salt] • [http﹕//bit.ly/4frc4Vj](https://jhermann.github.io/ice-creamery/I/Ice%20Cream%20Stabilizer%20(ICS)/)
-  - _2g_ [Vanilla Bean Powder \[InterVanilla\]](/ice-creamery/info/ingredients/#cocoa-powder){target="_blank"}<sup>↗</sup>
+  - _2g_ Vanilla Bean Powder [InterVanilla]
   - _1g_ Salt
 
 **Fill to MAX**
