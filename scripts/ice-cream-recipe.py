@@ -423,7 +423,7 @@ def main():
             data = dict(zip(fields, row))
             if not data['step']:
                 handle_top_row(row)
-            elif data['ingredients']:
+            elif data['ingredients'] and data['counts?'] != '0':
                 if data['amount'].endswith('.00'):
                     data['amount'] = data['amount'][:-3]
                 if args.macros or data['amount'] and data['amount'] != '0':
