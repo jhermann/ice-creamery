@@ -28,15 +28,14 @@ of common ingredients, sorted by PAC.
 | 190 | ≈130 | 87 | Invert sugar | a/k/a inverted sugar, invert syrup,<br />(invert) sugar syrup, simple syrup,<br />or high-fructose corn syrup (HFCS) |
 | 190 |  60 |  9 | Sorbitol | |
 | 180 | ≈160 | 11 | Agave Syrup | POD ranges from 140 to 180 |
-| 130 |  55 | 100 | Glucose Syrup (42 DE) | |
 | 100 |  16 | 45 | Lactose | Milk sugar |
 | 100 |  10 |  6 | Polydextrose | |
 | **100** | **100** | 65 | **Sucrose** | Table sugar, 1:1 glucose:fructose |
 | 100 |  45 | 38 | Trehalose | Disaccharide, found in plants & fungi;<br />also improves texture / icyness |
-|  80 |  55 | ≈70 | Glucose Powder (42 DE) | Also called 'atomized glucose' |
+| ≈90 | ≈55 | ≈75 | Glucose Powder (40/42 DE) | 5–7% water; also called atomized / dehydrated glucose |
+|  80 |  50 | ≈75 | Glucose Syrup (42 DE) | 25% water |
 |  77 | ≈57 | 55 | Molasses | Less sweet than sugar, with a<br />complex flavor profile (bittersweet) |
 |  68 | ≈66 | 54 | Maple syrup | High in sucrose, but also has fructose and glucose|
-|  50 |  44 | 100 | Glucose Syrup (28 DE) | |
 |  50 |  -/- | 85 | Modified corn starch | Possibly lower GI for some modifications |
 |  34 |  21 | 110 | Maltodextrin<br />(18 DE) | |
 |  22 |  10 |  1 | Inulin | |
