@@ -37,7 +37,7 @@ of common ingredients, sorted by PAC.
 |  77 | ≈57 | 55 | Molasses | Less sweet than sugar, with a<br />complex flavor profile (bittersweet) |
 |  68 | ≈66 | 54 | Maple syrup | High in sucrose, but also has fructose and glucose|
 |  50 |  -/- | 85 | Modified corn starch | Possibly lower GI for some modifications |
-|  34 |  21 | 110 | Maltodextrin<br />(18 DE) | |
+|  34 |  21 | 110 | Maltodextrin (18 DE) | |
 |  22 |  10 |  1 | Inulin | |
 |  10 |  44 | 35 | Maltitol (E965) | |
 
