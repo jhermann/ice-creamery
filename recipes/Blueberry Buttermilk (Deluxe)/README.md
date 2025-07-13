@@ -11,6 +11,7 @@ tags:
 - Light
 - Low-Fat
 - Low-Sugar
+- Multi-Flavor
 - Polysaccharide Gum
 - Scoopable
 - Stevia
