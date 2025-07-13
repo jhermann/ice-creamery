@@ -23,6 +23,7 @@ Galia melon sorbet.
 > 🌿 **Vegan & Dairy-free**<br />Recipe is using only soy milk and protein.
 
 > <img width=220 alt="Galia Melon" src="Galia_melon_2025-07-11_1.jpg" class="zoomable" />
+> <img width=220 alt="500g prepared melon" src="Galia_melon_2025-07-13_1.jpg" class="zoomable" />
 
 Spin on “Sorbet”, scrape down, and re-mix.
 
