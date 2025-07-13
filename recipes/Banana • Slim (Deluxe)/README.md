@@ -15,7 +15,8 @@ tags:
 # Banana • Slim (Deluxe)
 <img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/assets/banana-ice-cream-logo.png" />
 
-Process on FroYo, followed by a scrape down and a re-spin.
+Process on *Frozen Yogurt*, [hold it shortly under running water](https://jhermann.github.io/ice-creamery/info/tips%2Btricks/#handling-of-icy-sides-bottom)
+*after* that. Then a scrape-down and a respin.
 
 > <img width=360 alt="Spun Ice Cream" src="banana-slim_2025-06-02.jpg" class="zoomable" />
 
@@ -27,17 +28,17 @@ Rating: 😋😋😋😋🍌
 
 **Wet**
 
-  - _250ml_ Almond milk (unsweetened) [REWE Bio] • with guar gum (<1.5g)
+  - _250ml_ [Almond milk 1.7% (sugar-free) \[REWE Bio\]](/ice-creamery/info/ingredients/#almond-milk-butter){target="_blank"}<sup>↗</sup> • with guar gum (<1.5g)
   - _125g_ Bananas (peeled) • 1 mid-size banana, eat any surplus 😋
   - _100g_ Greek Yogurt 9% [Lyttos]
-  - _100ml_ Skim Milk 1.5% [Weihenstephan]
-  - _10g_ Fruit Brandy 40 vol%
-  - _10g_ Glycerin (E422, VG) [hd-line] • Sweetness = 60%; GI = 5; Density = 1.26 g/ml
+  - _100ml_ [Skim Milk 1.5% \[Weihenstephan\]](/ice-creamery/info/ingredients/#skim-milk){target="_blank"}<sup>↗</sup>
+  - _10g_ [Brandy or Vodka 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup>
+  - _10g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • POD = 60%; GI = 5; Density = 1.26 g/ml
 
 **Dry**
 
-  - _30g_ ICSv2 [Erythritol / CMC / Tara / XG / Inulin] • [http﹕//bit.ly/4frc4Vj](https://github.com/jhermann/ice-creamery/tree/main/recipes/Ice%20Cream%20Stabilizer%20%28ICS%29)
-  - _30g_ Xylitol • Sweetness = 100%; GI = 7
+  - _30g_ ICSv2 [Erythritol / Inulin / CMC / Guar / XG / Salt] • [http﹕//bit.ly/4frc4Vj](https://jhermann.github.io/ice-creamery/I/Ice%20Cream%20Stabilizer%20(ICS)/)
+  - _30g_ [Xylitol (E967)](/ice-creamery/info/ingredients/#xylitol-e967){target="_blank"}<sup>↗</sup> • Sweetness = 100%; GI = 7
   - _3g_ Vanilla Bean Powder [InterVanilla]
 
 **Fill to MAX**
@@ -55,12 +56,11 @@ Rating: 😋😋😋😋🍌
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
 
 # NUTRITIONAL & OTHER INFO
-- **Nutritional values per 100g/ml:** 100g; 72.6 kcal; fat 2.2g; carbs 12.8g; sugar 4.2g; protein 1.4g; salt 0.2g
-- **Nutritional values per ½ Deluxe Tub:** 360g; 261.4 kcal; fat 7.9g; carbs 46.1g; sugar 15.1g; protein 5.1g; salt 0.6g
-- **Nutritional values total:** 720g; 522.7 kcal; fat 15.7g; carbs 92.3g; sugar 30.2g; protein 10.3g; salt 1.2g
-- **FPDF / PAC (target 20..30):** 28.86
+- **Nutritional values per 100g/ml:** 100g; 72.6 kcal; fat 2.2g; carbs 14.5g; sugar 4.2g; protein 1.4g; salt 0.2g
+- **Nutritional values per ½ Deluxe Tub:** 360g; 261.4 kcal; fat 7.9g; carbs 52.3g; sugar 15.1g; protein 5.1g; salt 0.6g
+- **Nutritional values total:** 720g; 522.7 kcal; fat 15.7g; carbs 104.5g; sugar 30.2g; protein 10.3g; salt 1.2g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 28.86
 - **Protein / Energy Ratio (ok=12%; hi=20%):** 7.85% • LOW-FAT • Low-Sugar
-- **Milk Solids Non-Fat (MSNF, 7-11%):** 17.1g • 2.4%
-- **30g Ice Cream Stabilizer (ICSv2) is:** 14.3g erythritol, 1.43g Tylose powder (CMC, E466), 
-0.5g tara gum (E417), 0.15g xanthan (E415),
-14.3g inulin, 0.5g salt.
+- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 17.1g • 2.4%
+- **Net carbs:** 42.3g • *∝ 5 servings@144g:* 8.5g • *∝ 3 servings@240g:* 14.1g
+- **30g Ice Cream Stabilizer (ICSv2) is:** 13.8g Erythritol (E968) • 13.8g Inulin • 1.4g Tylose powder (E466, Tylo, CMC) • 0.48g Guar gum (E412) • 0.48g Salt • 0.14g Xanthan gum (E415, XG).
