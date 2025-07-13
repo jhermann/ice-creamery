@@ -16,6 +16,13 @@ It takes handling small amounts of ingredients and their ratio to each other
 out of the process of mixing your final ice cream base,
 making the overall process less finicky.
 
+Adding bulk to the thickeners also prevents clumping when mixing them into your base.
+Drizzle the mix into the vortex of a running blender,
+or drop it into your mixing container and quickly integrate it with an immersion blender on full speed.
+Before that, combine this mix with any granulated sweetener or other dry / powdery ingredients you have.
+
+> <img width=360 alt="Container with blended mix" src="ICS_2025-07-13.jpg" class="zoomable" />
+
 Use 15g of the mix for a Creami Deluxe tub (24oz, yields 10),
 and 10g for the regular size (16oz, yields 15).
 
