@@ -62,5 +62,5 @@ Rating: 😋😋😋😋🍌
 - **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 28.86
 - **Protein / Energy Ratio (ok=12%; hi=20%):** 7.85% • LOW-FAT • Low-Sugar
 - **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 17.1g • 2.4%
-- **Net carbs:** 42.3g • *∝ 5 servings@144g:* 8.5g • *∝ 3 servings@240g:* 14.1g
+- **Net carbs:** 42.3g • *∝ 5 servings@144g:* 8.5g • *∝ 3 servings@240g:* 14.1g • *energy ratio (low <20%):* 32.4%
 - **30g Ice Cream Stabilizer (ICSv2) is:** 13.8g Erythritol (E968) • 13.8g Inulin • 1.4g Tylose powder (E466, Tylo, CMC) • 0.48g Guar gum (E412) • 0.48g Salt • 0.14g Xanthan gum (E415, XG).
