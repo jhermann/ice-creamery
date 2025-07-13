@@ -9,7 +9,6 @@ excluded_tags:
 - Fruit
 tags:
 - Dairy-Free
-- Draft
 - Hi-Protein
 - Light
 - Low-Fat
