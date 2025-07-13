@@ -9,6 +9,7 @@ tags:
 - Hi-Protein
 - Low-Fat
 - Low-Sugar
+- Multi-Flavor
 - Polysaccharide Gum
 - Scoopable
 - Sucralose

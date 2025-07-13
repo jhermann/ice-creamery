@@ -8,6 +8,7 @@ tags:
 - Erythritol
 - Fruit
 - Low-Sugar
+- Multi-Flavor
 - Polysaccharide Gum
 - Scoopable
 - Sucralose

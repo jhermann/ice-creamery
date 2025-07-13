@@ -9,6 +9,7 @@ tags:
 - Erythritol
 - Fruit
 - Low-Sugar
+- Multi-Flavor
 - Polysaccharide Gum
 - Sucralose
 - Tylo Powder (CMC)

@@ -14,6 +14,7 @@ tags:
 - Hi-Protein
 - Low-Fat
 - Low-Sugar
+- Multi-Flavor
 - Polysaccharide Gum
 - Scoopable
 - Tylo Powder (CMC)
