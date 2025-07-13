@@ -30,8 +30,9 @@ You can also try this with similar fruity beverages, like Berliner Weiße (wheat
 
 The beer comes in 0.33l bottles, it foams up when you mix in the additional ingredients. Therefor filling the container only half is recommended.
 
-> <img width=190 alt="Beer bottle" src="radler-zäpfle_2025-07-04_0.jpg" class="zoomable" />
-> <img width=285 alt="Whisked" src="radler-zäpfle_2025-07-04_1.jpg" class="zoomable" />
+> <img width=145 alt="Beer bottle" src="radler-zäpfle_2025-07-04_0.jpg" class="zoomable" />
+> <img width=145 alt="Hoepfner Natur Radler" src="radler-natur_2025-07-13.jpg" class="zoomable" />
+> <img width=290 alt="Whisked" src="radler-zäpfle_2025-07-04_1.jpg" class="zoomable" />
 
 The base developed a sizable but very soft and crumbly hump. Spin on “Sorbet”, followed by a scrape-down and mix-in. Comes out very soft and needs 1-2h refreezing before serving.
 
