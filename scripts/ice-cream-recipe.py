@@ -170,7 +170,9 @@ def read_images():
         imgnames = [x for x in sorted(Path('.').glob('logo-*.*')) if x.suffix in {'.png', '.jpg', '.jpeg', '.webp'}]
         if imgnames:
             result[1] = LOGO_IMG % str(imgnames[0])
-    return result or {999: '> <img width=360 alt="Spun Ice Cream" src="" class="zoomable" />'}
+    if not (set(result) - {1}):
+        result[999] = '> <img width=360 alt="Spun Ice Cream" src="" class="zoomable" />'
+    return result
 
 def read_meta():
     """Read metadata from readme."""
