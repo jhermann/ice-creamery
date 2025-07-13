@@ -1,5 +1,7 @@
 ---
 description: Recipe for the Ninja Creami Deluxe [24oz]
+excluded_tags:
+- Dairy$
 tags:
 - Dairy-Free
 - Draft
@@ -11,6 +13,7 @@ tags:
 - Low-Sugar
 - Polysaccharide Gum
 - Scoopable
+- Sorbet
 - Sucralose
 - Tylo Powder (CMC)
 - Vegan
@@ -19,12 +22,17 @@ tags:
 # GaMe On (Deluxe)
 <img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="logo-galia-melon.webp" />
 
-Galia melon sorbet.
+Galia melon sherbet composed of two thirds melon pulp plus soy milk and protein to make it creamier.
 
 > 🌿 **Vegan & Dairy-free**<br />Recipe is using only soy milk and protein.
 
+Split the melon along its ‘equator’, spoon out the seeds and any soft flesh, remove the ‘polar caps’.
+Then use a vegetable knife to remove the skin, and cut into manageable pieces.
+Finally follow the directions below.<br clear=all />
+
 > <img width=220 alt="Galia Melon" src="Galia_melon_2025-07-11_1.jpg" class="zoomable" />
 > <img width=220 alt="500g prepared melon" src="Galia_melon_2025-07-13_1.jpg" class="zoomable" />
+> <img width=220 alt="blended base ready to freeze" src="Galia_melon_2025-07-13_2.jpg" class="zoomable" />
 
 Spin on “Sorbet”, scrape down, and re-mix.
 
@@ -51,7 +59,7 @@ Rating: 😋🍈 (untested)
 **Fill to MAX**
 
   - _40ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
-  - _≈3 drops_ Flavor drops Peach / Maracuja (sucralose) [IronMaxx] • to taste
+  - _≈5 drops_ Flavor drops Peach / Maracuja (sucralose) [IronMaxx] • to taste
 
 # DIRECTIONS
 
