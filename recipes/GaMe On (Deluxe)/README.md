@@ -17,6 +17,7 @@ tags:
 - Xylitol
 ---
 # GaMe On (Deluxe)
+<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="logo-galia-melon.webp" />
 
 Galia melon sorbet.
 
