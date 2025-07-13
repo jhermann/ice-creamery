@@ -1,8 +1,9 @@
 ---
 description: Recipe for the Ninja Creami Deluxe [24oz]
 excluded_tags:
-- Dairy
+- Dairy$
 - Fruit
+- Vanilla
 tags:
 - Dairy-Free
 - Erythritol
@@ -26,10 +27,8 @@ Soda sorbet from 0-cal syrup. Works with any 0-sugar soda syrup — increase the
 <img style="float: left; margin-right: 1.5em;" width=220 alt="Syrup bottles + lime" src="Sodapop_2025-06-23.jpg" />
 
 > 🌿 **Vegan & Dairy-free**<br />Recipe is using only syrup + lemon juice and no dairy.
-
 > ℹ️ This is keto, at 15 net carbs per tub, so 3-6 per serving.
 <br clear=all /><br />
-
 > <img width=280 alt="After Sorbet spin" src="afri-cola_2025-07-02_1.jpg" class="zoomable" />
 > <img width=280 alt="After scrape-down + mix-in" src="afri-cola_2025-07-02_2.jpg" class="zoomable" />
 > 
@@ -37,11 +36,10 @@ Soda sorbet from 0-cal syrup. Works with any 0-sugar soda syrup — increase the
 > 
 > Rating: 😋😋🥤🥤
 
-
 > <img width=370 alt="Scooped, with black sesame" src="afri-cola_2025-07-02_3.jpg" class="zoomable" />
 > <img width=185 alt="Instant Brainfreeze" src="afri-cola_2025-07-02_4.jpg" class="zoomable" />
->
-> *Served with black sesame seeds, and as a float with 1tso of vanilla extract and sweetener in sparkling water.*
+> 
+> *Served with black sesame seeds, and as a float with 1tsp of vanilla extract and sweetener in sparkling water.*
 
 # INGREDIENTS
 

@@ -1,44 +1,109 @@
-Soda Pop Sorbet (Deluxe);;;;;;;;;;;;;
-;;;;;;;;;;;;;
-;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;
-Nutritional values per 100g/ml;100;g;;35.3;0.0;8.8;0.2;1.9;0.3;;;;
-Nutritional values per ½ Deluxe Tub;360;g;;127.1;0.1;31.8;0.8;6.8;1.2;;;;
-Nutritional values total;720;g;;254.1;0.2;63.5;1.5;13.6;2.4;;;;
-;;;;;;;;;;;;;
-FPDF / PAC (target 20..30);29.14;;;;;;;;;;;;
-"Protein / Energy Ratio (ok=12%; hi=20%)";21.46%;;;LOW-CAL;LOW-FAT;;Low-Sugar;Hi-Protein;;;;;
-ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);14.0;g;;1.9%;;;;;;;;;
-ℹ️ Net carbs;15.2;g;;*∝ 5 servings@144g:* 3g;;;*∝ 3 servings@240g:* 5.1g;;;;;;
+Soda Pop Sorbet (Deluxe);;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;;
+Nutritional values per 100g/ml;100;g;;35.3;0.0;8.8;0.2;1.9;0.3;;;;;
+Nutritional values per ½ Deluxe Tub;360;g;;127.1;0.1;31.8;0.8;6.8;1.2;;;;;
+Nutritional values total;720;g;;254.1;0.2;63.5;1.5;13.6;2.4;;;;;
+;;;;;;;;;;;;;;
+FPDF / PAC (target 20..30);29.14;;;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";21.46%;;;LOW-CAL;LOW-FAT;;Low-Sugar;Hi-Protein;;;;;;
+ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);14.0;g;;1.9%;;;;;;;;;;
+ℹ️ Net carbs;15.2;g;;*∝ 5 servings@144g:* 3g;;;*∝ 3 servings@240g:* 5.1g;;;;;;;
 "Soda sorbet from 0-cal syrup. Works with any 0-sugar soda syrup — increase the recommended dosage by 33%, because ice cream.
 
-> 🌿 **Vegan & Dairy-free**<br />Recipe is using only syrup + lemon juice and no dairy.
-";;;;;;;;;;;;;
-> ℹ️ This is keto, at 15 net carbs per tub, so 3-6 per serving.;;;;;;;;;;;;;
-"
-<br clear=all /><br />Process on Sorbet.
 
-Rating: 😋🥤 (experimental)";;;;;;;;;;;;;
-;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-1. Zest the lime first, before juicing it.;;;;;;;;;;;;;
-The [brand names] used are in brackets.;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment;0Carb[%]
-Water (cold);400.00;ml;1;;;;;;;;;;
-Soda syrup “afri cola zero” [Sodapop];45.00;ml;1;0.00;0.00;0.00;0.00;0.00;0.01;;;500ml bottle (1:19, yields 10l);
-Glycerin (E422, VG) [hd-line];20.00;g;1;400.00;;99.00;;;;3.70;;"Sweetness = 60%; GI = 5; Density = 1.26 g/ml";50.00
-Lime juice + zest (organic) [REWE Bio];20.00;ml;1;25.00;0.10;8.40;1.70;0.40;;;;1 lime = 60..65g;
-Brandy or Vodka 40 vol%;15.00;g;1;280.00;;;;;;2.96;;;
-Soy protein isolate (nature) [Powerstar];15.00;g;2;372.00;1.00;1.00;0.00;89.80;2.50;;93.00;1kg bag, unsweetened, unflavored;
-Inulin [Vit4ever];15.00;g;2;210.00;;97.00;8.00;;0.20;0.09;;"Sweetness = 8%; GI ~= 0";89.00
-Erythritol (E968);15.00;g;2;24.00;0.00;100.00;0.00;0.00;0.00;2.80;;POD = 75%;100.00
-Xylitol (E967);10.00;g;2;238.00;;100.00;;;;2.20;;"POD = 100%; GI = 7";100.00
-Salt;2.00;g;2;;;;;;100.00;5.90;;;
-Tylose powder (E466 / CMC) [GoodBake];1.50;g;2;600.00;;75.00;;;;;;;
-Guar gum (E412);1.00;g;2;180.00;0.60;84.00;0.00;5.50;0.30;;;;
-Xanthan gum (E415, XG);0.50;g;2;320.00;;78.00;;6.00;1.00;;;1tsp ≈ 2.8g;
-;;;;;;;;;;;;;
-Water to MAX line;160.00;ml;3;;;;;;;;;;
-Flavor drops Peach / Maracuja (sucralose) [IronMaxx];≈4;drops;3;;;;;;;;;to taste;
-;;;;;;;;;;;;;
-Jul 2, 2025;Add lime zest, less solids, a bit more syrup;;;;;;;;;;;;
+> 🌿 **Vegan & Dairy-free**<br />Recipe is using only syrup + lemon juice and no dairy.
+";;;;;;;;;;;;;;
+> ℹ️ This is keto, at 15 net carbs per tub, so 3-6 per serving.;;;;;;;;;;;;;;
+"<br clear=all /><br />
+
+> *Processed on Sorbet, followed by a scrape-downand a mix-in run.*
+> 
+> Rating: 😋😋🥤🥤
+
+> *Served with black sesame seeds, and as a float with 1tsp of vanilla extract and sweetener in sparkling water.*";;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+1. Zest the lime first, before juicing it.;;;;;;;;;;;;;;
+The [brand names] used are in brackets.;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment;0Carb[%];Counts?
+Water (cold);400.00;ml;1;;;;;;;;;;;1
+Soda syrup “afri cola zero” [Sodapop];45.00;ml;1;0.00;0.00;0.00;0.00;0.00;0.01;;;500ml bottle (1:19, yields 10l);;1
+Glycerin (E422, VG) [hd-line];20.00;g;1;400.00;;99.00;;;;3.70;;"Sweetness = 60%; GI = 5; Density = 1.26 g/ml";50.00;1
+Lime juice + zest (organic) [REWE Bio];20.00;ml;1;25.00;0.10;8.40;1.70;0.40;;;;1 lime = 60..65g;;1
+Brandy or Vodka 40 vol%;15.00;g;1;280.00;;;;;;2.96;;;;1
+Soy protein isolate (nature) [Powerstar];15.00;g;2;372.00;1.00;1.00;0.00;89.80;2.50;;93.00;1kg bag, unsweetened, unflavored;;1
+Inulin [Vit4ever];15.00;g;2;210.00;;97.00;8.00;;0.20;0.09;;"Sweetness = 8%; GI ~= 0";89.00;1
+Erythritol (E968);15.00;g;2;24.00;0.00;100.00;0.00;0.00;0.00;2.80;;POD = 75%;100.00;1
+Xylitol (E967);10.00;g;2;238.00;;100.00;;;;2.20;;"POD = 100%; GI = 7";100.00;1
+Salt;2.00;g;2;;;;;;100.00;5.90;;;;1
+Tylose powder (E466 / CMC) [GoodBake];1.50;g;2;600.00;;75.00;;;;;;;;1
+Guar gum (E412);1.00;g;2;180.00;0.60;84.00;0.00;5.50;0.30;;;;;1
+Xanthan gum (E415, XG);0.50;g;2;320.00;;78.00;;6.00;1.00;;;1tsp ≈ 2.8g;;1
+;;;;;;;;;;;;;;
+Water to MAX line;160.00;ml;3;;;;;;;;;;;1
+Flavor drops Peach / Maracuja (sucralose) [IronMaxx];≈4;drops;3;;;;;;;;;to taste;;
+;;;;;;;;;;;;;;
+Jul 2, 2025;Add lime zest, less solids, a bit more syrup;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
