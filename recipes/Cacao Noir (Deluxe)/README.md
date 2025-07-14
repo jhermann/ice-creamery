@@ -46,7 +46,7 @@ Rating: 😋🍫 (untested)
 
 **Dry**
 
-  - _15g_ [Salty Stability [Inulin / CMC / Guar / XG / Salt]](/ice-creamery/S/Salty%20Stability/) • unsweetened “ICSv2”
+  - _15g_ [Salty Stability \[Inulin / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup> • unsweetened “ICSv2”
   - _40g_ [Erythritol (E968)](/ice-creamery/info/ingredients/#erythritol-e968){target="_blank"}<sup>↗</sup> • POD = 75%
   - _20g_ [Trehalose \[SaporePuro\]](/ice-creamery/info/ingredients/#trehalose-e965){target="_blank"}<sup>↗</sup> • POD = 45%; GI = 38
   - _1 pinch_ Cinnamon (Ceylon)
