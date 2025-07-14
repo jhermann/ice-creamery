@@ -42,6 +42,8 @@ Spin on “Sorbet”, scrape down, and re-mix.
 
 Rating: 😋😋😋🍈🍈
 
+> <img width=360 alt="blended base ready to freeze" src="Galia_melon_2025-07-14_4.jpg" class="zoomable" />
+
 # INGREDIENTS
 
 ℹ️ Brand names are in square brackets `[...]`.
