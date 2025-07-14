@@ -1,14 +1,14 @@
 Cacao Noir (Deluxe);;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 ;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;;
-Nutritional values per 100g/ml;100;g;;126.5;4.3;17.6;5.7;5.7;0.4;;;;;
-Nutritional values per ½ Deluxe Tub;360;g;;455.3;15.4;63.5;20.5;20.4;1.4;;;;;
-Nutritional values total;720;g;;910.6;30.8;127.0;41.0;40.8;2.9;;;;;
+Nutritional values per 100g/ml;100;g;;122.7;4.3;17.4;4.7;5.7;0.4;;;;;
+Nutritional values per ½ Deluxe Tub;360;g;;441.6;15.5;62.5;17.0;20.6;1.4;;;;;
+Nutritional values total;720;g;;883.2;31.0;125.0;33.9;41.1;2.9;;;;;
 ;;;;;;;;;;;;;;
-FPDF / PAC (target 20..30);30.57;;;;;;;;;;;;;
-"Protein / Energy Ratio (ok=12%; hi=20%)";17.92%;;;;;;;;;;;;;
+FPDF / PAC (target 20..30);31.76;;;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";18.64%;;;;;;Low-Sugar;;;;;;;
 ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);14.0;g;;1.9%;;;;;;;;;;
-ℹ️ Net carbs;69.8;g;;*∝ 5 servings@144g:* 14g;;;*∝ 3 servings@240g:* 23.3g;;;*energy ratio (low <20%):* 30.6%;;;;
+ℹ️ Net carbs;62.8;g;;*∝ 5 servings@144g:* 12.6g;;;*∝ 3 servings@240g:* 20.9g;;;*energy ratio (low <20%):* 28.5%;;;;
 ;;;;;;;;;;;;;;
 "Chocolate ice cream using both cocoa powder and dark chocolate, and a strong coffee note.
 
@@ -18,7 +18,7 @@ Rating: 😋🍫 (untested)";;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
-"1. Mix the boiling water with the cocoa powder to bloom it, add the protein powder and dissolve it.
+"1. Mix the boiling water with the cocoa powder to bloom it, dissolve the coffee and protein powder.
  1. Melt the chocolate pieces into the hot paste, then let it cool down.
  1. Add ""wet"" ingredients and the bloomed cocoa to empty Creami tub.";;;;;;;;;;;;;;
 The [brand names] used are in brackets.;;;;;;;;;;;;;;
@@ -28,20 +28,21 @@ Water (boiling);200.00;ml;0;;;;;;;;;;;1
 Cocoa Powder Organic 11% [Sevenhills];50.00;g;0;367.00;11.00;26.80;0.90;28.00;0.05;-1.30;;;;1
 Dark chocolate 70% (intensive) [Lindt];;g;0;566.00;41.00;35.00;30.00;9.50;0.02;-0.07;;Portion = 20g;;1
 Dark chocolate 70% [Moser-Roth/Aldi];50.00;g;0;578.00;42.00;34.00;28.00;9.50;0.02;-0.10;;Portion = 25g;;1
-Instant Coffee [Mount Hagen];;g;0;0.00;;;;;;;;1.5g per 125ml;;1
+Instant Coffee [Mount Hagen];3.00;g;0;0.00;;;;;;;;1.5g per 125ml;;1
 Soy protein isolate (nature) [Powerstar];15.00;g;0;372.00;1.00;1.00;0.00;89.80;2.50;;93.00;1kg bag, unsweetened, unflavored;;1
 Soy milk 1.6% (sugar-free) [Berief];200.00;ml;1;30.00;1.60;0.90;0.00;3.00;0.08;;;;;1
 Strong Coffee or Espresso;;ml;1;;;;;;;;;;;1
 Glycerin (E422, VG) [hd-line];20.00;g;1;400.00;;99.00;;;;3.70;;"POD = 60%; GI = 5; Density = 1.26 g/ml";50.00;1
-Coffee Liqueur 25 vol% [Caffè Borghetti];50.00;ml;1;240.00;0.00;23.00;23.00;0.00;;1.69;;1 bottle = 700ml;;1
+Brandy or Vodka 40 vol%;25.00;g;1;280.00;;;;;;2.96;;;;1
+Coffee Liqueur 25 vol% [Caffè Borghetti];;ml;1;240.00;0.00;23.00;23.00;0.00;;1.69;;1 bottle = 700ml;;1
 Soy sauce;10.00;ml;1;75.00;0.00;7.40;6.70;7.20;17.10;0.07;;½ tbsp;;1
 Syrup Caramel (low-sugar) [Sukrin];;ml;1;149.00;0.00;21.00;1.80;0.00;0.07;;;14% sorbitol, erythritol, stevia;10.00;1
 Salty Stability [Inulin / CMC / Guar / XG / Salt];15.00;g;2;234.5;0.0;91.2;6.7;0.3;3.5;0.06;;unsweetened “ICSv2”;81.30;1
-Erythritol (E968);35.00;g;2;24.00;0.00;100.00;0.00;0.00;0.00;2.80;;POD = 75%;100.00;1
-Trehalose [SaporePuro];15.00;g;2;355.00;0.00;89.00;89.00;0.00;0.03;1.00;;"POD = 45%; GI = 38";;1
+Erythritol (E968);40.00;g;2;24.00;0.00;100.00;0.00;0.00;0.00;2.80;;POD = 75%;100.00;1
+Trehalose [SaporePuro];20.00;g;2;355.00;0.00;89.00;89.00;0.00;0.03;1.00;;"POD = 45%; GI = 38";;1
 Cinnamon (Ceylon);1.00;pinch;2;;;;;;;;;;;
 ;;;;;;;;;;;;;;
-Soy milk 1.6% (sugar-free) [Berief];60.00;ml;3;30.00;1.60;0.90;0.00;3.00;0.08;;;;;1
+Soy milk 1.6% (sugar-free) [Berief];72.00;ml;3;30.00;1.60;0.90;0.00;3.00;0.08;;;;;1
 Flavor drops Vanilla (sucralose) [IronMaxx];≈4;drops;3;;;;;;;;;to taste;;
 ;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
