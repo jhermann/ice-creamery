@@ -44,13 +44,22 @@ WEBSITE_BASE_URL = 'https://jhermann.github.io/ice-creamery'
 
 TAG_LIGHT_KCAL_LIMIT = 75.0
 TAG_SCOOPABLE_PAC_LIMIT = 30.0
-ICSv2 = {
-    'Erythritol (E968)': 100.00,
-    'Inulin': 100.00,
-    'Tylose powder (E466, Tylo, CMC)': 10.00,
-    'Guar gum (E412)': 3.50,
-    'Salt': 3.50,
-    'Xanthan gum (E415, XG)': 1.00,
+PREPPED = {
+    'ICSv2': {
+        'Erythritol (E968)': 100.00,
+        'Inulin': 100.00,
+        'Tylose powder (E466, Tylo, CMC)': 10.00,
+        'Guar gum (E412)': 3.50,
+        'Salt': 3.50,
+        'Xanthan gum (E415, XG)': 1.00,
+    },
+    'Salty Stability': {
+        'Inulin': 125.00,
+        'Tylose powder (E466, Tylo, CMC)': 12.00,
+        'Guar gum (E412)': 6.00,
+        'Salt': 5.00,
+        'Xanthan gum (E415, XG)': 2.00,
+    },
 }
 DEFAULT_TAGS = set([
     'Allulose',
@@ -452,10 +461,14 @@ def main():
             lines.append('  - _{amount}{spacer}{unit}_ {href}'.format(**ingredient))
             if ingredient['comment']:
                 lines[-1] += f" • {ingredient['comment']}"
-            if 'ICSv2' in ingredient['ingredients'] and not args.macros:
-                scale = float(ingredient['amount']) / sum(ICSv2.values())
-                nutrient = ' • '.join([f"{round(v * scale, 2 if v * scale < 1 else 1)}g {k}" for k, v in ICSv2.items()])
-                nutrition.append(f"**{ingredient['amount']}g Ice Cream Stabilizer (ICSv2) is:** {nutrient}.")
+            if not args.macros:
+                for key in ('ICSv2', 'Salty Stability'):
+                    if key in ingredient['ingredients']:
+                        scale = float(ingredient['amount']) / sum(PREPPED[key].values())
+                        nutrient = ' • '.join([f"{round(v * scale, 2 if v * scale < 1 else 1)}g {k}"
+                                               for k, v in PREPPED[key].items()])
+                        nutrition.append(f"**{ingredient['amount']}g '{key}' is:** {nutrient}.")
+                        break
 
     # Add directions
     excluded_steps = re.compile(f"({')|('.join(docmeta.get('excluded_steps', [])).lower()})", flags=re.IGNORECASE)
