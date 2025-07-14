@@ -59,7 +59,7 @@ Rating: 😋😋😋🍈🍈
 **Dry**
 
   - _35g_ [Xylitol (E967)](/ice-creamery/info/ingredients/#xylitol-e967){target="_blank"}<sup>↗</sup> • POD = 100%; GI = 7
-  - _15g_ ICSv2 [Erythritol / Inulin / CMC / Guar / XG / Salt] • [http﹕//bit.ly/4frc4Vj](https://jhermann.github.io/ice-creamery/I/Ice%20Cream%20Stabilizer%20(ICS)/)
+  - _15g_ [ICSv2 \[Erythritol / Inulin / CMC / Guar / XG / Salt\]](/ice-creamery/I/Ice%20Cream%20Stabilizer%20(ICS)/){target="_blank"}<sup>↗</sup> • [Ice Cream Stabilizer](https://jhermann.github.io/ice-creamery/I/Ice%20Cream%20Stabilizer%20(ICS)/)
   - _20g_ [Soy protein isolate (nature) \[Powerstar\]](/ice-creamery/info/ingredients/#soy-protein-isolate){target="_blank"}<sup>↗</sup> • 1kg bag, unsweetened, unflavored
 
 **Fill to MAX**

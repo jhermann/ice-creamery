@@ -44,6 +44,9 @@ WEBSITE_BASE_URL = 'https://jhermann.github.io/ice-creamery'
 
 TAG_LIGHT_KCAL_LIMIT = 75.0
 TAG_SCOOPABLE_PAC_LIMIT = 30.0
+PREPPED_NAME = {
+    'ICSv2': 'Ice Cream Stabilizer (ICS)',
+}
 PREPPED = {
     'ICSv2': {
         'Erythritol (E968)': 100.00,
@@ -230,6 +233,7 @@ def ingredient_link(ingredient, kind='ingredients', threshold=0.4, args=None):
     args = vars(args) if args else {}
     for key in PREPPED:
         if key in ingredient:
+            key = PREPPED_NAME.get(key, key)
             return targetted(ingredient, f'/ice-creamery/{key[0].upper()}/{key.replace(" ", "%20")}/')
 
     if any(x in ingredient for x in AUTO_LINK_STOP_WORDS):
@@ -518,7 +522,7 @@ def main():
 
     # Create the Markdown file
     md_file = markdown_file(title, is_topping)
-    md_text = md_text.replace('http://bit.ly/4frc4Vj', '[http﹕//bit.ly/4frc4Vj]'
+    md_text = md_text.replace('http://bit.ly/4frc4Vj', '[Ice Cream Stabilizer]'
         f'({WEBSITE_BASE_URL}'
         '/I/Ice%20Cream%20Stabilizer%20(ICS)/)')  # take care of Reddit stupidness
 
