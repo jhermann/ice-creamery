@@ -21,7 +21,7 @@ Drizzle the mix into the vortex of a running blender,
 or drop it into your mixing container and quickly integrate it with an immersion blender on full speed.
 Before that, combine this mix with any granulated sweetener or other dry / powdery ingredients you have.
 
-> <img width=360 alt="Container with blended mix" src="ICS_2025-07-13.jpg" class="zoomable" />
+> <img width=360 alt="Container with blended mix" src="Salty-Stabilizer_2025-07-14.jpg" class="zoomable" />
 
 Use 15g of the mix for a Creami Deluxe tub (24oz, yields 10),
 and 10g for the regular size (16oz, yields 15).

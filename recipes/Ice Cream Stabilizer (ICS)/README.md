@@ -19,6 +19,8 @@ It takes handling small amounts of ingredients and their ratio to each other
 out of the process of mixing your final ice cream base,
 making the overall process less finicky.
 
+> <img width=360 alt="Container with blended mix" src="ICS_2025-07-13.jpg" class="zoomable" />
+
 Use 30g of the mix for a Creami Deluxe tub (24oz, yield 7),
 and 20g for the regular size (16oz, yield 11).
 
