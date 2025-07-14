@@ -56,6 +56,11 @@ Rating: 😋🍫 (untested)
   - _72ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
   - _≈4 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
 
+**Topping Options**
+
+  - _8g_ Walnuts (organic) [Biojoy] • add as a topping [54kcal, 0.6g sugar]
+  - _8g_ Pecan nuts (organic) [Biojoy] • 10 halves = 15g; add as a topping [58kcal, 0.3g sugar]
+
 # DIRECTIONS
 
  1. Mix the boiling water with the cocoa powder to bloom it, dissolve the coffee and protein powder.
