@@ -223,7 +223,7 @@ def ingredient_link(ingredient, kind='ingredients', threshold=0.4, args=None):
     if any(x in ingredient for x in AUTO_LINK_STOP_WORDS):
         return ingredient
     cleaned = ingredient.replace('Skim Milkpowder', 'skim milk powder SMP')  # legacy recipes
-    for word in {'Amaretto', 'Batida', 'Brandy', 'Vodka', 'Rum'}:
+    for word in {'Amaretto', 'Batida', 'Brandy', 'Liqueur', 'Vodka', 'Rum'}:
         cleaned = cleaned.replace(word, 'Alcohol (Ethanol)')
     cleaned = cleaned.rsplit('[', 1)[0]  # strip off brand names in '[]'
     given = md_anchor(cleaned).split('-')
