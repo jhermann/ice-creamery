@@ -217,11 +217,24 @@ parse_info_docs.wordmap = defaultdict(dict)
 
 def ingredient_link(ingredient, kind='ingredients', threshold=0.4, args=None):
     """Link a recognized ingredient, otherwise return the given text unchanged."""
-    if 'Salty Stability' in ingredient:
-        return f'[{ingredient}](/ice-creamery/S/Salty%20Stability/)'
+    def targetted(label, href):
+        'Helper.'
+        label = label.replace("[", r"\[").replace("]", r"\]")
+        if args.get('reddit'):
+            href = WEBSITE_BASE_URL.rsplit('/', 1)[0] + href
+        link = f'[{label}]({href})'
+        if not args.get('reddit'):
+            link += '{target="_blank"}<sup>↗</sup>'
+        return link
+
     args = vars(args) if args else {}
+    for key in PREPPED:
+        if key in ingredient:
+            return targetted(ingredient, f'/ice-creamery/{key[0].upper()}/{key.replace(" ", "%20")}/')
+
     if any(x in ingredient for x in AUTO_LINK_STOP_WORDS):
         return ingredient
+
     cleaned = ingredient.replace('Skim Milkpowder', 'skim milk powder SMP')  # legacy recipes
     for word in {'Amaretto', 'Batida', 'Brandy', 'Liqueur', 'Vodka', 'Rum'}:
         cleaned = cleaned.replace(word, 'Alcohol (Ethanol)')
@@ -237,15 +250,7 @@ def ingredient_link(ingredient, kind='ingredients', threshold=0.4, args=None):
             #print(score, anchor, ingredient)
     if scores:
         anchor = list(sorted(scores.items()))[-1][1]
-        href = f'/ice-creamery/info/{kind}/#{anchor}'
-        if args.get('reddit'):
-            href = WEBSITE_BASE_URL.rsplit('/', 1)[0] + href
-        ingredient = ingredient.replace("[", r"\[").replace("]", r"\]")
-        link = f'[{ingredient}]({href})'
-        if not args.get('reddit'):
-            link += '{target="_blank"}<sup>↗</sup>'
-        #print(link)
-        return link
+        return targetted(ingredient, f'/ice-creamery/info/{kind}/#{anchor}')
     else:
         return ingredient
 
