@@ -2,46 +2,43 @@
 description: Almond milk + cottage cheese base at ~50kcal / 100g
 excluded_tags:
 - Allulose
+- Fruit
 tags:
 - Dairy
 - Erythritol
-- Fruit
 - Hi-Protein
 - Light
 - Low-Fat
 - Low-Sugar
+- Multi-Flavor
 - Polysaccharide Gum
 - Promising
-- Scoopable
+- Sucralose
+- Tylo Powder (CMC)
 - Vanilla
 - Xylitol
 ---
 # Vanil-Low (Deluxe)
 <img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="logo-vanil-low.png" />
 
-Vanilla ice cream based on almond milk, almond butter and cottage cheese, clocking in at 71kcal / 100g.
-Leave out the almond butter for 10kcal less.
+Vanilla ice cream based on soy milk and cottage cheese, with a very low net carbs to total energy ratio.
 
 Process on *Frozen Yogurt*, [hold it shortly under running water](https://jhermann.github.io/ice-creamery/info/tips%2Btricks/#handling-of-icy-sides-bottom) *after* that.
 
-> <img width=360 alt="Spun Ice Cream" src="Vanillow_2025-05-22_1.jpg" class="zoomable" />
-
 Then scrape down the sides, process again on Ice Cream.
 
-> <img width=360 alt="Spun Ice Cream" src="Vanillow_2025-05-22_2.jpg" class="zoomable" />
+> <img width=360 alt="Spun Ice Cream" src="Vanillow_2025-05-22_1.jpg" class="zoomable" />
 
 Served with crumbled walnuts and a pomegranate syrup drizzle.
 
+> <img width=360 alt="Spun Ice Cream" src="Vanillow_2025-05-22_2.jpg" class="zoomable" />
+
 Rating: 😋😋😋😋😋
 
-Use 20g *Ube Yam Root powder* instead of the vanilla
-for a different taste and color, and with 7 kcal/100g more.
+Use fruit / yam root powder instead of the vanilla for a different taste and color.
+Combine strawberry powder with strawberry flavor drops instead of the vanilla ones.
 
-Or 20g Strawberry powder and strawberry flavor drops
-instead of the vanilla ones (same caloric impact).
-
-If you have access to it (North America), you can use 40g Allulose as sweetener,
-instead of the sugar alcohols and for 4 kcal/100g less.
+If you have access to it (North America), you can use 45g Allulose as sweetener, instead of the sugar alcohols.
 
 # INGREDIENTS
 
@@ -49,26 +46,29 @@ instead of the sugar alcohols and for 4 kcal/100g less.
 
 **Wet**
 
-  - _450ml_ [Almond milk (unsweetened) \[REWE Bio\]](/ice-creamery/info/ingredients/#almond-milk-butter){target="_blank"}<sup>↗</sup> • with guar gum (<1.5g)
+  - _450ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
   - _100g_ [Cottage Cheese 4% \[REWE Bio\]](/ice-creamery/info/ingredients/#cottage-cheese){target="_blank"}<sup>↗</sup>
-  - _15g_ [Almond butter (creamy) \[Seba Garden\]](/ice-creamery/info/ingredients/#almond-milk-butter){target="_blank"}<sup>↗</sup>
-  - _15g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • POD = 60%; GI = 5; Density = 1.26 g/ml
-  - _10g_ [Brandy “Williams Birne” 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup>
+  - _10g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • Sweetness = 60%; GI = 5; Density = 1.26 g/ml
+  - _15g_ [Brandy or Vodka 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup>
 
 **Dry**
 
-  - _25g_ [Erythritol (E968)](/ice-creamery/info/ingredients/#erythritol-e968){target="_blank"}<sup>↗</sup> • POD = 75%
-  - _20g_ [Xylitol](/ice-creamery/info/ingredients/#xylitol-e967){target="_blank"}<sup>↗</sup> • POD = 100%; GI = 7
-  - _15g_ [Inulin \[Vit4ever\]](/ice-creamery/info/ingredients/#inulin){target="_blank"}<sup>↗</sup> • Sweetness = 8%; GI ~= 0
+  - _35g_ [Erythritol (E968)](/ice-creamery/info/ingredients/#erythritol-e968){target="_blank"}<sup>↗</sup> • POD = 75%
+  - _10g_ [Xylitol (E967)](/ice-creamery/info/ingredients/#xylitol-e967){target="_blank"}<sup>↗</sup> • POD = 100%; GI = 7
+  - _15g_ [Salty Stability [Inulin / CMC / Guar / XG / Salt]](/ice-creamery/S/Salty%20Stability/) • unsweetened “ICSv2”
   - _5g_ Vanilla Bean Powder [InterVanilla]
   - _10g_ [Whey protein Vanilla \[MaxiNutrition\]](/ice-creamery/info/ingredients/#whey-protein){target="_blank"}<sup>↗</sup>
-  - _1g_ Salt
-  - _2g_ [Tara gum (E417)](/ice-creamery/info/ingredients/#tara-gum-e417){target="_blank"}<sup>↗</sup>
-  - _0.25g_ [Xanthan gum (E415, XG)](/ice-creamery/info/ingredients/#xanthan-gum-xg-e415){target="_blank"}<sup>↗</sup>
 
 **Fill to MAX**
 
-  - _51.75ml_ Water to MAX line
+  - _70ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
+  - _≈5 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
+
+**Optional**
+
+  - _25g_ Ube Yam Root powder [Fil Choice] • like vanilla+pistachio [96kcal, 2g sugar]
+  - _25g_ Lingonberry powder [Bio Leis] • replacing the ground vanilla [88kcal, 18g sugar]
+  - _25g_ Strawberry powder [Supergarden] • replacing the ground vanilla [72kcal, 13g sugar]
 
 # DIRECTIONS
 
@@ -81,10 +81,13 @@ instead of the sugar alcohols and for 4 kcal/100g less.
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
 
 # NUTRITIONAL & OTHER INFO
-- **Nutritional values per 100g/ml:** 100g; 69.1 kcal; fat 2.8g; carbs 9.3g; sugar 0.6g; protein 3.8g; salt 0.3g
-- **Nutritional values per ½ Deluxe Tub:** 360g; 248.7 kcal; fat 10.1g; carbs 33.4g; sugar 2.1g; protein 13.7g; salt 1.2g
-- **Nutritional values total:** 720g; 497.4 kcal; fat 20.1g; carbs 66.8g; sugar 4.1g; protein 27.3g; salt 2.5g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.99
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 21.98% • LOW-FAT • Low-Sugar • Hi-Protein
+- **Nutritional values per 100g/ml:** 100g; 62.5 kcal; fat 1.8g; carbs 10.5g; sugar 0.4g; protein 5.0g; salt 0.2g
+- **Nutritional values per ½ Deluxe Tub:** 360g; 225.0 kcal; fat 6.5g; carbs 37.8g; sugar 1.6g; protein 18.1g; salt 0.8g
+- **Nutritional values total:** 720g; 450.0 kcal; fat 12.9g; carbs 75.5g; sugar 3.2g; protein 36.1g; salt 1.7g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 29.70
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 32.13% • LOW-FAT • Low-Sugar • Hi-Protein
 - **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 24.9g • 3.5%
+- **Net carbs:** 13.3g • *∝ 5 servings@144g:* 2.7g • *∝ 3 servings@240g:* 4.4g • *energy ratio (low <20%):* 11.9%
 - **Jun 4, 2025:** Added almond butter.
+- **Jul 14, 2025:** Using soy milk and unsweetened “ICSv2”
+- **15g 'Salty Stability' is:** 12.5g Inulin • 1.2g Tylose powder (E466, Tylo, CMC) • 0.6g Guar gum (E412) • 0.5g Salt • 0.2g Xanthan gum (E415, XG).
