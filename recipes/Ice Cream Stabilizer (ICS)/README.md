@@ -2,6 +2,7 @@
 description: Prepared mix for a general ice cream stabilizer.
 excluded_steps:
 - Pour into the tub
+- and mix dry ingredients
 - Let blender run
 - Put on the lid
 - Process with
@@ -19,21 +20,23 @@ It takes handling small amounts of ingredients and their ratio to each other
 out of the process of mixing your final ice cream base,
 making the overall process less finicky.
 
-> <img width=360 alt="Container with blended mix" src="ICS_2025-07-13.jpg" class="zoomable" />
-
 Use 30g of the mix for a Creami Deluxe tub (24oz, yield 7),
 and 20g for the regular size (16oz, yield 11).
 
 The salt is added for convenience with final recipes,
 and for a FPDF boost.
 
-[http://bit.ly/4frc4Vj](https://jhermann.github.io/ice-creamery/I/Ice%20Cream%20Stabilizer%20(ICS)/)
+> <img width=360 alt="Container with blended mix" src="ICS_2025-07-13.jpg" class="zoomable" />
 
 # INGREDIENTS
 
+ℹ️ Brand names are in square brackets `[...]`.
+
+**Dry**
+
   - _100g_ [Erythritol (E968)](/ice-creamery/info/ingredients/#erythritol-e968){target="_blank"}<sup>↗</sup> • Sweetness = 75%
   - _100g_ [Inulin \[Vit4ever\]](/ice-creamery/info/ingredients/#inulin){target="_blank"}<sup>↗</sup> • Sweetness = 8%; GI ~= 0
-  - _10g_ [Tylose powder (E466, Tylo, CMC)](/ice-creamery/info/ingredients/#carboxymethyl-cellulose-cmc-e466){target="_blank"}<sup>↗</sup>
+  - _10g_ [Carboxymethyl Cellulose (CMC / E466) \[GoodBake\]](/ice-creamery/info/ingredients/#carboxymethyl-cellulose-cmc-e466){target="_blank"}<sup>↗</sup>
   - _3.5g_ [Guar gum (E412)](/ice-creamery/info/ingredients/#guar-gum-e412){target="_blank"}<sup>↗</sup>
   - _3.5g_ Salt
   - _1g_ [Xanthan gum (E415, XG)](/ice-creamery/info/ingredients/#xanthan-gum-xg-e415){target="_blank"}<sup>↗</sup>
@@ -41,6 +44,7 @@ and for a FPDF boost.
 # DIRECTIONS
 
  1. Weigh and mix dry ingredients, easiest by adding to a jar with a secure lid and shaking vigorously.
+ 1. Store in an air-tight container with enough volume.
 
 # NUTRITIONAL & OTHER INFO
 - **Nutritional values per 100g/ml:** 100g; 107.2 kcal; fat 0.0g; carbs 95.5g; sugar 3.7g; protein 0.1g; salt 1.7g; fpdf 1.32g
