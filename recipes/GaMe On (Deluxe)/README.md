@@ -36,7 +36,11 @@ Finally follow the directions below.<br clear=all />
 
 Spin on “Sorbet”, scrape down, and re-mix.
 
-Rating: 😋🍈 (untested)
+> <img width=220 alt="blended base ready to freeze" src="Galia_melon_2025-07-14_1.jpg" class="zoomable" />
+> <img width=220 alt="blended base ready to freeze" src="Galia_melon_2025-07-14_2.jpg" class="zoomable" />
+> <img width=220 alt="blended base ready to freeze" src="Galia_melon_2025-07-14_3.jpg" class="zoomable" />
+
+Rating: 😋😋😋🍈🍈
 
 # INGREDIENTS
 
@@ -78,5 +82,5 @@ Rating: 😋🍈 (untested)
 - **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.20
 - **Protein / Energy Ratio (ok=12%; hi=20%):** 22.35% • LOW-FAT • Low-Sugar • Hi-Protein
 - **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 18.6g • 2.6%
-- **Net carbs:** 45.1g • *∝ 5 servings@144g:* 9g • *∝ 3 servings@240g:* 15g
-- **15g Ice Cream Stabilizer (ICSv2) is:** 6.9g Erythritol (E968) • 6.9g Inulin • 0.69g Tylose powder (E466, Tylo, CMC) • 0.24g Guar gum (E412) • 0.24g Salt • 0.07g Xanthan gum (E415, XG).
+- **Net carbs:** 45.1g • *∝ 5 servings@144g:* 9g • *∝ 3 servings@240g:* 15g • *energy ratio (low <20%):* 42.1%
+- **15g 'ICSv2' is:** 6.9g Erythritol (E968) • 6.9g Inulin • 0.69g Tylose powder (E466, Tylo, CMC) • 0.24g Guar gum (E412) • 0.24g Salt • 0.07g Xanthan gum (E415, XG).
