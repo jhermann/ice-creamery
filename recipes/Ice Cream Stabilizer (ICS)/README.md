@@ -20,13 +20,18 @@ It takes handling small amounts of ingredients and their ratio to each other
 out of the process of mixing your final ice cream base,
 making the overall process less finicky.
 
-Use 30g of the mix for a Creami Deluxe tub (24oz, yield 7),
-and 20g for the regular size (16oz, yield 11).
+Mixing the gums with sweetener and inulin makes dosing and dissolving way easier and more safe
+(when using an immersion or normal blender). A jeweler's scale helps to be exact during preparation;
+scaling this mix beyond a single tub makes using spoons for measuring feasible though.
+When preparing the ice cream base, only a kitchen scale is needed.
 
 The salt is added for convenience with final recipes,
 and for a FPDF boost.
 
 > <img width=360 alt="Container with blended mix" src="ICS_2025-07-13.jpg" class="zoomable" />
+
+Use 30g of the mix for a Creami Deluxe tub (24oz, yield 7),
+and 20g for the regular size (16oz, yield 11).
 
 # INGREDIENTS
 
