@@ -208,6 +208,8 @@ parse_info_docs.wordmap = defaultdict(dict)
 
 def ingredient_link(ingredient, kind='ingredients', threshold=0.4, args=None):
     """Link a recognized ingredient, otherwise return the given text unchanged."""
+    if 'Salty Stability' in ingredient:
+        return f'[{ingredient}](/ice-creamery/S/Salty%20Stability/)'
     args = vars(args) if args else {}
     if any(x in ingredient for x in AUTO_LINK_STOP_WORDS):
         return ingredient
