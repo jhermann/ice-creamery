@@ -116,6 +116,12 @@ To overcome these issues, the study found that a crystallization inhibitor, like
 
 An ideal ratio of three parts erythritol to two parts of a second polyol is suggested. The optimal usage level for erythritol was determined to be between 6.5% and 8.0% of the total recipe to maximize taste benefits without causing irreversible textural hardening. High-intensity sweeteners, such as sucralose, are also needed to balance sweetness, as polyols generally provide less sweetness than sugar.
 
+### SweEX (Erythritol / Xylitol Blend)
+A mix of Erythritol and Xylitol (ratio 3:2) I dubbed *SweEX* that takes
+the results of the *Jungbunzlauer study* into account (details see right above).
+
+It has a PAC of 256, a POD of ≈90%, and a GI below 7 (i.e. below that of xylitol).
+
 ### Inulin
 Inulin is a naturally occurring polysaccharide, and used to improve mouthfeel, stability, acceptability of low-fat ice creams, and forms a gel-like network that binds water.
 
