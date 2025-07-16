@@ -59,9 +59,9 @@ The variant made with strawberries, processed the same but with only a final Mix
 
 **Dry**
 
-  - _30g_ ICSv2 [Erythritol / Inulin / CMC / Guar / XG / Salt] • [http﹕//bit.ly/4frc4Vj](https://jhermann.github.io/ice-creamery/I/Ice%20Cream%20Stabilizer%20(ICS)/)
-  - _30g_ [Xylitol (E967)](/ice-creamery/info/ingredients/#xylitol-e967){target="_blank"}<sup>↗</sup> • POD = 100%; GI = 7
-  - _15g_ [Whey + Casein protein (grass-fed) \[Vilgain\]](/ice-creamery/info/ingredients/#whey-protein){target="_blank"}<sup>↗</sup> • with stevia
+  - _40g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • POD ≈ 90%; GI < 7
+  - _15g_ [Salty Stability \[Inulin / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup> • unsweetened “ICSv2”
+  - _20g_ [Whey + Casein protein (grass-fed) \[Vilgain\]](/ice-creamery/info/ingredients/#whey-protein){target="_blank"}<sup>↗</sup> • with stevia
 
 **Fill to MAX**
 
@@ -79,11 +79,11 @@ The variant made with strawberries, processed the same but with only a final Mix
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
 
 # NUTRITIONAL & OTHER INFO
-- **Nutritional values per 100g/ml:** 100g; 73.7 kcal; fat 1.3g; carbs 14.4g; sugar 4.3g; protein 4.2g; salt 0.2g
-- **Nutritional values per ½ Deluxe Tub:** 360g; 265.5 kcal; fat 4.8g; carbs 51.9g; sugar 15.4g; protein 15.1g; salt 0.7g
-- **Nutritional values total:** 720g; 530.9 kcal; fat 9.7g; carbs 103.9g; sugar 30.8g; protein 30.1g; salt 1.4g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 31.79
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 22.70% • LOW-FAT • Low-Sugar • Hi-Protein
-- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 52.1g • 7.2%
-- **Net carbs:** 39.1g • *∝ 5 servings@144g:* 7.8g • *∝ 3 servings@240g:* 13g
-- **30g Ice Cream Stabilizer (ICSv2) is:** 13.8g Erythritol (E968) • 13.8g Inulin • 1.4g Tylose powder (E466, Tylo, CMC) • 0.48g Guar gum (E412) • 0.48g Salt • 0.14g Xanthan gum (E415, XG).
+- **Nutritional values per 100g/ml:** 100g; 73.0 kcal; fat 1.4g; carbs 13.8g; sugar 4.3g; protein 4.7g; salt 0.2g
+- **Nutritional values per ½ Deluxe Tub:** 360g; 262.8 kcal; fat 4.9g; carbs 49.6g; sugar 15.5g; protein 17.1g; salt 0.7g
+- **Nutritional values total:** 720g; 525.6 kcal; fat 9.9g; carbs 99.2g; sugar 31.0g; protein 34.1g; salt 1.5g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 31.55
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 25.99% • LOW-FAT • Low-Sugar • Hi-Protein
+- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 58.4g • 8.1%
+- **Net carbs:** 39.5g • *∝ 5 servings@144g:* 7.9g • *∝ 3 servings@240g:* 13.2g • *energy ratio (low <20%):* 30.1%
+- **15g 'Salty Stability' is:** 12.5g Inulin • 1.2g Tylose powder (E466, Tylo, CMC) • 0.6g Guar gum (E412) • 0.5g Salt • 0.2g Xanthan gum (E415, XG).
