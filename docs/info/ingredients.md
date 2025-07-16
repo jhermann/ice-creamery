@@ -122,6 +122,9 @@ the results of the *Jungbunzlauer study* into account (details see right above).
 
 It has a PAC of 256, a POD of ≈90%, and a GI below 7 (i.e. below that of xylitol).
 
+> 💡 **Swapping in Allulose**<br />Use 133% of the given amount of *SweEX* to attain about the same PAC and POD values.
+> That means using 75% of a given pure allulose amount in the other direction.
+
 ### Inulin
 Inulin is a naturally occurring polysaccharide, and used to improve mouthfeel, stability, acceptability of low-fat ice creams, and forms a gel-like network that binds water.
 
