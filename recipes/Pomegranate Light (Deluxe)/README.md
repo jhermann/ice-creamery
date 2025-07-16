@@ -24,6 +24,8 @@ tags:
 
 Pomegranate ice cream based on pomegranate syrup (nar ekşisi), soy milk, and cottage cheese. Clocking in at 67 kcal / 100g and 29g net carbs.
 
+> <img width=240 alt="Ingredients" src="Pomegranate-Light_2025-07-16_1.jpg" class="zoomable" />
+
 Process on *Frozen Yogurt*, [hold it shortly under running water](https://jhermann.github.io/ice-creamery/info/tips%2Btricks/#handling-of-icy-sides-bottom) *after* that
 Then scrape down the sides, process again on Ice Cream.
 
