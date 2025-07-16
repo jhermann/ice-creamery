@@ -36,13 +36,14 @@ Finally follow the directions below.<br clear=all />
 
 Spin on “Sorbet”, scrape down, and re-mix.
 
-> <img width=220 alt="blended base ready to freeze" src="Galia_melon_2025-07-14_1.jpg" class="zoomable" />
-> <img width=220 alt="blended base ready to freeze" src="Galia_melon_2025-07-14_2.jpg" class="zoomable" />
-> <img width=220 alt="blended base ready to freeze" src="Galia_melon_2025-07-14_3.jpg" class="zoomable" />
+> <img width=220 alt="1st spin" src="Galia_melon_2025-07-14_1.jpg" class="zoomable" />
+> <img width=220 alt="2nd spin" src="Galia_melon_2025-07-14_2.jpg" class="zoomable" />
+> <img width=220 alt="scooped" src="Galia_melon_2025-07-14_3.jpg" class="zoomable" />
 
 Rating: 😋😋😋🍈🍈
 
-> <img width=360 alt="blended base ready to freeze" src="Galia_melon_2025-07-14_4.jpg" class="zoomable" />
+> <img width=440 alt="refrozen and firm" src="Galia_melon_2025-07-14_4.jpg" class="zoomable" />
+> <img width=220 alt="with Aceto Balsamico" src="Galia_melon_2025-07-16_1.jpg" class="zoomable" />
 
 # INGREDIENTS
 
