@@ -27,6 +27,8 @@ tags:
 This is a recipe specifically for ESN’s “Designer Flavor Powder”
 — it is a low-sugar soy milk base with a touch of vanilla and only mild sweetness without the flavor powder.
 
+> <img width=240 alt="Dry Ingredients" src="ESoN_2025-07-17_2.jpg" class="zoomable" />
+> 
 > 🌿 **Vegan & Dairy-free**<br />Recipe is using only soy milk and protein.
 
 Spin on “Sorbet”, scrape down, and mix-in.
