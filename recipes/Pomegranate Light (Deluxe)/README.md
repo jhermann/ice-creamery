@@ -7,7 +7,6 @@ excluded_tags:
 - Vanilla
 tags:
 - Dairy
-- Draft
 - Emulsifier
 - Erythritol
 - Light
@@ -26,15 +25,17 @@ Pomegranate ice cream based on pomegranate syrup (nar ekşisi), soy milk, and co
 
 > <img width=240 alt="Ingredients" src="Pomegranate-Light_2025-07-16_1.jpg" class="zoomable" />
 
-Process on *Frozen Yogurt*, [hold it shortly under running water](https://jhermann.github.io/ice-creamery/info/tips%2Btricks/#handling-of-icy-sides-bottom) *after* that
-Then scrape down the sides, process again on Ice Cream.
+Process on *Sorbet*, [hold it shortly under running water](https://jhermann.github.io/ice-creamery/info/tips%2Btricks/#handling-of-icy-sides-bottom) *after* that
+Then scrape down the sides, and process with mix-in.
 
-> <img width=360 alt="Spun Ice Cream" src="" class="zoomable" />
+> <img width=220 alt="Spun Ice Cream" src="Pomegranate-Light_2025-07-17_1.jpg" class="zoomable" />
+> <img width=220 alt="After Mix-in" src="Pomegranate-Light_2025-07-17_2.jpg" class="zoomable" />
+> <img width=220 alt="Scooped" src="Pomegranate-Light_2025-07-17_3.jpg" class="zoomable" />
 
-Rating: 😋 (untested)
+Rating: 😋😋😋🔴🔴
 
 If you have access to it (North America), you can use 45g Allulose as sweetener,
-instead of the sugar alcohols and for few calories less.
+instead of the sugar alcohols and for a few calories less.
 
 # INGREDIENTS
 
