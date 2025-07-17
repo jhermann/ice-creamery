@@ -315,7 +315,7 @@ It can also improve the ice cream's
 resistance to melting, keeping it firmer for longer.
 It hydrates cold and adds body and chewiness to the ice cream.
 
-Combine it with GMS (emulsifier), in a 7:1 to 4:1 ratio (up to 1% of water content; typically 0.3% GMS and 0.05–0.15% CMC).
+CMC should be used in combination with GMS, see there for ratios.
 
 CMC forms weak gels by itself but gels well in combination with carrageenan, LBG, or guar gum.
 
@@ -457,7 +457,8 @@ Due to its low HLB value of around 3.8–5.4, to incorporate GMS into a water-ba
 it can be first mixed with oil and then blended into the water phase (similar to xanthan).
 
 GMS is typically used at concentrations of 0.1% to 0.5% of the total mix.
-When used with CMC, typical ratios go from 2:1 to 7:1 (GMS:CMC).
+Normally it is combined with CMC at a ratio of 2GMS:1CMC,
+and a dosage of up to 1% of water content, e.g. 0.3% GMS and 0.05–0.15% CMC in the total base.
 
 ### Soy Lecithin (E322)
 Soy lecithin is an emulsifier gained from soy beans, and used in ice cream to improve texture and stability.

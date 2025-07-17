@@ -5,6 +5,7 @@ excluded_tags:
 - Fruit
 tags:
 - Dairy
+- Emulsifier
 - Erythritol
 - Hi-Protein
 - Light
@@ -55,7 +56,7 @@ If you have access to it (North America), you can use 45g Allulose as sweetener,
 
   - _35g_ [Erythritol (E968)](/ice-creamery/info/ingredients/#erythritol-e968){target="_blank"}<sup>↗</sup> • POD = 75%
   - _10g_ [Xylitol (E967)](/ice-creamery/info/ingredients/#xylitol-e967){target="_blank"}<sup>↗</sup> • POD = 100%; GI = 7
-  - _15g_ [Salty Stability [Inulin / CMC / Guar / XG / Salt]](/ice-creamery/S/Salty%20Stability/) • unsweetened “ICSv2”
+  - _15g_ [Salty Stability \[Inulin / GMS / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup> • unsweetened “ICSv2”
   - _5g_ Vanilla Bean Powder [InterVanilla]
   - _10g_ [Whey protein Vanilla \[MaxiNutrition\]](/ice-creamery/info/ingredients/#whey-protein){target="_blank"}<sup>↗</sup>
 
@@ -63,6 +64,10 @@ If you have access to it (North America), you can use 45g Allulose as sweetener,
 
   - _70ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
   - _≈5 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
+
+**Mix-ins**
+
+  - _30g_ Mint chocolate [After Eight] • 1pc ≈ 7.5g; freeze for more integrity [128kcal, 20g sugar]
 
 **Optional**
 
@@ -79,15 +84,16 @@ If you have access to it (North America), you can use 45g Allulose as sweetener,
  1. Add remaining ingredients (to the MAX line) and stir with a spoon.
  1. Put on the lid, freeze for 24h, then spin as usual. Flatten any humps before that.
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
+ 1. Process with MIX-IN after adding mix-ins evenly. For that, add partial amounts into a hole going down to the bottom, and fold the ice cream over, building pockets of mix-ins.
 
 # NUTRITIONAL & OTHER INFO
-- **Nutritional values per 100g/ml:** 100g; 62.5 kcal; fat 1.8g; carbs 10.5g; sugar 0.4g; protein 5.0g; salt 0.2g
-- **Nutritional values per ½ Deluxe Tub:** 360g; 225.0 kcal; fat 6.5g; carbs 37.8g; sugar 1.6g; protein 18.1g; salt 0.8g
-- **Nutritional values total:** 720g; 450.0 kcal; fat 12.9g; carbs 75.5g; sugar 3.2g; protein 36.1g; salt 1.7g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 29.70
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 32.13% • LOW-FAT • Low-Sugar • Hi-Protein
-- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 24.9g • 3.5%
-- **Net carbs:** 13.3g • *∝ 5 servings@144g:* 2.7g • *∝ 3 servings@240g:* 4.4g • *energy ratio (low <20%):* 11.9%
+- **Nutritional values per 100g/ml:** 100g; 63.2 kcal; fat 1.9g; carbs 10.4g; sugar 0.4g; protein 5.0g; salt 0.2g
+- **Nutritional values per ½ Deluxe Tub:** 360g; 227.5 kcal; fat 6.7g; carbs 37.6g; sugar 1.5g; protein 18.1g; salt 0.8g
+- **Nutritional values total:** 720g; 454.9 kcal; fat 13.4g; carbs 75.1g; sugar 3.1g; protein 36.1g; salt 1.7g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 29.68
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 31.78% • LOW-FAT • Low-Sugar • Hi-Protein
+- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 45.7g • 6.4%
+- **Net carbs:** 14.0g • *∝ 5 servings@144g:* 2.8g • *∝ 3 servings@240g:* 4.7g • *energy ratio (low <20%):* 12.3%
 - **Jun 4, 2025:** Added almond butter.
 - **Jul 14, 2025:** Using soy milk and unsweetened “ICSv2”
-- **15g 'Salty Stability' is:** 12.5g Inulin • 1.2g Tylose powder (E466, Tylo, CMC) • 0.6g Guar gum (E412) • 0.5g Salt • 0.2g Xanthan gum (E415, XG).
+- **15g 'Salty Stability' is:** 11.0g Inulin • 1.8g Glycerol Monostearate (GMS / E471) • 0.9g Tylose powder (E466, Tylo, CMC) • 0.6g Guar gum (E412) • 0.5g Salt • 0.2g Xanthan gum (E415, XG).

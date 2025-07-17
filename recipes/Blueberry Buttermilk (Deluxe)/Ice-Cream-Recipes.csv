@@ -1,14 +1,14 @@
 Blueberry Buttermilk (Deluxe);;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 ;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;;
-Nutritional values per 100g/ml;100;g;;73.0;1.4;13.8;4.3;4.7;0.2;;;;;
-Nutritional values per ½ Deluxe Tub;360;g;;262.8;4.9;49.6;15.5;17.1;0.7;;;;;
-Nutritional values total;720;g;;525.6;9.9;99.2;31.0;34.1;1.5;;;;;
+Nutritional values per 100g/ml;100;g;;73.7;1.4;13.7;4.3;4.7;0.2;;;;;
+Nutritional values per ½ Deluxe Tub;360;g;;265.3;5.2;49.4;15.4;17.1;0.7;;;;;
+Nutritional values total;720;g;;530.5;10.4;98.8;30.9;34.1;1.5;;;;;
 ;;;;;;;;;;;;;;
-FPDF / PAC (target 20..30);31.55;;;;;;;;;;;;;
-"Protein / Energy Ratio (ok=12%; hi=20%)";25.99%;;;;LOW-FAT;;Low-Sugar;Hi-Protein;;;;;;
+FPDF / PAC (target 20..30);31.53;;;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";25.75%;;;;LOW-FAT;;Low-Sugar;Hi-Protein;;;;;;
 ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);58.4;g;;8.1%;;;;;;;;;;
-ℹ️ Net carbs;39.5;g;;*∝ 5 servings@144g:* 7.9g;;;*∝ 3 servings@240g:* 13.2g;;;*energy ratio (low <20%):* 30.1%;;;;
+ℹ️ Net carbs;40.2;g;;*∝ 5 servings@144g:* 8g;;;*∝ 3 servings@240g:* 13.4g;;;*energy ratio (low <20%):* 30.3%;;;;
 "The buttermilk gives this a tangy and fresh profile, refreeze after processing for best texture and consistency.
 
 Process on *Frozen Yogurt*, [hold it shortly under running water](https://jhermann.github.io/ice-creamery/info/tips%2Btricks/#handling-of-icy-sides-bottom)
@@ -34,7 +34,7 @@ Glycerin (E422, VG) [hd-line];15.00;g;1;400.00;;99.00;;;;3.70;;"Sweetness = 60%;
 Brandy or Vodka 40 vol%;10.00;g;1;280.00;;;;;;2.96;;;;1
 Soy milk 1.6% (sugar-free) [Berief];;ml;1;30.00;1.60;0.90;0.00;3.00;0.08;;4.00;;;1
 SweEX (Erythritol + Xylitol 3:2);40.00;g;2;109.60;;100.00;;;;2.56;;"POD ≈ 90%; GI < 7";100.00;1
-Salty Stability [Inulin / CMC / Guar / XG / Salt];15.00;g;2;234.5;0.0;91.2;6.7;0.3;3.5;0.06;;unsweetened “ICSv2”;81.30;1
+Salty Stability [Inulin / GMS / CMC / Guar / XG / Salt];15.00;g;2;267.5;3.6;88.4;5.9;0.3;3.5;0.06;;unsweetened “ICSv2”;73.80;1
 Whey + Casein protein (grass-fed) [Vilgain];20.00;g;2;384.00;4.60;5.70;5.60;80.00;0.50;0.06;90.40;with stevia;;1
 ;;;;;;;;;;;;;;
 Soy milk 1.6% (sugar-free) [Berief];45.00;ml;3;30.00;1.60;0.90;0.00;3.00;0.08;;4.00;;;1

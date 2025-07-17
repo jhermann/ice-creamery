@@ -1,14 +1,14 @@
 Pomegranate Light (Deluxe);;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 ;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;;
-Nutritional values per 100g/ml;100;g;;73.6;1.6;15.2;4.0;3.7;0.3;;;;;
-Nutritional values per ½ Deluxe Tub;360;g;;265.1;5.6;54.9;14.5;13.4;0.9;;;;;
-Nutritional values total;720;g;;530.3;11.3;109.7;29.0;26.7;1.9;;;;;
+Nutritional values per 100g/ml;100;g;;74.3;1.6;15.2;4.0;3.7;0.3;;;;;
+Nutritional values per ½ Deluxe Tub;360;g;;267.6;5.9;54.7;14.4;13.4;0.9;;;;;
+Nutritional values total;720;g;;535.2;11.8;109.3;28.8;26.7;1.9;;;;;
 ;;;;;;;;;;;;;;
-FPDF / PAC (target 20..30);30.77;;;;;;;;;;;;;
-"Protein / Energy Ratio (ok=12%; hi=20%)";20.18%;;;;LOW-FAT;;Low-Sugar;Hi-Protein;;;;;;
+FPDF / PAC (target 20..30);30.75;;;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";19.99%;;;;LOW-FAT;;Low-Sugar;;;;;;;
 ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);34.0;g;;4.7%;;;;;;;;;;
-ℹ️ Net carbs;47.6;g;;*∝ 5 servings@144g:* 9.5g;;;*∝ 3 servings@240g:* 15.9g;;;*energy ratio (low <20%):* 35.9%;;;;
+ℹ️ Net carbs;48.3;g;;*∝ 5 servings@144g:* 9.7g;;;*∝ 3 servings@240g:* 16.1g;;;*energy ratio (low <20%):* 36.1%;;;;
 Pomegranate ice cream based on pomegranate syrup (nar ekşisi), soy milk, and cottage cheese. Clocking in at 74 kcal / 100g and 48g net carbs.;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 "Process on *Frozen Yogurt*, [hold it shortly under running water](https://jhermann.github.io/ice-creamery/info/tips%2Btricks/#handling-of-icy-sides-bottom) *after* that
@@ -31,7 +31,7 @@ Pomegranate syrup (nar ekşisi) [fersan];50.00;g;1;292.00;0.10;71.70;53.40;1.00;
 Glycerin (E422, VG) [hd-line];10.00;g;1;400.00;;99.00;;;;3.70;;"Sweetness = 60%; GI = 5; Density = 1.26 g/ml";50.00;1
 Brandy or Vodka 40 vol%;10.00;g;1;280.00;;;;;;2.96;;;;1
 SweEX (Erythritol + Xylitol 3:2);45.00;g;2;109.60;;100.00;;;;2.56;;"POD ≈ 90%; GI < 7";100.00;1
-Salty Stability [Inulin / CMC / Guar / XG / Salt];15.00;g;2;234.5;0.0;91.2;6.7;0.3;3.5;0.06;;unsweetened “ICSv2”;81.30;1
+Salty Stability [Inulin / GMS / CMC / Guar / XG / Salt];15.00;g;2;267.5;3.6;88.4;5.9;0.3;3.5;0.06;;unsweetened “ICSv2”;73.80;1
 Vanilla Bean Powder [InterVanilla];2.00;g;2;288.00;0.10;13.00;13.00;0.00;0.00;;;;;1
 Allulose;;g;2;40.00;;80.00;;;;1.90;;"Sweetness = 70%; GI  ~= 0";;1
 Salt;;g;2;0.00;0.00;0.00;0.00;0.00;100.00;5.90;;;;1

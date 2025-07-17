@@ -7,6 +7,7 @@ excluded_tags:
 - Vanilla
 tags:
 - Draft
+- Emulsifier
 - Erythritol
 - Low-Sugar
 - Polysaccharide Gum
@@ -46,7 +47,7 @@ Rating: 😋🍫 (untested)
 
 **Dry**
 
-  - _15g_ [Salty Stability \[Inulin / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup> • unsweetened “ICSv2”
+  - _15g_ [Salty Stability \[Inulin / GMS / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup> • unsweetened “ICSv2”
   - _40g_ [Erythritol (E968)](/ice-creamery/info/ingredients/#erythritol-e968){target="_blank"}<sup>↗</sup> • POD = 75%
   - _20g_ [Trehalose \[SaporePuro\]](/ice-creamery/info/ingredients/#trehalose-e965){target="_blank"}<sup>↗</sup> • POD = 45%; GI = 38
   - _1 pinch_ Cinnamon (Ceylon)
@@ -74,11 +75,11 @@ Rating: 😋🍫 (untested)
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
 
 # NUTRITIONAL & OTHER INFO
-- **Nutritional values per 100g/ml:** 100g; 122.7 kcal; fat 4.3g; carbs 17.4g; sugar 4.7g; protein 5.7g; salt 0.4g
-- **Nutritional values per ½ Deluxe Tub:** 360g; 441.6 kcal; fat 15.5g; carbs 62.5g; sugar 17.0g; protein 20.6g; salt 1.4g
-- **Nutritional values total:** 720g; 883.2 kcal; fat 31.0g; carbs 125.0g; sugar 33.9g; protein 41.1g; salt 2.9g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 31.76
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 18.64% • Low-Sugar
-- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 14.0g • 1.9%
-- **Net carbs:** 62.8g • *∝ 5 servings@144g:* 12.6g • *∝ 3 servings@240g:* 20.9g • *energy ratio (low <20%):* 28.5%
-- **15g 'Salty Stability' is:** 12.5g Inulin • 1.2g Tylose powder (E466, Tylo, CMC) • 0.6g Guar gum (E412) • 0.5g Salt • 0.2g Xanthan gum (E415, XG).
+- **Nutritional values per 100g/ml:** 100g; 123.4 kcal; fat 4.4g; carbs 17.3g; sugar 4.7g; protein 5.7g; salt 0.4g
+- **Nutritional values per ½ Deluxe Tub:** 360g; 444.1 kcal; fat 15.8g; carbs 62.3g; sugar 16.9g; protein 20.6g; salt 1.4g
+- **Nutritional values total:** 720g; 888.1 kcal; fat 31.5g; carbs 124.6g; sugar 33.8g; protein 41.1g; salt 2.9g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 31.74
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 18.53% • Low-Sugar
+- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 24.8g • 3.4%
+- **Net carbs:** 63.5g • *∝ 5 servings@144g:* 12.7g • *∝ 3 servings@240g:* 21.2g • *energy ratio (low <20%):* 28.6%
+- **15g 'Salty Stability' is:** 11.0g Inulin • 1.8g Glycerol Monostearate (GMS / E471) • 0.9g Tylose powder (E466, Tylo, CMC) • 0.6g Guar gum (E412) • 0.5g Salt • 0.2g Xanthan gum (E415, XG).

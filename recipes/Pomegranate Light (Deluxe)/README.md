@@ -8,8 +8,8 @@ excluded_tags:
 tags:
 - Dairy
 - Draft
+- Emulsifier
 - Erythritol
-- Hi-Protein
 - Light
 - Low-Fat
 - Low-Sugar
@@ -55,7 +55,7 @@ instead of the sugar alcohols and for few calories less.
 **Dry**
 
   - _45g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • POD ≈ 90%; GI < 7
-  - _15g_ [Salty Stability \[Inulin / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup> • unsweetened “ICSv2”
+  - _15g_ [Salty Stability \[Inulin / GMS / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup> • unsweetened “ICSv2”
   - _2g_ Vanilla Bean Powder [InterVanilla]
 
 **Fill to MAX**
@@ -75,11 +75,11 @@ instead of the sugar alcohols and for few calories less.
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
 
 # NUTRITIONAL & OTHER INFO
-- **Nutritional values per 100g/ml:** 100g; 73.6 kcal; fat 1.6g; carbs 15.2g; sugar 4.0g; protein 3.7g; salt 0.3g
-- **Nutritional values per ½ Deluxe Tub:** 360g; 265.1 kcal; fat 5.6g; carbs 54.9g; sugar 14.5g; protein 13.4g; salt 0.9g
-- **Nutritional values total:** 720g; 530.3 kcal; fat 11.3g; carbs 109.7g; sugar 29.0g; protein 26.7g; salt 1.9g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.77
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 20.18% • LOW-FAT • Low-Sugar • Hi-Protein
+- **Nutritional values per 100g/ml:** 100g; 74.3 kcal; fat 1.6g; carbs 15.2g; sugar 4.0g; protein 3.7g; salt 0.3g
+- **Nutritional values per ½ Deluxe Tub:** 360g; 267.6 kcal; fat 5.9g; carbs 54.7g; sugar 14.4g; protein 13.4g; salt 0.9g
+- **Nutritional values total:** 720g; 535.2 kcal; fat 11.8g; carbs 109.3g; sugar 28.8g; protein 26.7g; salt 1.9g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.75
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 19.99% • LOW-FAT • Low-Sugar
 - **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 34.0g • 4.7%
-- **Net carbs:** 47.6g • *∝ 5 servings@144g:* 9.5g • *∝ 3 servings@240g:* 15.9g • *energy ratio (low <20%):* 35.9%
-- **15g 'Salty Stability' is:** 12.5g Inulin • 1.2g Tylose powder (E466, Tylo, CMC) • 0.6g Guar gum (E412) • 0.5g Salt • 0.2g Xanthan gum (E415, XG).
+- **Net carbs:** 48.3g • *∝ 5 servings@144g:* 9.7g • *∝ 3 servings@240g:* 16.1g • *energy ratio (low <20%):* 36.1%
+- **15g 'Salty Stability' is:** 11.0g Inulin • 1.8g Glycerol Monostearate (GMS / E471) • 0.9g Tylose powder (E466, Tylo, CMC) • 0.6g Guar gum (E412) • 0.5g Salt • 0.2g Xanthan gum (E415, XG).

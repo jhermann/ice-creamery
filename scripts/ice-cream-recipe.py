@@ -57,8 +57,9 @@ PREPPED = {
         'Xanthan gum (E415, XG)': 1.00,
     },
     'Salty Stability': {
-        'Inulin': 125.00,
-        'Tylose powder (E466, Tylo, CMC)': 12.00,
+        'Inulin': 110.00,
+        'Glycerol Monostearate (GMS / E471)': 18.0,
+        'Tylose powder (E466, Tylo, CMC)': 9.00,
         'Guar gum (E412)': 6.00,
         'Salt': 5.00,
         'Xanthan gum (E415, XG)': 2.00,
