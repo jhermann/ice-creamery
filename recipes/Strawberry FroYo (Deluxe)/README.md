@@ -5,12 +5,15 @@ excluded_tags:
 tags:
 - Dairy
 - Draft
+- Emulsifier
 - Erythritol
 - Fruit
+- Hi-Protein
 - Low-Sugar
 - Multi-Flavor
 - Polysaccharide Gum
 - Scoopable
+- Stevia
 - Sucralose
 - Tylo Powder (CMC)
 - Xylitol
@@ -32,8 +35,8 @@ Rating: 😋 (untested)
 
 **Wet**
 
-  - _400ml_ Yogurt mild 4% [REWE Bio] • 500g container
-  - _30g_ [Cream Cheese 23% \[Exquisa\]](/ice-creamery/info/ingredients/#cream-cheese){target="_blank"}<sup>↗</sup>
+  - _375ml_ Yogurt mild 4% [REWE Bio] • 500g container
+  - _25g_ [Cream Cheese 23% \[Exquisa\]](/ice-creamery/info/ingredients/#cream-cheese){target="_blank"}<sup>↗</sup>
   - _15g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • Sweetness = 60%; GI = 5; Density = 1.26 g/ml
   - _10g_ [Brandy or Vodka 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup>
   - _10ml_ Lemon juice
@@ -41,13 +44,18 @@ Rating: 😋 (untested)
 
 **Dry**
 
-  - _20g_ ICSv2 [Erythritol / Inulin / CMC / Guar / XG / Salt] • [http﹕//bit.ly/4frc4Vj](https://jhermann.github.io/ice-creamery/I/Ice%20Cream%20Stabilizer%20(ICS)/)
-  - _35g_ [Xylitol (E967)](/ice-creamery/info/ingredients/#xylitol-e967){target="_blank"}<sup>↗</sup> • POD = 100%; GI = 7
+  - _40g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • POD ≈ 90%; GI < 7
+  - _10g_ [Salty Stability \[Inulin / GMS / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup> • unsweetened “ICSv2”
+  - _15g_ [Whey + Casein protein (grass-fed) \[Vilgain\]](/ice-creamery/info/ingredients/#whey-protein){target="_blank"}<sup>↗</sup> • with stevia
 
 **Fill to MAX**
 
-  - _25ml_ [Water, milk, or yogurt to MAX line](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
+  - _45ml_ [Water, milk, or yogurt to MAX line](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
   - _≈3 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
+
+**Topping Options**
+
+  - _10ml_ Aceto balsamico di Modena [Due Vittorie] • add as a topping [32kcal, 7.8g sugar]
 
 **Optional**
 
@@ -69,11 +77,11 @@ Rating: 😋 (untested)
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
 
 # NUTRITIONAL & OTHER INFO
-- **Nutritional values per 100g/ml:** 100g; 84.0 kcal; fat 3.1g; carbs 13.9g; sugar 4.4g; protein 2.7g; salt 0.2g
-- **Nutritional values per ½ Deluxe Tub:** 360g; 302.4 kcal; fat 11.3g; carbs 50.2g; sugar 15.9g; protein 9.8g; salt 0.6g
-- **Nutritional values total:** 720g; 604.9 kcal; fat 22.7g; carbs 100.3g; sugar 31.8g; protein 19.5g; salt 1.2g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 31.44
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 12.90% • Low-Sugar
-- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 44.0g • 6.1%
-- **Net carbs:** 47.2g • *∝ 5 servings@144g:* 9.4g • *∝ 3 servings@240g:* 15.7g
-- **20g Ice Cream Stabilizer (ICSv2) is:** 9.2g Erythritol (E968) • 9.2g Inulin • 0.92g Tylose powder (E466, Tylo, CMC) • 0.32g Guar gum (E412) • 0.32g Salt • 0.09g Xanthan gum (E415, XG).
+- **Nutritional values per 100g/ml:** 100g; 83.2 kcal; fat 3.0g; carbs 13.1g; sugar 4.3g; protein 4.2g; salt 0.2g
+- **Nutritional values per ½ Deluxe Tub:** 360g; 299.3 kcal; fat 10.8g; carbs 47.3g; sugar 15.5g; protein 15.1g; salt 0.6g
+- **Nutritional values total:** 720g; 598.7 kcal; fat 21.6g; carbs 94.5g; sugar 31.1g; protein 30.2g; salt 1.2g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 31.31
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 20.18% • Low-Sugar • Hi-Protein
+- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 54.5g • 7.6%
+- **Net carbs:** 47.2g • *∝ 5 servings@144g:* 9.4g • *∝ 3 servings@240g:* 15.7g • *energy ratio (low <20%):* 31.5%
+- **10g 'Salty Stability' is:** 7.3g Inulin • 1.2g Glycerol Monostearate (GMS / E471) • 0.6g Tylose powder (E466, Tylo, CMC) • 0.4g Guar gum (E412) • 0.33g Salt • 0.13g Xanthan gum (E415, XG).

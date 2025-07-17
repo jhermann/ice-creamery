@@ -1,14 +1,14 @@
 Strawberry FroYo (Deluxe);;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 ;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;;
-Nutritional values per 100g/ml;100;g;;84.0;3.1;13.9;4.4;2.7;0.2;;;;;
-Nutritional values per ½ Deluxe Tub;360;g;;302.4;11.3;50.2;15.9;9.8;0.6;;;;;
-Nutritional values total;720;g;;604.9;22.7;100.3;31.8;19.5;1.2;;;;;
+Nutritional values per 100g/ml;100;g;;83.2;3.0;13.1;4.3;4.2;0.2;;;;;
+Nutritional values per ½ Deluxe Tub;360;g;;299.3;10.8;47.3;15.5;15.1;0.6;;;;;
+Nutritional values total;720;g;;598.7;21.6;94.5;31.1;30.2;1.2;;;;;
 ;;;;;;;;;;;;;;
-FPDF / PAC (target 20..30);31.44;;;;;;;;;;;;;
-"Protein / Energy Ratio (ok=12%; hi=20%)";12.90%;;;;;;Low-Sugar;;;;;;;
-ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);44.0;g;;6.1%;;;;;;;;;;
-ℹ️ Net carbs;47.2;g;;*∝ 5 servings@144g:* 9.4g;;;*∝ 3 servings@240g:* 15.7g;;;;;;;
+FPDF / PAC (target 20..30);31.31;;;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";20.18%;;;;;;Low-Sugar;Hi-Protein;;;;;;
+ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);54.5;g;;7.6%;;;;;;;;;;
+ℹ️ Net carbs;47.2;g;;*∝ 5 servings@144g:* 9.4g;;;*∝ 3 servings@240g:* 15.7g;;;*energy ratio (low <20%):* 31.5%;;;;
 ;;;;;;;;;;;;;;
 "You can replace the strawberries by other fruit, or fruit powder (see “Optional”). Adapt the amount of water or milk to fill up to MAX accordingly.
 
@@ -22,13 +22,14 @@ Rating: 😋 (untested)";;;;;;;;;;;;;;
 The [brand names] used are in brackets.;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment;0Carb[%];Counts?
-Yogurt mild 4% [REWE Bio];400.00;ml;1;71.00;3.80;5.00;5.00;4.10;0.15;0.05;10.27;500g container;;1
-Cream Cheese 23% [Exquisa];30.00;g;1;238.00;22.50;3.00;3.00;5.50;0.70;0.03;9.64;;;1
+Yogurt mild 4% [REWE Bio];375.00;ml;1;71.00;3.80;5.00;5.00;4.10;0.15;0.05;10.27;500g container;;1
+Cream Cheese 23% [Exquisa];25.00;g;1;238.00;22.50;3.00;3.00;5.50;0.70;0.03;9.64;;;1
 Glycerin (E422, VG) [hd-line];15.00;g;1;400.00;;99.00;;;;3.70;;"Sweetness = 60%; GI = 5; Density = 1.26 g/ml";;1
 Brandy or Vodka 40 vol%;10.00;g;1;280.00;;;;;;2.96;;;;1
 Lemon juice;10.00;ml;1;25.00;0.10;3.36;1.65;0.30;0.01;0.02;;;;1
-ICSv2 [Erythritol / Inulin / CMC / Guar / XG / Salt];20.00;g;2;107.2;0.0;95.5;3.7;0.1;1.7;1.32;;http://bit.ly/4frc4Vj;90.80;1
-Xylitol (E967);35.00;g;2;238.00;;100.00;;;;2.20;;"POD = 100%; GI = 7";100.00;1
+SweEX (Erythritol + Xylitol 3:2);40.00;g;2;109.60;;100.00;;;;2.56;;"POD ≈ 90%; GI < 7";100.00;1
+Salty Stability [Inulin / GMS / CMC / Guar / XG / Salt];10.00;g;2;267.5;3.6;88.4;5.9;0.3;3.5;0.06;;unsweetened “ICSv2”;73.80;1
+Whey + Casein protein (grass-fed) [Vilgain];15.00;g;2;384.00;4.60;5.70;5.60;80.00;0.50;0.06;90.40;with stevia;;1
 ;;;;;;;;;;;;;;
 Strawberries;175.00;g;1;31.00;0.40;5.80;5.70;0.80;0.00;0.06;;;;1
 Strawberries;175.00;g;6;31.00;0.40;5.80;5.70;0.80;0.00;0.06;;fresh or frozen [54kcal, 10g sugar];;
@@ -38,10 +39,10 @@ Ube Yam Root powder [Fil Choice];25.00;g;6;382.00;0.60;83.00;9.50;6.10;0.30;0.10
 Lingonberry powder [Bio Leis];25.00;g;6;351.00;2.30;78.80;72.50;3.70;0.01;0.73;;add more liquid at the end [88kcal, 18g sugar];;
 Strawberry powder [Supergarden];25.00;g;6;287.00;3.70;50.90;50.60;7.60;0.00;0.51;;add more liquid at the end [72kcal, 13g sugar];;
 ;;;;;;;;;;;;;;
-Water, milk, or yogurt to MAX line;25.00;ml;3;;;;;;;;;;;1
+Water, milk, or yogurt to MAX line;45.00;ml;3;;;;;;;;;;;1
 Flavor drops Vanilla (sucralose) [IronMaxx];≈3;drops;3;;;;;;;;;to taste;;
 ;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
+Aceto balsamico di Modena [Due Vittorie];10.00;ml;5;317.00;;78.00;78.00;0.80;;0.78;;add as a topping [32kcal, 7.8g sugar];;
 ;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
