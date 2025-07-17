@@ -5,6 +5,7 @@ excluded_tags:
 tags:
 - Dairy-Free
 - Draft
+- Emulsifier
 - Erythritol
 - Fruit
 - Hi-Protein
@@ -59,14 +60,19 @@ Rating: 😋😋😋🍈🍈
 
 **Dry**
 
-  - _35g_ [Xylitol (E967)](/ice-creamery/info/ingredients/#xylitol-e967){target="_blank"}<sup>↗</sup> • POD = 100%; GI = 7
-  - _15g_ [ICSv2 \[Erythritol / Inulin / CMC / Guar / XG / Salt\]](/ice-creamery/I/Ice%20Cream%20Stabilizer%20(ICS)/){target="_blank"}<sup>↗</sup> • [Ice Cream Stabilizer](https://jhermann.github.io/ice-creamery/I/Ice%20Cream%20Stabilizer%20(ICS)/)
+  - _40g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • POD ≈ 90%; GI < 7
+  - _10g_ [Salty Stability \[Inulin / GMS / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup> • unsweetened “ICSv2”
   - _20g_ [Soy protein isolate (nature) \[Powerstar\]](/ice-creamery/info/ingredients/#soy-protein-isolate){target="_blank"}<sup>↗</sup> • 1kg bag, unsweetened, unflavored
 
 **Fill to MAX**
 
   - _40ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
   - _≈5 drops_ Flavor drops Peach / Maracuja (sucralose) [IronMaxx] • to taste
+
+**Optional**
+
+  - _500g_ Galia melon (organic) • [130kcal, 28g sugar]
+  - _500g_ Honeydew melon (organic) • [180kcal, 41g sugar]
 
 # DIRECTIONS
 
@@ -79,11 +85,11 @@ Rating: 😋😋😋🍈🍈
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
 
 # NUTRITIONAL & OTHER INFO
-- **Nutritional values per 100g/ml:** 100g; 59.6 kcal; fat 0.4g; carbs 13.0g; sugar 4.0g; protein 3.3g; salt 0.2g
-- **Nutritional values per ½ Deluxe Tub:** 360g; 214.4 kcal; fat 1.3g; carbs 46.9g; sugar 14.4g; protein 12.0g; salt 0.6g
-- **Nutritional values total:** 720g; 428.8 kcal; fat 2.6g; carbs 93.7g; sugar 28.7g; protein 24.0g; salt 1.2g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.20
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 22.35% • LOW-FAT • Low-Sugar • Hi-Protein
-- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 18.6g • 2.6%
-- **Net carbs:** 45.1g • *∝ 5 servings@144g:* 9g • *∝ 3 servings@240g:* 15g • *energy ratio (low <20%):* 42.1%
-- **15g 'ICSv2' is:** 6.9g Erythritol (E968) • 6.9g Inulin • 0.69g Tylose powder (E466, Tylo, CMC) • 0.24g Guar gum (E412) • 0.24g Salt • 0.07g Xanthan gum (E415, XG).
+- **Nutritional values per 100g/ml:** 100g; 55.6 kcal; fat 0.4g; carbs 13.0g; sugar 4.0g; protein 3.3g; salt 0.2g
+- **Nutritional values per ½ Deluxe Tub:** 360g; 200.0 kcal; fat 1.5g; carbs 46.6g; sugar 14.4g; protein 12.0g; salt 0.7g
+- **Nutritional values total:** 720g; 400.0 kcal; fat 2.9g; carbs 93.3g; sugar 28.8g; protein 24.0g; salt 1.3g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 31.13
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 23.97% • LOW-FAT • Low-Sugar • Hi-Protein
+- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 23.2g • 3.2%
+- **Net carbs:** 45.9g • *∝ 5 servings@144g:* 9.2g • *∝ 3 servings@240g:* 15.3g • *energy ratio (low <20%):* 45.9%
+- **10g 'Salty Stability' is:** 7.3g Inulin • 1.2g Glycerol Monostearate (GMS / E471) • 0.6g Tylose powder (E466, Tylo, CMC) • 0.4g Guar gum (E412) • 0.33g Salt • 0.13g Xanthan gum (E415, XG).
