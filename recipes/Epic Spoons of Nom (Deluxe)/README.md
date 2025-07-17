@@ -50,7 +50,7 @@ Rating: 😋 (untested)
 **Dry**
 
   - _35g_ [Erythritol (E968)](/ice-creamery/info/ingredients/#erythritol-e968){target="_blank"}<sup>↗</sup> • POD = 75%
-  - _25g_ [Trehalose \[SaporePuro\]](/ice-creamery/info/ingredients/#trehalose-e965){target="_blank"}<sup>↗</sup> • POD = 45%; GI = 38
+  - _25g_ [Trehalose \[SaporePuro\]](/ice-creamery/info/ingredients/#trehalose-e965){target="_blank"}<sup>↗</sup> • *15g if using buttermilk* • POD = 45%; GI = 38
   - _15g_ [Salty Stability \[Inulin / GMS / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup> • unsweetened “ICSv2”
   - _20g_ [Soy protein isolate (nature) \[Powerstar\]](/ice-creamery/info/ingredients/#soy-protein-isolate){target="_blank"}<sup>↗</sup> • 1kg bag, unsweetened, unflavored
   - _7g_ [Designer Flavor Powder \[ESN\]](/ice-creamery/info/ingredients/#cocoa-powder){target="_blank"}<sup>↗</sup> • ≈70% inulin
