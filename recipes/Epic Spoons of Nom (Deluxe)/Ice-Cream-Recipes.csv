@@ -1,14 +1,14 @@
 Epic Spoons of Nom (Deluxe);;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 ;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;;
-Nutritional values per 100g/ml;100;g;;69.8;1.5;12.9;3.4;5.0;0.2;;;;;
-Nutritional values per ½ Deluxe Tub;360;g;;251.3;5.3;46.4;12.4;17.9;0.8;;;;;
-Nutritional values total;720;g;;502.7;10.6;92.9;24.7;35.9;1.5;;;;;
+Nutritional values per 100g/ml;100;g;;72.3;1.5;11.6;2.8;5.0;0.2;;;;;
+Nutritional values per ½ Deluxe Tub;360;g;;260.3;5.4;41.8;10.2;18.0;0.8;;;;;
+Nutritional values total;720;g;;520.6;10.7;83.7;20.5;36.0;1.5;;;;;
 ;;;;;;;;;;;;;;
-FPDF / PAC (target 20..30);30.44;;;;;;;;;;;;;
-"Protein / Energy Ratio (ok=12%; hi=20%)";28.54%;;;;LOW-FAT;;Low-Sugar;Hi-Protein;;;;;;
-ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);42.2;g;;5.9%;;;;;;;;;;
-ℹ️ Net carbs;38.9;g;;*∝ 5 servings@144g:* 7.8g;;;*∝ 3 servings@240g:* 13g;;;*energy ratio (low <20%):* 31%;;;;
+FPDF / PAC (target 20..30);30.51;;;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";27.66%;;;;LOW-FAT;;Low-Sugar;Hi-Protein;;;;;;
+ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);42.4;g;;5.9%;;;;;;;;;;
+ℹ️ Net carbs;37.1;g;;*∝ 5 servings@144g:* 7.4g;;;*∝ 3 servings@240g:* 12.4g;;;*energy ratio (low <20%):* 28.5%;;;;
 ;;;;;;;;;;;;;;
 "> *Scoop big. Nom bigger. Taste the ESN.*
 
@@ -21,22 +21,22 @@ Spin on “Sorbet”, scrape down, and mix-in.
 
 Rating: 😋 (untested)";;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
-> 💡 *You can also use 500ml buttermilk instead of soy milk, and reduce the trehalose to 15g.*;;;;;;;;;;;;;;
+> 💡 *You can also use 500ml buttermilk instead of soy milk, and leave out the trehalose.*;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 The [brand names] used are in brackets.;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment;0Carb[%];Counts?
 Soy milk 1.6% (sugar-free) [Berief];500.00;ml;1;30.00;1.60;0.90;0.00;3.00;0.08;;4.00;;;1
-Buttermilk 1% [REWE];;ml;1;35.00;0.50;4.00;4.00;3.50;0.15;0.04;8.50;;;1
-Glycerin (E422, VG) [hd-line];15.00;g;1;400.00;;99.00;;;;3.70;;"POD = 60%; GI = 5; Density = 1.26 g/ml";50.00;1
-Brandy or Vodka 40 vol%;10.00;g;1;280.00;;;;;;2.96;;;;1
-Erythritol (E968);35.00;g;2;24.00;0.00;100.00;0.00;0.00;0.00;2.80;;POD = 75%;100.00;1
-Trehalose [SaporePuro];25.00;g;2;355.00;0.00;89.00;89.00;0.00;0.03;1.00;;"*15g if using buttermilk* • POD = 45%; GI = 38";;1
+Buttermilk 1% [REWE];500.00;ml;1;35.00;0.50;4.00;4.00;3.50;0.15;0.04;8.50;;;0
+Glycerin (E422, VG) [hd-line];20.00;g;1;400.00;;99.00;;;;3.70;;"POD = 60%; GI = 5; Density = 1.26 g/ml";50.00;1
+Brandy or Vodka 40 vol%;15.00;g;1;280.00;;;;;;2.96;;;;1
+Erythritol (E968);25.00;g;2;24.00;0.00;100.00;0.00;0.00;0.00;2.80;;POD = 75%;100.00;1
+Trehalose [SaporePuro];20.00;g;2;355.00;0.00;89.00;89.00;0.00;0.03;1.00;;"*none if using buttermilk* • POD = 45%; GI = 38";;1
 Salty Stability [Inulin / GMS / CMC / Guar / XG / Salt];15.00;g;2;267.5;3.6;88.4;5.9;0.3;3.5;0.06;;unsweetened “ICSv2”;73.80;1
 Soy protein isolate (nature) [Powerstar];20.00;g;2;372.00;1.00;1.00;0.00;89.80;2.50;;93.00;1kg bag, unsweetened, unflavored;;1
-Designer Flavor Powder [ESN];7.00;g;2;285.00;5.60;25.00;19.00;1.80;0.11;0.19;;≈70% inulin;6.00;1
+Designer Flavor Powder [ESN];8.00;g;2;285.00;5.60;25.00;19.00;1.80;0.11;0.19;;≈70% inulin;6.00;1
 Vanilla Bean Powder [InterVanilla];2.00;g;2;288.00;0.10;13.00;13.00;0.00;0.00;;;;;1
 ;;;;;;;;;;;;;;
-Soy milk 1.6% (sugar-free) [Berief];91.00;ml;3;30.00;1.60;0.90;0.00;3.00;0.08;;4.00;;;1
+Soy milk 1.6% (sugar-free) [Berief];95.00;ml;3;30.00;1.60;0.90;0.00;3.00;0.08;;4.00;;;1
 Flavor drops Vanilla (sucralose) [IronMaxx];≈1;drops;3;;;;;;;;;to taste;;
