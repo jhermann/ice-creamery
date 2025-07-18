@@ -41,7 +41,11 @@ Spin on “Sorbet”, scrape down, and respin or mix-in.
 
 Rating: 😋😋😋😋 (used 12g, 8g will better)
 
-> 💡 *You can also use 500ml buttermilk instead of soy milk, and leave out the trehalose.*
+> <img width=480 alt="Scooped" src="ESoN_2025-07-18_4.jpg" class="zoomable" />
+>
+> Firmed up, served with pecans and a cookie.
+
+💡 *You can also use 500ml buttermilk instead of soy milk, and leave out the trehalose.*
 
 # INGREDIENTS
 
