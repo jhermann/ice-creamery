@@ -31,11 +31,15 @@ This is a recipe specifically for ESN’s “Designer Flavor Powder”
 > 
 > 🌿 **Vegan & Dairy-free**<br />Recipe is using only soy milk and protein.
 
-Spin on “Sorbet”, scrape down, and mix-in.
+Spin on “Sorbet”, scrape down, and respin or mix-in.
 
-> <img width=360 alt="Spun Ice Cream" src="" class="zoomable" />
+> <img width=220 alt="Spun on Sorbet" src="ESoN_2025-07-18_1.jpg" class="zoomable" />
+> <img width=220 alt="After respin" src="ESoN_2025-07-18_2.jpg" class="zoomable" />
+> <img width=220 alt="Scooped" src="ESoN_2025-07-18_3.jpg" class="zoomable" />
+>
+> *Made with buttermilk, spun on sorbet followed by a respin.*
 
-Rating: 😋 (untested)
+Rating: 😋😋😋😋 (used 12g, 8g will better)
 
 > 💡 *You can also use 500ml buttermilk instead of soy milk, and leave out the trehalose.*
 
