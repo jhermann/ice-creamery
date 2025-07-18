@@ -48,7 +48,7 @@ Rating: 😋 (experimental)
 
   - _15g_ [Erythritol (E968)](/ice-creamery/info/ingredients/#erythritol-e968){target="_blank"}<sup>↗</sup> • POD = 75%
   - _15g_ [Xylitol (E967)](/ice-creamery/info/ingredients/#xylitol-e967){target="_blank"}<sup>↗</sup> • Sweetness = 100%; GI = 7
-  - _40g_ ICSv2 [Erythritol / Inulin / CMC / Guar / XG / Salt] • [http﹕//bit.ly/4frc4Vj](https://jhermann.github.io/ice-creamery/I/Ice%20Cream%20Stabilizer%20(ICS)/)
+  - _40g_ [ICSv2 \[Erythritol / Inulin / CMC / Guar / XG / Salt\]](/ice-creamery/I/Ice%20Cream%20Stabilizer%20(ICS)/){target="_blank"}<sup>↗</sup> • [Ice Cream Stabilizer](https://jhermann.github.io/ice-creamery/I/Ice%20Cream%20Stabilizer%20(ICS)/)
   - _1 pinch_ Tumeric • for color
 
 **Fill to MAX**
@@ -72,5 +72,5 @@ Rating: 😋 (experimental)
 - **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.42
 - **Protein / Energy Ratio (ok=12%; hi=20%):** 0.84% • LOW-CAL • LOW-FAT • Low-Sugar • Low-Salt
 - **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 0.0g • 0.0%
-- **Net carbs:** 13.4g • *∝ 5 servings@144g:* 2.7g • *∝ 3 servings@240g:* 4.5g
-- **40g Ice Cream Stabilizer (ICSv2) is:** 18.3g Erythritol (E968) • 18.3g Inulin • 1.8g Tylose powder (E466, Tylo, CMC) • 0.64g Guar gum (E412) • 0.64g Salt • 0.18g Xanthan gum (E415, XG).
+- **Net carbs:** 13.4g • *∝ 5 servings@144g:* 2.7g • *∝ 3 servings@240g:* 4.5g • *energy ratio (low <20%):* 26.7%
+- **40g 'ICSv2' is:** 18.3g Erythritol (E968) • 18.3g Inulin • 1.8g Tylose powder (E466, Tylo, CMC) • 0.64g Guar gum (E412) • 0.64g Salt • 0.18g Xanthan gum (E415, XG).
