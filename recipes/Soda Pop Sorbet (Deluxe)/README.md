@@ -6,6 +6,7 @@ excluded_tags:
 - Vanilla
 tags:
 - Dairy-Free
+- Emulsifier
 - Erythritol
 - Hi-Protein
 - Keto
@@ -27,13 +28,15 @@ Soda sorbet from 0-cal syrup. Works with any 0-sugar soda syrup — increase the
 <img style="float: left; margin-right: 1.5em;" width=220 alt="Syrup bottles + lime" src="Sodapop_2025-06-23.jpg" />
 
 > 🌿 **Vegan & Dairy-free**<br />Recipe is using only syrup + lemon juice and no dairy.
-> ℹ️ This is keto, at 15 net carbs per tub, so 3-6 per serving.
+
+> ℹ️ This is keto, at 15 net carbs per tub, so 2-5 per serving.
 <br clear=all /><br />
+
 > <img width=280 alt="After Sorbet spin" src="afri-cola_2025-07-02_1.jpg" class="zoomable" />
 > <img width=280 alt="After scrape-down + mix-in" src="afri-cola_2025-07-02_2.jpg" class="zoomable" />
 > 
 > *Processed on Sorbet, followed by a scrape-downand a mix-in run.*
-> 
+>
 > Rating: 😋😋🥤🥤
 
 > <img width=370 alt="Scooped, with black sesame" src="afri-cola_2025-07-02_3.jpg" class="zoomable" />
@@ -56,17 +59,13 @@ Soda sorbet from 0-cal syrup. Works with any 0-sugar soda syrup — increase the
 **Dry**
 
   - _15g_ [Soy protein isolate (nature) \[Powerstar\]](/ice-creamery/info/ingredients/#soy-protein-isolate){target="_blank"}<sup>↗</sup> • 1kg bag, unsweetened, unflavored
-  - _15g_ [Inulin \[Vit4ever\]](/ice-creamery/info/ingredients/#inulin){target="_blank"}<sup>↗</sup> • Sweetness = 8%; GI ~= 0
-  - _15g_ [Erythritol (E968)](/ice-creamery/info/ingredients/#erythritol-e968){target="_blank"}<sup>↗</sup> • POD = 75%
-  - _10g_ [Xylitol (E967)](/ice-creamery/info/ingredients/#xylitol-e967){target="_blank"}<sup>↗</sup> • POD = 100%; GI = 7
-  - _2g_ Salt
-  - _1.5g_ [Tylose powder (E466 / CMC) \[GoodBake\]](/ice-creamery/info/ingredients/#cocoa-powder){target="_blank"}<sup>↗</sup>
-  - _1g_ [Guar gum (E412)](/ice-creamery/info/ingredients/#guar-gum-e412){target="_blank"}<sup>↗</sup>
-  - _0.5g_ [Xanthan gum (E415, XG)](/ice-creamery/info/ingredients/#xanthan-gum-xg-e415){target="_blank"}<sup>↗</sup> • 1tsp ≈ 2.8g
+  - _30g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • POD ≈ 90%; GI < 7
+  - _20g_ [Salty Stability \[Inulin / GMS / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup> • unsweetened “ICSv2”
+  - _1g_ Salt
 
 **Fill to MAX**
 
-  - _160ml_ Water to MAX line
+  - _154ml_ Water to MAX line
   - _≈4 drops_ Flavor drops Peach / Maracuja (sucralose) [IronMaxx] • to taste
 
 # DIRECTIONS
@@ -81,11 +80,13 @@ Soda sorbet from 0-cal syrup. Works with any 0-sugar soda syrup — increase the
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
 
 # NUTRITIONAL & OTHER INFO
-- **Nutritional values per 100g/ml:** 100g; 35.3 kcal; fat 0.0g; carbs 8.8g; sugar 0.2g; protein 1.9g; salt 0.3g
-- **Nutritional values per ½ Deluxe Tub:** 360g; 127.1 kcal; fat 0.1g; carbs 31.8g; sugar 0.8g; protein 6.8g; salt 1.2g
-- **Nutritional values total:** 720g; 254.1 kcal; fat 0.2g; carbs 63.5g; sugar 1.5g; protein 13.6g; salt 2.4g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 29.14
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 21.46% • LOW-CAL • LOW-FAT • Low-Sugar • Hi-Protein
+- **Nutritional values per 100g/ml:** 100g; 37.4 kcal; fat 0.1g; carbs 9.6g; sugar 0.2g; protein 1.9g; salt 0.3g
+- **Nutritional values per ½ Deluxe Tub:** 360g; 134.6 kcal; fat 0.4g; carbs 34.7g; sugar 0.8g; protein 6.8g; salt 1.0g
+- **Nutritional values total:** 720g; 269.2 kcal; fat 0.9g; carbs 69.3g; sugar 1.5g; protein 13.6g; salt 2.1g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 29.79
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 20.22% • LOW-CAL • LOW-FAT • Low-Sugar • Hi-Protein
 - **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 14.0g • 1.9%
-- **Net carbs:** 15.2g • *∝ 5 servings@144g:* 3g • *∝ 3 servings@240g:* 5.1g
+- **Net carbs:** 14.6g • *∝ 5 servings@144g:* 2.9g • *∝ 3 servings@240g:* 4.9g • *energy ratio (low <20%):* 21.6%
 - **Jul 2, 2025:** Add lime zest, less solids, a bit more syrup
+- **Jul 18, 2025:** Use new mixes
+- **20g 'Salty Stability' is:** 14.7g Inulin • 2.4g Glycerol Monostearate (GMS / E471) • 1.2g Tylose powder (E466, Tylo, CMC) • 0.8g Guar gum (E412) • 0.67g Salt • 0.27g Xanthan gum (E415, XG).

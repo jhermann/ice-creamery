@@ -1,20 +1,19 @@
 Soda Pop Sorbet (Deluxe);;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 ;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;;
-Nutritional values per 100g/ml;100;g;;35.3;0.0;8.8;0.2;1.9;0.3;;;;;
-Nutritional values per ½ Deluxe Tub;360;g;;127.1;0.1;31.8;0.8;6.8;1.2;;;;;
-Nutritional values total;720;g;;254.1;0.2;63.5;1.5;13.6;2.4;;;;;
+Nutritional values per 100g/ml;100;g;;37.4;0.1;9.6;0.2;1.9;0.3;;;;;
+Nutritional values per ½ Deluxe Tub;360;g;;134.6;0.4;34.7;0.8;6.8;1.0;;;;;
+Nutritional values total;720;g;;269.2;0.9;69.3;1.5;13.6;2.1;;;;;
 ;;;;;;;;;;;;;;
-FPDF / PAC (target 20..30);29.14;;;;;;;;;;;;;
-"Protein / Energy Ratio (ok=12%; hi=20%)";21.46%;;;LOW-CAL;LOW-FAT;;Low-Sugar;Hi-Protein;;;;;;
+FPDF / PAC (target 20..30);29.79;;;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";20.22%;;;LOW-CAL;LOW-FAT;;Low-Sugar;Hi-Protein;;;;;;
 ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);14.0;g;;1.9%;;;;;;;;;;
-ℹ️ Net carbs;15.2;g;;*∝ 5 servings@144g:* 3g;;;*∝ 3 servings@240g:* 5.1g;;;;;;;
+ℹ️ Net carbs;14.6;g;;*∝ 5 servings@144g:* 2.9g;;;*∝ 3 servings@240g:* 4.9g;;;*energy ratio (low <20%):* 21.6%;;;;
 "Soda sorbet from 0-cal syrup. Works with any 0-sugar soda syrup — increase the recommended dosage by 33%, because ice cream.
-
 
 > 🌿 **Vegan & Dairy-free**<br />Recipe is using only syrup + lemon juice and no dairy.
 ";;;;;;;;;;;;;;
-> ℹ️ This is keto, at 15 net carbs per tub, so 3-6 per serving.;;;;;;;;;;;;;;
+> ℹ️ This is keto, at 15 net carbs per tub, so 2-5 per serving.;;;;;;;;;;;;;;
 "<br clear=all /><br />
 
 > *Processed on Sorbet, followed by a scrape-downand a mix-in run.*
@@ -34,19 +33,15 @@ Glycerin (E422, VG) [hd-line];20.00;g;1;400.00;;99.00;;;;3.70;;"Sweetness = 60%;
 Lime juice + zest (organic) [REWE Bio];20.00;ml;1;25.00;0.10;8.40;1.70;0.40;;;;1 lime = 60..65g;;1
 Brandy or Vodka 40 vol%;15.00;g;1;280.00;;;;;;2.96;;;;1
 Soy protein isolate (nature) [Powerstar];15.00;g;2;372.00;1.00;1.00;0.00;89.80;2.50;;93.00;1kg bag, unsweetened, unflavored;;1
-Inulin [Vit4ever];15.00;g;2;210.00;;97.00;8.00;;0.20;0.09;;"Sweetness = 8%; GI ~= 0";89.00;1
-Erythritol (E968);15.00;g;2;24.00;0.00;100.00;0.00;0.00;0.00;2.80;;POD = 75%;100.00;1
-Xylitol (E967);10.00;g;2;238.00;;100.00;;;;2.20;;"POD = 100%; GI = 7";100.00;1
-Salt;2.00;g;2;;;;;;100.00;5.90;;;;1
-Tylose powder (E466 / CMC) [GoodBake];1.50;g;2;600.00;;75.00;;;;;;;;1
-Guar gum (E412);1.00;g;2;180.00;0.60;84.00;0.00;5.50;0.30;;;;;1
-Xanthan gum (E415, XG);0.50;g;2;320.00;;78.00;;6.00;1.00;;;1tsp ≈ 2.8g;;1
+SweEX (Erythritol + Xylitol 3:2);30.00;g;2;109.60;;100.00;;;;2.56;;"POD ≈ 90%; GI < 7";100.00;1
+Salty Stability [Inulin / GMS / CMC / Guar / XG / Salt];20.00;g;2;267.5;3.6;88.4;5.9;0.3;3.5;0.06;;unsweetened “ICSv2”;73.80;1
+Salt;1.00;g;2;;;;;;100.00;5.90;;;;1
 ;;;;;;;;;;;;;;
-Water to MAX line;160.00;ml;3;;;;;;;;;;;1
+Water to MAX line;154.00;ml;3;;;;;;;;;;;1
 Flavor drops Peach / Maracuja (sucralose) [IronMaxx];≈4;drops;3;;;;;;;;;to taste;;
 ;;;;;;;;;;;;;;
 Jul 2, 2025;Add lime zest, less solids, a bit more syrup;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
+Jul 18, 2025;Use new mixes;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
