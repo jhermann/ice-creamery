@@ -57,7 +57,7 @@ Rating: 😋😋😋🍓🍓
 
   - _24ml_ Water, milk, cream, or yogurt to MAX line
   - _≈3 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
-  - _≈10 drops_ Flavor drops Cookies&Cream (stevia) [Nick’s] • to taste
+  - _≈3 drops_ Flavor drops Cookies&Cream (stevia) [Nick’s] • to taste
 
 **Mix-ins**
 
