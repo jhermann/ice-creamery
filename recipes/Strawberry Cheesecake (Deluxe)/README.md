@@ -22,10 +22,13 @@ A great combination of various tart flavors,
 and a variation of my German cheesecake base, which is made with ‘Quark’ or ‘Topfen’
 – think of a cross between yogurt, cottage cheese and ricotta.
 
-> <img width=320 alt="Spun Ice Cream after Mix-in" src="Strawberry-Cheesecake_2024-12-29_1.jpg" class="zoomable" />
-> <img width=320 alt="Spun Ice Cream" src="Strawberry-Cheesecake_2024-12-29_2.jpg" class="zoomable" />
+> <img width=180 alt="Spun Ice Cream after Mix-in" src="Strawberry-Cheesecake_2025-07-20.jpg" class="zoomable" />
 
 Spun on Lite Ice Cream, followed by a scrape-down and a mix-in run.
+
+> <img width=331 alt="Spun Ice Cream after Mix-in" src="Strawberry-Cheesecake_2024-12-29_1.jpg" class="zoomable" />
+> <img width=331 alt="Spun Ice Cream" src="Strawberry-Cheesecake_2024-12-29_2.jpg" class="zoomable" />
+
 Serve with graham crackers, shortbread, or plain cookies to stand in for the pie crust.
 
 Rating: 😋😋😋🍓🍓
@@ -52,7 +55,7 @@ Rating: 😋😋😋🍓🍓
 
 **Fill to MAX**
 
-  - _24ml_ [Water, milk, cream, or yogurt to MAX line](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
+  - _24ml_ Water, milk, cream, or yogurt to MAX line
   - _≈3 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
   - _≈10 drops_ Flavor drops Cookies&Cream (stevia) [Nick’s] • to taste
 
