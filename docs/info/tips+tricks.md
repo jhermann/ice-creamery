@@ -123,7 +123,7 @@ Here's a breakdown of how speed and duration vary by mode:
 
 *Always* perform a [scrape test](https://www.reddit.com/r/ninjacreami/comments/1hvk23j) before processing,
 to judge what mode fits the specific tub before you best,
-and whether you should leave the tub on the counter for 5 to 15 minutes to make it soft enough for processing ('soft' still means frozen here, just less so).
+and whether you should leave the tub on the counter or in the fridge for 5 to 15 minutes to make it soft enough for processing ('soft' still means frozen here, just less so).
 
 When soft enough, scrape down any hump that might have developed during freezing, to get a paddle-friendly flat surface.
 
