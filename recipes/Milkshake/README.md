@@ -11,7 +11,7 @@ tags:
 ---
 # Milkshake
 
-> <img width=360 alt="Spun Ice Cream" src="" class="zoomable" />
+> <img width=480 alt="Spun Ice Cream" src="https://jhermann.github.io/ice-creamery/info/milkshake_2025-06-13_3.jpg" class="zoomable" />
 
 # INGREDIENTS
 
