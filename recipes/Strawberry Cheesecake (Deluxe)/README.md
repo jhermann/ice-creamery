@@ -22,7 +22,7 @@ A great combination of various tart flavors,
 and a variation of my German cheesecake base, which is made with ‘Quark’ or ‘Topfen’
 – think of a cross between yogurt, cottage cheese and ricotta.
 
-> <img width=180 alt="Spun Ice Cream after Mix-in" src="Strawberry-Cheesecake_2025-07-20.jpg" class="zoomable" />
+> <img width=180 alt="Pre-blend Ingredients" src="Strawberry-Cheesecake_2025-07-20.jpg" class="zoomable" />
 
 Spun on Lite Ice Cream, followed by a scrape-down and a mix-in run.
 
