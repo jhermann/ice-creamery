@@ -36,8 +36,8 @@ Rating: 😋😋😋🔴🔴
 
 > <img width=480 alt="Served" src="Pomegranate-Light_2025-07-17_4.jpg" class="zoomable" />
 
-If you have access to it (North America), you can use 45g Allulose as sweetener,
-instead of the sugar alcohols and for a few calories less.
+If you have access to it (North America), you can use 60g Allulose as sweetener,
+instead of the sugar alcohols.
 
 # INGREDIENTS
 
