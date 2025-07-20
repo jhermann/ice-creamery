@@ -1,12 +1,12 @@
 ---
 description: Recipe for the Ninja Creami Deluxe [24oz]
 excluded_tags:
-- Dairy
+- Dairy$
 tags:
+- Dairy-Free
 - Draft
 - Erythritol
 - Fruit
-- Keto
 - Light
 - Low-Cal
 - Low-Fat
@@ -23,13 +23,15 @@ tags:
 
 > 🌿 **Vegan & Dairy-free**<br />Recipe is using only lemon juice and no dairy.
 
-> ℹ️ This is keto, at 13 net carbs per tub, so 2-5 per serving.
+Lemon sorbet with canned mandarins to provide substance.
 
-Process on Sorbet.
+If you have fresh limes, you can zest and juice one of them; fill up with lemon juice then to the given amount.
 
 > <img width=360 alt="Spun Ice Cream" src="" class="zoomable" />
 
-Rating: 😋 (experimental)
+Spin on “Sorbet”, scrape down, and re-mix.
+
+Rating: 😋🍋🍊 (experimental)
 
 # INGREDIENTS
 
@@ -37,23 +39,25 @@ Rating: 😋 (experimental)
 
 **Wet**
 
-  - _400ml_ Water (cold)
+  - _300g_ Mandarins in juice [REWE]
   - _125ml_ Lemon juice
-  - _1 tsp_ Lemon zest (½ peel or less) • Zest the lemon BEFORE juicing
-  - _10 drops_ Flavor drops Peach / Maracuja (sucralose) [IronMaxx]
+  - _125ml_ Water (cold)
   - _15g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • Sweetness = 60%; GI = 5; Density = 1.26 g/ml
   - _10g_ [Brandy or Vodka 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup>
+  - _1 tsp_ Lemon zest (½ peel or less), or lime zest • Zest the lemon / lime BEFORE juicing
 
 **Dry**
 
-  - _15g_ [Erythritol (E968)](/ice-creamery/info/ingredients/#erythritol-e968){target="_blank"}<sup>↗</sup> • POD = 75%
-  - _15g_ [Xylitol (E967)](/ice-creamery/info/ingredients/#xylitol-e967){target="_blank"}<sup>↗</sup> • Sweetness = 100%; GI = 7
-  - _40g_ [ICSv2 \[Erythritol / Inulin / CMC / Guar / XG / Salt\]](/ice-creamery/I/Ice%20Cream%20Stabilizer%20(ICS)/){target="_blank"}<sup>↗</sup> • [Ice Cream Stabilizer](https://jhermann.github.io/ice-creamery/I/Ice%20Cream%20Stabilizer%20(ICS)/)
+  - _40g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • POD ≈ 90%; GI < 7
+  - _1.25g_ [Xanthan gum (E415, XG)](/ice-creamery/info/ingredients/#xanthan-gum-xg-e415){target="_blank"}<sup>↗</sup> • 1tsp ≈ 2.8g
+  - _1.25g_ [Carboxymethyl Cellulose (CMC / E466) \[GoodBake\]](/ice-creamery/info/ingredients/#carboxymethyl-cellulose-cmc-e466){target="_blank"}<sup>↗</sup>
+  - _1.25g_ Salt
   - _1 pinch_ Tumeric • for color
 
 **Fill to MAX**
 
-  - _100ml_ Water to MAX line
+  - _101.25ml_ Water to MAX line
+  - _≈6 drops_ Flavor drops Peach / Maracuja (sucralose) [IronMaxx] • to taste
 
 # DIRECTIONS
 
@@ -66,11 +70,10 @@ Rating: 😋 (experimental)
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
 
 # NUTRITIONAL & OTHER INFO
-- **Nutritional values per 100g/ml:** 100g; 28.0 kcal; fat 0.0g; carbs 12.1g; sugar 0.5g; protein 0.1g; salt 0.1g
-- **Nutritional values per ½ Deluxe Tub:** 360g; 100.7 kcal; fat 0.1g; carbs 43.6g; sugar 1.8g; protein 0.2g; salt 0.3g
-- **Nutritional values total:** 720g; 201.4 kcal; fat 0.1g; carbs 87.3g; sugar 3.5g; protein 0.4g; salt 0.7g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.42
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 0.84% • LOW-CAL • LOW-FAT • Low-Sugar • Low-Salt
+- **Nutritional values per 100g/ml:** 100g; 44.2 kcal; fat 0.0g; carbs 13.1g; sugar 4.0g; protein 0.3g; salt 0.2g
+- **Nutritional values per ½ Deluxe Tub:** 360g; 159.3 kcal; fat 0.1g; carbs 47.0g; sugar 14.5g; protein 1.1g; salt 0.7g
+- **Nutritional values total:** 720g; 318.6 kcal; fat 0.1g; carbs 94.0g; sugar 29.1g; protein 2.3g; salt 1.3g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 32.20
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 2.82% • LOW-FAT • Low-Sugar
 - **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 0.0g • 0.0%
-- **Net carbs:** 13.4g • *∝ 5 servings@144g:* 2.7g • *∝ 3 servings@240g:* 4.5g • *energy ratio (low <20%):* 26.7%
-- **40g 'ICSv2' is:** 18.3g Erythritol (E968) • 18.3g Inulin • 1.8g Tylose powder (E466, Tylo, CMC) • 0.64g Guar gum (E412) • 0.64g Salt • 0.18g Xanthan gum (E415, XG).
+- **Net carbs:** 46.5g • *∝ 5 servings@144g:* 9.3g • *∝ 3 servings@240g:* 15.5g • *energy ratio (low <20%):* 58.3%
