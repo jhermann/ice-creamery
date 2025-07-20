@@ -15,6 +15,7 @@ tags:
 - Sorbet
 - Sucralose
 - Tylo Powder (CMC)
+- Vegan
 - Xylitol
 ---
 # Just Fruit (Deluxe)
