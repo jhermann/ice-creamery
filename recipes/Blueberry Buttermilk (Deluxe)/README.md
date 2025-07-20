@@ -69,6 +69,12 @@ The variant made with strawberries, processed the same but with only a final Mix
   - _45ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
   - _≈5 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
 
+**Optional**
+
+  - _175g_ Strawberries • fresh or frozen [54kcal, 10g sugar]
+  - _125g_ Blueberries • fresh or frozen [60kcal, 11g sugar]
+  - _125g_ Mango • fresh or frozen [78kcal, 16g sugar]
+
 # DIRECTIONS
 
  1. Add "wet" ingredients to empty Creami tub.
