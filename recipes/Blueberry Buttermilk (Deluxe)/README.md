@@ -25,18 +25,24 @@ tags:
 
 The buttermilk gives this a tangy and fresh profile, refreeze after processing for best texture and consistency.
 
+You can replace the blueberries by other fruit, adapt the "Fill to MAX" liquid amount accordingly,
+and use less buttermilk if you'd overfill otherwise.
+
+> 💡 **Alcohol Replacement**<br />
+> If you don't want alcohol in your ice cream, or prepare it for kids, replace the small amount of alcohol with vegetable glycerin. For 10g booze (40 vol%) use 8g VG instead.
+
 Process on *Frozen Yogurt*, [hold it shortly under running water](https://jhermann.github.io/ice-creamery/info/tips%2Btricks/#handling-of-icy-sides-bottom)
 *after* that.Then a scrape-down and a respin.
 
-> <img width=360 alt="Spun Ice Cream" src="blueberry_2025-05-28_1.jpg" class="zoomable" />
-> <img width=360 alt="Spun Ice Cream" src="blueberry_2025-05-28_2.jpg" class="zoomable" />
+> <img width=332 alt="Spun Ice Cream" src="blueberry_2025-05-28_1.jpg" class="zoomable" />
+> <img width=332 alt="Spun Ice Cream" src="blueberry_2025-05-28_2.jpg" class="zoomable" />
 > 
 > Rating: 😋😋😋😋😋
 
 The variant made with strawberries, processed the same but with only a final Mix-In, since it was a bit softer.
 
-> <img width=360 alt="Spun Ice Cream" src="strawberry_2025-05-28_1.jpg" class="zoomable" />
-> <img width=360 alt="Spun Ice Cream" src="strawberry_2025-05-28_2.jpg" class="zoomable" />
+> <img width=332 alt="Spun Ice Cream" src="strawberry_2025-05-28_1.jpg" class="zoomable" />
+> <img width=332 alt="Spun Ice Cream" src="strawberry_2025-05-28_2.jpg" class="zoomable" />
 > 
 > Rating: 😋😋😋😋😋
 
