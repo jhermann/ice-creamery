@@ -57,7 +57,7 @@ Rating: 😋🍋🍊 (experimental)
 **Fill to MAX**
 
   - _101.25ml_ Water to MAX line
-  - _≈6 drops_ Flavor drops Peach / Maracuja (sucralose) [IronMaxx] • to taste
+  - _≈10 drops_ Flavor drops Peach / Maracuja (sucralose) [IronMaxx] • to taste
 
 # DIRECTIONS
 
