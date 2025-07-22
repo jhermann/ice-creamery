@@ -55,4 +55,4 @@ I use my spreadsheet, so this is a "what I found on the web" list, without any p
 
 - [USDA FoodData Central](https://fdc.nal.usda.gov/) — As long as you-know-who does not destroy it.
 - [Eat This Much — Browse Foods](https://www.eatthismuch.com/food/browse)
-- [FDDB](https://fddb.info/db/en/index.html) — Calorie table, food diary, dood database.
+- [FDDB](https://fddb.info/db/en/index.html) — Calorie table, food diary, food database.
