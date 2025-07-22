@@ -35,8 +35,9 @@ Rating: 😋😋😋🍓🍓
 
 > <img width=220 alt="Sorbet run" src="Strawberry-Cheesecake_2025-07-22_sorbet.jpg" class="zoomable" />
 > <img width=220 alt="After Respin" src="Strawberry-Cheesecake_2025-07-22_respin.jpg" class="zoomable" />
+> <img width=220 alt="Served" src="Strawberry-Cheesecake_2025-07-22_served.jpg" class="zoomable" />
 >
-> *Made with whey / casein protein mix, processed on Sorbet + Respin.*
+> *Made with whey / casein protein mix, processed on Sorbet + Respin. Served with chopped cashews and chopped rum-soaked sultanas.*
 
 # INGREDIENTS
 
