@@ -46,6 +46,10 @@ Rating: 😋😋😋🍈🍈
 > <img width=440 alt="refrozen and firm" src="Galia_melon_2025-07-14_4.jpg" class="zoomable" />
 > <img width=220 alt="with Aceto Balsamico" src="Galia_melon_2025-07-16_1.jpg" class="zoomable" />
 
+🔜 Made with honey melon pulp.
+
+> <img width=220 alt="Honey Melon" src="Honey-Melon_2025-07-22_15-1.jpg" class="zoomable" />
+
 # INGREDIENTS
 
 ℹ️ Brand names are in square brackets `[...]`.
