@@ -33,6 +33,11 @@ Serve with graham crackers, shortbread, or plain cookies to stand in for the pie
 
 Rating: 😋😋😋🍓🍓
 
+> <img width=220 alt="Sorbet run" src="Strawberry-Cheesecake_2025-07-22_sorbet.jpg" class="zoomable" />
+> <img width=220 alt="After Respin" src="Strawberry-Cheesecake_2025-07-22_respin.jpg" class="zoomable" />
+>
+> *Made with whey / casein protein mix, processed on Sorbet + Respin.*
+
 # INGREDIENTS
 
 ℹ️ Brand names are in square brackets `[...]`.
