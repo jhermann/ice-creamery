@@ -11,6 +11,7 @@ tags:
 - Polysaccharide Gum
 - Tylo Powder (CMC)
 - Vegan
+- Weird Science
 ---
 # Umamiso (Deluxe)
 <img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="logo-umamiso.png" />

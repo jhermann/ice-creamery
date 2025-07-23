@@ -17,6 +17,7 @@ tags:
 - Scoopable
 - Sucralose
 - Vegan
+- Weird Science
 ---
 # Radler Zäpfle (Deluxe)
 <img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="logo-radler-sorbet.webp" />

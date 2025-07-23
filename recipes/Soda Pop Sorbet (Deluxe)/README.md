@@ -18,6 +18,7 @@ tags:
 - Sucralose
 - Tylo Powder (CMC)
 - Vegan
+- Weird Science
 - Xylitol
 ---
 # Soda Pop Sorbet (Deluxe)
