@@ -17,6 +17,7 @@ tags:
 - Sorbet
 - Sucralose
 - Tylo Powder (CMC)
+- Vegan
 - Xylitol
 ---
 # Lemon Sorbet (Deluxe)
