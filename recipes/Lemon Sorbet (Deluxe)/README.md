@@ -1,5 +1,7 @@
 ---
 description: Recipe for the Ninja Creami Deluxe [24oz]
+excluded_steps:
+- ^$
 excluded_tags:
 - Dairy$
 tags:
@@ -27,9 +29,11 @@ Lemon sorbet with canned mandarins to provide substance.
 
 If you have fresh limes, you can zest and juice one of them; fill up with lemon juice then to the given amount.
 
-> <img width=360 alt="Spun Ice Cream" src="" class="zoomable" />
+Spin on “Sorbet”, scrape down, and respin.
 
-Spin on “Sorbet”, scrape down, and re-mix.
+> <img width=220 alt="After Sorbet Processing" src="lemon-sorbet_2025-07-23_1.jpg" class="zoomable" />
+> <img width=220 alt="After Respin" src="lemon-sorbet_2025-07-23_2.jpg" class="zoomable" />
+> <img width=220 alt="Scooped" src="lemon-sorbet_2025-07-23_3.jpg" class="zoomable" />
 
 Rating: 😋🍋🍊 (experimental)
 
