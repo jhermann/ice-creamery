@@ -52,7 +52,7 @@ The honey melon I also tried this with had a harder shell, possibly was less rip
 
 > <img width=220 alt="Honey Melon" src="Honey-Melon_2025-07-22_15-1.jpg" class="zoomable" />
 
-The yield was around 66%, about half the melon for 500g pulp. I hard to strain it after blending, since there were too many fibrous pieces in there.
+The yield was around 66%, about half the melon for 500g pulp. I had to strain it after blending, since there were too many fibrous pieces in there.
 When removing the skin, go by knife resistance to know how much to cut off, and taste-test a piece that you think is soft enough.
 
 # INGREDIENTS
