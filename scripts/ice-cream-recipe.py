@@ -204,6 +204,9 @@ def read_meta():
                 finally:
                     loader.dispose()
 
+    result.setdefault('tags', ['Draft'])
+    result.setdefault('excluded_tags', ['Vanilla'])
+    result.setdefault('excluded_steps', ['^$'])
     return result
 
 def md_anchor(title, _re=re.compile(r'([^a-z0-9]+)')):
@@ -348,6 +351,7 @@ def main():
         ' 1. After mixing, let the base sit in the fridge for at least 30min (better 2h),'
         ' for the seeds to properly soak. Stir before freezing.',
     ]
+    mix_in = []
     special_directions = []
     STEP_PREP = 0
     STEP_WET = 1
@@ -430,6 +434,8 @@ def main():
             elif row[0].lstrip().startswith('1. '):
                 if 'Before freezing' in row[0]:
                     freezing[0:0] = [' ' + row[0].strip()]
+                elif ' a mix-in' in row[0] or ' the mix-in' in row[0]:
+                    mix_in[0:0] = [' ' + row[0].strip()]
                 else:
                     special_directions.append(' ' + row[0].strip())
             else:
@@ -494,15 +500,16 @@ def main():
                 directions = '\n'.join(line
                     for line in directions.splitlines()
                     if not excluded_steps.search(line))
-            if not directions:
-                continue
+            #if not directions:
+            #    continue
             if step == STEP_PREP:
                 if recipe[STEP_PREP] and not any('water' in x['ingredients'].lower() for x in recipe[STEP_PREP]):
                     continue
-            if step == STEP_MIX_IN:
+            elif step == STEP_MIX_IN:
                 if any('chia' in x['ingredients'].lower() for x in recipe[STEP_DRY]):
                     lines.extend(soaking)
                 lines.extend(freezing)
+                lines.extend(mix_in)
             if recipe[step]:  # we have ingredients for this step?
                 for line in [x.strip() for x in directions.strip().splitlines()]:
                     lines.append(f' 1. {line}')
