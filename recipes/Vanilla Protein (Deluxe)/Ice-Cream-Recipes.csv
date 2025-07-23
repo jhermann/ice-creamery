@@ -1,14 +1,14 @@
 Vanilla Protein (Deluxe);;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 ;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;;
-Nutritional values per 100g/ml;100;g;;80.7;1.1;11.6;0.2;9.4;0.3;;;;;
-Nutritional values per ½ Deluxe Tub;360;g;;290.6;3.9;41.8;0.8;33.7;1.2;;;;;
-Nutritional values total;720;g;;581.3;7.8;83.6;1.6;67.4;2.4;;;;;
+Nutritional values per 100g/ml;100;g;;83.1;1.4;11.0;0.2;9.9;0.3;;;;;
+Nutritional values per ½ Deluxe Tub;360;g;;299.0;5.1;39.7;0.7;35.5;1.2;;;;;
+Nutritional values total;720;g;;598.0;10.3;79.3;1.4;71.1;2.5;;;;;
 ;;;;;;;;;;;;;;
-FPDF / PAC (target 20..30);31.00;;;;;;;;;;;;;
-"Protein / Energy Ratio (ok=12%; hi=20%)";46.39%;;;;LOW-FAT;;Low-Sugar;Hi-Protein;;;;;;
-ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);55.8;g;;7.8%;;;;;;;;;;
-ℹ️ Net carbs;16.4;g;;*∝ 5 servings@144g:* 3.3g;;;*∝ 3 servings@240g:* 5.5g;;;;;;;
+FPDF / PAC (target 20..30);30.76;;;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";47.53%;;;;LOW-FAT;;Low-Sugar;Hi-Protein;;;;;;
+ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);78.6;g;;10.9%;;;;;;;;;;
+ℹ️ Net carbs;18.3;g;;*∝ 5 servings@144g:* 3.7g;;;*∝ 3 servings@240g:* 6.1g;;;*energy ratio (low <20%):* 12.2%;;;;
 "This is my usual base, but pure vanilla, no cream or cottage cheese, and double the protein powder.
 Low fat & sugar, and high protein.
 
@@ -25,21 +25,21 @@ Rating: 😋😋😋😋 (needs more testing);;;;;;;;;;;;;;
 The [brand names] used are in brackets.;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment;0Carb[%];Counts?
-Soy milk 1.6% (sugar-free) [Berief];450.00;ml;1;30.00;1.60;0.90;0.00;3.00;0.08;;;;;1
+Soy milk 1.6% (sugar-free) [Berief];500.00;ml;1;30.00;1.60;0.90;0.00;3.00;0.08;;4.00;;;1
 Glycerin (E422, VG) [hd-line];20.00;g;1;400.00;;99.00;;;;3.70;;"Sweetness = 60%; GI = 5; Density = 1.26 g/ml";50.00;1
 Brandy or Vodka 40 vol%;10.00;g;1;280.00;;;;;;2.96;;;;1
 Soy protein isolate (nature) [Powerstar];60.00;g;2;372.00;1.00;1.00;0.00;89.80;2.50;;93.00;1kg bag, unsweetened, unflavored;;1
-ICSv2 [Erythritol / Inulin / CMC / Guar / XG / Salt];30.00;g;2;107.2;0.0;95.5;3.7;0.1;1.7;1.32;;http://bit.ly/4frc4Vj;90.80;1
-Xylitol (E967);30.00;g;2;238.00;;100.00;;;;2.20;;"POD = 100%; GI = 7";100.00;1
+SweEX (Erythritol + Xylitol 3:2);40.00;g;2;109.60;;100.00;;;;2.56;;"POD ≈ 90%; GI < 7";100.00;1
+Salty Stability [Inulin / GMS / CMC / Guar / XG / Salt];15.00;g;2;267.5;3.6;88.4;5.9;0.3;3.5;0.06;;unsweetened “ICSv2”;73.80;1
 Vanilla Bean Powder [InterVanilla];4.00;g;2;288.00;0.10;13.00;13.00;0.00;0.00;;;;;1
 ;;;;;;;;;;;;;;
-Water to MAX line;116.00;ml;3;;;;;;;;;;;1
+Soy milk 1.6% (sugar-free) [Berief];71.00;ml;3;30.00;1.60;0.90;0.00;3.00;0.08;;4.00;;;1
 Flavor drops Vanilla (sucralose) [IronMaxx];≈5;drops;3;;;;;;;;;to taste;;
 ;;;;;;;;;;;;;;
 Cherries, Sour (dried, pitted) [Biojoy];15.00;g;4;295.00;0.22;66.60;57.40;3.40;0.03;0.57;;add chopped as a mix-in [44kcal, 9g sugar];;
 Strawberry slices freeze-dried [EWL];15.00;g;4;300.00;3.30;48.00;48.00;7.00;0.01;;;add crumbled as a mix-in [45kcal, 7g sugar];;
 ;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
+Aceto balsamico di Modena [Due Vittorie];10.00;ml;5;317.00;;78.00;78.00;0.80;;0.78;;add as a topping [32kcal, 7.8g sugar];;
 ;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
