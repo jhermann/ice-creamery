@@ -1,5 +1,7 @@
 ---
 description: Recipe for the Ninja Creami Deluxe [24oz]
+excluded_steps:
+- ^$
 excluded_tags:
 - Dairy$
 tags:
@@ -46,9 +48,12 @@ Rating: 😋😋😋🍈🍈
 > <img width=440 alt="refrozen and firm" src="Galia_melon_2025-07-14_4.jpg" class="zoomable" />
 > <img width=220 alt="with Aceto Balsamico" src="Galia_melon_2025-07-16_1.jpg" class="zoomable" />
 
-🔜 Made with honey melon pulp.
+The honey melon I also tried this with had a harder shell, possibly was less ripe than the Galia one.
 
 > <img width=220 alt="Honey Melon" src="Honey-Melon_2025-07-22_15-1.jpg" class="zoomable" />
+
+The yield was around 66%, about half the melon for 500g pulp. I hard to strain it after blending, since there were too many fibrous pieces in there.
+When removing the skin, go by knife resistance to know how much to cut off, and taste-test a piece that you think is soft enough.
 
 # INGREDIENTS
 
