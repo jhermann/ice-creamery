@@ -38,6 +38,8 @@ Spin on “Sorbet”, scrape down, and respin.
 
 Rating: 😋🍋🍋🍊
 
+> <img width=443 alt="Served" src="lemon-sorbet_2025-07-23_4.jpg" class="zoomable" />
+
 # INGREDIENTS
 
 ℹ️ Brand names are in square brackets `[...]`.
