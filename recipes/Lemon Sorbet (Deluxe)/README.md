@@ -6,7 +6,6 @@ excluded_tags:
 - Dairy$
 tags:
 - Dairy-Free
-- Draft
 - Erythritol
 - Fruit
 - Light
@@ -23,11 +22,13 @@ tags:
 # Lemon Sorbet (Deluxe)
 <img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="logo-lemon-sorbet.png" />
 
-> 🌿 **Vegan & Dairy-free**<br />Recipe is using only lemon juice and no dairy.
+🍊🍋 Mandarin Lemon sorbet — a refreshing, tangy ice cream that balances sweetness with citrus brightness and a velvety texture, all without traditional dairy or added sugar.
 
-Lemon sorbet with canned mandarins to provide substance.
+> 🌿 **Vegan & Dairy-free**
 
-If you have fresh limes, you can zest and juice one of them; fill up with lemon juice then to the given amount.
+It’s a refreshing guilt-free treat with bold citrus flavor and a creamy consistency.
+
+If you have fresh limes, you can zest and juice one of them; fill up with lemon juice to the given amount.
 
 Spin on “Sorbet”, scrape down, and respin.
 
@@ -35,7 +36,7 @@ Spin on “Sorbet”, scrape down, and respin.
 > <img width=220 alt="After Respin" src="lemon-sorbet_2025-07-23_2.jpg" class="zoomable" />
 > <img width=220 alt="Scooped" src="lemon-sorbet_2025-07-23_3.jpg" class="zoomable" />
 
-Rating: 😋🍋🍊 (experimental)
+Rating: 😋🍋🍋🍊
 
 # INGREDIENTS
 
