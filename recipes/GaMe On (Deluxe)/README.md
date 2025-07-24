@@ -57,9 +57,10 @@ The honey melon I also tried this with had a harder shell, possibly was less rip
 The yield was around 66%, about half the melon for 500g pulp. I had to strain it after blending, since there were too many fibrous pieces in there.
 When removing the skin, go by knife resistance to know how much to cut off, and taste-test a piece that you think is soft enough.
 
-> <img width=440 alt="Served with Melon Balls Infused in Brandy + Cream" src="Honey-Melon_2025-07-24-4.jpg" class="zoomable" />
+> <img width=331 alt="Served with Melon Balls Infused in Brandy + Cream" src="Honey-Melon_2025-07-24-4.jpg" class="zoomable" />
+> <img width=331 alt="Served with Olive Oil and tajin" src="Honey-Melon_2025-07-24-5.jpg" class="zoomable" />
 >
-> *Served with melon balls infused in brandy and cream.*
+> *Served with melon balls infused in brandy and cream, and an olive oil drizzle plus tajin.*
 
 # INGREDIENTS
 
