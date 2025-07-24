@@ -23,6 +23,9 @@ tags:
 
 Rum-raisin pecan chocolate ice cream, using both cocoa powder and dark chocolate, and a coffee note.
 
+> <img width=144 alt="Bloomed Cocoa" src="Dark-Temptation_2025-07-24_1.jpg" class="zoomable" />
+> <img width=188 alt="Soaked Mix-ins" src="Dark-Temptation_2025-07-24_2.jpg" class="zoomable" />
+
 Spin on “Sorbet”, scrape down, and re-mix.
 
 > <img width=360 alt="Spun Ice Cream" src="" class="zoomable" />
@@ -56,7 +59,7 @@ Rating: 😋🍫 (untested)
 **Fill to MAX**
 
   - _62ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
-  - _≈4 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
+  - _≈10 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
 
 **Mix-ins**
 
@@ -67,9 +70,10 @@ Rating: 😋🍫 (untested)
 # DIRECTIONS
 
  1. Soak 15g raisins overnight in 50g rum, in a closed container, fully covered.
- 1. Mix the boiling water with the cocoa powder to bloom it, dissolve the coffee and protein powder.
- 1. Melt the chocolate pieces into the hot paste, then let it cool down.
- 1. Add "wet" ingredients and the chocolate paste to empty Creami tub.
+ 1. In a bowl, mix the cocoa powder with the coffee and protein powder.
+ 1. Pour the boiling water over the cocoa to bloom it, and whisk to combine to a smooth paste.
+ 1. Break the chocolate into pieces and melt them into the hot paste, then let it cool down a bit.
+ 1. Add "wet" ingredients and the chocolate paste to empty Creami tub (use a silicone spatula).
  1. Weigh and mix dry ingredients, easiest by adding to a jar with a secure lid and shaking vigorously.
  1. Pour into the tub and *QUICKLY* use an immersion blender on full speed to homogenize everything.
  1. Let blender run until thickeners are properly hydrated, up to 1-2 min. Or blend again after waiting that time.
