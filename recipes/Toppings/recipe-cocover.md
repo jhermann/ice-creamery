@@ -1,6 +1,6 @@
 ## Cocover
 
-Topping to cover your scoops in coconut flavor.
+*/koʊˈkʌvɚ/* – Topping to cover your scoops in coconut flavor.
 
 Combine the dry ingredients in a small bowl, and blend into the wet ones.
 Use flavor drops to dial in sweetness.
