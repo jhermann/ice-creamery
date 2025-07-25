@@ -37,6 +37,7 @@ Use a refreezable vanilla base like my
  1. Refrigerate the rest of the fruit sauce and use as a topping.
 
 **NUTRITIONAL & OTHER INFO**
+
 - **Nutritional values per 100g/ml:** 100g; 71.9 kcal; fat 0.2g; carbs 19.4g; sugar 12.5g; protein 0.6g; salt 0.2g
 - **Nutritional values total:** 252g; 180.9 kcal; fat 0.4g; carbs 48.8g; sugar 31.5g; protein 1.4g; salt 0.5g
 - **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 43.34
