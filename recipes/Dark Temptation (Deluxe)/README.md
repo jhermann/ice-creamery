@@ -33,9 +33,11 @@ Spun on “FroYo”, the result was soft, ice-free and creamy. Folded in the mix
 
 Rating: 😋🍫🍫🍫🤯 Chocolate explosion.
 
-> <img width=480 alt="Served" src="Dark-Temptation_2025-07-25_3.jpg" class="zoomable" />
+> <img width=331 alt="Served" src="Dark-Temptation_2025-07-25_5.jpg" class="zoomable" />
+> <img width=331 alt="Served" src="Dark-Temptation_2025-07-25_3.jpg" class="zoomable" />
 >
-> *Served with a coconut sauce for contrast, and melon balls because I had them and they make everything healthy. 😇*
+> *Left:* Crowned with a molasses drizzle and mini chocolate cookies.<br />
+> *Right:* Served with a coconut sauce for contrast, and melon balls because I had them and they make everything healthy. 😇
 
 # INGREDIENTS
 
