@@ -26,11 +26,12 @@ Rum-raisin pecan chocolate ice cream, using both cocoa powder and dark chocolate
 > <img width=144 alt="Bloomed Cocoa" src="Dark-Temptation_2025-07-24_1.jpg" class="zoomable" />
 > <img width=188 alt="Soaked Mix-ins" src="Dark-Temptation_2025-07-24_2.jpg" class="zoomable" />
 
-Spin on “Sorbet”, scrape down, and re-mix.
+Spun on “FroYo”, the result was soft, ice-free and creamy. Folded in the mix-ins manually with a chopstick, and returned the tub to the freezer for firming up.
 
-> <img width=360 alt="Spun Ice Cream" src="" class="zoomable" />
+> <img width=331 alt="Spun on FroYo" src="Dark-Temptation_2025-07-25_1.jpg" class="zoomable" />
+> <img width=331 alt="Manually Folded in Mix-ins" src="Dark-Temptation_2025-07-25_2.jpg" class="zoomable" />
 
-Rating: 😋🍫 (untested)
+Rating: 😋🍫🍫🍫🤯 Chocolate explosion.
 
 # INGREDIENTS
 
