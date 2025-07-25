@@ -1,4 +1,5 @@
 ## Tropical Sun (Mix-in + Topping)
+<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="logo-tropical-sun.webp" />
 
 Fruit-infused Creami that combines vanilla ice cream with a swirl and topping of tropical fruit sorbet.
 
