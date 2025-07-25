@@ -13,7 +13,7 @@ Use a refreezable vanilla base like my
 
   - _140g_ Pineapple in juice [REWE] • without juice; can = 227g
   - _80g_ Mango
-  - _10g_ [Brandy or Vodka 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup>
+  - _10g_ [Jamaica Rum 43 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup>
   - _5ml_ Lemon juice
 
 *Dry*
@@ -38,7 +38,7 @@ Use a refreezable vanilla base like my
 
 **NUTRITIONAL & OTHER INFO**
 
-- **Nutritional values per 100g/ml:** 100g; 71.9 kcal; fat 0.2g; carbs 19.4g; sugar 12.5g; protein 0.6g; salt 0.2g
-- **Nutritional values total:** 252g; 180.9 kcal; fat 0.4g; carbs 48.8g; sugar 31.5g; protein 1.4g; salt 0.5g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 43.34
-- **Net carbs:** 33.8 • g
+- **Nutritional values per 100g/ml:** 100g; 72.5 kcal; fat 0.2g; carbs 19.3g; sugar 12.5g; protein 0.5g; salt 0.2g
+- **Nutritional values total:** 251g; 182.0 kcal; fat 0.4g; carbs 48.4g; sugar 31.5g; protein 1.4g; salt 0.5g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 44.31
+- **Net carbs:** 33.4 • g

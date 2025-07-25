@@ -1,10 +1,10 @@
 Tropical Sun (Mix-in + Topping);;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 ;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;;
-Nutritional values per 100g/ml;100;g;;71.7;0.2;19.3;12.5;0.5;0.2;;;;;
-Nutritional values total;251;g;;180.0;0.4;48.4;31.5;1.4;0.5;;;;;
+Nutritional values per 100g/ml;100;g;;72.5;0.2;19.3;12.5;0.5;0.2;;;;;
+Nutritional values total;251;g;;182.0;0.4;48.4;31.5;1.4;0.5;;;;;
 ;;;;;;;;;;;;;;
-FPDF / PAC (target 20..30);43.42;;;;;;;;;;;;;
+FPDF / PAC (target 20..30);44.31;;;;;;;;;;;;;
 ℹ️ Net carbs;33.4;g;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 "Fruit-infused Creami that combines vanilla ice cream with a swirl and topping of tropical fruit sorbet.
@@ -27,7 +27,7 @@ Use a refreezable vanilla base like my
 Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment;0Carb[%];Counts?
 Pineapple in juice [REWE];140.00;g;1;69.00;;16.00;15.00;0.60;0.00;0.15;;"without juice; can = 227g";;1
 Mango;80.00;g;1;62.00;0.50;13.00;13.00;0.60;0.00;0.13;;;;1
-Brandy or Vodka 40 vol%;10.00;g;1;280.00;;;;;;2.96;;;;1
+Jamaica Rum 43 vol%;10.00;g;1;300.00;;;;;;3.18;;;;1
 Lemon juice;5.00;ml;1;25.00;0.10;3.36;1.65;0.30;0.01;0.02;;;;1
 Erythritol (E968);15.00;g;2;24.00;0.00;100.00;0.00;0.00;0.00;2.80;;POD = 75%;100.00;1
 Guar gum (E412);0.50;g;2;180.00;0.60;84.00;0.00;5.50;0.30;;;;;1
