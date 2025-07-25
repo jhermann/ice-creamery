@@ -7,6 +7,8 @@ Flavored with mango, pineapple, peach, and passion fruit, this refreshing Creami
 Use a refreezable vanilla base like my
 [Vanilla Protein](https://jhermann.github.io/ice-creamery/V/Vanilla%20Protein%20%28Deluxe%29/) recipe.
 
+> 💡 See also [Folding in Swirls](https://jhermann.github.io/ice-creamery/info/tips%2Btricks/#folding-in-swirls).
+
 **INGREDIENTS**
 
 *Wet*
