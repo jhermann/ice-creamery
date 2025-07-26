@@ -3,8 +3,10 @@
 
 */koʊˈkʌvɚ/* – Topping to cover your scoops in coconut flavor.
 
-Combine the dry ingredients in a small bowl, and blend into the wet ones.
+Combine the dry ingredients in a small bowl, and whisk into the wet ones.
 Let the flakes hydrate for a few hours in the fridge.
+
+Then spoon the sauce over ½ of your scoop as shown in the picture.
 
 *Nutritional values total:* 151g; 224.1 kcal; fat 11.2g; carbs 14.0g; sugar 7.4g; protein 4.8g; salt 0.1g
 
