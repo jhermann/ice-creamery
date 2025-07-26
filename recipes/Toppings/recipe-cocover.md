@@ -1,4 +1,5 @@
 ## Cocover
+<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="logo-cocover.png" />
 
 */koʊˈkʌvɚ/* – Topping to cover your scoops in coconut flavor.
 
