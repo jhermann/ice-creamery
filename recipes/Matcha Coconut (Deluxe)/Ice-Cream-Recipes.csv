@@ -1,39 +1,103 @@
-Matcha Coconut (Deluxe);;;;;;;;;;;;;
-;;;;;;;;;;;;;
-;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;
-Nutritional values per 100g/ml;100;g;;85.0;4.2;11.1;0.8;3.3;0.2;;;;
-Nutritional values per ½ Deluxe Tub;360;g;;305.9;15.1;40.0;2.9;12.0;0.6;;;;
-Nutritional values total;720;g;;611.8;30.2;80.1;5.7;24.0;1.3;;;;
-;;;;;;;;;;;;;
-FPDF / PAC (target 20..30);28.96;;;;;;;;;;;;
-"Protein / Energy Ratio (ok=12%; hi=20%)";15.68%;;;;;;Low-Sugar;;;;;;
-ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);16.0;g;;2.2%;;;;;;;;;
-ℹ️ Net carbs;21.9;g;;*∝ 5 servings@144g:* 4.4g;;;*∝ 3 servings@240g:* 7.3g;;;;;;
-"Process on SORBET and MIX-IN or RE-SPIN (choose depending on consistency you get after processing, and eventually want after 2nd spin).
+Matcha Coconut (Deluxe);;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;;
+Nutritional values per 100g/ml;100;g;;99.6;4.2;13.3;2.6;6.2;0.1;;;;;
+Nutritional values per ½ Deluxe Tub;360;g;;358.4;15.1;47.7;9.3;22.3;0.5;;;;;
+Nutritional values total;720;g;;716.8;30.2;95.4;18.6;44.6;1.1;;;;;
+;;;;;;;;;;;;;;
+FPDF / PAC (target 20..30);31.28;;;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";24.88%;;;;;;Low-Sugar;Hi-Protein;;;;;;
+ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);61.4;g;;8.5%;;;;;;;;;;
+ℹ️ Net carbs;35.5;g;;*∝ 5 servings@144g:* 7.1g;;;*∝ 3 servings@240g:* 11.8g;;;*energy ratio (low <20%):* 19.8%;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+"Process on SORBET and MIX-IN or RESPIN (choose depending on consistency you get after processing, and eventually want after 2nd spin).
 
-Rating: 😋🥥🍵 (untested)";;;;;;;;;;;;;
-;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-"1. Mix the matcha with 1tbsp *cold* water to get a paste.
- 1. Add *hot* water (75–80°C) and whisk until frothy.
- 1. Add ""wet"" ingredients and the tea to empty Creami tub.";;;;;;;;;;;;;
-;;;;;;;;;;;;;
-The [brand names] used are in brackets.;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment;0Carb[%]
-Water (hot);100.00;ml;0;;;;;;;;;;
-Matcha green tea powder (organic) [Mandoi];6.00;g;0;383.00;3.90;65.40;;29.30;0.01;;;"1tbsp = 6g; 1tsp = 2g";
-Soy milk 1.6% (sugar-free) [Berief];250.00;ml;1;30.00;1.60;0.90;0.00;3.00;0.08;;;;
-Coconut milk 22% [REWE Bio];100.00;ml;1;222.00;22.00;4.00;4.00;2.00;0.04;0.04;;;
-Cottage Cheese 4% [REWE Bio];100.00;g;1;91.00;4.00;1.00;1.00;12.70;0.69;0.01;16.00;;
-Glycerin (E422, VG) [hd-line];20.00;g;1;400.00;;99.00;;;;3.70;;"POD = 60%; GI = 5; Density = 1.26 g/ml";50.00
-Brandy or Vodka 40 vol%;10.00;g;1;280.00;;;;;;2.96;;;
-;;;;;;;;;;;;;
-Xylitol (E967);30.00;g;2;238.00;;100.00;;;;2.20;;"POD = 100%; GI = 7";100.00
-ICSv2 [Erythritol / Inulin / CMC / Guar / XG / Salt];20.00;g;2;107.2;0.0;95.5;3.7;0.1;1.7;1.32;;http://bit.ly/4frc4Vj;90.80
-Whey protein Vanilla [MaxiNutrition];;g;2;392.00;5.80;6.20;5.30;78.00;0.57;0.05;89.20;;
-Skim milk powder 1:10 (SMP) [Vita2You];;g;2;358.00;0.97;50.50;50.50;35.00;1.00;0.51;94.03;;
-;;;;;;;;;;;;;
-Water to MAX line;84.00;ml;3;;;;;;;;;;
-Flavor drops Vanilla (sucralose) [IronMaxx];5–8;drops;3;;;;;;;;;to taste;
+Rating: 😋🥥🍵 (untested)";;;;;;;;;;;;;;
+"1. Pour *hot* water (80°C) into empty tub.
+ 1. Add the matcha and blend until frothy.
+ 1. Add ""wet"" ingredients to the tea.";;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+The [brand names] used are in brackets.;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment;0Carb[%];Counts?
+Water (hot, 80°C);100.00;ml;0;;;;;;;;;;;1
+Matcha green tea powder (organic) [Mandoi];8.00;g;0;383.00;3.90;65.40;;29.30;0.01;;;"1tbsp = 6g; 1tsp = 2g";;1
+Soy milk 1.6% (sugar-free) [Berief];300.00;ml;1;30.00;1.60;0.90;0.00;3.00;0.08;;4.00;;;1
+Coconut milk 22% [REWE Bio];100.00;ml;1;222.00;22.00;4.00;4.00;2.00;0.04;0.04;;;;1
+Cottage Cheese 4% [REWE Bio];;g;1;91.00;4.00;1.00;1.00;12.70;0.69;0.01;16.00;;;1
+Glycerin (E422, VG) [hd-line];15.00;g;1;400.00;;99.00;;;;3.70;;"POD = 60%; GI = 5; Density = 1.26 g/ml";50.00;1
+Brandy or Vodka 40 vol%;10.00;g;1;280.00;;;;;;2.96;;;;1
+;;;;;;;;;;;;;;
+SweEX (Erythritol + Xylitol 3:2);45.00;g;2;109.60;;100.00;;;;2.56;;"POD ≈ 90%; GI < 7";100.00;1
+Salty Stability [Inulin / GMS / CMC / Guar / XG / Salt];10.00;g;2;267.5;3.6;88.4;5.9;0.3;3.5;0.06;;unsweetened “ICSv2”;73.80;1
+Whey + Casein protein (grass-fed) [Vilgain];25.00;g;2;384.00;4.60;5.70;5.60;80.00;0.50;0.06;90.40;with stevia;;1
+Skim milk powder 1:10 (SMP) [Vita2You];25.00;g;2;358.00;0.97;50.50;50.50;35.00;1.00;0.51;94.03;;;1
+;;;;;;;;;;;;;;
+Soy milk 1.6% (sugar-free) [Berief];82.00;ml;3;30.00;1.60;0.90;0.00;3.00;0.08;;4.00;;;1
+Flavor drops Vanilla (sucralose) [IronMaxx];≈6;drops;3;;;;;;;;;to taste;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;

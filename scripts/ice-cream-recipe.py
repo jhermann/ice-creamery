@@ -130,7 +130,7 @@ AUTO_LINK_STOP_WORDS = {
     'Flavor drops', 'Flavor Powder', 'Ice Cream', 'Irish Cream',
     'Low fat milk', 'Milk 3.5%',
     'Peanut butter', 'Philadelphia Milka',
-    'Soy sauce', 'to MAX line',
+    'Soy sauce', 'tea powder', 'to MAX line',
 }
 LOGO_IMG = '<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="%s" />'
 
