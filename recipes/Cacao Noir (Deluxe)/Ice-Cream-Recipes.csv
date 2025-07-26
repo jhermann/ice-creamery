@@ -1,14 +1,14 @@
 Cacao Noir (Deluxe);;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 ;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;;
-Nutritional values per 100g/ml;100;g;;104.3;4.6;12.5;1.4;4.9;0.5;;;;;
-Nutritional values per ½ Deluxe Tub;360;g;;375.5;16.7;44.9;4.9;17.7;1.7;;;;;
-Nutritional values total;720;g;;750.9;33.3;89.8;9.7;35.4;3.3;;;;;
+Nutritional values per 100g/ml;100;g;;111.6;4.6;13.9;2.8;5.8;0.5;;;;;
+Nutritional values per ½ Deluxe Tub;360;g;;401.7;16.6;49.9;9.9;20.9;1.8;;;;;
+Nutritional values total;720;g;;803.4;33.3;99.8;19.8;41.9;3.5;;;;;
 ;;;;;;;;;;;;;;
-FPDF / PAC (target 20..30);30.96;;;;;;;;;;;;;
-"Protein / Energy Ratio (ok=12%; hi=20%)";18.84%;;;;;;Low-Sugar;;;;;;;
-ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);31.2;g;;4.3%;;;;;;;;;;
-ℹ️ Net carbs;28.8;g;;*∝ 5 servings@144g:* 5.8g;;;*∝ 3 servings@240g:* 9.6g;;;*energy ratio (low <20%):* 15.3%;;;;
+FPDF / PAC (target 20..30);30.46;;;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";20.84%;;;;;;Low-Sugar;Hi-Protein;;;;;;
+ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);49.3;g;;6.8%;;;;;;;;;;
+ℹ️ Net carbs;38.7;g;;*∝ 5 servings@144g:* 7.7g;;;*∝ 3 servings@240g:* 12.9g;;;*energy ratio (low <20%):* 19.3%;;;;
 ;;;;;;;;;;;;;;
 "Chocolate ice cream using both cocoa powder and dark chocolate, and a strong coffee note.
 
@@ -18,9 +18,10 @@ Rating: 😋🍫 (untested)";;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
-"1. Mix the boiling water with the cocoa powder to bloom it, dissolve the coffee and protein powder.
- 1. Melt the chocolate pieces into the hot paste, then let it cool down.
- 1. Add ""wet"" ingredients and the bloomed cocoa to empty Creami tub.";;;;;;;;;;;;;;
+"1. In a bowl, mix the cocoa powder with the coffee and protein powder.
+ 1. Pour the boiling water over the cocoa to bloom it, and whisk to combine to a smooth paste.
+ 1. Break the chocolate into pieces and melt them into the hot paste, then let it cool down a bit.
+ 1. Add ""wet"" ingredients and the chocolate paste to empty Creami tub (use a silicone spatula).";;;;;;;;;;;;;;
 The [brand names] used are in brackets.;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment;0Carb[%];Counts?
@@ -30,12 +31,13 @@ Cocoa Powder Organic 11% [Sevenhills];50.00;g;0;367.00;11.00;26.80;0.90;28.00;0.
 Dark chocolate 70% (intensive) [Lindt];;g;0;566.00;41.00;35.00;30.00;9.50;0.02;-0.07;;Portion = 20g;;1
 Dark chocolate 85% [Moser-Roth/Aldi];50.00;g;0;604.00;50.00;20.00;14.00;11.00;0.24;-0.31;;Portion = 25g;;1
 Dark chocolate 70% [Moser-Roth/Aldi];50.00;g;0;578.00;42.00;34.00;28.00;9.50;0.02;-0.10;;Portion = 25g;;0
-Instant Coffee [Mount Hagen];3.00;g;0;0.00;;;;;;;;1.5g per 125ml;;1
+Instant Coffee [Mount Hagen];5.00;g;0;0.00;;;;;;;;1.5g per 125ml;;1
 Whey + Casein protein (grass-fed) [Vilgain];20.00;g;0;384.00;4.60;5.70;5.60;80.00;0.50;0.06;90.40;with stevia;;1
-Soy milk 1.6% (sugar-free) [Berief];200.00;ml;1;30.00;1.60;0.90;0.00;3.00;0.08;;4.00;;;1
+Skim milk powder 1:10 (SMP) [Vita2You];20.00;g;0;358.00;0.97;50.50;50.50;35.00;1.00;0.51;94.03;;;1
+Soy milk 1.6% (sugar-free) [Berief];250.00;ml;1;30.00;1.60;0.90;0.00;3.00;0.08;;4.00;;;1
 Strong Coffee or Espresso;;ml;1;;;;;;;;;;;1
 Glycerin (E422, VG) [hd-line];20.00;g;1;400.00;;99.00;;;;3.70;;"POD = 60%; GI = 5; Density = 1.26 g/ml";50.00;1
-Brandy or Vodka 40 vol%;20.00;g;1;280.00;;;;;;2.96;;;;1
+Brandy or Vodka 40 vol%;15.00;g;1;280.00;;;;;;2.96;;;;1
 Coffee Liqueur 25 vol% [Caffè Borghetti];;ml;1;240.00;0.00;23.00;23.00;0.00;;1.69;;1 bottle = 700ml;;1
 Soy sauce;10.00;ml;1;75.00;0.00;7.40;6.70;7.20;17.10;0.07;;½ tbsp;;1
 Syrup Caramel (low-sugar) [Sukrin];;ml;1;149.00;0.00;21.00;1.80;0.00;0.07;;;14% sorbitol, erythritol, stevia;10.00;1
@@ -46,7 +48,7 @@ Trehalose [SaporePuro];20.00;g;2;355.00;0.00;89.00;89.00;0.00;0.03;1.00;;"POD = 
 Dextrose;30.00;g;2;350.00;;100.00;100.00;;;1.90;;POD 70%;;0
 Cinnamon (Ceylon);1.00;pinch;2;;;;;;;;;;;
 ;;;;;;;;;;;;;;
-Soy milk 1.6% (sugar-free) [Berief];127.00;ml;3;30.00;1.60;0.90;0.00;3.00;0.08;;4.00;;;1
+Soy milk 1.6% (sugar-free) [Berief];60.00;ml;3;30.00;1.60;0.90;0.00;3.00;0.08;;4.00;;;1
 Flavor drops Vanilla (sucralose) [IronMaxx];≈4;drops;3;;;;;;;;;to taste;;
 ;;;;;;;;;;;;;;
 Walnuts (organic) [Biojoy];8.00;g;5;675.00;63.00;11.00;6.90;14.00;0.01;0.07;;add as a topping [54kcal, 0.6g sugar];;
