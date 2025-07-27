@@ -22,6 +22,13 @@ tags:
 # Matcha Coconut (Deluxe)
 <img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="logo-matcha-coconut.png" />
 
+🍵🥥 This matcha ice cream blends green tea's earthy flavor and subtle bitterness
+with the light sweetness of coconut milk and the creamy texture of soy milk.
+It's gently flavored and smooth without being heavy.
+
+> <img width=160 alt="Some Ingredients" src="Matcha_2025-07-27_1.jpg" class="zoomable" />
+> <img width=221 alt="Blending the Base" src="Matcha_2025-07-27_2.jpg" class="zoomable" />
+
 Process on SORBET and MIX-IN or RESPIN (choose depending on consistency you get after processing, and eventually want after 2nd spin).
 
 > <img width=360 alt="Spun Ice Cream" src="" class="zoomable" />
