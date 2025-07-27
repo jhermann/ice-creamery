@@ -39,6 +39,9 @@ Lists just like this one.
 I use my spreadsheet, so this is a "what I found on the web" list, without any preferences attached.
 
 - [Dream Scoops](https://www.dreamscoops.com/ice-cream-science/ice-cream-calculator/) — Meant to be a relatively simple tool for home cooks.
+
+  - [Ice Cream Calculator • Part 1](https://www.youtube.com/watch?v=yx9QH_BMW2Q) (from "Polar Ice Creamery")
+
 - [Calculate Ice Cream](https://calculateicecream.com/) — Online recipe creation software.
 - [Scoopulator](https://www.scoopulator.app/calc) — A web-based and approachable ice cream calculator & ingredient database.
 - [IceCreamCalc](https://icecreamcalc.com/) – Ice cream recipe and balancing software.
