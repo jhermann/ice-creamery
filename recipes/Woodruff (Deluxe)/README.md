@@ -20,7 +20,7 @@ tags:
 <img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="logo-woodruff.webp" />
 
 Woodruff flavor (or “Waldmeister”) is a rather German thing, used in the green version of *Berliner Kindl*,
-In May punch (*Maibowle*), or as a flavor of *Ahoi Brause*.
+in May punch (*Maibowle*), or as a flavor of *Ahoi Brause*.
 
 This works using instant drink powder sticks for flavoring.
 With this recipe, you can use any brand and flavor of instant drink powder you like though (e.g. IQMIX in the US),
