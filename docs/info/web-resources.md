@@ -56,3 +56,4 @@ I use my spreadsheet, so this is a "what I found on the web" list, without any p
 - [USDA FoodData Central](https://fdc.nal.usda.gov/) — As long as you-know-who does not destroy it.
 - [Eat This Much — Browse Foods](https://www.eatthismuch.com/food/browse)
 - [FDDB](https://fddb.info/db/en/index.html) — Calorie table, food diary, food database.
+- [alko.fi](https://www.alko.fi/en/food-and-drinks) — Web shop that allows to search and browse for alcoholic products, and provides ABV, energy, and sugar content values (the latter are often hard to find).
