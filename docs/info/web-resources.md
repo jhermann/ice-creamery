@@ -40,7 +40,7 @@ I use my spreadsheet, so this is a "what I found on the web" list, without any p
 
 - [Dream Scoops](https://www.dreamscoops.com/ice-cream-science/ice-cream-calculator/) — Meant to be a relatively simple tool for home cooks.
 
-  - [Ice Cream Calculator • Part 1](https://www.youtube.com/watch?v=yx9QH_BMW2Q) (from "Polar Ice Creamery")
+    - [Ice Cream Calculator • Part 1](https://www.youtube.com/watch?v=yx9QH_BMW2Q) (from "Polar Ice Creamery")
 
 - [Calculate Ice Cream](https://calculateicecream.com/) — Online recipe creation software.
 - [Scoopulator](https://www.scoopulator.app/calc) — A web-based and approachable ice cream calculator & ingredient database.
@@ -54,7 +54,7 @@ I use my spreadsheet, so this is a "what I found on the web" list, without any p
 - [Frida](https://frida.fooddata.dk/?lang=en) — Food data published by DTU Food (National Food Institute, Technical University of Denmark). You can download Frida as a spreadsheet for free.
 - [Open Food Facts](https://world.openfoodfacts.org/discover) — The free food products database (also has an app).
 
-  - [de.openfoodfacts.org](https://de.openfoodfacts.org/) — The German version.
+    - [de.openfoodfacts.org](https://de.openfoodfacts.org/) — The German version.
 
 - [USDA FoodData Central](https://fdc.nal.usda.gov/) — As long as you-know-who does not destroy it.
 - [Eat This Much — Browse Foods](https://www.eatthismuch.com/food/browse)
