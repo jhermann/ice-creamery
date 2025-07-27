@@ -79,6 +79,7 @@ When removing the skin, go by knife resistance to know how much to cut off, and 
   - _40g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • POD ≈ 90%; GI < 7
   - _10g_ [Salty Stability \[Inulin / GMS / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup> • unsweetened “ICSv2”
   - _20g_ [Soy protein isolate (nature) \[Powerstar\]](/ice-creamery/info/ingredients/#soy-protein-isolate){target="_blank"}<sup>↗</sup> • 1kg bag, unsweetened, unflavored
+  - _1g_ Matcha green tea powder (organic) [Mandoi] • optional, for color; ½ tsp = 1g
 
 **Fill to MAX**
 
@@ -101,11 +102,11 @@ When removing the skin, go by knife resistance to know how much to cut off, and 
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
 
 # NUTRITIONAL & OTHER INFO
-- **Nutritional values per 100g/ml:** 100g; 55.6 kcal; fat 0.4g; carbs 13.0g; sugar 4.0g; protein 3.3g; salt 0.2g
-- **Nutritional values per ½ Deluxe Tub:** 360g; 200.0 kcal; fat 1.5g; carbs 46.6g; sugar 14.4g; protein 12.0g; salt 0.7g
-- **Nutritional values total:** 720g; 400.0 kcal; fat 2.9g; carbs 93.3g; sugar 28.8g; protein 24.0g; salt 1.3g
+- **Nutritional values per 100g/ml:** 100g; 56.0 kcal; fat 0.4g; carbs 13.0g; sugar 4.0g; protein 3.4g; salt 0.2g
+- **Nutritional values per ½ Deluxe Tub:** 360g; 201.8 kcal; fat 1.5g; carbs 47.0g; sugar 14.4g; protein 12.1g; salt 0.7g
+- **Nutritional values total:** 720g; 403.5 kcal; fat 2.9g; carbs 93.9g; sugar 28.8g; protein 24.2g; salt 1.3g
 - **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 31.13
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 23.97% • LOW-FAT • Low-Sugar • Hi-Protein
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 24.02% • LOW-FAT • Low-Sugar • Hi-Protein
 - **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 23.2g • 3.2%
-- **Net carbs:** 45.9g • *∝ 5 servings@144g:* 9.2g • *∝ 3 servings@240g:* 15.3g • *energy ratio (low <20%):* 45.9%
+- **Net carbs:** 46.5g • *∝ 5 servings@144g:* 9.3g • *∝ 3 servings@240g:* 15.5g • *energy ratio (low <20%):* 46.1%
 - **10g 'Salty Stability' is:** 7.3g Inulin • 1.2g Glycerol Monostearate (GMS / E471) • 0.6g Tylose powder (E466, Tylo, CMC) • 0.4g Guar gum (E412) • 0.33g Salt • 0.13g Xanthan gum (E415, XG).
