@@ -7,7 +7,6 @@ excluded_tags:
 - Vanilla
 tags:
 - Dairy
-- Draft
 - Emulsifier
 - Erythritol
 - Hi-Protein
@@ -29,11 +28,13 @@ It's gently flavored and smooth without being heavy.
 > <img width=160 alt="Some Ingredients" src="Matcha_2025-07-27_1.jpg" class="zoomable" />
 > <img width=221 alt="Blending the Base" src="Matcha_2025-07-27_2.jpg" class="zoomable" />
 
-Process on SORBET and MIX-IN or RESPIN (choose depending on consistency you get after processing, and eventually want after 2nd spin).
+Process on SORBET and MIX-IN or RESPIN (choose depending on consistency you get after processing, and eventually want after the 2nd spin).
 
-> <img width=360 alt="Spun Ice Cream" src="" class="zoomable" />
-
-Rating: 😋🥥🍵 (untested)
+> <img width=240 alt="Sorbet" src="Matcha_2025-07-28_1.jpg" class="zoomable" />
+> <img width=240 alt="Mix-in" src="Matcha_2025-07-28_2.jpg" class="zoomable" />
+> <img width=240 alt="Scooped" src="Matcha_2025-07-28_3.jpg" class="zoomable" />
+> 
+> Rating: 😋🥥🥥🍵🍵
 
 # INGREDIENTS
 
