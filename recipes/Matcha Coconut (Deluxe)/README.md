@@ -29,11 +29,14 @@ It's gently flavored and smooth without being heavy.
 > <img width=221 alt="Blending the Base" src="Matcha_2025-07-27_2.jpg" class="zoomable" />
 
 Process on SORBET and MIX-IN or RESPIN (choose depending on consistency you get after processing, and eventually want after the 2nd spin).
+
 > <img width=220 alt="Sorbet" src="Matcha_2025-07-28_1.jpg" class="zoomable" />
 > <img width=220 alt="Mix-in" src="Matcha_2025-07-28_2.jpg" class="zoomable" />
 > <img width=220 alt="Scooped" src="Matcha_2025-07-28_3.jpg" class="zoomable" />
 > 
 > Rating: 😋🥥🥥🍵🍵
+
+> <img width=480 alt="Served with Cocover" src="Matcha_2025-07-28_4.jpg" class="zoomable" />
 
 # INGREDIENTS
 
