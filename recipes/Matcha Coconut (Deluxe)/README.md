@@ -29,10 +29,9 @@ It's gently flavored and smooth without being heavy.
 > <img width=221 alt="Blending the Base" src="Matcha_2025-07-27_2.jpg" class="zoomable" />
 
 Process on SORBET and MIX-IN or RESPIN (choose depending on consistency you get after processing, and eventually want after the 2nd spin).
-
-> <img width=240 alt="Sorbet" src="Matcha_2025-07-28_1.jpg" class="zoomable" />
-> <img width=240 alt="Mix-in" src="Matcha_2025-07-28_2.jpg" class="zoomable" />
-> <img width=240 alt="Scooped" src="Matcha_2025-07-28_3.jpg" class="zoomable" />
+> <img width=220 alt="Sorbet" src="Matcha_2025-07-28_1.jpg" class="zoomable" />
+> <img width=220 alt="Mix-in" src="Matcha_2025-07-28_2.jpg" class="zoomable" />
+> <img width=220 alt="Scooped" src="Matcha_2025-07-28_3.jpg" class="zoomable" />
 > 
 > Rating: 😋🥥🥥🍵🍵
 
@@ -50,11 +49,11 @@ Process on SORBET and MIX-IN or RESPIN (choose depending on consistency you get 
   - _300ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
   - _100ml_ [Coconut milk 22% \[REWE Bio\]](/ice-creamery/info/ingredients/#coconut-milk){target="_blank"}<sup>↗</sup>
   - _15g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • POD = 60%; GI = 5; Density = 1.26 g/ml
-  - _10g_ [Brandy or Vodka 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup>
+  - _15g_ [Brandy or Vodka 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup>
 
 **Dry**
 
-  - _45g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • POD ≈ 90%; GI < 7
+  - _40g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • POD ≈ 90%; GI < 7
   - _10g_ [Salty Stability \[Inulin / GMS / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup> • unsweetened “ICSv2”
   - _25g_ [Whey + Casein protein (grass-fed) \[Vilgain\]](/ice-creamery/info/ingredients/#whey-protein){target="_blank"}<sup>↗</sup> • with stevia
   - _25g_ [Skim milk powder 1:10 (SMP) \[Vita2You\]](/ice-creamery/info/ingredients/#skim-milk-powder-smp){target="_blank"}<sup>↗</sup>
@@ -62,7 +61,7 @@ Process on SORBET and MIX-IN or RESPIN (choose depending on consistency you get 
 **Fill to MAX**
 
   - _82ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
-  - _≈6 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
+  - _≈2 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
 
 # DIRECTIONS
 
@@ -77,11 +76,11 @@ Process on SORBET and MIX-IN or RESPIN (choose depending on consistency you get 
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
 
 # NUTRITIONAL & OTHER INFO
-- **Nutritional values per 100g/ml:** 100g; 99.6 kcal; fat 4.2g; carbs 13.3g; sugar 2.6g; protein 6.2g; salt 0.1g
-- **Nutritional values per ½ Deluxe Tub:** 360g; 358.4 kcal; fat 15.1g; carbs 47.7g; sugar 9.3g; protein 22.3g; salt 0.5g
-- **Nutritional values total:** 720g; 716.8 kcal; fat 30.2g; carbs 95.4g; sugar 18.6g; protein 44.6g; salt 1.1g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 31.28
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 24.88% • Low-Sugar • Hi-Protein
+- **Nutritional values per 100g/ml:** 100g; 100.7 kcal; fat 4.2g; carbs 12.6g; sugar 2.6g; protein 6.2g; salt 0.1g
+- **Nutritional values per ½ Deluxe Tub:** 360g; 362.7 kcal; fat 15.1g; carbs 45.2g; sugar 9.3g; protein 22.3g; salt 0.5g
+- **Nutritional values total:** 720g; 725.3 kcal; fat 30.2g; carbs 90.4g; sugar 18.6g; protein 44.6g; salt 1.1g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 31.56
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 24.59% • Low-Sugar • Hi-Protein
 - **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 61.4g • 8.5%
-- **Net carbs:** 35.5g • *∝ 5 servings@144g:* 7.1g • *∝ 3 servings@240g:* 11.8g • *energy ratio (low <20%):* 19.8%
+- **Net carbs:** 35.5g • *∝ 5 servings@144g:* 7.1g • *∝ 3 servings@240g:* 11.8g • *energy ratio (low <20%):* 19.6%
 - **10g 'Salty Stability' is:** 7.3g Inulin • 1.2g Glycerol Monostearate (GMS / E471) • 0.6g Tylose powder (E466, Tylo, CMC) • 0.4g Guar gum (E412) • 0.33g Salt • 0.13g Xanthan gum (E415, XG).
