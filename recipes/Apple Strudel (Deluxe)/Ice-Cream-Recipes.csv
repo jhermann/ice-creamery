@@ -1,0 +1,41 @@
+Apple Strudel (Deluxe);;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;;
+Nutritional values per 100g/ml;100;g;;111.6;3.8;17.1;6.6;5.4;0.1;;;;;
+Nutritional values per ½ Deluxe Tub;360;g;;401.6;13.7;61.5;23.9;19.3;0.5;;;;;
+Nutritional values total;750;g;;836.7;28.4;128.1;49.8;40.2;1.1;;;;;
+;;;;;;;;;;;;;;
+FPDF / PAC (target 20..30);29.12;;;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";19.22%;;;;;;;;;;;;;
+ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);36.2;g;;4.8%;;;;;;;;;;
+ℹ️ Net carbs;78.2;g;;*∝ 5 servings@150g:* 15.6g;;;*∝ 3 servings@250g:* 26.1g;;;*energy ratio (low <20%):* 37.4%;;;;
+;;;;;;;;;;;;;;
+"Applesauce sherbet with cinnamon, almonds and raisins.
+
+Spun on Sorbet, followed by a scrape-down and a mix-in run for the almonds and raisins.
+
+Rating: 😋🍎🍏🍇🥐";;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+The [brand names] used are in brackets.;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment;0Carb[%];Counts?
+Apple Sauce (no added sugar) [Gut Bio/Aldi];350.00;ml;1;52.00;0.50;12.00;10.00;0.50;0.01;0.10;;1 jar = 355g;;1
+Soy milk 1.6% (sugar-free) [Berief];150.00;ml;1;30.00;1.60;0.90;0.00;3.00;0.08;;4.00;;;1
+Glycerin (E422, VG) [hd-line];15.00;g;1;400.00;;99.00;;;;3.70;;"Sweetness = 60%; GI = 5; Density = 1.26 g/ml";50.00;1
+Brandy or Vodka 40 vol%;10.00;g;1;280.00;;;;;;2.96;;;;1
+SweEX (Erythritol + Xylitol 3:2);35.00;g;2;109.60;;100.00;;;;2.56;;"POD ≈ 90%; GI < 7";100.00;1
+Salty Stability [Inulin / GMS / CMC / Guar / XG / Salt];10.00;g;2;267.5;3.6;88.4;5.9;0.3;3.5;0.06;;unsweetened “ICSv2”;73.80;1
+Whey + Casein protein (grass-fed) [Vilgain];30.00;g;2;384.00;4.60;5.70;5.60;80.00;0.50;0.06;90.40;with stevia;;1
+Cinnamon (Ceylon);3.00;g;2;;;;;;;;;1tsp = 3g;;1
+;;;;;;;;;;;;;;
+Soy milk 1.6% (sugar-free) [Berief];77.00;ml;3;30.00;1.60;0.90;0.00;3.00;0.08;;4.00;;;1
+Flavor drops Vanilla (sucralose) [IronMaxx];≈3;drops;3;;;;;;;;;to taste;;
+Flavor drops Caramel (sucralose) [IronMaxx];≈3;drops;3;;;;;;;;;to taste;;
+;;;;;;;;;;;;;;
+Almond slivers [naturix24];20.00;g;4;589.00;54.00;5.00;4.00;22.00;;;;add as a mix-in [118kcal, 0.8g sugar];;1
+Raisins (chopped);15.00;g;4;298.00;0.60;68.00;68.00;2.50;0.05;;;add as a mix-in [45kcal, 10.2g sugar];;1
+Half a croissant, sliced;35.00;g;4;445.00;29.80;35.50;4.40;8.10;1.06;;;add as a mix-in [156kcal, 1.5g sugar];;1
+;;;;;;;;;;;;;;
