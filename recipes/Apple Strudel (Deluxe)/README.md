@@ -19,9 +19,11 @@ tags:
 # Apple Strudel (Deluxe)
 <img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="logo-apple-strudel.png" />
 
-Applesauce sherbet with cinnamon, almonds and raisins.
+Applesauce sherbet with cinnamon, almonds, raisins, and half a croissant to stand in for the strudel dough.
+70g of mix-ins are included in the nutritional info.
 
 Spun on Sorbet, followed by a scrape-down and a mix-in run for the almonds and raisins.
+
 > <img width=360 alt="Spun Ice Cream" src="" class="zoomable" />
 
 Rating: 😋🍎🍏🍇🥐
