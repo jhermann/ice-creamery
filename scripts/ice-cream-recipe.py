@@ -519,7 +519,7 @@ def main():
 
     # Add nutritional info
     lines.extend([
-        '', subtitle('Nutritional & Other Info', is_topping), '' if is_topping else None,
+        '', subtitle('Nutritional & Other Info', is_topping), '' if is_topping else None, '',
         '- ' + '\n- '.join(nutrition)])
 
     # Add default tags
