@@ -1,36 +1,39 @@
-Winter Apple (Deluxe);;;;;;;;;;;;
-;;;;;;;;;;;;
-;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;
-Nutritional values per 100g/ml;100;g;;69.1;1.2;14.4;6.4;2.9;0.2;;;
-Nutritional values per ½ Deluxe Tub;360;g;;248.8;4.2;51.7;23.1;10.3;0.7;;;
-Nutritional values total;720;g;;497.6;8.4;103.4;46.2;20.6;1.4;;;
-;;;;;;;;;;;;
-FPDF / PAC (target 20..30);26.75;;;;;;;;;;;
-"Protein / Energy Ratio (ok=12%; hi=20%)";16.58%;;;;LOW-FAT;;;;;;;
-Milk Solids Non-Fat (MSNF, 7-11%);32.0;g;;4.4%;;;;;;;;
-Applesauce sherbet with cinnamon, and stollen pieces as a mix-in.;;;;;;;;;;;;
-;;;;;;;;;;;;
-Spun on Sorbet with a re-spin, and coarsely cubed stollen as a mix-in. The mix-in puts this squarely into delish territory.;;;;;;;;;;;;
-;;;;;;;;;;;;
-Rating: 😋😋😋😋🎅;;;;;;;;;;;;
-;;;;;;;;;;;;
-30g Ice Cream Stabilizer (ICSv2) is;"14.3g erythritol, 1.43g Tylose powder (CMC, E466), 
-0.5g tara gum (E417), 0.15g xanthan (E415),
-14.3g inulin, 0.5g salt.";;;;;;;;;;;
-The [brand names] used are in brackets.;;;;;;;;;;;;
-;;;;;;;;;;;;
-Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment
-Apple Sauce (no added sugar) [Gut Bio];355.00;ml;1;52.00;0.50;12.00;10.00;0.50;0.01;0.10;;1 jar = 355g
-Skim Milk 1.5% [Weihenstephan];175.00;ml;1;47.00;1.50;4.90;4.90;3.50;0.11;0.05;9.16;
-Cottage Cheese 4% [REWE Bio];100.00;g;1;91.00;4.00;1.00;1.00;12.70;0.69;0.01;16.00;
-Glycerin (E422, VG) [hd-line];15.00;g;1;400.00;;99.00;;;;3.70;;"Sweetness = 60%; GI = 5; Density = 1.26 g/ml"
-Flavor drops Vanilla [IronMaxx];3.00;drops;1;;;;;;;;;
-Flavor drops Caramel [IronMaxx];3.00;drops;1;;;;;;;;;
-ICSv2 [Erythritol / CMC / Tara / XG / Inulin];30.00;g;2;107.3;0.0;54.7;3.7;0.1;1.7;1.32;;http://bit.ly/4frc4Vj
-Xylitol;20.00;g;2;238.00;;100.00;;;;2.20;;"Sweetness = 100%; GI = 7"
-Cinnamon (Ceylon);3.00;g;2;;;;;;;;;1tsp = 3g
-Water to MAX line;22.00;ml;3;;;;;;;;;
-;;;;;;;;;;;;
-Almond slivers;20.00;g;4;;;;;;;;;Mixin / Topping
-Raisins;10.00;g;4;;;;;;;;;Mixin / Topping
-Stollen, coarsely cubed;50.00;g;4;;;;;;;;;Mixin
+Winter Apple (Deluxe);;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;;
+Nutritional values per 100g/ml;100;g;;69.4;1.4;14.6;4.7;3.0;0.2;;;;;
+Nutritional values per ½ Deluxe Tub;360;g;;249.7;4.9;52.4;16.9;10.8;0.7;;;;;
+Nutritional values total;680;g;;471.7;9.3;99.0;31.9;20.4;1.4;;;;;
+;;;;;;;;;;;;;;
+FPDF / PAC (target 20..30);30.47;;;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";17.30%;;;;LOW-FAT;;Low-Sugar;;;;;;;
+ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);24.2;g;;3.6%;;;;;;;;;;
+ℹ️ Net carbs;48.4;g;;*∝ 5 servings@136g:* 9.7g;;;*∝ 3 servings@227g:* 16.1g;;;*energy ratio (low <20%):* 41%;;;;
+;;;;;;;;;;;;;;
+Applesauce sherbet with cinnamon, and stollen pieces as a mix-in.;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+"Spun on Sorbet with a re-spin, and coarsely cubed stollen as a mix-in. The mix-in puts this squarely into delish territory.
+
+Rating: 😋😋🍎🍏🎅";;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+The [brand names] used are in brackets.;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment;0Carb[%];Counts?
+Apple Sauce (no added sugar) [Gut Bio/Aldi];300.00;ml;1;52.00;0.50;12.00;10.00;0.50;0.01;0.10;;1 jar = 355g;;1
+Soy milk 1.6% (sugar-free) [Berief];150.00;ml;1;30.00;1.60;0.90;0.00;3.00;0.08;;4.00;;;1
+Cottage Cheese 4% [REWE Bio];100.00;g;1;91.00;4.00;1.00;1.00;12.70;0.69;0.01;16.00;;;1
+Glycerin (E422, VG) [hd-line];15.00;g;1;400.00;;99.00;;;;3.70;;"Sweetness = 60%; GI = 5; Density = 1.26 g/ml";50.00;1
+Brandy or Vodka 40 vol%;10.00;g;1;280.00;;;;;;2.96;;;;1
+SweEX (Erythritol + Xylitol 3:2);32.00;g;2;109.60;;100.00;;;;2.56;;"POD ≈ 90%; GI < 7";100.00;1
+Salty Stability [Inulin / GMS / CMC / Guar / XG / Salt];15.00;g;2;267.5;3.6;88.4;5.9;0.3;3.5;0.06;;unsweetened “ICSv2”;73.80;1
+Cinnamon (Ceylon);3.00;g;2;;;;;;;;;1tsp = 3g;;1
+;;;;;;;;;;;;;;
+Soy milk 1.6% (sugar-free) [Berief];55.00;ml;3;30.00;1.60;0.90;0.00;3.00;0.08;;4.00;;;1
+Flavor drops Vanilla (sucralose) [IronMaxx];≈3;drops;3;;;;;;;;;to taste;;
+Flavor drops Caramel (sucralose) [IronMaxx];≈3;drops;3;;;;;;;;;to taste;;
+;;;;;;;;;;;;;;
+Almond slivers [naturix24];20.00;g;4;589.00;54.00;5.00;4.00;22.00;;;;add as a topping or mix-in [118kcal, 0.8g sugar];;0
+Raisins (chopped);10.00;g;4;298.00;0.60;68.00;68.00;2.50;0.05;0.10;;add as a topping or mix-in [30kcal, 6.8g sugar];;
+Stollen, coarsely cubed [REWE];50.00;g;4;388.00;15.00;58.00;33.00;4.40;0.38;;;add as a mix-in [194kcal, 16.5g sugar];;0
+;;;;;;;;;;;;;;
