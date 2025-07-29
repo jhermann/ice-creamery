@@ -1,5 +1,7 @@
 ---
 description: Almond milk + cottage cheese base at ~50kcal / 100g
+excluded_steps:
+- ^$
 excluded_tags:
 - Allulose
 - Fruit
@@ -48,10 +50,10 @@ If you have access to it (North America), you can use 45g Allulose as sweetener,
 
 **Wet**
 
-  - _450ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
+  - _400ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
   - _100g_ [Cottage Cheese 4% \[REWE Bio\]](/ice-creamery/info/ingredients/#cottage-cheese){target="_blank"}<sup>↗</sup>
   - _15g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • Sweetness = 60%; GI = 5; Density = 1.26 g/ml
-  - _15g_ [Brandy or Vodka 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup>
+  - _10g_ [Brandy or Vodka 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup>
 
 **Dry**
 
@@ -62,7 +64,7 @@ If you have access to it (North America), you can use 45g Allulose as sweetener,
 
 **Fill to MAX**
 
-  - _65ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
+  - _80ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
   - _≈5 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
 
 **Mix-ins**
@@ -87,13 +89,14 @@ If you have access to it (North America), you can use 45g Allulose as sweetener,
  1. Process with MIX-IN after adding mix-ins evenly. For that, add partial amounts into a hole going down to the bottom, and fold the ice cream over, building pockets of mix-ins.
 
 # NUTRITIONAL & OTHER INFO
-- **Nutritional values per 100g/ml:** 100g; 68.1 kcal; fat 1.9g; carbs 11.1g; sugar 0.4g; protein 5.0g; salt 0.2g
-- **Nutritional values per ½ Deluxe Tub:** 360g; 245.3 kcal; fat 6.7g; carbs 40.0g; sugar 1.5g; protein 18.0g; salt 0.8g
-- **Nutritional values total:** 720g; 490.5 kcal; fat 13.4g; carbs 80.0g; sugar 3.1g; protein 36.0g; salt 1.7g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 31.58
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 29.35% • LOW-FAT • Low-Sugar • Hi-Protein
-- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 45.5g • 6.3%
-- **Net carbs:** 16.5g • *∝ 5 servings@144g:* 3.3g • *∝ 3 servings@240g:* 5.5g • *energy ratio (low <20%):* 13.4%
+
+- **Nutritional values per 100g/ml:** 100g; 68.5 kcal; fat 1.9g; carbs 11.7g; sugar 0.5g; protein 5.1g; salt 0.2g
+- **Nutritional values per ½ Deluxe Tub:** 360g; 246.7 kcal; fat 6.8g; carbs 42.2g; sugar 1.6g; protein 18.5g; salt 0.9g
+- **Nutritional values total:** 680g; 466.0 kcal; fat 12.8g; carbs 79.7g; sugar 3.1g; protein 34.9g; salt 1.7g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 31.24
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 29.99% • LOW-FAT • Low-Sugar • Hi-Protein
+- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 44.1g • 6.5%
+- **Net carbs:** 16.1g • *∝ 5 servings@136g:* 3.2g • *∝ 3 servings@227g:* 5.4g • *energy ratio (low <20%):* 13.8%
 - **Jun 4, 2025:** Added almond butter.
 - **Jul 14, 2025:** Using soy milk and unsweetened “ICSv2”
 - **15g 'Salty Stability' is:** 11.0g Inulin • 1.8g Glycerol Monostearate (GMS / E471) • 0.9g Tylose powder (E466, Tylo, CMC) • 0.6g Guar gum (E412) • 0.5g Salt • 0.2g Xanthan gum (E415, XG).

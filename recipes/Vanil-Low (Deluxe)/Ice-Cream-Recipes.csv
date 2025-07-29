@@ -1,14 +1,14 @@
 Vanil-Low (Deluxe);;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 ;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;;
-Nutritional values per 100g/ml;100;g;;68.1;1.9;11.1;0.4;5.0;0.2;;;;;
-Nutritional values per ½ Deluxe Tub;360;g;;245.3;6.7;40.0;1.5;18.0;0.8;;;;;
-Nutritional values total;720;g;;490.5;13.4;80.0;3.1;36.0;1.7;;;;;
+Nutritional values per 100g/ml;100;g;;68.5;1.9;11.7;0.5;5.1;0.2;;;;;
+Nutritional values per ½ Deluxe Tub;360;g;;246.7;6.8;42.2;1.6;18.5;0.9;;;;;
+Nutritional values total;680;g;;466.0;12.8;79.7;3.1;34.9;1.7;;;;;
 ;;;;;;;;;;;;;;
-FPDF / PAC (target 20..30);31.58;;;;;;;;;;;;;
-"Protein / Energy Ratio (ok=12%; hi=20%)";29.35%;;;;LOW-FAT;;Low-Sugar;Hi-Protein;;;;;;
-ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);45.5;g;;6.3%;;;;;;;;;;
-ℹ️ Net carbs;16.5;g;;*∝ 5 servings@144g:* 3.3g;;;*∝ 3 servings@240g:* 5.5g;;;*energy ratio (low <20%):* 13.4%;;;;
+FPDF / PAC (target 20..30);31.24;;;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";29.99%;;;;LOW-FAT;;Low-Sugar;Hi-Protein;;;;;;
+ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);44.1;g;;6.5%;;;;;;;;;;
+ℹ️ Net carbs;16.1;g;;*∝ 5 servings@136g:* 3.2g;;;*∝ 3 servings@227g:* 5.4g;;;*energy ratio (low <20%):* 13.8%;;;;
 "Vanilla ice cream based on soy milk and cottage cheese, with a very low net carbs to total energy ratio.
 
 Process on *Frozen Yogurt*, [hold it shortly under running water](https://jhermann.github.io/ice-creamery/info/tips%2Btricks/#handling-of-icy-sides-bottom) *after* that.
@@ -27,18 +27,18 @@ If you have access to it (North America), you can use 45g Allulose as sweetener,
 The [brand names] used are in brackets.;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment;0Carb[%];Counts?
-Soy milk 1.6% (sugar-free) [Berief];450.00;ml;1;30.00;1.60;0.90;0.00;3.00;0.08;;4.00;;;1
+Soy milk 1.6% (sugar-free) [Berief];400.00;ml;1;30.00;1.60;0.90;0.00;3.00;0.08;;4.00;;;1
 Cottage Cheese 4% [REWE Bio];100.00;g;1;91.00;4.00;1.00;1.00;12.70;0.69;0.01;16.00;;;1
 Cream Cheese 23% [Exquisa];;g;1;238.00;22.50;3.00;3.00;5.50;0.70;0.03;9.64;;;1
 Almond butter (creamy) [Seba Garden];;g;1;598.00;52.54;10.11;4.86;21.15;0.01;0.05;;;;1
 Glycerin (E422, VG) [hd-line];15.00;g;1;400.00;;99.00;;;;3.70;;"Sweetness = 60%; GI = 5; Density = 1.26 g/ml";50.00;1
-Brandy or Vodka 40 vol%;15.00;g;1;280.00;;;;;;2.96;;;;1
+Brandy or Vodka 40 vol%;10.00;g;1;280.00;;;;;;2.96;;;;1
 SweEX (Erythritol + Xylitol 3:2);45.00;g;2;109.60;;100.00;;;;2.56;;"POD ≈ 90%; GI < 7";100.00;1
 Salty Stability [Inulin / GMS / CMC / Guar / XG / Salt];15.00;g;2;267.5;3.6;88.4;5.9;0.3;3.5;0.06;;unsweetened “ICSv2”;73.80;1
 Vanilla Bean Powder [InterVanilla];5.00;g;2;288.00;0.10;13.00;13.00;0.00;0.00;;;;;1
 Whey protein Vanilla [MaxiNutrition];10.00;g;2;392.00;5.80;6.20;5.30;78.00;0.57;0.05;89.20;;;1
 ;;;;;;;;;;;;;;
-Soy milk 1.6% (sugar-free) [Berief];65.00;ml;3;30.00;1.60;0.90;0.00;3.00;0.08;;4.00;;;1
+Soy milk 1.6% (sugar-free) [Berief];80.00;ml;3;30.00;1.60;0.90;0.00;3.00;0.08;;4.00;;;1
 Flavor drops Vanilla (sucralose) [IronMaxx];≈5;drops;3;;;;;;;;;to taste;;
 ;;;;;;;;;;;;;;
 Mint chocolate [After Eight];30.00;g;4;426.00;12.90;73.50;67.80;2.10;0.03;;;"1pc ≈ 7.5g; freeze for more integrity [128kcal, 20g sugar]";;
