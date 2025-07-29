@@ -23,6 +23,8 @@ tags:
 
 Chocolate ice cream using both cocoa powder and dark chocolate, and a strong coffee note.
 
+> <img width=360 alt="Ingredients" src="Cacao-Noir_2025-07-29_1.jpg" class="zoomable" />
+
 Spin on “Sorbet”, scrape down, and re-mix.
 
 > <img width=360 alt="Spun Ice Cream" src="" class="zoomable" />
@@ -36,7 +38,7 @@ Rating: 😋🍫 (untested)
 **Prep**
 
   - _200ml_ Water (boiling)
-  - _15g_ [Cocoa Noir Intense 11% \[Cacao Barry\]](/ice-creamery/info/ingredients/#cocoa-powder){target="_blank"}<sup>↗</sup> • intense, tart cocoa flavour
+  - _20g_ [Cocoa Noir Intense 11% \[Cacao Barry\]](/ice-creamery/info/ingredients/#cocoa-powder){target="_blank"}<sup>↗</sup> • intense, tart cocoa flavour
   - _50g_ Dark chocolate 85% [Moser-Roth/Aldi] • Portion = 25g
   - _5g_ Instant Coffee [Mount Hagen] • 1.5g per 125ml
   - _20g_ [Whey + Casein protein (grass-fed) \[Vilgain\]](/ice-creamery/info/ingredients/#whey-protein){target="_blank"}<sup>↗</sup> • with stevia
@@ -57,7 +59,7 @@ Rating: 😋🍫 (untested)
 
 **Fill to MAX**
 
-  - _70ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
+  - _65ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
   - _≈4 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
 
 **Topping Options**
@@ -80,11 +82,11 @@ Rating: 😋🍫 (untested)
 
 # NUTRITIONAL & OTHER INFO
 
-- **Nutritional values per 100g/ml:** 100g; 117.6 kcal; fat 4.8g; carbs 15.2g; sugar 3.5g; protein 6.0g; salt 0.5g
-- **Nutritional values per ½ Deluxe Tub:** 360g; 423.4 kcal; fat 17.3g; carbs 54.7g; sugar 12.6g; protein 21.5g; salt 1.8g
-- **Nutritional values total:** 680g; 799.7 kcal; fat 32.6g; carbs 103.3g; sugar 23.8g; protein 40.7g; salt 3.5g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 31.42
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 20.34% • Low-Sugar • Hi-Protein
-- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 47.7g • 7.0%
-- **Net carbs:** 42.3g • *∝ 5 servings@136g:* 8.5g • *∝ 3 servings@227g:* 14.1g • *energy ratio (low <20%):* 21.1%
+- **Nutritional values per 100g/ml:** 100g; 119.7 kcal; fat 4.9g; carbs 15.3g; sugar 3.5g; protein 6.1g; salt 0.5g
+- **Nutritional values per ½ Deluxe Tub:** 360g; 430.8 kcal; fat 17.5g; carbs 55.0g; sugar 12.6g; protein 22.0g; salt 2.0g
+- **Nutritional values total:** 680g; 813.7 kcal; fat 33.1g; carbs 103.9g; sugar 23.8g; protein 41.6g; salt 3.7g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.64
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 20.46% • Low-Sugar • Hi-Protein
+- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 47.5g • 7.0%
+- **Net carbs:** 42.9g • *∝ 5 servings@136g:* 8.6g • *∝ 3 servings@227g:* 14.3g • *energy ratio (low <20%):* 21.1%
 - **15g 'Salty Stability' is:** 11.0g Inulin • 1.8g Glycerol Monostearate (GMS / E471) • 0.9g Tylose powder (E466, Tylo, CMC) • 0.6g Guar gum (E412) • 0.5g Salt • 0.2g Xanthan gum (E415, XG).
