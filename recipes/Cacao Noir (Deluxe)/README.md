@@ -44,9 +44,9 @@ Rating: 😋🍫 (untested)
 
 **Wet**
 
-  - _250ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
+  - _200ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
   - _20g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • POD = 60%; GI = 5; Density = 1.26 g/ml
-  - _15g_ [Brandy or Vodka 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup>
+  - _15g_ Cointreau 40 vol% • 1 bottle = 70cl
   - _10ml_ Soy sauce • ½ tbsp
 
 **Dry**
@@ -57,7 +57,7 @@ Rating: 😋🍫 (untested)
 
 **Fill to MAX**
 
-  - _60ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
+  - _70ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
   - _≈4 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
 
 **Topping Options**
@@ -79,11 +79,12 @@ Rating: 😋🍫 (untested)
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
 
 # NUTRITIONAL & OTHER INFO
-- **Nutritional values per 100g/ml:** 100g; 111.6 kcal; fat 4.6g; carbs 13.9g; sugar 2.8g; protein 5.8g; salt 0.5g
-- **Nutritional values per ½ Deluxe Tub:** 360g; 401.7 kcal; fat 16.6g; carbs 49.9g; sugar 9.9g; protein 20.9g; salt 1.8g
-- **Nutritional values total:** 720g; 803.4 kcal; fat 33.3g; carbs 99.8g; sugar 19.8g; protein 41.9g; salt 3.5g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.46
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 20.84% • Low-Sugar • Hi-Protein
-- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 49.3g • 6.8%
-- **Net carbs:** 38.7g • *∝ 5 servings@144g:* 7.7g • *∝ 3 servings@240g:* 12.9g • *energy ratio (low <20%):* 19.3%
+
+- **Nutritional values per 100g/ml:** 100g; 117.6 kcal; fat 4.8g; carbs 15.2g; sugar 3.5g; protein 6.0g; salt 0.5g
+- **Nutritional values per ½ Deluxe Tub:** 360g; 423.4 kcal; fat 17.3g; carbs 54.7g; sugar 12.6g; protein 21.5g; salt 1.8g
+- **Nutritional values total:** 680g; 799.7 kcal; fat 32.6g; carbs 103.3g; sugar 23.8g; protein 40.7g; salt 3.5g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 31.42
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 20.34% • Low-Sugar • Hi-Protein
+- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 47.7g • 7.0%
+- **Net carbs:** 42.3g • *∝ 5 servings@136g:* 8.5g • *∝ 3 servings@227g:* 14.1g • *energy ratio (low <20%):* 21.1%
 - **15g 'Salty Stability' is:** 11.0g Inulin • 1.8g Glycerol Monostearate (GMS / E471) • 0.9g Tylose powder (E466, Tylo, CMC) • 0.6g Guar gum (E412) • 0.5g Salt • 0.2g Xanthan gum (E415, XG).
