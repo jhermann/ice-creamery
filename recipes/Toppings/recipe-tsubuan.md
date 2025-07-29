@@ -17,14 +17,14 @@ The anko is used as a mix-in in your favorite vanilla base, see the directions f
 **DIRECTIONS**
 
  1. The same day you prepare your vanilla base, rinse and then soak the beans in water, over night in the fridge.
- 1. The next morning, drain the beans and put the on the stove with fresh water.
+ 1. The next morning, drain the beans and put them on the stove, in a small saucepan with fresh water.
  1. Add sweetener and salt, and bring to a boil.
- 1. Let the beans simmer for ~45min, stirring occasionally, until they’re tender.
- 1. Crush a part of the beans to get a thick consistency.
- 1. Put the anko into a container with lid, and let it cool down in the fridge.
- 1. Later, process your vanilla Creami, and use ½ to ⅔ of the anko as a mix-in.
- 1. Manually fold in the rest of the beans as a swirl.
- 1. Enjoy!
+ 2. Let the beans simmer for ~45min, stirring occasionally, until they’re tender.
+ 3. Crush a part of the beans to get a thick consistency.
+ 4. Put the anko into a container with lid, and let it cool down in the fridge.
+ 5. Later, process your vanilla Creami, and use ½ to ⅔ of the anko as a mix-in.
+ 6. Manually fold in the rest of the beans as a swirl.
+ 7. Enjoy!
 
 **NUTRITIONAL & OTHER INFO**
 
