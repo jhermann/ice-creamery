@@ -157,6 +157,18 @@ but on the positive side it does not promote tooth decay.
 
 Maltitol is commercially produced by hydrogenating maltose, which comes from starch.
 
+### Resistant Dextrin (E1400)
+
+*Resistant dextrin* (RD) is a soluble dietary fiber and prebiotic, with a very low sweetness (POD ≈10%) and a bland taste.
+It has a low viscosity, is easily dissolved in cold water, and resists heat, acidic conditions, and freezing.
+Its GI is below 55 and typically ranges from 25 to 48, which is considered low.
+
+All these numbers mean you can provide body to ice cream, without effects on sweetness or causing blood sugar spikes.
+Compared to maltodextrin, which has a very high GI of 110 and a PAC of 34, RD has almost no effect on the freezing point,
+and minimal blood sugar effects.
+
+Dextrin is a type of modified starch, produced via partial hydrolysis from different sources like corn, potato, rice, or wheat.
+
 ### Stevia (E960)
 
 Stevia is a natural, calorie-free sweetener derived from the leaves of the *Stevia rebaudiana* plant, native to South America. The leaves contain compounds called steviol glycosides, which are significantly sweeter than sugar (around 200-400 times sweeter).
