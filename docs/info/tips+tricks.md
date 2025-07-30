@@ -9,12 +9,32 @@ These are some basic facts applying to all recipes.
 
     Or, if you prefer soft-serve consistency, you can dig in immediately.
 
- 1. Recipes are *optimized for flavor and texture, not for the number of ingredients*. If you use a kitchen scale and immersion blender, this workflow makes the number of ingredients not that important:
+ 1. Ingredient amounts fit the 680ml (24oz) container size of the *Creami Deluxe*. For the base model and the *Swirl*, scale the recipes by using ⅔ of all ingredients (66%).
 
-    * Put the tub on the scale and weigh the wet ingredients one after another using TARA, and the same for the dry ones into one additional bowl.
-    * Then pour the dry stuff into the wet stuff and blend away.
+## About 'Simple' Recipes
 
- 1. Ingredient amounts fit the 720ml (24oz) container size of the *Creami Deluxe*. For the base model and the *Swirl*, scale the recipes by using ⅔ of all ingredients (66%).
+Generally, my recipes are *optimized for flavor and texture, not for the number or type of ingredients*.
+
+If you use a kitchen scale and immersion blender, this workflow makes the number of ingredients not that important:
+
+ * Put the tub on your scale and weigh the wet ingredients one after another using TARE.
+ * Do the same for the dry ones into one additional bowl, and mix them well with a spoon.
+ * Then pour the dry stuff into the wet stuff and blend away.
+ * You now have to clean up a bowl, a spoon, and the immersion blender's shaft.
+
+Once you have this workflow down, and fetch the needed ingredients beforehand, preparing a tub takes at most a few minutes.
+
+Nonetheless, recipes tagged as [Simple](/ice-creamery/tags/#tag:simple) have a reduced amount of ingredients, which are also 'non-exotic' i.e. sourceable locally.
+For some, like lecithin, you might need to go to a *Reformhaus* or *Drogeriemarkt* in Germany, or a specialty shop for baking or brewing supplies.
+If in doubt, just shop for them online — my recipes have names of brands that are available in Germany.
+
+Also, some ingredients and tools I consider essential for ice cream making, which you might not have encountered in cooking or baking yet. These are:
+
+ * [Glycerin (E422, VG)](https://jhermann.github.io/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422) to get a scoopable, freezer-stable ice cream.
+ * [Soy or Sunflower Lecithin](https://jhermann.github.io/ice-creamery/info/ingredients/#soy-lecithin-e322) for recipes that contain nut butter or other unusual amounts of fat.
+ * Dextrose, in case you want to replace sugar alcohols (erythritol, xylitol, etc).
+ * A digital kitchen scale. Prefer one that has a 0.1g precision, those are also typically updating faster, without undue delays of one or more seconds.
+ * Consider to also get a jeweller's scale (0.01g precision) for very small ingredient amounts, where a normal kitchen scale will fail you. They are cheap, in the 15–30€ range, and so small they're easily tucked away in a utensil drawer.
 
 ## Folding in Swirls
 If you have soft swirls that are not frozen (and aren't supposed to freeze), you cannot use the mix-in mode.
