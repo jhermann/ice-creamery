@@ -1,6 +1,9 @@
 ---
 description: Recipe for the Ninja Creami Deluxe [24oz]
+excluded_steps:
+- ^$
 excluded_tags:
+- Allulose
 - Dairy$
 tags:
 - Dairy-Free
@@ -12,6 +15,7 @@ tags:
 - Low-Sugar
 - Polysaccharide Gum
 - Scoopable
+- Simple
 - Sorbet
 - Sucralose
 - Tylo Powder (CMC)
@@ -32,7 +36,7 @@ That needs compensation for the removed sugar though, replace with
 trehalose (same amount as the removed fruit sugar, but it has a way lower GI),
 alcohol 40 vol% (half the amount of ‘lost’ sugar), or more sugar alcohols (also half the sugar amount).
 
-*Example:* Just 300g strawberries and 5g more sugar alcohols has 236 kcal and 30g net carbs.
+*Example:* Just 300g strawberries and 5g more sugar alcohols has 231 kcal and 30g net carbs.
 
 Spin on “Sorbet”, scrape down, and re-mix.
 
@@ -47,21 +51,21 @@ Rating: 😋 (untested)
 **Wet**
 
   - _450g_ Strawberries
-  - _125ml_ Water (cold)
+  - _100ml_ Water (cold)
   - _20g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • Sweetness = 60%; GI = 5; Density = 1.26 g/ml
   - _10ml_ Lemon juice
 
 **Dry**
 
-  - _40g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • POD ≈ 90%; GI < 7
-  - _1.25g_ [Carboxymethyl Cellulose (CMC / E466) \[GoodBake\]](/ice-creamery/info/ingredients/#carboxymethyl-cellulose-cmc-e466){target="_blank"}<sup>↗</sup>
+  - _35g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • alternatives: 55g allulose or dextrose; POD ≈ 90%; GI < 7
+  - _1.25g_ [Carboxymethyl Cellulose (CMC / E466) \[GoodBake\]](/ice-creamery/info/ingredients/#carboxymethyl-cellulose-cmc-e466){target="_blank"}<sup>↗</sup> • alternatives: guar gum (same amount)
   - _1.25g_ [Xanthan gum (E415, XG)](/ice-creamery/info/ingredients/#xanthan-gum-xg-e415){target="_blank"}<sup>↗</sup> • 1tsp ≈ 2.8g
-  - _1.25g_ Salt
+  - _1.5g_ Salt
 
 **Fill to MAX**
 
-  - _71.25ml_ Water to MAX line
-  - _≈5 drops_ Flavor drops (sucralose) [IronMaxx] • to taste
+  - _61ml_ Water to MAX line
+  - _≈5 drops_ Flavor drops (sucralose) [IronMaxx] • to taste; or use maple syrup
 
 **Optional**
 
@@ -84,10 +88,11 @@ Rating: 😋 (untested)
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
 
 # NUTRITIONAL & OTHER INFO
-- **Nutritional values per 100g/ml:** 100g; 38.5 kcal; fat 0.3g; carbs 12.2g; sugar 3.6g; protein 0.5g; salt 0.2g
-- **Nutritional values per ½ Deluxe Tub:** 360g; 138.7 kcal; fat 0.9g; carbs 44.1g; sugar 12.9g; protein 1.9g; salt 0.6g
-- **Nutritional values total:** 720g; 277.3 kcal; fat 1.8g; carbs 88.1g; sugar 25.8g; protein 3.7g; salt 1.3g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.15
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 5.34% • LOW-CAL • LOW-FAT • Low-Sugar
+
+- **Nutritional values per 100g/ml:** 100g; 40.0 kcal; fat 0.3g; carbs 12.2g; sugar 3.8g; protein 0.5g; salt 0.2g
+- **Nutritional values per ½ Deluxe Tub:** 340g; 135.9 kcal; fat 0.9g; carbs 41.6g; sugar 12.9g; protein 1.9g; salt 0.8g
+- **Nutritional values total:** 680g; 271.9 kcal; fat 1.8g; carbs 83.1g; sugar 25.8g; protein 3.7g; salt 1.5g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.47
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 5.45% • LOW-CAL • LOW-FAT • Low-Sugar
 - **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 0.0g • 0.0%
-- **Net carbs:** 38.1g • *∝ 5 servings@144g:* 7.6g • *∝ 3 servings@240g:* 12.7g • *energy ratio (low <20%):* 55%
+- **Net carbs:** 38.1g • *∝ 5 servings@136g:* 7.6g • *∝ 3 servings@227g:* 12.7g • *energy ratio (low <20%):* 56.1%
