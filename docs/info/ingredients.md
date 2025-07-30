@@ -39,6 +39,7 @@ of common ingredients, sorted by PAC.
 |  77 | ≈57 | 55 | Molasses | Less sweet than sugar, with a<br />complex flavor profile (bittersweet) |
 |  68 | ≈66 | 54 | Maple syrup | High in sucrose, but also has fructose and glucose|
 |  50 |  -/- | 85 | Modified corn starch | Possibly lower GI for some modifications |
+| ≈39 |  50 |  2 | Isomalt | PAC ranges from 36 — 42; 2.36 kcal/g |
 |  34 |  21 | 110 | Maltodextrin (18 DE) | |
 |  22 |  10 |  1 | Inulin | |
 |  10 |  44 | 35 | Maltitol (E965) | |
@@ -143,7 +144,18 @@ Natural chicory / agave inulin has 8g sugar, and 88% fiber. Further processing l
 *Topinambur* or *Jerusalem artichoke syrup* has about 36% inulin, 1% glucose, and 2% fructose,
 at a density of ≈1.3 g/ml.
 
+### Isomalt (E953)
+
+Isomalt is a mixture of two disaccharide alcohols and used primarily for its sugar-like physical properties.
+It has a very low GI, is tooth-friendly, and provides about half the energy of table sugar.
+
+It is very similar to maltitol, and requires care regarding daily intake just like other sugar alcohols.
+Chemically it is a mix of glucose (50%), sorbitol (25%), and mannitol (25%).
+
+> ⚠️ Too much isomalt can lead to a soft, sticky texture.
+
 ### Maltitol (E965)
+
 Maltitol is a white crystalline powder that can be used as
 a bulking agent, emulsifier, humectant, stabilizer, sweetener, and thickener.
 It is a type of sugar alcohol, or polyol, derived from corn syrup.
