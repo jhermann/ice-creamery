@@ -338,7 +338,7 @@ def main():
             'Process with MIX-IN after adding mix-ins evenly.'
             ' For that, add partial amounts into a hole going down to the bottom, and fold the ice cream over, building pockets of mix-ins.',
         'Topping Options': '',
-        'Optional': '',
+        'Optional / Choices': '',
     }
     premix = [
         ' 1. Add the prepared dry ingredients, and blend QUICKLY using an immersion blender on full speed.',

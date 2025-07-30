@@ -62,7 +62,7 @@ Rating: 😋🍦🍓🍓🍓 (sweet firm softness)
 
   - _10ml_ Aceto balsamico di Modena [Due Vittorie] • add as a topping [32kcal, 7.8g sugar]
 
-**Optional**
+**Optional / Choices**
 
   - _175g_ Strawberries • fresh or frozen [54kcal, 10g sugar]
   - _150g_ Blueberries • fresh or frozen [72kcal, 13g sugar]
