@@ -24,12 +24,12 @@ tags:
 
 Chocolate ice cream using both dark cocoa powder and dark chocolate, and a strong coffee note.
 
-> <img width=360 alt="Ingredients" src="Cacao-Noir_2025-07-29_1.jpg" class="zoomable" />
+> <img width=320 alt="Ingredients" src="Cacao-Noir_2025-07-29_1.jpg" class="zoomable" />
 
 Spin on “Sorbet”, scrape down, and mix-in. I used 15g of crushed cashews here, included in the macros.
 
-> <img width=360 alt="After Sorbet Processing" src="Cacao-Noir_2025-07-30_1.jpg" class="zoomable" />
-> <img width=360 alt="After Mix-in" src="Cacao-Noir_2025-07-30_2.jpg" class="zoomable" />
+> <img width=320 alt="After Sorbet Processing" src="Cacao-Noir_2025-07-30_1.jpg" class="zoomable" />
+> <img width=320 alt="After Mix-in" src="Cacao-Noir_2025-07-30_2.jpg" class="zoomable" />
 
 Rating: 😋🍫🍫🍫🕳️ (chocolate black hole, in a good way)
 
