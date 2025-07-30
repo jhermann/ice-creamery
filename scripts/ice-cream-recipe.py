@@ -559,7 +559,7 @@ def main():
         ])
         idx = 0
         print(header)
-        for row in sorted(all_ingredients(), key=itemgetter('ingredients')):
+        for row in sorted(all_ingredients(), key=lambda x: x['ingredients'].lower()):
             if row['kcal']:
                 if idx and not(idx % 10):
                     print(header)
