@@ -6,6 +6,7 @@ excluded_steps:
 - and mix dry ingredients
 - '[*]quickly[*]'
 excluded_tags:
+- Fruit
 - Vanilla
 tags:
 - Emulsifier
@@ -34,8 +35,7 @@ Spin on “Sorbet”, scrape down, and mix-in. I used 15g of crushed cashews her
 Rating: 😋🍫🍫🍫🕳️ (chocolate black hole, in a good way)
 
 > <img width=488 alt="Served with pecans and cherry confit" src="Cacao-Noir_2025-07-30_3.jpg" class="zoomable" />
->
-> *Served with pecans and cherry confit.*
+> *Served with pecans and black cherry fruit spread.*
 
 # INGREDIENTS
 
@@ -76,6 +76,7 @@ Rating: 😋🍫🍫🍫🕳️ (chocolate black hole, in a good way)
 
   - _8g_ Walnuts (organic) [Biojoy] • add as a topping [54kcal, 0.6g sugar]
   - _8g_ Pecan nuts (organic) [Biojoy] • 10 halves = 15g; add as a topping [58kcal, 0.3g sugar]
+  - _15g_ Schwartau “Black Cherry” (Extra Zero) • fruit spread, no added sugar; add as a topping [9kcal, 1.1g sugar]
 
 # DIRECTIONS
 
