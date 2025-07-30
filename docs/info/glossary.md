@@ -2,7 +2,10 @@
 
 See also:
 
+* [Ice Cream Glossary](https://www.dreamscoops.com/ice-cream-science/glossary/) by *Dream Scoops* (2017)
+* [Glossary of Ice Cream Types](https://www.eater.com/2016/10/26/13362442/ice-cream-definition-history) by *Eater*
 * [Hydrocolloid Glossary](https://blog.modernistpantry.com/advice/hydrocolloid-glossary/) by *Kitchen Alchemy*
+* [Glossary for Manufacturing and Labeling](https://icecreamprivatelabel.com/ice-cream-glossary-manufacturing-labeling/)
 
 ## Alcohol by Volume (ABV)
 Alcohol by volume can be taken literally, it specifies the percentage

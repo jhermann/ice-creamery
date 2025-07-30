@@ -2,6 +2,8 @@
 
 Here is a list of well-known web sites and other resources like YouTube channels found on the internet.
 
+➡️ Also see the link list at the top of the [Glossary](/ice-creamery/info/glossary/) page.
+
 ## Resource Collections
 Lists just like this one.
 
