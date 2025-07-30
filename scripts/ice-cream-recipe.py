@@ -463,6 +463,14 @@ def main():
         # End of CSV processing
     #pp(recipe)
 
+    if 'Simple' in docmeta['tags']:
+        lines.extend([
+            '',
+            "> ℹ️ Read [About 'Simple' Recipes](/ice-creamery/info/tips%2Btricks/#about-simple-recipes)"
+            " regarding 'exotic' ingredients and their alternatives.",
+            '',
+        ])
+
     # Add ingredient list
     lines.extend([
         subtitle('Ingredients', is_topping),

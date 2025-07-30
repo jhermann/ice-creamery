@@ -44,6 +44,8 @@ Spin on “Sorbet”, scrape down, and re-mix.
 
 Rating: 😋 (untested)
 
+> ℹ️ Read [About 'Simple' Recipes](/ice-creamery/info/tips%2Btricks/#about-simple-recipes) regarding 'exotic' ingredients and their alternatives.
+
 # INGREDIENTS
 
 ℹ️ Brand names are in square brackets `[...]`.
