@@ -1,10 +1,11 @@
 ---
 description: Recipe for the Ninja Creami Deluxe [24oz]
+excluded_steps:
+- ^$
 excluded_tags:
 - Vanilla
 tags:
 - Dairy
-- Draft
 - Emulsifier
 - Erythritol
 - Fruit
@@ -35,7 +36,7 @@ Rating: 😋 (untested)
 
 **Wet**
 
-  - _375ml_ Yogurt mild 4% [REWE Bio] • 500g container
+  - _350ml_ Yogurt mild 4% [REWE Bio] • 500g container
   - _25g_ [Cream Cheese 23% \[Exquisa\]](/ice-creamery/info/ingredients/#cream-cheese){target="_blank"}<sup>↗</sup>
   - _15g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • Sweetness = 60%; GI = 5; Density = 1.26 g/ml
   - _10g_ [Brandy or Vodka 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup>
@@ -44,13 +45,13 @@ Rating: 😋 (untested)
 
 **Dry**
 
-  - _40g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • POD ≈ 90%; GI < 7
+  - _35g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • POD ≈ 90%; GI < 7
   - _10g_ [Salty Stability \[Inulin / GMS / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup> • unsweetened “ICSv2”
   - _15g_ [Whey + Casein protein (grass-fed) \[Vilgain\]](/ice-creamery/info/ingredients/#whey-protein){target="_blank"}<sup>↗</sup> • with stevia
 
 **Fill to MAX**
 
-  - _45ml_ [Water, milk, or yogurt to MAX line](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
+  - _35ml_ Water, milk, or yogurt to MAX line
   - _≈3 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
 
 **Topping Options**
@@ -77,11 +78,12 @@ Rating: 😋 (untested)
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
 
 # NUTRITIONAL & OTHER INFO
-- **Nutritional values per 100g/ml:** 100g; 83.2 kcal; fat 3.0g; carbs 13.1g; sugar 4.3g; protein 4.2g; salt 0.2g
-- **Nutritional values per ½ Deluxe Tub:** 360g; 299.3 kcal; fat 10.8g; carbs 47.3g; sugar 15.5g; protein 15.1g; salt 0.6g
-- **Nutritional values total:** 720g; 598.7 kcal; fat 21.6g; carbs 94.5g; sugar 31.1g; protein 30.2g; salt 1.2g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 31.31
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 20.18% • Low-Sugar • Hi-Protein
-- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 54.5g • 7.6%
-- **Net carbs:** 47.2g • *∝ 5 servings@144g:* 9.4g • *∝ 3 servings@240g:* 15.7g • *energy ratio (low <20%):* 31.5%
+
+- **Nutritional values per 100g/ml:** 100g; 84.6 kcal; fat 3.0g; carbs 13.0g; sugar 4.4g; protein 4.3g; salt 0.2g
+- **Nutritional values per ½ Deluxe Tub:** 340g; 287.7 kcal; fat 10.3g; carbs 44.1g; sugar 14.9g; protein 14.6g; salt 0.6g
+- **Nutritional values total:** 680g; 575.5 kcal; fat 20.7g; carbs 88.3g; sugar 29.8g; protein 29.2g; salt 1.1g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 31.05
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 20.29% • Low-Sugar • Hi-Protein
+- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 51.9g • 7.6%
+- **Net carbs:** 45.9g • *∝ 5 servings@136g:* 9.2g • *∝ 3 servings@227g:* 15.3g • *energy ratio (low <20%):* 31.9%
 - **10g 'Salty Stability' is:** 7.3g Inulin • 1.2g Glycerol Monostearate (GMS / E471) • 0.6g Tylose powder (E466, Tylo, CMC) • 0.4g Guar gum (E412) • 0.33g Salt • 0.13g Xanthan gum (E415, XG).
