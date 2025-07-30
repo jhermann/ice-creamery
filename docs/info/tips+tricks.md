@@ -32,9 +32,12 @@ Also, some ingredients and tools I consider essential for ice cream making, whic
 
  * [Glycerin (E422, VG)](https://jhermann.github.io/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422) to get a scoopable, freezer-stable ice cream.
  * [Soy or Sunflower Lecithin](https://jhermann.github.io/ice-creamery/info/ingredients/#soy-lecithin-e322) for recipes that contain nut butter or other unusual amounts of fat.
+ * Xanthan and guar gum. Where you encounter [Salty Stability](/ice-creamery/S/Salty%20Stability/) as an ingredient, you can replace it by 1.5g guar, 0.5g xanthan, and 0.5g salt (for a standard 15g dosage, scale other amounts accordingly).
  * Dextrose, in case you want to replace sugar alcohols (erythritol, xylitol, etc).
  * A digital kitchen scale. Prefer one that has a 0.1g precision, those are also typically updating faster, without undue delays of one or more seconds.
  * Consider to also get a jeweller's scale (0.01g precision) for very small ingredient amounts, where a normal kitchen scale will fail you. They are cheap, in the 15–30€ range, and so small they're easily tucked away in a utensil drawer.
+
+And look out for *alternatives* for ingredients you don't have — they are given on the same line as the ingredient tehy replace, or mentioned in the introduction above the ingredient list.
 
 ## Folding in Swirls
 If you have soft swirls that are not frozen (and aren't supposed to freeze), you cannot use the mix-in mode.
