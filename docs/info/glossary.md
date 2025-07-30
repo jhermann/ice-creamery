@@ -15,9 +15,11 @@ it's essentially double the ABV value (80-proof ≅ 40 vol%).
 
 ## Dextrose Equivalent (DE)
 
-A measure of the amount of reducing sugars present in a sugar product, expressed as a percentage on a dry basis relative to dextrose (percentage of glucose molecules in dry matter).
+A measure of the amount of reducing sugars present in a sugar product (e.g. amount of monosaccharides in a glucose syrup), expressed as a percentage on a dry basis relative to dextrose. Note that syrups typically contain 25% water, while glucose powder (dehydrated / atomized glucose) only retains about 5%. In both cases, the DE value is the percentage of glucose molecules in *dry matter*.
 
-The dextrose equivalent gives an indication of the average degree of polymerisation (DP) for starch sugars. As a rule of thumb, `DE × DP = 120`.
+The difference of glucose syrup products to pure dextrose (100% glucose, a monosaccharide) is technically a reduced PAC (~90 instead of 190) and lower sweetness. Textural effects come from the remaining starches in glucose syrup, which contribute to the overall body, viscosity, and creaminess of the ice cream, and its melting behavior.
+
+> ℹ️ The dextrose equivalent also gives an indication of the average degree of polymerisation (DP) for starch sugars. As a rule of thumb, `DE × DP = 120`.
 
 ## Freezing Point Depression Factor (FPDF)
 
