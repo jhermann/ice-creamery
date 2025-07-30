@@ -1,7 +1,7 @@
-## Tsubuan (Mix-In)
+## Tsubu-An (Mix-In)
 <img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="logo-tsubuan.webp" />
 
-*Tsubuan* is the chunky version of *anko* (red bean paste), made from Japanese *azuki* beans (小豆) and cooked with sugar.
+*Tsubu-An* is the chunky version of *anko* (red bean paste), made from Japanese *azuki* beans (小豆) and cooked with sugar.
 The final result is basically a bean jam, or sweet chutney.
 
 The anko is used as a mix-in in your favorite vanilla base, see the directions further below for details.
