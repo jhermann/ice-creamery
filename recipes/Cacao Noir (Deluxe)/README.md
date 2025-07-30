@@ -19,7 +19,7 @@ tags:
 - Tylo Powder (CMC)
 - Xylitol
 ---
-# Cacao Noir (Deluxe)
+# Cacao Noir a/k/a Charcolate (Deluxe)
 <img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/assets/chocolate-ice-cream-logo.png" />
 
 Chocolate ice cream using both dark cocoa powder and dark chocolate, and a strong coffee note.
