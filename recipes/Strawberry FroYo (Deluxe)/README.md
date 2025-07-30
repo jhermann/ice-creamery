@@ -22,13 +22,17 @@ tags:
 # Strawberry FroYo (Deluxe)
 <img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/assets/froyo-ice-cream-logo.png" />
 
+Frozen yogurt with fruit, cream cheese, and unflavored whey/casein protein.
+
 You can replace the strawberries by other fruit, or fruit powder (see “Optional”). Adapt the amount of water or milk to fill up to MAX accordingly.
 
-Processed on *FroYo*, with scrape-down and a respin.
+Processed on *FroYo*, with scrape-down and a mix-in.
 
-> <img width=220 alt="Spun Ice Cream" src="" class="zoomable" />
+> <img width=220 alt="After FroYo" src="Strawberry-FroYo_2025-07-30_1.jpg" class="zoomable" />
+> <img width=220 alt="After Mix-in" src="Strawberry-FroYo_2025-07-30_2.jpg" class="zoomable" />
+> <img width=220 alt="Scooped" src="Strawberry-FroYo_2025-07-30_3.jpg" class="zoomable" />
 
-Rating: 😋 (untested)
+Rating: 😋🍦🍓🍓🍓 (sweet firm softness)
 
 # INGREDIENTS
 
