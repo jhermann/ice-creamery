@@ -16,11 +16,15 @@ Lists just like this one.
 - [Ice Cream Nation](https://www.icecreamnation.org/ice-cream-nation/) is devoted to ice cream and related frozen desserts in all its fascinating forms and variations. A main objective is to encourage, promote and share information on the making of home-made ice cream.
 - [if the spoon fits – an ice cream blog](https://ifthespoonfits.com/): Be a kid again. Just don’t skimp; because if the spoon fits, there’s not enough ice cream in your bowl!
 - [r/ninjacreami Wiki](https://www.reddit.com/r/ninjacreami/wiki/index/) — Your guide to ice cream making.
-- [Ninja CREAMi Test Kitchen](https://ninjatestkitchen.com/collection/ninja-creami-creations/)
 - [Scoop Club](https://www.scoopclub.com.au/) — Ice cream recipes and appliance reviews.
 - [Popular Posts on Ice Cream Science](https://www.icecreamscience.com/popular-posts)
-- [proteinninja on RecipeSage](https://recipesage.com/#/people/@proteinninja) — Protein-Ninja.com's shared recipes.
+
+## Recipe Collections
+
+- [My Recipe Posts on Reddit](https://www.reddit.com/search/?q=author%3Aj_hermann+cream) — Most of them, anyway.
+- [Ninja CREAMi Test Kitchen](https://ninjatestkitchen.com/collection/ninja-creami-creations/) — Recipes beyond those in the manual.
 - [Ninja Creami at Samsung Food](https://s.samsungfood.com/eWWyY) — Make ice cream, smoothie bowls, milkshakes, and more using the Ninja Creami.
+- [proteinninja on RecipeSage](https://recipesage.com/#/people/@proteinninja) — Protein-Ninja.com's shared recipes.
 
 ## Forums
 
