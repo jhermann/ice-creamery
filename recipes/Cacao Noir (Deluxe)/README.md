@@ -35,6 +35,7 @@ Spin on “Sorbet”, scrape down, and mix-in. I used 15g of crushed cashews her
 Rating: 😋🍫🍫🍫🕳️ (chocolate black hole, in a good way)
 
 > <img width=488 alt="Served with pecans and cherry confit" src="Cacao-Noir_2025-07-30_3.jpg" class="zoomable" />
+> 
 > *Served with pecans and black cherry fruit spread.*
 
 # INGREDIENTS
