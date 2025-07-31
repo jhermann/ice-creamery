@@ -213,6 +213,10 @@ Trehalose is much less soluble than lactose and offers way less water control,
 and is an uncommon ingredient leading to potentially high prices.
 Use it in concentrations of 2% to at most 8%.
 
+Trehalose can be caramelized, but it requires a higher temperature compared to regular sugar (200°C instead of 180°C).
+When heated, trehalose first melts, then dehydrates, and finally caramelizes at the higher temperature.
+The result is a lighter-colored caramel that imparts a fresh taste.
+
 ### Vegetable Glycerin / Glycerol (VG / E422)
 
 Glycerin, also known as glycerol or E422, is widely used in ice cream to reduce the hardness of the frozen base.
