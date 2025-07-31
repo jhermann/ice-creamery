@@ -9,6 +9,7 @@ excluded_steps:
 excluded_tags:
 - Vanilla
 tags:
+- Cooked Base
 - Draft
 - Emulsifier
 - Erythritol
@@ -19,6 +20,11 @@ tags:
 - Xylitol
 ---
 # Butterscotch (Deluxe)
+
+🧈🧈 Butterscotch sauce in a vanilla gelato base infused with more butter.
+
+You can use the prepared butterscotch as a swirl, mix-in, or topping with other (vanilla) bases.
+That, and heating it to 150°C, is the reason that some of the ingredients are duplicated.
 
 Spin on “Sorbet”, scrape down, and re-mix.
 
@@ -59,10 +65,15 @@ Rating: 😋🧈🍬 (untested)
   - _74ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
   - _≈1 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
 
+**Topping Options**
+
+  - _15g_ Candied pecans or walnuts
+
 # DIRECTIONS
 
  1. Brown the butter, whisk in the sugars, milk, molasses, and salt.
- 1. Add and melt / dissolve the other ‘wet’ ingredients on low heat.
+ 1. For a firm texture, heat to around 150°C (300°F).
+ 1. Add and melt the other ‘wet’ ingredients on low heat.
  1. Mix the ‘dry’ ingredients in a bowl and whisk them into the hot liquid.
  1. Let it cool down a bit and transfer into an empty Creami tub.
  1. Add remaining ingredients (to the MAX line) and stir with a spoon.
