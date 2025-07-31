@@ -39,6 +39,16 @@ Also, some ingredients and tools I consider essential for ice cream making, whic
 
 And look out for *alternatives* for ingredients you don't have — they are given on the same line as the ingredient they replace, or mentioned in the introduction above the ingredient list.
 
+Finally, here are some replacements for widely used ingredients, keeping the PAC / POD value as close as possible to the original ingredient:
+
+ * **Erythritol** → 40% Honey + 60% Glycerin
+ * **Xylitol** → 75% Honey + 25% Glycerin
+ * **SweEX (E’ol+X’ol 3:2)** → 55% Honey + 45% Glycerin
+ * **SweEX (E’ol+X’ol 3:2)** → 50% Allulose + 20% Agave syrup + 35% Glycerin
+ * **Alcohol 40 vol%** → 80% Glycerin — This is mildly sweet where the alcohol is not.
+
+Where the replacing weight differs, the usual "fill to MAX line" will take care of that.
+
 ## Folding in Swirls
 If you have soft swirls that are not frozen (and aren't supposed to freeze), you cannot use the mix-in mode.
 
