@@ -28,6 +28,8 @@ Nonetheless, recipes tagged as [Simple](/ice-creamery/tags/#tag:simple) have a r
 For some, like lecithin, you might need to go to a *Reformhaus* or *Drogeriemarkt* in Germany, or a specialty shop for baking or brewing supplies.
 If in doubt, just shop for them online — my recipes have names of brands that are available in Germany.
 
+### Essential Ingredients & Tools
+
 Also, some ingredients and tools I consider essential for ice cream making, which you might not have encountered in cooking or baking yet. These are:
 
  * [Glycerin (E422, VG)](https://jhermann.github.io/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422) to get a scoopable, freezer-stable ice cream.
@@ -38,6 +40,8 @@ Also, some ingredients and tools I consider essential for ice cream making, whic
  * Consider to also get a jeweller's scale (0.01g precision) for very small ingredient amounts, where a normal kitchen scale will fail you. They are cheap, in the 15–30€ range, and so small they're easily tucked away in a utensil drawer.
 
 And look out for *alternatives* for ingredients you don't have — they are given on the same line as the ingredient they replace, or mentioned in the introduction above the ingredient list.
+
+### Ingredient Replacements
 
 Finally, here are some replacements for widely used ingredients, keeping the PAC / POD value as close as possible to the original ingredient:
 
