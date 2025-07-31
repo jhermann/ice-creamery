@@ -34,6 +34,8 @@ Processed on *FroYo*, with scrape-down and a mix-in.
 
 Rating: 😋🍦🍓🍓🍓 (sweet firm softness)
 
+> <img width=442 alt="Served" src="Strawberry-FroYo_2025-07-30_4.jpg" class="zoomable" />
+
 # INGREDIENTS
 
 ℹ️ Brand names are in square brackets `[...]`.
