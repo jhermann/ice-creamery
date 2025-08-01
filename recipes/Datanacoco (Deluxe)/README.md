@@ -17,8 +17,11 @@ tags:
 - Xylitol
 ---
 # Datanacoco (Deluxe)
+<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/assets/banana-ice-cream-logo.png" />
 
 Dates, banana, and coconut milk ice cream — a/k/a “What I had in my fridge and pantry.”
+
+> <img width=220 alt="Ingredients" src="Datanacoco_2025-08-01.jpg" class="zoomable" />
 
 Process on *Sorbet*, [hold it shortly under running water](https://jhermann.github.io/ice-creamery/info/tips%2Btricks/#handling-of-icy-sides-bottom)
 *after* that. Then a scrape-down and a respin or re-mix.
