@@ -44,4 +44,4 @@ Use a refreezable vanilla base like my
 - **Nutritional values per 100g/ml:** 100g; 72.5 kcal; fat 0.2g; carbs 19.3g; sugar 12.5g; protein 0.5g; salt 0.2g
 - **Nutritional values total:** 251g; 182.0 kcal; fat 0.4g; carbs 48.4g; sugar 31.5g; protein 1.4g; salt 0.5g
 - **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 44.31
-- **Net carbs:** 33.4 • g
+- **Net carbs:** 33.4g
