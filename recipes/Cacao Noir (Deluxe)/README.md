@@ -38,6 +38,11 @@ Rating: 😋🍫🍫🍫🕳️ (chocolate black hole, in a good way)
 > 
 > *Served with pecans and black cherry fruit spread.*
 
+> <img width=320 alt="Scooped after 3 days" src="Cacao-Noir_2025-08-02.jpg" class="zoomable" />
+>
+> *Scooped fresh out of the freezer, after 3 days.*
+
+
 # INGREDIENTS
 
 ℹ️ Brand names are in square brackets `[...]`.
