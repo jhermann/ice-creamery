@@ -50,7 +50,7 @@ Rating: 😋🍸☕ (untested)
 
 **Fill to MAX**
 
-  - _50ml_ Water to MAX line
+  - _50ml_ Water to MAX line (minus 80ml)
   - _≈5 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
 
 **Mix-ins**
