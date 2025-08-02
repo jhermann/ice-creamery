@@ -27,6 +27,8 @@ plugins:
   - macros:
       module_name: macros
   - meta
+  - offline:
+      enabled: !ENV [MKDOCS_OFFLINE, false]
   - search
   - git-revision-date-localized
 
