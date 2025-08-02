@@ -50,12 +50,12 @@ Rating: 😋 (untested)
 
   - _450ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
   - _15g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • Sweetness = 60%; GI = 5; Density = 1.26 g/ml
-  - _10g_ [Brandy or Vodka 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup> • alternatives: 8g more glycerin
+  - _10g_ [Brandy or Vodka 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup> • *alternatives:* 8g more glycerin
 
 **Dry**
 
-  - _20g_ [Soy protein isolate (nature) \[Powerstar\]](/ice-creamery/info/ingredients/#soy-protein-isolate){target="_blank"}<sup>↗</sup> • alternative: any unflavored or vanilla protein powder; 1kg bag, unsweetened, unflavored
-  - _40g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • alternatives: 55g allulose or dextrose; POD ≈ 90%; GI < 7
+  - _20g_ [Soy protein isolate (nature) \[Powerstar\]](/ice-creamery/info/ingredients/#soy-protein-isolate){target="_blank"}<sup>↗</sup> • *alternative:* any unflavored or vanilla protein powder or SMP; unsweetened, unflavored
+  - _40g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • *alternatives:* 53g allulose or dextrose; POD ≈ 90%; GI < 7
   - _1g_ Salt
   - _3g_ [Lecithin (Soy) \[My Lecithin\]](/ice-creamery/info/ingredients/#soy-lecithin-e322){target="_blank"}<sup>↗</sup>
 
