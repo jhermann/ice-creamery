@@ -44,4 +44,4 @@ jobs:
               mkdocs-print-site-plugin \
               mkdocs-macros-plugin
       - run: bash linkdocs.sh
-      - run: mkdocs gh-deploy --force
+      - run: mkdocs gh-deploy --config-file mkdocs.yml --force --use-directory-urls
