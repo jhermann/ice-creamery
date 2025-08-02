@@ -523,7 +523,7 @@ def main():
                     lines.append(f' 1. {line}')
             if step == STEP_WET:
                 if recipe[STEP_PREP] and not any('water' in x['ingredients'].lower() for x in recipe[STEP_PREP]):
-                    lines.extend(premix)
+                    lines.extend([x for x in premix if not excluded_steps.search(x)])
 
     # Add nutritional info
     lines.extend([
