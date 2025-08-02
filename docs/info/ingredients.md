@@ -42,6 +42,7 @@ of common ingredients, sorted by PAC.
 | ≈39 |  50 |  2 | Isomalt | PAC ranges from 36 — 42; 2.36 kcal/g |
 |  34 |  21 | 110 | Maltodextrin (18 DE) | |
 |  22 |  10 |  1 | Inulin | |
+| <20 |  ≈10 |  <55 | Resistant Dextrin (E1400) | GI typically ranges from 25 to 48 |
 |  10 |  44 | 35 | Maltitol (E965) | |
 
 Note that natural ingredients like molasses or maple syrup
@@ -178,6 +179,10 @@ Its GI is below 55 and typically ranges from 25 to 48, which is considered low.
 All these numbers mean you can provide body to ice cream, without effects on sweetness or causing blood sugar spikes.
 Compared to maltodextrin, which has a very high GI of 110 and a PAC of 34, RD has almost no effect on the freezing point,
 and minimal blood sugar effects.
+
+It's often used as a fat substitute or to add creaminess, and can also help prevent ice crystal formation.
+It can replace or accompany inulin — a combination of inulin and resistant dextrin may offer
+superior prebiotic benefits with less gas production than inulin alone.
 
 Dextrin is a type of modified starch, produced via partial hydrolysis from different sources like corn, potato, rice, or wheat.
 
@@ -402,13 +407,6 @@ It is synergistic when combined with other hydrocolloids to increase their gelli
  * Stabilizes ice cream, combined with guar (`2LBG:1GG`) and/or CMC.
 
 *Also know as:* carob / Johannisbrotkernmehl.
-
-### Resistant Dextrin (E1400)
-Resistant dextrin is a soluble dietary fiber that can be used in ice cream
-to improve texture and potentially boost nutritional value. It's often used
-as a fat substitute or to add creaminess, and can also help prevent ice crystal formation.
-
-It can replace or accompany inulin.
 
 ### Salep
 Salep is a thickening agent derived from the tubers of certain orchids, primarily used in Turkish ice cream (*Dondurma*)
