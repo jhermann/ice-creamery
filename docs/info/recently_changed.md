@@ -1,7 +1,7 @@
 # Recently Changed<img style="float: right; margin-left: 1.5em;" width=160 alt="Logo" src="../logo-changed.png" />
 <!--
 1. git log --since="2 months ago" --pretty=format:"%H %ad %s" --date=short --numstat recipes >history.txt
-2. add "history.txt" as a source to NotebookLM (as "Copied text")
+2. add "history.txt" as a source to NotebookLM (via "Upload")
 3. paste the prompt:
 
 use the "history.txt" source which has this format: records are lines separated by an empty line;
@@ -25,33 +25,41 @@ These recipes were added in the last 2 months.
 
 > 👀 Also see the [Draft](https://jhermann.github.io/ice-creamery/tags/#tag:draft) tag for recipes that aren't tested yet, or need further optimizations.
 
-- **2025-07-20**: [Just Fruit](/ice-creamery/J/Just%20Fruit%20%28Deluxe%29)<!-- added 92 lines -->
-- **2025-07-20**: [Milkshake](/ice-creamery/M/Milkshake)<!-- added 44 lines -->
-- **2025-07-13**: [Epic Spoons of Nom](/ice-creamery/E/Epic%20Spoons%20of%20Nom%20%28Deluxe%29)<!-- added 72 lines -->
-- **2025-06-28**: [Velvet Oasis](/ice-creamery/V/Velvet%20Oasis%20%28Deluxe%29)<!-- added 81 lines -->
-- **2025-06-27**: [Pisoyachio](/ice-creamery/P/Pisoyachio%20%28Deluxe%29)<!-- added 87 lines -->
-- **2025-06-27**: [Forget-Me-Nut Swirl](/ice-creamery/F/Forget-Me-Nut%20Swirl)<!-- added 45 lines -->
-- **2025-06-26**: [Umamiso](/ice-creamery/U/Umamiso%20%28Deluxe%29)<!-- added 67 lines -->
-- **2025-06-24**: [Toasted Cowcoa](/ice-creamery/T/Toasted%20Cowcoa%20%28Deluxe%29)<!-- added 74 lines -->
-- **2025-06-18**: [Banoffee](/ice-creamery/B/Banoffee%20%28Deluxe%29)<!-- added 84 lines -->
-- **2025-06-17**: [Sweet Potato Pie](/ice-creamery/S/Sweet%20Potato%20Pie%20%28Deluxe%29)<!-- added 74 lines -->
-- **2025-06-14**: [Soda Pop Sorbet](/ice-creamery/S/Soda%20Pop%20Sorbet%20%28Deluxe%29)<!-- added 73 lines -->
-- **2025-06-14**: [Strawberry Float](/ice-creamery/S/Strawberry%20Float)<!-- added 43 lines -->
-- **2025-06-11**: [Banafaba](/ice-creamery/B/Banafaba%20%28Deluxe%29)<!-- added 76 lines -->
-- **2025-06-10**: [Chico Caramel • Vegan](/ice-creamery/C/Chico%20Caramel%20%E2%80%A2%20Vegan%20%28Deluxe%29)<!-- added 85 lines -->
-- **2025-06-10**: [Peanut Butter • Vegan](/ice-creamery/P/Peanut%20Butter%20%E2%80%A2%20Vegan%20%28Deluxe%29)<!-- added 68 lines -->
-- **2025-06-09**: [Shregg 2](/ice-creamery/S/Shregg%202%20%28Deluxe%29)<!-- added 64 lines -->
-- **2025-06-08**: [Ube Coconut • Vegan](/ice-creamery/U/Ube%20Coconut%20%E2%80%A2%20Vegan%20%28Deluxe%29)<!-- added 76 lines -->
-- **2025-06-08**: [Strawberry Sherbet • Vegan](/ice-creamery/S/Strawberry%20Sherbet%20%E2%80%A2%20Vegan%20%28Deluxe%29)<!-- added 74 lines -->
-- **2025-06-08**: [Dirty Peach Bourbon](/ice-creamery/D/Dirty%20Peach%20Bourbon%20%28Deluxe%29)<!-- added 69 lines -->
-- **2025-06-08**: [CocoaLow](/ice-creamery/C/CocoaLow%20%28Deluxe%29)<!-- added 58 lines -->
-- **2025-06-07**: [Lemon Sorbet](/ice-creamery/L/Lemon%20Sorbet%20%28Deluxe%29)<!-- added 70 lines -->
-- **2025-06-03**: [Matcha Coconut](/ice-creamery/M/Matcha%20Coconut%20%28Deluxe%29)<!-- added 70 lines -->
-- **2025-06-02**: [Dulce de Leche • Vegan](/ice-creamery/D/Dulce%20de%20Leche%20%E2%80%A2%20Vegan%20%28Deluxe%29)<!-- added 65 lines -->
-- **2025-05-23**: [Slim Banana](/ice-creamery/S/Slim%20Banana%20%28Deluxe%29)<!-- added 51 lines -->
-- **2025-05-23**: [Blueberry Buttermilk](/ice-creamery/B/Blueberry%20Buttermilk%20%28Deluxe%29)<!-- added 46 lines -->
+- **2025-08-02** [Espresso Martini Light](https://notebooklm.google.com/ice-creamery/E/Espresso%20Martini%20Light%20%28Deluxe%29) <!-- added 80 lines -->
+- **2025-08-02** [Creamia](https://notebooklm.google.com/ice-creamery/C/Creamia%20%28Deluxe%29) <!-- added 76 lines -->
+- **2025-08-01** [Datanacoco](https://notebooklm.google.com/ice-creamery/D/Datanacoco%20%28Deluxe%29) <!-- added 80 lines -->
+- **2025-08-01** [Butter Pecan](https://notebooklm.google.com/ice-creamery/B/Butter%20Pecan%20%28Deluxe%29) <!-- added 89 lines -->
+- **2025-07-31** [Butterscotch](https://notebooklm.google.com/ice-creamery/B/Butterscotch%20%28Deluxe%29) <!-- added 82 lines -->
+- **2025-07-28** [Apple Strudel](https://notebooklm.google.com/ice-creamery/A/Apple%20Strudel%20%28Deluxe%29) <!-- added 79 lines -->
+- **2025-07-27** [Woodruff](https://notebooklm.google.com/ice-creamery/W/Woodruff%20%28Deluxe%29) <!-- added 81 lines -->
+- **2025-07-23** [Buttermilk Stracciatella](https://notebooklm.google.com/ice-creamery/B/Buttermilk%20Stracciatella%20%28Deluxe%29) <!-- added 84 lines -->
+- **2025-07-22** [Dark Temptation](https://notebooklm.google.com/ice-creamery/D/Dark%20Temptation%20%28Deluxe%29) <!-- added 89 lines -->
+- **2025-07-13** [Epic Spoons of Nom](https://notebooklm.google.com/ice-creamery/E/Epic%20Spoons%20of%20Nom%20%28Deluxe%29) <!-- added 72 lines -->
+- **2025-07-11** [Tropical Mudslide](https://notebooklm.google.com/ice-creamery/T/Tropical%20Mudslide%20%28Deluxe%29) <!-- added 87 lines -->
+- **2025-07-11** [GaMe On](https://notebooklm.google.com/ice-creamery/G/GaMe%20On%20%28Deluxe%29) <!-- added 72 lines -->
+- **2025-07-09** [PB+J FroYo](https://notebooklm.google.com/ice-creamery/P/PB%2BJ%20FroYo%20%28Deluxe%29) <!-- added 76 lines -->
+- **2025-07-03** [Radler Zäpfle](https://notebooklm.google.com/ice-creamery/R/Radler%20Z%C3%A4pfle%20%28Deluxe%29) <!-- added 62 lines -->
+- **2025-06-29** [Cacao Noir](https://notebooklm.google.com/ice-creamery/C/Cacao%20Noir%20%28Deluxe%29) <!-- added 79 lines -->
+- **2025-06-28** [Velvet Oasis](https://notebooklm.google.com/ice-creamery/V/Velvet%20Oasis%20%28Deluxe%29) <!-- added 81 lines -->
+- **2025-06-27** [Pisoyachio](https://notebooklm.google.com/ice-creamery/P/Pisoyachio%20%28Deluxe%29) <!-- added 87 lines -->
+- **2025-06-26** [Umamiso](https://notebooklm.google.com/ice-creamery/U/Umamiso%20%28Deluxe%29) <!-- added 67 lines -->
+- **2025-06-24** [Toasted Cowcoa](https://notebooklm.google.com/ice-creamery/T/Toasted%20Cowcoa%20%28Deluxe%29) <!-- added 74 lines -->
+- **2025-06-23** [Vanilla Protein](https://notebooklm.google.com/ice-creamery/V/Vanilla%20Protein%20%28Deluxe%29) <!-- added 76 lines -->
+- **2025-06-22** [Pomegranate Light](https://notebooklm.google.com/ice-creamery/P/Pomegranate%20Light%20%28Deluxe%29) <!-- added 79 lines -->
+- **2025-06-18** [Banoffee](https://notebooklm.google.com/ice-creamery/B/Banoffee%20%28Deluxe%29) <!-- added 84 lines -->
+- **2025-06-17** [Sweet Potato Pie](https://notebooklm.google.com/ice-creamery/S/Sweet%20Potato%20Pie%20%28Deluxe%29) <!-- added 74 lines -->
+- **2025-06-14** [Strawberry Float](https://notebooklm.google.com/ice-creamery/S/Strawberry%20Float) <!-- added 43 lines -->
+- **2025-06-14** [Soda Pop Sorbet](https://notebooklm.google.com/ice-creamery/S/Soda%20Pop%20Sorbet%20%28Deluxe%29) <!-- added 73 lines -->
+- **2025-06-12** [Apple Milk Crème](https://notebooklm.google.com/ice-creamery/A/Apple%20Milk%20Cr%C3%A8me%20%28Deluxe%29) <!-- added 84 lines -->
+- **2025-06-11** [Banafaba](https://notebooklm.google.com/ice-creamery/B/Banafaba%20%28Deluxe%29) <!-- added 76 lines -->
+- **2025-06-10** [Chico Caramel - Vegan](https://notebooklm.google.com/ice-creamery/C/Chico%20Caramel%20%E2%80%A2%20Vegan%20%28Deluxe%29) <!-- added 85 lines -->
+- **2025-06-10** [Peanut Butter - Vegan](https://notebooklm.google.com/ice-creamery/P/Peanut%20Butter%20%E2%80%A2%20Vegan%20%28Deluxe%29) <!-- added 68 lines -->
+- **2025-06-08** [Ube Coconut - Vegan](https://notebooklm.google.com/ice-creamery/U/Ube%20Coconut%20%E2%80%A2%20Vegan%20%28Deluxe%29) <!-- added 76 lines -->
+- **2025-06-08** [Strawberry Sherbet - Vegan](https://notebooklm.google.com/ice-creamery/S/Strawberry%20Sherbet%20%E2%80%A2%20Vegan%20%28Deluxe%29) <!-- added 74 lines -->
+- **2025-06-08** [Dirty Peach Bourbon](https://notebooklm.google.com/ice-creamery/D/Dirty%20Peach%20Bourbon%20%28Deluxe%29) <!-- added 69 lines -->
+- **2025-06-07** [Lemon Sorbet](https://notebooklm.google.com/ice-creamery/L/Lemon%20Sorbet%20%28Deluxe%29) <!-- added 70 lines -->
 
 These entries represent changes where the `README.md` file within their respective recipe directories
 had more than 40 lines added. The list is ordered with the most recent changes first.
 
-[last updated 2025-07-22]
+[last updated 2025-08-02]
