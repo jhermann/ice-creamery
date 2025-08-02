@@ -1,0 +1,41 @@
+Espresso Martini Light (Deluxe);;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;;
+Nutritional values per 100g/ml;100;g;;41.4;0.1;7.6;2.0;0.0;0.1;;;;;
+Nutritional values per ½ Deluxe Tub;340;g;;140.7;0.2;25.7;6.8;0.0;0.2;;;;;
+Nutritional values total;600;g;;248.2;0.4;45.3;12.1;0.0;0.4;;;;;
+;;;;;;;;;;;;;;
+FPDF / PAC (target 20..30);31.08;;;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";0.05%;;;;LOW-FAT;;Low-Sugar;;Low-Salt;;;;;
+ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);0.0;g;;0.0%;;;;;;;;;;
+ℹ️ Net carbs;13.0;g;;*∝ 5 servings@120g:* 2.6g;;;*∝ 3 servings@200g:* 4.3g;;;*energy ratio (low <20%):* 20.9%;;;;
+;;;;;;;;;;;;;;
+"This imitates an *espresso martini*, a cocktail made with espresso, vodka, coffee liqueur, and a touch of sweetness.
+It contains no gin or vermouth, but it's served in a martini glass.
+The drink is known for its rich coffee flavor and potential to provide a caffeine boost.
+
+This recipe adds no cream or other embellishments beyond the coffee and alcoholic beverages,
+and has only about 250kcal in the whole Deluxe pint (or 500kcal if you make it more boozy).
+
+Spin on “Sorbet”, scrape down, and mix-in if needed.
+
+Pour in the additional alcohol after the 1st spin. It roughly doubles the energy value.";;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+Rating: 😋🍸☕ (untested);;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+The [brand names] used are in brackets.;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment;0Carb[%];Counts?
+Strong Coffee (from 45g coffee beans);450.00;ml;1;;;;;;;;;;;1
+Water (hot);250.00;ml;1;;;;;;;;;;;0
+Strong Espresso;200.00;ml;1;;;;;;;;;;;0
+Coffee Liqueur 25 vol% [Caffè Borghetti];50.00;ml;1;240.00;0.00;23.00;23.00;0.00;;1.69;;1 bottle = 700ml;;1
+Vodka 40 vol%;15.00;g;1;280.00;;;;;;2.96;;;;1
+Caster sugar;65.00;g;2;387.00;;100.00;100.00;;;1.00;;;;0
+Xylitol (E967);25.00;g;2;238.00;;100.00;;;;2.20;;"POD = 100%; GI = 7";100.00;1
+Salty Stability [Inulin / GMS / CMC / Guar / XG / Salt];10.00;g;2;267.5;3.6;88.4;5.9;0.3;3.5;0.06;;unsweetened “ICSv2”;73.80;1
+Vodka 40 vol%;80.00;g;4;280.00;;;;;;2.96;;*optional:* more booze as a mix-in [224kcal];; 
+;;;;;;;;;;;;;;
+Water to MAX line;50.00;ml;3;;;;;;;;;;;1
+Flavor drops Vanilla (sucralose) [IronMaxx];≈5;drops;3;;;;;;;;;to taste;;
