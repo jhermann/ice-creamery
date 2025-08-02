@@ -16,7 +16,7 @@ Some tags probably need an explanation:
  * [Simple](#tag:simple) recipes have a reduced amount of ingredients, which are 'non-exotic', or have an alternative that is. See details at [About 'Simple' Recipes](/ice-creamery/info/tips%2Btricks/#about-simple-recipes).
  * [Scoopable](#tag:scoopable) recipes are guaranteed freezer-stable due to a PAC value of at least 30.
  * [Polysaccharide Gum](#tag:polysaccharide-gum) contain one of LBG, xanthan, guar or tara gum.
- * [Alcohol](#tag:alcohol) only marks explicitly 'boozy' recipes; many others contain small amounts of pure ethanol (typically 4g) to help with [Freezing Point Depression](../info/glossary/#freezing-point-depression-factor-fpdf).
+ * [Alcohol](#tag:alcohol) only marks explicitly 'boozy' recipes; many others contain small amounts of pure ethanol (typically 4g, or 0.6%) to help with [Freezing Point Depression](../info/glossary/#freezing-point-depression-factor-fpdf).
 
 <!-- material/tags -->
 
