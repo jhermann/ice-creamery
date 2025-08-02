@@ -5,6 +5,7 @@ excluded_steps:
 excluded_tags:
 - Vanilla
 tags:
+- Alcohol
 - Draft
 - Emulsifier
 - Light
