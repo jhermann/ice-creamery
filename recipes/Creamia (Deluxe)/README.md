@@ -13,6 +13,7 @@ tags:
 - Draft
 - Emulsifier
 - Polysaccharide Gum
+- Simple
 - Tylo Powder (CMC)
 - Xylitol
 ---
@@ -46,9 +47,9 @@ Rating: 😋🥛 (untested)
 **Dry**
 
   - _75g_ Full Fat Milkpowder [Mr. Brown]
-  - _35g_ [Trehalose \[SaporePuro\]](/ice-creamery/info/ingredients/#trehalose-e965){target="_blank"}<sup>↗</sup> • alternative: dextrose • POD = 45%; GI = 38
-  - _30g_ [Xylitol (E967)](/ice-creamery/info/ingredients/#xylitol-e967){target="_blank"}<sup>↗</sup> • alternative: sugar • POD = 100%; GI = 7
-  - _5g_ [Salty Stability \[Inulin / GMS / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup> • unsweetened “ICSv2”
+  - _35g_ [Trehalose \[SaporePuro\]](/ice-creamery/info/ingredients/#trehalose-e965){target="_blank"}<sup>↗</sup> • *alternative:* dextrose • POD = 45%; GI = 38
+  - _30g_ [Xylitol (E967)](/ice-creamery/info/ingredients/#xylitol-e967){target="_blank"}<sup>↗</sup> • *alternative:* sugar • POD = 100%; GI = 7
+  - _5g_ [Salty Stability \[Inulin / GMS / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup> • *alternative:* 0.75g guar + .25g xanthan
 
 **Fill to MAX**
 
