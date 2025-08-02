@@ -36,9 +36,10 @@ Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment;0C
 Milk 3.5% [Weihenstephan];300.00;ml;1;64.00;3.50;4.70;4.70;3.50;0.13;0.05;8.97;;;1
 Mascarpone 42% [Galbani];;g;1;412.00;41.50;4.80;4.50;4.80;0.08;;10.38;;;1
 Full Fat Milkpowder [Mr. Brown];75.00;g;2;482.00;26.00;35.00;35.00;25.00;0.94;0.35;69.00;;;1
-Sugar;55.00;g;2;387.00;;100.00;100.00;;;1.00;;;;0
-Trehalose [SaporePuro];35.00;g;2;355.00;0.00;89.00;89.00;0.00;0.03;1.00;;"POD = 45%; GI = 38";;1
-Xylitol (E967);30.00;g;2;238.00;;100.00;;;;2.20;;"POD = 100%; GI = 7";100.00;1
+Dextrose;35.00;g;2;350.00;;100.00;100.00;;;1.90;;POD 70%;;0
+Sugar;30.00;g;2;387.00;;100.00;100.00;;;1.00;;;;0
+Trehalose [SaporePuro];35.00;g;2;355.00;0.00;89.00;89.00;0.00;0.03;1.00;;"alternative: dextrose • POD = 45%; GI = 38";;1
+Xylitol (E967);30.00;g;2;238.00;;100.00;;;;2.20;;"alternative: sugar • POD = 100%; GI = 7";100.00;1
 Salty Stability [Inulin / GMS / CMC / Guar / XG / Salt];5.00;g;2;267.5;3.6;88.4;5.9;0.3;3.5;0.06;;unsweetened “ICSv2”;73.80;1
 Cream 32% [REWE Beste Wahl];250.00;ml;3;311.00;32.00;3.20;3.20;2.50;0.13;0.03;6.32;;;1
 Cream 48% (double cream);;ml;3;445.00;48.00;2.60;2.60;1.70;0.10;0.03;4.84;;;1
