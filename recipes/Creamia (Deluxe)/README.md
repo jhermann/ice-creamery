@@ -36,6 +36,8 @@ Rating: 😋🥛 (untested)
 
 > *Adapted from [Milkiest Milk Ice Cream Recipe](https://www.tashcakes.com/2024/07/milkiest-milk-ice-cream-recipe-cremia.html).*
 
+> ℹ️ Read [About 'Simple' Recipes](/ice-creamery/info/tips%2Btricks/#about-simple-recipes) regarding 'exotic' ingredients and their alternatives.
+
 # INGREDIENTS
 
 ℹ️ Brand names are in square brackets `[...]`.
