@@ -1,0 +1,139 @@
+img.zoomable {
+  user-drag: none;
+  cursor: zoom-in;
+  transition-property: width, height, position;
+  transition-duration: .35s;
+}
+img.zoomable:active {
+  cursor: zoom-out;
+  transition-property: width, height, position;
+  transition-duration: .5s;
+  width: 100%;
+  max-width: 600px; /* real image width */
+  position: fixed;
+  top: 0; left: 0; right: 0; bottom: 0;
+  margin: auto;
+  padding-top: 80px;
+}
+
+.md-typeset {
+  line-height: 1.35;
+}
+.md-typeset h1 {
+  margin-top: 1rem;
+  margin-bottom: .5rem;
+}
+.md-typeset table:not([class]) th,
+.md-typeset table:not([class]) td {
+  padding: .3rem .2rem;
+  min-width: 1rem;
+}
+.md-typeset table:not([class]) thead tr {
+  background-color: #bbb;
+}
+.md-typeset table:not([class]) tbody tr:nth-child(odd) {
+  background-color: #eef;
+}
+.md-typeset table:not([class]) tbody tr:nth-child(even) {
+  background-color: #ccf;
+}
+.md-typeset table:not([class]) tbody tr:hover {
+  background-color: #ccc;
+}
+.md-typeset ol li, .md-typeset ul li {
+  margin-bottom: .05rem;
+}
+
+.md-typeset .md-tag {
+  background: #b8b;
+}
+
+.md-tabs__link {
+	font-size: 175%;
+}
+
+.md-nav__item--active label span.md-ellipsis {
+  color: teal;
+  font-style: italic;
+}
+
+.mkde-embed-container {
+	background-color: #99b;
+}
+
+#print-site-page nav,
+#print-site-page .md-header,
+#print-site-page .md-sidebar,
+#print-site-page .md-footer,
+#print-site-page .md-tabs,
+#print-site-page .md-tags,
+#print-site-page .md-header__inner
+{
+  display: none !important;
+  height: 0px;
+}
+
+a.headerlink {
+  font-size: 0;
+}
+a.headerlink:after {
+  content: '🔗';
+  font-size: initial;
+  color: #ffffff80;
+}
+a.headerlink:hover:after {
+  color: white;
+  text-shadow: 1px 1px 0 #ffff0099;
+}
+
+a.md-tag[href$="tag:draft"],
+a.md-tag[href$="tag:favorite"] {
+  color: #ff4400 !important;
+}
+
+a.md-tag[href$="tag:allulose"],
+a.md-tag[href$="tag:monk-fruit"],
+a.md-tag[href$="tag:sucralose"],
+a.md-tag[href$="tag:erythritol"],
+a.md-tag[href$="tag:stevia"],
+a.md-tag[href$="tag:xylitol"] {
+  color: skyblue !important;
+}
+
+a.md-tag[href$="-gum"],
+a.md-tag[href$="-cmc"] {
+  color: #880033 !important;
+}
+
+a.md-tag[href*="tag:light"],
+a.md-tag[href*="tag:hi-"],
+a.md-tag[href*="tag:low-"] {
+  color: yellow !important;
+}
+
+a.md-tag[href*="tag:cooked-base"],
+a.md-tag[href*="tag:coconut"],
+a.md-tag[href*="tag:dairy"],
+a.md-tag[href*="tag:dairy-free"],
+a.md-tag[href*="tag:fruit"],
+a.md-tag[href*="tag:sorbet"],
+a.md-tag[href*="tag:vanilla"],
+a.md-tag[href*="tag:vegan"] {
+  color: royalblue !important;
+}
+
+/* Absolute favorites
+a[href*=""]::before, h1[id*="" i]::before,
+  content: "✨";
+ */
+a[href*="Almond%20Buttermilk"]::before, h1[id*="Almond-Buttermilk" i]::before,
+a[href*="Banana%20Ice%20Cream"]::before, h1[id*="Banana-Ice-Cream" i]::before,
+a[href*="Cherry%20Ice%20Cream"]::before, h1[id*="Cherry-Ice-Cream" i]::before,
+a[href*="German%20Cheesecake"]::before, h1[id*="German-Cheesecake" i]::before,
+a[href*="Strawberry%20Cheesecake"]::before, h1[id*="Strawberry-Cheesecake" i]::before,
+a[href*="Strawberry%20Sangria"]::before, h1[id*="Strawberry-Sangria" i]::before {
+  content: "😍";
+}
+li.md-tabs__item a::before {
+  content: "";
+}
