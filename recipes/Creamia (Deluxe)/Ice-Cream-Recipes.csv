@@ -1,0 +1,45 @@
+Creamia (Deluxe);;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;;
+Nutritional values per 100g/ml;100;g;;221.6;15.9;16.4;11.5;5.1;0.2;;;;;
+Nutritional values per ½ Deluxe Tub;340;g;;753.4;53.9;55.7;39.0;17.4;0.8;;;;;
+Nutritional values total;695;g;;1540.0;110.2;113.9;79.8;35.5;1.6;;;;;
+;;;;;;;;;;;;;;
+FPDF / PAC (target 20..30);22.89;;;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";9.22%;;;;;;;;;;;;;
+ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);94.5;g;;13.6%;;;;;;;;;;
+ℹ️ Net carbs;80.2;g;;*∝ 5 servings@139g:* 16g;;;*∝ 3 servings@232g:* 26.7g;;;*energy ratio (low <20%):* 20.8%;;;;
+;;;;;;;;;;;;;;
+"Cremia is a premium Japanese soft-serve ice cream known for its rich, creamy texture and luxurious taste.
+It's made with 25% fresh Hokkaido cream and 12.5% milk fat, giving it a higher butterfat content than typical soft-serve.
+Cremia is typically served in a distinctive, buttery *langue de chat* (cat's tongue) cookie cone.
+
+The original UK YouTube recipe uses double cream (48% fat, 160:380), leading to 16.3% fat in total.
+It can be replacedd by Crème double or Mascarpone with 42% (190:355), or with whipping cream 32% (250:300).
+
+I also added some stabilizer so it does not melt so fast, and replaced the sugar.";;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+"Spin on “Light Ice Cream”, scrape down, and re-mix if needed.
+
+Rating: 😋🥛 (untested)
+
+> *Adapted from [Milkiest Milk Ice Cream Recipe](https://www.tashcakes.com/2024/07/milkiest-milk-ice-cream-recipe-cremia.html).*";;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+"1. Weight and combine ‘dry’ ingredients in a bowl.
+ 1. Pour the milk into a small saucepan.
+ 1. Whisk in the ‘dry’ ingredients.
+ 1. Heat up the milk on medium heat to about 60°C, and add the cream.
+ 1. Let it cool down a bit in a water bath, add to an empty Creami tub.";;;;;;;;;;;;;;
+The [brand names] used are in brackets.;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment;0Carb[%];Counts?
+Milk 3.5% [Weihenstephan];300.00;ml;1;64.00;3.50;4.70;4.70;3.50;0.13;0.05;8.97;;;1
+Mascarpone 42% [Galbani];;g;1;412.00;41.50;4.80;4.50;4.80;0.08;;10.38;;;1
+Full Fat Milkpowder [Mr. Brown];75.00;g;2;482.00;26.00;35.00;35.00;25.00;0.94;0.35;69.00;;;1
+Sugar;55.00;g;2;387.00;;100.00;100.00;;;1.00;;;;0
+Trehalose [SaporePuro];35.00;g;2;355.00;0.00;89.00;89.00;0.00;0.03;1.00;;"POD = 45%; GI = 38";;1
+Xylitol (E967);30.00;g;2;238.00;;100.00;;;;2.20;;"POD = 100%; GI = 7";100.00;1
+Salty Stability [Inulin / GMS / CMC / Guar / XG / Salt];5.00;g;2;267.5;3.6;88.4;5.9;0.3;3.5;0.06;;unsweetened “ICSv2”;73.80;1
+Cream 32% [REWE Beste Wahl];250.00;ml;3;311.00;32.00;3.20;3.20;2.50;0.13;0.03;6.32;;;1
+Cream 48% (double cream);;ml;3;445.00;48.00;2.60;2.60;1.70;0.10;0.03;4.84;;;1
+Crème double 42%;;ml;3;398.00;42.00;3.00;3.00;2.20;0.10;0.03;5.39;;;1
