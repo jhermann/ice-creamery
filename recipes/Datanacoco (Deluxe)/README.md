@@ -14,6 +14,7 @@ tags:
 - Scoopable
 - Sucralose
 - Tylo Powder (CMC)
+- Vegan
 - Xylitol
 ---
 # Datanacoco (Deluxe)
