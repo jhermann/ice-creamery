@@ -1,4 +1,4 @@
-# Resources on the Web<img style="float: right; margin-left: 1.5em;" width=160 alt="Logo" src="../logo-web.webp" />
+# Resources on the Web<img style="float: right; margin-left: 1.5em;" width=160 alt="Logo" src="/ice-creamery/info/logo-web.webp" />
 
 Here is a list of well-known web sites and other resources like YouTube channels found on the internet.
 

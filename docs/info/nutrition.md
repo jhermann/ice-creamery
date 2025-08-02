@@ -1,4 +1,4 @@
-# Nutritional Values<img style="float: right; margin-left: 1.5em;" width=160 alt="Logo" src="../logo-nutritional-info.png" />
+# Nutritional Values<img style="float: right; margin-left: 1.5em;" width=160 alt="Logo" src="/ice-creamery/info/logo-nutritional-info.png" />
 
 This table shows the nutritional values and PAC / MSNF
 of common ingredients, with a regional bias towards Germany.

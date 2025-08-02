@@ -1,4 +1,4 @@
-# Philosophy & Principles<img style="float: right; margin-left: 1.5em;" width=160 alt="Logo" src="../logo-principles.png" />
+# Philosophy & Principles<img style="float: right; margin-left: 1.5em;" width=160 alt="Logo" src="/ice-creamery/info/logo-principles.png" />
 The recipes here are designed to produce high-quality frozen desserts. They're calculated and optimized for flavor and texture, ensuring that the resulting ice creams are dense, creamy, non-melty, and free of ice crystals. Many of them are formulated to remain scoopable for days even after being put back into the freezer.
 
 Below are the core components and principles underpinning the recipes.

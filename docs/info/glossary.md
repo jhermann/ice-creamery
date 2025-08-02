@@ -1,4 +1,4 @@
-# Glossary<img style="float: right; margin-left: 1.5em;" width=160 alt="Logo" src="../logo-glossary.png" />
+# Glossary<img style="float: right; margin-left: 1.5em;" width=160 alt="Logo" src="/ice-creamery/info/logo-glossary.png" />
 
 See also:
 

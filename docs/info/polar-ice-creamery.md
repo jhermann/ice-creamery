@@ -1,4 +1,4 @@
-# "Polar Ice Creamery" Wisdoms<img style="float: right; margin-left: 1.5em;" width=160 alt="Logo" src="../logo-polar-ice-creamery.png" />
+# "Polar Ice Creamery" Wisdoms<img style="float: right; margin-left: 1.5em;" width=160 alt="Logo" src="/ice-creamery/info/logo-polar-ice-creamery.png" />
 
 > Important ideas and facts regarding various ice cream topics,
 > drawing information directly from the YouTube video transscripts of the well-known

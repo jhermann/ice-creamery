@@ -1,4 +1,4 @@
-# Frequently Asked Questions <img style="float: right; margin-left: 1.5em;" width=160 alt="Logo" src="../logo-faq.png" /><br />(FAQ)
+# Frequently Asked Questions <img style="float: right; margin-left: 1.5em;" width=160 alt="Logo" src="/ice-creamery/info/logo-faq.png" /><br />(FAQ)
 Some questions that are asked a lot, and their answers.
 
 ## What is the "Deluxe Tub" mentioned in the recipes?
