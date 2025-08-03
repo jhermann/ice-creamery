@@ -68,6 +68,7 @@ Rating: 😋🍫🍫🍫🕳️ (chocolate black hole, in a good way)
   - _10g_ [Salty Stability \[Inulin / GMS / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup> • unsweetened “ICSv2”
   - _4.5g_ Instant Coffee [Mount Hagen] • 1.5g per 125ml
   - _0.5g_ Cinnamon (Ceylon)
+  - _1 pinch_ Cayenne + Nutmeg • **optional** – 🔥❤️‍🔥 for that hot vibe
 
 **Fill to MAX**
 
