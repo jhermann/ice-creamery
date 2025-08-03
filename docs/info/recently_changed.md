@@ -10,14 +10,14 @@ the other lines hold the number of added and deleted lines for each file changed
 which can be used to infer the changeset size, followed by the path of the file.
 
 list the names of the directory under recipes for all changes of "README.md" files
-that have at least one record with more than 40 lines added. sort the list by the date in descneding order,
+that have at least one record with more than 40 lines added. sort the list by the date in descending order,
 and include the date of the change before the name, in bold text.
 leave out the text " (Deluxe)" in the visible directory name.
 link the directory name using Markdown format, with the URL prefix
 "/ice-creamery/" followed by the first letter of the name as a 2nd path component,
 and finally followed by the FULL original directory name.
 url-encode that link. so to reiterate, the links have the markdown format
-"[shortened directory name](url-enconded full directory name)".
+"[shortened directory name](url-encoded full directory name)".
 put the number of added lines into a HTML comment after the link, in the format "added NNN lines".
 -->
 
