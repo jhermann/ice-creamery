@@ -27,7 +27,9 @@ Dates, banana, and coconut milk ice cream — a/k/a “What I had in my fridge a
 Process on *Sorbet*, [hold it shortly under running water](https://jhermann.github.io/ice-creamery/info/tips%2Btricks/#handling-of-icy-sides-bottom)
 *after* that. Then a scrape-down and a respin or re-mix.
 
-> <img width=360 alt="Spun Ice Cream" src="" class="zoomable" />
+> <img width=220 alt="After Sorbet" src="Datanacoco_2025-08-03_1.jpg" class="zoomable" />
+> <img width=220 alt="After Mix-in" src="Datanacoco_2025-08-03_2.jpg" class="zoomable" />
+> <img width=220 alt="Scooped" src="Datanacoco_2025-08-03_3.jpg" class="zoomable" />
 
 Rating: 😋🍌🥥 (untested)
 
