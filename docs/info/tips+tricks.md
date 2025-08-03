@@ -50,6 +50,7 @@ Finally, here are some replacements for widely used ingredients, keeping the PAC
  * **SweEX (E’ol+X’ol 3:2)** → 133% Allulose
  * **SweEX (E’ol+X’ol 3:2)** → 55% Honey + 45% Glycerin
  * **SweEX (E’ol+X’ol 3:2)** → 50% Allulose + 20% Agave syrup + 35% Glycerin
+ * **Trehalose** → 55% Dextrose *or* 50% Honey
  * **Alcohol 40 vol%** → 80% Glycerin — This is mildly sweet where the alcohol is not.
 
 Where the replacing weight differs, the usual "fill to MAX line" will take care of that.
