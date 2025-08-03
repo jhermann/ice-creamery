@@ -43,7 +43,8 @@ And look out for *alternatives* for ingredients you don't have — they are give
 
 ### Ingredient Replacements
 
-Finally, here are some replacements for widely used ingredients, keeping the PAC / POD value as close as possible to the original ingredient:
+Finally, here are some replacements for widely used ingredients, in percentages of the original weight.
+These ratios are keeping the PAC / POD value as close as possible to the original ingredient:
 
  * **Erythritol** → 40% Honey + 60% Glycerin
  * **Xylitol** → 75% Honey + 25% Glycerin
