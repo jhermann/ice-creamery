@@ -38,6 +38,7 @@ Also, some ingredients and tools I consider essential for ice cream making, whic
  * Dextrose, in case you want to replace sugar alcohols (erythritol, xylitol, etc).
  * A digital kitchen scale. Prefer one that has a 0.1g precision, those are also typically updating faster, without undue delays of one or more seconds.
  * Consider to also get a jeweller's scale (0.01g precision) for very small ingredient amounts, where a normal kitchen scale will fail you. They are cheap, in the 15–30€ range, and so small they're easily tucked away in a utensil drawer.
+ <br /><br /><img width=240 alt="Scale with 0.01g prescision" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/assets/accu-weigth.png" class="zoomable" />
 
 And look out for *alternatives* for ingredients you don't have — they are given on the same line as the ingredient they replace, or mentioned in the introduction above the ingredient list.
 
