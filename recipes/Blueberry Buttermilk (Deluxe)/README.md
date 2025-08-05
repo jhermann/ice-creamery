@@ -1,5 +1,7 @@
 ---
 description: Recipe for the Ninja Creami Deluxe [24oz]
+excluded_steps:
+- ^$
 excluded_tags:
 - Vanilla
 tags:
@@ -9,7 +11,6 @@ tags:
 - Favorite
 - Fruit
 - Hi-Protein
-- Light
 - Low-Fat
 - Low-Sugar
 - Multi-Flavor
@@ -58,7 +59,7 @@ The variant made with strawberries, processed the same but with only a final Mix
 
 **Wet**
 
-  - _425ml_ Buttermilk 1% [REWE]
+  - _400ml_ Buttermilk 1% [REWE]
   - _125g_ Blueberries (frozen)
   - _25g_ [Cream Cheese 23% \[Exquisa\]](/ice-creamery/info/ingredients/#cream-cheese){target="_blank"}<sup>↗</sup>
   - _15g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • Sweetness = 60%; GI = 5; Density = 1.26 g/ml
@@ -66,20 +67,21 @@ The variant made with strawberries, processed the same but with only a final Mix
 
 **Dry**
 
-  - _40g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • POD ≈ 90%; GI < 7
+  - _35g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • POD ≈ 90%; GI < 7
   - _15g_ [Salty Stability \[Inulin / GMS / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup> • unsweetened “ICSv2”
   - _20g_ [Whey + Casein protein (grass-fed) \[Vilgain\]](/ice-creamery/info/ingredients/#whey-protein){target="_blank"}<sup>↗</sup> • with stevia
 
 **Fill to MAX**
 
-  - _45ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
+  - _35ml_ Buttermilk 1% [REWE]
   - _≈5 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
 
-**Optional**
+**Optional / Choices**
 
   - _175g_ Strawberries • fresh or frozen [54kcal, 10g sugar]
   - _125g_ Blueberries • fresh or frozen [60kcal, 11g sugar]
   - _125g_ Mango • fresh or frozen [78kcal, 16g sugar]
+  - _125g_ Bananas (ripe, peeled) • 2 small pieces [135kcal, 20g sugar]
 
 # DIRECTIONS
 
@@ -92,11 +94,12 @@ The variant made with strawberries, processed the same but with only a final Mix
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
 
 # NUTRITIONAL & OTHER INFO
-- **Nutritional values per 100g/ml:** 100g; 73.7 kcal; fat 1.4g; carbs 13.7g; sugar 4.3g; protein 4.7g; salt 0.2g
-- **Nutritional values per ½ Deluxe Tub:** 360g; 265.3 kcal; fat 5.2g; carbs 49.4g; sugar 15.4g; protein 17.1g; salt 0.7g
-- **Nutritional values total:** 720g; 530.5 kcal; fat 10.4g; carbs 98.8g; sugar 30.9g; protein 34.1g; salt 1.5g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 31.53
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 25.75% • LOW-FAT • Low-Sugar • Hi-Protein
-- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 58.4g • 8.1%
-- **Net carbs:** 40.2g • *∝ 5 servings@144g:* 8g • *∝ 3 servings@240g:* 13.4g • *energy ratio (low <20%):* 30.3%
+
+- **Nutritional values per 100g/ml:** 100g; 75.7 kcal; fat 1.4g; carbs 13.8g; sugar 4.6g; protein 4.9g; salt 0.2g
+- **Nutritional values per ½ Deluxe Tub:** 340g; 257.5 kcal; fat 4.9g; carbs 46.9g; sugar 15.6g; protein 16.6g; salt 0.7g
+- **Nutritional values total:** 680g; 515.0 kcal; fat 9.8g; carbs 93.8g; sugar 31.3g; protein 33.1g; salt 1.5g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 31.55
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 25.74% • LOW-FAT • Low-Sugar • Hi-Protein
+- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 57.5g • 8.5%
+- **Net carbs:** 40.2g • *∝ 5 servings@136g:* 8g • *∝ 3 servings@227g:* 13.4g • *energy ratio (low <20%):* 31.2%
 - **15g 'Salty Stability' is:** 11.0g Inulin • 1.8g Glycerol Monostearate (GMS / E471) • 0.9g Tylose powder (E466, Tylo, CMC) • 0.6g Guar gum (E412) • 0.5g Salt • 0.2g Xanthan gum (E415, XG).
