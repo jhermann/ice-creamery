@@ -177,7 +177,7 @@ The way a *Creami* processes your base means that the tub sides and bottom remai
 
 To fix that, **after** the 1st (main) processing step, run *cold* tap water (20..25°C) over the container, tilted a little to the side and while turning it to treat the container wall fully. Do that for 15..30 seconds, depending on the consistency of the base.
 
-Then, for already relatively soft bases, do a 2nd run on "Mix-in" to minimize the additional heat induced, otherwise perform a "Respin." You can also scrape down the sides with a spoon (upside of the spoon oriented towards the wall), to bring the icy parts to where the paddle can reach them.
+Then, for already relatively soft bases, do a 2nd run on "Mix-in" to minimize the additional heat induced, otherwise perform a "Respin." You can also scrape down the sides with a spoon (upside of the spoon oriented towards the wall) or a stiff silicone spatula, to bring the icy parts to where the paddle can reach them.
 
 If your ice cream gets too soft that way, put it back into the freezer for at least an hour.
 Once you made a recipe, you know how it reacts and can plan ahead accordingly.
