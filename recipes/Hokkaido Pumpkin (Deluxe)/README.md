@@ -14,6 +14,7 @@ tags:
 - Low-Sugar
 - Polysaccharide Gum
 - Scoopable
+- Sucralose
 - Tylo Powder (CMC)
 - Xylitol
 ---
@@ -49,21 +50,22 @@ Rating: 😋🎃 (untested)
 
 **Wet**
 
-  - _50ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
-  - _17g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • Sweetness = 60%; GI = 5; Density = 1.26 g/ml
-  - _15g_ [Brandy or Vodka 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup>
-  - _15g_ Honey
+  - _75ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
+  - _16g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • Sweetness = 60%; GI = 5; Density = 1.26 g/ml
+  - _16g_ [Brandy or Vodka 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup>
+  - _16g_ Honey
 
 **Dry**
 
   - _20g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • POD ≈ 90%; GI < 7
-  - _20g_ [Soy protein isolate (nature) \[Powerstar\]](/ice-creamery/info/ingredients/#soy-protein-isolate){target="_blank"}<sup>↗</sup> • unsweetened, unflavored
+  - _10g_ [Soy protein isolate (nature) \[Powerstar\]](/ice-creamery/info/ingredients/#soy-protein-isolate){target="_blank"}<sup>↗</sup> • unsweetened, unflavored
   - _5g_ [Salty Stability \[Inulin / GMS / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup> • unsweetened “ICSv2”
 
 **Fill to MAX**
 
   - _50ml_ Cream 32% [REWE Beste Wahl]
-  - _38ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
+  - _22ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
+  - _≈7 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
 
 # DIRECTIONS
 
@@ -80,11 +82,11 @@ Rating: 😋🎃 (untested)
 
 # NUTRITIONAL & OTHER INFO
 
-- **Nutritional values per 100g/ml:** 100g; 83.9 kcal; fat 2.6g; carbs 11.3g; sugar 4.5g; protein 3.9g; salt 0.1g
-- **Nutritional values per ½ Deluxe Tub:** 340g; 285.2 kcal; fat 8.9g; carbs 38.3g; sugar 15.4g; protein 13.4g; salt 0.4g
-- **Nutritional values total:** 680g; 570.5 kcal; fat 17.8g; carbs 76.7g; sugar 30.9g; protein 26.8g; salt 0.9g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.13
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 18.80% • LOW-FAT • Low-Sugar
-- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 25.3g • 3.7%
-- **Net carbs:** 53.0g • *∝ 5 servings@136g:* 10.6g • *∝ 3 servings@227g:* 17.7g • *energy ratio (low <20%):* 37.2%
+- **Nutritional values per 100g/ml:** 100g; 79.1 kcal; fat 2.6g; carbs 11.2g; sugar 4.7g; protein 2.7g; salt 0.1g
+- **Nutritional values per ½ Deluxe Tub:** 340g; 268.8 kcal; fat 8.9g; carbs 38.2g; sugar 15.8g; protein 9.1g; salt 0.3g
+- **Nutritional values total:** 680g; 537.7 kcal; fat 17.8g; carbs 76.5g; sugar 31.6g; protein 18.1g; salt 0.6g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.02
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 13.47% • LOW-FAT • Low-Sugar • Low-Salt
+- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 16.3g • 2.4%
+- **Net carbs:** 52.8g • *∝ 5 servings@136g:* 10.6g • *∝ 3 servings@227g:* 17.6g • *energy ratio (low <20%):* 39.3%
 - **5g 'Salty Stability' is:** 3.7g Inulin • 0.6g Glycerol Monostearate (GMS / E471) • 0.3g Tylose powder (E466, Tylo, CMC) • 0.2g Guar gum (E412) • 0.17g Salt • 0.07g Xanthan gum (E415, XG).
