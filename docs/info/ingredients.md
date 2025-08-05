@@ -134,7 +134,7 @@ Inulin is a naturally occurring polysaccharide, and used to improve mouthfeel, s
 
 Inulin has fewer calories (2 kcal/g) compared to fat (9 kcal/g) or sucrose (4 kcal/g).
 
-Fat can be reduced by 50% with 5% native inulin — i.e. up to 35g in a Deluxe tub. It improves creaminess perception and melting resistance. Typically 10-20g in a 720g mix is enough.
+Fat can be reduced by 50% with 5% native inulin — i.e. up to 35g in a Deluxe tub. It improves creaminess perception and melting resistance. Typically 10-20g in a 680g mix is enough.
 
 RDA is 8-18g (tested for up to 24 weeks). Most common side effects include gas, bloating, diarrhea, constipation, and cramps. As a fructan, inulin has minimal impact on increasing blood sugar.
 
@@ -233,7 +233,7 @@ It is a clear, odorless, and sweet-tasting liquid with a syrupy consistency.
 It has 60% the sweetness of table sugar, and is hygroscopic.
 Shelf life of glycerin is 24 months when stored below 38°C / 100°F in a closed container.
 
-*Dosage:*  Add 5-15g to a 720g mix.
+*Dosage:*  Add 5-15g to a 680g mix.
 
 Glycerin serves several key purposes in ice cream:
 
@@ -366,7 +366,7 @@ and a smoother, less icy texture. Gelatin can also help slow down melting.
 
 Gelatin should be used in moderation (0.15–0.3% by weight),
 as excessive amounts can result in a pudding-like consistency.
-One teaspoon of powdered gelatin is ≈2.8g, so ½–1 tsp in 720g is a good dosage.
+One teaspoon of powdered gelatin is ≈2.8g, so ½–1 tsp in 680g is a good dosage.
 When combining with xanthan, use a `3G:1XG` ratio.
 
 It's important to bloom the gelatin (dissolve it in a small amount of liquid),

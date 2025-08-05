@@ -4,7 +4,7 @@ Some questions that are asked a lot, and their answers.
 ## What is the "Deluxe Tub" mentioned in the recipes?
 The "Deluxe Tub" refers to the 24oz size container used with the Ninja Creami Deluxe model.
 
-Many of the nutritional values provided in the recipes are calculated based on a full Deluxe Tub (720g total) or half of one (360g).
+Many of the nutritional values provided in the recipes are calculated based on a full Deluxe Tub (680g total) or half of one (360g).
 
 ## What is Ice Cream Stabilizer (ICSv2) and why is it used?
 

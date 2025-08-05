@@ -7,7 +7,7 @@ Below are the core components and principles underpinning the recipes.
 The recipes are created using *LibreOffice* spreadsheets, which enable direct calculation of important ice cream metrics and nutritional information. A Python script then converts these spreadsheet exports into markdown files for the website. This systematic approach allows for precision in ingredient ratios and nutritional information.
 
 ## 2. Ingredient Amounts and Preparation Workflow
-Ingredient amounts are specifically tailored for the **720ml (24oz) Creami Deluxe container size**. For smaller models like the base Creami or the *Swirl*, recipes can be scaled down by using ⅔ (66%) of all ingredients.
+Ingredient amounts are specifically tailored for the **680ml (24oz) Creami Deluxe container size**. For smaller models like the base Creami or the *Swirl*, recipes can be scaled down by using ⅔ (66%) of all ingredients.
 
 The preparation workflow is streamlined, emphasizing the use of a kitchen scale to weigh both wet and dry ingredients. An immersion blender is crucial for quickly homogenizing the mixture and properly hydrating thickeners.
 
