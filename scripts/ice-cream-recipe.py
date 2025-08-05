@@ -47,6 +47,14 @@ TAG_SCOOPABLE_PAC_LIMIT = 30.0
 PREPPED_NAME = {
     'ICSv2': 'Ice Cream Stabilizer (ICS)',
 }
+SNIPPETS = dict(
+    alcohol="""
+> 💡 **Alcohol Replacement**<br />
+> If you don't want alcohol in your ice cream, or prepare it for kids,
+> replace the small amount of alcohol with vegetable glycerin.
+> For 10g booze (40 vol%) use 8g VG instead.
+""",
+)
 PREPPED = {
     'ICSv2': {
         'Erythritol (E968)': 100.00,
@@ -588,7 +596,10 @@ def main():
         md_text = add_default_tags(md_text, docmeta)
         print(f'Updating tags only: {", ".join(sorted(docmeta["tags"]))}')
 
+    snippet_re = '|'.join([re.escape(x) for x in SNIPPETS.keys()])
+    snippet_re = f'<!-- SNIPPET: ({snippet_re}) -->'
     md_text, _ = re.subn('\n{2,}', '\n\n', md_text)
+    md_text, _ = re.subn(snippet_re, lambda x: SNIPPETS[x.group(1)].strip(), md_text)
 
     if args.dry_run:
         print(md_text, end=None)
