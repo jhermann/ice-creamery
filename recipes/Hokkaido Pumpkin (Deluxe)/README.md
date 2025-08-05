@@ -40,6 +40,11 @@ Spin on “Sorbet”, scrape down, and re-mix.
 
 Rating: 😋🎃 (untested)
 
+> 💡 **Alcohol Replacement**<br />
+> If you don't want alcohol in your ice cream, or prepare it for kids,
+> replace the small amount of alcohol with vegetable glycerin.
+> For 10g booze (40 vol%) use 8g VG instead.
+
 # INGREDIENTS
 
 ℹ️ Brand names are in square brackets `[...]`.
