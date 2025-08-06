@@ -2,8 +2,13 @@
 description: Unsweetened pre-mixed stabilizer for Ninja Creami recipes.
 excluded_steps:
 - .+
+- Put on the lid
+- Process with RE-SPIN
+excluded_tags:
+- Vanilla
 tags:
 - Draft
+- Emulsifier
 - Polysaccharide Gum
 - Tylo Powder (CMC)
 ---
@@ -20,7 +25,10 @@ To prepare the mix, take a **BIG** bowl like used for baking, measure the ingred
 and whisk them carefully but thoroughly. A ball whisk works best.
 When done, store the powder in an air-tight container with enough volume.
 
-> <img width=360 alt="Container with blended mix" src="Salty-Stabilizer_2025-07-14.jpg" class="zoomable" />
+<img style="float: left; margin-right: 1.5em;" width=240 alt="Container with blended mix" src="Salty-Stabilizer_2025-07-14.jpg" class="zoomable" />
+
+> **3 Ingredient Replacement**<br />In a pinch, you can replace one 15g dose of the mix by 1.5g guar, 0.5g xanthan, and 0.5g salt — scale other amounts accordingly.
+> Do not expect the exact same results as from the full blend.
 
 Adding bulk to the thickeners prevents clumping when blending them into your base.
 Drizzle the mix into the vortex of a running blender,
@@ -40,7 +48,7 @@ and for a FPDF boost. Inulin bulks up the mix to be compatible with normal kitch
 **Dry**
 
   - _110g_ [Inulin \[Vit4ever\]](/ice-creamery/info/ingredients/#inulin){target="_blank"}<sup>↗</sup> • Sweetness = 8%; GI ~= 0
-  - _18g_ [Glycerol Monostearate (E471) \[Bulk\]](/ice-creamery/info/ingredients/#glycerol-monostearate-gms-e471){target="_blank"}<sup>↗</sup>
+  - _18g_ [Glycerol Monostearate (GMS / E471) \[Bulk\]](/ice-creamery/info/ingredients/#glycerol-monostearate-gms-e471){target="_blank"}<sup>↗</sup>
   - _9g_ [Carboxymethyl Cellulose (CMC / E466) \[GoodBake\]](/ice-creamery/info/ingredients/#carboxymethyl-cellulose-cmc-e466){target="_blank"}<sup>↗</sup>
   - _6g_ [Guar gum (E412)](/ice-creamery/info/ingredients/#guar-gum-e412){target="_blank"}<sup>↗</sup>
   - _5g_ Salt
@@ -52,6 +60,7 @@ and for a FPDF boost. Inulin bulks up the mix to be compatible with normal kitch
  1. Store in an air-tight container with enough volume.
 
 # NUTRITIONAL & OTHER INFO
+
 - **Nutritional values per 100g/ml:** 100g; 267.5 kcal; fat 3.6g; carbs 88.4g; sugar 5.9g; protein 0.3g; salt 3.5g; fpdf 0.06g
 - **Nutritional values per dose:** 15g; 40.1 kcal; fat 0.5g; carbs 13.3g; sugar 0.9g; protein 0.0g; salt 0.5g; fpdf 0.06g
 - **Nutritional values total:** 150g; 401.2 kcal; fat 5.4g; carbs 132.7g; sugar 8.8g; protein 0.5g; salt 5.3g; fpdf 0.06g
