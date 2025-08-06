@@ -57,7 +57,7 @@ Rating: 😋🍌🍹 (untested)
 # DIRECTIONS
 
  1. Blend the bananas, cream cheese and the other ‘prep’ ingredients in an empty tub to a smooth puree.
- 1. Add "wet" ingredients to the banana puree.
+ 1. Add "wet" ingredients to the banana puree, and blend to combine.
  1. Add remaining ingredients (to the MAX line) and stir with a spoon.
  1. Put on the lid, freeze for 24h, then spin as usual. Flatten any humps before that.
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
