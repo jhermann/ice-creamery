@@ -100,7 +100,7 @@ Sugar alcohol with a cooling mouth-feel and about 75% as sweet as sugar (add ⅓
 
 Erythritol lowers the freezing point of water drastically (2.8x compared to sugar).
 
-It has a strong tendency to crystallise in long-term frozen state (weeks), leading to a hard texture. This can be alleviated by adding at least 0.05% of a stabilizer, and staying below 8% of total weight.
+It has a strong tendency to crystallize in long-term frozen state (weeks), leading to a hard texture. This can be alleviated by adding at least 0.05% of a stabilizer, and staying below 8% of total weight.
 Mixing with at least 40% of xylitol has the same effect.
 
 *Dosage:* 6.5–8% of an ice cream base.
