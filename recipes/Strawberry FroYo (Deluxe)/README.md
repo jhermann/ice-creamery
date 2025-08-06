@@ -63,6 +63,7 @@ Rating: 😋🍦🍓🍓🍓 (sweet firm softness)
 **Topping Options**
 
   - _10ml_ Aceto balsamico di Modena [Due Vittorie] • add as a topping [32kcal, 7.8g sugar]
+  - _15ml_ Pomegranate syrup (nar ekşisi) [fersan] • add as a topping [44kcal, 8g sugar]
 
 **Optional / Choices**
 
