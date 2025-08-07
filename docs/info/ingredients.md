@@ -124,7 +124,7 @@ An ideal ratio of three parts erythritol to two parts of a second polyol is sugg
 A mix of Erythritol and Xylitol (ratio 3:2) I dubbed *SweEX* that takes
 the results of the *Jungbunzlauer study* into account (details see right above).
 
-It has a PAC of 256, a POD of ≈90%, and a GI below 7 (i.e. below that of xylitol).
+It has a PAC of 256, a POD of ≈85%, and a GI below 7 (i.e. below that of xylitol).
 
 > 💡 **Swapping in Allulose**<br />Use 133% of the given amount of *SweEX* to attain about the same PAC and POD values.
 > That means using 75% of a given pure allulose amount in the other direction.
