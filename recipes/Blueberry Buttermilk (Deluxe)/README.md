@@ -55,6 +55,12 @@ The variant made with strawberries, processed the same but with only a final Mix
 > 
 > 2025-07-11: Made with soy protein isolate. Spun on Sorbet, followed by a scrape-down and respin. Soft-serve consistency.
 
+> <img width=220 alt="Spun Ice Cream" src="Banana-Buttermilk_2025-08-07_1.jpg" class="zoomable" />
+> <img width=220 alt="Spun Ice Cream" src="Banana-Buttermilk_2025-08-07_2.jpg" class="zoomable" />
+> <img width=220 alt="Spun Ice Cream" src="Banana-Buttermilk_2025-08-07_3.jpg" class="zoomable" />
+> 
+> 2025-08-07: Banana variant, spun on Sorbet, followed by a scrape-down and mix-in. Soft but firmer than other fruit.
+
 # INGREDIENTS
 
 ℹ️ Brand names are in square brackets `[...]`.
