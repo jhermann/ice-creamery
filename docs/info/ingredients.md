@@ -26,7 +26,7 @@ of common ingredients, sorted by PAC.
 | 190 | 170 | 19 | Fructose | |
 | 190 | 100 | ≈68 | High-fructose corn syrup (HFCS-55) | fructose >55% + glucose |
 | 190 | ≈95 | ≈65 | High-fructose corn syrup (HFCS-42) | fructose >42% + glucose |
-| 190 | 105 | 50 | Honey | |
+| 190 | ≈105 | 50 | Honey | Some sources claim a POD of up to 150 |
 | 190 | ≈130 | 87 | Invert sugar | a/k/a inverted sugar, invert syrup,<br />(invert) sugar syrup |
 | 190 |  60 |  9 | Sorbitol | |
 | 180 | ≈160 | 11 | Agave Syrup | POD ranges from 140 to 180 |
