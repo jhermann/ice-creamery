@@ -59,7 +59,7 @@ When removing the skin, go by knife resistance to know how much to cut off, and 
 
 > <img width=331 alt="Served with Melon Balls Infused in Brandy + Cream" src="Honey-Melon_2025-07-24-4.jpg" class="zoomable" />
 > <img width=331 alt="Served with Olive Oil and tajin" src="Honey-Melon_2025-07-24-5.jpg" class="zoomable" />
->
+> 
 > *Served with melon balls infused in brandy and cream, and an olive oil drizzle plus tajin.*
 
 # INGREDIENTS
@@ -69,24 +69,24 @@ When removing the skin, go by knife resistance to know how much to cut off, and 
 **Wet**
 
   - _500g_ Galia melon (organic) • 1 melon = 1.3kg, 60–70% yield
-  - _75ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
+  - _50ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
   - _15g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • Sweetness = 60%; GI = 5; Density = 1.26 g/ml
   - _10g_ [Brandy or Vodka 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup>
   - _10ml_ Lemon juice
 
 **Dry**
 
-  - _40g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • POD ≈ 90%; GI < 7
+  - _35g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • POD ≈ 85%; GI < 7
   - _10g_ [Salty Stability \[Inulin / GMS / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup> • unsweetened “ICSv2”
   - _20g_ [Soy protein isolate (nature) \[Powerstar\]](/ice-creamery/info/ingredients/#soy-protein-isolate){target="_blank"}<sup>↗</sup> • 1kg bag, unsweetened, unflavored
   - _1g_ Matcha green tea powder (organic) [Mandoi] • optional, for color; ½ tsp = 1g
 
 **Fill to MAX**
 
-  - _40ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
+  - _29ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
   - _≈5 drops_ Flavor drops Peach / Maracuja (sucralose) [IronMaxx] • to taste
 
-**Optional**
+**Optional / Choices**
 
   - _500g_ Galia melon (organic) • [130kcal, 28g sugar]
   - _500g_ Honeydew melon (organic) • [180kcal, 41g sugar]
@@ -102,11 +102,12 @@ When removing the skin, go by knife resistance to know how much to cut off, and 
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
 
 # NUTRITIONAL & OTHER INFO
-- **Nutritional values per 100g/ml:** 100g; 56.0 kcal; fat 0.4g; carbs 13.0g; sugar 4.0g; protein 3.4g; salt 0.2g
-- **Nutritional values per ½ Deluxe Tub:** 360g; 201.8 kcal; fat 1.5g; carbs 47.0g; sugar 14.4g; protein 12.1g; salt 0.7g
-- **Nutritional values total:** 720g; 403.5 kcal; fat 2.9g; carbs 93.9g; sugar 28.8g; protein 24.2g; salt 1.3g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 31.13
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 24.02% • LOW-FAT • Low-Sugar • Hi-Protein
-- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 23.2g • 3.2%
-- **Net carbs:** 46.5g • *∝ 5 servings@144g:* 9.3g • *∝ 3 servings@240g:* 15.5g • *energy ratio (low <20%):* 46.1%
+
+- **Nutritional values per 100g/ml:** 100g; 57.0 kcal; fat 0.3g; carbs 13.0g; sugar 4.2g; protein 3.4g; salt 0.2g
+- **Nutritional values per ½ Deluxe Tub:** 340g; 193.8 kcal; fat 1.2g; carbs 44.3g; sugar 14.4g; protein 11.6g; salt 0.7g
+- **Nutritional values total:** 680g; 387.5 kcal; fat 2.4g; carbs 88.6g; sugar 28.8g; protein 23.2g; salt 1.3g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 31.06
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 23.93% • LOW-FAT • Low-Sugar • Hi-Protein
+- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 21.8g • 3.2%
+- **Net carbs:** 46.2g • *∝ 5 servings@136g:* 9.2g • *∝ 3 servings@227g:* 15.4g • *energy ratio (low <20%):* 47.7%
 - **10g 'Salty Stability' is:** 7.3g Inulin • 1.2g Glycerol Monostearate (GMS / E471) • 0.6g Tylose powder (E466, Tylo, CMC) • 0.4g Guar gum (E412) • 0.33g Salt • 0.13g Xanthan gum (E415, XG).
