@@ -74,6 +74,9 @@ using a hardening factor (HF; negative PAC):
 
 Exact temperatures can vary due to different grades of purity.
 
+In comparison, milk fat hardens as a mixture of solid and liquid phases
+between approximately -40°C and 40°C, caused by its complex composition of various triglycerides.
+
 ### How to Dial in Sweetness?
 
 Bulky sweeteners (granules / powders) often have a high PAC of around 200 or more,
