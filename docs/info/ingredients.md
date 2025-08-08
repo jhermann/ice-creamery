@@ -60,6 +60,20 @@ using a hardening factor (HF; negative PAC):
 - Cocoa paste: -160
 - Hazelnut paste: -90
 
+**Solidification Point of Common Oils**
+
+| Type of Oil | °C |  °F |
+| :----------------- | -: | -: |
+| Avocado | -6 | 20 |
+| Coconut | 24 | 75 |
+| Olive (native) | 10 | 50 |
+| Olive (refined) | -6 | 20 |
+| Peanut | -1..3 | 30..37 |
+| Soybean | -18 | 0 |
+| Sunflower | -17 | 1 |
+
+Exact temperatures can vary due to different grades of purity.
+
 ### How to Dial in Sweetness?
 
 Bulky sweeteners (granules / powders) often have a high PAC of around 200 or more,
