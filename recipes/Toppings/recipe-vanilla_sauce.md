@@ -2,8 +2,9 @@
 
 Foamy vanilla sauce with soy milk.
 
-> <img width=220 alt="Ingredients" src="Vanilla-Sauce_2025-08-09_1.jpg" class="zoomable" />
-> <img width=220 alt="Blended Sauce" src="Vanilla-Sauce_2025-08-09_2.jpg" class="zoomable" />
+> <img width=124 alt="Ingredients" src="Vanilla-Sauce_2025-08-09_1.jpg" class="zoomable" />
+> <img width=124 alt="Blended Sauce" src="Vanilla-Sauce_2025-08-09_2.jpg" class="zoomable" />
+> <img width=220 alt="Served Sauce" src="Vanilla-Sauce_2025-08-09_3.jpg" class="zoomable" />
 
 *Ingredients*
 
