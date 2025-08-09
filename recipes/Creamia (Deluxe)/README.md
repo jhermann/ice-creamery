@@ -39,6 +39,7 @@ Spin on “Ice Cream”, scrape down is likely not needed, and mix-in if you wan
 
 > <img width=220 alt="Drawing Peaks" src="Cremia_2025-08-09_4.jpg" class="zoomable" />
 > <img width=220 alt="Scooped" src="Cremia_2025-08-09_5.jpg" class="zoomable" />
+> <img width=220 alt="Served on a vanilla sauce bed, with pecans" src="Cremia_2025-08-09_6.jpg" class="zoomable" />
 > 
 > *You can draw peaks with a spoon from this, and there are no butter nodules or other blemishes. Perfectly smooth.*
 
