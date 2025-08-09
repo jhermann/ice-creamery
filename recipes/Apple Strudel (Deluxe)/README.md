@@ -61,6 +61,10 @@ Rating: 😋🍎🍏🍇🥐
   - _15g_ Raisins (chopped) • add as a mix-in [45kcal, 10.2g sugar]
   - _35g_ Half a croissant, sliced • add as a mix-in [156kcal, 1.5g sugar]
 
+**Topping Options**
+
+  - _75g_ [Vanilla Sauce](/ice-creamery/T/Toppings/#vanilla-sauce-topping) (Topping) • [27kcal, 0g sugar]
+
 # DIRECTIONS
 
  1. Add "wet" ingredients to empty Creami tub.
