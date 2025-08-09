@@ -10,7 +10,7 @@ excluded_tags:
 - Vanilla
 tags:
 - Cooked Base
-- Draft
+- Dairy
 - Emulsifier
 - Polysaccharide Gum
 - Simple
@@ -18,6 +18,7 @@ tags:
 - Xylitol
 ---
 # Creamia (Deluxe)
+<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="logo-cremia.png" />
 
 Cremia is a premium Japanese soft-serve ice cream known for its rich, creamy texture and luxurious taste.
 It's made with 25% fresh Hokkaido cream and 12.5% milk fat, giving it a higher butterfat content than typical soft-serve.
@@ -28,11 +29,20 @@ It can be replacedd by Crème double or Mascarpone with 42% (190:355), or with w
 
 I also added some stabilizer so it does not melt so fast, and replaced the sugar.
 
-Spin on “Light Ice Cream”, scrape down, and re-mix if needed.
+Spin on “Ice Cream”, scrape down is likely not needed, and mix-in if you want it even softer.
 
-> <img width=360 alt="Spun Ice Cream" src="" class="zoomable" />
+> <img width=220 alt="After 'Ice Cream' run" src="Cremia_2025-08-09_1.jpg" class="zoomable" />
+> <img width=220 alt="After 'Mix-in'" src="Cremia_2025-08-09_2.jpg" class="zoomable" />
+> <img width=220 alt="Lid" src="Cremia_2025-08-09_3.jpg" class="zoomable" />
+> 
+> *Tub after 'Ice Cream' and 'Mix-in', and the lid at the end.*
 
-Rating: 😋🥛 (untested)
+> <img width=220 alt="Drawing Peaks" src="Cremia_2025-08-09_4.jpg" class="zoomable" />
+> <img width=220 alt="Scooped" src="Cremia_2025-08-09_5.jpg" class="zoomable" />
+> 
+> *You can draw peaks with a spoon from this, and there are no butter nodules or other blemishes. Perfectly smooth.*
+
+Rating: 😋🥛🥛🥛🐮 (milky explosion of decadence)
 
 > *Adapted from [Milkiest Milk Ice Cream Recipe](https://www.tashcakes.com/2024/07/milkiest-milk-ice-cream-recipe-cremia.html).*
 
