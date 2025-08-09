@@ -23,6 +23,8 @@ tags:
 Applesauce sherbet with cinnamon, almonds, raisins, and half a croissant to stand in for the strudel dough.
 70g of mix-ins are included in the nutritional info.
 
+> <img width=240 alt="Ingredients" src="Apple-Strudel_2025-08-09_0.jpg" class="zoomable" />
+
 Spun on Sorbet, followed by a scrape-down and a mix-in run for the almonds and raisins.
 
 > <img width=360 alt="Spun Ice Cream" src="" class="zoomable" />
