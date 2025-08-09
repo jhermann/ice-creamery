@@ -69,7 +69,7 @@ Rating: 😋 (untested)
   - _61ml_ Water to MAX line
   - _≈5 drops_ Flavor drops (sucralose) [IronMaxx] • to taste; or use maple syrup
 
-**Optional**
+**Optional / Choices**
 
   - _450g_ Galia melon (organic) • fresh [117kcal, 25g sugar]
   - _450g_ Strawberries • fresh or frozen [140kcal, 26g sugar]
