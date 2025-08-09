@@ -490,8 +490,18 @@ Heating can facilitate the formation of the gel network.
 
 ## Emulsifiers
 
+Emulsifiers are major contributors to a smooth, creamy texture
+by stabilizing the fat and water components in ice cream, preventing their separation.
+They help create smaller ice crystals, leading to a smoother, creamier texture,
+and also play a role in controlling melting and enhancing the overall eating experience. 
+
+Egg yolk is a natural source of emulsifiers, particularly lecithin.
+
 ### Glycerol Monostearate (GMS / E471)
-Glycerol Monostearate (GMS) is an emulsifier, and also a thickening and anti-caking agent. In ice cream, it adds body and helps to create a smooth texture (by reducing ice crystal formation), and prevents it from drying out or being too sweet.
+
+Glycerol Monostearate (GMS) is a monoglyceride used as an emulsifier, and also a thickening and anti-caking agent.
+In ice cream, it adds body and helps to create a smooth texture (by reducing ice crystal formation),
+and prevents it from drying out or being too sweet.
 It's most often used in egg-less ice cream bases, and in combination with CMC.
 
 GMS takes the form of a white, odorless, and sweet-tasting flaky powder that is hygroscopic.
@@ -505,7 +515,18 @@ GMS is typically used at concentrations of 0.1% to 0.5% of the total mix.
 Normally it is combined with CMC at a ratio of 2GMS:1CMC,
 and a dosage of up to 1% of water content, e.g. 0.3% GMS and 0.05–0.15% CMC in the total base.
 
+### Polysorbate 80 (E433)
+
+Polysorbate 80, also known as Tween 80, is a non-ionic surfactant and emulsifier,
+and is a synthetic compound made from sorbitol, oleic acid, and ethylene oxide.
+It helps to stabilize bases, solubilize ingredients, and prevent ingredients from separating.
+
+While generally considered safe, Polysorbate 80 has been reported as a rare allergen,
+may affect the gut microbiom and potentially contribute to inflammation,
+and influence the bahavior of drugs in the body.
+
 ### Soy Lecithin (E322)
+
 Soy lecithin is an emulsifier gained from soy beans, and used in ice cream to improve texture and stability.
 
 Lecithin reduces the surface tension between fat and water, contributing to a smoother, more velvety mouthfeel. It helps prevent fat separation and ice crystal growth, maintaining the ice cream's structure and flavor during freezing and thawing. 
