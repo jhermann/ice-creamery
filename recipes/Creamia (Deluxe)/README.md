@@ -55,11 +55,11 @@ Rating: 😋🥛🥛🥛🐮 (milky explosion of decadence)
 
 **Wet**
 
-  - _300ml_ Milk 3.5% [Weihenstephan]
+  - _380ml_ Milk 3.5% [Weihenstephan]
 
 **Dry**
 
-  - _75g_ Full Fat Milkpowder [Mr. Brown]
+  - _55g_ Full Fat Milkpowder [Mr. Brown]
   - _35g_ [Trehalose \[SaporePuro\]](/ice-creamery/info/ingredients/#trehalose-e965){target="_blank"}<sup>↗</sup> • *alternative:* dextrose • POD = 45%; GI = 38
   - _30g_ [Xylitol (E967)](/ice-creamery/info/ingredients/#xylitol-e967){target="_blank"}<sup>↗</sup> • *alternative:* sugar • POD = 100%; GI = 7
   - _5g_ [Salty Stability \[Inulin / GMS / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup> • *alternative:* 0.75g guar + .25g xanthan
@@ -67,7 +67,7 @@ Rating: 😋🥛🥛🥛🐮 (milky explosion of decadence)
 
 **Fill to MAX**
 
-  - _250ml_ Cream 32% [REWE Beste Wahl]
+  - _170ml_ Cream 32% [REWE Beste Wahl]
 
 # DIRECTIONS
 
@@ -81,11 +81,12 @@ Rating: 😋🥛🥛🥛🐮 (milky explosion of decadence)
 
 # NUTRITIONAL & OTHER INFO
 
-- **Nutritional values per 100g/ml:** 100g; 222.0 kcal; fat 15.8g; carbs 16.4g; sugar 11.5g; protein 5.1g; salt 0.2g
-- **Nutritional values per ½ Deluxe Tub:** 340g; 754.8 kcal; fat 53.8g; carbs 55.6g; sugar 39.0g; protein 17.3g; salt 0.8g
-- **Nutritional values total:** 697g; 1546.2 kcal; fat 110.2g; carbs 113.9g; sugar 79.8g; protein 35.5g; salt 1.6g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 22.84
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 9.19%
-- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 94.5g • 13.6%
-- **Net carbs:** 80.2g • *∝ 5 servings@139g:* 16g • *∝ 3 servings@232g:* 26.7g • *energy ratio (low <20%):* 20.8%
+- **Nutritional values per 100g/ml:** 100g; 185.1 kcal; fat 12.1g; carbs 16.0g; sugar 10.9g; protein 4.6g; salt 0.2g
+- **Nutritional values per ½ Deluxe Tub:** 340g; 629.4 kcal; fat 41.3g; carbs 54.3g; sugar 37.2g; protein 15.7g; salt 0.7g
+- **Nutritional values total:** 677g; 1252.2 kcal; fat 82.2g; carbs 108.1g; sugar 74.0g; protein 31.3g; salt 1.4g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 22.50
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 10.00%
+- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 82.8g • 12.2%
+- **Net carbs:** 74.4g • *∝ 5 servings@135g:* 14.9g • *∝ 3 servings@226g:* 24.8g • *energy ratio (low <20%):* 23.8%
+- **Aug 9, 2025:** Reduced fat to 12%
 - **5g 'Salty Stability' is:** 3.7g Inulin • 0.6g Glycerol Monostearate (GMS / E471) • 0.3g Tylose powder (E466, Tylo, CMC) • 0.2g Guar gum (E412) • 0.17g Salt • 0.07g Xanthan gum (E415, XG).
