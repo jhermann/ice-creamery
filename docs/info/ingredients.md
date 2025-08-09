@@ -636,7 +636,7 @@ An alternative to using protein powders are high-protein milk products like
 [Cream Cheese](/ice-creamery/info/ingredients/#cream-cheese),
 [Quark (Topfen)](/ice-creamery/info/ingredients/#quark-topfen),
 (Silken) [Tofu](/ice-creamery/info/ingredients/#tofu),
-and others like Kefir and Skyr. For many people's taste, they create a more authentic ice cream consistency, but be aware of the impact on taste, e.g. some are adding a 'tangy' flavor.
+and others like Greek Yogurt, Kefir and Skyr. For many people's taste, they create a more authentic ice cream consistency, but be aware of the impact on taste, e.g. some are adding a 'tangy' flavor.
 
 *See also:*
 
