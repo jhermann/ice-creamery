@@ -1,0 +1,24 @@
+Vanilla Sauce (Topping);;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;;
+Nutritional values per 100g/ml;100;g;;35.6;1.5;8.6;0.2;2.7;0.1;;;;;
+Nutritional values total;164;g;;58.3;2.5;14.1;0.3;4.5;0.2;;;;;
+;;;;;;;;;;;;;;
+FPDF / PAC (target 20..30);17.99;;;;;;;;;;;;;
+ℹ️ Net carbs;1.9;g;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+Foamy vanilla sauce with soy milk.;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+"1. Pour soy milk into mixing cup.
+ 1. Weigh dry ingredients on a jeweller’S scale.
+ 1. Drop it into the milk and be on top of it *immediately* with an immersion blender on full.
+ 1. Blend until everything is dissolved and smooth, wait ~3 minutes, and mix it to a foamy consistency.";;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+The [brand names] used are in brackets.;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment;0Carb[%];Counts?
+Soy milk 1.6% (sugar-free) [Berief];150.00;ml;1;30.00;1.60;0.90;0.00;3.00;0.08;;4.00;;;1
+Erythritol (E968);10.00;g;2;24.00;0.00;100.00;0.00;0.00;0.00;2.80;;up to 15g (3 tsp);100.00;1
+Salty Stability [Inulin / GMS / CMC / Guar / XG / Salt];3.00;g;2;267.5;3.6;88.4;5.9;0.3;3.5;0.06;;unsweetened “ICSv2”;73.80;1
+Vanilla Bean Powder [InterVanilla];1.00;g;2;288.00;0.10;13.00;13.00;0.00;0.00;;;;;1
