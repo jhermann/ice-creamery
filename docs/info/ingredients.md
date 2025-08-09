@@ -539,6 +539,7 @@ Soy lecithin is often extracted using chemical solvents, which makes it a UPF, a
 
 ## Dairy & Milk Alternatives
 ### Almond Milk & Butter
+
 Almond milk is a dairy-free and vegan-friendly option for ice cream bases,
 just like Coconot milk but with less flavor impact and way lower fat content.
 Almond butter can be used to make it more similar to coconut milk,
@@ -551,7 +552,19 @@ almond butter, bananas, dates, cashews, and hemp hearts.
  > Always check for ingredients other than soy / oats / nuts, water, and salt, especially thickeners, emulsifiers, and stabilizers.
  > Adapt your recipe accordingly if necessary.
 
+### Casein
+
+[Casein](https://en.wikipedia.org/wiki/Casein) is a protein found in milk,
+specifically representing about 80% of the total protein in milk from cows, goats, and sheep.
+It's a byproduct of cheese production, where it's separated from the whey.
+
+Unlike whey protein, which is rapidly absorbed, casein digests slowly, releasing amino acids over several hours. 
+It can help prevent muscle breakdown during periods of fasting.
+
+In ice cream, it leads to thicker and more dense consistencies compared to whey.
+
 ### Coconut Milk
+
 Coconut milk can be used for delicious and creamy bases,
 especially for dairy-free or vegan options.
 It provides a rich, tropical flavor and a creamy texture.
@@ -595,6 +608,34 @@ a good product just needs milk/cream and salt, and maybe some yogurt.
 
 In ice cream it acts as a stabilizer (via its milk solids, proteins, and lactose),
 and improves texture. Cream cheese also contributes to a richer, denser flavor. 
+
+
+### Protein Powder in General
+
+-   **Protein powder isn't just protein**: It's a mix of flavorings, sweeteners, stabilizers, etc., which vary widely between brands.
+-   **Substituting powders**: These variations can lead to different results in recipes, so you cannot just swap without comparing ingredients and possibly running experiments.
+-   **Non-fat milk powder (SMP)**: Often used by ice cream professionals, it is a type of protein powder that improves texture and is very effective at binding free water.
+-   **Different proteins affect texture**:
+
+    -   _Whey_: makes ice cream creamier, soft-serve-like.
+    -   _Casein_: creates a thicker, denser mix.
+    -   _Combining whey, casein, and milk powder_ can yield great results.
+    -   _Soy protein isolate_ is a vegan option, comparable to casein in its properties.
+
+-   **Protein powder improves texture**: It's not just the protein macros, especially in low-fat recipes there are effects on ice crystal formation and melting behavior.
+-   Two main approaches:
+
+    -   🫙 _Simple Method_: Use one pre-mixed powder that you like — easy but limited.
+    -   🥣 _Custom Method_: Blend raw ingredients (whey, casein, milk powder, dry additives) for full control over flavor and texture.
+
+-   **Flavor preference matters**: Disliking a commercial powder may mean you actually dislike its main base protein.
+
+*See also:*
+
+- [Casein](/ice-creamery/info/ingredients/#casein)
+- [Skim Milk Powder (SMP)](/ice-creamery/info/ingredients/#skim-milk-powder-smp)
+- [Soy Protein Isolate](/ice-creamery/info/ingredients/#soy-protein-isolate)
+- [Whey Protein](/ice-creamery/info/ingredients/#whey-protein)
 
 ### Quark (Topfen)
 Quark (German) and Topfen (Austrian, South German) are both types of fresh, soft cheese,
