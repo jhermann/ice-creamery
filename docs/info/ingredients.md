@@ -631,6 +631,13 @@ and improves texture. Cream cheese also contributes to a richer, denser flavor.
 
 -   **Flavor preference matters**: Disliking a commercial powder may mean you actually dislike its main base protein.
 
+An alternative to using protein powders are high-protein milk products like
+[Cottage Cheese](/ice-creamery/info/ingredients/#cottage-cheese),
+[Cream Cheese](/ice-creamery/info/ingredients/#cream-cheese),
+[Quark (Topfen)](/ice-creamery/info/ingredients/#quark-topfen),
+(Silken) [Tofu](/ice-creamery/info/ingredients/#tofu),
+and others like Kefir and Skyr. For many people's taste, they create a more authentic ice cream consistency, but be aware of the impact on taste, e.g. some are adding a 'tangy' flavor.
+
 *See also:*
 
 - [Casein](/ice-creamery/info/ingredients/#casein)
