@@ -1,4 +1,4 @@
-### Vanilla Sauce (Topping)
+## Vanilla Sauce (Topping)
 
 Foamy vanilla sauce with soy milk.
 
