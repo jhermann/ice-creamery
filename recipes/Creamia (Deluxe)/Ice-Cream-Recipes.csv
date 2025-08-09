@@ -1,12 +1,12 @@
 Creamia (Deluxe);;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 ;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;;
-Nutritional values per 100g/ml;100;g;;221.6;15.9;16.4;11.5;5.1;0.2;;;;;
-Nutritional values per ½ Deluxe Tub;340;g;;753.4;53.9;55.7;39.0;17.4;0.8;;;;;
-Nutritional values total;695;g;;1540.0;110.2;113.9;79.8;35.5;1.6;;;;;
+Nutritional values per 100g/ml;100;g;;222.0;15.8;16.4;11.5;5.1;0.2;;;;;
+Nutritional values per ½ Deluxe Tub;340;g;;754.8;53.8;55.6;39.0;17.3;0.8;;;;;
+Nutritional values total;697;g;;1546.2;110.2;113.9;79.8;35.5;1.6;;;;;
 ;;;;;;;;;;;;;;
-FPDF / PAC (target 20..30);22.89;;;;;;;;;;;;;
-"Protein / Energy Ratio (ok=12%; hi=20%)";9.22%;;;;;;;;;;;;;
+FPDF / PAC (target 20..30);22.84;;;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";9.19%;;;;;;;;;;;;;
 ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);94.5;g;;13.6%;;;;;;;;;;
 ℹ️ Net carbs;80.2;g;;*∝ 5 servings@139g:* 16g;;;*∝ 3 servings@232g:* 26.7g;;;*energy ratio (low <20%):* 20.8%;;;;
 ;;;;;;;;;;;;;;
@@ -45,6 +45,7 @@ Sugar;30.00;g;2;387.00;;100.00;100.00;;;1.00;;;;0
 Trehalose [SaporePuro];35.00;g;2;355.00;0.00;89.00;89.00;0.00;0.03;1.00;;"*alternative:* dextrose • POD = 45%; GI = 38";;1
 Xylitol (E967);30.00;g;2;238.00;;100.00;;;;2.20;;"*alternative:* sugar • POD = 100%; GI = 7";100.00;1
 Salty Stability [Inulin / GMS / CMC / Guar / XG / Salt];5.00;g;2;267.5;3.6;88.4;5.9;0.3;3.5;0.06;;*alternative:* 0.75g guar + .25g xanthan;73.80;1
+Glycerol Monostearate (E471) [Bulk];1.50;g;2;415.00;;;;;;;;;;1
 Cream 32% [REWE Beste Wahl];250.00;ml;3;311.00;32.00;3.20;3.20;2.50;0.13;0.03;6.32;;;1
 Cream 48% (double cream);;ml;3;445.00;48.00;2.60;2.60;1.70;0.10;0.03;4.84;;;1
 Crème double 42%;;ml;3;398.00;42.00;3.00;3.00;2.20;0.10;0.03;5.39;;;1
