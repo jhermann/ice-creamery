@@ -136,7 +136,7 @@ AUTO_LINK_STOP_WORDS = {
     'Cherries, Sour', 'Condensed milk', 'Cream 32%', 'Cream Punch',
     'desiccated', 'Evaporated milk', 'Extract',
     'Flavor drops', 'Flavor Powder', 'Ice Cream', 'Irish Cream',
-    'Low fat milk', 'Milk 3.5%',
+    'Low fat milk', 'Milk 3.5%', 'Mint chocolate',
     'Peanut butter', 'Philadelphia Milka',
     'Soy sauce', 'tea powder', 'to MAX line',
 }

@@ -25,7 +25,7 @@ tags:
 # Vanil-Low (Deluxe)
 <img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="logo-vanil-low.png" />
 
-Vanilla ice cream based on soy milk and cottage cheese, with a very low net carbs to total energy ratio.
+Vanilla ice cream based on soy milk and cottage cheese or greek yogurt, with a very low net carbs to total energy ratio.
 
 Process on *Frozen Yogurt*, [hold it shortly under running water](https://jhermann.github.io/ice-creamery/info/tips%2Btricks/#handling-of-icy-sides-bottom) *after* that.
 
@@ -41,6 +41,7 @@ Rating: 😋😋😋😋😋
 
 Use fruit / yam root powder instead of the vanilla for a different taste and color.
 Combine strawberry powder with strawberry flavor drops instead of the vanilla ones.
+See *Optional / Choices* below for details.
 
 If you have access to it (North America), you can use 45g Allulose as sweetener, instead of the sugar alcohols.
 
@@ -51,13 +52,13 @@ If you have access to it (North America), you can use 45g Allulose as sweetener,
 **Wet**
 
   - _400ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
-  - _100g_ [Cottage Cheese 4% \[REWE Bio\]](/ice-creamery/info/ingredients/#cottage-cheese){target="_blank"}<sup>↗</sup>
+  - _100g_ [Cottage Cheese 4% \[REWE Bio\]](/ice-creamery/info/ingredients/#cottage-cheese){target="_blank"}<sup>↗</sup> • *alternative:* 150g greek yogurt 9% for +64kcal
   - _15g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • Sweetness = 60%; GI = 5; Density = 1.26 g/ml
   - _10g_ [Brandy or Vodka 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup>
 
 **Dry**
 
-  - _45g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • POD ≈ 90%; GI < 7
+  - _45g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • POD ≈ 85%; GI < 7
   - _15g_ [Salty Stability \[Inulin / GMS / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup> • unsweetened “ICSv2”
   - _5g_ Vanilla Bean Powder [InterVanilla]
   - _10g_ [Whey protein Vanilla \[MaxiNutrition\]](/ice-creamery/info/ingredients/#whey-protein){target="_blank"}<sup>↗</sup>
@@ -65,13 +66,13 @@ If you have access to it (North America), you can use 45g Allulose as sweetener,
 **Fill to MAX**
 
   - _80ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
-  - _≈5 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
+  - _≈8 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
 
 **Mix-ins**
 
   - _30g_ Mint chocolate [After Eight] • 1pc ≈ 7.5g; freeze for more integrity [128kcal, 20g sugar]
 
-**Optional**
+**Optional / Choices**
 
   - _25g_ Ube Yam Root powder [Fil Choice] • like vanilla+pistachio [96kcal, 2g sugar]
   - _25g_ Lingonberry powder [Bio Leis] • replacing the ground vanilla [88kcal, 18g sugar]
@@ -91,7 +92,7 @@ If you have access to it (North America), you can use 45g Allulose as sweetener,
 # NUTRITIONAL & OTHER INFO
 
 - **Nutritional values per 100g/ml:** 100g; 68.5 kcal; fat 1.9g; carbs 11.7g; sugar 0.5g; protein 5.1g; salt 0.2g
-- **Nutritional values per ½ Deluxe Tub:** 360g; 246.7 kcal; fat 6.8g; carbs 42.2g; sugar 1.6g; protein 18.5g; salt 0.9g
+- **Nutritional values per ½ Deluxe Tub:** 340g; 233.0 kcal; fat 6.4g; carbs 39.9g; sugar 1.5g; protein 17.5g; salt 0.8g
 - **Nutritional values total:** 680g; 466.0 kcal; fat 12.8g; carbs 79.7g; sugar 3.1g; protein 34.9g; salt 1.7g
 - **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 31.24
 - **Protein / Energy Ratio (ok=12%; hi=20%):** 29.99% • LOW-FAT • Low-Sugar • Hi-Protein
