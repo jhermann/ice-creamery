@@ -32,13 +32,14 @@ Finally follow the directions below.
 One pumpkin yields about 450 – 500g cooked puree.
 <br clear=all />
 
-Spin on “Sorbet”, scrape down, and re-mix.
+Spun on “Sorbet”, cold water treatment and scrape down, then “Ice Cream”, and finally a respin.
 
-> <img width=220 alt="After Sorbet" src="_1.jpg" class="zoomable" />
-> <img width=220 alt="After Mix-in" src="_2.jpg" class="zoomable" />
-> <img width=220 alt="Scooped" src="_3.jpg" class="zoomable" />
+> <img width=240 alt="After Sorbet" src="Hokkaido_2025-08-10_1.jpg" class="zoomable" />
+> <img width=240 alt="After Ice Cream" src="Hokkaido_2025-08-10_2.jpg" class="zoomable" />
+> <img width=240 alt="After Mix-in" src="Hokkaido_2025-08-10_3.jpg" class="zoomable" />
+> <img width=240 alt="Scooped" src="Hokkaido_2025-08-10_4.jpg" class="zoomable" />
 
-Rating: 😋🎃 (untested)
+Rating: 😋🎃🎃❄️ (very unique flavor, but needs to be passed through a strainer)
 
 > 💡 **Alcohol Replacement**<br />
 > If you don't want alcohol in your ice cream, or prepare it for kids,
