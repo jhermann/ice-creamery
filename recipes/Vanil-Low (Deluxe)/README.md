@@ -43,7 +43,7 @@ Rating: 😋😋😋😋😋
 > <img width=330 alt="After Light-Ice-Cream" src="Vanillow_2025-08-11_1Light-Ice-Cream.jpg" class="zoomable" />
 > <img width=330 alt="After Mix-in" src="Vanillow_2025-08-11_2Mix-in.jpg" class="zoomable" />
 > <img width=330 alt="Served" src="Vanillow_2025-08-11_3.jpg" class="zoomable" />
->
+> 
 > *2025-08-11: With frozen mint chocolate wafers as a mix-in.*
 
 Use fruit / yam root powder instead of the vanilla for a different taste and color.
@@ -77,7 +77,7 @@ If you have access to it (North America), you can use 45g Allulose as sweetener,
 
 **Mix-ins**
 
-  - _30g_ Mint chocolate [After Eight] • 1pc ≈ 7.5g; freeze for more integrity [128kcal, 20g sugar]
+  - _30g_ [Mint Chocolate \[After Eight\]](/ice-creamery/info/ingredients/#mint-chocolate){target="_blank"}<sup>↗</sup> • 1pc ≈ 7.5g; freeze for more integrity, and chop them when frozen [128kcal, 20g sugar]
 
 **Optional / Choices**
 
