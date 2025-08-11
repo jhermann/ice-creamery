@@ -490,7 +490,7 @@ def main():
             continue
         lines.extend([''] if is_topping else ['', f'**{name}**', ''])
         for ingredient in recipe[step]:
-            ingredient['spacer'] = '' if ingredient['unit'] in {'g', 'ml'} else ' '
+            ingredient['spacer'] = '' if ingredient['unit'] in {'g', 'ml', ''} else ' '
             ingredient['amount'] = ingredient['amount'].replace(".50", ".5")
             ingredient['href'] = ingredient_link(ingredient['ingredients'], args=args)
             lines.append('  - _{amount}{spacer}{unit}_ {href}'.format(**ingredient))
