@@ -30,6 +30,9 @@ Spin on “Sorbet”, followed by a scrape-down and a mix-in run for the almonds
 > <img width=230 alt="Mix-ins" src="Apple-Strudel_2025-08-11_0.jpg" class="zoomable" />
 > <img width=230 alt="After Sorbet" src="Apple-Strudel_2025-08-11_1Sorbet.jpg" class="zoomable" />
 > <img width=230 alt="After Mix-in" src="Apple-Strudel_2025-08-11_2Mix-in.jpg" class="zoomable" />
+> <img width=230 alt="Served" src="Apple-Strudel_2025-08-11_3.jpg" class="zoomable" />
+>
+> *Served on a bed of vanilla sauce and with a wafer roll.*
 
 Rating: 😋🍎🍏🍇🥐
 
