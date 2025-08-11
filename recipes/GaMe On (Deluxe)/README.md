@@ -88,6 +88,7 @@ When removing the skin, go by knife resistance to know how much to cut off, and 
 
 **Optional / Choices**
 
+  - _500g_ Watermelon • 91% water [150kcal, 31g sugar]
   - _500g_ Galia melon (organic) • [130kcal, 28g sugar]
   - _500g_ Honeydew melon (organic) • [180kcal, 41g sugar]
 
