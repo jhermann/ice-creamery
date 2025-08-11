@@ -39,7 +39,9 @@ Spun on “Sorbet”, cold water treatment and scrape down, then “Ice Cream”
 > <img width=240 alt="After Mix-in" src="Hokkaido_2025-08-10_3.jpg" class="zoomable" />
 > <img width=240 alt="Scooped" src="Hokkaido_2025-08-10_4.jpg" class="zoomable" />
 
-Rating: 😋🎃🎃❄️ (very unique flavor, but needs to be passed through a strainer)
+Rating: 😋🎃🎃❄️ (very unique flavor, but probably needs to be passed through a strainer)
+
+> <img width=482 alt="Served" src="Hokkaido_2025-08-11_1.jpg" class="zoomable" />
 
 > 💡 **Alcohol Replacement**<br />
 > If you don't want alcohol in your ice cream, or prepare it for kids,
