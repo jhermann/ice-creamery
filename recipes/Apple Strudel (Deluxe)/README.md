@@ -23,11 +23,13 @@ tags:
 Applesauce sherbet with cinnamon, almonds, raisins, and half a croissant to stand in for the strudel dough.
 70g of mix-ins are included in the nutritional info.
 
-> <img width=240 alt="Ingredients" src="Apple-Strudel_2025-08-09_0.jpg" class="zoomable" />
+> <img width=230 alt="Ingredients" src="Apple-Strudel_2025-08-09_0.jpg" class="zoomable" />
 
-Spun on Sorbet, followed by a scrape-down and a mix-in run for the almonds and raisins.
+Spin on “Sorbet”, followed by a scrape-down and a mix-in run for the almonds and raisins.
 
-> <img width=360 alt="Spun Ice Cream" src="" class="zoomable" />
+> <img width=230 alt="Mix-ins" src="Apple-Strudel_2025-08-11_0.jpg" class="zoomable" />
+> <img width=230 alt="After Sorbet" src="Apple-Strudel_2025-08-11_1Sorbet.jpg" class="zoomable" />
+> <img width=230 alt="After Mix-in" src="Apple-Strudel_2025-08-11_2Mix-in.jpg" class="zoomable" />
 
 Rating: 😋🍎🍏🍇🥐
 
@@ -38,22 +40,22 @@ Rating: 😋🍎🍏🍇🥐
 **Wet**
 
   - _350ml_ Apple Sauce (no added sugar) [Gut Bio/Aldi] • 1 jar = 355g
-  - _150ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
-  - _15g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • Sweetness = 60%; GI = 5; Density = 1.26 g/ml
+  - _180ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
+  - _10g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • Sweetness = 60%; GI = 5; Density = 1.26 g/ml
   - _10g_ [Brandy or Vodka 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup>
 
 **Dry**
 
-  - _35g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • POD ≈ 85%; GI < 7
+  - _30g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • POD ≈ 85%; GI < 7
   - _10g_ [Salty Stability \[Inulin / GMS / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup> • unsweetened “ICSv2”
-  - _30g_ [Whey + Casein protein (grass-fed) \[Vilgain\]](/ice-creamery/info/ingredients/#whey-protein){target="_blank"}<sup>↗</sup> • with stevia
-  - _3g_ Cinnamon (Ceylon) • 1tsp = 3g
+  - _20g_ [Whey + Casein protein (grass-fed) \[Vilgain\]](/ice-creamery/info/ingredients/#whey-protein){target="_blank"}<sup>↗</sup> • with stevia
+  - _1.5g_ Cinnamon (Ceylon) • 1tsp = 3g
 
 **Fill to MAX**
 
-  - _77ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
-  - _≈3 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
-  - _≈3 drops_ Flavor drops Caramel (sucralose) [IronMaxx] • to taste
+  - _❕_ Stay BELOW the MAX line (leave room for mix-ins)
+  - _≈2 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
+  - _≈2 drops_ Flavor drops Caramel (sucralose) [IronMaxx] • to taste
 
 **Mix-ins**
 
@@ -63,7 +65,8 @@ Rating: 😋🍎🍏🍇🥐
 
 **Topping Options**
 
-  - _75g_ [Vanilla Sauce](/ice-creamery/T/Toppings/#vanilla-sauce-topping) (Topping) • [27kcal, 0g sugar]
+  - _75g_ [Vanilla Sauce](/ice-creamery/T/Toppings/#vanilla-sauce-topping) (Topping) • [42kcal, 0g sugar]
+  - _10g_ Wafer Rolls [REWE] • 1pc = 5g [52kcal, 3g sugar]
 
 # DIRECTIONS
 
@@ -78,11 +81,11 @@ Rating: 😋🍎🍏🍇🥐
 
 # NUTRITIONAL & OTHER INFO
 
-- **Nutritional values per 100g/ml:** 100g; 111.6 kcal; fat 3.8g; carbs 17.1g; sugar 6.6g; protein 5.4g; salt 0.1g
-- **Nutritional values per ½ Deluxe Tub:** 340g; 379.3 kcal; fat 12.9g; carbs 58.1g; sugar 22.6g; protein 18.2g; salt 0.5g
-- **Nutritional values total:** 750g; 836.7 kcal; fat 28.4g; carbs 128.1g; sugar 49.8g; protein 40.2g; salt 1.1g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 32.03
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 19.22%
-- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 36.2g • 5.3%
-- **Net carbs:** 78.2g • *∝ 5 servings@150g:* 15.6g • *∝ 3 servings@250g:* 26.1g • *energy ratio (low <20%):* 37.4%
+- **Nutritional values per 100g/ml:** 100g; 111.3 kcal; fat 4.0g; carbs 17.2g; sugar 7.2g; protein 4.5g; salt 0.1g
+- **Nutritional values per ½ Deluxe Tub:** 340g; 378.5 kcal; fat 13.6g; carbs 58.4g; sugar 24.6g; protein 15.4g; salt 0.5g
+- **Nutritional values total:** 682g; 758.7 kcal; fat 27.2g; carbs 117.1g; sugar 49.2g; protein 30.8g; salt 1.0g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.32
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 16.23%
+- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 25.3g • 4.1%
+- **Net carbs:** 74.7g • *∝ 5 servings@136g:* 14.9g • *∝ 3 servings@227g:* 24.9g • *energy ratio (low <20%):* 39.4%
 - **10g 'Salty Stability' is:** 7.3g Inulin • 1.2g Glycerol Monostearate (GMS / E471) • 0.6g Tylose powder (E466, Tylo, CMC) • 0.4g Guar gum (E412) • 0.33g Salt • 0.13g Xanthan gum (E415, XG).
