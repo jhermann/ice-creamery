@@ -748,11 +748,23 @@ See also [Toppings & Mix-ins](/ice-creamery/T/Toppings/) for recipes
 with several ingredients that are processed in some way.
 
 ### Cantuccini
+
 Cantuccini, also known as cantucci or "biscotti di Prato", are traditional Italian almond biscuits, originating from Tuscany. They are known for their oblong shape, twice-baked texture, and crunchy consistency.
 
 These biscuits are sturdy and will *not* totally disappear when using a Creami's mix-in mode.
 
 > <img width=240 alt="Cantuccini on a plate" src="../Cantuccini-dm-Bio.jpg" class="zoomable" />
+
+### Mint Chocolate
+
+Frozen mint chocolate wafers are an ideal mix-in, since they
+do not disintegrate into the base when using the mix-in mode.
+For that reason, after taking them out of the freezer you need to chop
+them into smaller pieces, so they get evenly distributed in your desired size.
+
+In the final ice cream, you get chewy bits of mint that do not fully freeze.
+
+> <img width=240 alt="After 8 wafers" src="../Mint-Chocolate_2025-08-11.jpg" class="zoomable" />
 
 ### Chocolate Shavings
 
