@@ -32,6 +32,7 @@ A splash of brandy or vodka helps with texture, while optional pomegranate syrup
 > 🌿 **Vegan Option**<br />Replace the cream cheese with 50g tofu and 10ml water, blended to a creamy paste. Swap the milk protein for soy protein isolate.
 
 You can replace the cherries by other fruit, see *Optional / Choices* for some ideas. Blends are also possible.
+
 > <img width=360 alt="Spun Ice Cream" src="cherry_2024-10-23.jpg" class="zoomable" />
 
 Rating: 😋😋🍒🍒🍒
@@ -58,10 +59,11 @@ Rating: 😋😋🍒🍒🍒
   - _30g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • POD ≈ 85%; GI < 7
   - _10g_ [Salty Stability \[Inulin / GMS / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup> • unsweetened “ICSv2”
   - _10g_ [Whey + Casein protein (grass-fed) \[Vilgain\]](/ice-creamery/info/ingredients/#whey-protein){target="_blank"}<sup>↗</sup> • with stevia
+  - _1.5g_ [Beet Root Powder (organic) \[Mandoi\]](/ice-creamery/info/ingredients/#cocoa-powder){target="_blank"}<sup>↗</sup> • optional, for color
 
 **Fill to MAX**
 
-  - _100ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
+  - _98.5ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
   - _10g_ Pomegranate syrup (nar ekşisi) [fersan] • optional, for color + flavor boost
   - _≈4 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
 
@@ -85,13 +87,13 @@ Rating: 😋😋🍒🍒🍒
 
 # NUTRITIONAL & OTHER INFO
 
-- **Nutritional values per 100g/ml:** 100g; 82.0 kcal; fat 2.7g; carbs 13.3g; sugar 3.2g; protein 3.5g; salt 0.2g
-- **Nutritional values per ½ Deluxe Tub:** 340g; 278.8 kcal; fat 9.2g; carbs 45.3g; sugar 11.0g; protein 11.9g; salt 0.6g
-- **Nutritional values total:** 690g; 565.7 kcal; fat 18.6g; carbs 91.9g; sugar 22.4g; protein 24.2g; salt 1.1g
+- **Nutritional values per 100g/ml:** 100g; 82.7 kcal; fat 2.7g; carbs 13.5g; sugar 3.3g; protein 3.5g; salt 0.2g
+- **Nutritional values per ½ Deluxe Tub:** 340g; 281.1 kcal; fat 9.2g; carbs 45.8g; sugar 11.4g; protein 12.0g; salt 0.6g
+- **Nutritional values total:** 690g; 570.5 kcal; fat 18.6g; carbs 92.9g; sugar 23.1g; protein 24.4g; salt 1.1g
 - **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.35
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 17.13% • LOW-FAT • Low-Sugar
-- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 29.9g • 4.3%
-- **Net carbs:** 44.5g • *∝ 5 servings@138g:* 8.9g • *∝ 3 servings@230g:* 14.8g • *energy ratio (low <20%):* 31.5%
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 17.11% • LOW-FAT • Low-Sugar
+- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 29.8g • 4.3%
+- **Net carbs:** 45.5g • *∝ 5 servings@138g:* 9.1g • *∝ 3 servings@230g:* 15.2g • *energy ratio (low <20%):* 31.9%
 - **Jun 21, 2025:** Switched to soy milk and protein
 - **Aug 12, 2025:** Using new blends and casein/whey
 - **10g 'Salty Stability' is:** 7.3g Inulin • 1.2g Glycerol Monostearate (GMS / E471) • 0.6g Tylose powder (E466, Tylo, CMC) • 0.4g Guar gum (E412) • 0.33g Salt • 0.13g Xanthan gum (E415, XG).
