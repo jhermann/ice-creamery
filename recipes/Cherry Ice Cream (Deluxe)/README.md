@@ -1,17 +1,21 @@
 ---
 description: Recipe for the Ninja Creami Deluxe [24oz]
+excluded_steps:
+- ^$
 excluded_tags:
 - Vanilla
 tags:
 - Dairy
+- Emulsifier
 - Erythritol
 - Favorite
 - Fruit
-- Hi-Protein
 - Low-Fat
 - Low-Sugar
+- Multi-Flavor
 - Polysaccharide Gum
 - Scoopable
+- Stevia
 - Sucralose
 - Tylo Powder (CMC)
 - Vegan
@@ -20,11 +24,22 @@ tags:
 # Cherry Ice Cream (Deluxe)
 <img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="cherry-bliss.png" />
 
-> 🌿 **Vegan Option**<br />Replace the cream cheese with 50g tofu and 10ml water, blended to a creamy paste.
+🍒 Light, Creamy & Balanced
+
+This recipe uses soy milk, cream cheese, and a mix of natural sweeteners and stabilizers to make an ice cream that is smooth, scoopable, and lower in sugar.
+A splash of brandy or vodka helps with texture, while optional pomegranate syrup adds a vibrant twist.
+
+> 🌿 **Vegan Option**<br />Replace the cream cheese with 50g tofu and 10ml water, blended to a creamy paste. Swap the milk protein for soy protein isolate.
+
+You can replace the cherries by other fruit, see *Optional / Choices* for some ideas. Blends are also possible.
+> <img width=360 alt="Spun Ice Cream" src="cherry_2024-10-23.jpg" class="zoomable" />
 
 Rating: 😋😋🍒🍒🍒
 
-> <img width=360 alt="Spun Ice Cream" src="cherry_2024-10-23.jpg" class="zoomable" />
+> 💡 **Alcohol Replacement**<br />
+> If you don't want alcohol in your ice cream, or prepare it for kids,
+> replace the small amount of alcohol with vegetable glycerin.
+> For 10g booze (40 vol%) use 8g VG instead.
 
 # INGREDIENTS
 
@@ -32,22 +47,31 @@ Rating: 😋😋🍒🍒🍒
 
 **Wet**
 
-  - _350ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
-  - _175g_ Cherries
+  - _300ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
+  - _150g_ Cherries
   - _50g_ [Cream Cheese 23% \[Exquisa\]](/ice-creamery/info/ingredients/#cream-cheese){target="_blank"}<sup>↗</sup>
   - _20g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • POD = 60%; GI = 5; Density = 1.26 g/ml
   - _10g_ [Brandy or Vodka 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup>
 
 **Dry**
 
-  - _25g_ [Xylitol (E967)](/ice-creamery/info/ingredients/#xylitol-e967){target="_blank"}<sup>↗</sup> • POD = 100%; GI = 7
-  - _25g_ ICSv2 [Erythritol / Inulin / CMC / Guar / XG / Salt] • [http﹕//bit.ly/4frc4Vj](https://jhermann.github.io/ice-creamery/I/Ice%20Cream%20Stabilizer%20(ICS)/)
-  - _20g_ [Soy protein isolate (nature) \[Powerstar\]](/ice-creamery/info/ingredients/#soy-protein-isolate){target="_blank"}<sup>↗</sup> • 1kg bag, unsweetened, unflavored
+  - _30g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • POD ≈ 85%; GI < 7
+  - _10g_ [Salty Stability \[Inulin / GMS / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup> • unsweetened “ICSv2”
+  - _10g_ [Whey + Casein protein (grass-fed) \[Vilgain\]](/ice-creamery/info/ingredients/#whey-protein){target="_blank"}<sup>↗</sup> • with stevia
 
 **Fill to MAX**
 
-  - _45ml_ Water to MAX line
-  - _3–5 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
+  - _100ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
+  - _10g_ Pomegranate syrup (nar ekşisi) [fersan] • optional, for color + flavor boost
+  - _≈4 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
+
+**Optional / Choices**
+
+  - _225g_ Strawberries • fresh or frozen [70kcal, 13g sugar]
+  - _175g_ Blueberries • fresh or frozen [84kcal, 16g sugar]
+  - _150g_ Cherries • fresh or frozen [92kcal, 14g sugar]
+  - _150g_ Mango • fresh or frozen [93kcal, 20g sugar]
+  - _140g_ Pineapple (without the juice) [REWE] • canned [97kcal, 21g sugar]
 
 # DIRECTIONS
 
@@ -60,12 +84,14 @@ Rating: 😋😋🍒🍒🍒
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
 
 # NUTRITIONAL & OTHER INFO
-- **Nutritional values per 100g/ml:** 100g; 83.3 kcal; fat 2.4g; carbs 13.5g; sugar 2.7g; protein 4.6g; salt 0.2g
-- **Nutritional values per ½ Deluxe Tub:** 360g; 299.7 kcal; fat 8.6g; carbs 48.7g; sugar 9.6g; protein 16.4g; salt 0.8g
-- **Nutritional values total:** 720g; 599.5 kcal; fat 17.2g; carbs 97.3g; sugar 19.2g; protein 32.8g; salt 1.6g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.43
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 21.90% • LOW-FAT • Low-Sugar • Hi-Protein
-- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 23.4g • 3.3%
-- **Net carbs:** 39.6g • *∝ 5 servings@144g:* 7.9g • *∝ 3 servings@240g:* 13.2g
+
+- **Nutritional values per 100g/ml:** 100g; 82.0 kcal; fat 2.7g; carbs 13.3g; sugar 3.2g; protein 3.5g; salt 0.2g
+- **Nutritional values per ½ Deluxe Tub:** 340g; 278.8 kcal; fat 9.2g; carbs 45.3g; sugar 11.0g; protein 11.9g; salt 0.6g
+- **Nutritional values total:** 690g; 565.7 kcal; fat 18.6g; carbs 91.9g; sugar 22.4g; protein 24.2g; salt 1.1g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.35
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 17.13% • LOW-FAT • Low-Sugar
+- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 29.9g • 4.3%
+- **Net carbs:** 44.5g • *∝ 5 servings@138g:* 8.9g • *∝ 3 servings@230g:* 14.8g • *energy ratio (low <20%):* 31.5%
 - **Jun 21, 2025:** Switched to soy milk and protein
-- **25g Ice Cream Stabilizer (ICSv2) is:** 11.5g Erythritol (E968) • 11.5g Inulin • 1.1g Tylose powder (E466, Tylo, CMC) • 0.4g Guar gum (E412) • 0.4g Salt • 0.11g Xanthan gum (E415, XG).
+- **Aug 12, 2025:** Using new blends and casein/whey
+- **10g 'Salty Stability' is:** 7.3g Inulin • 1.2g Glycerol Monostearate (GMS / E471) • 0.6g Tylose powder (E466, Tylo, CMC) • 0.4g Guar gum (E412) • 0.33g Salt • 0.13g Xanthan gum (E415, XG).
