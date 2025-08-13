@@ -27,7 +27,7 @@ tags:
 🍒 Light, Creamy & Balanced
 
 This recipe uses soy milk, cream cheese, and a mix of natural sweeteners and stabilizers to make an ice cream that is smooth, scoopable, and lower in sugar.
-A splash of brandy or vodka helps with texture, while optional pomegranate syrup adds a vibrant twist.
+A splash of brandy or vodka helps with texture, and a dash of beet root powder deepens the red color.
 
 > 🌿 **Vegan Option**<br />Replace the cream cheese with 50g tofu and 10ml water, blended to a creamy paste. Swap the milk protein for soy protein isolate.
 
