@@ -1,14 +1,14 @@
 Cherry Ice Cream (Deluxe);;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 ;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;;
-Nutritional values per 100g/ml;100;g;;82.9;2.7;13.5;3.4;3.5;0.2;;;;;
-Nutritional values per ½ Deluxe Tub;340;g;;281.9;9.2;46.0;11.5;12.0;0.6;;;;;
-Nutritional values total;690;g;;572.1;18.6;93.3;23.3;24.5;1.1;;;;;
+Nutritional values per 100g/ml;100;g;;80.2;2.7;13.1;2.6;3.6;0.2;;;;;
+Nutritional values per ½ Deluxe Tub;340;g;;272.6;9.3;44.5;9.0;12.1;0.5;;;;;
+Nutritional values total;680;g;;545.3;18.6;89.1;18.0;24.3;1.1;;;;;
 ;;;;;;;;;;;;;;
-FPDF / PAC (target 20..30);30.35;;;;;;;;;;;;;
-"Protein / Energy Ratio (ok=12%; hi=20%)";17.10%;;;;LOW-FAT;;Low-Sugar;;;;;;;
-ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);29.8;g;;4.3%;;;;;;;;;;
-ℹ️ Net carbs;45.9;g;;*∝ 5 servings@138g:* 9.2g;;;*∝ 3 servings@230g:* 15.3g;;;*energy ratio (low <20%):* 32.1%;;;;
+FPDF / PAC (target 20..30);31.09;;;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";17.80%;;;;LOW-FAT;;Low-Sugar;;;;;;;
+ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);29.7;g;;4.4%;;;;;;;;;;
+ℹ️ Net carbs;38.7;g;;*∝ 5 servings@136g:* 7.7g;;;*∝ 3 servings@227g:* 12.9g;;;*energy ratio (low <20%):* 28.4%;;;;
 ;;;;;;;;;;;;;;
 "🍒 Light, Creamy & Balanced
 
@@ -35,14 +35,14 @@ Cherries;150.00;g;1;61.00;0.10;13.60;9.60;0.90;0.00;0.10;;;;1
 Cream Cheese 23% [Exquisa];50.00;g;1;238.00;22.50;3.00;3.00;5.50;0.70;0.03;9.64;;;1
 Glycerin (E422, VG) [hd-line];20.00;g;1;400.00;;99.00;;;;3.70;;"POD = 60%; GI = 5; Density = 1.26 g/ml";50.00;1
 Brandy or Vodka 40 vol%;10.00;g;1;280.00;;;;;;2.96;;;;1
-SweEX (Erythritol + Xylitol 3:2);30.00;g;2;109.60;;100.00;;;;2.56;;"POD ≈ 85%; GI < 7";100.00;1
+SweEX (Erythritol + Xylitol 3:2);33.00;g;2;109.60;;100.00;;;;2.56;;"POD ≈ 85%; GI < 7";100.00;1
 Salty Stability [Inulin / GMS / CMC / Guar / XG / Salt];10.00;g;2;267.5;3.6;88.4;5.9;0.3;3.5;0.06;;unsweetened “ICSv2”;73.80;1
 Whey + Casein protein (grass-fed) [Vilgain];10.00;g;2;384.00;4.60;5.70;5.60;80.00;0.50;0.06;90.40;"optional, for texture; with stevia";;1
 Anatto Seed Powder [Naturix24];;g;2;144.00;2.00;28.00;;6.00;;;;optional, for color;;0
 Beet Root Powder (organic) [Mandoi];2.00;g;2;347.00;1.00;70.00;46.00;14.10;0.10;;;optional, for color;;1
 ;;;;;;;;;;;;;;
-Soy milk 1.6% (sugar-free) [Berief];98.00;ml;3;30.00;1.60;0.90;0.00;3.00;0.08;;4.00;;;1
-Pomegranate syrup (nar ekşisi) [fersan];10.00;g;3;292.00;0.10;71.70;53.40;1.00;0.60;0.53;;optional, for color + flavor boost;;1
+Soy milk 1.6% (sugar-free) [Berief];95.00;ml;3;30.00;1.60;0.90;0.00;3.00;0.08;;4.00;;;1
+Pomegranate syrup (nar ekşisi) [fersan];;g;3;292.00;0.10;71.70;53.40;1.00;0.60;0.53;;optional, for color + flavor boost;;0
 Flavor drops Vanilla (sucralose) [IronMaxx];≈3;drops;3;;;;;;;;;to taste;;
 ;;;;;;;;;;;;;;
 Schwartau “Black Cherry” (Extra Zero);30.00;g;4;59.00;0.20;15.40;7.10;0.50;0.03;;;"*optional:* fruit spread, no added sugar; add as a mix-in or topping [18kcal, 2.1g sugar]";;
