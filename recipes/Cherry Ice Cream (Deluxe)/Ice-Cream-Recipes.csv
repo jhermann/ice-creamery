@@ -1,14 +1,14 @@
 Cherry Ice Cream (Deluxe);;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 ;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;;
-Nutritional values per 100g/ml;100;g;;82.7;2.7;13.5;3.3;3.5;0.2;;;;;
-Nutritional values per ½ Deluxe Tub;340;g;;281.1;9.2;45.8;11.4;12.0;0.6;;;;;
-Nutritional values total;690;g;;570.5;18.6;92.9;23.1;24.4;1.1;;;;;
+Nutritional values per 100g/ml;100;g;;82.9;2.7;13.5;3.4;3.5;0.2;;;;;
+Nutritional values per ½ Deluxe Tub;340;g;;281.9;9.2;46.0;11.5;12.0;0.6;;;;;
+Nutritional values total;690;g;;572.1;18.6;93.3;23.3;24.5;1.1;;;;;
 ;;;;;;;;;;;;;;
 FPDF / PAC (target 20..30);30.35;;;;;;;;;;;;;
-"Protein / Energy Ratio (ok=12%; hi=20%)";17.11%;;;;LOW-FAT;;Low-Sugar;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";17.10%;;;;LOW-FAT;;Low-Sugar;;;;;;;
 ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);29.8;g;;4.3%;;;;;;;;;;
-ℹ️ Net carbs;45.5;g;;*∝ 5 servings@138g:* 9.1g;;;*∝ 3 servings@230g:* 15.2g;;;*energy ratio (low <20%):* 31.9%;;;;
+ℹ️ Net carbs;45.9;g;;*∝ 5 servings@138g:* 9.2g;;;*∝ 3 servings@230g:* 15.3g;;;*energy ratio (low <20%):* 32.1%;;;;
 ;;;;;;;;;;;;;;
 "🍒 Light, Creamy & Balanced
 
@@ -19,7 +19,12 @@ A splash of brandy or vodka helps with texture, while optional pomegranate syrup
 
 You can replace the cherries by other fruit, see *Optional / Choices* for some ideas. Blends are also possible.";;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
-Rating: 😋😋🍒🍒🍒 ;;;;;;;;;;;;;;
+"Rating: 😋😋🍒🍒🍒 
+
+Process on “Light Ice Cream”, add 1+1 tsp fruit spread in the center hole, followed by a mix-in run.
+Then make a deep and a medium hole, fill each with 1 tsp spread,
+finally bury 1 tsp on top in a shallow cavity — all these are placed on the corners of an imaginary triangle.
+Then carefully fold all with a chopstick, *do not overmix*.";;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 <!-- SNIPPET: alcohol -->;;;;;;;;;;;;;;
 The [brand names] used are in brackets.;;;;;;;;;;;;;;
@@ -34,11 +39,13 @@ SweEX (Erythritol + Xylitol 3:2);30.00;g;2;109.60;;100.00;;;;2.56;;"POD ≈ 85%;
 Salty Stability [Inulin / GMS / CMC / Guar / XG / Salt];10.00;g;2;267.5;3.6;88.4;5.9;0.3;3.5;0.06;;unsweetened “ICSv2”;73.80;1
 Whey + Casein protein (grass-fed) [Vilgain];10.00;g;2;384.00;4.60;5.70;5.60;80.00;0.50;0.06;90.40;with stevia;;1
 Anatto Seed Powder [Naturix24];;g;2;144.00;2.00;28.00;;6.00;;;;optional, for color;;0
-Beet Root Powder (organic) [Mandoi];1.50;g;2;347.00;1.00;70.00;46.00;14.10;0.10;;;optional, for color;;1
+Beet Root Powder (organic) [Mandoi];2.00;g;2;347.00;1.00;70.00;46.00;14.10;0.10;;;optional, for color;;1
 ;;;;;;;;;;;;;;
-Soy milk 1.6% (sugar-free) [Berief];98.50;ml;3;30.00;1.60;0.90;0.00;3.00;0.08;;4.00;;;1
+Soy milk 1.6% (sugar-free) [Berief];98.00;ml;3;30.00;1.60;0.90;0.00;3.00;0.08;;4.00;;;1
 Pomegranate syrup (nar ekşisi) [fersan];10.00;g;3;292.00;0.10;71.70;53.40;1.00;0.60;0.53;;optional, for color + flavor boost;;1
-Flavor drops Vanilla (sucralose) [IronMaxx];≈4;drops;3;;;;;;;;;to taste;;
+Flavor drops Vanilla (sucralose) [IronMaxx];≈3;drops;3;;;;;;;;;to taste;;
+;;;;;;;;;;;;;;
+Schwartau “Black Cherry” (Extra Zero);30.00;g;4;59.00;0.20;15.40;7.10;0.50;0.03;;;"*optional:* fruit spread, no added sugar; add as a mix-in or topping [18kcal, 2.1g sugar]";;
 ;;;;;;;;;;;;;;
 Strawberries;225.00;g;6;31.00;0.40;5.80;5.70;0.80;0.00;0.06;;fresh or frozen [70kcal, 13g sugar];;
 Blueberries;175.00;g;6;48.00;0.40;9.10;8.90;0.40;0.00;0.09;;fresh or frozen [84kcal, 16g sugar];;
