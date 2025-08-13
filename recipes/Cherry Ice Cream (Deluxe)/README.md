@@ -40,6 +40,7 @@ Rating: 😋😋🍒🍒🍒
 > <img width=240 alt="Light Ice Cream" src="Cherry_2025-08-13_1.jpg" class="zoomable" />
 > <img width=240 alt="Mix-in" src="Cherry_2025-08-13_2.jpg" class="zoomable" />
 > <img width=240 alt="Manual fold" src="Cherry_2025-08-13_3.jpg" class="zoomable" />
+> <img width=240 alt="Scooped" src="Cherry_2025-08-13_5.jpg" class="zoomable" />
 
 Process on “Light Ice Cream”, add 1+1 tsp fruit spread in the center hole, followed by a mix-in run.
 Then make a deep and a medium hole, fill each with 1 tsp spread,
