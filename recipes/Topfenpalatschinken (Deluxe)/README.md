@@ -3,6 +3,7 @@ description: Recipe for the Ninja Creami Deluxe [24oz]
 excluded_steps:
 - prepared dry ingredients
 excluded_tags:
+- Low-Fat
 - Vanilla
 tags:
 - Draft
@@ -37,7 +38,7 @@ Rating: 😋 (experimental)
 
 **Prep**
 
-  - _125ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
+  - _125ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup> • or any low-fat milk
   - _75g_ Dinke flour 630 (organic) [REWE Bio] • or any cake flour
   - _60g_ Eggs • 1 medium egg 55–60g
   - _1 pinch_ Salt
@@ -46,7 +47,7 @@ Rating: 😋 (experimental)
 **Wet**
 
   - _245g_ [Topfen / Quark 14.4% \[Berchtesgadener\]](/ice-creamery/info/ingredients/#quark-topfen){target="_blank"}<sup>↗</sup> • 250g container
-  - _100ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
+  - _100ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup> • or any low-fat milk
   - _20ml_ Lime juice + zest (organic) [REWE Bio] • 1 lime = 60..65g
   - _10g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • Sweetness = 60%; GI = 5; Density = 1.26 g/ml
 
