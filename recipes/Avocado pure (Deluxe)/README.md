@@ -14,13 +14,13 @@ tags:
 - Xylitol
 ---
 # Avocado pure (Deluxe)
+<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="logo-avocado-pure.png" />
 
 Made simply with ripe avocados, water, and avocado oil, it’s a dairy-free scoop of silky goodness, rich in healthy fats.
 
 > 🌿 **Vegan & Dairy-free**
 
 Process on Lite Ice Cream.
-
 > <img width=220 alt="After Sorbet" src="_1.jpg" class="zoomable" />
 > <img width=220 alt="After Mix-in" src="_2.jpg" class="zoomable" />
 > <img width=220 alt="Scooped" src="_3.jpg" class="zoomable" />
