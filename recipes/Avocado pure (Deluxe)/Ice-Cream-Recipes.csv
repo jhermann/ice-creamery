@@ -1,14 +1,14 @@
 Avocado pure (Deluxe);;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 ;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;;
-Nutritional values per 100g/ml;100;g;;124.7;10.5;13.1;0.4;1.1;0.3;;;;;
-Nutritional values per ½ Deluxe Tub;340;g;;423.9;35.5;44.4;1.2;3.8;1.1;;;;;
-Nutritional values total;677;g;;844.0;70.8;88.4;2.5;7.5;2.3;;;;;
+Nutritional values per 100g/ml;100;g;;125.5;10.4;13.0;0.4;1.1;0.3;;;;;
+Nutritional values per ½ Deluxe Tub;340;g;;426.8;35.4;44.3;1.2;3.8;1.1;;;;;
+Nutritional values total;679;g;;852.3;70.8;88.4;2.5;7.5;2.3;;;;;
 ;;;;;;;;;;;;;;
-FPDF / PAC (target 20..30);30.49;;;;;;;;;;;;;
-"Protein / Energy Ratio (ok=12%; hi=20%)";3.58%;;;;;;Low-Sugar;;;;;;;
+FPDF / PAC (target 20..30);30.40;;;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";3.54%;;;;;;Low-Sugar;;;;;;;
 ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);0.0;g;;0.0%;;;;;;;;;;
-ℹ️ Net carbs;80.9;g;;*∝ 5 servings@135g:* 16.2g;;;*∝ 3 servings@226g:* 27g;;;*energy ratio (low <20%):* 38.3%;;;;
+ℹ️ Net carbs;80.9;g;;*∝ 5 servings@136g:* 16.2g;;;*∝ 3 servings@226g:* 27g;;;*energy ratio (low <20%):* 38%;;;;
 ;;;;;;;;;;;;;;
 "Made simply with ripe avocados, water, and avocado oil, it’s a dairy-free scoop of silky goodness, rich in healthy fats.
 
@@ -20,13 +20,14 @@ FPDF / PAC (target 20..30);30.49;;;;;;;;;;;;;
 Rating: 😋🥑 (untested)
 
 <!-- SNIPPET: alcohol -->";;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
+1. First, dissolve the GMS in the avocado oil — you might need to heat it up a bit for that (flash 10 secs in the microwave).;;;;;;;;;;;;;;
 The [brand names] used are in brackets.;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment;0Carb[%];Counts?
+Avocado oil (extra virgin) [Hunter & Gather];20.00;ml;0;819.00;91.00;;;;;;;;;1
+Glycerol Monostearate (E471) [Bulk];2.00;g;0;415.00;;;;;;;;;;1
 Avocado pulp (fresh);350.00;g;1;160.00;15.00;8.50;0.70;2.00;0.01;;;~73% water;;1
 Water (cold);225.00;ml;1;;;;;;;;;;;1
-Avocado oil (extra virgin) [Hunter & Gather];20.00;ml;1;819.00;91.00;;;;;;;;;1
 Agave syrup;;ml;1;313.00;0.50;77.00;77.00;0.50;0.00;1.80;;"POD ≈160; GI=11";;1
 Glycerin (E422, VG) [hd-line];15.00;g;1;400.00;;99.00;;;;3.70;;"Sweetness = 60%; GI = 5; Density = 1.26 g/ml";50.00;1
 Brandy or Vodka 40 vol%;10.00;g;1;280.00;;;;;;2.96;;;;1

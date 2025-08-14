@@ -1,12 +1,14 @@
 ---
 description: Recipe for the Ninja Creami Deluxe [24oz]
 excluded_steps:
-- ^$
+- the prepared dry ingredients
 excluded_tags:
+- Cooked Base
 - Vanilla
 tags:
 - Allulose
 - Draft
+- Emulsifier
 - Erythritol
 - Low-Sugar
 - Polysaccharide Gum
@@ -37,11 +39,15 @@ Rating: 😋🥑 (untested)
 
 ℹ️ Brand names are in square brackets `[...]`.
 
+**Prep**
+
+  - _20ml_ Avocado oil (extra virgin) [Hunter & Gather]
+  - _2g_ [Glycerol Monostearate (E471) \[Bulk\]](/ice-creamery/info/ingredients/#glycerol-monostearate-gms-e471){target="_blank"}<sup>↗</sup>
+
 **Wet**
 
   - _350g_ Avocado pulp (fresh) • ~73% water
   - _225ml_ Water (cold)
-  - _20ml_ Avocado oil (extra virgin) [Hunter & Gather]
   - _15g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • Sweetness = 60%; GI = 5; Density = 1.26 g/ml
   - _10g_ [Brandy or Vodka 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup>
 
@@ -55,6 +61,7 @@ Rating: 😋🥑 (untested)
 
 # DIRECTIONS
 
+ 1. First, dissolve the GMS in the avocado oil — you might need to heat it up a bit for that (flash 10 secs in the microwave).
  1. Add "wet" ingredients to empty Creami tub.
  1. Weigh and mix dry ingredients, easiest by adding to a jar with a secure lid and shaking vigorously.
  1. Pour into the tub and *QUICKLY* use an immersion blender on full speed to homogenize everything.
@@ -64,10 +71,10 @@ Rating: 😋🥑 (untested)
 
 # NUTRITIONAL & OTHER INFO
 
-- **Nutritional values per 100g/ml:** 100g; 124.7 kcal; fat 10.5g; carbs 13.1g; sugar 0.4g; protein 1.1g; salt 0.3g
-- **Nutritional values per ½ Deluxe Tub:** 340g; 423.9 kcal; fat 35.5g; carbs 44.4g; sugar 1.2g; protein 3.8g; salt 1.1g
-- **Nutritional values total:** 677g; 844.0 kcal; fat 70.8g; carbs 88.4g; sugar 2.5g; protein 7.5g; salt 2.3g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.49
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 3.58% • Low-Sugar
+- **Nutritional values per 100g/ml:** 100g; 125.5 kcal; fat 10.4g; carbs 13.0g; sugar 0.4g; protein 1.1g; salt 0.3g
+- **Nutritional values per ½ Deluxe Tub:** 340g; 426.8 kcal; fat 35.4g; carbs 44.3g; sugar 1.2g; protein 3.8g; salt 1.1g
+- **Nutritional values total:** 679g; 852.3 kcal; fat 70.8g; carbs 88.4g; sugar 2.5g; protein 7.5g; salt 2.3g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.40
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 3.54% • Low-Sugar
 - **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 0.0g • 0.0%
-- **Net carbs:** 80.9g • *∝ 5 servings@135g:* 16.2g • *∝ 3 servings@226g:* 27g • *energy ratio (low <20%):* 38.3%
+- **Net carbs:** 80.9g • *∝ 5 servings@136g:* 16.2g • *∝ 3 servings@226g:* 27g • *energy ratio (low <20%):* 38%
