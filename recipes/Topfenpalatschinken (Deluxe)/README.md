@@ -18,7 +18,7 @@ tags:
 # Topfenpalatschinken (Deluxe)
 <img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="logo-topfenpalatschinken.png" />
 
-This ice cream reimagines the classic Austrian “Topfenplataschinken” dessert in frozen form,
+This ice cream reimagines the classic Austrian “Topfenpalatschinken” dessert in frozen form,
 blending the creamy tang of quark and lime with some milk to create a rich yet airy base.
 
 Raisins soaked in Jamaica rum provide sweetness and warmth, and serve as a mix-in
