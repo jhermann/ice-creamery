@@ -1,14 +1,14 @@
 Avocado pure (Deluxe);;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 ;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;;
-Nutritional values per 100g/ml;100;g;;124.1;10.5;12.9;0.4;1.1;0.3;;;;;
-Nutritional values per ½ Deluxe Tub;340;g;;421.9;35.6;44.0;1.2;3.6;1.1;;;;;
-Nutritional values total;676;g;;838.2;70.7;87.4;2.5;7.1;2.3;;;;;
+Nutritional values per 100g/ml;100;g;;124.7;10.5;13.1;0.4;1.1;0.3;;;;;
+Nutritional values per ½ Deluxe Tub;340;g;;423.9;35.5;44.4;1.2;3.8;1.1;;;;;
+Nutritional values total;677;g;;844.0;70.8;88.4;2.5;7.5;2.3;;;;;
 ;;;;;;;;;;;;;;
-FPDF / PAC (target 20..30);30.55;;;;;;;;;;;;;
-"Protein / Energy Ratio (ok=12%; hi=20%)";3.39%;;;;;;Low-Sugar;;;;;;;
+FPDF / PAC (target 20..30);30.49;;;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";3.58%;;;;;;Low-Sugar;;;;;;;
 ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);0.0;g;;0.0%;;;;;;;;;;
-ℹ️ Net carbs;79.9;g;;*∝ 5 servings@135g:* 16g;;;*∝ 3 servings@225g:* 26.6g;;;*energy ratio (low <20%):* 38.1%;;;;
+ℹ️ Net carbs;80.9;g;;*∝ 5 servings@135g:* 16.2g;;;*∝ 3 servings@226g:* 27g;;;*energy ratio (low <20%):* 38.3%;;;;
 ;;;;;;;;;;;;;;
 "Made simply with ripe avocados, water, and avocado oil, it’s a dairy-free scoop of silky goodness, rich in healthy fats.
 
@@ -34,7 +34,7 @@ Allulose;50.00;g;2;40.00;;80.00;;;;1.90;;*alternative:* 38g SweEX (Erythritol + 
 Gum arabic (Acacia, E414);2.50;g;2;200.00;0.00;85.00;0.00;2.50;0.70;;;;;1
 Salt;2.20;g;2;;;;;;100.00;5.90;;;;1
 Guar gum (E412);0.80;g;2;180.00;0.60;84.00;0.00;5.50;0.30;;;;;1
-;;;;;;;;;;;;;;
+Matcha green tea powder (organic) [Mandoi];1.50;g;2;383.00;3.90;65.40;;29.30;0.01;;;"*optional*, for color; ½ tsp = 1g";;1
 ;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;

@@ -21,6 +21,7 @@ Made simply with ripe avocados, water, and avocado oil, it’s a dairy-free scoo
 > 🌿 **Vegan & Dairy-free**
 
 Process on Lite Ice Cream.
+
 > <img width=220 alt="After Sorbet" src="_1.jpg" class="zoomable" />
 > <img width=220 alt="After Mix-in" src="_2.jpg" class="zoomable" />
 > <img width=220 alt="Scooped" src="_3.jpg" class="zoomable" />
@@ -50,6 +51,7 @@ Rating: 😋🥑 (untested)
   - _2.5g_ [Gum arabic (Acacia, E414)](/ice-creamery/info/ingredients/#acacia-gum-gum-arabic-e414){target="_blank"}<sup>↗</sup>
   - _2.20g_ Salt
   - _0.80g_ [Guar gum (E412)](/ice-creamery/info/ingredients/#guar-gum-e412){target="_blank"}<sup>↗</sup>
+  - _1.5g_ Matcha green tea powder (organic) [Mandoi] • *optional*, for color; ½ tsp = 1g
 
 # DIRECTIONS
 
@@ -62,10 +64,10 @@ Rating: 😋🥑 (untested)
 
 # NUTRITIONAL & OTHER INFO
 
-- **Nutritional values per 100g/ml:** 100g; 124.1 kcal; fat 10.5g; carbs 12.9g; sugar 0.4g; protein 1.1g; salt 0.3g
-- **Nutritional values per ½ Deluxe Tub:** 340g; 421.9 kcal; fat 35.6g; carbs 44.0g; sugar 1.2g; protein 3.6g; salt 1.1g
-- **Nutritional values total:** 676g; 838.2 kcal; fat 70.7g; carbs 87.4g; sugar 2.5g; protein 7.1g; salt 2.3g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.55
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 3.39% • Low-Sugar
+- **Nutritional values per 100g/ml:** 100g; 124.7 kcal; fat 10.5g; carbs 13.1g; sugar 0.4g; protein 1.1g; salt 0.3g
+- **Nutritional values per ½ Deluxe Tub:** 340g; 423.9 kcal; fat 35.5g; carbs 44.4g; sugar 1.2g; protein 3.8g; salt 1.1g
+- **Nutritional values total:** 677g; 844.0 kcal; fat 70.8g; carbs 88.4g; sugar 2.5g; protein 7.5g; salt 2.3g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.49
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 3.58% • Low-Sugar
 - **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 0.0g • 0.0%
-- **Net carbs:** 79.9g • *∝ 5 servings@135g:* 16g • *∝ 3 servings@225g:* 26.6g • *energy ratio (low <20%):* 38.1%
+- **Net carbs:** 80.9g • *∝ 5 servings@135g:* 16.2g • *∝ 3 servings@226g:* 27g • *energy ratio (low <20%):* 38.3%
