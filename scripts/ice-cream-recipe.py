@@ -361,6 +361,7 @@ def main():
         ' 1. After mixing, let the base sit in the fridge for at least 30min (better 2h),'
         ' for the seeds to properly soak. Stir before freezing.',
     ]
+    special_prep = []
     mix_in = []
     special_directions = []
     STEP_PREP = 0
@@ -442,7 +443,9 @@ def main():
             if row[0] == 'Ingredients':
                 break  # pass header line to ingredients processing
             elif row[0].lstrip().startswith('1. '):
-                if 'Before freezing' in row[0]:
+                if 'prep' in row[0]:
+                    special_prep.append(' ' + row[0].strip())
+                elif 'Before freezing' in row[0]:
                     freezing[0:0] = [' ' + row[0].strip()]
                 elif ' a mix-in' in row[0] or ' the mix-in' in row[0]:
                     mix_in[0:0] = [' ' + row[0].strip()]
@@ -508,6 +511,8 @@ def main():
     # Add directions
     excluded_steps = re.compile(f"({')|('.join(docmeta.get('excluded_steps', [])).lower()})", flags=re.IGNORECASE)
     lines.extend(['', subtitle('Directions', is_topping), ''])
+    if special_prep:
+        lines.extend(special_prep)
     if special_directions:
         lines.extend(special_directions)
         if any(x in line.lower().split() for line in special_directions for x in {'heat', 'cook'}):
