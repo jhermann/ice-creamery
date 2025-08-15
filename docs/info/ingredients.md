@@ -603,6 +603,10 @@ and has a mild, creamy flavor and smooth texture.
 In the US, a standard cream cheese must contain at least 33% milkfat and have a moisture content of no more than 55%.
 As with similar ingredients, always state the expected fat percentage explicitly in a recipe.
 
+> ℹ️ **Geographic Differences**<br />
+> In the UK, the equivalent product to German double-cream cheese (~22% fat) is called *soft cream cheese*,
+> the fattier US cream cheese has to be used mixed with low-fat milk (ratio 2:1, i.e. ⅓ of the weight replaced by milk).
+
 Also make sure to check for any added stabilizers and other additions in a product;
 a good product just needs milk/cream and salt, and maybe some yogurt.
 
@@ -652,6 +656,9 @@ essentially the same dairy product (*curd cheese*).
 They are made from milk, often by adding an acid or rennet to curdle the milk,
 and then draining the whey. While they are similar,
 there can be slight regional variations in texture and fat content.
+
+> ℹ️ **Geographic Differences**<br />
+> Low-fat quark (around 1% fat) can be swapped 1:1 with US low-fat cream cheese, with very similar macros.
 
 When making cheesecake, Germans use quark where US recipes would use cream cheese.
 
