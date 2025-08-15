@@ -1,7 +1,10 @@
 ---
 description: Recipe for the Ninja Creami Deluxe [24oz]
 excluded_steps:
-- ^$
+- ingredients to empty Creami tub
+- and mix dry ingredients
+- blender
+- stir
 excluded_tags:
 - Allulose
 - Vanilla
@@ -11,9 +14,11 @@ tags:
 - Draft
 - Erythritol
 - Fruit
+- Gum-Free
 - Hi-Protein
 - Low-Fat
 - Scoopable
+- Simple
 - Sucralose
 - Xylitol
 ---
@@ -34,6 +39,8 @@ Then a scrape-down and a respin or mix-in.<br clear=all />
 
 Rating: 😋🍑 (untested)
 
+> ℹ️ Read [About 'Simple' Recipes](/ice-creamery/info/tips%2Btricks/#about-simple-recipes) regarding 'exotic' ingredients and their alternatives.
+
 # INGREDIENTS
 
 ℹ️ Brand names are in square brackets `[...]`.
@@ -52,7 +59,7 @@ Rating: 😋🍑 (untested)
 
 **Fill to MAX**
 
-  - _≈3 drops_ Flavor drops Peach / Maracuja (sucralose) [IronMaxx] • to taste
+  - _≈5 drops_ Flavor drops Peach / Maracuja (sucralose) [IronMaxx] • to taste
 
 **Topping Options**
 
@@ -62,11 +69,8 @@ Rating: 😋🍑 (untested)
 
 # DIRECTIONS
 
- 1. Add "wet" ingredients to empty Creami tub.
- 1. Weigh and mix dry ingredients, easiest by adding to a jar with a secure lid and shaking vigorously.
- 1. Pour into the tub and *QUICKLY* use an immersion blender on full speed to homogenize everything.
- 1. Let blender run until thickeners are properly hydrated, up to 1-2 min. Or blend again after waiting that time.
- 1. Add remaining ingredients (to the MAX line) and stir with a spoon.
+ 1. Put ‘wet’ and ‘dry’ ingredients into an empty Creami tub (on a scale), and blend until smooth.
+ 1. Adapt sweetness to taste using the flavor drops, stir thoroughly.
  1. Put on the lid, freeze for 24h, then spin as usual. Flatten any humps before that.
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
 
