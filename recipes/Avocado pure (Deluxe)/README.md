@@ -2,6 +2,7 @@
 description: Recipe for the Ninja Creami Deluxe [24oz]
 excluded_steps:
 - the prepared dry ingredients
+- stir with a spoon
 excluded_tags:
 - Cooked Base
 - Vanilla
@@ -39,11 +40,6 @@ Rating: 😋🥑 (untested)
 
 ℹ️ Brand names are in square brackets `[...]`.
 
-**Prep**
-
-  - _20ml_ Avocado oil (extra virgin) [Hunter & Gather]
-  - _2g_ [Glycerol Monostearate (E471) \[Bulk\]](/ice-creamery/info/ingredients/#glycerol-monostearate-gms-e471){target="_blank"}<sup>↗</sup>
-
 **Wet**
 
   - _350g_ Avocado pulp (fresh) • ~73% water
@@ -56,15 +52,20 @@ Rating: 😋🥑 (untested)
   - _50g_ [Allulose](/ice-creamery/info/ingredients/#allulose){target="_blank"}<sup>↗</sup> • *alternative:* 38g SweEX (Erythritol + Xylitol 3:2)
   - _2.5g_ [Gum arabic (Acacia, E414)](/ice-creamery/info/ingredients/#acacia-gum-gum-arabic-e414){target="_blank"}<sup>↗</sup>
   - _2.20g_ Salt
-  - _0.80g_ [Guar gum (E412)](/ice-creamery/info/ingredients/#guar-gum-e412){target="_blank"}<sup>↗</sup>
+  - _2g_ [Glycerol Monostearate (E471) \[Bulk\]](/ice-creamery/info/ingredients/#glycerol-monostearate-gms-e471){target="_blank"}<sup>↗</sup> • *alternative:* soy or sunflower lecithin
   - _1.5g_ Matcha green tea powder (organic) [Mandoi] • *optional*, for color; ½ tsp = 1g
+  - _0.80g_ [Guar gum (E412)](/ice-creamery/info/ingredients/#guar-gum-e412){target="_blank"}<sup>↗</sup>
+
+**Fill to MAX**
+
+  - _20ml_ Avocado oil (extra virgin) [Hunter & Gather]
 
 # DIRECTIONS
 
- 1. First, dissolve the GMS in the avocado oil — you might need to heat it up a bit for that (flash 10 secs in the microwave).
  1. Add "wet" ingredients to empty Creami tub.
  1. Weigh and mix dry ingredients, easiest by adding to a jar with a secure lid and shaking vigorously.
  1. Pour into the tub and *QUICKLY* use an immersion blender on full speed to homogenize everything.
+ 1. Then slowly blend in the oil in small amounts (drip into the vortex).
  1. Let blender run until thickeners are properly hydrated, up to 1-2 min. Or blend again after waiting that time.
  1. Put on the lid, freeze for 24h, then spin as usual. Flatten any humps before that.
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
