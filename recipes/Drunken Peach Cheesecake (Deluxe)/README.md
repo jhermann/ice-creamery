@@ -49,7 +49,7 @@ Rating: 😋🍑 (untested)
 
   - _350g_ Peaches in Grape Juice [Libby’s] • Can = 410g
   - _240g_ [Topfen / Quark 0.6% \[Berchtesgadener\]](/ice-creamery/info/ingredients/#quark-topfen){target="_blank"}<sup>↗</sup> • *US alternative:* low-fat cream cheese
-  - _35g_ [Jamaica Rum 43 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup> • or bourbon
+  - _35g_ [Jamaica Rum 43 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup> • *alternative:* bourbon, or 30g vegetable glycerin for a sober recipe
   - _35g_ [Cream Cheese 23% \[Exquisa\]](/ice-creamery/info/ingredients/#cream-cheese){target="_blank"}<sup>↗</sup> • click the link for UK / US equivalents
 
 **Dry**
