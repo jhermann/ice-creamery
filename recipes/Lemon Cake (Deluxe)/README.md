@@ -23,7 +23,7 @@ tags:
 > *A slice of Italian sunshine, one scoop at a time.*
 
 Inspired by Italian lemon ricotta cake, this captures the essence of the classic dessert in frozen form,
-and adds a spirited Limoncello twist.
+and adds a spirited Limoncello twist (see the ingredients for a non-alcoholic alternative).
 
 Process on *Sorbet*, [hold it shortly under running water](https://jhermann.github.io/ice-creamery/info/tips%2Btricks/#handling-of-icy-sides-bottom)
 *after* that.
@@ -45,7 +45,7 @@ Rating: 😋🍋🍰 (untested)
 
   - _330g_ [Soured milk 3.5% \[Schwälbchen\]](/ice-creamery/info/ingredients/#soured-milk){target="_blank"}<sup>↗</sup> • *alternative:* Creamed cottage cheese 4%
   - _240g_ Ricotta 9% fat (33% DM) [REWE Marca Italia] • *alternative:* Topfen / Quark 11–14%
-  - _40ml_ Limoncello di Calabria 28 vol% [REWE] • 1 bottle = 700ml
+  - _40ml_ Limoncello di Calabria 28 vol% [REWE] • *alternative:* 20g glycerin (VG) and 15ml lemon juice
   - _20ml_ Lime juice + zest (organic) [REWE Bio] • 1 lime = 60..65g
 
 **Dry**

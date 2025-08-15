@@ -12,7 +12,7 @@ FPDF / PAC (target 20..30);30.89;;;;;;;;;;;;;
 "> *A slice of Italian sunshine, one scoop at a time.*
 
 Inspired by Italian lemon ricotta cake, this captures the essence of the classic dessert in frozen form,
-and adds a spirited Limoncello twist.";;;;;;;;;;;;;;
+and adds a spirited Limoncello twist (see the ingredients for a non-alcoholic alternative).";;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 "Process on *Sorbet*, [hold it shortly under running water](https://jhermann.github.io/ice-creamery/info/tips%2Btricks/#handling-of-icy-sides-bottom)
 *after* that.
@@ -26,9 +26,10 @@ Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment;0C
 Soured milk 3.5% [Schwälbchen];330.00;g;1;64.00;3.50;4.00;4.00;3.30;0.13;0.04;8.50;*alternative:* Creamed cottage cheese 4%;;1
 Cottage Cheese 4% (creamed, US/CA);;g;1;104.00;4.30;3.40;2.70;11.00;0.36;0.03;17.20;;;1
 Ricotta 9% fat (33% DM) [REWE Marca Italia];240.00;g;1;134.00;9.00;3.20;3.20;10.00;0.16;0.03;14.83;*alternative:* Topfen / Quark 11–14%;;1
-Limoncello di Calabria 28 vol% [REWE];40.00;ml;1;261.00;0.00;26.60;26.60;0.00;;1.90;;1 bottle = 700ml;;1
+Limoncello di Calabria 28 vol% [REWE];40.00;ml;1;261.00;0.00;26.60;26.60;0.00;;1.90;;*alternative:* 20g glycerin (VG) and 15ml lemon juice;;1
 Lime juice + zest (organic) [REWE Bio];20.00;ml;1;25.00;0.10;8.40;1.70;0.40;;;;1 lime = 60..65g;;1
-Lemon juice;;ml;1;25.00;0.10;3.36;1.65;0.30;0.01;0.02;;;;1
+Lemon juice;15.00;ml;1;25.00;0.10;3.36;1.65;0.30;0.01;0.02;;;;0
+Glycerin (E422, VG) [hd-line];20.00;g;1;400.00;;99.00;;;;3.70;;"POD = 60%; GI = 5; Density = 1.26 g/ml";50.00;0
 Limoncello RAVINI Crema 17 vol% 500ml [Aldi];;ml;1;99.00;7.00;25.00;25.00;1.00;0.00;1.24;;;;0
 Topfen / Quark 14.4% [Berchtesgadener];240.00;g;1;179.00;14.40;3.60;3.60;8.40;0.08;0.04;6.60;250g container;;0
 SweEX (Erythritol + Xylitol 3:2);40.00;g;2;109.60;;100.00;;;;2.56;;*alternative:* 53g allulose or dextrose;100.00;1
