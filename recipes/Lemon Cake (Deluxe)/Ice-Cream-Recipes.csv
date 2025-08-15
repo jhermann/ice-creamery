@@ -1,0 +1,39 @@
+Lemon Cake (Deluxe);;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;;
+Nutritional values per 100g/ml;100;g;;102.4;4.9;10.9;4.8;5.2;0.2;;;;;
+Nutritional values per ½ Deluxe Tub;340;g;;348.0;16.8;37.1;16.2;17.7;0.5;;;;;
+Nutritional values total;670;g;;686.0;33.2;73.2;31.9;35.0;1.1;;;;;
+;;;;;;;;;;;;;;
+FPDF / PAC (target 20..30);30.89;;;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";20.39%;;;;;;Low-Sugar;Hi-Protein;;;;;;
+ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);63.6;g;;9.5%;;;;;;;;;;
+ℹ️ Net carbs;33.2;g;;*∝ 5 servings@134g:* 6.6g;;;*∝ 3 servings@223g:* 11.1g;;;*energy ratio (low <20%):* 19.4%;;;;
+"> *A slice of Italian sunshine, one scoop at a time.*
+
+Inspired by Italian lemon ricotta cake, this captures the essence of the classic dessert in frozen form,
+and adds a spirited Limoncello twist.";;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+"Process on *Sorbet*, [hold it shortly under running water](https://jhermann.github.io/ice-creamery/info/tips%2Btricks/#handling-of-icy-sides-bottom)
+*after* that.
+Then a scrape-down and a respin or mix-in.<br clear=all />";;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+Rating: 😋🍋🍰 (untested);;;;;;;;;;;;;;
+1. Zest the lime first, before juicing it.;;;;;;;;;;;;;;
+The [brand names] used are in brackets.;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment;0Carb[%];Counts?
+Soured milk 3.5% [Schwälbchen];330.00;g;1;64.00;3.50;4.00;4.00;3.30;0.13;0.04;8.50;*alternative:* Creamed cottage cheese 4%;;1
+Cottage Cheese 4% (creamed, US/CA);;g;1;104.00;4.30;3.40;2.70;11.00;0.36;0.03;17.20;;;1
+Ricotta 9% fat (33% DM) [REWE Marca Italia];240.00;g;1;134.00;9.00;3.20;3.20;10.00;0.16;0.03;14.83;*alternative:* Topfen / Quark 11–14%;;1
+Limoncello di Calabria 28 vol% [REWE];40.00;ml;1;261.00;0.00;26.60;26.60;0.00;;1.90;;1 bottle = 700ml;;1
+Lime juice + zest (organic) [REWE Bio];20.00;ml;1;25.00;0.10;8.40;1.70;0.40;;;;1 lime = 60..65g;;1
+Lemon juice;;ml;1;25.00;0.10;3.36;1.65;0.30;0.01;0.02;;;;1
+Limoncello RAVINI Crema 17 vol% 500ml [Aldi];;ml;1;99.00;7.00;25.00;25.00;1.00;0.00;1.24;;;;0
+Topfen / Quark 14.4% [Berchtesgadener];240.00;g;1;179.00;14.40;3.60;3.60;8.40;0.08;0.04;6.60;250g container;;0
+SweEX (Erythritol + Xylitol 3:2);40.00;g;2;109.60;;100.00;;;;2.56;;*alternative:* 53g allulose or dextrose;100.00;1
+Allulose;53.00;g;2;40.00;;80.00;;;;1.90;;*alternative:* 40g SweEX (Erythritol + Xylitol 3:2);80.00;0
+Dextrose;53.00;g;2;350.00;;100.00;100.00;;;1.90;;*alternative:* 40g SweEX (Erythritol + Xylitol 3:2);;0
+Salt;0.25;g;2;;;;;;100.00;5.90;;7 quick shakes (with my shaker);;1
+;;;;;;;;;;;;;;
+Cream 32% [REWE Beste Wahl];;ml;3;311.00;32.00;3.20;3.20;2.50;0.13;0.03;6.32;;;1
