@@ -657,8 +657,13 @@ They are made from milk, often by adding an acid or rennet to curdle the milk,
 and then draining the whey. While they are similar,
 there can be slight regional variations in texture and fat content.
 
+German quark has three variants regarding fat content, below 10%, 20% and above 40% fat
+in dry matter, roughly translating to ~1%, ~5%, and 12–14% fat total.
+
 > ℹ️ **Geographic Differences**<br />
 > Low-fat quark (around 1% fat) can be swapped 1:1 with US low-fat cream cheese, with very similar macros.
+>
+> For replacing the full-fat variant, mix 40% US cream cheese with 60% low-fat milk (ratio 2:3).
 
 When making cheesecake, Germans use quark where US recipes would use cream cheese.
 
