@@ -1,14 +1,14 @@
-Banafaba (Deluxe);;;;;;;;;;;;
-;;;;;;;;;;;;
-;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;
-Nutritional values per 100g/ml;100;g;;84.9;2.3;11.9;2.4;6.3;0.1;;;
-Nutritional values per ½ Deluxe Tub;360;g;;305.7;8.4;43.0;8.7;22.5;0.5;;;
-Nutritional values total;720;g;;611.4;16.9;85.9;17.4;45.1;1.0;;;
-;;;;;;;;;;;;
-FPDF / PAC (target 20..30);29.62;;;;;;;;;;;
-"Protein / Energy Ratio (ok=12%; hi=20%)";29.48%;;;;LOW-FAT;;Low-Sugar;Hi-Protein;;;;
-Milk Solids Non-Fat (MSNF, 7-11%);27.9;g;;3.9%;;;;;;;;
-;;;;;;;;;;;;
+Banafaba (Deluxe);;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;;
+Nutritional values per 100g/ml;100;g;;83.6;2.5;12.6;2.6;4.6;0.1;;;;;
+Nutritional values per ½ Deluxe Tub;340;g;;284.2;8.4;42.9;8.7;15.8;0.3;;;;;
+Nutritional values total;680;g;;568.4;16.7;85.8;17.4;31.6;0.7;;;;;
+;;;;;;;;;;;;;;
+FPDF / PAC (target 20..30);30.50;;;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";22.23%;;;;LOW-FAT;;Low-Sugar;Hi-Protein;Low-Salt;;;;;
+ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);26.0;g;;3.8%;;;;;;;;;;
+ℹ️ Net carbs;38.3;g;;*∝ 5 servings@136g:* 7.7g;;;*∝ 3 servings@227g:* 12.8g;;;*energy ratio (low <20%):* 26.9%;;;;
 "> 🌿 **Vegan & Dairy-free**<br />Recipe is using only soy milk and protein.
 
 This uses aquafaba in the base, and only one mid-sized banana.
@@ -23,27 +23,91 @@ Process on *Sorbet*, [hold it shortly under running water](https://jhermann.gith
 Rating: 😋😋😋🍌 
 
 Directly after the respin, you get a “soft scoopable” consistency, smooth and crystal-free.
-It’s a tiny bit gritty — from the hemp seeds? The banana flavor is very mild.";;;;;;;;;;;;
-;;;;;;;;;;;;
-;;;;;;;;;;;;
-;;;;;;;;;;;;
+It’s a tiny bit gritty — from the hemp seeds? The banana flavor is very mild.";;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+<!-- SNIPPET: alcohol -->;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
 "1. In an empty tub, blend the hemp hearts, banana, and aquafaba to a smooth puree.
- 1. Then add all the other ‘wet’ ingredients.";;;;;;;;;;;;
-1. Before freezing, let it rest in the fridge for at least 2 hours.;;;;;;;;;;;;
-The [brand names] used are in brackets.;;;;;;;;;;;;
-;;;;;;;;;;;;
-Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment
-Aquafaba (chickpea liquid);150.00;ml;0;30.00;0.50;3.00;0.50;1.00;0.01;;;
-Banana (peeled);100.00;g;0;108.00;0.60;21.50;16.00;1.22;0.03;0.16;;1 mid-size banana, eat any surplus 😋
-Hemp hearts (organic, shelled) [alnatura];20.00;g;0;630.00;52.00;5.40;1.80;32.00;0.02;;;
-Soy milk 1.6% (sugar-free) [Berief];300.00;ml;1;30.00;1.60;0.90;0.00;3.00;0.08;;;
-Glycerin (E422, VG) [hd-line];15.00;g;1;400.00;;99.00;;;;3.70;;"Sweetness = 60%; GI = 5; Density = 1.26 g/ml"
-Fruit Brandy 40 vol%;10.00;g;1;280.00;;;;;;2.96;;
-Flavor drops Vanilla (sucralose) [IronMaxx];5.00;drops;1;;;;;;;;;to taste
-Erythritol (E968);30.00;g;2;24.00;0.00;100.00;0.00;0.00;0.00;2.80;;POD = 75%
-Soy protein isolate (nature) [Powerstar];30.00;g;2;372.00;1.00;1.00;0.00;89.80;2.50;;93.00;1kg bag, unsweetened, unflavored
-Xylitol;10.00;g;2;238.00;0.00;100.00;0.00;0.00;0.00;2.20;;"Sweetness = 100%; GI = 7"
-Vanilla Bean Powder [InterVanilla];2.00;g;2;288.00;0.10;13.00;13.00;0.00;0.00;;;
-Tylose powder (E466 / CMC) [GoodBake];1.00;g;2;600.00;;75.00;;;;;;optional, for chewier texture and slower melting
-;;;;;;;;;;;;
-Water to MAX line;52.00;ml;3;;;;;;;;;
+ 1. Then add all the other ‘wet’ ingredients.";;;;;;;;;;;;;;
+1. Before freezing, let it rest in the fridge for at least 2 hours.;;;;;;;;;;;;;;
+The [brand names] used are in brackets.;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment;0Carb[%];Counts?
+Aquafaba (chickpea liquid);150.00;ml;0;30.00;0.50;3.00;0.50;1.00;0.01;;;;;1
+Banana (peeled);100.00;g;0;108.00;0.60;21.50;16.00;1.22;0.03;0.16;;1 mid-size banana, eat any surplus 😋;;1
+Hemp hearts (organic, shelled) [alnatura];20.00;g;0;630.00;52.00;5.40;1.80;32.00;0.02;;;;;1
+Soy milk 1.6% (sugar-free) [Berief];300.00;ml;1;30.00;1.60;0.90;0.00;3.00;0.08;;4.00;;;1
+Glycerin (E422, VG) [hd-line];15.00;g;1;400.00;;99.00;;;;3.70;;"Sweetness = 60%; GI = 5; Density = 1.26 g/ml";50.00;1
+Brandy or Vodka 40 vol%;10.00;g;1;280.00;;;;;;2.96;;*alternative:* 8g (additional) vegetable glycerin for a sober recipe;;1
+SweEX (Erythritol + Xylitol 3:2);40.00;g;2;109.60;;100.00;;;;2.56;;*alternative:* 53g allulose or dextrose;100.00;1
+Soy protein isolate (nature) [Powerstar];15.00;g;2;372.00;1.00;1.00;0.00;89.80;2.50;;93.00;1kg bag, unsweetened, unflavored;;1
+Vanilla Bean Powder [InterVanilla];2.00;g;2;288.00;0.10;13.00;13.00;0.00;0.00;;;;;1
+Tylose powder (E466 / CMC) [GoodBake];1.00;g;2;600.00;;75.00;;;;;;optional, for chewier texture and slower melting;;1
+;;;;;;;;;;;;;;
+Water to MAX line;27.00;ml;3;;;;;;;;;;;1
+Flavor drops Vanilla (sucralose) [IronMaxx];5.00;drops;3;;;;;;;;;to taste;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
