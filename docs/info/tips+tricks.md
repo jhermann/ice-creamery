@@ -11,6 +11,22 @@ These are some basic facts applying to all recipes.
 
  1. Ingredient amounts fit the 680ml (24oz) container size of the *Creami Deluxe*. For the base model and the *Swirl*, scale the recipes by using ⅔ of all ingredients (66%).
 
+## Creami Don'ts
+
+Avoid these things and methods:
+
+ * **Do not** listen to claims like "but it works for me, for years now." *Your* freezer might have a temperature lower or higher than the other person's, *your* kitchen temperature might vary greatly according to local climate and seasonal changes, *your* paddle might be more worn down that the other person's, *your* protein powder might not have the additives that *their's* has, and so on.
+ * **Do not** use a milk frother to mix your bases. These things do not disperse powders as effectively as an immersion blender or blender (because it's not their job), and also add a lot of *unwanted* foam (that's their job).
+
+   The risk of dry ingredients clumping is way higher, as is that of solids sinking to the bottom (ingredient separation into layers).
+ * **Do not** skip blending your chunky ingredients. A smooth base is just safer to spin in general. The Creami is *not* a blender, it is a rotational scraper of ice in the middle of a slushy amd rock-hard consistency.
+ * **Do not** freeze your tubs with the lid off, the pressure from the ice shield that forms at the top of your base can *damage* the bottom of your container (cracking, expanding ice seeks the path of least resistance).
+ * **Do not** freeze your bases less than 24h, *unless* you know from a previous scrape test your recipe is OK with less, or you freeze pre-chilled bases.
+ * **Do not** thaw your frozen tubs without checking whether that is needed at all, see [scrape test](#scrape-test-always).
+ * **Do not** run your tubs under hot water *before* the first spin, see [Handling of Icy Sides & Bottom](#handling-of-icy-sides-bottom).
+ * **Do not** skip flattening the hump.
+ * **Do not** spin non-level surfaces (see right above). "Non-level" refers to both an uneven or slanted surface of your base. *Always* flatten left-overs you intend to process again, after re-freezing.
+
 ## About 'Simple' Recipes
 
 Generally, my recipes are *optimized for flavor and texture, not for the number or type of ingredients*.
