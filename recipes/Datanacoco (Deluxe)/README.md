@@ -6,7 +6,7 @@ excluded_steps:
 excluded_tags:
 - Vanilla
 tags:
-- Draft
+- Experimental
 - Emulsifier
 - Erythritol
 - Fruit

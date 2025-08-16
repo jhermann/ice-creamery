@@ -6,7 +6,7 @@ excluded_tags:
 - Dairy$
 tags:
 - Dairy-Free
-- Draft
+- Experimental
 - Emulsifier
 - Erythritol
 - Fruit

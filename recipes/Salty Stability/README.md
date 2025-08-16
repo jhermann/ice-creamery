@@ -7,7 +7,6 @@ excluded_steps:
 excluded_tags:
 - Vanilla
 tags:
-- Draft
 - Emulsifier
 - Polysaccharide Gum
 - Tylo Powder (CMC)

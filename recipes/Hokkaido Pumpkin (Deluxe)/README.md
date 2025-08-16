@@ -8,7 +8,7 @@ excluded_tags:
 - Emulsifier
 tags:
 - Cooked Base
-- Draft
+- Experimental
 - Erythritol
 - Low-Fat
 - Low-Sugar

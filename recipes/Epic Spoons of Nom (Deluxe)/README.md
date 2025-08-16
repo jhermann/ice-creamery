@@ -4,7 +4,7 @@ excluded_tags:
 - Dairy
 - Vanilla
 tags:
-- Draft
+- Experimental
 - Emulsifier
 - Erythritol
 - Hi-Protein

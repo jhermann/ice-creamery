@@ -7,7 +7,7 @@ excluded_tags:
 - Vanilla
 tags:
 - Alcohol
-- Draft
+- Experimental
 - Emulsifier
 - Erythritol
 - Low-Sugar
