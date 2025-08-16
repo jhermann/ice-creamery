@@ -11,7 +11,9 @@ These are some basic facts applying to all recipes.
 
  1. Ingredient amounts fit the 680ml (24oz) container size of the *Creami Deluxe*. For the base model and the *Swirl*, scale the recipes by using ⅔ of all ingredients (66%).
 
-## Creami Don'ts<img style="float: right; margin-left: 1.5em;" width=160 alt="DON'TS" src="/ice-creamery/info/creami-donts.png" />
+<img style="float: right; margin: 0 35px 1rem 0;" width=90 alt="DON'TS" src="/ice-creamery/info/creami-donts.png" />
+
+## Creami Don'ts
 
 Avoid these things and methods:
 
