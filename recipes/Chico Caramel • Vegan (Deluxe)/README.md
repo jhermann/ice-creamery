@@ -5,12 +5,13 @@ excluded_steps:
 - Add "wet" ingredients
 - properly hydrated
 excluded_tags:
+- Allulose
+- Fruit
 - Vanilla
 tags:
 - Dairy-Free
 - Erythritol
 - Gum-Free
-- Hi-Protein
 - Low-Fat
 - Low-Sugar
 - Promising
@@ -37,9 +38,10 @@ Process on Lite Ice Cream, followed by a scrape-down with compaction and a respi
 Rating: 😋😋🍫🍫
 
 > <img width=360 alt="Scooped" src="Chico-Caramel_2025-06-16_4.jpg" class="zoomable" /><br />
+> 
 > *Served with whipped cream and strawberry jam.*
 
-🔜 Flavor is good, but the texture is a bit dense, crumbly, and hard. Try it with *either* the chickpeas *or* the dates, for a hopefully better texture.
+🔜 Flavor is good, but the texture was a bit dense, crumbly, and hard. The soy protein is halved, and VG increased.
 
 **Topping & mix-in options**
 
@@ -52,7 +54,7 @@ Rating: 😋😋🍫🍫
 **Prep**
 
   - _150ml_ Water (boiling)
-  - _40g_ Cocoa Powder Organic 11% [Sevenhills]
+  - _40g_ [Cocoa Powder Organic 11% \[Sevenhills\]](/ice-creamery/info/ingredients/#cocoa-powder){target="_blank"}<sup>↗</sup>
 
 **Wet**
 
@@ -60,20 +62,19 @@ Rating: 😋😋🍫🍫
   - _40ml_ Aquafaba (chickpea liquid)
   - _40g_ Medjool dates (pitted, organic) [Seba Garden] • 2 dates • distinctive caramel taste with hints of vanilla
   - _200ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
-  - _15g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • POD = 60%; GI = 5; Density = 1.26 g/ml
-  - _10g_ [Brandy or Vodka 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup>
+  - _20g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • Sweetness = 60%; GI = 5; Density = 1.26 g/ml
+  - _15g_ [Brandy or Vodka 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup> • *alternative:* 12g (additional) vegetable glycerin for a sober recipe
 
 **Dry**
 
-  - _20g_ [Soy protein isolate (nature) \[Powerstar\]](/ice-creamery/info/ingredients/#soy-protein-isolate){target="_blank"}<sup>↗</sup> • 1kg bag, unsweetened, unflavored
-  - _20g_ [Erythritol (E968)](/ice-creamery/info/ingredients/#erythritol-e968){target="_blank"}<sup>↗</sup> • POD = 75%
-  - _10g_ [Xylitol](/ice-creamery/info/ingredients/#xylitol-e967){target="_blank"}<sup>↗</sup> • POD = 100%; GI = 7
+  - _10g_ [Soy protein isolate (nature) \[Powerstar\]](/ice-creamery/info/ingredients/#soy-protein-isolate){target="_blank"}<sup>↗</sup> • 1kg bag, unsweetened, unflavored
+  - _33g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • *alternative:* 44g allulose or dextrose
   - _2g_ Salt
 
 **Fill to MAX**
 
-  - _113ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup> • fill to MAX line
-  - _7 drops_ Flavor drops Caramel (sucralose) [IronMaxx] • to taste
+  - _70ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup> • fill to MAX line
+  - _≈6 drops_ Flavor drops Caramel (sucralose) [IronMaxx] • to taste
 
 # DIRECTIONS
 
@@ -88,9 +89,11 @@ Rating: 😋😋🍫🍫
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
 
 # NUTRITIONAL & OTHER INFO
-- **Nutritional values per 100g/ml:** 100g; 112.0 kcal; fat 1.4g; carbs 13.8g; sugar 3.8g; protein 6.0g; salt 0.4g
-- **Nutritional values per ½ Deluxe Tub:** 360g; 403.3 kcal; fat 5.0g; carbs 49.5g; sugar 13.8g; protein 21.6g; salt 1.6g
-- **Nutritional values total:** 720g; 806.5 kcal; fat 10.1g; carbs 99.0g; sugar 27.6g; protein 43.2g; salt 3.1g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.53
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 21.43% • LOW-FAT • Low-Sugar • Hi-Protein
-- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 18.6g • 2.6%
+
+- **Nutritional values per 100g/ml:** 100g; 117.3 kcal; fat 1.4g; carbs 15.7g; sugar 4.1g; protein 4.8g; salt 0.4g
+- **Nutritional values per ½ Deluxe Tub:** 340g; 399.0 kcal; fat 4.6g; carbs 53.2g; sugar 13.8g; protein 16.5g; salt 1.4g
+- **Nutritional values total:** 680g; 798.0 kcal; fat 9.3g; carbs 106.5g; sugar 27.6g; protein 32.9g; salt 2.9g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.28
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 16.51% • LOW-FAT • Low-Sugar
+- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 20.1g • 3.0%
+- **Net carbs:** 63.5g • *∝ 5 servings@136g:* 12.7g • *∝ 3 servings@227g:* 21.2g • *energy ratio (low <20%):* 31.8%
