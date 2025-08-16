@@ -7,7 +7,7 @@ excluded_tags:
 - Sorbet
 tags:
 - Dairy
-- Draft
+- Experimental
 - Emulsifier
 - Erythritol
 - Polysaccharide Gum
