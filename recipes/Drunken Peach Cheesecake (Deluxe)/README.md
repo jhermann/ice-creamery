@@ -38,6 +38,8 @@ Then a scrape-down and a respin or mix-in.<br clear=all />
 
 Rating: 😋🍑🍑🍑🍰 (used sorbet + mix-in; dense, cheesy, and very peachy)
 
+> <img width=442 alt="Served with Molasses + Butter Cookie" src="Drunken-Peach-Cheesecake_2025-08-16_4.jpg" class="zoomable" />
+
 > ℹ️ Read [About 'Simple' Recipes](/ice-creamery/info/tips%2Btricks/#about-simple-recipes) regarding 'exotic' ingredients and their alternatives.
 
 # INGREDIENTS
