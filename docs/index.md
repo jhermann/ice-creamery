@@ -49,7 +49,7 @@ image: https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/a
 favicon: https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/assets/libre-office-favicon.ico
 ```
 
-A Python script then converts CSV exports of the spreadsheets to markdown files, which are in turn used to render this HTML web site using
+A Python script then converts CSV exports of the spreadsheets to markdown files, which are combined with manually created informational pages (like the one you're reading right now), and finally used to render this HTML web site using
 [MkDocs](https://github.com/mkdocs/mkdocs#readme).
 
 ```embed
