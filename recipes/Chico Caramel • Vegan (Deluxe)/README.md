@@ -25,7 +25,7 @@ tags:
 
 > 🌿 **Vegan & Dairy-free**<br />Recipe is using only soy milk and protein isolate.
 
-Not the lowest in calories, but rich in chocolate+caramel flavor and high in protein.
+Not the lowest in calories, but rich in chocolate+caramel flavor.
 
 > <img width=360 alt="Ingredients" src="Chico-Caramel_2025-06-15_1.png" class="zoomable" />
 
