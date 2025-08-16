@@ -35,7 +35,7 @@ Avoid these things and methods:
 
  * **Do not** skip flattening the hump.
 
- * **Do not** spin non-level surfaces (see right above). "Non-level" refers to both an uneven or slanted surface of your base. *Always* flatten left-overs you intend to process again, after re-freezing.
+ * **Do not** spin non-level surfaces (see right above). "Non-level" refers to both an uneven or slanted surface of your base. *Always* flatten left-overs you intend to process again, before putting them back into the freezer.
 
 ## About 'Simple' Recipes
 
