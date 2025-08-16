@@ -23,7 +23,7 @@ Avoid these things and methods:
 
     The risk of dry ingredients clumping is way higher, as is that of solids sinking to the bottom (ingredient separation into layers).
 
- * **Do not** skip blending your chunky ingredients. A smooth base is just safer to spin in general. The Creami is *not* a blender, it is a rotational scraper of ice in the middle of a slushy amd rock-hard consistency.
+ * **Do not** skip blending your chunky ingredients. A smooth base is just safer to spin in general. The Creami is *not* a blender, it is a rotational scraper of ice in the middle of a slushy and rock-hard consistency.
 
  * **Do not** freeze your tubs with the lid off, the pressure from the ice shield that forms at the top of your base can *damage* the bottom of your container (cracking, expanding ice seeks the path of least resistance).
 
