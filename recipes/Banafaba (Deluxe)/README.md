@@ -33,11 +33,9 @@ It also leads to a rather watery melt, 1g of CMC or another stabilizer will prev
 Process on *Sorbet*, [hold it shortly under running water](https://jhermann.github.io/ice-creamery/info/tips%2Btricks/#handling-of-icy-sides-bottom)
 *after* that. Then a scrape-down with compaction, and a respin.
 
-> <img width=240 alt="After Sorbet" src="Banafaba_2025-06-13_1.jpg" class="zoomable" />
-> <img width=240 alt="After Respin" src="Banafaba_2025-06-13_2.jpg" class="zoomable" />
-> <img width=240 alt="Flat + Scooped" src="Banafaba_2025-06-13_3.jpg" class="zoomable" />
-
-
+> <img width=220 alt="After Sorbet" src="Banafaba_2025-06-13_1.jpg" class="zoomable" />
+> <img width=220 alt="After Respin" src="Banafaba_2025-06-13_2.jpg" class="zoomable" />
+> <img width=220 alt="Flat + Scooped" src="Banafaba_2025-06-13_3.jpg" class="zoomable" />
 
 Rating: 😋😋😋🍌
 

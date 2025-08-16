@@ -31,9 +31,9 @@ Not the lowest in calories, but rich in chocolate+caramel flavor and high in pro
 
 Process on Lite Ice Cream, followed by a scrape-down with compaction and a respin.
 
-> <img width=230 alt="After Light Ice Cream" src="Chico-Caramel_2025-06-16_1.jpg" class="zoomable" />
-> <img width=230 alt="After Respin" src="Chico-Caramel_2025-06-16_2.jpg" class="zoomable" />
-> <img width=230 alt="Scooped" src="Chico-Caramel_2025-06-16_3.jpg" class="zoomable" />
+> <img width=220 alt="After Light Ice Cream" src="Chico-Caramel_2025-06-16_1.jpg" class="zoomable" />
+> <img width=220 alt="After Respin" src="Chico-Caramel_2025-06-16_2.jpg" class="zoomable" />
+> <img width=220 alt="Scooped" src="Chico-Caramel_2025-06-16_3.jpg" class="zoomable" />
 
 Rating: 😋😋🍫🍫
 
