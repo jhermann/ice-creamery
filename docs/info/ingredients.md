@@ -619,7 +619,7 @@ and improves texture. Cream cheese also contributes to a richer, denser flavor.
 -   **Protein powder isn't just protein**: It's a mix of flavorings, sweeteners, stabilizers, etc., which vary widely between brands.
 -   **Substituting powders**: These variations can lead to different results in recipes, so you cannot just swap without comparing ingredients and possibly running experiments.
 -   **Non-fat milk powder (SMP)**: Often used by ice cream professionals, it is a type of protein powder that improves texture and is very effective at binding free water.
--   **Protein isolates**: Isolates further refined and have non-protein components reduced. Very often they are "native" by default, i.e. unflavored and without additives, and sometime with just vitamin fortification added.
+-   **Protein isolates**: Isolates are further refined and have non-protein components reduced. Very often they are "native" by default, i.e. unflavored and without additives, and sometime with just vitamin fortification added.
 -   **Different proteins affect texture**:
 
     -   _Whey_: makes ice cream creamier, soft-serve-like.
