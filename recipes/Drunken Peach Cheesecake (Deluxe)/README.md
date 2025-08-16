@@ -11,7 +11,6 @@ excluded_tags:
 tags:
 - Alcohol
 - Dairy
-- Draft
 - Erythritol
 - Fruit
 - Gum-Free
@@ -33,11 +32,11 @@ Process on *Sorbet*, [hold it shortly under running water](https://jhermann.gith
 *after* that.
 Then a scrape-down and a respin or mix-in.<br clear=all />
 
-> <img width=220 alt="After Sorbet" src="_1.jpg" class="zoomable" />
-> <img width=220 alt="After Mix-in" src="_2.jpg" class="zoomable" />
-> <img width=220 alt="Scooped" src="_3.jpg" class="zoomable" />
+> <img width=220 alt="After Sorbet" src="Drunken-Peach-Cheesecake_2025-08-16_1.jpg" class="zoomable" />
+> <img width=220 alt="After Mix-in" src="Drunken-Peach-Cheesecake_2025-08-16_2.jpg" class="zoomable" />
+> <img width=220 alt="Scooped" src="Drunken-Peach-Cheesecake_2025-08-16_3.jpg" class="zoomable" />
 
-Rating: 😋🍑 (untested)
+Rating: 😋🍑🍑🍑🍰 (used sorbet + mix-in; dense, cheesy, and very peachy)
 
 > ℹ️ Read [About 'Simple' Recipes](/ice-creamery/info/tips%2Btricks/#about-simple-recipes) regarding 'exotic' ingredients and their alternatives.
 
@@ -49,17 +48,17 @@ Rating: 😋🍑 (untested)
 
   - _350g_ Peaches in Grape Juice [Libby’s] • Can = 410g
   - _240g_ [Topfen / Quark 0.6% \[Berchtesgadener\]](/ice-creamery/info/ingredients/#quark-topfen){target="_blank"}<sup>↗</sup> • *US alternative:* low-fat cream cheese
-  - _35g_ [Jamaica Rum 43 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup> • *alternative:* bourbon, or 30g vegetable glycerin for a sober recipe
-  - _35g_ [Cream Cheese 23% \[Exquisa\]](/ice-creamery/info/ingredients/#cream-cheese){target="_blank"}<sup>↗</sup> • click the link for UK / US equivalents
+  - _40g_ [Jamaica Rum 43 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup> • *alternative:* bourbon, or other 40 vol% alcohol
+  - _20g_ [Cream Cheese 23% \[Exquisa\]](/ice-creamery/info/ingredients/#cream-cheese){target="_blank"}<sup>↗</sup> • click the link for UK / US equivalents
 
 **Dry**
 
-  - _35g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • *alternative:* 47g allulose or dextrose
+  - _30g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • *alternative:* 40g allulose or dextrose
   - _1 pinch_ Turmeric • *optional*, for color
 
 **Fill to MAX**
 
-  - _≈5 drops_ Flavor drops Peach / Maracuja (sucralose) [IronMaxx] • to taste
+  - _≈4 drops_ Flavor drops Peach / Maracuja (sucralose) [IronMaxx] • to taste
 
 **Topping Options**
 
@@ -76,10 +75,10 @@ Rating: 😋🍑 (untested)
 
 # NUTRITIONAL & OTHER INFO
 
-- **Nutritional values per 100g/ml:** 100g; 83.5 kcal; fat 1.3g; carbs 12.5g; sugar 5.9g; protein 4.6g; salt 0.1g
-- **Nutritional values per ½ Deluxe Tub:** 340g; 283.8 kcal; fat 4.6g; carbs 42.4g; sugar 20.2g; protein 15.8g; salt 0.2g
-- **Nutritional values total:** 695g; 580.2 kcal; fat 9.3g; carbs 86.7g; sugar 41.2g; protein 32.2g; salt 0.4g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.68
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 22.22% • LOW-FAT • Hi-Protein • Low-Salt
-- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 30.7g • 4.4%
-- **Net carbs:** 51.7g • *∝ 5 servings@139g:* 10.3g • *∝ 3 servings@232g:* 17.2g • *energy ratio (low <20%):* 35.6%
+- **Nutritional values per 100g/ml:** 100g; 81.5 kcal; fat 0.9g; carbs 11.9g; sugar 6.0g; protein 4.6g; salt 0.0g
+- **Nutritional values per ½ Deluxe Tub:** 340g; 277.0 kcal; fat 3.0g; carbs 40.6g; sugar 20.4g; protein 15.7g; salt 0.2g
+- **Nutritional values total:** 680g; 554.0 kcal; fat 5.9g; carbs 81.2g; sugar 40.7g; protein 31.4g; salt 0.3g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 31.66
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 22.68% • LOW-FAT • Hi-Protein • Low-Salt
+- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 29.3g • 4.3%
+- **Net carbs:** 51.2g • *∝ 5 servings@136g:* 10.2g • *∝ 3 servings@227g:* 17.1g • *energy ratio (low <20%):* 37%
