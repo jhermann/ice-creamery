@@ -158,7 +158,7 @@ Here's a breakdown of how speed and duration vary by mode:
 
  * **Ice Cream:** Spins at medium speed to incorporate air, resulting in a creamy and smooth texture. Needs "normal" ratios of sugar and fat.
  * **Lite Ice Cream:** Similar to Ice Cream, but optimized for lower-fat bases, with higher spin speeds and slower movement. Often used for milk alternatives and protein shakes.
- * **Sorbet:** Fast speed downwards to prevent large ice crystals from forming, creating a smooth, icy texture. Fast retraction at low speed.
+ * **Sorbet:** Fast rotational speed of the downwards movement to prevent large ice crystals from forming, creating a smooth, icy texture. Fast retraction at low rotational speed.
  * **Gelato:** The same as *Ice Cream*.
  * **Smoothie Bowl (NC30x):** The same as *Light Ice Cream*.
  * **Frozen Yogurt (Deluxe):** The same speeds as *Light Ice Cream*, but 5 min total duration, split equally in half. This is the *safest mode of all*, but also induces the most heat.
