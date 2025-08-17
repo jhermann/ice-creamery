@@ -30,7 +30,7 @@ of common ingredients, sorted by PAC.
 | 190 | ≈130 | 87 | Invert sugar | a/k/a inverted sugar, invert syrup,<br />(invert) sugar syrup |
 | 190 |  60 |  9 | Sorbitol | |
 | 180 | ≈160 | 11 | Agave Syrup | POD ranges from 140 to 180 |
-| 100 |  16 | 45 | Lactose | Milk sugar |
+| 100 |  16–40 | 45 | Lactose | Milk sugar |
 | 100 |  10 |  6 | Polydextrose | |
 | **100** | **100** | 65 | **Sucrose** | Table sugar, 1:1 glucose:fructose |
 | 100 |  45 | 38 | Trehalose | Disaccharide, found in plants & fungi;<br />also improves texture / icyness |
