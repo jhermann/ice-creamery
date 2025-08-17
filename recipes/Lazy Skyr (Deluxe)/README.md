@@ -28,6 +28,8 @@ just adding a few things for freezing point depression and ice crystal inhibitio
 
 Spin on FroYo, scrape down, and respin or mix-in.
 
+For the vanilla flavor, frozen and chopped mint chocolater wafers are a nice mix-in.
+
 > <img width=220 alt="After FroYo" src="_1.jpg" class="zoomable" />
 > <img width=220 alt="After Mix-in" src="_2.jpg" class="zoomable" />
 > <img width=220 alt="Scooped" src="_3.jpg" class="zoomable" />
@@ -52,6 +54,10 @@ Rating: 😋🥛 (untested)
   - _10g_ [Whey + Casein protein (grass-fed) \[Vilgain\]](/ice-creamery/info/ingredients/#whey-protein){target="_blank"}<sup>↗</sup> • with stevia
   - _23g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • *alternative:* 31g allulose or dextrose
 
+**Mix-ins**
+
+  - _30g_ [Mint Chocolate \[After Eight\]](/ice-creamery/info/ingredients/#mint-chocolate){target="_blank"}<sup>↗</sup> • 1pc ≈ 7.5g; freeze for more integrity, and chop them when frozen [128kcal, 20g sugar]
+
 # DIRECTIONS
 
  1. Add "wet" ingredients to empty Creami tub.
@@ -60,6 +66,7 @@ Rating: 😋🥛 (untested)
  1. Let blender run until thickeners are properly hydrated, up to 1-2 min. Or blend again after waiting that time.
  1. Put on the lid, freeze for 24h, then spin as usual. Flatten any humps before that.
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
+ 1. Process with MIX-IN after adding mix-ins evenly. For that, add partial amounts into a hole going down to the bottom, and fold the ice cream over, building pockets of mix-ins.
 
 # NUTRITIONAL & OTHER INFO
 
