@@ -25,11 +25,11 @@ Avoid these things and methods:
 
  * **Do not** skip blending your chunky ingredients. A smooth base is just safer to spin in general. The Creami is *not* a blender, it is a rotational scraper of ice in the middle of a slushy and rock-hard consistency.
 
- * **Do not** freeze your tubs with the lid off, the pressure from the ice shield that forms at the top of your base can *damage* the bottom of your container (cracking, expanding ice seeks the path of least resistance).
+ * **Do not** freeze your tubs with the lid off, the pressure from the ice shield that forms at the top of your base can *damage* the bottom of your container (warping and cracking, expanding ice seeks the path of least resistance).
 
  * **Do not** freeze your bases less than 24h, *unless* you know from a previous scrape test your recipe is OK with less, or you freeze pre-chilled bases.
 
- * **Do not** thaw your frozen tubs without checking whether that is needed at all, see [scrape test](#scrape-test-always).
+ * **Do not** soften (thaw) your frozen tubs without checking whether that is needed at all, see [scrape test](#scrape-test-always).
 
  * **Do not** run your tubs under hot water *before* the first spin, see [Handling of Icy Sides & Bottom](#handling-of-icy-sides-bottom).
 
@@ -41,7 +41,7 @@ Avoid these things and methods:
 
     However, for bases using a recipe with enough anti-freeze agents in them, this is not necessary. They can be scooped either directly out of the freezer, or after a short period of softening on the counter (the same is true for many commercial ice cream brands).
 
- * **Do not** add raw pineapple to your uncooked bases when they contain dairy. Since the Creami is very often used with cold bases, this generic problem can happen more often than in "classic" ice cream making. Complete inactivation requires temperatures around 80°C (176°F). Canned pineapple is safe.
+ * **Do not** add raw pineapple to your uncooked bases when they contain dairy. Since the Creami is very often used with cold bases, this generic problem can appear more often than in "classic" ice cream making. Complete inactivation requires temperatures around 80°C (176°F). Canned pineapple is safe.
 
     The science behind it is an enzyme called bromelain, which can react with the proteins (casein) in dairy products like milk or yogurt, causing them to break down into bitter-tasting peptides. Bromelain is found primarily in pineapple, but kiwi, mango, and guava contain trace amounts of it, too. Papaya contains a similar enzyme called papain, with the same consequences.
 
@@ -74,7 +74,7 @@ Also, some ingredients and tools I consider essential for ice cream making, whic
  <br /><br /><img width=240 alt="Metal Scoop" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/assets/Metal-Scoop.jpg" class="zoomable" />
  * A digital kitchen scale. Prefer one that has a 0.1g precision, those are also typically updating faster, without undue delays of one or more seconds.
  <br /><br /><img width=240 alt="Digital Kitchen Scale" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/assets/Kitchen-Scale.jpg" class="zoomable" />
- * Consider to also get a jeweller's scale (0.01g precision) for very small ingredient amounts, where a normal kitchen scale will fail you. They are cheap, in the 15–30€ range, and so small they're easily tucked away in a utensil drawer.
+ * Consider also getting a jeweller's scale (0.01g precision) for very small ingredient amounts, where a normal kitchen scale will fail you. They are cheap, in the 15–30€ range, and so small they're easily tucked away in a utensil drawer.
  <br /><br /><img width=240 alt="Scale with 0.01g precision" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/assets/accu-weigth.png" class="zoomable" />
 
 And look out for *alternatives* for ingredients you don't have — they are given on the same line as the ingredient they replace, or mentioned in the introduction above the ingredient list.
