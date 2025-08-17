@@ -41,7 +41,7 @@ Avoid these things and methods:
 
     However, for bases using a recipe with enough anti-freeze agents in them, this is not necessary. They can be scooped either directly out of the freezer, or after a short period of softening on the counter (the same is true for many commercial ice cream brands).
 
- * **Do not** add raw pineapple to your uncooked bases when they contain dairy. Since the Creami is very often used with cold bases, this generic problem can appear more often than in "classic" ice cream making. Complete inactivation requires temperatures around 80°C (176°F). Canned pineapple is safe.
+ * **Do not** add raw pineapple to your uncooked bases when they contain dairy, since that quite likely causes your ice cream to taste bitter. Since the Creami is very often used with cold bases, this generic problem can appear more frequently than in "classic" ice cream making. Complete inactivation of the responsible enzyme requires temperatures around 80°C (176°F). Canned pineapple is safe.
 
     The science behind it is an enzyme called bromelain, which can react with the proteins (casein) in dairy products like milk or yogurt, causing them to break down into bitter-tasting peptides. Bromelain is found primarily in pineapple, but kiwi, mango, and guava contain trace amounts of it, too. Papaya contains a similar enzyme called papain, with the same consequences.
 
