@@ -3,6 +3,7 @@ description: Recipe for the Ninja Creami Deluxe [24oz]
 excluded_steps:
 - prepared dry ingredients
 excluded_tags:
+- Allulose
 - Low-Fat
 - Vanilla
 tags:
@@ -46,15 +47,15 @@ Rating: 😋 (experimental)
 
 **Wet**
 
-  - _245g_ [Topfen / Quark 14.4% \[Berchtesgadener\]](/ice-creamery/info/ingredients/#quark-topfen){target="_blank"}<sup>↗</sup> • 250g container
+  - _245g_ [Topfen / Quark 14.4% \[Berchtesgadener\]](/ice-creamery/info/ingredients/#quark-topfen){target="_blank"}<sup>↗</sup> • 250g container; *alternative:* 184g ricotta 9% and 61ml cream 32%
   - _100ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup> • or any low-fat milk
   - _20ml_ Lime juice + zest (organic) [REWE Bio] • 1 lime = 60..65g
-  - _10g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • Sweetness = 60%; GI = 5; Density = 1.26 g/ml
+  - _10g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • *alternative:* 35g lactose
 
 **Dry**
 
-  - _35g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • POD ≈ 85%; GI < 7
-  - _5g_ [Salty Stability \[Inulin / GMS / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup> • unsweetened “ICSv2”
+  - _35g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • *alternative:* 47g allulose or dextrose
+  - _5g_ [Salty Stability \[Inulin / GMS / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup> • *not-as-good substitute:* 0.5g guar, 0.2g xanthan, and 0.2g salt
   - _2g_ Vanilla Bean Powder [InterVanilla]
   - _1g_ Salt
 
