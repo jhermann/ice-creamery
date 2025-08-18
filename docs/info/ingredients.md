@@ -307,12 +307,21 @@ Using only a singular thickener means you often miss out on synergistic effects 
 > 💡 See also [A Guide to Gums](https://blog.modernistpantry.com/advice/reference-sheets/a-guide-to-gums/) by *Kitchen Alchemy*.
 
 ### Acacia Gum (Gum Arabic / E414)
-Gum arabic is a complex mixture of glycoproteins and polysaccharides, predominantly polymers of arabinose and galactose. It is soluble in water.
 
-When combined in ice cream, guar gum and gum arabic are typically used in small amounts,
+Acacia gum, also known as gum arabic, acts as a stabilizer, emulsifier, and thickener in ice cream,
+enhancing its texture and preventing ice crystal formation. It improves smoothness, slows melting,
+and helps maintain a consistent texture during storage. Gum arabic's emulsifying properties also
+ensure even distribution of fats and other ingredients.
+
+Compared to guar gum, it is known for creating a smoother, more transparent texture.
+It dissolves readily in both hot and cold water, but as usual mix with other dry matter to disperse evenly and avoid clumping.
+It's considered a safe food additive.
+
+When combined in ice cream with guar gum, both are typically used in small amounts,
 with guar gum usually ranging from 0.1–0.5% and gum arabic from 0.3–0.7% of the total mix weight.
 The exact ratio can be adjusted based on desired texture and flavor.
-Gum arabic is known for creating a smoother, more transparent texture compared to guar gum.
+
+> 🧪 Acacia gum is a complex mixture of glycoproteins and polysaccharides, predominantly polymers of arabinose and galactose.
 
 ### Agar-Agar (E406)
 Agar-Agar is a natural, plant-based gelling and thickening agent (hydrocolloid), derived from red algae. It's commonly used as a vegan alternative to gelatin, since it is also tasteless and odorless; its gelling power is higher. It is heat-stable and acid-stable, and resulting gels tend to be brittle.
