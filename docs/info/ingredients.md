@@ -167,6 +167,12 @@ at a density of ≈1.3 g/ml.
 Isomalt is a mixture of two disaccharide alcohols and used primarily for its sugar-like physical properties.
 It has a very low GI, is tooth-friendly, and provides about half the energy of table sugar.
 
+Isomalt is about half as sweet as sugar and has a similar taste.
+It has high heat resistance and will not melt until it reaches 145°C.
+
+There is no ADI value (*Acceptable Daily Intake*), but moderation is advised to avoid potential digestive issues.
+Suggested is an upper limit of 50g per day for adults, while children should consume less.
+
 It is very similar to maltitol, and requires care regarding daily intake just like other sugar alcohols.
 Chemically it is a mix of glucose (50%), sorbitol (25%), and mannitol (25%).
 
