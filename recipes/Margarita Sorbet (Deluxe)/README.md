@@ -45,7 +45,7 @@ Rating: 😋🍋‍🟩🍸  (untested)
 
   - _350ml_ Water (cold)
   - _65ml_ Lemon juice
-  - _65g_ Tequila 38 vol% • 1 bottle = 70cl
+  - _65g_ Tequila 38 vol%
   - _40ml_ Lime juice + zest (organic) [REWE Bio] • 2 pieces; 1 lime = 60..65g
   - _➕_ [Hydrated Gum Arabic](/ice-creamery/info/ingredients/#acacia-gum-gum-arabic-e414){target="_blank"}<sup>↗</sup>
 
@@ -62,6 +62,7 @@ Rating: 😋🍋‍🟩🍸  (untested)
 # DIRECTIONS
 
  1. A few hours or a night before you make your Creami, hydrate the acacia gum with warm water, and let it rest.
+ 1. Zest the limes first, before juicing them.
  1. Add "wet" ingredients to empty Creami tub.
  1. Weigh and mix dry ingredients, easiest by adding to a jar with a secure lid and shaking vigorously.
  1. Pour into the tub and *QUICKLY* use an immersion blender on full speed to homogenize everything.
