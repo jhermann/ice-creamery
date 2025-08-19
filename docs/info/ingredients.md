@@ -311,12 +311,16 @@ Using only a singular thickener means you often miss out on synergistic effects 
 Acacia gum, also known as gum arabic, acts as a stabilizer, emulsifier, and thickener in ice cream,
 enhancing its texture and preventing ice crystal formation. It improves smoothness, slows melting,
 and helps maintain a consistent texture during storage. Gum arabic's emulsifying properties also
-ensure even distribution of fats and other ingredients.
+ensure even distribution of fats and other ingredients. It's considered a safe food additive.
+
+It dissolves readily in both hot and cold water, up to a concentration of 50%.
+In cold liquids mixing with other dry matter is recommended, to disperse it evenly and avoid clumping.
+
+To dissolve the gum more easily and quicker, heat your liquid to around 50°C (122°F).
+Moderate heating (~65°C) can be beneficial for reducing gelling without significantly impacting emulsification.
+Heating beyond 100°C can lead to protein degradation and loss of emulsifying properties.
 
 Compared to guar gum, it is known for creating a smoother, more transparent texture.
-It dissolves readily in both hot and cold water, but as usual mix with other dry matter to disperse evenly and avoid clumping.
-It's considered a safe food additive.
-
 When combined in ice cream with guar gum, both are typically used in small amounts,
 with guar gum usually ranging from 0.1–0.5% and gum arabic from 0.3–0.7% of the total mix weight.
 The exact ratio can be adjusted based on desired texture and flavor.
