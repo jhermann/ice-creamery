@@ -3,12 +3,12 @@ description: Recipe for the Ninja Creami Deluxe [24oz]
 excluded_steps:
 - ingredients to empty Creami tub
 - prepared dry ingredients
+- specified ingredients by dissolving
 excluded_tags:
 - Vanilla
 tags:
 - Alcohol
 - Dairy
-- Draft
 - Fruit
 - Scoopable
 - Simple
@@ -21,6 +21,8 @@ tags:
 
 Ripe bananas lend natural sweetness and creaminess, while a splash of rum adds depth and a hint of warmth.
 The combination is simple & smooth, and offers a mellow tropical twist that's easy to love.
+
+> <img width=220 alt="Ingredients" src="Banana-Rum-Gelato_2025-08-19.jpg" class="zoomable" />
 
 Process on *Light Ice Cream*, [hold it shortly under running water](https://jhermann.github.io/ice-creamery/info/tips%2Btricks/#handling-of-icy-sides-bottom)
 *after* that.Then a scrape-down and a respin.
@@ -42,7 +44,7 @@ Rating: 😋🍌🍹 (untested)
   - _10g_ [Gum Arabic (Acacia, E414) \[SaporePuro\]](/ice-creamery/info/ingredients/#acacia-gum-gum-arabic-e414){target="_blank"}<sup>↗</sup> • *optional*; 85% fiber
   - _15ml_ Water (hot, 50–60°C) • for hydrating the gum
   - _300g_ Bananas (peeled) • 2-3 mid-size or 3-4 small ripe pieces, eat or freeze any surplus 😋
-  - _50g_ [Cream Cheese 23% \[Exquisa\]](/ice-creamery/info/ingredients/#cream-cheese){target="_blank"}<sup>↗</sup>
+  - _50g_ [Cream Cheese 23% \[Exquisa\]](/ice-creamery/info/ingredients/#cream-cheese){target="_blank"}<sup>↗</sup> • click the link for UK / US equivalents
   - _50g_ [Jamaica Rum 43 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup>
   - _10ml_ Lemon juice
 
@@ -54,7 +56,7 @@ Rating: 😋🍌🍹 (untested)
 
   - _50ml_ Cream 32% [REWE Beste Wahl] • skip for improved macros [156kcal, 16g fat]
   - _20ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
-  - _≈8 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
+  - _≈10 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
 
 # DIRECTIONS
 
