@@ -36,6 +36,8 @@ For the vanilla flavor, frozen and chopped mint chocolater thins are a nice mix-
 
 Rating: 😋🥛🥛🥛🍫 (the vanilla could be more prominent, the mint thins are great)
 
+> <img width=442 alt="Served" src="Lazy-Skyr_2025-08-20_3.jpg" class="zoomable" />
+
 # INGREDIENTS
 
 ℹ️ Brand names are in square brackets `[...]`.
