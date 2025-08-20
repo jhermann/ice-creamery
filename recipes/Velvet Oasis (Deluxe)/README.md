@@ -7,6 +7,7 @@ excluded_tags:
 - Allulose
 - Vanilla
 tags:
+- Dairy-Free
 - Draft
 - Emulsifier
 - Erythritol
@@ -14,6 +15,7 @@ tags:
 - Scoopable
 - Sucralose
 - Tylo Powder (CMC)
+- Vegan
 - Xylitol
 ---
 # Velvet Oasis (Deluxe)
