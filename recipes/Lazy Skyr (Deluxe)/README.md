@@ -28,13 +28,13 @@ just adding a few things for freezing point depression and ice crystal inhibitio
 
 Spin on FroYo, scrape down, and respin or mix-in.
 
-For the vanilla flavor, frozen and chopped mint chocolater wafers are a nice mix-in.
+For the vanilla flavor, frozen and chopped mint chocolater thins are a nice mix-in.
 
-> <img width=220 alt="After FroYo" src="_1.jpg" class="zoomable" />
-> <img width=220 alt="After Mix-in" src="_2.jpg" class="zoomable" />
-> <img width=220 alt="Scooped" src="_3.jpg" class="zoomable" />
+> <img width=220 alt="After FroYo" src="Lazy-Skyr_2025-08-20_1.jpg" class="zoomable" />
+> <img width=220 alt="After Mix-in" src="Lazy-Skyr_2025-08-20_2.jpg" class="zoomable" />
+> <img width=220 alt="Scooped" src="Lazy-Skyr_2025-08-20_3.jpg" class="zoomable" />
 
-Rating: 😋🥛 (untested)
+Rating: 😋🥛🥛🥛🍫 (the vanilla could be more prominent, the mint thins are great)
 
 # INGREDIENTS
 
@@ -47,6 +47,7 @@ Rating: 😋🥛 (untested)
   - _15g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • *alternative:* 53g lactose
   - _15g_ [Brandy or Vodka 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup> • *alternative:* 12g (additional) VG for a sober recipe
   - _5ml_ Lemon juice
+  - _5ml_ Vanilla Extract (w/ alcohol) [Native Vanilla] • 1 tsp, very recommended for the vanilla flavor
 
 **Dry**
 
@@ -56,7 +57,7 @@ Rating: 😋🥛 (untested)
 
 **Mix-ins**
 
-  - _30g_ [Mint Chocolate \[After Eight\]](/ice-creamery/info/ingredients/#mint-chocolate){target="_blank"}<sup>↗</sup> • 1pc ≈ 7.5g; freeze for more integrity, and chop them when frozen [128kcal, 20g sugar]
+  - _30g_ Mint chocolate thins [After Eight] • 1pc ≈ 7.5g; freeze for more integrity, and chop them when frozen [128kcal, 20g sugar]
 
 # DIRECTIONS
 
