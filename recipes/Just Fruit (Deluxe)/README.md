@@ -30,6 +30,7 @@ Sorbet mostly from fresh / frozen fruit, with minimal additions to make it proce
 
 Note that strawberries, with their relatively low sugar content, are well suited for this.
 So are many types of melon.
+With pineapple, the tub has about 440kcal and a small serving 16g net carbs.
 
 You can reduce the amount of fruit and replace it by water to get better macros (lower carbs / sugar).
 That needs compensation for the removed sugar though, replace with
@@ -40,7 +41,9 @@ alcohol 40 vol% (half the amount of ‘lost’ sugar), or more sugar alcohols (a
 
 Spin on “Sorbet”, scrape down, and re-mix.
 
-> <img width=360 alt="Spun Ice Cream" src="" class="zoomable" />
+> <img width=220 alt="After Sorbet" src="_1.jpg" class="zoomable" />
+> <img width=220 alt="After Mix-in" src="_2.jpg" class="zoomable" />
+> <img width=220 alt="Scooped" src="_3.jpg" class="zoomable" />
 
 Rating: 😋 (untested)
 
@@ -59,7 +62,7 @@ Rating: 😋 (untested)
 
 **Dry**
 
-  - _35g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • alternatives: 55g allulose or dextrose; POD ≈ 90%; GI < 7
+  - _35g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • alternatives: 47g allulose or dextrose; POD ≈ 85%; GI < 7
   - _1.25g_ [Carboxymethyl Cellulose (CMC / E466) \[GoodBake\]](/ice-creamery/info/ingredients/#carboxymethyl-cellulose-cmc-e466){target="_blank"}<sup>↗</sup> • alternatives: guar gum (same amount)
   - _1.25g_ [Xanthan gum (E415, XG)](/ice-creamery/info/ingredients/#xanthan-gum-xg-e415){target="_blank"}<sup>↗</sup> • 1tsp ≈ 2.8g
   - _1.5g_ Salt
@@ -73,7 +76,9 @@ Rating: 😋 (untested)
 
   - _450g_ Galia melon (organic) • fresh [117kcal, 25g sugar]
   - _450g_ Strawberries • fresh or frozen [140kcal, 26g sugar]
+  - _450g_ Watermelon • fresh [135kcal, 28g sugar]
   - _450g_ Honeydew melon (organic) • fresh [162kcal, 36g sugar]
+  - _450g_ Kiwi • fresh [234kcal, 39g sugar]
   - _450g_ Blueberries • fresh or frozen [216kcal, 40g sugar]
   - _450g_ Cherries • fresh or frozen [275kcal, 43g sugar]
   - _450g_ Mango • fresh or frozen [279kcal, 59g sugar]
