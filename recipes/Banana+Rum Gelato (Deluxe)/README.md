@@ -31,7 +31,7 @@ Process on *Light Ice Cream*, [hold it shortly under running water](https://jher
 > <img width=220 alt="After Respin" src="Banana-Rum-Gelato_2025-08-21_2.jpg" class="zoomable" />
 > <img width=220 alt="Scooped" src="Banana-Rum-Gelato_2025-08-21_3.jpg" class="zoomable" />
 
-Rating: 😋🍌🍌🍌🍹 (untested)
+Rating: 😋🍌🍌🍌🍹 (❄️ needs more acacia)
 
 > ℹ️ Read [About 'Simple' Recipes](/ice-creamery/info/tips%2Btricks/#about-simple-recipes) regarding 'exotic' ingredients and their alternatives.
 
