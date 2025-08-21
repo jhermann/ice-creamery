@@ -74,4 +74,4 @@ Rating: 😋🍌🍌🍌🍹 (with 10g gum: ❄️ needs more acacia)
 - **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 31.48
 - **Protein / Energy Ratio (ok=12%; hi=20%):** 6.09%
 - **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 14.0g • 2.0%
-- **Net carbs:** 41.1g • *∝ 5 servings@137g:* 8.2g • *∝ 3 servings@228g:* 13.7g • *energy ratio (low <20%):* 19.3%
+- **Net carbs:** 69.3g • *∝ 5 servings@137g:* 13.9g • *∝ 3 servings@228g:* 23.1g • *energy ratio (low <20%):* 32.6%
