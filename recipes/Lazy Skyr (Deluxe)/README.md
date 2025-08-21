@@ -21,7 +21,7 @@ tags:
 # Lazy Skyr (Deluxe)
 <img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/assets/froyo-ice-cream-logo.png" />
 
-“Lazily” using a container of pre-flavored skyr (flavors: vanilla / blueberry/ cherry / strawberry),
+“Lazily” using a container of pre-flavored skyr (flavors: vanilla / blueberry / cherry / strawberry),
 just adding a few things for freezing point depression and ice crystal inhibition.
 
 > <img width=220 alt="Aldi Skyr Vanilla" src="Lazy-Skyr_2025-08-17.jpg" class="zoomable" />
@@ -49,13 +49,14 @@ Rating: 😋🥛🥛🥛🍫 (the vanilla could be more prominent, the mint thin
   - _15g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • *alternative:* 53g lactose
   - _15g_ [Brandy or Vodka 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup> • *alternative:* 12g (additional) VG for a sober recipe
   - _5ml_ Lemon juice
-  - _5ml_ Vanilla Extract (w/ alcohol) [Native Vanilla] • 1 tsp, very recommended for the vanilla flavor
+  - _5ml_ ❔Vanilla Extract (w/ alcohol) [Native Vanilla] • 1 tsp, very recommended for the vanilla flavor
 
 **Dry**
 
   - _10g_ [Salty Stability \[Inulin / GMS / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup> • unsweetened “ICSv2”
   - _10g_ [Whey + Casein protein (grass-fed) \[Vilgain\]](/ice-creamery/info/ingredients/#whey-protein){target="_blank"}<sup>↗</sup> • with stevia
   - _23g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • *alternative:* 31g allulose or dextrose
+  - _10g_ ❔Strawberry powder [Supergarden] • *optional*, recommended for “Strawberry” flavor
 
 **Mix-ins**
 
