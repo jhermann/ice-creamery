@@ -27,11 +27,11 @@ The combination is simple & smooth, and offers a mellow tropical twist that's ea
 Process on *Light Ice Cream*, [hold it shortly under running water](https://jhermann.github.io/ice-creamery/info/tips%2Btricks/#handling-of-icy-sides-bottom)
 *after* that.Then a scrape-down and a respin.
 
-> <img width=220 alt="After Sorbet" src="_1.jpg" class="zoomable" />
-> <img width=220 alt="After Mix-in" src="_2.jpg" class="zoomable" />
-> <img width=220 alt="Scooped" src="_3.jpg" class="zoomable" />
+> <img width=220 alt="After Light Ice Cream" src="Banana-Rum-Gelato_2025-08-21_1.jpg" class="zoomable" />
+> <img width=220 alt="After Respin" src="Banana-Rum-Gelato_2025-08-21_2.jpg" class="zoomable" />
+> <img width=220 alt="Scooped" src="Banana-Rum-Gelato_2025-08-21_3.jpg" class="zoomable" />
 
-Rating: 😋🍌🍹 (untested)
+Rating: 😋🍌🍌🍌🍹 (untested)
 
 > ℹ️ Read [About 'Simple' Recipes](/ice-creamery/info/tips%2Btricks/#about-simple-recipes) regarding 'exotic' ingredients and their alternatives.
 
