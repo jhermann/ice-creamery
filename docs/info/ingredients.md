@@ -326,6 +326,10 @@ To dissolve the gum more easily and quicker, heat your liquid to around 50°C (1
 Moderate heating (~65°C) can be beneficial for reducing gelling without significantly impacting emulsification.
 Heating beyond 100°C can lead to protein degradation and loss of emulsifying properties.
 
+Regarding typical GI issues of food that is high in fiber, acacia is well-tolerated at lower doses (<30g / day),
+but side effects increase significantly with doses above this level. Individual sensitivity has to be considered,
+so stick to lower doses when you use it for the 1st time, especially if you have known problems with other gums.
+
 Compared to guar gum, it is known for creating a smoother, more transparent texture.
 When combined in ice cream with guar gum, both are typically used in small amounts,
 with guar gum usually ranging from 0.1–0.5% and gum arabic from 0.3–0.7% of the total mix weight.
