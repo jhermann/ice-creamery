@@ -31,7 +31,7 @@ Process on *Light Ice Cream*, [hold it shortly under running water](https://jher
 > <img width=220 alt="After Respin" src="Banana-Rum-Gelato_2025-08-21_2.jpg" class="zoomable" />
 > <img width=220 alt="Scooped" src="Banana-Rum-Gelato_2025-08-21_3.jpg" class="zoomable" />
 
-Rating: 😋🍌🍌🍌🍹 (❄️ needs more acacia)
+Rating: 😋🍌🍌🍌🍹 (with 10g gum: ❄️ needs more acacia)
 
 > ℹ️ Read [About 'Simple' Recipes](/ice-creamery/info/tips%2Btricks/#about-simple-recipes) regarding 'exotic' ingredients and their alternatives.
 
@@ -41,8 +41,8 @@ Rating: 😋🍌🍌🍌🍹 (❄️ needs more acacia)
 
 **Prep**
 
-  - _10g_ [Gum Arabic (Acacia, E414) \[SaporePuro\]](/ice-creamery/info/ingredients/#acacia-gum-gum-arabic-e414){target="_blank"}<sup>↗</sup> • *optional*; 85% fiber
-  - _15ml_ Water (hot, 50–60°C) • for hydrating the gum
+  - _30g_ [Gum Arabic (Acacia, E414) \[SaporePuro\]](/ice-creamery/info/ingredients/#acacia-gum-gum-arabic-e414){target="_blank"}<sup>↗</sup> • *optional*; 85% fiber
+  - _45ml_ Water (hot, 50–60°C) • for hydrating the gum
   - _300g_ Bananas (peeled) • 2-3 mid-size or 3-4 small ripe pieces, eat or freeze any surplus 😋
   - _50g_ [Cream Cheese 23% \[Exquisa\]](/ice-creamery/info/ingredients/#cream-cheese){target="_blank"}<sup>↗</sup> • click the link for UK / US equivalents
   - _50g_ [Jamaica Rum 43 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup>
@@ -50,12 +50,11 @@ Rating: 😋🍌🍌🍌🍹 (❄️ needs more acacia)
 
 **Wet**
 
-  - _175ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
+  - _150ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
 
 **Fill to MAX**
 
   - _50ml_ Cream 32% [REWE Beste Wahl] • skip for improved macros [156kcal, 16g fat]
-  - _20ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
   - _≈10 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
 
 # DIRECTIONS
@@ -69,10 +68,10 @@ Rating: 😋🍌🍌🍌🍹 (❄️ needs more acacia)
 
 # NUTRITIONAL & OTHER INFO
 
-- **Nutritional values per 100g/ml:** 100g; 121.7 kcal; fat 4.7g; carbs 10.2g; sugar 7.5g; protein 2.0g; salt 0.1g
-- **Nutritional values per ½ Deluxe Tub:** 340g; 413.8 kcal; fat 16.1g; carbs 34.8g; sugar 25.6g; protein 6.9g; salt 0.4g
-- **Nutritional values total:** 680g; 827.5 kcal; fat 32.2g; carbs 69.7g; sugar 51.3g; protein 13.8g; salt 0.8g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 31.59
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 6.67% • Low-Salt
-- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 15.8g • 2.3%
-- **Net carbs:** 60.3g • *∝ 5 servings@136g:* 12.1g • *∝ 3 servings@227g:* 20.1g • *energy ratio (low <20%):* 29.1%
+- **Nutritional values per 100g/ml:** 100g; 124.1 kcal; fat 4.6g; carbs 10.1g; sugar 7.5g; protein 1.9g; salt 0.1g
+- **Nutritional values per ½ Deluxe Tub:** 340g; 421.9 kcal; fat 15.6g; carbs 34.4g; sugar 25.4g; protein 6.4g; salt 0.4g
+- **Nutritional values total:** 685g; 850.0 kcal; fat 31.5g; carbs 69.3g; sugar 51.3g; protein 12.9g; salt 0.9g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 31.48
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 6.09%
+- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 14.0g • 2.0%
+- **Net carbs:** 41.1g • *∝ 5 servings@137g:* 8.2g • *∝ 3 servings@228g:* 13.7g • *energy ratio (low <20%):* 19.3%
