@@ -31,15 +31,15 @@ for a rich caramel-like flavor — with reasonable macros and completely plant-b
 
 > <img width=220 alt="Ingredients" src="Dulce-de-Leche_2025-08-17_1.jpg" class="zoomable" />
 
-Process on *Sorbet*, [hold it shortly under running water](https://jhermann.github.io/ice-creamery/info/tips%2Btricks/#handling-of-icy-sides-bottom)
+Process on *Light Ice Cream*, [hold it shortly under running water](https://jhermann.github.io/ice-creamery/info/tips%2Btricks/#handling-of-icy-sides-bottom)
 *after* that.
 Then a scrape-down and a respin or mix-in.<br clear=all />
 
-> <img width=220 alt="After Sorbet" src="_1.jpg" class="zoomable" />
-> <img width=220 alt="After Mix-in" src="_2.jpg" class="zoomable" />
-> <img width=220 alt="Scooped" src="_3.jpg" class="zoomable" />
+> <img width=220 alt="After Ice Cream" src="Dulce-de-Leche_2025-08-22_1.jpg" class="zoomable" />
+> <img width=220 alt="After Respin" src="Dulce-de-Leche_2025-08-22_2.jpg" class="zoomable" />
+> <img width=220 alt="Scooped" src="Dulce-de-Leche_2025-08-22_3.jpg" class="zoomable" />
 
-Rating: 😋🥛 (untested)
+Rating: 😋🥛🥛🥛🥛
 
 # INGREDIENTS
 
