@@ -41,6 +41,8 @@ Then a scrape-down and a respin or mix-in.<br clear=all />
 
 Rating: 😋🥛🥛🥛🥛
 
+> <img width=442 alt="Ice Cream Sandwich" src="Dulce-de-Leche_2025-08-22_4.jpg" class="zoomable" />
+
 # INGREDIENTS
 
 ℹ️ Brand names are in square brackets `[...]`.
