@@ -1,14 +1,14 @@
 Creamy Watermelon (Deluxe);;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 ;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;;
-Nutritional values per 100g/ml;100;g;;85.0;4.0;14.7;5.2;1.9;0.2;;;;;
-Nutritional values per ½ Deluxe Tub;340;g;;288.9;13.6;49.9;17.8;6.6;0.8;;;;;
-Nutritional values total;679;g;;577.0;27.1;99.7;35.5;13.2;1.7;;;;;
+Nutritional values per 100g/ml;100;g;;85.4;4.0;14.8;5.3;2.0;0.2;;;;;
+Nutritional values per ½ Deluxe Tub;340;g;;290.2;13.6;50.2;18.0;6.7;0.8;;;;;
+Nutritional values total;680;g;;580.4;27.1;100.4;36.0;13.3;1.7;;;;;
 ;;;;;;;;;;;;;;
-FPDF / PAC (target 20..30);32.07;;;;;;;;;;;;;
-"Protein / Energy Ratio (ok=12%; hi=20%)";9.15%;;;;;;;;;;;;;
+FPDF / PAC (target 20..30);32.03;;;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";9.19%;;;;;;;;;;;;;
 ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);14.1;g;;2.1%;;;;;;;;;;
-ℹ️ Net carbs;54.7;g;;*∝ 5 servings@136g:* 10.9g;;;*∝ 3 servings@226g:* 18.2g;;;*energy ratio (low <20%):* 37.9%;;;;
+ℹ️ Net carbs;55.4;g;;*∝ 5 servings@136g:* 11.1g;;;*∝ 3 servings@227g:* 18.5g;;;*energy ratio (low <20%):* 38.2%;;;;
 ;;;;;;;;;;;;;;
 "Sorbet mostly from strained watermelon pulp, with minimal additions to make it processable (soft, scoopable).
 
@@ -31,6 +31,7 @@ Whey + Casein protein (grass-fed) [Vilgain];10.00;g;2;384.00;4.60;5.70;5.60;80.0
 Carboxymethyl Cellulose (CMC / E466) [GoodBake];1.75;g;2;600.00;;75.00;;;;;;alternatives: guar gum (same amount);;1
 Xanthan gum (E415, XG);0.75;g;2;320.00;;78.00;;6.00;1.00;;;1tsp ≈ 2.8g;;1
 Salt;1.50;g;2;;;;;;100.00;5.90;;;;1
+Beet Root Powder (organic) [Mandoi];1.00;g;2;347.00;1.00;70.00;46.00;14.10;0.10;;;*optional*, for color;;1
 ;;;;;;;;;;;;;;
 Cream 32% [REWE Beste Wahl];80.00;ml;3;311.00;32.00;3.20;3.20;2.50;0.13;0.03;6.32;;;1
 Flavor drops Peach / Maracuja (sucralose) [IronMaxx];≈5;drops;3;;;;;;;;;to taste;;

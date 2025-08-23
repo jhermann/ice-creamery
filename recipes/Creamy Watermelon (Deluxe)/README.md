@@ -47,6 +47,7 @@ Rating: 😋🍉🥛  (untested)
   - _1.75g_ [Carboxymethyl Cellulose (CMC / E466) \[GoodBake\]](/ice-creamery/info/ingredients/#carboxymethyl-cellulose-cmc-e466){target="_blank"}<sup>↗</sup> • alternatives: guar gum (same amount)
   - _0.75g_ [Xanthan gum (E415, XG)](/ice-creamery/info/ingredients/#xanthan-gum-xg-e415){target="_blank"}<sup>↗</sup> • 1tsp ≈ 2.8g
   - _1.5g_ Salt
+  - _1g_ [Beet Root Powder (organic) \[Mandoi\]](/ice-creamery/info/ingredients/#cocoa-powder){target="_blank"}<sup>↗</sup> • *optional*, for color
 
 **Fill to MAX**
 
@@ -66,10 +67,10 @@ Rating: 😋🍉🥛  (untested)
 
 # NUTRITIONAL & OTHER INFO
 
-- **Nutritional values per 100g/ml:** 100g; 85.0 kcal; fat 4.0g; carbs 14.7g; sugar 5.2g; protein 1.9g; salt 0.2g
-- **Nutritional values per ½ Deluxe Tub:** 340g; 288.9 kcal; fat 13.6g; carbs 49.9g; sugar 17.8g; protein 6.6g; salt 0.8g
-- **Nutritional values total:** 679g; 577.0 kcal; fat 27.1g; carbs 99.7g; sugar 35.5g; protein 13.2g; salt 1.7g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 32.07
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 9.15%
+- **Nutritional values per 100g/ml:** 100g; 85.4 kcal; fat 4.0g; carbs 14.8g; sugar 5.3g; protein 2.0g; salt 0.2g
+- **Nutritional values per ½ Deluxe Tub:** 340g; 290.2 kcal; fat 13.6g; carbs 50.2g; sugar 18.0g; protein 6.7g; salt 0.8g
+- **Nutritional values total:** 680g; 580.4 kcal; fat 27.1g; carbs 100.4g; sugar 36.0g; protein 13.3g; salt 1.7g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 32.03
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 9.19%
 - **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 14.1g • 2.1%
-- **Net carbs:** 54.7g • *∝ 5 servings@136g:* 10.9g • *∝ 3 servings@226g:* 18.2g • *energy ratio (low <20%):* 37.9%
+- **Net carbs:** 55.4g • *∝ 5 servings@136g:* 11.1g • *∝ 3 servings@227g:* 18.5g • *energy ratio (low <20%):* 38.2%
