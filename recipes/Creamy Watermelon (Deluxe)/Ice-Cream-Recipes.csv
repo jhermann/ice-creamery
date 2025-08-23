@@ -1,0 +1,36 @@
+Creamy Watermelon (Deluxe);;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;;
+Nutritional values per 100g/ml;100;g;;85.0;4.0;14.7;5.2;1.9;0.2;;;;;
+Nutritional values per ½ Deluxe Tub;340;g;;288.9;13.6;49.9;17.8;6.6;0.8;;;;;
+Nutritional values total;679;g;;577.0;27.1;99.7;35.5;13.2;1.7;;;;;
+;;;;;;;;;;;;;;
+FPDF / PAC (target 20..30);32.07;;;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";9.15%;;;;;;;;;;;;;
+ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);14.1;g;;2.1%;;;;;;;;;;
+ℹ️ Net carbs;54.7;g;;*∝ 5 servings@136g:* 10.9g;;;*∝ 3 servings@226g:* 18.2g;;;*energy ratio (low <20%):* 37.9%;;;;
+;;;;;;;;;;;;;;
+"Sorbet mostly from strained watermelon pulp, with minimal additions to make it processable (soft, scoopable).
+
+> *A variation of the ""Just Fruit"" recipe with protein powder and cream.*
+
+Spin on “Sorbet”, scrape down, and re-mix.";;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+Rating: 😋🍉🥛  (untested);;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+1. Scoop the pulp out of a medium-sized watermelon, blend it, and strain it through a mesh.;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment;0Carb[%];Counts?
+Watermelon (blended & strained);520.00;g;1;30.00;0.20;7.60;6.20;0.60;;0.06;;;;1
+Glycerin (E422, VG) [hd-line];20.00;g;1;400.00;;99.00;;;;3.70;;;50.00;1
+Brandy or Vodka 40 vol%;;g;1;280.00;;;;;;2.96;;*alternative:* 0g (additional) VG for a sober recipe;;0
+Lemon juice;10.00;ml;1;25.00;0.10;3.36;1.65;0.30;0.01;0.02;;;;1
+SweEX (Erythritol + Xylitol 3:2);35.00;g;2;109.60;;100.00;;;;2.56;;"alternatives: 47g allulose or dextrose; POD ≈ 85%; GI < 7";100.00;1
+Whey + Casein protein (grass-fed) [Vilgain];10.00;g;2;384.00;4.60;5.70;5.60;80.00;0.50;0.06;90.40;with stevia;;1
+Carboxymethyl Cellulose (CMC / E466) [GoodBake];1.75;g;2;600.00;;75.00;;;;;;alternatives: guar gum (same amount);;1
+Xanthan gum (E415, XG);0.75;g;2;320.00;;78.00;;6.00;1.00;;;1tsp ≈ 2.8g;;1
+Salt;1.50;g;2;;;;;;100.00;5.90;;;;1
+;;;;;;;;;;;;;;
+Cream 32% [REWE Beste Wahl];80.00;ml;3;311.00;32.00;3.20;3.20;2.50;0.13;0.03;6.32;;;1
+Flavor drops Peach / Maracuja (sucralose) [IronMaxx];≈5;drops;3;;;;;;;;;to taste;;
