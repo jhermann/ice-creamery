@@ -51,6 +51,7 @@ Rating: 😋😋😋🔴🔴
 
   - _45g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • *alternative:* 60g allulose or dextrose
   - _10g_ [Salty Stability \[Inulin / GMS / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup> • unsweetened “ICSv2”
+  - _1g_ [Beet Root Powder (organic) \[Mandoi\]](/ice-creamery/info/ingredients/#cocoa-powder){target="_blank"}<sup>↗</sup> • *optional*, for color
 
 **Fill to MAX**
 
@@ -69,12 +70,12 @@ Rating: 😋😋😋🔴🔴
 
 # NUTRITIONAL & OTHER INFO
 
-- **Nutritional values per 100g/ml:** 100g; 73.8 kcal; fat 0.9g; carbs 17.6g; sugar 7.0g; protein 4.0g; salt 0.3g
-- **Nutritional values per ½ Deluxe Tub:** 340g; 250.9 kcal; fat 2.9g; carbs 60.0g; sugar 23.8g; protein 13.6g; salt 1.0g
-- **Nutritional values total:** 680g; 501.8 kcal; fat 5.9g; carbs 119.9g; sugar 47.6g; protein 27.2g; salt 1.9g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 31.03
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 21.69% • LOW-FAT • Hi-Protein
+- **Nutritional values per 100g/ml:** 100g; 74.2 kcal; fat 0.9g; carbs 17.7g; sugar 7.1g; protein 4.0g; salt 0.3g
+- **Nutritional values per ½ Deluxe Tub:** 340g; 252.3 kcal; fat 2.9g; carbs 60.2g; sugar 24.0g; protein 13.7g; salt 1.0g
+- **Nutritional values total:** 681g; 505.3 kcal; fat 5.9g; carbs 120.6g; sugar 48.1g; protein 27.3g; salt 1.9g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.99
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 21.65% • LOW-FAT • Hi-Protein
 - **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 53.7g • 7.9%
-- **Net carbs:** 62.6g • *∝ 5 servings@136g:* 12.5g • *∝ 3 servings@227g:* 20.9g • *energy ratio (low <20%):* 49.9%
+- **Net carbs:** 63.3g • *∝ 5 servings@136g:* 12.7g • *∝ 3 servings@227g:* 21.1g • *energy ratio (low <20%):* 50.1%
 - **Aug 23, 2025:** Reformulation with Buttermilk & Cottage Cheese (no curdling)
 - **10g 'Salty Stability' is:** 7.3g Inulin • 1.2g Glycerol Monostearate (GMS / E471) • 0.6g Tylose powder (E466, Tylo, CMC) • 0.4g Guar gum (E412) • 0.33g Salt • 0.13g Xanthan gum (E415, XG).
