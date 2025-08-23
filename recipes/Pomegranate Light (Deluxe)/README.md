@@ -51,7 +51,7 @@ Rating: 😋😋😋🔴🔴
 
   - _45g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • *alternative:* 60g allulose or dextrose
   - _10g_ [Salty Stability \[Inulin / GMS / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup> • unsweetened “ICSv2”
-  - _1g_ [Beet Root Powder (organic) \[Mandoi\]](/ice-creamery/info/ingredients/#cocoa-powder){target="_blank"}<sup>↗</sup> • *optional*, for color
+  - _1g_ Beet Root Powder (organic) [Mandoi] • *optional*, for color
 
 **Fill to MAX**
 
