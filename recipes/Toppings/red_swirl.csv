@@ -1,0 +1,19 @@
+Red Swirl (Mix-in);;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;;
+Nutritional values per 100g/ml;100;g;;321.4;25.6;20.4;15.9;2.3;0.1;;;;;
+Nutritional values per serving;50;g;;160.7;12.8;10.2;8.0;1.1;0.1;;;;;
+;;;;;;;;;;;;;;
+FPDF / PAC (target 20..30);32.01;;;;;;;;;;;;;
+ℹ️ Net carbs;9.2;g;;*∝ 5 servings@10g:* 1.8g;;;*∝ 3 servings@17g:* 3.1g;;;*energy ratio (low <20%):* 22.9%;;;;
+;;;;;;;;;;;;;;
+Creamy mix-in colored by beet root and mildly sweet.;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+"1. Mix dry ingredients in a small cup or bowl, grind down any clumps.
+ 1. Add cream + VG and stir to combine.";;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment;0Carb[%];Counts?
+Cream 32% [REWE Beste Wahl];40.00;ml;1;311.00;32.00;3.20;3.20;2.50;0.13;0.03;6.32;;;1
+Glycerin (E422, VG) [hd-line];2.00;g;1;400.00;;99.00;;;;3.70;;"POD = 60%; GI = 5; Density = 1.26 g/ml";50.00;1
+Trehalose [SaporePuro];7.00;g;2;355.00;0.00;89.00;89.00;0.00;0.03;1.00;;"POD = 45%; GI = 38";;1
+Beet Root Powder (organic) [Mandoi];1.00;g;2;347.00;1.00;70.00;46.00;14.10;0.10;;;for color;;1
