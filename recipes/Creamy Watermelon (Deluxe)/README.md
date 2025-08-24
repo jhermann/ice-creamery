@@ -22,13 +22,15 @@ Sorbet mostly from strained watermelon pulp, with minimal additions to make it p
 
 > *A variation of the "Just Fruit" recipe with protein powder and cream.*
 
-Spin on “Sorbet”, scrape down, and re-mix.
+Spin on “Sorbet”, scrape down, and mix-in with
+[Red Swirl](/ice-creamery/T/Toppings/#red-swirl-mix-in).
 
-> <img width=220 alt="After Sorbet" src="_1.jpg" class="zoomable" />
-> <img width=220 alt="After Mix-in" src="_2.jpg" class="zoomable" />
-> <img width=220 alt="Scooped" src="_3.jpg" class="zoomable" />
+> <img width=330 alt="After Sorbet" src="Creamy-Watermelon_2025-08-24_1.jpg" class="zoomable" />
+> <img width=330 alt="Loaded" src="Creamy-Watermelon_2025-08-24_2.jpg" class="zoomable" />
+> <img width=330 alt="After Mix-in" src="Creamy-Watermelon_2025-08-24_3.jpg" class="zoomable" />
+> <img width=330 alt="Scooped" src="Creamy-Watermelon_2025-08-24_4.jpg" class="zoomable" />
 
-Rating: 😋🍉🥛  (untested)
+Rating: 😋🍉🍉🍉🥛
 
 # INGREDIENTS
 
@@ -47,7 +49,7 @@ Rating: 😋🍉🥛  (untested)
   - _1.75g_ [Carboxymethyl Cellulose (CMC / E466) \[GoodBake\]](/ice-creamery/info/ingredients/#carboxymethyl-cellulose-cmc-e466){target="_blank"}<sup>↗</sup> • alternatives: guar gum (same amount)
   - _0.75g_ [Xanthan gum (E415, XG)](/ice-creamery/info/ingredients/#xanthan-gum-xg-e415){target="_blank"}<sup>↗</sup> • 1tsp ≈ 2.8g
   - _1.5g_ Salt
-  - _1g_ [Beet Root Powder (organic) \[Mandoi\]](/ice-creamery/info/ingredients/#cocoa-powder){target="_blank"}<sup>↗</sup> • *optional*, for color
+  - _1g_ Beet Root Powder (organic) [Mandoi] • *optional*, for color
 
 **Fill to MAX**
 
