@@ -29,6 +29,7 @@ Spin on “Sorbet”, scrape down, and mix-in with
 > <img width=330 alt="Loaded" src="Creamy-Watermelon_2025-08-24_2.jpg" class="zoomable" />
 > <img width=330 alt="After Mix-in" src="Creamy-Watermelon_2025-08-24_3.jpg" class="zoomable" />
 > <img width=330 alt="Scooped" src="Creamy-Watermelon_2025-08-24_4.jpg" class="zoomable" />
+> <img width=330 alt="Served" src="Creamy-Watermelon_2025-08-24_5.jpg" class="zoomable" />
 
 Rating: 😋🍉🍉🍉🥛
 
