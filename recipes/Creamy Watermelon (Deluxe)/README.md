@@ -6,10 +6,13 @@ excluded_tags:
 - Allulose
 - Vanilla
 tags:
+- Dairy
+- Emulsifier
 - Erythritol
 - Fruit
 - Polysaccharide Gum
 - Scoopable
+- Sorbet
 - Stevia
 - Sucralose
 - Tylo Powder (CMC)
@@ -18,7 +21,7 @@ tags:
 # Creamy Watermelon (Deluxe)
 <img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="logo-Creamy-Watermelon.png" />
 
-Sorbet mostly from strained watermelon pulp, with minimal additions to make it processable (soft, scoopable).
+Sherbet mostly from strained watermelon pulp, with cream and minimal additions to make it processable (soft, scoopable).
 
 > *A variation of the "Just Fruit" recipe with protein powder and cream.*
 
@@ -45,9 +48,10 @@ Rating: 😋🍉🍉🍉🥛
 
 **Dry**
 
-  - _35g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • alternatives: 47g allulose or dextrose; POD ≈ 85%; GI < 7
+  - _35g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • *alternatives:* 47g allulose or dextrose; POD ≈ 85%; GI < 7
   - _10g_ [Whey + Casein protein (grass-fed) \[Vilgain\]](/ice-creamery/info/ingredients/#whey-protein){target="_blank"}<sup>↗</sup> • with stevia
-  - _1.75g_ [Carboxymethyl Cellulose (CMC / E466) \[GoodBake\]](/ice-creamery/info/ingredients/#carboxymethyl-cellulose-cmc-e466){target="_blank"}<sup>↗</sup> • alternatives: guar gum (same amount)
+  - _2g_ [Glycerol Monostearate (E471) \[Bulk\]](/ice-creamery/info/ingredients/#glycerol-monostearate-gms-e471){target="_blank"}<sup>↗</sup> • *alternative:* lecithin
+  - _1.75g_ [Carboxymethyl Cellulose (CMC / E466) \[GoodBake\]](/ice-creamery/info/ingredients/#carboxymethyl-cellulose-cmc-e466){target="_blank"}<sup>↗</sup> • *alternative:*  guar gum (same amount)
   - _0.75g_ [Xanthan gum (E415, XG)](/ice-creamery/info/ingredients/#xanthan-gum-xg-e415){target="_blank"}<sup>↗</sup> • 1tsp ≈ 2.8g
   - _1.5g_ Salt
   - _1g_ Beet Root Powder (organic) [Mandoi] • *optional*, for color
@@ -70,10 +74,11 @@ Rating: 😋🍉🍉🍉🥛
 
 # NUTRITIONAL & OTHER INFO
 
-- **Nutritional values per 100g/ml:** 100g; 85.4 kcal; fat 4.0g; carbs 14.8g; sugar 5.3g; protein 2.0g; salt 0.2g
-- **Nutritional values per ½ Deluxe Tub:** 340g; 290.2 kcal; fat 13.6g; carbs 50.2g; sugar 18.0g; protein 6.7g; salt 0.8g
-- **Nutritional values total:** 680g; 580.4 kcal; fat 27.1g; carbs 100.4g; sugar 36.0g; protein 13.3g; salt 1.7g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 32.03
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 9.19%
+- **Nutritional values per 100g/ml:** 100g; 86.3 kcal; fat 4.0g; carbs 14.7g; sugar 5.3g; protein 2.0g; salt 0.2g
+- **Nutritional values per ½ Deluxe Tub:** 340g; 293.5 kcal; fat 13.5g; carbs 50.0g; sugar 17.9g; protein 6.6g; salt 0.8g
+- **Nutritional values total:** 682g; 588.7 kcal; fat 27.1g; carbs 100.4g; sugar 36.0g; protein 13.3g; salt 1.7g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 31.93
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 9.06%
 - **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 14.1g • 2.1%
-- **Net carbs:** 55.4g • *∝ 5 servings@136g:* 11.1g • *∝ 3 servings@227g:* 18.5g • *energy ratio (low <20%):* 38.2%
+- **Net carbs:** 55.4g • *∝ 5 servings@136g:* 11.1g • *∝ 3 servings@227g:* 18.5g • *energy ratio (low <20%):* 37.6%
+- **Aug 25, 2025:** Added emulsifier
