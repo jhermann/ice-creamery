@@ -1,9 +1,13 @@
 ---
 description: Recipe for the Ninja Creami Deluxe [24oz]
+excluded_steps:
+- ^$
 excluded_tags:
+- Allulose
 - Vanilla
 tags:
 - Dairy
+- Emulsifier
 - Erythritol
 - Hi-Protein
 - Light
@@ -11,6 +15,7 @@ tags:
 - Low-Sugar
 - Polysaccharide Gum
 - Scoopable
+- Stevia
 - Sucralose
 - Tylo Powder (CMC)
 - Xylitol
@@ -18,12 +23,14 @@ tags:
 # Lean Coffee (Deluxe)
 <img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="logo-lean-coffee.png" />
 
-A version of “Coffee & Cream” with calories reduced by about 30%
+A version of “Coffee & Cream” with calories reduced by about 30%.
 
 Spun on Sorbet, followed by a scrape-down and a re-spin.
 Went to the freezer again for an hour to firm up.
 
-> <img width=360 alt="Spun Ice Cream" src="" class="zoomable" />
+> <img width=220 alt="After Sorbet" src="_1.jpg" class="zoomable" />
+> <img width=220 alt="After Mix-in" src="_2.jpg" class="zoomable" />
+> <img width=220 alt="Scooped" src="_3.jpg" class="zoomable" />
 
 The coffee flavor is there but not dominant,
 the consistency is soft and from experience will get a bit firmer after several hours in the freezer.
@@ -36,23 +43,24 @@ Rating: 😋😋😋😋☕
 
 **Wet**
 
-  - _325ml_ Extra strong coffee
-  - _100ml_ [Skim Milk 1.5% \[Weihenstephan\]](/ice-creamery/info/ingredients/#skim-milk){target="_blank"}<sup>↗</sup>
+  - _350ml_ Extra strong coffee
+  - _120ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
   - _100g_ [Cottage Cheese 4% \[REWE Bio\]](/ice-creamery/info/ingredients/#cottage-cheese){target="_blank"}<sup>↗</sup>
-  - _15g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • Sweetness = 60%; GI = 5
-  - _10g_ [Brandy 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup>
-  - _7 drops_ Flavor drops Caramel [IronMaxx] • with sucralose
+  - _15g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • Sweetness = 60%; GI = 5; Density = 1.26 g/ml
+  - _15g_ [Brandy or Vodka 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup> • *alternative:* 12g (additional) VG for a sober recipe
+  - _21g_ [❔Coffee Liqueur 25 vol% \[Caffè Borghetti\]](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup> • if you have it, *instead of* the brandy/vodka
 
 **Dry**
 
-  - _30g_ ICSv2 [Erythritol / CMC / Tara / XG / Inulin] • [http﹕//bit.ly/4frc4Vj](https://jhermann.github.io/ice-creamery/I/Ice%20Cream%20Stabilizer%20(ICS)/)
-  - _30g_ [Xylitol](/ice-creamery/info/ingredients/#xylitol-e967){target="_blank"}<sup>↗</sup> • Sweetness = 100%; GI = 7
-  - _20g_ [Whey protein Vanilla \[MaxiNutrition\]](/ice-creamery/info/ingredients/#whey-protein){target="_blank"}<sup>↗</sup>
-  - _20g_ [Skim Milkpowder 1:10 \[Vita2You\]](/ice-creamery/info/ingredients/#skim-milk-powder-smp){target="_blank"}<sup>↗</sup>
+  - _35g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • *alternative:* 47g allulose or dextrose
+  - _15g_ [Salty Stability \[Inulin / GMS / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup> • unsweetened “ICSv2”
+  - _10g_ [Whey + Casein protein (grass-fed) \[Vilgain\]](/ice-creamery/info/ingredients/#whey-protein){target="_blank"}<sup>↗</sup> • with stevia
+  - _20g_ [Skim milk powder 1:10 (SMP) \[Vita2You\]](/ice-creamery/info/ingredients/#skim-milk-powder-smp){target="_blank"}<sup>↗</sup>
+  - _3g_ ❔Instant Coffee [Mount Hagen] • *optional*, for a stronger coffee taste; 1.5g per 125ml
 
 **Fill to MAX**
 
-  - _70ml_ Water to MAX line
+  - _≈7 drops_ Flavor drops Caramel (sucralose) [IronMaxx] • to taste
 
 # DIRECTIONS
 
@@ -65,12 +73,12 @@ Rating: 😋😋😋😋☕
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
 
 # NUTRITIONAL & OTHER INFO
-- **Nutritional values per 100g/ml:** 100g; 66.6 kcal; fat 1.0g; carbs 10.9g; sugar 2.5g; protein 5.4g; salt 0.2g
-- **Nutritional values per ½ Deluxe Tub:** 360g; 239.8 kcal; fat 3.4g; carbs 39.3g; sugar 9.1g; protein 19.4g; salt 0.8g
-- **Nutritional values total:** 720g; 479.6 kcal; fat 6.9g; carbs 78.5g; sugar 18.2g; protein 38.8g; salt 1.6g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.19
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 32.39% • LOW-FAT • Low-Sugar • Hi-Protein
-- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 61.8g • 8.6%
-- **30g Ice Cream Stabilizer (ICSv2) is:** 14.3g erythritol, 1.43g Tylose powder (CMC, E466), 
-0.5g tara gum (E417), 0.15g xanthan (E415),
-14.3g inulin, 0.5g salt.
+
+- **Nutritional values per 100g/ml:** 100g; 61.4 kcal; fat 1.0g; carbs 11.2g; sugar 1.8g; protein 4.6g; salt 0.2g
+- **Nutritional values per ½ Deluxe Tub:** 340g; 208.7 kcal; fat 3.6g; carbs 37.9g; sugar 6.3g; protein 15.7g; salt 0.8g
+- **Nutritional values total:** 680g; 417.5 kcal; fat 7.1g; carbs 75.9g; sugar 12.5g; protein 31.3g; salt 1.6g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 31.06
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 30.03% • LOW-FAT • Low-Sugar • Hi-Protein
+- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 48.6g • 7.2%
+- **Net carbs:** 22.3g • *∝ 5 servings@136g:* 4.5g • *∝ 3 servings@227g:* 7.4g • *energy ratio (low <20%):* 21.4%
+- **15g 'Salty Stability' is:** 11.0g Inulin • 1.8g Glycerol Monostearate (GMS / E471) • 0.9g Tylose powder (E466, Tylo, CMC) • 0.6g Guar gum (E412) • 0.5g Salt • 0.2g Xanthan gum (E415, XG).
