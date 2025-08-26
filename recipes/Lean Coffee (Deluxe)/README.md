@@ -57,6 +57,7 @@ Rating: 😋😋😋😋☕
   - _10g_ [Whey + Casein protein (grass-fed) \[Vilgain\]](/ice-creamery/info/ingredients/#whey-protein){target="_blank"}<sup>↗</sup> • with stevia
   - _20g_ [Skim milk powder 1:10 (SMP) \[Vita2You\]](/ice-creamery/info/ingredients/#skim-milk-powder-smp){target="_blank"}<sup>↗</sup>
   - _3g_ ❔Instant Coffee [Mount Hagen] • *optional*, for a stronger coffee taste; 1.5g per 125ml
+  - _5g_ [❔Cocoa Noir Intense 11% \[Cacao Barry\]](/ice-creamery/info/ingredients/#cocoa-powder){target="_blank"}<sup>↗</sup> • *optional*, for a darker color and a cocoa note
 
 **Fill to MAX**
 
