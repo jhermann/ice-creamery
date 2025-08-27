@@ -38,12 +38,16 @@ of common ingredients, sorted by PAC.
 |  80 |  50 | ≈75 | Glucose Syrup (42 DE) | 25% water |
 |  77 | ≈57 | 55 | Molasses | Less sweet than sugar, with a<br />complex flavor profile (bittersweet) |
 |  68 | ≈66 | 54 | Maple syrup | High in sucrose, but also has fructose and glucose|
+|  61 |  40 | ≈56 | Light corn syrup (32 DE) | |
 |  50 |  -/- | 85 | Modified corn starch | Possibly lower GI for some modifications |
 | ≈39 |  50 |  2 | Isomalt | PAC ranges from 36 — 42; 2.36 kcal/g |
 |  34 |  21 | 110 | Maltodextrin (18 DE) | |
 |  22 |  10 |  1 | Inulin | |
 | <20 |  ≈10 |  <55 | Resistant Dextrin (E1400) | GI typically ranges from 25 to 48 |
 |  10 |  44 | 35 | Maltitol (E965) | |
+
+> 🧪 **Sources**<br />
+> * https://www.icecreamscience.com/blog/corn-syrup-used-ice-cream
 
 Note that natural ingredients like molasses or maple syrup
 can slightly differ depending on brand, check the sugar content
