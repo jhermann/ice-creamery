@@ -8,7 +8,6 @@ excluded_tags:
 - Vanilla
 tags:
 - Dairy-Free
-- Draft
 - Emulsifier
 - Erythritol
 - Polysaccharide Gum
