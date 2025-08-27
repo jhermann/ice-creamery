@@ -66,6 +66,9 @@ Rating: 😋 (untested)
   - _1.25g_ [Carboxymethyl Cellulose (CMC / E466) \[GoodBake\]](/ice-creamery/info/ingredients/#carboxymethyl-cellulose-cmc-e466){target="_blank"}<sup>↗</sup> • alternatives: guar gum (same amount)
   - _1.25g_ [Xanthan gum (E415, XG)](/ice-creamery/info/ingredients/#xanthan-gum-xg-e415){target="_blank"}<sup>↗</sup> • 1tsp ≈ 2.8g
   - _1.5g_ Salt
+  - _1.5g_ ❔Beet Root Powder (organic) [Mandoi] • *optional*, for color (strawberry, watermelon, cherry)
+  - _1g_ ❔Matcha green tea powder (organic) [Mandoi] • *optional*, for color (melon, kiwi)
+  - _1 pinch_ ❔Turmeric • *optional*, for color (mango, pineapple)
 
 **Fill to MAX**
 
