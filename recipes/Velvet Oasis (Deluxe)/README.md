@@ -30,11 +30,11 @@ Ice cream made with velvety nuts, sweetened with dates, and kissed by vanilla.
 Process on Sorbet, followed by a scrape-down and re-mix or respin.
 Freeze again for about an hour to get to scoopable, if too soft for you.
 
-> <img width=220 alt="After Sorbet" src="_1.jpg" class="zoomable" />
-> <img width=220 alt="After Mix-in" src="_2.jpg" class="zoomable" />
-> <img width=220 alt="Scooped" src="_3.jpg" class="zoomable" />
+> <img width=220 alt="After Sorbet" src="Velvet-Oasis_2025-08-27_1.jpg" class="zoomable" />
+> <img width=220 alt="After Light Ice Cream" src="Velvet-Oasis_2025-08-27_2.jpg" class="zoomable" />
+> <img width=220 alt="Scooped" src="Velvet-Oasis_2025-08-27_3.jpg" class="zoomable" />
 
-Rating: 😋🌴🥥 (untested)
+Rating: 😋😋🌴🥥🥥 (untested)
 
 # INGREDIENTS
 
