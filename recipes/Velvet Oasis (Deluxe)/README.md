@@ -27,14 +27,14 @@ Ice cream made with velvety nuts, sweetened with dates, and kissed by vanilla.
 
 > 🌿 **Vegan & Dairy-free**<br />Recipe is using only soy milk, dates, and nuts.
 
-Process on Sorbet, followed by a scrape-down and re-mix or respin.
+Process on “Sorbet”, followed by a scrape-down and “Ice Cream”.
 Freeze again for about an hour to get to scoopable, if too soft for you.
 
 > <img width=220 alt="After Sorbet" src="Velvet-Oasis_2025-08-27_1.jpg" class="zoomable" />
 > <img width=220 alt="After Light Ice Cream" src="Velvet-Oasis_2025-08-27_2.jpg" class="zoomable" />
 > <img width=220 alt="Scooped" src="Velvet-Oasis_2025-08-27_3.jpg" class="zoomable" />
 
-Rating: 😋😋🌴🥥🥥 (untested)
+Rating: 😋😋🌴🥥🥥
 
 # INGREDIENTS
 
