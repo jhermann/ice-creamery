@@ -11,12 +11,13 @@ tags:
 - Erythritol
 - Favorite
 - Fruit
-- Hi-Protein
+- Light
 - Low-Fat
 - Low-Sugar
 - Polysaccharide Gum
 - Scoopable
 - Sorbet
+- Stevia
 - Tylo Powder (CMC)
 - Xylitol
 ---
@@ -39,19 +40,19 @@ Rating: 😋😋😋😋❄️
 
   - _300g_ Mandarins in juice [REWE]
   - _200ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
-  - _50g_ [Cream Cheese \[Exquisa\]](/ice-creamery/info/ingredients/#cream-cheese){target="_blank"}<sup>↗</sup>
+  - _30g_ [Cream Cheese \[Exquisa\]](/ice-creamery/info/ingredients/#cream-cheese){target="_blank"}<sup>↗</sup>
   - _18g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • POD = 60%; GI = 5; Density = 1.26 g/ml
   - _10g_ [Brandy or Vodka 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup> • *alternative:* 8g (additional) VG for a sober recipe
 
 **Dry**
 
   - _30g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • alternatives: 40g allulose or dextrose; POD ≈ 85%; GI < 7
-  - _20g_ [Soy protein isolate (nature) \[Powerstar\]](/ice-creamery/info/ingredients/#soy-protein-isolate){target="_blank"}<sup>↗</sup> • unsweetened, unflavored
   - _15g_ [Salty Stability \[Inulin / GMS / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup> • *not-as-good substitute:* 1.5g guar, 0.5g xanthan, and 0.5g salt
+  - _15g_ [Whey + Casein protein (grass-fed) \[Vilgain\]](/ice-creamery/info/ingredients/#whey-protein){target="_blank"}<sup>↗</sup> • with stevia
 
 **Fill to MAX**
 
-  - _37ml_ Water to MAX line
+  - _62ml_ Water to MAX line
   - _≈3 drops_ Flavor drops Peach / Maracuja [IronMaxx] • to taste
 
 # DIRECTIONS
@@ -66,13 +67,13 @@ Rating: 😋😋😋😋❄️
 
 # NUTRITIONAL & OTHER INFO
 
-- **Nutritional values per 100g/ml:** 100g; 83.9 kcal; fat 2.2g; carbs 14.4g; sugar 4.3g; protein 4.2g; salt 0.2g
-- **Nutritional values per ½ Deluxe Tub:** 340g; 285.2 kcal; fat 7.6g; carbs 48.8g; sugar 14.7g; protein 14.3g; salt 0.8g
-- **Nutritional values total:** 680g; 570.4 kcal; fat 15.2g; carbs 97.6g; sugar 29.4g; protein 28.6g; salt 1.6g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 31.14
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 20.02% • LOW-FAT • Low-Sugar • Hi-Protein
-- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 31.4g • 4.6%
-- **Net carbs:** 47.5g • *∝ 5 servings@136g:* 9.5g • *∝ 3 servings@227g:* 15.8g • *energy ratio (low <20%):* 33.3%
+- **Nutritional values per 100g/ml:** 100g; 74.4 kcal; fat 1.6g; carbs 14.4g; sugar 4.4g; protein 3.2g; salt 0.2g
+- **Nutritional values per ½ Deluxe Tub:** 340g; 253.0 kcal; fat 5.6g; carbs 48.8g; sugar 14.8g; protein 10.7g; salt 0.5g
+- **Nutritional values total:** 680g; 506.0 kcal; fat 11.2g; carbs 97.6g; sugar 29.6g; protein 21.5g; salt 1.0g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.69
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 16.99% • LOW-FAT • Low-Sugar
+- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 24.5g • 3.6%
+- **Net carbs:** 47.6g • *∝ 5 servings@136g:* 9.5g • *∝ 3 servings@227g:* 15.9g • *energy ratio (low <20%):* 37.6%
 - **Oct 14, 2024:** Dense, intensive, some small ice crystals
 - **Oct 19, 2024:** Changed recipe
 - **Nov 11, 2024:** Switched to ICSv2, added SMP
