@@ -39,13 +39,13 @@ alcohol 40 vol% (half the amount of ‘lost’ sugar), or more sugar alcohols (a
 
 *Example:* Just 300g strawberries and 5g more sugar alcohols has 231 kcal and 30g net carbs.
 
-Spin on “Sorbet”, scrape down, and re-mix.
+Spin on “Sorbet”, scrape down, and respin.
 
-> <img width=220 alt="After Sorbet" src="_1.jpg" class="zoomable" />
-> <img width=220 alt="After Mix-in" src="_2.jpg" class="zoomable" />
-> <img width=220 alt="Scooped" src="_3.jpg" class="zoomable" />
+> <img width=220 alt="After Sorbet" src="Just-Fruit-SB_2025-08-28_1.jpg" class="zoomable" />
+> <img width=220 alt="After Respin" src="Just-Fruit-SB_2025-08-28_2.jpg" class="zoomable" />
+> <img width=220 alt="Scooped" src="Just-Fruit-SB_2025-08-28_3.jpg" class="zoomable" />
 
-Rating: 😋 (untested)
+Rating: 😋🍓🍓🍓🍨 (very smooth, more like ice cream than a sorbet)
 
 > ℹ️ Read [About 'Simple' Recipes](/ice-creamery/info/tips%2Btricks/#about-simple-recipes) regarding 'exotic' ingredients and their alternatives.
 
