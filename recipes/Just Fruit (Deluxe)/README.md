@@ -47,6 +47,8 @@ This one literally ‘grew on me’ — look at the middle picture, the tub is a
 
 Rating: 😋🍓🍓🍓🍨 (very smooth, more like ice cream than a sorbet)
 
+> <img width=442 alt="Served" src="Just-Fruit-SB_2025-08-28_4.jpg" class="zoomable" />
+
 > ℹ️ Read [About 'Simple' Recipes](/ice-creamery/info/tips%2Btricks/#about-simple-recipes) regarding 'exotic' ingredients and their alternatives.
 
 # INGREDIENTS
