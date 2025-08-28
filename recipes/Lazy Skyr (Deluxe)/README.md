@@ -38,6 +38,14 @@ Rating: 😋🥛🥛🥛🍫 (the vanilla could be more prominent, the mint thin
 
 > <img width=442 alt="Served" src="Lazy-Skyr_2025-08-20_4.jpg" class="zoomable" />
 
+Strawberry flavor, with 100g frozen strawberries added (on top of ~360g skyr),
+and 1.5g beet root plus 3 flavor drops "Strawberry".
+Spun on *FroYo*, then *Ice Cream*.
+
+> <img width=220 alt="After FroYo" src="Lazy-Skyr-SB_2025-08-28_1.jpg" class="zoomable" />
+> <img width=220 alt="After Ice cream" src="Lazy-Skyr-SB_2025-08-28_2.jpg" class="zoomable" />
+> <img width=220 alt="Scooped" src="Lazy-Skyr-SB_2025-08-28_3.jpg" class="zoomable" />
+
 # INGREDIENTS
 
 ℹ️ Brand names are in square brackets `[...]`.
