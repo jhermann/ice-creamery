@@ -23,6 +23,7 @@ tags:
 - Xylitol
 ---
 # Just Fruit (Deluxe)
+<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="logo-Just-Fruit.png" />
 
 Sorbet mostly from fresh / frozen fruit, with minimal additions to make it processable (soft, scoopable).
 
@@ -41,7 +42,6 @@ alcohol 40 vol% (half the amount of ‘lost’ sugar), or more sugar alcohols (a
 
 Spin on “Sorbet”, scrape down, and respin.
 This one literally ‘grew on me’ — look at the middle picture, the tub is almost overflowing.
-
 > <img width=220 alt="After Sorbet" src="Just-Fruit-SB_2025-08-28_1.jpg" class="zoomable" />
 > <img width=220 alt="After Respin" src="Just-Fruit-SB_2025-08-28_2.jpg" class="zoomable" />
 > <img width=220 alt="Scooped" src="Just-Fruit-SB_2025-08-28_3.jpg" class="zoomable" />
