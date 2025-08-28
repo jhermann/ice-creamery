@@ -7,7 +7,6 @@ excluded_tags:
 - Dairy$
 tags:
 - Dairy-Free
-- Draft
 - Erythritol
 - Fruit
 - Light
