@@ -34,6 +34,8 @@ Spun on Sorbet, followed by a scrape-down and a re-spin.
 The coffee flavor is clearly noticable and harmonizes with the cocoa in the background,
 the consistency is soft and will be firmer after several hours in the freezer.
 
+> <img width=330 alt="Served" src="Lean-Coffee_2025-08-29_4.jpg" class="zoomable" />
+
 Rating: 😋😋☕☕☕
 
 # INGREDIENTS
