@@ -1,13 +1,18 @@
 ---
 description: Recipe for the Ninja Creami Deluxe [24oz]
+excluded_steps:
+- ^$
 excluded_tags:
+- Allulose
 - Vanilla
 tags:
 - Dairy
+- Emulsifier
 - Erythritol
-- Hi-Protein
 - Low-Sugar
 - Polysaccharide Gum
+- Scoopable
+- Stevia
 - Sucralose
 - Tylo Powder (CMC)
 - Xylitol
@@ -15,15 +20,16 @@ tags:
 # Coffee&Cream (Deluxe)
 <img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="coffee_cream-ice-cream-logo.png" />
 
-Spun on Sorbet, followed by a scrape-down and a re-spin.
-Went to the freezer again for an hour to firm up.
+Crafted with extra strong coffee, silky cream cheese, and a whisper of alcohol, it delivers a grown-up flavor profile with a smooth texture.
+
+Spin on Sorbet, followed by a scrape-down and a re-spin.
 
 > <img width=360 alt="Spun Ice Cream" src="Coffee+Cream_2024-12-29.jpg" class="zoomable" />
 
 The coffee flavor is there but not dominant,
-the consistency is soft and from experience will get a bit firmer after several hours in the freezer.
+the consistency is soft and firms up after several hours in the freezer.
 
-Rating: 😋😋😋😋☕
+Rating: 😋😋😋☕☕
 
 # INGREDIENTS
 
@@ -31,24 +37,26 @@ Rating: 😋😋😋😋☕
 
 **Wet**
 
-  - _325ml_ Extra strong coffee
-  - _100ml_ [Skim Milk 1.5% \[Weihenstephan\]](/ice-creamery/info/ingredients/#skim-milk){target="_blank"}<sup>↗</sup>
-  - _50g_ [Cream Cheese 23% \[Exquisa\]](/ice-creamery/info/ingredients/#cottage-cheese){target="_blank"}<sup>↗</sup>
-  - _15g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • Sweetness = 60%; GI = 5
-  - _10g_ [Brandy 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup>
-  - _7 drops_ Flavor drops Caramel [IronMaxx] • with sucralose
+  - _350ml_ Extra strong coffee
+  - _100ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
+  - _50g_ [Cream Cheese 23% \[Exquisa\]](/ice-creamery/info/ingredients/#cream-cheese){target="_blank"}<sup>↗</sup> • click the link for UK / US equivalents
+  - _15g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • Sweetness = 60%; GI = 5; Density = 1.26 g/ml
+  - _10g_ [Brandy or Vodka 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup> • *alternative:* 8g (additional) VG for a sober recipe
+  - _14g_ [❔Coffee Liqueur 25 vol% \[Caffè Borghetti\]](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup> • if you have it, *instead of* the brandy/vodka
 
 **Dry**
 
-  - _30g_ ICSv2 [Erythritol / CMC / Tara / XG / Inulin] • [http﹕//bit.ly/4frc4Vj](https://jhermann.github.io/ice-creamery/I/Ice%20Cream%20Stabilizer%20(ICS)/)
-  - _25g_ [Skim Milkpowder 1:10 \[Vita2You\]](/ice-creamery/info/ingredients/#skim-milk-powder-smp){target="_blank"}<sup>↗</sup>
-  - _25g_ [Xylitol](/ice-creamery/info/ingredients/#xylitol-e967){target="_blank"}<sup>↗</sup> • Sweetness = 100%; GI = 7
-  - _25g_ [Whey protein Vanilla \[MaxiNutrition\]](/ice-creamery/info/ingredients/#whey-protein){target="_blank"}<sup>↗</sup>
+  - _40g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • *alternative:* 53g allulose or dextrose
+  - _10g_ [Salty Stability \[Inulin / GMS / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup> • *not-as-good substitute:* 1g guar, 0.3g xanthan, and 0.3g salt
+  - _10g_ [Whey + Casein protein (grass-fed) \[Vilgain\]](/ice-creamery/info/ingredients/#whey-protein){target="_blank"}<sup>↗</sup> • with stevia
+  - _20g_ [Skim milk powder 1:10 (SMP) \[Vita2You\]](/ice-creamery/info/ingredients/#skim-milk-powder-smp){target="_blank"}<sup>↗</sup>
+  - _3g_ ❔Instant Coffee [Mount Hagen] • *optional*, for a stronger coffee taste; 1.5g per 125ml
+  - _3g_ [❔Cocoa Powder Organic 11% \[Sevenhills\]](/ice-creamery/info/ingredients/#cocoa-powder){target="_blank"}<sup>↗</sup>
 
 **Fill to MAX**
 
-  - _50ml_ Cream 32% [REWE Beste Wahl]
-  - _65ml_ Water to MAX line
+  - _75ml_ Cream 32% [REWE Beste Wahl]
+  - _≈3 drops_ Flavor drops Caramel (sucralose) [IronMaxx] • to taste
 
 # DIRECTIONS
 
@@ -61,12 +69,12 @@ Rating: 😋😋😋😋☕
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
 
 # NUTRITIONAL & OTHER INFO
-- **Nutritional values per 100g/ml:** 100g; 95.7 kcal; fat 4.2g; carbs 10.9g; sugar 3.2g; protein 5.0g; salt 0.2g
-- **Nutritional values per ½ Deluxe Tub:** 360g; 344.3 kcal; fat 15.2g; carbs 39.2g; sugar 11.5g; protein 17.9g; salt 0.7g
-- **Nutritional values total:** 720g; 688.7 kcal; fat 30.4g; carbs 78.4g; sugar 23.1g; protein 35.8g; salt 1.4g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 29.18
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 20.78% • Low-Sugar • Hi-Protein
-- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 63.0g • 8.7%
-- **30g Ice Cream Stabilizer (ICSv2) is:** 14.3g erythritol, 1.43g Tylose powder (CMC, E466), 
-0.5g tara gum (E417), 0.15g xanthan (E415),
-14.3g inulin, 0.5g salt.
+
+- **Nutritional values per 100g/ml:** 100g; 95.7 kcal; fat 5.6g; carbs 11.6g; sugar 2.2g; protein 3.3g; salt 0.2g
+- **Nutritional values per ½ Deluxe Tub:** 340g; 325.4 kcal; fat 18.9g; carbs 39.6g; sugar 7.6g; protein 11.3g; salt 0.6g
+- **Nutritional values total:** 680g; 650.8 kcal; fat 37.9g; carbs 79.2g; sugar 15.1g; protein 22.7g; salt 1.1g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.78
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 13.92% • Low-Sugar
+- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 41.4g • 6.1%
+- **Net carbs:** 24.3g • *∝ 5 servings@136g:* 4.9g • *∝ 3 servings@227g:* 8.1g • *energy ratio (low <20%):* 14.9%
+- **10g 'Salty Stability' is:** 7.3g Inulin • 1.2g Glycerol Monostearate (GMS / E471) • 0.6g Tylose powder (E466, Tylo, CMC) • 0.4g Guar gum (E412) • 0.33g Salt • 0.13g Xanthan gum (E415, XG).
