@@ -26,16 +26,15 @@ tags:
 A version of “Coffee & Cream” with calories reduced by about 30%.
 
 Spun on Sorbet, followed by a scrape-down and a re-spin.
-Went to the freezer again for an hour to firm up.
 
-> <img width=220 alt="After Sorbet" src="_1.jpg" class="zoomable" />
-> <img width=220 alt="After Mix-in" src="_2.jpg" class="zoomable" />
-> <img width=220 alt="Scooped" src="_3.jpg" class="zoomable" />
+> <img width=330 alt="After Sorbet" src="Lean-Coffee_2025-08-29_1.jpg" class="zoomable" />
+> <img width=330 alt="After Respin" src="Lean-Coffee_2025-08-29_2.jpg" class="zoomable" />
+> <img width=330 alt="Scooped" src="Lean-Coffee_2025-08-29_3.jpg" class="zoomable" />
 
-The coffee flavor is there but not dominant,
-the consistency is soft and from experience will get a bit firmer after several hours in the freezer.
+The coffee flavor is clearly noticable and harmonizes with the cocoa in the background,
+the consistency is soft and will be firmer after several hours in the freezer.
 
-Rating: 😋😋😋😋☕
+Rating: 😋😋☕☕☕
 
 # INGREDIENTS
 
