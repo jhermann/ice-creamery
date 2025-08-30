@@ -22,6 +22,8 @@ tags:
 
 > *A slice of Italian sunshine, one scoop at a time.*
 
+<img style="float: left; margin-right: 1.5em;" width=180 alt="Ingredients" src="Lemon-Cake_2025-08-30_0.jpg" class="zoomable" />
+
 Inspired by Italian lemon ricotta cake, this captures the essence of the classic dessert in frozen form,
 and adds a spirited Limoncello twist (see the ingredients for a non-alcoholic alternative).
 
