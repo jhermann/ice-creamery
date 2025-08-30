@@ -23,7 +23,7 @@ suitable for low-carb diets.
  1. Heat the isomalt in a skillet on medium heat, until it melts at 150–160°C.
  1. Take off the heat and let cool for a minute.
  1. Mix in the nuts, stir until every piece is fully covered.
- 1. To cool down and harden, put the nuts in a single layer on a baking sheet covered with parchement paper, or onto a silicone mat.
+ 1. To cool down and harden, put the nuts in a single layer on a baking sheet covered with parchment paper, or onto a silicone mat.
  1. Store in an air-tight container, in the freezer.
 
 *Nutritional & Other Info*
