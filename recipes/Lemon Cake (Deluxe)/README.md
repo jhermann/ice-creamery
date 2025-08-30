@@ -15,6 +15,7 @@ tags:
 - Low-Sugar
 - Scoopable
 - Simple
+- Sucralose
 - Xylitol
 ---
 # Lemon Cake (Deluxe)
@@ -54,6 +55,11 @@ Rating: 😋🍋🍰 (untested)
 
   - _40g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • *alternative:* 53g allulose or dextrose
   - _0.25g_ Salt • 7 quick shakes (with my shaker)
+  - _1–2 pinches_ ❔Turmeric • *optional*, for color
+
+**Fill to MAX**
+
+  - _≈4 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
 
 # DIRECTIONS
 
@@ -61,6 +67,7 @@ Rating: 😋🍋🍰 (untested)
  1. Add "wet" ingredients to empty Creami tub.
  1. Weigh and mix dry ingredients, easiest by adding to a jar with a secure lid and shaking vigorously.
  1. Pour into the tub and *QUICKLY* use an immersion blender on full speed to homogenize everything.
+ 1. Add remaining ingredients (to the MAX line) and stir with a spoon.
  1. Put on the lid, freeze for 24h, then spin as usual. Flatten any humps before that.
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
 
