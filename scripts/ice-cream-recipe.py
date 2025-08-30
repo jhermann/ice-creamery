@@ -407,7 +407,7 @@ def main():
         reader = csv.reader(handle, delimiter=';')
         row = ''
         title = next(reader)[0]
-        is_topping = title.endswith(' (Topping)') or title.endswith(' (Mix-in)')
+        is_topping = title.endswith('Topping)') or title.endswith('Mix-in)')
         if is_topping:
             if 999 in images:
                 # No default image
