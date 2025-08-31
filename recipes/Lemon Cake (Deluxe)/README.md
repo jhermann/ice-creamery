@@ -32,11 +32,11 @@ Process on *Sorbet*, [hold it shortly under running water](https://jhermann.gith
 *after* that.
 Then a scrape-down and a respin or mix-in.<br clear=all />
 
-> <img width=220 alt="After Sorbet" src="_1.jpg" class="zoomable" />
-> <img width=220 alt="After Mix-in" src="_2.jpg" class="zoomable" />
-> <img width=220 alt="Scooped" src="_3.jpg" class="zoomable" />
+> <img width=220 alt="After Sorbet" src="Lemon-Cake_2025-08-31_1.jpg" class="zoomable" />
+> <img width=220 alt="After Mix-in" src="Lemon-Cake_2025-08-31_2.jpg" class="zoomable" />
+> <img width=220 alt="Scooped" src="Lemon-Cake_2025-08-31_3.jpg" class="zoomable" />
 
-Rating: 😋🍋🍰 (untested)
+Rating: 😋🍋🍋🍰🍰 (lemony-cheesy as expected, not very sour, but refreshing)
 
 > ℹ️ Read [About 'Simple' Recipes](/ice-creamery/info/tips%2Btricks/#about-simple-recipes) regarding 'exotic' ingredients and their alternatives.
 
