@@ -1,5 +1,5 @@
 ## Candied Nuts
-<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="logo-Candied-Nuts.png" />
+-<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="logo-Candied-Nuts.png" />
 
 Candied nuts made with isomalt offer a lower-calorie, tooth-friendly alternative
 to traditional sugar-coated varieties.
@@ -10,24 +10,31 @@ suitable for low-carb diets.
 
 *Ingredients*
 
-  - _50g_ Pecan nuts (organic) [Biojoy] • 10 halves = 15g
-  - _15g_ [Isomalt (E953) \[GoodBake\]](/ice-creamery/info/ingredients/#isomalt-e953){target="_blank"}<sup>↗</sup> • 3 heaped tsp
-  - _0.35g_ Salt • 10 quick shakes (with my shaker)
+  - _100g_ Pecan nuts (organic) [Biojoy] • 10 halves = 15g
+  - _30g_ [Isomalt (E953) \[GoodBake\]](/ice-creamery/info/ingredients/#isomalt-e953){target="_blank"}<sup>↗</sup> • 6 heaped tsp
+  - _5g_ Molasses [Grafschafter Goldsaft]
+  - _0.70g_ Salt • 18 quick shakes (with my shaker)
 
-> <img width=220 alt="Mise en place" src="Candied-Nuts_2025-08-30_1.jpg" class="zoomable" />
-> <img width=323 alt="Cooling down" src="Candied-Nuts_2025-08-30_2.jpg" class="zoomable" />
+> <img width=141 alt="Mise en place" src="Candied-Nuts_2025-08-30_1.jpg" class="zoomable" />
+> <img width=300 alt="Cooling down" src="Candied-Nuts_2025-08-31_1.jpg" class="zoomable" />
+> <img width=206 alt="Broken apart" src="Candied-Nuts_2025-08-31_2.jpg" class="zoomable" />
 
 *Directions*
 
- 1. To prepare the nuts, break them into halves or into smaller but uniformly sized pieces.
- 1. Heat the isomalt in a skillet on medium heat, until it melts at 150–160°C.
- 1. Take off the heat and let cool for a minute.
- 1. Mix in the nuts, stir until every piece is fully covered.
- 1. To cool down and harden, put the nuts in a single layer on a baking sheet covered with parchment paper, or onto a silicone mat.
+> ⚠️ Molten isomalt is dangerous and can *severely burn* you, so be vigilant.
+
+ 1. Preheat your oven to 170°C (340°F).
+ 1. *Optionally* break the nuts into smaller but uniformly sized pieces.
+ 1. Rinse the nuts shortly under running water, and drain the excess.
+ 1. Put them into a medium-sized bowl, drizzle the molasses over the nuts, and mix with a spoon to coat all pieces equally well.
+ 1. Sprinkle the isomalt crystals and salt over the nuts, and mix again for uniformly covering everything.
+ 1. Put the nuts in a single layer on a baking sheet covered with parchment paper, or onto a silicone / BBQ mat.
+ 1. Bake at 170°C for 13–17 minutes, until all crystals are molten.
+ 1. Let the nuts cool down and harden, check the temperature for below 40°C with an infrared thermometer.
  1. Store in an air-tight container, in the freezer.
 
 *Nutritional & Other Info*
 
-- **Nutritional values per 100g/ml:** 100g; 605.8 kcal; fat 55.1g; carbs 25.8g; sugar 3.1g; protein 7.0g; salt 0.5g
-- **Nutritional values per serving:** 22g; 133.3 kcal; fat 12.1g; carbs 5.7g; sugar 0.7g; protein 1.5g; salt 0.1g
-- **Nutritional values total:** 65g; 395.9 kcal; fat 36.0g; carbs 16.9g; sugar 2.0g; protein 4.6g; salt 0.4g
+- **Nutritional values per 100g/ml:** 100g; 594.8 kcal; fat 53.1g; carbs 27.4g; sugar 5.4g; protein 6.9g; salt 0.5g
+- **Nutritional values per serving:** 15g; 89.2 kcal; fat 8.0g; carbs 4.1g; sugar 0.8g; protein 1.0g; salt 0.1g
+- **Nutritional values total:** 136g; 807.1 kcal; fat 72.0g; carbs 37.2g; sugar 7.3g; protein 9.3g; salt 0.7g
