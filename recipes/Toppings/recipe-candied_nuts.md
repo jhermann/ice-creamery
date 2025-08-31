@@ -1,5 +1,5 @@
-## Candied Nuts
--<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="logo-Candied-Nuts.png" />
+## Candied Nuts (Mix-in or Topping)
+<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="logo-Candied-Nuts.png" />
 
 Candied nuts made with isomalt offer a lower-calorie, tooth-friendly alternative
 to traditional sugar-coated varieties.
