@@ -38,7 +38,9 @@ Then a scrape-down and a respin or mix-in.<br clear=all />
 
 Rating: 😋🍋🍋🍰🍰 (lemony-cheesy as expected, not very sour, but refreshing)
 
-> ℹ️ Read [About 'Simple' Recipes](/ice-creamery/info/tips%2Btricks/#about-simple-recipes) regarding 'exotic' ingredients and their alternatives.
+> <img width=442 alt="Served" src="Lemon-Cake_2025-08-31_4.jpg" class="zoomable" />
+
+ℹ️ Read [About 'Simple' Recipes](/ice-creamery/info/tips%2Btricks/#about-simple-recipes) regarding 'exotic' ingredients and their alternatives.
 
 # INGREDIENTS
 
