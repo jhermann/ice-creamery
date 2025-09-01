@@ -515,6 +515,20 @@ Combine xanthan with LBG for a cold gel. At certain ratios, like 7:3 LBG to XG,
 the synergistic effect is maximized, resulting in a harder gel.
 Heating can facilitate the formation of the gel network.
 
+### Waxy Maize Starch (E1442)
+This is a modified starch derived from waxy corn, used as a thickening agent, stabilizer, and texturizer
+(improves texture and mouthfeel). It tolerates a wide temperature range, acidity, and shear force,
+and has an excellent freeze-thaw stability, making it ideal for ice cream.
+
+It is a (off-)white fine powder with a bland odor and neutral taste.
+It produces transparent pastes, unlike most other starches that create an opaque look.
+
+In the US this is sold as *Clearjel*, and there is a widely available product
+named *Ultratex* (but you pay dearly for that branding).
+
+> 🧪 Also known as *Hydroxypropyl Distarch Phosphate*, E1442 is derived from natural waxy corn starch,
+> but is chemically modified to improve its properties.
+
 ## Emulsifiers
 
 Emulsifiers are major contributors to a smooth, creamy texture
