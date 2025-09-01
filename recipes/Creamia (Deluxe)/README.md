@@ -25,7 +25,7 @@ It's made with 25% fresh Hokkaido cream and 12.5% milk fat, giving it a higher b
 Cremia is typically served in a distinctive, buttery *langue de chat* (cat's tongue) cookie cone.
 
 The original UK YouTube recipe uses double cream (48% fat, 160:380), leading to 16.3% fat in total.
-It can be replacedd by Crème double or Mascarpone with 42% (190:355), or with whipping cream 32% (250:300).
+It can be replaced by Crème double or Mascarpone with 42% (190:355), or with whipping cream 32% (250:300).
 
 I also added some stabilizer so it does not melt so fast, and replaced the sugar.
 
