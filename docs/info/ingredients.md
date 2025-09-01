@@ -523,9 +523,9 @@ and has an excellent freeze-thaw stability, making it ideal for ice cream.
 It is a (off-)white fine powder with a bland odor and neutral taste.
 It produces transparent pastes, unlike most other starches that create an opaque look.
 
-In the US this is sold as *Clearjel*, and there is a widely available product
-named *Ultratex* (but you pay dearly for that branding).
-If you're looking for sources online, try searching for *modified corn starch* or *instant corn starch*.
+In the US this is sold as *Clearjel*, and if you're looking for sources online,
+try searching for *modified corn starch* or *instant corn starch*.
+There are not too many end-consumer products in the EU, and the price range is roughly €15 to €35 per kg.
 
 > 🧪 Also known as *Hydroxypropyl Distarch Phosphate*, E1442 is derived from natural waxy corn starch,
 > but is chemically modified to improve its properties.
