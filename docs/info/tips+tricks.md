@@ -86,7 +86,7 @@ These ratios are keeping the PAC / POD value as close as possible to the origina
 
  * **Erythritol** → 40% Honey + 60% Glycerin
  * **Xylitol** → 75% Honey + 25% Glycerin
- * **SweEX (E’ol+X’ol 3:2)** → 133% Allulose
+ * **SweEX (E’ol+X’ol 3:2)** → 133% Allulose *or* Dextrose
  * **SweEX (E’ol+X’ol 3:2)** → 55% Honey + 45% Glycerin
  * **SweEX (E’ol+X’ol 3:2)** → 50% Allulose + 20% Agave syrup + 35% Glycerin
  * **Trehalose** → 55% Dextrose *or* 50% Honey
