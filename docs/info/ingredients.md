@@ -525,6 +525,7 @@ It produces transparent pastes, unlike most other starches that create an opaque
 
 In the US this is sold as *Clearjel*, and there is a widely available product
 named *Ultratex* (but you pay dearly for that branding).
+If you're looking for sources online, try searching for *modified corn starch* or *instant corn starch*.
 
 > 🧪 Also known as *Hydroxypropyl Distarch Phosphate*, E1442 is derived from natural waxy corn starch,
 > but is chemically modified to improve its properties.
