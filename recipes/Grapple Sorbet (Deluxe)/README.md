@@ -18,7 +18,7 @@ tags:
 ---
 # Grapple Sorbet (Deluxe)
 
-This is an experiement to get to a (possibly) translucent
+This is an experiment to get to a (possibly) translucent
 ice cream, using just “clear” ingredients.
 
 You can replace the water — used to improve the macros (less sugar) — with juice,
