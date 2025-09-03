@@ -38,7 +38,7 @@ Rating: 😋🍎🍏🍇 (untested)
 
 **Wet**
 
-  - _300ml_ Apple Juice
+  - _300ml_ Apple Juice (clear, filtered)
   - _150ml_ Grape Juice (white)
   - _175ml_ Water (cold)
   - _20g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup>
@@ -53,6 +53,10 @@ Rating: 😋🍎🍏🍇 (untested)
 **Fill to MAX**
 
   - _≈1 drops_ [Stevia drops “natural” \[Nick’s\]](/ice-creamery/info/ingredients/#stevia-e960){target="_blank"}<sup>↗</sup> • to taste • unflavored
+
+**Optional / Choices**
+
+  - _225ml_ Pear Juice (clear, filtered) • instead of grape juice, reduce water accordingly [106kcal, 24g sugar]
 
 # DIRECTIONS
 

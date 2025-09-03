@@ -9,7 +9,7 @@ FPDF / PAC (target 20..30);30.24;;;;;;;;;;;;;
 "Protein / Energy Ratio (ok=12%; hi=20%)";0.80%;;;;LOW-FAT;;;;Low-Salt;;;;;
 ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);0.0;g;;0.0%;;;;;;;;;;
 ℹ️ Net carbs;84.9;g;;*∝ 5 servings@138g:* 17g;;;*∝ 3 servings@230g:* 28.3g;;;*energy ratio (low <20%):* 79.1%;;;;
-"This is an experiement to get to a (possibly) translucent
+"This is an experiment to get to a (possibly) translucent
 ice cream, using just “clear” ingredients.
 
 You can replace the water — used to improve the macros (less sugar) — with juice,
@@ -22,7 +22,7 @@ Rating: 😋🍎🍏🍇 (untested);;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment;0Carb[%];Counts?
-Apple Juice;300.00;ml;1;51.00;0.00;11.81;10.97;0.00;0.01;0.11;;;;1
+Apple Juice (clear, filtered);300.00;ml;1;51.00;0.00;11.81;10.97;0.00;0.01;0.11;;;;1
 Grape Juice (white);150.00;ml;1;67.00;0.50;16.00;16.00;0.50;0.07;0.16;;;;1
 Water (cold);175.00;ml;1;;;;;;;;;;;1
 Glycerin (E422, VG) [hd-line];20.00;g;1;400.00;;99.00;;;;3.70;;;50.00;1
@@ -31,3 +31,7 @@ Waxy Maize Starch (E1442) [Ultratex];15.00;g;2;391.00;0.15;97.00;0.00;0.50;0.50;
 Citric Acid;0.75;g;2;391.00;0.15;97.00;0.00;0.50;0.50;;;0.5–1g ≈ 15ml lemon juice;;1
 Xanthan gum (E415, XG);0.50;g;2;320.00;;78.00;;6.00;1.00;;;1tsp ≈ 2.8g;;1
 Stevia drops “natural” [Nick’s];≈1;drops;3;;;;;;;;;to taste • unflavored;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+Pear Juice (clear, filtered);225.00;ml;6;47.00;;11.00;10.50;;;0.11;;instead of grape juice, reduce water accordingly [106kcal, 24g sugar];;
