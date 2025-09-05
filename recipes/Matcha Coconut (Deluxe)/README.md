@@ -43,6 +43,11 @@ Process on SORBET and MIX-IN or RESPIN (choose depending on consistency you get 
 
 > <img width=480 alt="Served with Cocover" src="Matcha_2025-07-28_4.jpg" class="zoomable" />
 
+Heated base with 12g matcha, one spin on *Light Ice Cream*.
+
+> <img width=331 alt="Light Ice Cream" src="Matcha_2025-09-05_1.jpg" class="zoomable" />
+> <img width=331 alt="Scooped" src="Matcha_2025-09-05_2.jpg" class="zoomable" />
+
 # INGREDIENTS
 
 ℹ️ Brand names are in square brackets `[...]`.
