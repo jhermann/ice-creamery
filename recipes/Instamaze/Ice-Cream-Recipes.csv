@@ -1,0 +1,53 @@
+Instamaze;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;;;;
+Nutritional values per 100g/ml;100;g;;330.8;1.8;93.3;2.9;0.3;2.0;0.01;;;;
+Nutritional values per dose;25;g;;82.7;0.4;23.3;0.7;0.1;0.5;0.01;;;;
+Nutritional values total;300;g;;992.5;5.3;279.9;8.8;0.9;6.0;0.01;;;;
+;;;;;;;;;;;;;;
+FPDF;0.13;;;;;;;;;;;;;
+FPDF (w/o salt);0.01;;;;;;;;;;;;;
+Servings (Deluxe);12.00;;;;;;;;;;;;;
+ℹ️ Net carbs;182.0;g;;*∝ 12 servings@25g:* 15.2g;;;;*∝ 18 servings@17g:* 10.1g;;;;;;
+⚠️ **Work in progress!**;;;;;;;;;;;;;;
+"> *Unsweetened* pre-mixed starchy stabilizer for Ninja Creami recipes.
+
+It takes handling small amounts of ingredients and their ratio to each other 
+out of the process of mixing your final ice cream base,
+making the overall process less finicky.
+
+To prepare the mix, take a **BIG** bowl like used for baking, measure the ingredients on a scale,
+and whisk them carefully but thoroughly. A ball whisk works best.
+When done, store the powder in an air-tight container with enough volume.
+
+> **3 Ingredient Replacement**<br />In a pinch, you can replace one 15g dose of the mix by 1.5g guar, 0.5g xanthan, and 0.5g salt — scale other amounts accordingly.
+> Do not expect the exact same results as from the full blend.
+
+Adding bulk to the thickeners prevents clumping when blending them into your base.
+Drizzle the mix into the vortex of a running blender,
+or drop it into your mixing container and quickly integrate it with an immersion blender on full speed.
+Before that, combine this mix with any granulated sweetener or other dry / powdery ingredients you have.
+
+Use 25g of the mix for a Creami Deluxe tub (24oz, yields 12),
+and 17g for the regular size (16oz, yields 18).
+
+The salt is added for convenience with final recipes,
+and for a FPDF boost. Inulin and the starch bulk up the mix to be compatible with normal kitchen scales.";;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+"1. Weigh and mix dry ingredients, easiest by adding to a jar with a secure lid and shaking vigorously.
+ 1. Store in an air-tight container with enough volume.";;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;0carbs:;35.0;%;;;;;;;
+;;;;;;;;;;;;;;
+Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment;0Carb[%];Counts?
+Waxy Maize Starch (E1442) [Ultratex];160.00;g;2;391.00;0.15;97.00;0.00;0.50;0.50;;;"dissolves easily; use 1-5%";;1
+Inulin [Vit4ever];110.00;g;2;210.00;;97.00;8.00;;0.20;0.09;;"Sweetness = 8%; GI ~= 0";89.00;1
+Glycerol Monostearate (GMS / E471) [Bulk];17.00;g;2;550.00;30.00;70.00;;;;;;;;1
+Carboxymethyl Cellulose (CMC / E466) [GoodBake];6.00;g;2;600.00;;75.00;;;;;;;;1
+Salt;5.00;g;2;;;;;;100.00;5.90;;;;1
+Xanthan gum (E415, XG);2.00;g;2;320.00;;78.00;;6.00;1.00;;;1tsp ≈ 2.8g;;1
+Guar gum (E412);;g;2;180.00;0.60;84.00;0.00;5.50;0.30;;;;;1
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
