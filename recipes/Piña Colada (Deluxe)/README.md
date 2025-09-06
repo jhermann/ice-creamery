@@ -21,6 +21,11 @@ tags:
 # Piña Colada (Deluxe)
 <img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="logo-pina-colada.png" />
 
+> 🍍 *A tropical escape in every scoop.*
+
+Creamy coconut meets juicy pineapple, with a splash of Jamaica rum for island warmth
+— all blended with silky soy milk for a dairy-free indulgence.
+
 > 🌿 **Vegan & Dairy-free**<br />Recipe is using only coconut and soy.
 
 Process on *Light Ice Cream*, [hold it shortly under running water](https://jhermann.github.io/ice-creamery/info/tips%2Btricks/#handling-of-icy-sides-bottom)
