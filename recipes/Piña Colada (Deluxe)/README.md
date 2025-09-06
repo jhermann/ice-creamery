@@ -4,10 +4,12 @@ excluded_steps:
 - hydrating in hot water
 excluded_tags:
 - Allulose
+- Dairy$
 - Vanilla
 tags:
 - Alcohol
 - Coconut
+- Dairy-Free
 - Draft
 - Emulsifier
 - Erythritol
@@ -16,6 +18,7 @@ tags:
 - Scoopable
 - Sucralose
 - Tylo Powder (CMC)
+- Vegan
 - Xylitol
 ---
 # Piña Colada (Deluxe)
