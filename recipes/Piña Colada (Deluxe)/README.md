@@ -1,43 +1,66 @@
 ---
 description: Recipe for the Ninja Creami Deluxe [24oz]
+excluded_steps:
+- hydrating in hot water
+excluded_tags:
+- Allulose
+- Vanilla
 tags:
 - Alcohol
 - Coconut
 - Draft
+- Emulsifier
 - Erythritol
 - Fruit
 - Polysaccharide Gum
 - Scoopable
+- Sucralose
 - Tylo Powder (CMC)
 - Xylitol
 ---
 # Piña Colada (Deluxe)
 <img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="logo-pina-colada.png" />
 
+> 🌿 **Vegan & Dairy-free**<br />Recipe is using only coconut and soy.
+
+Process on *Light Ice Cream*, [hold it shortly under running water](https://jhermann.github.io/ice-creamery/info/tips%2Btricks/#handling-of-icy-sides-bottom)
+*after* that.Then a scrape-down and a respin.
+
+> <img width=220 alt="After Sorbet" src="_1.jpg" class="zoomable" />
+> <img width=220 alt="After Mix-in" src="_2.jpg" class="zoomable" />
+> <img width=220 alt="Scooped" src="_3.jpg" class="zoomable" />
+
 # INGREDIENTS
 
 ℹ️ Brand names are in square brackets `[...]`.
 
+**Prep**
+
+  - _130ml_ Water (hot)
+  - _70g_ [Coconut Milk Powder \[Green Essence\]](/ice-creamery/info/ingredients/#coconut-milk){target="_blank"}<sup>↗</sup>
+  - _3g_ [Glycerol Monostearate (E471) \[Bulk\]](/ice-creamery/info/ingredients/#glycerol-monostearate-gms-e471){target="_blank"}<sup>↗</sup> • *alternative:* lecithin
+
 **Wet**
 
   - _225g_ Pineapple in juice [REWE] • Can = 227g
-  - _200ml_ Coconut milk 22% [REWE Bio]
-  - _150ml_ Skim Milk 1.5% [Weihenstephan]
-  - _10g_ Glycerin (E422, VG) [hd-line] • Sweetness = 60%; GI = 5
-  - _20g_ Rum / Brandy 40 vol%
+  - _150ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
+  - _40g_ [Jamaica Rum 43 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup>
 
 **Dry**
 
-  - _20g_ ICSv2 [Erythritol / CMC / Tara / XG / Inulin] • [http﹕//bit.ly/4frc4Vj](https://github.com/jhermann/ice-creamery/tree/main/recipes/Ice%20Cream%20Stabilizer%20%28ICS%29)
-  - _20g_ Xylitol • Sweetness = 100%; GI = 7
-  - _20g_ Skim Milkpowder 1:10 [Vita2You]
+  - _20g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • *alternative:* 27g allulose or dextrose
+  - _15g_ [Waxy Maize Starch (E1442) \[Ultratex\]](/ice-creamery/info/ingredients/#waxy-maize-starch-e1442){target="_blank"}<sup>↗</sup> • dissolves easily; use 1-5%
+  - _1.5g_ [Carboxymethyl Cellulose (CMC / E466) \[GoodBake\]](/ice-creamery/info/ingredients/#carboxymethyl-cellulose-cmc-e466){target="_blank"}<sup>↗</sup> • *alternative:* guar gum (1:1)
 
 **Fill to MAX**
 
-  - _55ml_ Water to MAX line
+  - _25.5ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
+  - _≈4 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
 
 # DIRECTIONS
 
+ 1. Mix the coconut milk powder and the GMS in a medium-sized bowl.
+ 1. Add the hot water and whisk until clump-free.
  1. Add "wet" ingredients to empty Creami tub.
  1. Weigh and mix dry ingredients, easiest by adding to a jar with a secure lid and shaking vigorously.
  1. Pour into the tub and *QUICKLY* use an immersion blender on full speed to homogenize everything.
@@ -47,12 +70,11 @@ tags:
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
 
 # NUTRITIONAL & OTHER INFO
-- **Nutritional values per 100g/ml:** 100g; 125.9 kcal; fat 6.5g; carbs 14.2g; sugar 8.3g; protein 2.4g; salt 0.1g
-- **Nutritional values per ½ Deluxe Tub:** 360g; 453.2 kcal; fat 23.2g; carbs 51.1g; sugar 30.0g; protein 8.8g; salt 0.4g
-- **Nutritional values total:** 720g; 906.4 kcal; fat 46.4g; carbs 102.3g; sugar 59.9g; protein 17.6g; salt 0.8g
-- **FPDF / PAC (target 20..30):** 32.00
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 7.78% • Low-Salt
-- **Milk Solids Non-Fat (MSNF, 7-11%):** 32.5g • 4.5%
-- **30g Ice Cream Stabilizer (ICSv2) is:** 14.3g erythritol, 1.43g Tylose powder (CMC, E466), 
-0.5g tara gum (E417), 0.15g xanthan (E415),
-14.3g inulin, 0.5g salt.
+
+- **Nutritional values per 100g/ml:** 100g; 129.1 kcal; fat 6.1g; carbs 14.9g; sugar 5.1g; protein 1.6g; salt 0.0g
+- **Nutritional values per ½ Deluxe Tub:** 340g; 439.0 kcal; fat 20.7g; carbs 50.7g; sugar 17.3g; protein 5.5g; salt 0.2g
+- **Nutritional values total:** 680g; 877.9 kcal; fat 41.3g; carbs 101.4g; sugar 34.6g; protein 11.1g; salt 0.3g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 31.48
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 5.04% • Low-Salt
+- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 39.6g • 5.8%
+- **Net carbs:** 81.4g • *∝ 5 servings@136g:* 16.3g • *∝ 3 servings@227g:* 27.1g • *energy ratio (low <20%):* 37.1%
