@@ -45,7 +45,7 @@ Process on *Light Ice Cream*, [hold it shortly under running water](https://jher
 **Prep**
 
   - _130ml_ Water (hot)
-  - _70g_ [Coconut Milk Powder \[Green Essence\]](/ice-creamery/info/ingredients/#coconut-milk){target="_blank"}<sup>↗</sup>
+  - _70g_ [Coconut Milk Powder 54% \[Green Essence\]](/ice-creamery/info/ingredients/#coconut-milk){target="_blank"}<sup>↗</sup>
   - _3g_ [Glycerol Monostearate (E471) \[Bulk\]](/ice-creamery/info/ingredients/#glycerol-monostearate-gms-e471){target="_blank"}<sup>↗</sup> • *alternative:* lecithin
 
 **Wet**
