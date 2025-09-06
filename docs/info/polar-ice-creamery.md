@@ -211,3 +211,70 @@ Stabilizers are additives that significantly enhance the quality of homemade and
 -   **Pectin:** A "naturally occurring chemical in Fruit." Bonds to water and thickens, creating a gel, similar to its function in jams. However, powdered pectin can "go a bit gritty" in the freezer over time.
 -   **Sugar:** To a degree, sugar can "stabilize a lot of the free water," similar to making a syrup. Increasing sugar content can be an approach if avoiding other stabilizers.
 -   **Milk Powder:** "A great stabilizer." Bonds to free water and "increases solids." "Borderline essential for ice creams" to achieve adequate "milk solids non-fat (MSNF)," which impacts protein and lactose content. Crucial for dairy ice creams and a challenge for vegan recipes that need alternative solid-adding ingredients.
+
+## Homemade Ice Cream & Gelato: FAQ
+
+### Introduction
+
+This summarizes key themes and essential information regarding homemade ice cream and gelato making, addressing both novice and experienced home ice cream makers, covering general techniques, ingredient science, and flavor development.
+
+### Key Takeaways
+
+  - Balancing your recipes is important (especially regarding sugar, fat, and water content).
+  - Try to understand the role of various ingredients in a recipe.
+  - Use an ice cream machine for superior texture.
+  - While creativity in flavor development is encouraged, a scientific approach to ingredient ratios is paramount to overcome common issues like iciness and excessive hardness.
+
+### Ice Cream vs. Gelato: Key Distinctions
+
+The difference between ice cream and gelato is primarily their sugar and fat content, and a lesser-known factor, overrun.
+
+  -  **Sugar Content:** "Gelato generally has much higher sugar levels than American ice cream."
+  -  **Fat Content:** Gelato typically has 6-12% fat, while American ice cream ranges from 10% to 22–24% fat.
+  -  **Overrun:** Gelato has less overrun (air incorporated during churning) than American ice cream, though this is difficult to control in a home environment.
+
+### Preventing Rock-Hard & Icy Ice Cream
+
+Achieving the desired texture is a recurring challenge for home ice cream makers, with recipe balance and freezer management playing an important role.
+
+  -  **Freezing Point Balance (for hardness):** To prevent ice cream from becoming rock hard, it's crucial to "balance that freezing point of your ice cream, gelato, sorbet, whatever it is you're making." This involves adjusting sugars or sugar substitutes (dextrose, erythritol, allulose) and even alcohols or glycerin to achieve a desired serving temperature (e.g., -7°C).
+  -  **Controlling Ice Crystals (for iciness):** Icy ice cream is often due to "too much free water" in an unbalanced recipe.
+  -  **Freezer Type:** Frost-free freezers, with their "freeze thaw cycle," can exacerbate iciness by causing ice cream to partially melt and refreeze, encouraging larger ice crystals.
+
+### No-Churn Ice Cream Limitations
+
+While possible, no-churn methods have significant drawbacks compared to using an ice cream maker.
+
+  -  **Sugar Dependence:** No-churn ice cream "relies on certain ingredients to get that result. The biggest problem with no churn ice cream is the amount of sugar that it needs."
+  -  **Quality Discrepancy:** It's "far and away from the luxury product that that we are able to achieve with an ice cream machine."
+
+### Achieving Creamy Texture
+
+The secret to a super creamy texture primarily lies in the "amount of solids in your ice cream."
+
+  -  **Milk Solids/Fats:** "Those solids usually come from milk. So milk solids, milk fat, dairy fat, butter fat. That will have a huge impact on the creamy mouth feel of your ice cream."
+  -  **Recipe Balance:** Regardless of ingredients, "you do have to make sure that your recipe is balanced."
+
+### Ingredient Science & Usage
+
+Understanding how specific ingredients impact the final product is vital for successful ice cream making.
+
+  -  **Eggs:** Generally, limit eggs in recipes because "if you use too many egg yolks, you're tasting egg" and it can "muddy the flavors that you're trying to create." A "scientific approach to ice cream" is preferred for "true and strong" flavors.
+  -  **Malt Powder:** Malt extract acts "just like normal sugar" but also imparts deep flavors.
+  -  **Stabilizers:** Stabilizers "grab hold of any remaining water that is going to turn into a large ice crystal and turns it into either a gel or it just increases the viscosity," leading to smaller ice crystals and a "more luxurious kind of ice cream texture." Milk powder can also serve as a stabilizer.
+  -  **Fresh Fruit vs. Puree:** Fresh fruit contains "a lot of water," which needs to be cooked out or accounted for to prevent large ice crystals. Fruit purees have already addressed this water content. When adding fruit to dairy, expect a "milky version" of the flavor, not a "super strong kind of flavor" like a sorbet.
+  -  **Non-Dairy Milks:** Cashew milk is recommended for creamy non-dairy ice cream due to its high solids content. Almond milk is generally not recommended as it's "ultra low in solids and will generally just result in a pretty crappy ice cream."
+
+### Flavor & Recipe Development
+
+Some thoughts on recipe adaptability and creative flavor generation:
+
+  -  **No Universal Base Recipe:** "There is no catch-all. There is no one recipe that works for everything." Different ingredients (e.g., chocolate vs. vanilla, various fruits) have different fat, sugar, and water contents that require unique balancing.
+  -  **Flavor Inspiration:** Flavor creation is often about experimentation, mixing liked flavors, and embracing both successes and failures.
+  -  **Chocolate Types:**
+
+     - **White Chocolate:** Delicious but can be "a little bit sweet" and "can go quite cold" due to the type of fat (cocoa butter).
+     - **Milk Chocolate:** Flavor can be "quite weak," requiring boosting with cocoa powders and careful balancing.
+     - **Dark Chocolate:** Offers strong flavor but requires attention to its solids and fat content.
+
+  -  **Weird Flavors:** The concept of "weird" is subjective, varying greatly by personal taste and cultural preferences (e.g., black garlic ice cream, Kraft cheese ice cream).
