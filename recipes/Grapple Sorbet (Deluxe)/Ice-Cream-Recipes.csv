@@ -1,16 +1,18 @@
 Grapple Sorbet (Deluxe);;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 ;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;;
-Nutritional values per 100g/ml;100;g;;62.1;0.1;18.1;8.2;0.1;0.0;;;;;
-Nutritional values per ½ Deluxe Tub;340;g;;211.3;0.4;61.4;28.0;0.4;0.1;;;;;
-Nutritional values total;691;g;;429.6;0.8;124.9;56.9;0.9;0.2;;;;;
+Nutritional values per 100g/ml;100;g;;66.2;0.1;19.6;8.3;0.1;0.0;;;;;
+Nutritional values per ½ Deluxe Tub;340;g;;225.2;0.4;66.8;28.2;0.4;0.1;;;;;
+Nutritional values total;686;g;;454.6;0.8;134.7;56.9;0.9;0.2;;;;;
 ;;;;;;;;;;;;;;
-FPDF / PAC (target 20..30);30.24;;;;;;;;;;;;;
-"Protein / Energy Ratio (ok=12%; hi=20%)";0.80%;;;;LOW-FAT;;;;Low-Salt;;;;;
+FPDF / PAC (target 20..30);32.34;;;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";0.78%;;;;LOW-FAT;;;;Low-Salt;;;;;
 ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);0.0;g;;0.0%;;;;;;;;;;
-ℹ️ Net carbs;84.9;g;;*∝ 5 servings@138g:* 17g;;;*∝ 3 servings@230g:* 28.3g;;;*energy ratio (low <20%):* 79.1%;;;;
+ℹ️ Net carbs;89.7;g;;*∝ 5 servings@137g:* 17.9g;;;*∝ 3 servings@229g:* 29.9g;;;*energy ratio (low <20%):* 79%;;;;
 "This is an experiment to get to a (possibly) translucent
 ice cream, using just “clear” ingredients.
+
+> 🌿 **Vegan & Dairy-free**
 
 You can replace the water — used to improve the macros (less sugar) — with juice,
 but then you have to compensate by lowering VG and/or the sweetener.";;;;;;;;;;;;;;
@@ -24,13 +26,13 @@ Rating: 😋🍎🍏🍇 (untested);;;;;;;;;;;;;;
 Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment;0Carb[%];Counts?
 Apple Juice (clear, filtered);300.00;ml;1;51.00;0.00;11.81;10.97;0.00;0.01;0.11;;;;1
 Grape Juice (white);150.00;ml;1;67.00;0.50;16.00;16.00;0.50;0.07;0.16;;;;1
-Water (cold);175.00;ml;1;;;;;;;;;;;1
+Water (cold);160.00;ml;1;;;;;;;;;;;1
 Glycerin (E422, VG) [hd-line];20.00;g;1;400.00;;99.00;;;;3.70;;;50.00;1
-SweEX (Erythritol + Xylitol 3:2);30.00;g;2;109.60;;100.00;;;;2.56;;*alternative:* 40g allulose or dextrose;100.00;1
-Waxy Maize Starch (E1442) [Ultratex];15.00;g;2;391.00;0.15;97.00;0.00;0.50;0.50;;;"dissolves easily; use 1-5%";;1
+SweEX (Erythritol + Xylitol 3:2);35.00;g;2;109.60;;100.00;;;;2.56;;*alternative:* 47g allulose or dextrose;100.00;1
+Waxy Maize Starch (E1442) [Ultratex];20.00;g;2;391.00;0.15;97.00;0.00;0.50;0.50;;;"dissolves easily; use 1-5%";;1
 Citric Acid;0.75;g;2;391.00;0.15;97.00;0.00;0.50;0.50;;;0.5–1g ≈ 15ml lemon juice;;1
 Xanthan gum (E415, XG);0.50;g;2;320.00;;78.00;;6.00;1.00;;;1tsp ≈ 2.8g;;1
-Stevia drops “natural” [Nick’s];≈1;drops;3;;;;;;;;;to taste • unflavored;;
+Stevia drops “natural” [Nick’s];≈8;drops;3;;;;;;;;;to taste • unflavored;;
 ;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
