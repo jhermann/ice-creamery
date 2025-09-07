@@ -22,10 +22,13 @@ tags:
 # Grapple Sorbet (Deluxe)
 <img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="logo-Grapple_Sorbet.png" />
 
-This is an experiment to get to a (possibly) translucent
-ice cream, using just “clear” ingredients.
+This sorbet blends clear apple juice and white grape juice into a light, refreshing dessert with a smooth texture and a clean finish.
+It’s simple, bright, and easy to enjoy — perfect as a palate cleanser or a cool treat on warm days.
 
 > 🌿 **Vegan & Dairy-free**
+
+This is an experiment to get to a (possibly) translucent
+ice cream, using just “clear” ingredients.
 
 You can replace the water — used to improve the macros (less sugar) — with juice,
 but then you have to compensate by lowering VG and/or the sweetener.
