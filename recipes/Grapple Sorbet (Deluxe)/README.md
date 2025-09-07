@@ -20,6 +20,7 @@ tags:
 - Xylitol
 ---
 # Grapple Sorbet (Deluxe)
+<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="logo-Grapple_Sorbet.png" />
 
 This is an experiment to get to a (possibly) translucent
 ice cream, using just “clear” ingredients.
