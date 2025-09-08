@@ -428,9 +428,14 @@ For hydration, heat it to 80°C, or let it soak for a few minutes. Guar gum can 
 
 ### Hydroxypropyl Methylcellulose (HPMC / E464)
 
-HPMC (a/k/a Hypromellose) is used in ice cream as a stabilizer and emulsifier,
+HPMC (a/k/a Hypromellose) is used in ice cream as a stabilizer, emulsifier, and gelling agent,
 helping to improve texture, mouthfeel, and prevent ice crystal formation.
-It can also act as a fat replacer, providing creaminess without the added calories.
+It can also act as a fat replacer, providing creaminess without the added calories,
+and is a vegan and gluten-free alternative to gelatin.
+
+HPMC is a plant-derived, semisynthetic polymer that is well-tolerated and poses no significant health risks,
+acting like a water-soluble dietary fiber.
+It is resistant to heat and humidity and is used to protect moisture-sensitive ingredients in various products. 
 
 ### Locust Bean Gum (LBG / E410)
 LBG is a vegetable-based hydrocolloid extracted from the seeds of the carob tree.
