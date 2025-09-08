@@ -35,9 +35,13 @@ but then you have to compensate by lowering VG and/or the sweetener.
 
 Spin on “Sorbet”, scrape down, and re-mix.
 
-> <img width=220 alt="After Sorbet" src="_1.jpg" class="zoomable" />
-> <img width=220 alt="After Mix-in" src="_2.jpg" class="zoomable" />
-> <img width=220 alt="Scooped" src="_3.jpg" class="zoomable" />
+> <img width=220 alt="Frozen" src="Appear_2025-09-08_1.jpg" class="zoomable" />
+> <img width=220 alt="After Sorbet" src="Appear_2025-09-08_2.jpg" class="zoomable" />
+> <img width=220 alt="After Respin" src="Appear_2025-09-08_3.jpg" class="zoomable" />
+> <img width=220 alt="Scooped" src="Appear_2025-09-08_4.jpg" class="zoomable" />
+>
+> Apple + Pear juice
+
 
 Rating: 😋🍎🍏🍇 (untested)
 
