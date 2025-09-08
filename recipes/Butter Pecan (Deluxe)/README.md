@@ -22,11 +22,11 @@ tags:
 - Xylitol
 ---
 # Butter Pecan (Deluxe)
+<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="logo-Butter_Pecan.png" />
 
 A vanilla base with roasted pecan chunks infused with brown butter. What’s not to like (except the macros)? 😺
 
 Spin on “Sorbet”, scrape down, and re-mix.
-
 > <img width=360 alt="Spun Ice Cream" src="" class="zoomable" />
 
 Rating: 😋🧈 (untested)
