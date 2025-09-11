@@ -4,12 +4,13 @@ excluded_steps:
 - ingredients to empty Creami tub.
 - prepared dry ingredients
 excluded_tags:
-- Vanilla
+- Allulose
 - Emulsifier
+- Vanilla
 tags:
 - Cooked Base
-- Experimental
 - Erythritol
+- Experimental
 - Low-Fat
 - Low-Sugar
 - Polysaccharide Gum
@@ -24,7 +25,7 @@ tags:
 Hokkaido pumpkin, also known as Red Kuri squash or Japanese squash, is a small, orange-red winter squash
 with a distinct nutty flavor and edible skin.
 
-Split the melon along its ‘equator’, spoon out the seeds and any soft flesh, remove the ‘polar caps’.
+Split the pumpkin along its ‘equator’, spoon out the seeds and any soft flesh, remove the ‘polar caps’.
 Then use a vegetable knife or sharp peeler to remove the skin, and cut into manageable pieces.
 
 Finally follow the directions below.
@@ -60,24 +61,24 @@ Rating: 😋🎃🎃❄️ (very unique flavor, but probably needs to be passed 
 
   - _75ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
   - _16g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • Sweetness = 60%; GI = 5; Density = 1.26 g/ml
-  - _16g_ [Brandy or Vodka 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup>
+  - _16g_ [Brandy or Vodka 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup> • *alternative:* 13g (additional) VG for a sober recipe
   - _16g_ Honey
 
 **Dry**
 
-  - _20g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • POD ≈ 90%; GI < 7
+  - _20g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • *alternative:* 27g allulose or dextrose
   - _10g_ [Soy protein isolate (nature) \[Powerstar\]](/ice-creamery/info/ingredients/#soy-protein-isolate){target="_blank"}<sup>↗</sup> • unsweetened, unflavored
-  - _5g_ [Salty Stability \[Inulin / GMS / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup> • unsweetened “ICSv2”
+  - _5g_ [Salty Stability \[Inulin / GMS / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup> • *not-as-good substitute:* 0.5g guar, 0.2g xanthan, and 0.2g salt
 
 **Fill to MAX**
 
-  - _50ml_ Cream 32% [REWE Beste Wahl]
+  - _50ml_ Cream 32% [REWE Beste Wahl] • *alternative:* use coconut cream for dairy-free
   - _22ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
   - _≈7 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
 
 # DIRECTIONS
 
- 1. Put the pumpkin pieces into a saucepan, add very little water and a bit of salt, nutmeg, ginger, and tumeric.
+ 1. Put the pumpkin pieces into a saucepan, add very little water and a bit of salt, nutmeg, ginger, and turmeric.
  1. Put on a lid and steam the pumpkin flesh on low heat until soft, about 20–30 min. Stir occasionally, add a splash of water if needed.
  1. Let the puree cool down a bit, add to an empty Creami tub together with the ‘wet’ ingredients.
  1. Blend until smooth.
