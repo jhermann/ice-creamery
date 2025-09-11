@@ -1,14 +1,14 @@
 Piña Colada (Deluxe);;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 ;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;;
-Nutritional values per 100g/ml;100;g;;129.1;6.1;14.9;5.1;1.6;0.0;;;;;
-Nutritional values per ½ Deluxe Tub;340;g;;439.0;20.7;50.7;17.3;5.5;0.2;;;;;
-Nutritional values total;680;g;;877.9;41.3;101.4;34.6;11.1;0.3;;;;;
+Nutritional values per 100g/ml;100;g;;130.1;6.1;15.0;5.1;1.6;0.0;;;;;
+Nutritional values per ½ Deluxe Tub;340;g;;442.3;20.7;50.9;17.3;5.5;0.2;;;;;
+Nutritional values total;680;g;;884.6;41.3;101.8;34.6;11.0;0.3;;;;;
 ;;;;;;;;;;;;;;
 FPDF / PAC (target 20..30);31.48;;;;;;;;;;;;;
-"Protein / Energy Ratio (ok=12%; hi=20%)";5.04%;;;;;;;;Low-Salt;;;;;
-ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);39.6;g;;5.8%;;;;;;;;;;
-ℹ️ Net carbs;81.4;g;;*∝ 5 servings@136g:* 16.3g;;;*∝ 3 servings@227g:* 27.1g;;;*energy ratio (low <20%):* 37.1%;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";4.98%;;;;;;;;Low-Salt;;;;;
+ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);39.5;g;;5.8%;;;;;;;;;;
+ℹ️ Net carbs;81.8;g;;*∝ 5 servings@136g:* 16.4g;;;*∝ 3 servings@227g:* 27.3g;;;*energy ratio (low <20%):* 37%;;;;
 "> 🍍 *A tropical escape in every scoop.*
 
 Creamy coconut meets juicy pineapple, with a splash of Jamaica rum for island warmth
@@ -16,18 +16,19 @@ Creamy coconut meets juicy pineapple, with a splash of Jamaica rum for island wa
 
 > 🌿 **Vegan & Dairy-free**<br />Recipe is using only coconut and soy.";;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
-"Process on *Light Ice Cream*, [hold it shortly under running water](https://jhermann.github.io/ice-creamery/info/tips%2Btricks/#handling-of-icy-sides-bottom)
-*after* that.Then a scrape-down and a respin.";;;;;;;;;;;;;;
+Process on *Light Ice Cream*, then a scrape-down and a respin. <br clear=all />;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
+"Rating: 😋😋🍍🥥🥥
+
+Served with shaved chocolate and coco chips.";;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 "1. Mix the coconut milk powder and the GMS in a medium-sized bowl.
  1. Add the hot water and whisk until clump-free.";;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
 Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment;0Carb[%];Counts?
-Water (hot);130.00;ml;0;;;;;;;;;;;1
+Water (hot);130.00;ml;0;;;;;;;;;*alternative:* 200ml coconut milk 19.5%;;1
 Coconut Milk Powder 54% [Green Essence];70.00;g;0;640.00;55.00;40.25;1.25;6.25;0.13;;46.50;;;1
-Glycerol Monostearate (E471) [Bulk];3.00;g;0;415.00;;;;;;;;*alternative:* lecithin;;1
+Glycerol Monostearate (E471) [Bulk];4.00;g;0;415.00;;;;;;;;*alternative:* lecithin;;1
 Pineapple in juice [REWE];225.00;g;1;69.00;;16.00;15.00;0.60;0.00;0.15;;Can = 227g;;1
 Soy milk 1.6% (sugar-free) [Berief];150.00;ml;1;30.00;1.60;0.90;0.00;3.00;0.08;;4.00;;;1
 Jamaica Rum 43 vol%;40.00;g;1;300.00;;;;;;3.18;;;;1
@@ -35,9 +36,9 @@ Glycerin (E422, VG) [hd-line];;g;1;400.00;;99.00;;;;3.70;;"POD = 60%; GI = 5; De
 Coconut milk 22% [REWE Bio];;ml;1;222.00;22.00;4.00;4.00;2.00;0.04;0.04;;;;0
 SweEX (Erythritol + Xylitol 3:2);20.00;g;2;109.60;;100.00;;;;2.56;;*alternative:* 27g allulose or dextrose;100.00;1
 Waxy Maize Starch (E1442) [Ultratex];15.00;g;2;391.00;0.15;97.00;0.00;0.50;0.50;;;"dissolves easily; use 1-5%";;1
-Carboxymethyl Cellulose (CMC / E466) [GoodBake];1.50;g;2;600.00;;75.00;;;;;;*alternative:* guar gum (1:1);;1
+Carboxymethyl Cellulose (CMC / E466) [GoodBake];2.00;g;2;600.00;;75.00;;;;;;*alternative:* guar gum (1:1);;1
 ;;;;;;;;;;;;;;
-Soy milk 1.6% (sugar-free) [Berief];25.50;ml;3;30.00;1.60;0.90;0.00;3.00;0.08;;4.00;;;1
+Soy milk 1.6% (sugar-free) [Berief];24.00;ml;3;30.00;1.60;0.90;0.00;3.00;0.08;;4.00;;;1
 Flavor drops Vanilla (sucralose) [IronMaxx];≈4;drops;3;;;;;;;;;to taste;;
 ;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
