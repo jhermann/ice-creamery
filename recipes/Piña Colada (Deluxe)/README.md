@@ -10,7 +10,6 @@ tags:
 - Alcohol
 - Coconut
 - Dairy-Free
-- Draft
 - Emulsifier
 - Erythritol
 - Fruit
