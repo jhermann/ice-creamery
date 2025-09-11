@@ -31,12 +31,11 @@ Creamy coconut meets juicy pineapple, with a splash of Jamaica rum for island wa
 
 > 🌿 **Vegan & Dairy-free**<br />Recipe is using only coconut and soy.
 
-Process on *Light Ice Cream*, [hold it shortly under running water](https://jhermann.github.io/ice-creamery/info/tips%2Btricks/#handling-of-icy-sides-bottom)
-*after* that.Then a scrape-down and a respin.
+Process on *Light Ice Cream*, then a scrape-down and a respin.
 
-> <img width=220 alt="After Sorbet" src="_1.jpg" class="zoomable" />
-> <img width=220 alt="After Mix-in" src="_2.jpg" class="zoomable" />
-> <img width=220 alt="Scooped" src="_3.jpg" class="zoomable" />
+> <img width=220 alt="After Light Ice Cream" src="Pina-Colada_2025-09-11_1.jpg" class="zoomable" />
+> <img width=220 alt="After Respin" src="Pina-Colada_2025-09-11_2.jpg" class="zoomable" />
+> <img width=220 alt="Scooped" src="Pina-Colada_2025-09-11_3.jpg" class="zoomable" />
 
 # INGREDIENTS
 
