@@ -1,16 +1,17 @@
 ## Candied Buttercookies (Mix-in or Topping)
+<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="logo-candied_buttercookies.png" />
 
 Candied buttercookies or graham crackers, glazed with molasses and isomalt.
-
-> <img width=220 alt="Ready to bake" src="Candied-Buttercookies_2025-09-14_1.jpg" class="zoomable" />
-> <img width=220 alt="Baked" src="Candied-Buttercookies_2025-09-14_2.jpg" class="zoomable" />
-> <img width=125 alt="Cooling" src="Candied-Buttercookies_2025-09-14_3.jpg" class="zoomable" />
 
 Isomalt, a sugar alcohol derived from beet sugar, provides a crisp texture and mild sweetness
 while maintaining a glossy finish that resists moisture. Its low glycemic index keeps the
 sugar added to the cookies in check.
 
-> ⚠️ Molten isomalt is dangerous and can *severely burn* you, so be vigilant.
+> ⚠️ Molten isomalt is dangerous and can *severely burn* you, so be vigilant.<br clear=all />
+
+> <img width=220 alt="Ready to bake" src="Candied-Buttercookies_2025-09-14_1.jpg" class="zoomable" />
+> <img width=220 alt="Baked" src="Candied-Buttercookies_2025-09-14_2.jpg" class="zoomable" />
+> <img width=125 alt="Cooling" src="Candied-Buttercookies_2025-09-14_3.jpg" class="zoomable" />
 
 *Ingredients*
 
@@ -21,12 +22,12 @@ sugar added to the cookies in check.
 *Directions*
 
  1. Preheat your oven to 170°C (340°F).
- 1. Drizzle a dollop of molasses on every 2nd cookie, and use the other one in each pair to equally spread it over one side of each cookie.
- 1. Pour the isomalt into a small flat container (ideally only a bit larger than the cookies), and coat each cookie with isomalt, using the molasses as the glue.
- 1. Put the cookies on a baking sheet covered with parchment paper, or onto a silicone / BBQ mat.
- 1. Bake at 170°C for 11–15 minutes, until all crystals are molten.
- 1. Let the cookies cool down and harden, check the temperature for below 40°C with an infrared thermometer.
- 1. Store in an air-tight container.
+ 2. Drizzle a dollop of molasses on every 2nd cookie, and use the other one in each pair to equally spread it over one side of each cookie.
+ 3. Pour the isomalt into a small flat container (ideally only a bit larger than the cookies), and coat each cookie with isomalt, using the molasses as the glue.
+ 4. Put the cookies on a baking sheet covered with parchment paper, or onto a silicone / BBQ mat.
+ 5. Bake at 170°C for 11–15 minutes, until all crystals are molten.
+ 6. Let the cookies cool down and harden, check the temperature for below 40°C with an infrared thermometer.
+ 7. Store in an air-tight container.
 
 *Nutritional & Other Info*
 
