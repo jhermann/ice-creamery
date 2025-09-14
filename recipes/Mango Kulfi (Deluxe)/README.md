@@ -16,8 +16,8 @@ tags:
 - Scoopable
 - Sucralose
 - Tylo Powder (CMC)
-- Xylitol
 - Vegan
+- Xylitol
 ---
 # Mango Kulfi (Deluxe)
 <img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/assets/mango-ice-cream-logo.png" />
@@ -48,20 +48,20 @@ Rating: 😋🥥🥭  (changed recipe)
 
   - _300g_ Mango
   - _30ml_ Lemon juice
-  - _15g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • POD = 60%; GI = 5; Density = 1.26 g/ml
-  - _10g_ [Brandy or Vodka 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup>
+  - _15g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup>
+  - _10g_ [Brandy or Vodka 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup> • *alternative:* 8g (additional) VG for a sober recipe
 
 **Dry**
 
   - _35g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • *alternative:* 47g allulose or dextrose
   - _10g_ [Salty Stability \[Inulin / GMS / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup> • *not-as-good substitute:* 1g guar, 0.3g xanthan, and 0.3g salt
-  - _10g_ [Waxy Maize Starch (E1442) \[Ultratex\]](/ice-creamery/info/ingredients/#waxy-maize-starch-e1442){target="_blank"}<sup>↗</sup> • dissolves easily; use 1-5%
+  - _5g_ [Waxy Maize Starch (E1442) \[Ultratex\]](/ice-creamery/info/ingredients/#waxy-maize-starch-e1442){target="_blank"}<sup>↗</sup> • *optional*
   - _1 pinch_ Cardamom
 
 **Fill to MAX**
 
-  - _42ml_ Water to MAX line
-  - _≈7 drops_ Flavor drops Peach / Maracuja (sucralose) [IronMaxx] • to taste
+  - _48ml_ Water to MAX line
+  - _≈4 drops_ Flavor drops Peach / Maracuja (sucralose) [IronMaxx] • to taste
 
 # DIRECTIONS
 
@@ -77,11 +77,11 @@ Rating: 😋🥥🥭  (changed recipe)
 
 # NUTRITIONAL & OTHER INFO
 
-- **Nutritional values per 100g/ml:** 100g; 129.3 kcal; fat 6.3g; carbs 20.4g; sugar 6.0g; protein 1.0g; salt 0.1g
-- **Nutritional values per ½ Deluxe Tub:** 340g; 439.6 kcal; fat 21.6g; carbs 69.3g; sugar 20.5g; protein 3.3g; salt 0.3g
-- **Nutritional values total:** 680g; 879.8 kcal; fat 43.2g; carbs 138.6g; sugar 41.0g; protein 6.7g; salt 0.5g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 32.00
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 3.03% • Low-Salt
+- **Nutritional values per 100g/ml:** 100g; 125.7 kcal; fat 6.3g; carbs 19.7g; sugar 6.0g; protein 1.0g; salt 0.1g
+- **Nutritional values per ½ Deluxe Tub:** 340g; 427.2 kcal; fat 21.6g; carbs 66.9g; sugar 20.5g; protein 3.3g; salt 0.2g
+- **Nutritional values total:** 680g; 854.5 kcal; fat 43.1g; carbs 133.7g; sugar 41.0g; protein 6.6g; salt 0.5g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 31.99
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 3.10% • Low-Salt
 - **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 34.9g • 5.1%
-- **Net carbs:** 88.7g • *∝ 5 servings@136g:* 17.7g • *∝ 3 servings@227g:* 29.6g • *energy ratio (low <20%):* 40.3%
+- **Net carbs:** 83.9g • *∝ 5 servings@136g:* 16.8g • *∝ 3 servings@227g:* 28g • *energy ratio (low <20%):* 39.3%
 - **10g 'Salty Stability' is:** 7.3g Inulin • 1.2g Glycerol Monostearate (GMS / E471) • 0.6g Tylose powder (E466, Tylo, CMC) • 0.4g Guar gum (E412) • 0.33g Salt • 0.13g Xanthan gum (E415, XG).
