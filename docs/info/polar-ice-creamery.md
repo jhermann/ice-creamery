@@ -87,6 +87,8 @@ Erythritol is presented as a sugar alcohol with potential benefits for health-co
 > Stabilizers are crucial for improving ice cream texture, longevity, and
 > overall quality by controlling ice crystal formation, air bubble size,
 > and maintaining a smooth, creamy mouthfeel.
+>
+> See also [Thickeners](/ice-creamery/info/ingredients/#thickeners) and [Emulsifiers](/ice-creamery/info/ingredients/#emulsifiers) on the *Ingredients* page.
 
 ### Overview
 
