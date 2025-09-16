@@ -314,7 +314,8 @@ Using only a singular thickener means you often miss out on synergistic effects 
   * *Soy Lecithin + LBG + GG + λC* (eggless): 4:4:2:1, 1g+1g+0.5g+0.25g / 1kg (0.4% of water weight); has to be heated to >80°C for full LBG hydration.
   * *CMC + GG + λC* (sorbet): 2:1:1, 2g+1g+1g / 1kg (0.5% of water weight); no cooking; add 1g lecithin when you have fatty ingredients (nut butter, melted chocolate, ...).
 
-> 💡 See also [A Guide to Gums](https://blog.modernistpantry.com/advice/reference-sheets/a-guide-to-gums/) by *Kitchen Alchemy*.
+> 💡 See also [A Guide to Gums](https://blog.modernistpantry.com/advice/reference-sheets/a-guide-to-gums/) by *Kitchen Alchemy*,
+> and [The Purpose and Nature of Ice Cream Stabilizers](/ice-creamery/info/polar-ice-creamery/#the-purpose-and-nature-of-ice-cream-stabilizers).
 
 ### Acacia Gum (Gum Arabic / E414)
 
