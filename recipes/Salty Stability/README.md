@@ -37,6 +37,11 @@ Before that, combine this mix with any granulated sweetener or other dry / powde
 Use 15g of the mix for a Creami Deluxe tub (24oz, yields 10),
 and 10g for the regular size (16oz, yields 15).
 
+For optimal results regarding texture and ice crystal prevention, heat suitable parts of the liquids
+in your recipe (e.g. the milk, at least 200ml or so) to somewhere between 50°C and 80°C, and blend the mix plus other dry
+ingredients into the hot liquid. This improves hydration of gums, dissolves your sugars, and activates
+the emulsifier.
+
 The salt is added for convenience with final recipes,
 and for a FPDF boost. Inulin bulks up the mix to be compatible with normal kitchen scales.
 
