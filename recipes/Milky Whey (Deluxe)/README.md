@@ -21,6 +21,8 @@ tags:
 an ice cream crafted with whole milk, cream, skim milk powder, and a balanced whey–casein blend.
 
 > <img width=180 alt="Lemon Wafer Mix-in" src="Wafers-Lemon_2025-09-17.jpg" class="zoomable" />
+> 
+> *Wafers filled with lemon crème<br />recommended as a mix-in.*
 
 This recipe leans into the richness of real dairy while showcasing the smooth body and creamy texture
 that milk proteins bring — making it both fun in name and seriously good in pure milk flavor.<br clear=all />
