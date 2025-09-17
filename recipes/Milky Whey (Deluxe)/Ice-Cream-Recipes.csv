@@ -1,0 +1,40 @@
+Milky Whey (Deluxe);;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;;
+Nutritional values per 100g/ml;100;g;;108.1;4.4;13.9;5.2;5.5;0.3;;;;;
+Nutritional values per ½ Deluxe Tub;340;g;;367.5;14.8;47.3;17.6;18.6;1.0;;;;;
+Nutritional values total;681;g;;736.1;29.7;94.6;35.2;37.3;2.1;;;;;
+;;;;;;;;;;;;;;
+FPDF / PAC (target 20..30);31.59;;;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";20.28%;;;;;;;Hi-Protein;;;;;;
+ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);78.9;g;;11.6%;;;;;;;;;;
+ℹ️ Net carbs;57.1;g;;*∝ 5 servings@136g:* 11.4g;;;*∝ 3 servings@227g:* 19g;;;*energy ratio (low <20%):* 31%;;;;
+;;;;;;;;;;;;;;
+"""Milky Whey"" is a playful nod to both dairy science and indulgence,
+an ice cream crafted with whole milk, cream, skim milk powder, and a balanced whey–casein blend.
+
+This recipe leans into the richness of real dairy while showcasing the smooth body and creamy texture
+that milk proteins bring — making it both fun in name and seriously good in pure milk flavor.<br clear=all />";;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+Spin on “Sorbet”, scrape down, and re-mix. Manually mix in wafers filled with lemon crème.;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+"Rating: 😋🥛🍦🍋🧇  (untested)
+
+<!-- SNIPPET: alcohol -->";;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment;0Carb[%];Counts?
+Milk 3.5% [Weihenstephan];550.00;ml;1;64.00;3.50;4.70;4.70;3.50;0.13;0.05;8.97;;;1
+Glycerin (E422, VG) [hd-line];15.00;g;1;400.00;;99.00;;;;3.70;;;50.00;1
+Brandy or Vodka 40 vol%;10.00;g;1;280.00;;;;;;2.96;;*alternative:* 8g (additional) VG for a sober recipe;;1
+Cream Cheese 23% [Exquisa];;g;1;238.00;22.50;3.00;3.00;5.50;0.70;0.03;9.64;click the link for UK / US equivalents;;1
+SweEX (Erythritol + Xylitol 3:2);30.00;g;2;109.60;;100.00;;;;2.56;;*alternative:* 40g allulose or dextrose;100.00;1
+Skim milk powder 1:10 (SMP) [Vita2You];15.00;g;2;358.00;0.97;50.50;50.50;35.00;1.00;0.51;94.03;;;1
+Waxy Maize Starch (E1442) [Ultratex];15.00;g;2;391.00;0.15;97.00;0.00;0.50;0.50;;;"dissolves easily; use 1-5%";;1
+Whey + Casein protein (grass-fed) [Vilgain];15.00;g;2;384.00;4.60;5.70;5.60;80.00;0.50;0.06;90.40;with stevia;;1
+Salt;1.00;g;2;;;;;;100.00;5.90;;26 quick shakes (with my shaker);;1
+;;;;;;;;;;;;;;
+Cream 32% [REWE Beste Wahl];30.00;ml;3;311.00;32.00;3.20;3.20;2.50;0.13;0.03;6.32;;;1
+Flavor drops “Natural” (stevia) [Nick’s];≈1;drops;3;;;;;;;;;to taste • unflavored;;
+;;;;;;;;;;;;;;
+Wafers (filled w/ lemon crème) [Manner];30.00;g;4;503.00;25.00;66.00;46.00;2.90;0.10;0.46;;"*manually* mix in; 400g bag; 1pc ~7.5g [151kcal, 14g sugar]";;
