@@ -21,17 +21,16 @@ tags:
 an ice cream crafted with whole milk, cream, skim milk powder, and a balanced whey–casein blend.
 
 > <img width=180 alt="Lemon Wafer Mix-in" src="Wafers-Lemon_2025-09-17.jpg" class="zoomable" />
->
-> *Wafers filled with lemon crème<br />recommended as a mix-in.*
 
 This recipe leans into the richness of real dairy while showcasing the smooth body and creamy texture
 that milk proteins bring — making it both fun in name and seriously good in pure milk flavor.<br clear=all />
 
-Spin on “Sorbet”, scrape down, and re-mix. Manually mix in wafers filled with lemon crème.
+Spin on “Light Ice Cream”, scrape down, and re-mix if needed. *Manually* mix in broken down wafers.
 
-> <img width=220 alt="After Sorbet" src="_1.jpg" class="zoomable" />
-> <img width=220 alt="After Mix-in" src="_2.jpg" class="zoomable" />
-> <img width=220 alt="Scooped" src="_3.jpg" class="zoomable" />
+> <img width=220 alt="After Light Ice Cream" src="_1.jpg" class="zoomable" />
+> <img width=220 alt="After Respin" src="_2.jpg" class="zoomable" />
+> <img width=220 alt="With Mix-in added" src="_3.jpg" class="zoomable" />
+> <img width=220 alt="Scooped" src="_4.jpg" class="zoomable" />
 
 Rating: 😋🥛🍦🍋🧇  (untested)
 
@@ -53,15 +52,15 @@ Rating: 😋🥛🍦🍋🧇  (untested)
 **Dry**
 
   - _30g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • *alternative:* 40g allulose or dextrose
+  - _20g_ [Waxy Maize Starch (E1442) \[Ultratex\]](/ice-creamery/info/ingredients/#waxy-maize-starch-e1442){target="_blank"}<sup>↗</sup> • dissolves easily; use 1-5%
+  - _20g_ [Whey + Casein protein (grass-fed) \[Vilgain\]](/ice-creamery/info/ingredients/#whey-protein){target="_blank"}<sup>↗</sup> • with stevia
   - _15g_ [Skim milk powder 1:10 (SMP) \[Vita2You\]](/ice-creamery/info/ingredients/#skim-milk-powder-smp){target="_blank"}<sup>↗</sup>
-  - _15g_ [Waxy Maize Starch (E1442) \[Ultratex\]](/ice-creamery/info/ingredients/#waxy-maize-starch-e1442){target="_blank"}<sup>↗</sup> • dissolves easily; use 1-5%
-  - _15g_ [Whey + Casein protein (grass-fed) \[Vilgain\]](/ice-creamery/info/ingredients/#whey-protein){target="_blank"}<sup>↗</sup> • with stevia
-  - _1g_ Salt • 26 quick shakes (with my shaker)
+  - _1g_ Salt
 
 **Fill to MAX**
 
   - _30ml_ Cream 32% [REWE Beste Wahl]
-  - _≈1 drops_ Flavor drops “Natural” (stevia) [Nick’s] • to taste • unflavored
+  - _≈5 drops_ Flavor drops “Natural” (stevia) [Nick’s] • to taste • unflavored
 
 **Mix-ins**
 
@@ -79,10 +78,10 @@ Rating: 😋🥛🍦🍋🧇  (untested)
 
 # NUTRITIONAL & OTHER INFO
 
-- **Nutritional values per 100g/ml:** 100g; 108.1 kcal; fat 4.4g; carbs 13.9g; sugar 5.2g; protein 5.5g; salt 0.3g
-- **Nutritional values per ½ Deluxe Tub:** 340g; 367.5 kcal; fat 14.8g; carbs 47.3g; sugar 17.6g; protein 18.6g; salt 1.0g
-- **Nutritional values total:** 681g; 736.1 kcal; fat 29.7g; carbs 94.6g; sugar 35.2g; protein 37.3g; salt 2.1g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 31.59
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 20.28% • Hi-Protein
-- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 78.9g • 11.6%
-- **Net carbs:** 57.1g • *∝ 5 servings@136g:* 11.4g • *∝ 3 servings@227g:* 19g • *energy ratio (low <20%):* 31%
+- **Nutritional values per 100g/ml:** 100g; 112.1 kcal; fat 4.3g; carbs 14.4g; sugar 5.1g; protein 6.0g; salt 0.3g
+- **Nutritional values per ½ Deluxe Tub:** 340g; 381.3 kcal; fat 14.7g; carbs 49.1g; sugar 17.5g; protein 20.3g; salt 1.0g
+- **Nutritional values total:** 691g; 774.9 kcal; fat 29.9g; carbs 99.8g; sugar 35.5g; protein 41.4g; salt 2.1g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 31.22
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 21.35% • Hi-Protein
+- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 83.4g • 12.1%
+- **Net carbs:** 62.3g • *∝ 5 servings@138g:* 12.5g • *∝ 3 servings@230g:* 20.8g • *energy ratio (low <20%):* 32.1%
