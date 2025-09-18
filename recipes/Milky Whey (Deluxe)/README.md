@@ -7,7 +7,6 @@ excluded_tags:
 - Vanilla
 tags:
 - Dairy
-- Draft
 - Erythritol
 - Hi-Protein
 - Scoopable
