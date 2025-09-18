@@ -38,7 +38,7 @@ Spin on “Ice Cream”, scrape down, and respin.
 *Manually* mix in broken down wafers using a chopstick.
 
 > <img width=330 alt="Scooped With Mix-in added" src="Milky-Whey_2025-09-18_5.jpg" class="zoomable" />
-> <img width=330 alt="Served" src="_8.jpg" class="zoomable" />
+> <img width=330 alt="Served" src="Milky-Whey_2025-09-18_8.jpg" class="zoomable" />
 
 Rating: 😋🥛🍦🍋🧇  (tastes like milk 😼)
 
