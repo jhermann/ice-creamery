@@ -27,14 +27,25 @@ an ice cream crafted with whole milk, cream, skim milk powder, and a balanced wh
 This recipe leans into the richness of real dairy while showcasing the smooth body and creamy texture
 that milk proteins bring — making it both fun in name and seriously good in pure milk flavor.<br clear=all />
 
-Spin on “Light Ice Cream”, scrape down, and re-mix if needed. *Manually* mix in broken down wafers.
+> <img width=330 alt="After Ice Cream" src="Milky-Whey_2025-09-18_1.jpg" class="zoomable" />
+> <img width=330 alt="After Respin" src="Milky-Whey_2025-09-18_2.jpg" class="zoomable" />
 
-> <img width=220 alt="After Light Ice Cream" src="_1.jpg" class="zoomable" />
-> <img width=220 alt="After Respin" src="_2.jpg" class="zoomable" />
-> <img width=220 alt="With Mix-in added" src="_3.jpg" class="zoomable" />
-> <img width=220 alt="Scooped" src="_4.jpg" class="zoomable" />
+Spin on “Ice Cream”, scrape down, and respin.
 
-Rating: 😋🥛🍦🍋🧇  (untested)
+> <img width=330 alt="Crumbled Wafers" src="Milky-Whey_2025-09-18_3.jpg" class="zoomable" />
+> <img width=330 alt="Fill the Hole" src="Milky-Whey_2025-09-18_4.jpg" class="zoomable" />
+
+*Manually* mix in broken down wafers using a chopstick.
+
+> <img width=330 alt="Scooped With Mix-in added" src="Milky-Whey_2025-09-18_5.jpg" class="zoomable" />
+> <img width=330 alt="Served" src="_8.jpg" class="zoomable" />
+
+Rating: 😋🥛🍦🍋🧇  (tastes like milk 😼)
+
+> <img width=232 alt="Temperature from Freezer" src="Milky-Whey_2025-09-18_6.jpg" class="zoomable" />
+> <img width=412 alt="Temperature after Processing" src="Milky-Whey_2025-09-18_7.jpg" class="zoomable" />
+
+Temperature of the base before and after processing.
 
 > 💡 **Alcohol Replacement**<br />
 > If you don't want alcohol in your ice cream, or prepare it for kids,
@@ -66,7 +77,7 @@ Rating: 😋🥛🍦🍋🧇  (untested)
 
 **Mix-ins**
 
-  - _30g_ Wafers (filled w/ lemon crème) [Manner] • *manually* mix in; 400g bag; 1pc ~7.5g [151kcal, 14g sugar]
+  - _45g_ Wafers (filled w/ lemon crème) [Manner] • *manually* mix in; 400g bag; 1pc ~7.5g [226kcal, 21g sugar]
 
 # DIRECTIONS
 
