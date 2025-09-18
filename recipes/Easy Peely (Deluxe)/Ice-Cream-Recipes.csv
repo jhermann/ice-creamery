@@ -1,0 +1,34 @@
+Easy Peely (Deluxe);;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;;
+Nutritional values per 100g/ml;100;g;;92.5;0.9;22.5;8.2;1.7;0.2;;;;;
+Nutritional values per ½ Deluxe Tub;340;g;;314.4;3.0;76.3;27.7;5.8;0.7;;;;;
+Nutritional values total;685;g;;633.4;6.1;153.8;55.8;11.8;1.4;;;;;
+;;;;;;;;;;;;;;
+FPDF / PAC (target 20..30);31.06;;;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";7.43%;;;;LOW-FAT;;;;;;;;;
+ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);10.0;g;;1.5%;;;;;;;;;;
+ℹ️ Net carbs;99.0;g;;*∝ 5 servings@137g:* 19.8g;;;*∝ 3 servings@228g:* 33g;;;*energy ratio (low <20%):* 62.5%;;;;
+;;;;;;;;;;;;;;
+"Banana recipe with fewer ingredients and 50% bananas.
+
+> 🌿 **Vegan & Dairy-free**";;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+Spin on “Light Ice Cream”, scrape down, and re-mix.;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+Rating: 😋🍌 (untested);;;;;;;;;;;;;;
+"1. Blend the bananas and the other ‘prep’ ingredients in an empty tub to a smooth puree.
+ 1. Add ""wet"" ingredients to the banana puree, and blend to combine.";;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment;0Carb[%];Counts?
+Bananas (peeled);340.00;g;0;108.00;0.60;21.50;16.00;1.22;0.03;0.16;;;;1
+Lemon juice;15.00;ml;0;25.00;0.10;3.36;1.65;0.30;0.01;0.02;;;;1
+Soy milk 1.6% (sugar-free) [Berief];250.00;ml;1;30.00;1.60;0.90;0.00;3.00;0.08;;4.00;use any other preferred milk (~2% fat);;1
+Glycerin (E422, VG) [hd-line];15.00;g;1;400.00;;99.00;;;;3.70;;;50.00;1
+SweEX (Erythritol + Xylitol 3:2);34.00;g;2;109.60;;100.00;;;;2.56;;*alternative:* 45g allulose or dextrose;100.00;1
+Inulin [Vit4ever];15.00;g;2;210.00;;97.00;8.00;;0.20;0.09;;"Sweetness = 8%; GI ~= 0";89.00;1
+Waxy Maize Starch (E1442) [Ultratex];15.00;g;2;391.00;0.15;97.00;0.00;0.50;0.50;;;"dissolves easily; use 1-5%";;1
+Salt;1.00;g;2;;;;;;100.00;5.90;;;;1
+Whey + Casein protein (grass-fed) [Vilgain];;g;2;384.00;4.60;5.70;5.60;80.00;0.50;0.06;90.40;"with stevia; use plant protein for vegan";;0
+;;;;;;;;;;;;;;
+Flavor drops Vanilla (sucralose) [IronMaxx];≈1;drops;3;;;;;;;;;to taste;;
