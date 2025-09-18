@@ -1,14 +1,14 @@
 Milky Whey (Deluxe);;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 ;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;;
-Nutritional values per 100g/ml;100;g;;112.1;4.3;14.4;5.1;6.0;0.3;;;;;
-Nutritional values per ½ Deluxe Tub;340;g;;381.3;14.7;49.1;17.5;20.3;1.0;;;;;
-Nutritional values total;691;g;;774.9;29.9;99.8;35.5;41.4;2.1;;;;;
+Nutritional values per 100g/ml;100;g;;112.3;4.3;14.6;5.1;6.0;0.3;;;;;
+Nutritional values per ½ Deluxe Tub;340;g;;381.8;14.7;49.6;17.4;20.3;1.0;;;;;
+Nutritional values total;693;g;;777.6;30.0;101.0;35.5;41.4;2.1;;;;;
 ;;;;;;;;;;;;;;
-FPDF / PAC (target 20..30);31.22;;;;;;;;;;;;;
-"Protein / Energy Ratio (ok=12%; hi=20%)";21.35%;;;;;;;Hi-Protein;;;;;;
-ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);83.4;g;;12.1%;;;;;;;;;;
-ℹ️ Net carbs;62.3;g;;*∝ 5 servings@138g:* 12.5g;;;*∝ 3 servings@230g:* 20.8g;;;*energy ratio (low <20%):* 32.1%;;;;
+FPDF / PAC (target 20..30);31.15;;;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";21.31%;;;;;;;Hi-Protein;;;;;;
+ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);83.4;g;;12.0%;;;;;;;;;;
+ℹ️ Net carbs;63.5;g;;*∝ 5 servings@139g:* 12.7g;;;*∝ 3 servings@231g:* 21.2g;;;*energy ratio (low <20%):* 32.7%;;;;
 ;;;;;;;;;;;;;;
 """Milky Whey"" is a playful nod to both dairy science and indulgence,
 an ice cream crafted with whole milk, cream, skim milk powder, and a balanced whey–casein blend.
@@ -37,6 +37,7 @@ SweEX (Erythritol + Xylitol 3:2);30.00;g;2;109.60;;100.00;;;;2.56;;*alternative:
 Waxy Maize Starch (E1442) [Ultratex];20.00;g;2;391.00;0.15;97.00;0.00;0.50;0.50;;;"dissolves easily; use 1-5%";;1
 Whey + Casein protein (grass-fed) [Vilgain];20.00;g;2;384.00;4.60;5.70;5.60;80.00;0.50;0.06;90.40;with stevia;;1
 Skim milk powder 1:10 (SMP) [Vita2You];15.00;g;2;358.00;0.97;50.50;50.50;35.00;1.00;0.51;94.03;;;1
+Guar gum (E412);1.50;g;2;180.00;0.60;84.00;0.00;5.50;0.30;;;;;1
 Salt;1.00;g;2;;;;;;100.00;5.90;;;;1
 ;;;;;;;;;;;;;;
 Cream 32% [REWE Beste Wahl];30.00;ml;3;311.00;32.00;3.20;3.20;2.50;0.13;0.03;6.32;;;1
