@@ -23,34 +23,33 @@ These recipes were added in the last 2 months.
 
 > 👀 Also see the [Draft](https://jhermann.github.io/ice-creamery/tags/#tag:draft) tag for recipes that aren't tested yet, or need further optimizations.
 
-*   **2025-08-17**: [Lazy Skyr](/ice-creamery/L/Lazy%20Skyr%20%28Deluxe%29) <!-- added 78 lines -->
-*   **2025-08-17**: [Dulce de Leche • Vegan](/ice-creamery/D/Dulce%20de%20Leche%20%E2%80%A2%20Vegan%20%28Deluxe%29) <!-- added 41 lines -->
-*   **2025-08-16**: [Lemon Cake](/ice-creamery/L/Lemon%20Cake%20%28Deluxe%29) <!-- added 73 lines -->
-*   **2025-08-15**: [Drunken Peach Cheesecake](/ice-creamery/D/Drunken%20Peach%20Cheesecake%20%28Deluxe%29) <!-- added 81 lines -->
-*   **2025-08-14**: [Topfenpalatschinken](/ice-creamery/T/Topfenpalatschinken%20%28Deluxe%29) <!-- added 90 lines -->
-*   **2025-08-14**: [Avocado pure](/ice-creamery/A/Avocado%20pure%20%28Deluxe%29) <!-- added 71 lines -->
-*   **2025-08-12**: [Cherry Ice Cream](/ice-creamery/C/Cherry%20Ice%20Cream%20%28Deluxe%29) <!-- added 44 lines -->
-*   **2025-08-07**: [Banana+Rum Gelato](/ice-creamery/B/Banana%2BRum%20Gelato%20%28Deluxe%29) <!-- added 73 lines -->
-*   **2025-08-05**: [Hokkaido Pumpkin](/ice-creamery/H/Hokkaido%20Pumpkin%20%28Deluxe%29) <!-- added 90 lines -->
-*   **2025-08-02**: [Espresso Martini Light](/ice-creamery/E/Espresso%20Martini%20Light%20%28Deluxe%29) <!-- added 80 lines -->
-*   **2025-08-02**: [Creamia](/ice-creamery/C/Creamia%20%28Deluxe%29) <!-- added 76 lines -->
-*   **2025-08-01**: [Datanacoco](/ice-creamery/D/Datanacoco%20%28Deluxe%29) <!-- added 80 lines -->
-*   **2025-08-01**: [Butter Pecan](/ice-creamery/B/Butter%20Pecan%20%28Deluxe%29) <!-- added 89 lines -->
-*   **2025-07-31**: [Butterscotch](/ice-creamery/B/Butterscotch%20%28Deluxe%29) <!-- added 82 lines -->
-*   **2025-07-28**: [Apple Strudel](/ice-creamery/A/Apple%20Strudel%20%28Deluxe%29) <!-- added 79 lines -->
-*   **2025-07-27**: [Woodruff](/ice-creamery/W/Woodruff%20%28Deluxe%29) <!-- added 81 lines -->
-*   **2025-07-23**: [Buttermilk Stracciatella](/ice-creamery/B/Buttermilk%20Stracciatella%20%28Deluxe%29) <!-- added 84 lines -->
-*   **2025-07-22**: [Dark Temptation](/ice-creamery/D/Dark%20Temptation%20%28Deluxe%29) <!-- added 89 lines -->
-*   **2025-07-20**: [Just Fruit](/ice-creamery/J/Just%20Fruit%20%28Deluxe%29) <!-- added 92 lines -->
-*   **2025-06-29**: [Cacao Noir](/ice-creamery/C/Cacao%20Noir%20%28Deluxe%29) <!-- added 79 lines -->
-*   **2025-06-28**: [Velvet Oasis](/ice-creamery/V/Velvet%20Oasis%20%28Deluxe%29) <!-- added 81 lines -->
-*   **2025-06-27**: [Forget-Me-Nut Swirl](/ice-creamery/F/Forget-Me-Nut%20Swirl) <!-- added 45 lines -->
-*   **2025-06-27**: [Pisoyachio](/ice-creamery/P/Pisoyachio%20%28Deluxe%29) <!-- added 87 lines -->
-*   **2025-06-26**: [Umamiso](/ice-creamery/U/Umamiso%20%28Deluxe%29) <!-- added 67 lines -->
-*   **2025-06-24**: [Toasted Cowcoa](/ice-creamery/T/Toasted%20Cowcoa%20%28Deluxe%29) <!-- added 74 lines -->
-*   **2025-06-18**: [Banoffee](/ice-creamery/B/Banoffee%20%28Deluxe%29) <!-- added 84 lines -->
+*   **2025-09-18** [Easy Peely](/ice-creamery/E/Easy%20Peely%20%28Deluxe%29) <!-- added 80 lines -->
+*   **2025-09-17** [Milky Whey](/ice-creamery/M/Milky%20Whey%20%28Deluxe%29) <!-- added 84 lines -->
+*   **2025-09-05** [Instamaze](/ice-creamery/I/Instamaze) <!-- added 72 lines -->
+*   **2025-08-23** [Creamy Watermelon](/ice-creamery/C/Creamy%20Watermelon%20%28Deluxe%29) <!-- added 75 lines -->
+*   **2025-08-20** [Margarita Sorbet](/ice-creamery/M/Margarita%20Sorbet%20%28Deluxe%29) <!-- added 80 lines -->
+*   **2025-08-17** [Lazy Skyr](/ice-creamery/L/Lazy%20Skyr%20%28Deluxe%29) <!-- added 78 lines -->
+*   **2025-08-17** [Dulce de Leche • Vegan](/ice-creamery/D/Dulce%20de%20Leche%20%E2%80%A2%20Vegan%20%28Deluxe%29) <!-- added 41 lines -->
+*   **2025-08-16** [Lemon Cake](/ice-creamery/L/Lemon%20Cake%20%28Deluxe%29) <!-- added 73 lines -->
+*   **2025-08-15** [Drunken Peach Cheesecake](/ice-creamery/D/Drunken%20Peach%20Cheesecake%20%28Deluxe%29) <!-- added 81 lines -->
+*   **2025-08-14** [Topfenpalatschinken](/ice-creamery/T/Topfenpalatschinken%20%28Deluxe%29) <!-- added 90 lines -->
+*   **2025-08-14** [Avocado pure](/ice-creamery/A/Avocado%20pure%20%28Deluxe%29) <!-- added 71 lines -->
+*   **2025-08-12** [Cherry Ice Cream](/ice-creamery/C/Cherry%20Ice%20Cream%20%28Deluxe%29) <!-- added 44 lines -->
+*   **2025-08-07** [Banana+Rum Gelato](/ice-creamery/B/Banana%2BRum%20Gelato%20%28Deluxe%29) <!-- added 73 lines -->
+*   **2025-08-04** [Hokkaido Pumpkin](/ice-creamery/H/Hokkaido%20Pumpkin%20%28Deluxe%29) <!-- added 90 lines -->
+*   **2025-08-02** [Espresso Martini Light](/ice-creamery/E/Espresso%20Martini%20Light%20%28Deluxe%29) <!-- added 80 lines -->
+*   **2025-08-02** [Creamia](/ice-creamery/C/Creamia%20%28Deluxe%29) <!-- added 76 lines -->
+*   **2025-08-01** [Datanacoco](/ice-creamery/D/Datanacoco%20%28Deluxe%29) <!-- added 80 lines -->
+*   **2025-08-01** [Butter Pecan](/ice-creamery/B/Butter%20Pecan%20%28Deluxe%29) <!-- added 89 lines -->
+*   **2025-07-31** [Butterscotch](/ice-creamery/B/Butterscotch%20%28Deluxe%29) <!-- added 82 lines -->
+*   **2025-07-28** [Apple Strudel](/ice-creamery/A/Apple%20Strudel%20%28Deluxe%29) <!-- added 79 lines -->
+*   **2025-07-27** [Woodruff](/ice-creamery/W/Woodruff%20%28Deluxe%29) <!-- added 81 lines -->
+*   **2025-07-23** [Buttermilk Stracciatella](/ice-creamery/B/Buttermilk%20Stracciatella%20%28Deluxe%29) <!-- added 84 lines -->
+*   **2025-07-22** [Dark Temptation](/ice-creamery/D/Dark%20Temptation%20%28Deluxe%29) <!-- added 89 lines -->
+*   **2025-07-20** [Just Fruit](/ice-creamery/J/Just%20Fruit%20%28Deluxe%29) <!-- added 92 lines -->
+*   **2025-07-20** [Milkshake](/ice-creamery/M/Milkshake) <!-- added 44 lines -->
 
 These entries represent changes where the `README.md` file within their respective recipe directories
 had more than 40 lines added. The list is ordered with the most recent changes first.
 
-[last updated 2025-08-17]
+[last updated 2025-09-18]
