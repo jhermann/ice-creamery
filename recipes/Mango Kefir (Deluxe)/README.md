@@ -28,20 +28,32 @@ tags:
 # Mango Kefir (Deluxe)
 <img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/assets/mango-ice-cream-logo.png" />
 
+This recipe blends mild kefir and mango for a creamy ice cream with a gentle, tangy taste.
+
+It’s lightly sweetened and includes some added protein, making it a satisfying but not overly rich dessert.
+It’ll stay smooth and easy to scoop straight from the freezer.
+
+See “*Optional / Choices*” for inspiration on other fruit with about the same or better macros
+
 Process on *Frozen Yogurt*, [hold it shortly under running water](https://jhermann.github.io/ice-creamery/info/tips%2Btricks/#handling-of-icy-sides-bottom)
 *after* that.Then a scrape-down and a respin.
 
-> <img width=360 alt="Spun Ice Cream" src="Mango-Kefir_2025-06-02_1.jpg" class="zoomable" />
-
-The base went from almost -18°C to -7°C after the respin.
-
-> <img width=360 alt="Spun Ice Cream" src="Mango-Kefir_2025-06-02_2.jpg" class="zoomable" />
-
+With an older version of the recipe, the base went from almost -18°C to -7°C after the respin.
 Served after 1h refreezing with pomegranate syrup.
 
-> <img width=360 alt="Spun Ice Cream" src="Mango-Kefir_2025-06-02_4.jpg" class="zoomable" />
+> <img width=220 alt="Spun Ice Cream" src="Mango-Kefir_2025-06-02_1.jpg" class="zoomable" />
+> <img width=220 alt="After Respin" src="Mango-Kefir_2025-06-02_2.jpg" class="zoomable" />
+> <img width=220 alt="Served" src="Mango-Kefir_2025-06-02_4.jpg" class="zoomable" />
+> 
+> Rating: 😋😋😋 (flavor is good, but needs to be creamier)
 
-Rating: 😋😋😋 (flavor is good, but needs to be creamier)
+This is a combination of blueberries and strawberries (1:1) using the new formulation from September 2025.
+
+> <img width=220 alt="Spun Ice Cream" src="Mango-Kefir_2025-09-_1.jpg" class="zoomable" />
+> <img width=220 alt="After Respin" src="Mango-Kefir_2025-09-_2.jpg" class="zoomable" />
+> <img width=220 alt="Served" src="Mango-Kefir_2025-09-_3.jpg" class="zoomable" />
+> 
+> Rating: 😋🫐🍓 (…)
 
 # INGREDIENTS
 
