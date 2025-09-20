@@ -28,11 +28,17 @@ with the smooth, velvety texture of coconut milk and a hint of fragrant cardamom
 This dairy-free twist on the traditional Indian treat is both refreshing and indulgent,
 making it a perfect way to cool down on hot days or end a meal with something exotic yet comforting.
 
-> <img width=360 alt="Spun Ice Cream" src="Mango-Kulfi_2025-01-06.jpg" class="zoomable" />
+> <img style="float: left; margin-right: 1.5em;" width=180 alt="Spun Ice Cream" src="Mango-Kulfi_2025-01-06.jpg" class="zoomable" />
+> 
+> *Older version processed on Sorbet, then a scrape-down and a mix-in run.* <br /><br />Rating: 😋🥥🥭  (needs improvement)<br clear=all />
 
-Processed on Sorbet, scrape-down and a mix-in run.
+In September 2025 I rewrote this to use the new sweetener and stabilizer blends, coconut milk powder for convenience, and a bit of WMS for an extra creaminess boost.
 
-Rating: 😋🥥🥭  (changed recipe)
+> <img width=220 alt="After Sorbet" src="Mango-Kulfi_2025-09-20_1.jpg" class="zoomable" />
+> <img width=220 alt="After Respin" src="Mango-Kulfi_2025-09-20_2.jpg" class="zoomable" />
+> <img width=220 alt="Scooped" src="Mango-Kulfi_2025-09-20_3.jpg" class="zoomable" />
+>
+> *Current version processed on Sorbet, then a scrape-down and a respin.* <br /><br />Rating: 😋🥥🥭🥭  (I think I do not like mango too much, but it’s creamy all right)
 
 # INGREDIENTS
 
