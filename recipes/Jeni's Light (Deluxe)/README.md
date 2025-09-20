@@ -14,10 +14,12 @@ tags:
 - Draft
 - Erythritol
 - Low-Sugar
+- Polysaccharide Gum
 - Stevia
 - Xylitol
 ---
 # Jeni's Light (Deluxe)
+<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="logo-Jenis-Light.png" />
 
 *Light* base recipe that yields ice cream that aims to have the same taste, texture, consistency, and finish
 as Jeni’s ice cream base.
@@ -25,9 +27,15 @@ The original version can be found in the book “Jeni's Splendid Ice Creams at H
 
 Energy is reduced from almost 1500kcal to about 850kcal, fat roughly halved, and sugars are reduced to 6% compared to the original.
 
-> *Source:* https://www.saveur.com/article/Recipes/Jenis-Ice-Cream-Base/
+> *Source:* [saveur.com](https://www.saveur.com/article/Recipes/Jenis-Ice-Cream-Base/)
 
 **Scaled to a Creami Deluxe tub, using “European ingredients” (mostly regarding fat content), and sane units of measurement.**
+
+Add any flavor to your liking, e.g. 1-2 tsp vanilla extract.
+
+> <img width=220 alt="After Sorbet" src="_1.jpg" class="zoomable" />
+> <img width=220 alt="After Mix-in" src="_2.jpg" class="zoomable" />
+> <img width=220 alt="Scooped" src="_3.jpg" class="zoomable" />
 
 # INGREDIENTS
 
@@ -35,7 +43,7 @@ Energy is reduced from almost 1500kcal to about 850kcal, fat roughly halved, and
 
 **Prep**
 
-  - _45ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup> • *alternative*: use any other preferred milk (~2% fat)
+  - _50ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup> • *alternative*: use any other preferred milk (~2% fat)
   - _10g_ Corn starch
 
 **Wet**
@@ -49,12 +57,13 @@ Energy is reduced from almost 1500kcal to about 850kcal, fat roughly halved, and
   - _40g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • *alternative:* 53g allulose or dextrose
   - _35g_ [Inulin \[Vit4ever\]](/ice-creamery/info/ingredients/#inulin){target="_blank"}<sup>↗</sup> • Sweetness = 8%; GI ~= 0
   - _35g_ [Isomalt (E953) \[GoodBake\]](/ice-creamery/info/ingredients/#isomalt-e953){target="_blank"}<sup>↗</sup> • Very low GI, 50% sweetness
-  - _1g_ Salt
+  - _0.75g_ Salt
+  - _0.75g_ [Xanthan gum (E415, XG)](/ice-creamery/info/ingredients/#xanthan-gum-xg-e415){target="_blank"}<sup>↗</sup> • ¼ tsp; *optional:* for better melting, and freezer stability
 
 **Fill to MAX**
 
   - _100ml_ Cream 32% [REWE Beste Wahl]
-  - _≈7 drops_ [Stevia drops “natural” \[Nick’s\]](/ice-creamery/info/ingredients/#stevia-e960){target="_blank"}<sup>↗</sup> • to taste
+  - _≈3 drops_ [Stevia drops “natural” \[Nick’s\]](/ice-creamery/info/ingredients/#stevia-e960){target="_blank"}<sup>↗</sup> • to taste
 
 # DIRECTIONS
 
@@ -69,10 +78,10 @@ Energy is reduced from almost 1500kcal to about 850kcal, fat roughly halved, and
 
 # NUTRITIONAL & OTHER INFO
 
-- **Nutritional values per 100g/ml:** 100g; 123.9 kcal; fat 7.3g; carbs 20.6g; sugar 1.1g; protein 2.5g; salt 0.3g
-- **Nutritional values per ½ Deluxe Tub:** 340g; 421.3 kcal; fat 24.8g; carbs 69.9g; sugar 3.8g; protein 8.6g; salt 0.9g
-- **Nutritional values total:** 681g; 843.7 kcal; fat 49.6g; carbs 140.0g; sugar 7.6g; protein 17.2g; salt 1.9g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 28.83
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 8.13% • Low-Sugar
-- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 26.9g • 4.0%
-- **Net carbs:** 26.3g • *∝ 5 servings@136g:* 5.3g • *∝ 3 servings@227g:* 8.8g • *energy ratio (low <20%):* 12.5%
+- **Nutritional values per 100g/ml:** 100g; 123.5 kcal; fat 7.2g; carbs 20.5g; sugar 1.1g; protein 2.5g; salt 0.2g
+- **Nutritional values per ½ Deluxe Tub:** 340g; 419.8 kcal; fat 24.6g; carbs 69.6g; sugar 3.7g; protein 8.6g; salt 0.8g
+- **Nutritional values total:** 687g; 847.6 kcal; fat 49.7g; carbs 140.6g; sugar 7.6g; protein 17.3g; salt 1.6g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 28.18
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 8.19% • Low-Sugar
+- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 27.1g • 4.0%
+- **Net carbs:** 26.9g • *∝ 5 servings@137g:* 5.4g • *∝ 3 servings@229g:* 9g • *energy ratio (low <20%):* 12.7%
