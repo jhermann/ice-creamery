@@ -49,7 +49,7 @@ Energy is reduced from almost 1500kcal to about 850kcal, fat roughly halved, and
   - _40g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • *alternative:* 53g allulose or dextrose
   - _35g_ [Inulin \[Vit4ever\]](/ice-creamery/info/ingredients/#inulin){target="_blank"}<sup>↗</sup> • Sweetness = 8%; GI ~= 0
   - _35g_ [Isomalt (E953) \[GoodBake\]](/ice-creamery/info/ingredients/#isomalt-e953){target="_blank"}<sup>↗</sup> • Very low GI, 50% sweetness
-  - _1g_ Salt • 26 quick shakes (with my shaker)
+  - _1g_ Salt
 
 **Fill to MAX**
 
