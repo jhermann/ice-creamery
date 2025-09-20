@@ -1,0 +1,37 @@
+Jeni Britton's Base (Deluxe);;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;;
+Nutritional values per 100g/ml;100;g;;213.8;13.3;21.3;18.1;2.7;0.3;;;;;
+Nutritional values per ½ Deluxe Tub;340;g;;726.9;45.3;72.3;61.4;9.0;1.0;;;;;
+Nutritional values total;686;g;;1466.7;91.4;145.9;123.9;18.2;2.0;;;;;
+;;;;;;;;;;;;;;
+FPDF / PAC (target 20..30);21.46;;;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";4.96%;;;;;;;;;;;;;
+ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);44.6;g;;6.5%;;;;;;;;;;
+ℹ️ Net carbs;145.9;g;;*∝ 5 servings@137g:* 29.2g;;;*∝ 3 servings@229g:* 48.6g;;;*energy ratio (low <20%):* 39.8%;;;;
+"Base recipe that yields ice cream that has the same taste, texture, consistency, and finish
+as made in a professional kitchen.
+This can also be found in the book “Jeni's Splendid Ice Creams at Home” (with recipes for lots of flavors).
+
+> *Source:* https://www.saveur.com/article/Recipes/Jenis-Ice-Cream-Base/";;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+**Scaled to a Creami Deluxe tub, using “European ingredients” (mostly regarding fat content), and sane units of measurement.**;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+"1. **Mix cornstarch slurry**: In a small bowl, whisk the cornstarch with a few tablespoons of the milk until smooth.
+ 1. **Heat base**: In a saucepan, combine the remaining milk, corn syrup, sugar, and salt. Bring to a gentle boil over medium heat.
+ 1. **Thicken**: Stir in the cornstarch slurry and simmer for 1–2 minutes until slightly thickened.
+ 1. **Add cream cheese**: Remove from heat and whisk in the softened cream cheese until fully incorporated.
+ 1. **Chill**: Cool the mixture quickly (ice bath or fridge) until completely cold — ideally overnight.";;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment;0Carb[%];Counts?
+Milk 3.5% [Weihenstephan];45.00;ml;0;64.00;3.50;4.70;4.70;3.50;0.13;0.05;8.97;;;1
+Corn starch;10.00;g;0;353.00;0.50;86.00;0.50;0.50;0.01;;;;;1
+Milk 3.5% [Weihenstephan];250.00;ml;1;64.00;3.50;4.70;4.70;3.50;0.13;0.05;8.97;;;1
+Light corn syrup (32 DE) [Karo];20.00;ml;1;400.00;;100.00;33.00;;0.25;0.61;;"US brand; *alternative:* rice or maple syrup";;1
+Cream Cheese 23% [Exquisa];40.00;g;1;238.00;22.50;3.00;3.00;5.50;0.70;0.03;9.64;click the link for UK / US equivalents;;1
+Sugar;95.00;g;2;387.00;;100.00;100.00;;;1.00;;;;1
+Salt;1.00;g;2;;;;;;100.00;5.90;;;;1
+;;;;;;;;;;;;;;
+Cream 32% [REWE Beste Wahl];225.00;ml;1;311.00;32.00;3.20;3.20;2.50;0.13;0.03;6.32;;;1
