@@ -35,7 +35,7 @@ Avoid these things and methods:
 
  * **Do not** skip flattening the hump.
 
- * **Do not** run a cycle without the gasket placed in the lid (i.e. do not forget to reinsert it after cleaning). If you do, you *might* face consequences like nastly spills, or worse the tub loosing grip in the outer container and grinding down the lid, ultimately causing a catastrophic failure.
+ * **Do not** run a cycle without the gasket placed in the lid (i.e. do not forget to reinsert it after cleaning). If you do, you *might* face consequences like nasty spills, or worse the tub loosing grip in the outer container and grinding down the lid, ultimately causing a catastrophic failure.
 
  * **Do not** spin non-level surfaces (see right above). "Non-level" refers to both an uneven or slanted surface of your base. *Always* flatten left-overs you intend to process again, before putting them back into the freezer.
 
