@@ -141,6 +141,7 @@ AUTO_LINK_STOP_WORDS = {
     'Soy sauce', 'tea powder', 'to MAX line',
 }
 LOGO_IMG = '<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="%s" />'
+MILK_HINT = ('Soy milk 1.6%', '*alternative*: use any other preferred milk (~2% fat)')
 
 
 def add_default_tags(md_text, docmeta):
@@ -464,6 +465,8 @@ def main():
         # Read ingredients
         for row in reader:
             data = dict(zip(fields, row))
+            if MILK_HINT[0] in data['ingredients'] and not data['comment']:
+                data['comment'] = MILK_HINT[1]
             if not data['step']:
                 handle_top_row(row)
             elif data['ingredients'] and data['counts?'] != '0':
