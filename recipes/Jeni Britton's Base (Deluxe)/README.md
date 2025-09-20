@@ -14,12 +14,14 @@ tags:
 - Draft
 ---
 # Jeni Britton's Base (Deluxe)
+<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="logo-Jenis-Base.png" />
 
 Base recipe that yields ice cream that has the same taste, texture, consistency, and finish
 as made in a professional kitchen.
 This can also be found in the book “Jeni's Splendid Ice Creams at Home” (with recipes for lots of flavors).
 
-> *Source:* https://www.saveur.com/article/Recipes/Jenis-Ice-Cream-Base/
+> *Source:* [saveur.com](https://www.saveur.com/article/Recipes/Jenis-Ice-Cream-Base/)
+> • [Jeni's Splendid Ice Creams at Home by Jeni Britton Bauers](https://www.goodreads.com/book/show/10178769-jeni-s-splendid-ice-creams-at-home)
 
 **Scaled to a Creami Deluxe tub, using “European ingredients” (mostly regarding fat content), and sane units of measurement.**
 
