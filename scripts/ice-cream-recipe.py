@@ -133,7 +133,7 @@ CALCULATED_TAGS = {
 }
 AUTO_LINK_STOP_WORDS = {
     'Bean Powder', 'Beet Root', 'berry powder', 'Root powder', 'cream-filled',
-    'Cherries, Sour', 'Condensed milk', 'Cream 32%', 'Cream Punch',
+    'Cherries, Sour', 'Condensed milk', 'Corn starch', 'Cream 32%', 'Cream Punch',
     'desiccated', 'Evaporated milk', 'Extract',
     'Flavor drops', 'Flavor Powder', 'Ice Cream', 'Irish Cream',
     'Low fat milk', 'Milk 3.5%', 'Mint chocolate',
