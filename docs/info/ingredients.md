@@ -29,16 +29,17 @@ of common ingredients, sorted by PAC.
 | 190 | ≈105 | 50 | Honey | Some sources claim a POD of up to 150 |
 | 190 | ≈130 | 87 | Invert sugar | a/k/a inverted sugar, invert syrup,<br />(invert) sugar syrup |
 | 190 |  60 |  9 | Sorbitol | |
-| 180 | ≈160 | 11 | Agave Syrup | POD ranges from 140 to 180 |
+| 180 | ≈160 | 11 | Agave Syrup | POD ranges from 140 to 180; ~80:20 fructose / glucose |
 | 100 |  16–40 | 45 | Lactose | Milk sugar |
 | 100 |  10 |  6 | Polydextrose | |
 | **100** | **100** | 65 | **Sucrose** | Table sugar, 1:1 glucose:fructose |
 | 100 |  45 | 38 | Trehalose | Disaccharide, found in plants & fungi;<br />also improves texture / icyness |
 | ≈90 | ≈55 | ≈75 | Glucose Powder (40/42 DE) | 5–7% water; also called atomized / dehydrated glucose |
+| ≈85 | ≈45 | ≈98 | Rice syrup | ~35:50:15 glucose / maltose / various polysaccharides |
 |  80 |  50 | ≈75 | Glucose Syrup (42 DE) | 25% water |
 |  77 | ≈57 | 55 | Molasses | Less sweet than sugar, with a<br />complex flavor profile (bittersweet) |
 |  68 | ≈66 | 54 | Maple syrup | High in sucrose, but also has fructose and glucose|
-|  61 |  40 | ≈56 | Light corn syrup (32 DE) | |
+|  61 |  40 | ≈56 | Light corn syrup (32 DE) | ~15:15:70 glucose / maltose / various polysaccharides |
 |  50 |  -/- | 85 | Modified corn starch | Possibly lower GI for some modifications |
 | ≈39 |  50 |  2 | Isomalt | PAC ranges from 36 — 42; 2.36 kcal/g |
 |  34 |  21 | 110 | Maltodextrin (18 DE) | |
