@@ -34,9 +34,11 @@ Energy is reduced from almost 1500kcal to about 850kcal, fat roughly halved, and
 
 Add any flavor to your liking, e.g. 1-2 tsp vanilla extract.
 
-> <img width=220 alt="After Sorbet" src="_1.jpg" class="zoomable" />
-> <img width=220 alt="After Mix-in" src="_2.jpg" class="zoomable" />
-> <img width=220 alt="Scooped" src="_3.jpg" class="zoomable" />
+> <img width=220 alt="After Light Ice Cream" src="Jenis-Light_2025-09-21_1.jpg" class="zoomable" />
+> <img width=220 alt="After Mix-in" src="Jenis-Light_2025-09-21_2.jpg" class="zoomable" />
+> <img width=220 alt="Scooped" src="Jenis-Light_2025-09-21_3.jpg" class="zoomable" />
+> 
+> *With 2tsp vanilla extract and ½ tsp ground vanilla added* • Rating: 😋🐮🥛🍦🍦 (good vanilla flavor, very soft & creamy, no ice crystals)
 
 # INGREDIENTS
 
@@ -44,7 +46,7 @@ Add any flavor to your liking, e.g. 1-2 tsp vanilla extract.
 
 **Prep**
 
-  - _50ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup> • *alternative*: use any other preferred milk (~2% fat)
+  - _50ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup> • use any other preferred milk (~2% fat)
   - _10g_ Corn starch
 
 **Wet**
