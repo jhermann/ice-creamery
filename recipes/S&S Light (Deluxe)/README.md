@@ -1,0 +1,65 @@
+---
+description: Recipe for the Ninja Creami Deluxe [24oz]
+excluded_steps:
+- ^$
+excluded_tags:
+- Allulose
+- Vanilla
+tags:
+- Draft
+- Erythritol
+- Fruit
+- Low-Sugar
+- Polysaccharide Gum
+- Stevia
+- Xylitol
+---
+# S&S Light (Deluxe)
+
+Adapted Salt & Straw's base, scaled to ~600g and targeted for less fat (8%) and sugar (2%) with 2.6% net carbs.
+
+Example recipe flavored with strawberries (fresh/frozen + freeze-dried).
+
+# INGREDIENTS
+
+ℹ️ Brand names are in square brackets `[...]`.
+
+**Wet**
+
+  - _125g_ Cream 32% [REWE Beste Wahl]
+  - _375ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup> • use any other preferred milk (~2% fat)
+
+**Dry**
+
+  - _45g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • *alternative:* 60g allulose or dextrose
+  - _25g_ [Inulin \[Vit4ever\]](/ice-creamery/info/ingredients/#inulin){target="_blank"}<sup>↗</sup> • Sweetness = 8%; GI ~= 0
+  - _10g_ [Skim milk powder 1:10 (SMP) \[Vita2You\]](/ice-creamery/info/ingredients/#skim-milk-powder-smp){target="_blank"}<sup>↗</sup>
+  - _10g_ [Whey + Casein protein (grass-fed) \[Vilgain\]](/ice-creamery/info/ingredients/#whey-protein){target="_blank"}<sup>↗</sup> • with stevia
+  - _0.75g_ Salt
+  - _0.75g_ [Xanthan gum (E415, XG)](/ice-creamery/info/ingredients/#xanthan-gum-xg-e415){target="_blank"}<sup>↗</sup> • 1tsp ≈ 2.8g
+
+**Fill to MAX**
+
+  - _60g_ Strawberries
+  - _20g_ Strawberry powder [Supergarden]
+  - _10g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • POD = 60%; GI = 5; Density = 1.26 g/ml
+
+# DIRECTIONS
+
+ 1. Add "wet" ingredients to empty Creami tub.
+ 1. Weigh and mix dry ingredients, easiest by adding to a jar with a secure lid and shaking vigorously.
+ 1. Pour into the tub and *QUICKLY* use an immersion blender on full speed to homogenize everything.
+ 1. Let blender run until thickeners are properly hydrated, up to 1-2 min. Or blend again after waiting that time.
+ 1. Add remaining ingredients (to the MAX line) and stir with a spoon.
+ 1. Put on the lid, freeze for 24h, then spin as usual. Flatten any humps before that.
+ 1. Process with RE-SPIN mode when not creamy enough after the first spin.
+
+# NUTRITIONAL & OTHER INFO
+
+- **Nutritional values per 100g/ml:** 100g; 116.8 kcal; fat 7.0g; carbs 15.6g; sugar 3.7g; protein 4.1g; salt 0.2g
+- **Nutritional values per ½ Deluxe Tub:** 340g; 397.0 kcal; fat 23.7g; carbs 53.1g; sugar 12.5g; protein 13.9g; salt 0.7g
+- **Nutritional values total:** 682g; 795.7 kcal; fat 47.5g; carbs 106.4g; sugar 25.2g; protein 27.9g; salt 1.4g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 27.94
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 14.04% • Low-Sugar
+- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 41.3g • 6.1%
+- **Net carbs:** 34.1g • *∝ 5 servings@136g:* 6.8g • *∝ 3 servings@227g:* 11.4g • *energy ratio (low <20%):* 17.2%
