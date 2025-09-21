@@ -40,6 +40,8 @@ Add any flavor to your liking, e.g. 1-2 tsp vanilla extract.
 > 
 > *With 2tsp vanilla extract and ½ tsp ground vanilla added* • Rating: 😋🐮🥛🍦🍦 (good vanilla flavor, very soft & creamy, no ice crystals)
 
+> <img width=332 alt="Served" src="Jenis-Light_2025-09-21_4.jpg" class="zoomable" />
+
 # INGREDIENTS
 
 ℹ️ Brand names are in square brackets `[...]`.
