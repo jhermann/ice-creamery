@@ -4,6 +4,8 @@ summarize the top-level source sections in concise form, without extensive citat
 use the Markdown format for the output.
 -->
 
+> ℹ️ Also check out the [wiki](https://github.com/jhermann/ice-creamery/wiki) which has some fundamental knowledge base articles.
+
 *   **Overview**
 
     *You are here.* Use the left sidebar, or the hamburger menu in the mobile view, to select a section of interest.
