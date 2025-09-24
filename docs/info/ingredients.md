@@ -214,6 +214,18 @@ superior prebiotic benefits with less gas production than inulin alone.
 
 Dextrin is a type of modified starch, produced via partial hydrolysis from different sources like corn, potato, rice, or wheat.
 
+### Sorbitol (E420)
+
+Sorbitol is a sugar alcohol found naturally in fruits and vegetables and used as a sweetener, humectant, and texturizer.
+It is 60% as sweet as sugar and non-cariogenic, has only 2.4 kcal/g and a low glycemic index, and a high PAC of 1.9 (same as dextrose).
+It tastes like sugar, but creates a noticeable cooling effect in the mouth.
+
+Using sorbitol in ice cream improves its texture and stability, providing a smoother, creamier consistency by lowering the freezing point.
+Its anti-crystallization properties reduce ice crystal formation, and also help controlling
+the tendency of erythritol to harden an ice cream in long-term storage.
+
+As with all sugar alcohols, keep the effects on the digestive system in mind (max. 10% of a recipe).
+
 ### Stevia (E960)
 
 Stevia is a natural, calorie-free sweetener derived from the leaves of the *Stevia rebaudiana* plant, native to South America. The leaves contain compounds called steviol glycosides, which are significantly sweeter than sugar (around 200-400 times sweeter).
