@@ -29,7 +29,7 @@ When done, store the powder in an air-tight container with enough volume.
 > **3 Ingredient Replacement**<br />In a pinch, you can replace one 15g dose of the mix by 1.5g guar, 0.5g xanthan, and 0.5g salt — scale other amounts accordingly.
 > Do not expect the exact same results as from the full blend.
 >
-> If you cannot source pure GMS, using products that fall into the general *Mono- and Diglycerides of Fatty Acids* (E471)
+> **GMS Availability**<br />If you cannot source pure GMS, using products that fall into the general *Mono- and Diglycerides of Fatty Acids* (E471)
 > category, which GMS belongs to, can be a viable alternative. Or use soy or sunflower lecithin — the recommended dose is 0.1% to 0.5%,
 > and the recipe's 18g are equivalent to about 2.6% in an ice cream base.
 
