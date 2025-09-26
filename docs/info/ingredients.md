@@ -576,6 +576,9 @@ GMS is typically used at concentrations of 0.1% to 0.5% of the total mix.
 Normally it is combined with CMC at a ratio of 2GMS:1CMC,
 and a dosage of up to 1% of water content, e.g. 0.3% GMS and 0.05–0.15% CMC in the total base.
 
+> 🧪 GMS falls into the *Mono- and Diglycerides of Fatty Acids* (E471) category,
+> and is a pure form of what is otherwise a mixture of different mono- and diglycerides.
+
 ### Polysorbate 80 (E433)
 
 Polysorbate 80, also known as Tween 80, is a non-ionic surfactant and emulsifier,
