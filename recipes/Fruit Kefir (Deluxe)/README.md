@@ -49,9 +49,10 @@ Served after 1h refreezing with pomegranate syrup.
 
 This is a combination of blueberries and strawberries (1:1) using the new formulation from September 2025.
 
-> <img width=220 alt="Spun Ice Cream" src="Fruit-Kefir_2025-09-26_1.jpg" class="zoomable" />
-> <img width=220 alt="After Respin" src="Fruit-Kefir_2025-09-26_2.jpg" class="zoomable" />
-> <img width=220 alt="Served" src="Fruit-Kefir_2025-09-26_3.jpg" class="zoomable" />
+> <img width=331 alt="Spun Ice Cream" src="Fruit-Kefir_2025-09-26_1.jpg" class="zoomable" />
+> <img width=331 alt="After Respin" src="Fruit-Kefir_2025-09-26_2.jpg" class="zoomable" />
+> <img width=331 alt="Scooped" src="Fruit-Kefir_2025-09-26_3.jpg" class="zoomable" />
+> <img width=331 alt="Served" src="Fruit-Kefir_2025-09-26_4.jpg" class="zoomable" />
 > 
 > Rating: 😋🫐🫐🍓🍓 (FroYo & Respin, very creamy and soft)
 
