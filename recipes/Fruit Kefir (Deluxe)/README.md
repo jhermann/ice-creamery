@@ -53,7 +53,7 @@ This is a combination of blueberries and strawberries (1:1) using the new formul
 > <img width=220 alt="After Respin" src="Fruit-Kefir_2025-09-26_2.jpg" class="zoomable" />
 > <img width=220 alt="Served" src="Fruit-Kefir_2025-09-26_3.jpg" class="zoomable" />
 > 
-> Rating: 😋🫐🍓 (…)
+> Rating: 😋🫐🫐🍓🍓 (FroYo & Respin, very creamy and soft)
 
 # INGREDIENTS
 
