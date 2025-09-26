@@ -31,7 +31,7 @@ When done, store the powder in an air-tight container with enough volume.
 >
 > **GMS Availability**<br />If you cannot source pure GMS, using products that fall into the general *Mono- and Diglycerides of Fatty Acids* (E471)
 > category, which GMS belongs to, can be a viable alternative. Or use soy or sunflower lecithin — the recommended dose is 0.1% to 0.5%,
-> and the recipe's 18g are equivalent to about 2.6% in an ice cream base.
+> and the recipe's 18g are equivalent to about 0.26% in an ice cream base.
 
 Adding bulk to the thickeners prevents clumping when blending them into your base.
 Drizzle the mix into the vortex of a running blender,
