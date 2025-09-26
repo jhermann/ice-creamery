@@ -44,15 +44,15 @@ Served after 1h refreezing with pomegranate syrup.
 > <img width=220 alt="Spun Ice Cream" src="Mango-Kefir_2025-06-02_1.jpg" class="zoomable" />
 > <img width=220 alt="After Respin" src="Mango-Kefir_2025-06-02_2.jpg" class="zoomable" />
 > <img width=220 alt="Served" src="Mango-Kefir_2025-06-02_4.jpg" class="zoomable" />
-
-> <img width=220 alt="Spun Ice Cream" src="Mango-Kefir_2025-09-_1.jpg" class="zoomable" />
-> <img width=220 alt="After Respin" src="Mango-Kefir_2025-09-_2.jpg" class="zoomable" />
-> <img width=220 alt="Served" src="Mango-Kefir_2025-09-_3.jpg" class="zoomable" />
-
+> 
 > Rating: 😋😋😋 (flavor is good, but needs to be creamier)
 
 This is a combination of blueberries and strawberries (1:1) using the new formulation from September 2025.
 
+> <img width=220 alt="Spun Ice Cream" src="Fruit-Kefir_2025-09-26_1.jpg" class="zoomable" />
+> <img width=220 alt="After Respin" src="Fruit-Kefir_2025-09-26_2.jpg" class="zoomable" />
+> <img width=220 alt="Served" src="Fruit-Kefir_2025-09-26_3.jpg" class="zoomable" />
+> 
 > Rating: 😋🫐🍓 (…)
 
 # INGREDIENTS
