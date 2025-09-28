@@ -28,13 +28,13 @@ Inspired by German cheesecake, which is made with ‘Quark’ or ‘Topfen’
 
 The buttermilk adds the necessary tanginess.
 
-Spin on *FroYo*, do a scrape-down, and finish with a mix-in or respin run.
+Spin on *Light Ice Cream*, do a scrape-down, and finish with a mix-in or respin run.
 
 Serve with graham crackers or butter cookies to stand in for the pie crust.
 
-> <img width=220 alt="After Sorbet" src="_1.jpg" class="zoomable" />
-> <img width=220 alt="After Mix-in" src="_2.jpg" class="zoomable" />
-> <img width=220 alt="Scooped" src="_3.jpg" class="zoomable" />
+> <img width=220 alt="After Light Ice Cream" src="Cheesecake-Light_2025-09-28_1.jpg" class="zoomable" />
+> <img width=220 alt="After Respin" src="Cheesecake-Light_2025-09-28_2.jpg" class="zoomable" />
+> <img width=220 alt="Scooped" src="Cheesecake-Light_2025-09-28_3.jpg" class="zoomable" />
 
 Rating: 😋😋😋😋😋
 
