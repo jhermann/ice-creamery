@@ -39,9 +39,13 @@ You can vary by using different fruit, possibly mixing them, see for inspiration
 > 
 > *Banana and strawberry versions.*
 
-Process on SORBET, do a scrape-down, and MIX-IN or RE-SPIN (choose depending on consistency you get after processing, and eventually want after 2nd spin).
+Process on *Light Ice Cream*, do a scrape-down, and MIX-IN or RESPIN (choose depending on consistency you get after processing, and eventually want after 2nd spin).
 
-Rating: 😋🍓🍌🫐🥥
+> <img width=220 alt="After Light Ice Cream" src="Cocofruit-Cherry_2025-09-28_1.jpg" class="zoomable" />
+> <img width=220 alt="After Respin" src="Cocofruit-Cherry_2025-09-28_2.jpg" class="zoomable" />
+> <img width=220 alt="Scooped" src="Cocofruit-Cherry_2025-09-28_3.jpg" class="zoomable" />
+> 
+> Rating: 😋🍓🍌🫐🥥 (Cherry / 2g Beet root; Light Ice Cream + Respin, very soft, no ice crystals)
 
 # INGREDIENTS
 
