@@ -32,7 +32,7 @@ Cocofruit is a flavorful ice cream with tropical vibes.
 Made with coconut milk, soy milk, assorted fruits, and a protein boost from whey and casein,
 it’s perfect for sunny days, snack attacks, or anytime you crave something cool and seriously satisfying.
 
-You can vary by using different fruit, possibly mixing them, see for inspirations below.
+You can vary by using different fruit, possibly mixing them, see below for inspirations.
 
 > <img width=150 alt="Spun Ice Cream" src="Coco-Banana_2025-04-06.jpg" class="zoomable" />
 > <img width=150 alt="Spun Ice Cream" src="Coco-Strawberry_2025-04-06.jpg" class="zoomable" />
