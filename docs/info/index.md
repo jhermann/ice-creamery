@@ -34,6 +34,10 @@ use the Markdown format for the output.
     Lists the nutritional values and PAC / MSNF of common ingredients, with a regional bias towards Germany.
     All the ingredients are sourcable in German supermarkets (REWE/Aldi), or on amazon.de.
 
+*   **Plating & Presentation**
+
+    How to present your home-made ice cream favorably to other people, when you don't eat it directly out of the tub. 😋🥣😄
+
 *   **"Polar Ice Creamery" Wisdoms**
 
     Important ideas and facts regarding various ice cream topics, drawing information directly from
@@ -49,10 +53,6 @@ use the Markdown format for the output.
 
     This section lists recipes that have been created within the last two months.
 
-*   **Resources on the Web**
-
-    A list of well-known web sites and other resources like YouTube channels found on the internet.
-
 *   **Tips & Tricks**
 
     This section provides practical advice for using the Ninja Creami.
@@ -66,3 +66,7 @@ use the Markdown format for the output.
      * guidance on choosing processing modes based on their speed and duration profiles for different desired textures,
      * the importance of performing a scrape test before processing,
      * and methods for the handling of icy container walls after the initial processing step.
+
+*   **Resources on the Web**
+
+    A list of well-known web sites and other resources like YouTube channels found on the internet.
