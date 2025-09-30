@@ -40,3 +40,15 @@ Check out one of these videos for how to do it:
 
 * 🎦 [How to Make a Quenelle](https://youtu.be/RVTKy5r0KKo?t=24)
 * 🎦 [How to make a quenelle, with Chef Dominique Ansel](https://youtu.be/O4ISeLKcc8c)
+
+## Toppings
+
+For ideas on toppings, see these pages:
+
+* [Toppings](/ice-creamery/T/Toppings/)
+* [Mix-ins and Toppings](/ice-creamery/info/ingredients/#mix-ins-and-toppings) in the info section
+
+If you have sprinkles, chocolates shaving, or similar, it's advisable to drizzles or pour some 'glue'
+over your scoops, in the form of sauces or thick syrups.
+
+## Arrangement
