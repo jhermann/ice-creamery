@@ -8,8 +8,6 @@ excluded_tags:
 - Dairy$
 - Vanilla
 tags:
-- Dairy-Free
-- Draft
 - Erythritol
 - Fruit
 - Low-Fat
@@ -23,7 +21,7 @@ tags:
 
 Banana recipe with fewer ingredients and 50% bananas.
 
-> 🌿 **Vegan & Dairy-free**
+> 🌿 **Vegan & Dairy-free**<br />Skip the optional cream for that.
 
 Spin on “Light Ice Cream”, scrape down, and re-mix.
 
@@ -39,7 +37,7 @@ Rating: 😋🍌 (untested)
 
 **Prep**
 
-  - _340g_ Bananas (peeled)
+  - _340g_ Bananas (peeled) • ≈3 medium pieces
   - _15ml_ Lemon juice
 
 **Wet**
@@ -49,14 +47,15 @@ Rating: 😋🍌 (untested)
 
 **Dry**
 
-  - _34g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • *alternative:* 45g allulose or dextrose
-  - _15g_ [Inulin \[Vit4ever\]](/ice-creamery/info/ingredients/#inulin){target="_blank"}<sup>↗</sup> • Sweetness = 8%; GI ~= 0
+  - _35g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • *alternative:* 47g allulose or dextrose
+  - _15g_ [Inulin \[Vit4ever\]](/ice-creamery/info/ingredients/#inulin){target="_blank"}<sup>↗</sup>
   - _15g_ [Waxy Maize Starch (E1442) \[Ultratex\]](/ice-creamery/info/ingredients/#waxy-maize-starch-e1442){target="_blank"}<sup>↗</sup> • dissolves easily; use 1-5%
   - _1g_ Salt
 
 **Fill to MAX**
 
-  - _≈1 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
+  - _20ml_ Cream 32% [REWE Beste Wahl] • *optional* leave out to keep it vegan
+  - _≈8 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
 
 # DIRECTIONS
 
@@ -71,10 +70,10 @@ Rating: 😋🍌 (untested)
 
 # NUTRITIONAL & OTHER INFO
 
-- **Nutritional values per 100g/ml:** 100g; 92.5 kcal; fat 0.9g; carbs 22.5g; sugar 8.2g; protein 1.7g; salt 0.2g
-- **Nutritional values per ½ Deluxe Tub:** 340g; 314.4 kcal; fat 3.0g; carbs 76.3g; sugar 27.7g; protein 5.8g; salt 0.7g
-- **Nutritional values total:** 685g; 633.4 kcal; fat 6.1g; carbs 153.8g; sugar 55.8g; protein 11.8g; salt 1.4g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 31.06
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 7.43% • LOW-FAT
-- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 10.0g • 1.5%
-- **Net carbs:** 99.0g • *∝ 5 servings@137g:* 19.8g • *∝ 3 servings@228g:* 33g • *energy ratio (low <20%):* 62.5%
+- **Nutritional values per 100g/ml:** 100g; 98.7 kcal; fat 1.8g; carbs 22.0g; sugar 8.0g; protein 1.7g; salt 0.2g
+- **Nutritional values per ½ Deluxe Tub:** 340g; 335.5 kcal; fat 6.0g; carbs 74.9g; sugar 27.2g; protein 5.9g; salt 0.7g
+- **Nutritional values total:** 706g; 696.7 kcal; fat 12.5g; carbs 155.4g; sugar 56.5g; protein 12.3g; salt 1.4g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.61
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 7.04% • LOW-FAT
+- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 11.3g • 1.6%
+- **Net carbs:** 99.6g • *∝ 5 servings@141g:* 19.9g • *∝ 3 servings@235g:* 33.2g • *energy ratio (low <20%):* 57.2%
