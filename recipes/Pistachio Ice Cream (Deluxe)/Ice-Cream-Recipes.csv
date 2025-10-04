@@ -1,14 +1,14 @@
 Pistachio Ice Cream (Deluxe);;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 ;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;;
-Nutritional values per 100g/ml;100;g;;130.0;6.0;13.5;1.9;7.5;0.3;;;;;
-Nutritional values per ½ Deluxe Tub;340;g;;441.9;20.5;46.0;6.6;25.5;0.9;;;;;
-Nutritional values total;683;g;;887.8;41.2;92.4;13.2;51.2;1.8;;;;;
+Nutritional values per 100g/ml;100;g;;130.7;6.0;13.7;1.9;7.6;0.3;;;;;
+Nutritional values per ½ Deluxe Tub;340;g;;444.5;20.5;46.5;6.6;25.7;0.9;;;;;
+Nutritional values total;685;g;;895.4;41.3;93.7;13.2;51.7;1.8;;;;;
 ;;;;;;;;;;;;;;
-FPDF / PAC (target 20..30);30.68;;;;;;;;;;;;;
-"Protein / Energy Ratio (ok=12%; hi=20%)";23.05%;;;;;;Low-Sugar;Hi-Protein;;;;;;
-ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);60.6;g;;8.9%;;;;;;;;;;
-ℹ️ Net carbs;36.3;g;;*∝ 5 servings@137g:* 7.3g;;;*∝ 3 servings@228g:* 12.1g;;;*energy ratio (low <20%):* 16.4%;;;;
+FPDF / PAC (target 20..30);30.59;;;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";23.12%;;;;;;Low-Sugar;Hi-Protein;;;;;;
+ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);60.6;g;;8.8%;;;;;;;;;;
+ℹ️ Net carbs;37.6;g;;*∝ 5 servings@137g:* 7.5g;;;*∝ 3 servings@228g:* 12.5g;;;*energy ratio (low <20%):* 16.8%;;;;
 ;;;;;;;;;;;;;;
 "Processed on Lite Ice Cream, came out as soft-serve on the firmer side of things.
 Freeze again for about an hour to get to scoopable.";;;;;;;;;;;;;;
@@ -24,7 +24,7 @@ Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment;0C
 Soy milk 1.6% (sugar-free) [Berief];400.00;ml;1;30.00;1.60;0.90;0.00;3.00;0.08;;4.00;use any other preferred milk (~2% fat);;1
 Cottage Cheese 4% [REWE Bio];100.00;g;1;91.00;4.00;1.00;1.00;12.70;0.69;0.01;16.00;;;1
 Pistachio butter (100% nuts) [Limfood];30.00;g;1;621.00;47.00;29.30;4.92;15.20;0.00;-0.37;;;;1
-Almond butter (creamy) [Seba Garden];20.00;g;1;598.00;52.54;10.11;4.86;21.15;0.01;-0.42;;*optional:* use more Pistachio butter if you want to;;1
+Almond butter (creamy) [Seba Garden];20.00;g;1;598.00;52.54;10.11;4.86;21.15;0.01;-0.42;;*optional:* use more Pistachio butter instead, if you want to;;1
 Glycerin (E422, VG) [hd-line];20.00;g;1;400.00;;99.00;;;;3.70;;;50.00;1
 Brandy or Vodka 40 vol%;15.00;g;1;280.00;;;;;;2.96;;*alternative:* 12g (additional) VG for a sober recipe;;1
 Greek Yogurt 9% [Lyttos];;g;1;113.00;9.20;3.80;3.80;3.20;0.13;0.04;7.91;;;1
@@ -33,6 +33,7 @@ Salty Stability [Inulin / GMS / CMC / Guar / XG / Salt];15.00;g;2;267.5;3.6;88.4
 Whey + Casein protein (grass-fed) [Vilgain];15.00;g;2;384.00;4.60;5.70;5.60;80.00;0.50;0.06;90.40;with stevia;;1
 Skim milk powder 1:10 (SMP) [Vita2You];15.00;g;2;358.00;0.97;50.50;50.50;35.00;1.00;0.51;94.03;;;1
 Glycerol Monostearate (E471) [Bulk];3.00;g;2;415.00;;;;;;;;"approx. 1½ tsp; *alternative:* soy or sunflower lecithin";;1
+Matcha green tea powder (organic) [Mandoi];2.00;g;2;383.00;3.90;65.40;;29.30;0.01;;;"1tsp = 2g; *optional:* for color";;1
 ;;;;;;;;;;;;;;
 Cream 32% [REWE Beste Wahl];15.00;ml;3;311.00;32.00;3.20;3.20;2.50;0.13;0.03;6.32;;;1
 Flavor drops Vanilla (sucralose) [IronMaxx];≈3;drops;3;;;;;;;;;to taste;;

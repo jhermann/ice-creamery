@@ -52,6 +52,7 @@ Rating: 😋😋😋😋
   - _15g_ [Whey + Casein protein (grass-fed) \[Vilgain\]](/ice-creamery/info/ingredients/#whey-protein){target="_blank"}<sup>↗</sup> • with stevia
   - _15g_ [Skim milk powder 1:10 (SMP) \[Vita2You\]](/ice-creamery/info/ingredients/#skim-milk-powder-smp){target="_blank"}<sup>↗</sup>
   - _3g_ [Glycerol Monostearate (E471) \[Bulk\]](/ice-creamery/info/ingredients/#glycerol-monostearate-gms-e471){target="_blank"}<sup>↗</sup> • approx. 1½ tsp; *alternative:* soy or sunflower lecithin
+  - _2g_ Matcha green tea powder (organic) [Mandoi] • 1tsp = 2g; *optional:* for color
 
 **Fill to MAX**
 
@@ -70,11 +71,11 @@ Rating: 😋😋😋😋
 
 # NUTRITIONAL & OTHER INFO
 
-- **Nutritional values per 100g/ml:** 100g; 130.0 kcal; fat 6.0g; carbs 13.5g; sugar 1.9g; protein 7.5g; salt 0.3g
-- **Nutritional values per ½ Deluxe Tub:** 340g; 441.9 kcal; fat 20.5g; carbs 46.0g; sugar 6.6g; protein 25.5g; salt 0.9g
-- **Nutritional values total:** 683g; 887.8 kcal; fat 41.2g; carbs 92.4g; sugar 13.2g; protein 51.2g; salt 1.8g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.68
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 23.05% • Low-Sugar • Hi-Protein
-- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 60.6g • 8.9%
-- **Net carbs:** 36.3g • *∝ 5 servings@137g:* 7.3g • *∝ 3 servings@228g:* 12.1g • *energy ratio (low <20%):* 16.4%
+- **Nutritional values per 100g/ml:** 100g; 130.7 kcal; fat 6.0g; carbs 13.7g; sugar 1.9g; protein 7.6g; salt 0.3g
+- **Nutritional values per ½ Deluxe Tub:** 340g; 444.5 kcal; fat 20.5g; carbs 46.5g; sugar 6.6g; protein 25.7g; salt 0.9g
+- **Nutritional values total:** 685g; 895.4 kcal; fat 41.3g; carbs 93.7g; sugar 13.2g; protein 51.7g; salt 1.8g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.59
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 23.12% • Low-Sugar • Hi-Protein
+- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 60.6g • 8.8%
+- **Net carbs:** 37.6g • *∝ 5 servings@137g:* 7.5g • *∝ 3 servings@228g:* 12.5g • *energy ratio (low <20%):* 16.8%
 - **15g 'Salty Stability' is:** 11.0g Inulin • 1.8g Glycerol Monostearate (GMS / E471) • 0.9g Tylose powder (E466, Tylo, CMC) • 0.6g Guar gum (E412) • 0.5g Salt • 0.2g Xanthan gum (E415, XG).
