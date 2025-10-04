@@ -57,13 +57,13 @@ Process on *Light Ice Cream*, do a scrape-down, and MIX-IN or RESPIN (choose dep
 
 **Wet**
 
-  - _250ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup> • use any other preferred milk (~2% fat)
-  - _175ml_ [Coconut milk 22% \[REWE Bio\]](/ice-creamery/info/ingredients/#coconut-milk){target="_blank"}<sup>↗</sup>
-  - _15g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • Sweetness = 60%; GI = 5; Density = 1.26 g/ml
-  - _15g_ [Brandy or Vodka 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup> • *alternative:* 12g (additional) VG for a sober recipe
+  - _350ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup> • use any other preferred milk (~2% fat)
+  - _20g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • Sweetness = 60%; GI = 5; Density = 1.26 g/ml
+  - _10g_ [Brandy or Vodka 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup> • *alternative:* 8g (additional) VG for a sober recipe
 
 **Dry**
 
+  - _65g_ [Coconut Milk Powder 54% \[Green Essence\]](/ice-creamery/info/ingredients/#coconut-milk){target="_blank"}<sup>↗</sup> • *alternative:* 175ml coconut milk 22%, 100ml less soy milk
   - _30g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • *alternative:* 40g allulose or dextrose
   - _15g_ [Salty Stability \[Inulin / GMS / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup> • *not-as-good substitute:* 1.5g guar, 0.5g xanthan, and 0.5g salt
   - _15g_ [Whey + Casein protein (grass-fed) \[Vilgain\]](/ice-creamery/info/ingredients/#whey-protein){target="_blank"}<sup>↗</sup> • with stevia
@@ -93,11 +93,11 @@ Process on *Light Ice Cream*, do a scrape-down, and MIX-IN or RESPIN (choose dep
 
 # NUTRITIONAL & OTHER INFO
 
-- **Nutritional values per 100g/ml:** 100g; 116.4 kcal; fat 6.4g; carbs 13.3g; sugar 3.7g; protein 3.6g; salt 0.1g
-- **Nutritional values per ½ Deluxe Tub:** 340g; 395.6 kcal; fat 21.6g; carbs 45.3g; sugar 12.6g; protein 12.1g; salt 0.4g
-- **Nutritional values total:** 690g; 802.9 kcal; fat 43.9g; carbs 92.0g; sugar 25.5g; protein 24.6g; salt 0.9g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.05
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 12.27% • Low-Sugar
-- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 23.6g • 3.4%
-- **Net carbs:** 43.5g • *∝ 5 servings@138g:* 8.7g • *∝ 3 servings@230g:* 14.5g • *energy ratio (low <20%):* 21.6%
+- **Nutritional values per 100g/ml:** 100g; 127.4 kcal; fat 6.3g; carbs 17.2g; sugar 2.8g; protein 4.1g; salt 0.1g
+- **Nutritional values per ½ Deluxe Tub:** 340g; 433.2 kcal; fat 21.4g; carbs 58.5g; sugar 9.7g; protein 14.1g; salt 0.5g
+- **Nutritional values total:** 680g; 866.4 kcal; fat 42.8g; carbs 117.0g; sugar 19.3g; protein 28.2g; salt 1.0g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.08
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 13.01% • Low-Sugar
+- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 57.8g • 8.5%
+- **Net carbs:** 66.0g • *∝ 5 servings@136g:* 13.2g • *∝ 3 servings@227g:* 22g • *energy ratio (low <20%):* 30.5%
 - **15g 'Salty Stability' is:** 11.0g Inulin • 1.8g Glycerol Monostearate (GMS / E471) • 0.9g Tylose powder (E466, Tylo, CMC) • 0.6g Guar gum (E412) • 0.5g Salt • 0.2g Xanthan gum (E415, XG).
