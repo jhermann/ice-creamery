@@ -46,14 +46,20 @@ Spun on *FroYo*, then *Ice Cream*.
 > <img width=220 alt="After Ice cream" src="Lazy-Skyr-SB_2025-08-28_2.jpg" class="zoomable" />
 > <img width=220 alt="Scooped" src="Lazy-Skyr-SB_2025-08-28_3.jpg" class="zoomable" />
 
+Cherry flavor, spun on FroYo followed by a respin.
+
+> <img width=220 alt="After FroYo" src="Lazy-Skyr-Cherry_2025-10-04_1.jpg" class="zoomable" />
+> <img width=220 alt="After Respin" src="Lazy-Skyr-Cherry_2025-10-04_2.jpg" class="zoomable" />
+> <img width=220 alt="Scooped" src="Lazy-Skyr-Cherry_2025-10-04_3.jpg" class="zoomable" />
+
 # INGREDIENTS
 
 ℹ️ Brand names are in square brackets `[...]`.
 
 **Wet**
 
-  - _450ml_ Skyr “Vanilla” [Milsani / Aldi] • 500g container; vanilla / blueberry/ cherry / strawberry flavors
-  - _150ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
+  - _450ml_ Skyr (flavored) [Milsani / Aldi] • 500g container; vanilla / blueberry/ cherry / strawberry flavors
+  - _150ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup> • *alternative*: use any other preferred milk (~2% fat)
   - _15g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • *alternative:* 53g lactose
   - _15g_ [Brandy or Vodka 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup> • *alternative:* 12g (additional) VG for a sober recipe
   - _5ml_ Lemon juice
@@ -61,7 +67,7 @@ Spun on *FroYo*, then *Ice Cream*.
 
 **Dry**
 
-  - _10g_ [Salty Stability \[Inulin / GMS / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup> • unsweetened “ICSv2”
+  - _10g_ [Salty Stability \[Inulin / GMS / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup> • *not-as-good substitute:* 1g guar, 0.3g xanthan, and 0.3g salt
   - _10g_ [Whey + Casein protein (grass-fed) \[Vilgain\]](/ice-creamery/info/ingredients/#whey-protein){target="_blank"}<sup>↗</sup> • with stevia
   - _23g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • *alternative:* 31g allulose or dextrose
   - _10g_ ❔Strawberry powder [Supergarden] • *optional*, recommended for “Strawberry” flavor
