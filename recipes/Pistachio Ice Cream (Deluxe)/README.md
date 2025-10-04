@@ -51,7 +51,7 @@ Rating: 😋😋😋😋
   - _15g_ [Salty Stability \[Inulin / GMS / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup> • *not-as-good substitute:* 1.5g guar, 0.5g xanthan, and 0.5g salt
   - _15g_ [Whey + Casein protein (grass-fed) \[Vilgain\]](/ice-creamery/info/ingredients/#whey-protein){target="_blank"}<sup>↗</sup> • with stevia
   - _15g_ [Skim milk powder 1:10 (SMP) \[Vita2You\]](/ice-creamery/info/ingredients/#skim-milk-powder-smp){target="_blank"}<sup>↗</sup>
-  - _3g_ [Glycerol Monostearate (E471) \[Bulk\]](/ice-creamery/info/ingredients/#glycerol-monostearate-gms-e471){target="_blank"}<sup>↗</sup> • approx. 1½ tsp; *alternative:* soy or sunflower lecithin
+  - _3g_ [Glycerol Monostearate (E471) \[Bulk\]](/ice-creamery/info/ingredients/#glycerol-monostearate-gms-e471){target="_blank"}<sup>↗</sup> • *alternative:* soy or sunflower lecithin
   - _2g_ Matcha green tea powder (organic) [Mandoi] • 1tsp = 2g; *optional:* for color
 
 **Fill to MAX**
