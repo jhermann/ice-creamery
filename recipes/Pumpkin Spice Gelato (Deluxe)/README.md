@@ -24,9 +24,10 @@ tags:
 
 This pumpkin spice ice cream is a high-protein, dairy-light treat built for creamy texture and balanced nutrition.
 
-Inspired by https://www.youtube.com/watch?v=liA8HlIivC4
+Inspired by [this Polar Ice Creamery video](https://www.youtube.com/watch?v=liA8HlIivC4).
 
 Spin on “Light Ice Cream”, scrape down, and re-mix if needed.
+
 > <img width=220 alt="After Sorbet" src="_1.jpg" class="zoomable" />
 > <img width=220 alt="After Mix-in" src="_2.jpg" class="zoomable" />
 > <img width=220 alt="Scooped" src="_3.jpg" class="zoomable" />
@@ -53,7 +54,7 @@ Rating: 😋 (untested)
   - _2g_ Pumpkin spice • 3 cinnamon, 2 ginger, 2 nutmeg, 1.5 all-spice, 1.5 cloves
   - _1.5g_ [Guar gum (E412)](/ice-creamery/info/ingredients/#guar-gum-e412){target="_blank"}<sup>↗</sup>
   - _0.5g_ [Xanthan gum (E415, XG)](/ice-creamery/info/ingredients/#xanthan-gum-xg-e415){target="_blank"}<sup>↗</sup> • 1tsp ≈ 2.8g
-  - _1g_ Salt • 26 quick shakes (with my shaker)
+  - _1g_ Salt
 
 **Fill to MAX**
 
