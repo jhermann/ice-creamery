@@ -20,13 +20,13 @@ tags:
 - Xylitol
 ---
 # Pumpkin Spice Gelato (Deluxe)
+<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="logo-pumpkin-spice.png" />
 
 This pumpkin spice ice cream is a high-protein, dairy-light treat built for creamy texture and balanced nutrition.
 
 Inspired by https://www.youtube.com/watch?v=liA8HlIivC4
 
 Spin on “Light Ice Cream”, scrape down, and re-mix if needed.
-
 > <img width=220 alt="After Sorbet" src="_1.jpg" class="zoomable" />
 > <img width=220 alt="After Mix-in" src="_2.jpg" class="zoomable" />
 > <img width=220 alt="Scooped" src="_3.jpg" class="zoomable" />
