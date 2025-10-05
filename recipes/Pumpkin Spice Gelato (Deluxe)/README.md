@@ -51,7 +51,7 @@ Rating: 😋 (untested)
   - _15g_ [Skim milk powder 1:10 (SMP) \[Vita2You\]](/ice-creamery/info/ingredients/#skim-milk-powder-smp){target="_blank"}<sup>↗</sup>
   - _15g_ [Whey + Casein protein (grass-fed) \[Vilgain\]](/ice-creamery/info/ingredients/#whey-protein){target="_blank"}<sup>↗</sup> • with stevia
   - _2g_ [Glycerol Monostearate (E471) \[Bulk\]](/ice-creamery/info/ingredients/#glycerol-monostearate-gms-e471){target="_blank"}<sup>↗</sup> • *alternative:* lecithin
-  - _2g_ Pumpkin spice • 3 cinnamon, 2 ginger, 2 nutmeg, 1.5 all-spice, 1.5 cloves
+  - _2g_ Pumpkin spice • 21g cinnamon, 5g ginger, 4g nutmeg, 3g cloves, 2g allspice
   - _1.5g_ [Guar gum (E412)](/ice-creamery/info/ingredients/#guar-gum-e412){target="_blank"}<sup>↗</sup>
   - _0.5g_ [Xanthan gum (E415, XG)](/ice-creamery/info/ingredients/#xanthan-gum-xg-e415){target="_blank"}<sup>↗</sup> • 1tsp ≈ 2.8g
   - _1g_ Salt
