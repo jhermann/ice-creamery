@@ -1,14 +1,14 @@
 Mango Kulfi (Deluxe);;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 ;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;;
-Nutritional values per 100g/ml;100;g;;125.7;6.3;19.7;6.0;1.0;0.1;;;;;
-Nutritional values per ½ Deluxe Tub;340;g;;427.2;21.6;66.9;20.5;3.3;0.2;;;;;
-Nutritional values total;680;g;;854.5;43.1;133.7;41.0;6.6;0.5;;;;;
+Nutritional values per 100g/ml;100;g;;126.5;6.3;20.4;6.0;1.0;0.1;;;;;
+Nutritional values per ½ Deluxe Tub;340;g;;430.0;21.6;69.4;20.5;3.3;0.2;;;;;
+Nutritional values total;680;g;;859.9;43.1;138.7;41.0;6.6;0.5;;;;;
 ;;;;;;;;;;;;;;
-FPDF / PAC (target 20..30);31.99;;;;;;;;;;;;;
-"Protein / Energy Ratio (ok=12%; hi=20%)";3.10%;;;;;;;;Low-Salt;;;;;
+FPDF / PAC (target 20..30);33.88;;;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";3.09%;;;;;;;;Low-Salt;;;;;
 ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);34.9;g;;5.1%;;;;;;;;;;
-ℹ️ Net carbs;83.9;g;;*∝ 5 servings@136g:* 16.8g;;;*∝ 3 servings@227g:* 28g;;;*energy ratio (low <20%):* 39.3%;;;;
+ℹ️ Net carbs;83.9;g;;*∝ 5 servings@136g:* 16.8g;;;*∝ 3 servings@227g:* 28g;;;*energy ratio (low <20%):* 39%;;;;
 ;;;;;;;;;;;;;;
 "*Mango Kulfi* is a rich and creamy frozen dessert that combines the tropical sweetness of mangoes
 with the smooth, velvety texture of coconut milk and a hint of fragrant cardamom.
@@ -18,7 +18,9 @@ making it a perfect way to cool down on hot days or end a meal with something ex
 ;;;;;;;;;;;;;;
 > *Older version processed on Sorbet, then a scrape-down and a mix-in run.* <br /><br />Rating: 😋🥥🥭  (needs improvement)<br clear=all />;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
-> *Current version processed on Sorbet, then a scrape-down and a respin.* <br /><br />Rating: 😋🥥🥭🥭  (I think I do not like mango too much, but it’s creamy all right);;;;;;;;;;;;;;
+"In September 2025 I rewrote this to use the new sweetener and stabilizer blends, coconut milk powder for convenience, and a bit of WMS for an extra creaminess boost.
+
+> *Current version processed on Sorbet, then a scrape-down and a respin.* <br /><br />Rating: 😋🥥🥭🥭  (I think I do not like mango too much, but it’s creamy all right)";;;;;;;;;;;;;;
 "1. Mix the coconut milk powder and the GMS in a medium-sized bowl.
  1. Add the hot water and whisk until clump-free.";;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
@@ -31,13 +33,13 @@ Lemon juice;30.00;ml;1;25.00;0.10;3.36;1.65;0.30;0.01;0.02;;;;1
 Glycerin (E422, VG) [hd-line];15.00;g;1;400.00;;99.00;;;;3.70;;;50.00;1
 Brandy or Vodka 40 vol%;10.00;g;1;280.00;;;;;;2.96;;*alternative:* 8g (additional) VG for a sober recipe;;1
 Coconut milk 22% [REWE Bio];;ml;1;222.00;22.00;4.00;4.00;2.00;0.04;0.04;;;;1
-SweEX (Erythritol + Xylitol 3:2);35.00;g;2;109.60;;100.00;;;;2.56;;*alternative:* 47g allulose or dextrose;100.00;1
+SweEX (Erythritol + Xylitol 3:2);40.00;g;2;109.60;;100.00;;;;2.56;;*alternative:* 53g allulose or dextrose;100.00;1
 Salty Stability [Inulin / GMS / CMC / Guar / XG / Salt];10.00;g;2;267.5;3.6;88.4;5.9;0.3;3.5;0.06;;*not-as-good substitute:* 1g guar, 0.3g xanthan, and 0.3g salt;73.80;1
 Waxy Maize Starch (E1442) [Ultratex];5.00;g;2;391.00;0.15;97.00;0.00;0.50;0.50;;;*optional*;;1
 Cardamom;1.00;pinch;2;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
-Water to MAX line;48.00;ml;3;;;;;;;;;;;1
+Water to MAX line;43.00;ml;3;;;;;;;;;;;1
 Flavor drops Peach / Maracuja (sucralose) [IronMaxx];≈4;drops;3;;;;;;;;;to taste;;
 ;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;

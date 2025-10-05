@@ -29,7 +29,7 @@ This dairy-free twist on the traditional Indian treat is both refreshing and ind
 making it a perfect way to cool down on hot days or end a meal with something exotic yet comforting.
 
 > <img style="float: left; margin-right: 1.5em;" width=180 alt="Spun Ice Cream" src="Mango-Kulfi_2025-01-06.jpg" class="zoomable" />
-> 
+>
 > *Older version processed on Sorbet, then a scrape-down and a mix-in run.* <br /><br />Rating: 😋🥥🥭  (needs improvement)<br clear=all />
 
 In September 2025 I rewrote this to use the new sweetener and stabilizer blends, coconut milk powder for convenience, and a bit of WMS for an extra creaminess boost.
@@ -37,7 +37,7 @@ In September 2025 I rewrote this to use the new sweetener and stabilizer blends,
 > <img width=220 alt="After Sorbet" src="Mango-Kulfi_2025-09-20_1.jpg" class="zoomable" />
 > <img width=220 alt="After Respin" src="Mango-Kulfi_2025-09-20_2.jpg" class="zoomable" />
 > <img width=220 alt="Scooped" src="Mango-Kulfi_2025-09-20_3.jpg" class="zoomable" />
->
+> 
 > *Current version processed on Sorbet, then a scrape-down and a respin.* <br /><br />Rating: 😋🥥🥭🥭  (I think I do not like mango too much, but it’s creamy all right)
 
 # INGREDIENTS
@@ -59,14 +59,14 @@ In September 2025 I rewrote this to use the new sweetener and stabilizer blends,
 
 **Dry**
 
-  - _35g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • *alternative:* 47g allulose or dextrose
+  - _40g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • *alternative:* 53g allulose or dextrose
   - _10g_ [Salty Stability \[Inulin / GMS / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup> • *not-as-good substitute:* 1g guar, 0.3g xanthan, and 0.3g salt
   - _5g_ [Waxy Maize Starch (E1442) \[Ultratex\]](/ice-creamery/info/ingredients/#waxy-maize-starch-e1442){target="_blank"}<sup>↗</sup> • *optional*
   - _1 pinch_ Cardamom
 
 **Fill to MAX**
 
-  - _48ml_ Water to MAX line
+  - _43ml_ Water to MAX line
   - _≈4 drops_ Flavor drops Peach / Maracuja (sucralose) [IronMaxx] • to taste
 
 # DIRECTIONS
@@ -83,11 +83,11 @@ In September 2025 I rewrote this to use the new sweetener and stabilizer blends,
 
 # NUTRITIONAL & OTHER INFO
 
-- **Nutritional values per 100g/ml:** 100g; 125.7 kcal; fat 6.3g; carbs 19.7g; sugar 6.0g; protein 1.0g; salt 0.1g
-- **Nutritional values per ½ Deluxe Tub:** 340g; 427.2 kcal; fat 21.6g; carbs 66.9g; sugar 20.5g; protein 3.3g; salt 0.2g
-- **Nutritional values total:** 680g; 854.5 kcal; fat 43.1g; carbs 133.7g; sugar 41.0g; protein 6.6g; salt 0.5g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 31.99
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 3.10% • Low-Salt
+- **Nutritional values per 100g/ml:** 100g; 126.5 kcal; fat 6.3g; carbs 20.4g; sugar 6.0g; protein 1.0g; salt 0.1g
+- **Nutritional values per ½ Deluxe Tub:** 340g; 430.0 kcal; fat 21.6g; carbs 69.4g; sugar 20.5g; protein 3.3g; salt 0.2g
+- **Nutritional values total:** 680g; 859.9 kcal; fat 43.1g; carbs 138.7g; sugar 41.0g; protein 6.6g; salt 0.5g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 33.88
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 3.09% • Low-Salt
 - **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 34.9g • 5.1%
-- **Net carbs:** 83.9g • *∝ 5 servings@136g:* 16.8g • *∝ 3 servings@227g:* 28g • *energy ratio (low <20%):* 39.3%
+- **Net carbs:** 83.9g • *∝ 5 servings@136g:* 16.8g • *∝ 3 servings@227g:* 28g • *energy ratio (low <20%):* 39%
 - **10g 'Salty Stability' is:** 7.3g Inulin • 1.2g Glycerol Monostearate (GMS / E471) • 0.6g Tylose powder (E466, Tylo, CMC) • 0.4g Guar gum (E412) • 0.33g Salt • 0.13g Xanthan gum (E415, XG).
