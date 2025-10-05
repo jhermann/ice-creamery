@@ -25,11 +25,11 @@ Banana recipe with fewer ingredients and 50% bananas.
 
 Spin on “Light Ice Cream”, scrape down, and re-mix.
 
-> <img width=220 alt="After Light Ice Cream" src="_1.jpg" class="zoomable" />
-> <img width=220 alt="After Mix-in" src="_2.jpg" class="zoomable" />
-> <img width=220 alt="Scooped" src="_3.jpg" class="zoomable" />
+> <img width=220 alt="After Light Ice Cream" src="Easy-Peely_2025-10-05_1.jpg" class="zoomable" />
+> <img width=220 alt="After Mix-in" src="Easy-Peely_2025-10-05_2.jpg" class="zoomable" />
+> <img width=220 alt="Scooped" src="Easy-Peely_2025-10-05_3.jpg" class="zoomable" />
 
-Rating: 😋🍌 (untested)
+Rating: 😋🍌🍌🍌🍫 (smooth and creamy, with a dark chocolate mix-in)
 
 # INGREDIENTS
 
