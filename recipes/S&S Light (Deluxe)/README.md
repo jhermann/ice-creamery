@@ -11,6 +11,7 @@ tags:
 - Fruit
 - Low-Sugar
 - Polysaccharide Gum
+- Scoopable
 - Stevia
 - Xylitol
 ---
@@ -20,14 +21,18 @@ Adapted Salt & Straw's base, scaled to ~600g and targeted for less fat (8%) and 
 
 Example recipe flavored with strawberries (fresh/frozen + freeze-dried).
 
+> <img width=220 alt="After Sorbet" src="_1.jpg" class="zoomable" />
+> <img width=220 alt="After Mix-in" src="_2.jpg" class="zoomable" />
+> <img width=220 alt="Scooped" src="_3.jpg" class="zoomable" />
+
 # INGREDIENTS
 
 ℹ️ Brand names are in square brackets `[...]`.
 
 **Wet**
 
-  - _125g_ Cream 32% [REWE Beste Wahl]
   - _375ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup> • use any other preferred milk (~2% fat)
+  - _15g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • POD = 60%; GI = 5; Density = 1.26 g/ml
 
 **Dry**
 
@@ -40,9 +45,9 @@ Example recipe flavored with strawberries (fresh/frozen + freeze-dried).
 
 **Fill to MAX**
 
+  - _125g_ Cream 32% [REWE Beste Wahl]
   - _60g_ Strawberries
   - _20g_ Strawberry powder [Supergarden]
-  - _10g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • POD = 60%; GI = 5; Density = 1.26 g/ml
 
 # DIRECTIONS
 
@@ -56,10 +61,10 @@ Example recipe flavored with strawberries (fresh/frozen + freeze-dried).
 
 # NUTRITIONAL & OTHER INFO
 
-- **Nutritional values per 100g/ml:** 100g; 116.8 kcal; fat 7.0g; carbs 15.6g; sugar 3.7g; protein 4.1g; salt 0.2g
-- **Nutritional values per ½ Deluxe Tub:** 340g; 397.0 kcal; fat 23.7g; carbs 53.1g; sugar 12.5g; protein 13.9g; salt 0.7g
-- **Nutritional values total:** 682g; 795.7 kcal; fat 47.5g; carbs 106.4g; sugar 25.2g; protein 27.9g; salt 1.4g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 27.94
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 14.04% • Low-Sugar
-- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 41.3g • 6.1%
-- **Net carbs:** 34.1g • *∝ 5 servings@136g:* 6.8g • *∝ 3 servings@227g:* 11.4g • *energy ratio (low <20%):* 17.2%
+- **Nutritional values per 100g/ml:** 100g; 118.8 kcal; fat 6.9g; carbs 16.2g; sugar 3.7g; protein 4.1g; salt 0.2g
+- **Nutritional values per ½ Deluxe Tub:** 340g; 404.0 kcal; fat 23.5g; carbs 55.1g; sugar 12.5g; protein 13.8g; salt 0.7g
+- **Nutritional values total:** 687g; 815.7 kcal; fat 47.5g; carbs 111.3g; sugar 25.2g; protein 27.9g; salt 1.4g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.43
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 13.69% • Low-Sugar
+- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 41.3g • 6.0%
+- **Net carbs:** 36.6g • *∝ 5 servings@137g:* 7.3g • *∝ 3 servings@229g:* 12.2g • *energy ratio (low <20%):* 17.9%
