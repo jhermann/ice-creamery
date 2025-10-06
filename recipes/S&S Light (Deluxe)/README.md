@@ -6,10 +6,10 @@ excluded_tags:
 - Allulose
 - Vanilla
 tags:
-- Draft
 - Erythritol
 - Fruit
 - Low-Sugar
+- Multi-Flavor
 - Polysaccharide Gum
 - Scoopable
 - Stevia
@@ -17,13 +17,17 @@ tags:
 ---
 # S&S Light (Deluxe)
 
-Adapted Salt & Straw's base, scaled to ~600g and targeted for less fat (8%) and sugar (2%) with 2.6% net carbs.
+Adapted Salt & Straw's base, scaled to ~600g and targeted for less fat (8%) and sugar (2%) with 3.4% net carbs.
 
 Example recipe flavored with strawberries (fresh/frozen + freeze-dried).
 
-> <img width=220 alt="After Sorbet" src="_1.jpg" class="zoomable" />
-> <img width=220 alt="After Mix-in" src="_2.jpg" class="zoomable" />
-> <img width=220 alt="Scooped" src="_3.jpg" class="zoomable" />
+Process on *Light Ice Cream*, scrape-down, and then a mix-in or respin as needed.
+
+> <img width=220 alt="After Light Ice Cream" src="S+S-Light-Blueberry_2025-10-06_1.jpg" class="zoomable" />
+> <img width=220 alt="After Mix-in" src="S+S-Light-Blueberry_2025-10-06_2.jpg" class="zoomable" />
+> <img width=220 alt="Scooped" src="S+S-Light-Blueberry_2025-10-06_3.jpg" class="zoomable" />
+
+Rating: 😋😋🥛🫐🫐 (Creamy and ice-free, with blueberries)
 
 # INGREDIENTS
 
@@ -68,3 +72,4 @@ Example recipe flavored with strawberries (fresh/frozen + freeze-dried).
 - **Protein / Energy Ratio (ok=12%; hi=20%):** 13.69% • Low-Sugar
 - **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 41.3g • 6.0%
 - **Net carbs:** 36.6g • *∝ 5 servings@137g:* 7.3g • *∝ 3 servings@229g:* 12.2g • *energy ratio (low <20%):* 17.9%
+- **Net carbs (base only):** 22.9g
