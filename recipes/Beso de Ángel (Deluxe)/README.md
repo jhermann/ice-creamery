@@ -8,6 +8,8 @@ excluded_steps:
 excluded_tags:
 - Allulose
 - Vanilla
+remove:
+- ' (to the MAX line)'
 tags:
 - Cooked Base
 - Draft
@@ -77,7 +79,7 @@ The mix-ins as listed below add 230kcal and 20.1g sugar.
  1. Heat the ‘wet’ ingredients to about 60°C, and whisk in the dry ones that you mixed together beforehand.
  1. Pour into the Creami tub and blend together with the fruit to a smooth consistency.
  1. Let blender run until thickeners are properly hydrated, up to 1-2 min. Or blend again after waiting that time.
- 1. Add remaining ingredients (to the MAX line) and stir with a spoon.
+ 1. Add remaining ingredients and stir with a spoon.
  1. Put on the lid, freeze for 24h, then spin as usual. Flatten any humps before that.
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
  1. Process with MIX-IN after adding mix-ins evenly. For that, add partial amounts into a hole going down to the bottom, and fold the ice cream over, building pockets of mix-ins.
