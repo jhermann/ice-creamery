@@ -607,6 +607,7 @@ def main():
     snippet_re = '|'.join([re.escape(x) for x in SNIPPETS.keys()])
     snippet_re = f'<!-- SNIPPET: ({snippet_re}) -->'
     md_text, _ = re.subn('\n{2,}', '\n\n', md_text)
+    md_text, _ = re.subn(r'(\d) • g', r'\1g', md_text)
     md_text, _ = re.subn(snippet_re, lambda x: SNIPPETS[x.group(1)].strip(), md_text)
 
     if args.dry_run:
