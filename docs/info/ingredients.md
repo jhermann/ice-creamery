@@ -198,6 +198,20 @@ but on the positive side it does not promote tooth decay.
 
 Maltitol is commercially produced by hydrogenating maltose, which comes from starch.
 
+### Polydextrose (E1200)
+
+Polydextrose is a synthetic ingredient made from glucose, sorbitol, and citric acid,
+and used as a bulk agent, filler, and humectant. It can replace fat and sugar,
+reduce calories, and improve texture and mouthfeel. It is considered a prebiotic fiber
+and only has about 1 kcal/g.
+
+It is a long-chain, sugar-like molecule that is not fully digestible by human enzymes. 
+EU regulations require labelling above 15g for possible GI issues in sensitive individuals,
+so take that into account. From a safety standpoint, there are no limits set.
+
+Compared to inulin, polydextrose is also a soluble fiber and very similar in sweetness and GI,
+but has a five times higher PAC of 100.
+
 ### Resistant Dextrin (E1400)
 
 *Resistant dextrin* (RD) is a soluble dietary fiber and prebiotic, with a very low sweetness (POD ≈10%) and a bland taste.
