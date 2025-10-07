@@ -23,6 +23,7 @@ tags:
 - Xylitol
 ---
 # Beso de Ángel (Deluxe)
+<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="logo-angels-kiss.png" />
 
 *Beso de Ángel* (angel’s kiss)  is a traditional Mexican ice cream flavor, made with a cherry ice cream base and various mix-ins like nuts (almonds, walnuts, pecans), raisins, marshmallows, and sometimes other fruits or even chocolate.
 
