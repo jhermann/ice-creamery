@@ -609,6 +609,9 @@ def main():
     md_text, _ = re.subn('\n{2,}', '\n\n', md_text)
     md_text, _ = re.subn(r'(\d) • g', r'\1g', md_text)
     md_text, _ = re.subn(snippet_re, lambda x: SNIPPETS[x.group(1)].strip(), md_text)
+    doc_start = md_text.find('\n---\n')
+    for fragment in docmeta.get("remove", []):
+        md_text = md_text[:doc_start] + md_text[doc_start:].replace(fragment, '')
 
     if args.dry_run:
         print(md_text, end=None)
