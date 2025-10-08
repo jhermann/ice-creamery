@@ -1,14 +1,14 @@
 Pumpkin Spice Gelato (Deluxe);;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 ;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;;
-Nutritional values per 100g/ml;100;g;;106.5;5.9;12.6;1.9;4.9;0.3;;;;;
-Nutritional values per ½ Deluxe Tub;340;g;;362.2;19.9;42.8;6.3;16.8;0.9;;;;;
-Nutritional values total;690;g;;735.1;40.4;87.0;12.8;34.1;1.8;;;;;
+Nutritional values per 100g/ml;100;g;;108.0;5.9;12.8;2.1;5.0;0.3;;;;;
+Nutritional values per ½ Deluxe Tub;340;g;;367.3;20.1;43.6;7.0;16.9;0.9;;;;;
+Nutritional values total;691;g;;746.5;40.8;88.6;14.3;34.3;1.8;;;;;
 ;;;;;;;;;;;;;;
-FPDF / PAC (target 20..30);30.57;;;;;;;;;;;;;
-"Protein / Energy Ratio (ok=12%; hi=20%)";18.56%;;;;;;Low-Sugar;;;;;;;
+FPDF / PAC (target 20..30);30.53;;;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";18.37%;;;;;;Low-Sugar;;;;;;;
 ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);53.0;g;;7.7%;;;;;;;;;;
-ℹ️ Net carbs;26.1;g;;*∝ 5 servings@138g:* 5.2g;;;*∝ 3 servings@230g:* 8.7g;;;*energy ratio (low <20%):* 14.2%;;;;
+ℹ️ Net carbs;27.7;g;;*∝ 5 servings@138g:* 5.5g;;;*∝ 3 servings@230g:* 9.2g;;;*energy ratio (low <20%):* 14.8%;;;;
 ;;;;;;;;;;;;;;
 "This pumpkin spice ice cream is a high-protein, dairy-light treat built for creamy texture and balanced nutrition.
 
@@ -19,12 +19,16 @@ Inspired by [this Polar Ice Creamery video](https://www.youtube.com/watch?v=liA8
 
 Rating: 😋 (untested)";;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
-"1. Heat the soy milk to about 60°C.
- 1. Whisk in the dry ingredients, after blending them together first.
- 1. Add the other ‘wet’ ingredients and blend to emulsify.";;;;;;;;;;;;;;
+"1. Heat part of the milk to about 60°C, add the spice, and let it infuse in the fridge for about an hour.
+ 1. Filter the spicy milk through a coffee filter or cheese cloth into an empty Creami tub.
+ 1. Heat the rest of the milk to about 60°C.
+ 1. Whisk in the dry ingredients, after mixing them together first.
+ 1. Pour it into the tub to the spicy milk, add the other ‘wet’ ingredients, and blend to emulsify and homogenize.";;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment;0Carb[%];Counts?
-Soy milk 1.6% (sugar-free) [Berief];475.00;ml;1;30.00;1.60;0.90;0.00;3.00;0.08;;4.00;use any other preferred milk (~2% fat);;1
+Soy milk 1.6% (sugar-free) [Berief];175.00;ml;0;30.00;1.60;0.90;0.00;3.00;0.08;;4.00;use any other preferred milk (~2% fat);;1
+Pumpkin spice [Just Spices];3.00;g;0;379.00;12.40;53.40;48.00;5.80;0.13;;;;;1
+Soy milk 1.6% (sugar-free) [Berief];300.00;ml;1;30.00;1.60;0.90;0.00;3.00;0.08;;4.00;use any other preferred milk (~2% fat);;1
 Glycerin (E422, VG) [hd-line];15.00;g;1;400.00;;99.00;;;;3.70;;;50.00;1
 Brandy or Vodka 40 vol%;8.00;g;1;280.00;;;;;;2.96;;*alternative:* 6g (additional) VG for a sober recipe;;1
 SweEX (Erythritol + Xylitol 3:2);40.00;g;2;109.60;;100.00;;;;2.56;;*alternative:* 53g allulose or dextrose;100.00;1
@@ -32,7 +36,6 @@ Inulin [Vit4ever];15.00;g;2;210.00;;97.00;8.00;;0.20;0.09;;"Sweetness = 8%; GI ~
 Skim milk powder 1:10 (SMP) [Vita2You];15.00;g;2;358.00;0.97;50.50;50.50;35.00;1.00;0.51;94.03;;;1
 Whey + Casein protein (grass-fed) [Vilgain];15.00;g;2;384.00;4.60;5.70;5.60;80.00;0.50;0.06;90.40;with stevia;;1
 Glycerol Monostearate (E471) [Bulk];2.00;g;2;415.00;;;;;;;;*alternative:* lecithin;;1
-Pumpkin spice;2.00;g;2;;;;;;;;;21g cinnamon, 5g ginger, 4g nutmeg, 3g cloves, 2g allspice;;1
 Guar gum (E412);1.50;g;2;180.00;0.60;84.00;0.00;5.50;0.30;;;;;1
 Xanthan gum (E415, XG);0.50;g;2;320.00;;78.00;;6.00;1.00;;;1tsp ≈ 2.8g;;1
 Salt;1.00;g;2;;;;;;100.00;5.90;;;;1
