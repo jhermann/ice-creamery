@@ -138,7 +138,7 @@ AUTO_LINK_STOP_WORDS = {
     'Flavor drops', 'Flavor Powder', 'Ice Cream', 'Irish Cream',
     'Low fat milk', 'Milk 3.5%', 'Mint chocolate',
     'Peanut butter', 'Philadelphia Milka',
-    'Soy sauce', 'tea powder', 'to MAX line',
+    'Seed Powder', 'Soy sauce', 'tea powder', 'to MAX line',
 }
 LOGO_IMG = '<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="%s" />'
 MILK_HINT = ('Soy milk 1.6%', '*alternative*: use any other preferred milk (~2% fat)')
