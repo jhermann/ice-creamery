@@ -1,14 +1,14 @@
 Pumpkin Spice Gelato (Deluxe);;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 ;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;;
-Nutritional values per 100g/ml;100;g;;108.0;5.9;12.8;2.1;5.0;0.3;;;;;
-Nutritional values per ½ Deluxe Tub;340;g;;367.3;20.1;43.6;7.0;16.9;0.9;;;;;
-Nutritional values total;691;g;;746.5;40.8;88.6;14.3;34.3;1.8;;;;;
+Nutritional values per 100g/ml;100;g;;110.3;6.0;13.2;2.2;5.0;0.3;;;;;
+Nutritional values per ½ Deluxe Tub;340;g;;375.1;20.4;44.9;7.4;17.0;0.9;;;;;
+Nutritional values total;680;g;;750.1;40.8;89.8;14.7;34.1;1.8;;;;;
 ;;;;;;;;;;;;;;
-FPDF / PAC (target 20..30);30.53;;;;;;;;;;;;;
-"Protein / Energy Ratio (ok=12%; hi=20%)";18.37%;;;;;;Low-Sugar;;;;;;;
-ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);53.0;g;;7.7%;;;;;;;;;;
-ℹ️ Net carbs;27.7;g;;*∝ 5 servings@138g:* 5.5g;;;*∝ 3 servings@230g:* 9.2g;;;*energy ratio (low <20%):* 14.8%;;;;
+FPDF / PAC (target 20..30);31.01;;;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";18.17%;;;;;;Low-Sugar;;;;;;;
+ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);52.4;g;;7.7%;;;;;;;;;;
+ℹ️ Net carbs;28.9;g;;*∝ 5 servings@136g:* 5.8g;;;*∝ 3 servings@227g:* 9.6g;;;*energy ratio (low <20%):* 15.4%;;;;
 ;;;;;;;;;;;;;;
 "This pumpkin spice ice cream is a high-protein, dairy-light treat built for creamy texture and balanced nutrition.
 
@@ -20,15 +20,16 @@ Inspired by [this Polar Ice Creamery video](https://www.youtube.com/watch?v=liA8
 Rating: 😋 (untested)";;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 "1. Heat part of the milk to about 60°C, add the spice, and let it infuse in the fridge for about an hour.
- 1. Filter the spicy milk through a coffee filter or cheese cloth into an empty Creami tub.
+ 1. Filter the spicy milk through a fine mesh into an empty Creami tub.
  1. Heat the rest of the milk to about 60°C.
  1. Whisk in the dry ingredients, after mixing them together first.
  1. Pour it into the tub to the spicy milk, add the other ‘wet’ ingredients, and blend to emulsify and homogenize.";;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment;0Carb[%];Counts?
-Soy milk 1.6% (sugar-free) [Berief];175.00;ml;0;30.00;1.60;0.90;0.00;3.00;0.08;;4.00;use any other preferred milk (~2% fat);;1
-Pumpkin spice [Just Spices];3.00;g;0;379.00;12.40;53.40;48.00;5.80;0.13;;;;;1
-Soy milk 1.6% (sugar-free) [Berief];300.00;ml;1;30.00;1.60;0.90;0.00;3.00;0.08;;4.00;use any other preferred milk (~2% fat);;1
+Soy milk 1.6% (sugar-free) [Berief];180.00;ml;0;30.00;1.60;0.90;0.00;3.00;0.08;;4.00;use any other preferred milk (~2% fat);;1
+Pumpkin spice [Just Spices];4.00;g;0;379.00;12.40;53.40;48.00;5.80;0.13;;;;;1
+Anatto Seed Powder [Naturix24];3.00;g;0;144.00;2.00;28.00;;6.00;;;;*optional*, for color;;1
+Soy milk 1.6% (sugar-free) [Berief];280.00;ml;1;30.00;1.60;0.90;0.00;3.00;0.08;;4.00;use any other preferred milk (~2% fat);;1
 Glycerin (E422, VG) [hd-line];15.00;g;1;400.00;;99.00;;;;3.70;;;50.00;1
 Brandy or Vodka 40 vol%;8.00;g;1;280.00;;;;;;2.96;;*alternative:* 6g (additional) VG for a sober recipe;;1
 SweEX (Erythritol + Xylitol 3:2);40.00;g;2;109.60;;100.00;;;;2.56;;*alternative:* 53g allulose or dextrose;100.00;1
@@ -41,4 +42,4 @@ Xanthan gum (E415, XG);0.50;g;2;320.00;;78.00;;6.00;1.00;;;1tsp ≈ 2.8g;;1
 Salt;1.00;g;2;;;;;;100.00;5.90;;;;1
 ;;;;;;;;;;;;;;
 Cream 32% [REWE Beste Wahl];100.00;ml;3;311.00;32.00;3.20;3.20;2.50;0.13;0.03;6.32;;;1
-Flavor drops Vanilla (sucralose) [IronMaxx];≈4;drops;3;;;;;;;;;to taste;;
+Flavor drops Vanilla (sucralose) [IronMaxx];≈5;drops;3;;;;;;;;;to taste;;
