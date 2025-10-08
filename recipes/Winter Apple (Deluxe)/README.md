@@ -14,6 +14,7 @@ tags:
 - Low-Sugar
 - Polysaccharide Gum
 - Scoopable
+- Seasonal
 - Sorbet
 - Sucralose
 - Tylo Powder (CMC)

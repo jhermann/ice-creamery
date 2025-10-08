@@ -10,6 +10,7 @@ tags:
 - Low-Fat
 - Polysaccharide Gum
 - Scoopable
+- Seasonal
 - Sucralose
 - Tylo Powder (CMC)
 ---

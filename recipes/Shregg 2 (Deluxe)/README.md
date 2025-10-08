@@ -10,6 +10,7 @@ tags:
 - Low-Sugar
 - Polysaccharide Gum
 - Scoopable
+- Seasonal
 - Sucralose
 - Tylo Powder (CMC)
 - Xylitol
