@@ -1,7 +1,7 @@
 ---
 description: Recipe for the Ninja Creami Deluxe [24oz]
 excluded_steps:
-- ^$
+- Add the prepared dry ingredients
 excluded_tags:
 - Vanilla
 remove:
@@ -71,7 +71,6 @@ where cocktails and creamy ice cream become one beastly delight.
 
  1. Zest and juice the lime, mix with syrup and alcohol.
  1. Add "wet" ingredients to empty Creami tub.
- 1. Add the prepared dry ingredients, and blend QUICKLY using an immersion blender on full speed.
  1. Weigh and mix dry ingredients, easiest by adding to a jar with a secure lid and shaking vigorously.
  1. Pour into the tub and *QUICKLY* use an immersion blender on full speed to homogenize everything.
  1. Let blender run until thickeners are properly hydrated, up to 1-2 min. Or blend again after waiting that time.
