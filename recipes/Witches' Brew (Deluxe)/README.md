@@ -7,6 +7,7 @@ excluded_tags:
 remove:
 - '_   _ '
 tags:
+- Alcohol
 - Draft
 - Fruit
 - Low-Sugar
