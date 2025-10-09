@@ -15,9 +15,9 @@ FPDF / PAC (target 20..30);31.01;;;;;;;;;;;;;
 Inspired by [this Polar Ice Creamery video](https://www.youtube.com/watch?v=liA8HlIivC4).";;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
-"Spin on “Light Ice Cream”, scrape down, and re-mix if needed.
+"Spin on “Light Ice Cream”, scrape down, and respin or mix-in if needed.
 
-Rating: 😋 (untested)";;;;;;;;;;;;;;
+Rating: 😋🎃🫚🥛🍫 (with dark chocolate flakes as a mix-in, soft and creamy)";;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 "1. Heat part of the milk to about 60°C, add the spice, and let it infuse in the fridge for about an hour.
  1. Filter the spicy milk through a fine mesh into an empty Creami tub.
@@ -43,3 +43,5 @@ Salt;1.00;g;2;;;;;;100.00;5.90;;;;1
 ;;;;;;;;;;;;;;
 Cream 32% [REWE Beste Wahl];100.00;ml;3;311.00;32.00;3.20;3.20;2.50;0.13;0.03;6.32;;;1
 Flavor drops Vanilla (sucralose) [IronMaxx];≈5;drops;3;;;;;;;;;to taste;;
+;;;;;;;;;;;;;;
+Dark chocolate shavings [Ruf];20.00;g;4;506.00;27.60;53.80;47.50;6.40;0.00;;;not counted in the base macros [101kcal, 9.5g sugar];;

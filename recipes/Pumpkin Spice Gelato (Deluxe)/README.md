@@ -30,13 +30,13 @@ This pumpkin spice ice cream is a high-protein, dairy-light treat built for crea
 
 Inspired by [this Polar Ice Creamery video](https://www.youtube.com/watch?v=liA8HlIivC4).
 
-Spin on “Light Ice Cream”, scrape down, and re-mix if needed.
+Spin on “Light Ice Cream”, scrape down, and respin or mix-in if needed.
 
-> <img width=220 alt="After Sorbet" src="_1.jpg" class="zoomable" />
-> <img width=220 alt="After Mix-in" src="_2.jpg" class="zoomable" />
-> <img width=220 alt="Scooped" src="_3.jpg" class="zoomable" />
+> <img width=220 alt="After Light Ice Cream" src="Pumpkin-Spice_2025-10-09_1.jpg" class="zoomable" />
+> <img width=220 alt="After Mix-in" src="Pumpkin-Spice_2025-10-09_2.jpg" class="zoomable" />
+> <img width=220 alt="Scooped" src="Pumpkin-Spice_2025-10-09_3.jpg" class="zoomable" />
 
-Rating: 😋 (untested)
+Rating: 😋🎃🫚🥛🍫 (with dark chocolate flakes as a mix-in, soft and creamy)
 
 # INGREDIENTS
 
@@ -70,6 +70,10 @@ Rating: 😋 (untested)
   - _100ml_ Cream 32% [REWE Beste Wahl]
   - _≈5 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
 
+**Mix-ins**
+
+  - _20g_ [Dark chocolate shavings \[Ruf\]](/ice-creamery/info/ingredients/#chocolate-shavings){target="_blank"}<sup>↗</sup> • not counted in the base macros [101kcal, 9.5g sugar]
+
 # DIRECTIONS
 
  1. Heat part of the milk to about 60°C, add the spice, and let it infuse in the fridge for about an hour.
@@ -80,6 +84,7 @@ Rating: 😋 (untested)
  1. Add remaining ingredients (to the MAX line) and stir with a spoon.
  1. Put on the lid, freeze for 24h, then spin as usual. Flatten any humps before that.
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
+ 1. Process with MIX-IN after adding mix-ins evenly. For that, add partial amounts into a hole going down to the bottom, and fold the ice cream over, building pockets of mix-ins.
 
 # NUTRITIONAL & OTHER INFO
 
