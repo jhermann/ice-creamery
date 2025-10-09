@@ -35,6 +35,7 @@ Spin on “Light Ice Cream”, scrape down, and respin or mix-in if needed.
 > <img width=220 alt="After Light Ice Cream" src="Pumpkin-Spice_2025-10-09_1.jpg" class="zoomable" />
 > <img width=220 alt="After Mix-in" src="Pumpkin-Spice_2025-10-09_2.jpg" class="zoomable" />
 > <img width=220 alt="Scooped" src="Pumpkin-Spice_2025-10-09_3.jpg" class="zoomable" />
+> <img width=220 alt="Served" src="Pumpkin-Spice_2025-10-09_4.jpg" class="zoomable" />
 
 Rating: 😋🎃🫚🥛🍫 (with dark chocolate flakes as a mix-in, soft and creamy)
 
