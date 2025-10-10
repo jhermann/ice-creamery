@@ -61,7 +61,7 @@ Rating: 😋✨🍫 (untested)
 **Fill to MAX**
 
   - _25ml_ Cream 32% [REWE Beste Wahl]
-  - _≈2 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
+  - _≈6 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
 
 **Mix-ins**
 
