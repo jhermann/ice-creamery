@@ -15,6 +15,7 @@ tags:
 - Draft
 - Emulsifier
 - Erythritol
+- Hi-Protein
 - Low-Sugar
 - Polysaccharide Gum
 - Scoopable
@@ -51,8 +52,8 @@ Rating: 😋✨🍫 (untested)
 
   - _45g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • *alternative:* 60g allulose or dextrose
   - _25g_ [Cocoa Noir Intense 11% \[Cacao Barry\]](/ice-creamery/info/ingredients/#cocoa-powder){target="_blank"}<sup>↗</sup> • intense, tart cocoa flavour
+  - _20g_ [Whey + Casein protein (grass-fed) \[Vilgain\]](/ice-creamery/info/ingredients/#whey-protein){target="_blank"}<sup>↗</sup> • with stevia
   - _15g_ [Skim milk powder 1:10 (SMP) \[Vita2You\]](/ice-creamery/info/ingredients/#skim-milk-powder-smp){target="_blank"}<sup>↗</sup>
-  - _10g_ [Whey + Casein protein (grass-fed) \[Vilgain\]](/ice-creamery/info/ingredients/#whey-protein){target="_blank"}<sup>↗</sup> • with stevia
   - _10g_ [Salty Stability \[Inulin / GMS / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup> • *not-as-good substitute:* 1g guar, 0.3g xanthan, and 0.3g salt
   - _4g_ Instant Coffee [Mount Hagen] • 1.5g per 125ml
   - _1g_ Cinnamon (Ceylon) • *optional*, to taste; 1tsp = 3g
@@ -80,11 +81,11 @@ Rating: 😋✨🍫 (untested)
 
 # NUTRITIONAL & OTHER INFO
 
-- **Nutritional values per 100g/ml:** 100g; 116.4 kcal; fat 4.9g; carbs 15.4g; sugar 4.3g; protein 5.5g; salt 0.3g
-- **Nutritional values per ½ Deluxe Tub:** 340g; 395.8 kcal; fat 16.7g; carbs 52.4g; sugar 14.6g; protein 18.7g; salt 1.0g
-- **Nutritional values total:** 680g; 791.7 kcal; fat 33.5g; carbs 104.9g; sugar 29.3g; protein 37.3g; salt 2.0g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 31.13
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 18.86% • Low-Sugar
-- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 43.7g • 6.4%
-- **Net carbs:** 45.0g • *∝ 5 servings@136g:* 9g • *∝ 3 servings@227g:* 15g • *energy ratio (low <20%):* 22.7%
+- **Nutritional values per 100g/ml:** 100g; 120.3 kcal; fat 4.9g; carbs 15.3g; sugar 4.3g; protein 6.6g; salt 0.3g
+- **Nutritional values per ½ Deluxe Tub:** 340g; 409.0 kcal; fat 16.7g; carbs 52.0g; sugar 14.7g; protein 22.3g; salt 1.0g
+- **Nutritional values total:** 690g; 830.1 kcal; fat 33.9g; carbs 105.5g; sugar 29.8g; protein 45.3g; salt 2.1g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.80
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 21.84% • Low-Sugar • Hi-Protein
+- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 52.8g • 7.6%
+- **Net carbs:** 45.6g • *∝ 5 servings@138g:* 9.1g • *∝ 3 servings@230g:* 15.2g • *energy ratio (low <20%):* 22%
 - **10g 'Salty Stability' is:** 7.3g Inulin • 1.2g Glycerol Monostearate (GMS / E471) • 0.6g Tylose powder (E466, Tylo, CMC) • 0.4g Guar gum (E412) • 0.33g Salt • 0.13g Xanthan gum (E415, XG).

@@ -1,14 +1,14 @@
 Starry Night (Deluxe);;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 ;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;;
-Nutritional values per 100g/ml;100;g;;116.4;4.9;15.4;4.3;5.5;0.3;;;;;
-Nutritional values per ½ Deluxe Tub;340;g;;395.8;16.7;52.4;14.6;18.7;1.0;;;;;
-Nutritional values total;680;g;;791.7;33.5;104.9;29.3;37.3;2.0;;;;;
+Nutritional values per 100g/ml;100;g;;120.3;4.9;15.3;4.3;6.6;0.3;;;;;
+Nutritional values per ½ Deluxe Tub;340;g;;409.0;16.7;52.0;14.7;22.3;1.0;;;;;
+Nutritional values total;690;g;;830.1;33.9;105.5;29.8;45.3;2.1;;;;;
 ;;;;;;;;;;;;;;
-FPDF / PAC (target 20..30);31.13;;;;;;;;;;;;;
-"Protein / Energy Ratio (ok=12%; hi=20%)";18.86%;;;;;;Low-Sugar;;;;;;;
-ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);43.7;g;;6.4%;;;;;;;;;;
-ℹ️ Net carbs;45.0;g;;*∝ 5 servings@136g:* 9g;;;*∝ 3 servings@227g:* 15g;;;*energy ratio (low <20%):* 22.7%;;;;
+FPDF / PAC (target 20..30);30.80;;;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";21.84%;;;;;;Low-Sugar;Hi-Protein;;;;;;
+ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);52.8;g;;7.6%;;;;;;;;;;
+ℹ️ Net carbs;45.6;g;;*∝ 5 servings@138g:* 9.1g;;;*∝ 3 servings@230g:* 15.2g;;;*energy ratio (low <20%):* 22%;;;;
 ;;;;;;;;;;;;;;
 Dark cacao base with white chocolate flakes mixed in.;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
@@ -30,8 +30,8 @@ Glycerin (E422, VG) [hd-line];15.00;g;1;400.00;;99.00;;;;3.70;;;50.00;1
 Soy sauce;;ml;1;75.00;0.00;7.40;6.70;7.20;17.10;0.07;;*alternative:* 0g salt;;1
 SweEX (Erythritol + Xylitol 3:2);45.00;g;2;109.60;;100.00;;;;2.56;;*alternative:* 60g allulose or dextrose;100.00;1
 Cocoa Noir Intense 11% [Cacao Barry];25.00;g;2;310.46;11.00;13.00;0.50;22.00;4.10;-1.30;;intense, tart cocoa flavour;;1
+Whey + Casein protein (grass-fed) [Vilgain];20.00;g;2;384.00;4.60;5.70;5.60;80.00;0.50;0.06;90.40;with stevia;;1
 Skim milk powder 1:10 (SMP) [Vita2You];15.00;g;2;358.00;0.97;50.50;50.50;35.00;1.00;0.51;94.03;;;1
-Whey + Casein protein (grass-fed) [Vilgain];10.00;g;2;384.00;4.60;5.70;5.60;80.00;0.50;0.06;90.40;with stevia;;1
 Salty Stability [Inulin / GMS / CMC / Guar / XG / Salt];10.00;g;2;267.5;3.6;88.4;5.9;0.3;3.5;0.06;;*not-as-good substitute:* 1g guar, 0.3g xanthan, and 0.3g salt;73.80;1
 Instant Coffee [Mount Hagen];4.00;g;2;0.00;;;;;;;;1.5g per 125ml;;1
 Cinnamon (Ceylon);1.00;g;2;;;;;;;;;"*optional*, to taste; 1tsp = 3g";;1
