@@ -12,7 +12,6 @@ remove:
 - ' (to the MAX line)'
 tags:
 - Cooked Base
-- Draft
 - Emulsifier
 - Erythritol
 - Hi-Protein
