@@ -2,6 +2,10 @@
 """
     Python script that provides some helpers for the icecreamcalc webapp.
 
+    Links:
+        - https://icecreamcalc.com/
+        - https://www.icecreamcalc.app/
+
     Copyright (c) 2025 Jürgen Hermann
 
     Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -50,27 +54,57 @@ recipe_lib = load_module(Path(__file__).parent / 'ice-cream-recipe.py')
 #pp(dir(recipe_lib))
 
 CSV_FILE = 'Ice-Cream-Recipes.csv'
-RECIPE_BODY = """{
+RECIPE_BODY = """{{
+  "formatVersion": "1.0",
+  "exportDate": "2025-10-01T00:00:00",
+  "recipes": [
+    {{
+      "name": "{title}",
+      "info": "TODO",
+      "evaporation": 0,
+      "created": "2025-10-11T13:24:01.1941971",
+      "changed": "2025-10-11T13:24:18.7948975",
+      "chartName": null,
+      "ingredients": [{items}],
+      "canImport": true,
+      "matchedIngredientsCount": 0,
+      "hasNameConflict": false,
+      "importStatus": "\u2705 Ready to import",
+      "importName": "{title}"
+    }}
+  ]
+}}"""
+RECIPE_ITEM = """{{
+    "name": "{name}",
+    "weight": {amount},
+    "inclusion": false,
+    "infusion": false,
+    "ingredientId": null,
+    "isMatched": false,
+    "isAddIn": false,
+    "ingredientType": "Base"
+}}"""
+INGREDIENTS_BODY = """{{
   "exportVersion": "1.0",
   "exportDate": "2025-10-01T00:00:00.0000000Z",
   "exportedBy": "jh@web.de",
-  "ingredients": [%s]
-}"""
-RECIPE_ITEM = """{
+  "ingredients": [{items}]
+}}"""
+INGREDIENTS_ITEM = """{{
     "name": "{name}",
-    "category": "Sugar",
+    "category": "",
     "info": "{comment}",
     "created": "2025-10-01T00:00:00.0000000Z",
     "changed": "2025-10-01T00:00:00.0000000Z",
-    "water": 0.229,
-    "totalFat": 0.0045,
+    "water": 0.0,
+    "totalFat": {fat},
     "saturatedFat": 0,
     "transFat": 0,
     "cocoaFat": 0,
     "milkFat": 0,
     "cholesterol": 0,
     "sodium": 0,
-    "salt": 0.01,
+    "salt": {salt},
     "alcohol": 0,
     "carbohydrates": 0.764,
     "fiber": 0.002,
@@ -100,7 +134,7 @@ RECIPE_ITEM = """{
     "gramPermL": 1,
     "nutrientsVerified": false,
     "portionSize": 100
-}"""
+}}"""
 
 def parse_cli(argv=None):
     """"""
@@ -122,15 +156,68 @@ def parse_cli(argv=None):
 
     return parser.parse_args()
 
+def write_recipe(args):
+    """Write a recipe JSON file."""
+    def all_ingredients():
+        for step in card.recipe.values():
+            yield from step
+
+    def amount(key):
+        return float(ingredient[key] or 0) / 100
+
+    card = recipe_lib.parse_recipe_csv(args.csv_name, args)
+    #pp(dict(card))
+    #pp(dict(card.recipe))
+    #pp(list(all_ingredients()))
+
+    items = []
+    for ingredient in all_ingredients():
+        if not int(ingredient.get('counts?') or '0'):
+            continue
+        if not ingredient.get('unit') in {'g', 'ml'}:
+            continue
+
+        item = RECIPE_ITEM.format(
+            name=ingredient['ingredients'].rsplit('[', 1)[0],
+            amount=float(ingredient['amount'] or 0),
+            #comment=ingredient['comment'],
+            #fat=amount('fat'),
+            #salt=amount('salt'),
+        )
+        items.append(item)
+
+    data = RECIPE_BODY.format(
+        title=card.lines[0].lstrip('#').strip(),
+        items=',\n    '.join(items),
+    )
+    print(data)
+
+    """{'ingredients': 'Cream 32% [REWE Beste Wahl]',
+        'amount': '25',
+        'unit': 'ml',
+        'step': '3',
+        'kcal': '311.00',
+        'fat': '32.00',
+        'carbs': '3.20',
+        'sugar': '3.20',
+        'protein': '2.50',
+        'salt': '0.13',
+        'fpdf': '0.03',
+        'msnf': '6.32',
+        'comment': '',
+        '0carb[%]': '',
+        'counts?': '1'},"""
+
 def main():
     """Main loop."""
     args = parse_cli()
     if not any(v for k, v in vars(args).items() if k.startswith('as_')):
         args.as_recipe = True
     #pp(args)
+    args.macros = False
 
     if args.as_recipe:
-        print("Hi!")
+        write_recipe(args)
     else:
         recipe_lib.abort('Unknown or unimplemented target format!')
 
