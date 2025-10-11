@@ -305,6 +305,11 @@ def markdown_file(title, is_topping=False):
             pass
     return filename
 
+def abort(errmsg):
+    """Exit the script."""
+    print(f"ERROR: {errmsg}", file=sys.stderr)
+    sys.exit(1)
+
 def parse_cli(argv=None):
     """"""
     argv = argv or sys.argv
