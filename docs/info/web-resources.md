@@ -51,6 +51,9 @@ I use my spreadsheet, so this is a "what I found on the web" list, without any p
 - [Calculate Ice Cream](https://calculateicecream.com/) — Online recipe creation software.
 - [Scoopulator](https://www.scoopulator.app/calc) — A web-based and approachable ice cream calculator & ingredient database.
 - [IceCreamCalc](https://icecreamcalc.com/) – Ice cream recipe and balancing software.
+
+    - [icecreamcalc.app](https://www.icecreamcalc.app/) – Web version of the desktop app, with mostly the same features.
+
 - [Ice Cream Science — Home Cook's Spreadsheet](https://www.icecreamscience.com/blog/calculate-ice-cream-mix) — How to calculate an ice cream mix.
 - [Omni Perfect Ice Cream Calculator](https://www.omnicalculator.com/food/ice-cream)
 - [Ice Solution](https://icesolution.app/)
