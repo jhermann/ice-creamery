@@ -32,9 +32,9 @@ Dark cacao base with white chocolate flakes mixed in.
 Spin on “Light Ice Cream”, scrape down, and run the mix-in cycle.
 The white chocolate flakes are included in the macros.
 
-> <img width=220 alt="After Sorbet" src="_1.jpg" class="zoomable" />
-> <img width=220 alt="After Mix-in" src="_2.jpg" class="zoomable" />
-> <img width=220 alt="Scooped" src="_3.jpg" class="zoomable" />
+> <img width=220 alt="After Light Ice Cream" src="Starry-Night_2025-10-11_1.jpg" class="zoomable" />
+> <img width=220 alt="Mix-ins added" src="Starry-Night_2025-10-11_2.jpg" class="zoomable" />
+> <img width=220 alt="After Mix-in" src="Starry-Night_2025-10-11_3.jpg" class="zoomable" />
 
 Rating: 😋✨🍫 (untested)
 
@@ -46,7 +46,7 @@ Rating: 😋✨🍫 (untested)
 
   - _475ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup> • use any other preferred milk (~2% fat)
   - _20g_ Cointreau 40 vol% • 1 bottle = 70cl
-  - _15g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup>
+  - _10g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup>
 
 **Dry**
 
@@ -81,11 +81,11 @@ Rating: 😋✨🍫 (untested)
 
 # NUTRITIONAL & OTHER INFO
 
-- **Nutritional values per 100g/ml:** 100g; 120.3 kcal; fat 4.9g; carbs 15.3g; sugar 4.3g; protein 6.6g; salt 0.3g
-- **Nutritional values per ½ Deluxe Tub:** 340g; 409.0 kcal; fat 16.7g; carbs 52.0g; sugar 14.7g; protein 22.3g; salt 1.0g
-- **Nutritional values total:** 690g; 830.1 kcal; fat 33.9g; carbs 105.5g; sugar 29.8g; protein 45.3g; salt 2.1g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.80
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 21.84% • Low-Sugar • Hi-Protein
-- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 52.8g • 7.6%
-- **Net carbs:** 45.6g • *∝ 5 servings@138g:* 9.1g • *∝ 3 servings@230g:* 15.2g • *energy ratio (low <20%):* 22%
+- **Nutritional values per 100g/ml:** 100g; 118.3 kcal; fat 5.0g; carbs 14.7g; sugar 4.4g; protein 6.6g; salt 0.3g
+- **Nutritional values per ½ Deluxe Tub:** 340g; 402.1 kcal; fat 16.8g; carbs 49.9g; sugar 14.8g; protein 22.5g; salt 1.0g
+- **Nutritional values total:** 685g; 810.1 kcal; fat 33.9g; carbs 100.5g; sugar 29.8g; protein 45.3g; salt 2.1g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.15
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 22.38% • Low-Sugar • Hi-Protein
+- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 52.8g • 7.7%
+- **Net carbs:** 43.1g • *∝ 5 servings@137g:* 8.6g • *∝ 3 servings@228g:* 14.4g • *energy ratio (low <20%):* 21.3%
 - **10g 'Salty Stability' is:** 7.3g Inulin • 1.2g Glycerol Monostearate (GMS / E471) • 0.6g Tylose powder (E466, Tylo, CMC) • 0.4g Guar gum (E412) • 0.33g Salt • 0.13g Xanthan gum (E415, XG).
