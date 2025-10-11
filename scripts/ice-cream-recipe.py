@@ -334,47 +334,9 @@ def parse_cli(argv=None):
 
     return parser.parse_args()
 
-def main():
-    """Main loop."""
-    args = parse_cli()
-    #pp(args)
-    recipe = defaultdict(list)
-    lines = []
-    nutrition = []
-    steps = {  # These correlate to the "#" column in the sheet's ingredient list, with prep ~ 0 and mix-in ~ 4
-        'Prep': 'Prepare specified ingredients by dissolving / hydrating in hot water.',
-        'Wet': 'Add "wet" ingredients to empty Creami tub.',
-        'Dry': """
-            Weigh and mix dry ingredients, easiest by adding to a jar with a secure lid and shaking vigorously.
-            Pour into the tub and *QUICKLY* use an immersion blender on full speed to homogenize everything.
-            Let blender run until thickeners are properly hydrated, up to 1-2 min. Or blend again after waiting that time.
-        """,
-        'Fill to MAX': 'Add remaining ingredients (to the MAX line) and stir with a spoon.',
-        'Mix-ins':
-            'Process with MIX-IN after adding mix-ins evenly.'
-            ' For that, add partial amounts into a hole going down to the bottom, and fold the ice cream over, building pockets of mix-ins.',
-        'Topping Options': '',
-        'Optional / Choices': '',
-    }
-    premix = [
-        ' 1. Add the prepared dry ingredients, and blend QUICKLY using an immersion blender on full speed.',
-    ]
-    freezing = [  # inserted before 'mix-in' step
-        ' 1. Put on the lid, freeze for 24h, then spin as usual. Flatten any humps before that.',
-        ' 1. Process with RE-SPIN mode when not creamy enough after the first spin.',
-    ]
-    soaking = [
-        ' 1. After mixing, let the base sit in the fridge for at least 30min (better 2h),'
-        ' for the seeds to properly soak. Stir before freezing.',
-    ]
-    special_prep = []
-    mix_in = []
-    special_directions = []
-    STEP_PREP = 0
-    STEP_WET = 1
-    STEP_DRY = 2
-    STEP_FILL = 3
-    STEP_MIX_IN = 4
+
+def parse_recipe_csv(csv_name, args, images=[]):
+    """Read in an exported recipe spread sheet."""
 
     def handle_top_row(row):
         '''Helper for non-ingredient row handling.'''
@@ -403,13 +365,12 @@ def main():
         elif lines[-1] != '':  # empty row (1st one after some text)
             lines.append('')
 
-    images = read_images()
-    docmeta = read_meta()
-    parse_info_docs('ingredients', '### ')
-    parse_info_docs('glossary', '## ')
-    #print(yaml.safe_dump(docmeta)); die
+    recipe = defaultdict(list)
+    lines = []
+    nutrition = []
+    special_directions = []
 
-    with open(args.csv_name, 'r', encoding='utf-8') as handle:
+    with open(csv_name, 'r', encoding='utf-8') as handle:
         reader = csv.reader(handle, delimiter=';')
         row = ''
         title = next(reader)[0]
@@ -482,6 +443,55 @@ def main():
                     recipe[step].append(data)
 
         # End of CSV processing
+
+    return recipe, lines, nutrition, special_directions, is_topping, title
+
+
+def main():
+    """Main loop."""
+    args = parse_cli()
+    #pp(args)
+    steps = {  # These correlate to the "#" column in the sheet's ingredient list, with prep ~ 0 and mix-in ~ 4
+        'Prep': 'Prepare specified ingredients by dissolving / hydrating in hot water.',
+        'Wet': 'Add "wet" ingredients to empty Creami tub.',
+        'Dry': """
+            Weigh and mix dry ingredients, easiest by adding to a jar with a secure lid and shaking vigorously.
+            Pour into the tub and *QUICKLY* use an immersion blender on full speed to homogenize everything.
+            Let blender run until thickeners are properly hydrated, up to 1-2 min. Or blend again after waiting that time.
+        """,
+        'Fill to MAX': 'Add remaining ingredients (to the MAX line) and stir with a spoon.',
+        'Mix-ins':
+            'Process with MIX-IN after adding mix-ins evenly.'
+            ' For that, add partial amounts into a hole going down to the bottom, and fold the ice cream over, building pockets of mix-ins.',
+        'Topping Options': '',
+        'Optional / Choices': '',
+    }
+    premix = [
+        ' 1. Add the prepared dry ingredients, and blend QUICKLY using an immersion blender on full speed.',
+    ]
+    freezing = [  # inserted before 'mix-in' step
+        ' 1. Put on the lid, freeze for 24h, then spin as usual. Flatten any humps before that.',
+        ' 1. Process with RE-SPIN mode when not creamy enough after the first spin.',
+    ]
+    soaking = [
+        ' 1. After mixing, let the base sit in the fridge for at least 30min (better 2h),'
+        ' for the seeds to properly soak. Stir before freezing.',
+    ]
+    special_prep = []
+    mix_in = []
+    STEP_PREP = 0
+    STEP_WET = 1
+    STEP_DRY = 2
+    STEP_FILL = 3
+    STEP_MIX_IN = 4
+
+    images = read_images()
+    docmeta = read_meta()
+    parse_info_docs('ingredients', '### ')
+    parse_info_docs('glossary', '## ')
+    #print(yaml.safe_dump(docmeta)); die
+
+    recipe, lines, nutrition, special_directions, is_topping, title = parse_recipe_csv(args.csv_name, args, images)
     #pp(recipe)
 
     if 'Simple' in docmeta['tags']:
