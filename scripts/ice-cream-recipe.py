@@ -37,6 +37,8 @@ from operator import itemgetter
 from collections import defaultdict
 
 import yaml
+from attrdict import AttrDict
+
 
 CSV_FILE = 'Ice-Cream-Recipes.csv'
 MD_FILE = 'recipe-{file_title}.md'
@@ -444,7 +446,14 @@ def parse_recipe_csv(csv_name, args, images=[]):
 
         # End of CSV processing
 
-    return recipe, lines, nutrition, special_directions, is_topping, title
+    return AttrDict(dict(
+        recipe=recipe,
+        lines=lines,
+        nutrition=nutrition,
+        special_directions=special_directions,
+        is_topping=is_topping,
+        title=title,
+    ))
 
 
 def main():
@@ -491,8 +500,14 @@ def main():
     parse_info_docs('glossary', '## ')
     #print(yaml.safe_dump(docmeta)); die
 
-    recipe, lines, nutrition, special_directions, is_topping, title = parse_recipe_csv(args.csv_name, args, images)
-    #pp(recipe)
+    card = parse_recipe_csv(args.csv_name, args, images)
+    recipe = defaultdict(list)
+    recipe.update(card.recipe)
+    lines, nutrition, special_directions, is_topping, title = \
+        list(card.lines), list(card.nutrition), \
+        card.special_directions, card.is_topping, card.title
+    #pp(dict(card))
+    #pp((dict(recipe), lines, nutrition))
 
     if 'Simple' in docmeta['tags']:
         lines.extend([
