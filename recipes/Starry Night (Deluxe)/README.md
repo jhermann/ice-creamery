@@ -18,7 +18,6 @@ tags:
 - Hi-Protein
 - Low-Sugar
 - Polysaccharide Gum
-- Scoopable
 - Stevia
 - Sucralose
 - Tylo Powder (CMC)
@@ -35,8 +34,9 @@ The white chocolate flakes are included in the macros.
 > <img width=220 alt="After Light Ice Cream" src="Starry-Night_2025-10-11_1.jpg" class="zoomable" />
 > <img width=220 alt="Mix-ins added" src="Starry-Night_2025-10-11_2.jpg" class="zoomable" />
 > <img width=220 alt="After Mix-in" src="Starry-Night_2025-10-11_3.jpg" class="zoomable" />
+> <img width=220 alt="Served" src="Starry-Night_2025-10-11_4.jpg" class="zoomable" />
 
-Rating: 😋✨🍫 (untested)
+Rating: 😋✨🍫🍫🍫 (was too soft, adapted recipe accordingly; flavor is great, the mix-ins are a nice crunch, and should probably be added manually)
 
 # INGREDIENTS
 
@@ -52,6 +52,7 @@ Rating: 😋✨🍫 (untested)
 
   - _45g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • *alternative:* 60g allulose or dextrose
   - _25g_ [Cocoa Noir Intense 11% \[Cacao Barry\]](/ice-creamery/info/ingredients/#cocoa-powder){target="_blank"}<sup>↗</sup> • intense, tart cocoa flavour
+  - _20g_ [Inulin \[Vit4ever\]](/ice-creamery/info/ingredients/#inulin){target="_blank"}<sup>↗</sup>
   - _20g_ [Whey + Casein protein (grass-fed) \[Vilgain\]](/ice-creamery/info/ingredients/#whey-protein){target="_blank"}<sup>↗</sup> • with stevia
   - _15g_ [Skim milk powder 1:10 (SMP) \[Vita2You\]](/ice-creamery/info/ingredients/#skim-milk-powder-smp){target="_blank"}<sup>↗</sup>
   - _10g_ [Salty Stability \[Inulin / GMS / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup> • *not-as-good substitute:* 1g guar, 0.3g xanthan, and 0.3g salt
@@ -81,11 +82,11 @@ Rating: 😋✨🍫 (untested)
 
 # NUTRITIONAL & OTHER INFO
 
-- **Nutritional values per 100g/ml:** 100g; 118.3 kcal; fat 5.0g; carbs 14.7g; sugar 4.4g; protein 6.6g; salt 0.3g
-- **Nutritional values per ½ Deluxe Tub:** 340g; 402.1 kcal; fat 16.8g; carbs 49.9g; sugar 14.8g; protein 22.5g; salt 1.0g
-- **Nutritional values total:** 685g; 810.1 kcal; fat 33.9g; carbs 100.5g; sugar 29.8g; protein 45.3g; salt 2.1g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.15
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 22.38% • Low-Sugar • Hi-Protein
-- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 52.8g • 7.7%
-- **Net carbs:** 43.1g • *∝ 5 servings@137g:* 8.6g • *∝ 3 servings@228g:* 14.4g • *energy ratio (low <20%):* 21.3%
+- **Nutritional values per 100g/ml:** 100g; 120.9 kcal; fat 4.8g; carbs 17.0g; sugar 4.5g; protein 6.4g; salt 0.3g
+- **Nutritional values per ½ Deluxe Tub:** 340g; 410.9 kcal; fat 16.4g; carbs 57.8g; sugar 15.2g; protein 21.9g; salt 1.0g
+- **Nutritional values total:** 705g; 852.1 kcal; fat 33.9g; carbs 119.9g; sugar 31.4g; protein 45.3g; salt 2.1g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 29.59
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 21.28% • Low-Sugar • Hi-Protein
+- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 52.8g • 7.5%
+- **Net carbs:** 44.7g • *∝ 5 servings@141g:* 8.9g • *∝ 3 servings@235g:* 14.9g • *energy ratio (low <20%):* 21%
 - **10g 'Salty Stability' is:** 7.3g Inulin • 1.2g Glycerol Monostearate (GMS / E471) • 0.6g Tylose powder (E466, Tylo, CMC) • 0.4g Guar gum (E412) • 0.33g Salt • 0.13g Xanthan gum (E415, XG).
