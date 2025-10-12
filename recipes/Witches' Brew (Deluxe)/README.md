@@ -29,7 +29,7 @@ where cocktails and creamy ice cream become one beastly delight.
 > <img width=220 alt="After Sorbet" src="_1.jpg" class="zoomable" />
 > <img width=220 alt="After Mix-in" src="_2.jpg" class="zoomable" />
 > <img width=220 alt="Scooped" src="_3.jpg" class="zoomable" />
-> 
+
 > *processing...* • Rating: 😋🧙‍♀️🪄🔥🎃 (details)
 
 # INGREDIENTS
@@ -41,6 +41,7 @@ where cocktails and creamy ice cream become one beastly delight.
   - _60g_ Gin 40 vol% (Spanish) [Larios]
   - _20ml_ Lime juice + zest (organic) [REWE Bio] • 1 lime = 60..65g
   - _10g_ Pomegranate syrup (nar ekşisi) [fersan] • 0.76 ml/g
+  - _5ml_ Raspberry Emulsion [LorAnn] • 1 tbsp/l (1.5%)
 
 **Wet**
 
@@ -62,7 +63,7 @@ where cocktails and creamy ice cream become one beastly delight.
 
   - ❗*Prepared gin/lime/syrup mix* • Blend into base before tasting for sweetness
   - _50ml_ Cream 32% [REWE Beste Wahl] • Add and stir
-  - _≈10 drops_ [Stevia drops “natural” \[Nick’s\]](/ice-creamery/info/ingredients/#stevia-e960){target="_blank"}<sup>↗</sup> • to taste
+  - _≈15 drops_ [Stevia drops “natural” \[Nick’s\]](/ice-creamery/info/ingredients/#stevia-e960){target="_blank"}<sup>↗</sup> • to taste
 
 **Mix-ins**
 
@@ -82,10 +83,10 @@ where cocktails and creamy ice cream become one beastly delight.
 
 # NUTRITIONAL & OTHER INFO
 
-- **Nutritional values per 100g/ml:** 100g; 115.1 kcal; fat 3.5g; carbs 15.3g; sugar 3.0g; protein 3.6g; salt 0.2g
-- **Nutritional values per ½ Deluxe Tub:** 340g; 391.4 kcal; fat 11.9g; carbs 52.2g; sugar 10.1g; protein 12.3g; salt 0.7g
-- **Nutritional values total:** 674g; 776.0 kcal; fat 23.5g; carbs 103.4g; sugar 20.0g; protein 24.4g; salt 1.5g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 32.50
+- **Nutritional values per 100g/ml:** 100g; 114.3 kcal; fat 3.5g; carbs 15.2g; sugar 2.9g; protein 3.6g; salt 0.2g
+- **Nutritional values per ½ Deluxe Tub:** 340g; 388.6 kcal; fat 11.8g; carbs 51.8g; sugar 10.0g; protein 12.2g; salt 0.7g
+- **Nutritional values total:** 679g; 776.0 kcal; fat 23.5g; carbs 103.4g; sugar 20.0g; protein 24.4g; salt 1.5g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 32.26
 - **Protein / Energy Ratio (ok=12%; hi=20%):** 12.57% • Low-Sugar
 - **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 29.2g • 4.3%
-- **Net carbs:** 68.6g • *∝ 5 servings@135g:* 13.7g • *∝ 3 servings@225g:* 22.9g • *energy ratio (low <20%):* 35.4%
+- **Net carbs:** 68.6g • *∝ 5 servings@136g:* 13.7g • *∝ 3 servings@226g:* 22.9g • *energy ratio (low <20%):* 35.4%
