@@ -95,6 +95,7 @@ These ratios are keeping the PAC / POD value as close as possible to the origina
  * **Vegetable Glycerin** → 350% Lactose (15g VG → 53g lactose)
  * **Alcohol 40 vol%** → 80% Glycerin — This is mildly sweet where the alcohol is not.
  * **Alcohol 40 vol%** → 300% Lactose — This is mildly sweet where the alcohol is not.
+ * **Light corn syrup (32 DE)** → 80% rice syrup *or* maple syrup
 
 Where the replacing weight differs, the usual "fill to MAX line" will take care of that.
 
