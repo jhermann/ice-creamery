@@ -369,6 +369,18 @@ The exact ratio can be adjusted based on desired texture and flavor.
 
 > 🧪 Acacia gum is a complex mixture of glycoproteins and polysaccharides, predominantly polymers of arabinose and galactose.
 
+### Acetylated Distarch Adipate (E1422)
+
+E1422 is a pre-gelatinized (modified) cold-acting starch.
+It functions as a thickener, binder, emulsifier, and stabilizer, and is tolerant to heat, acid, and shear.
+It also enhances the freeze-thaw stability of ice cream.
+
+It can replace gelatin and also Waxy Maize Starch (E1442), another modified starch, with similar results.
+More specifically E1422 is ideal for frozen and chilled foods, dressings, and bakery products, 
+while E1442 is well-suited for acidic foods, high-temperature processing, and dairy products.
+
+> 🧪 E1422 is created by chemically modifying starches like corn, potato, or tapioca with acetic anhydride and adipic acid.
+
 ### Agar-Agar (E406)
 Agar-Agar is a natural, plant-based gelling and thickening agent (hydrocolloid), derived from red algae. It's commonly used as a vegan alternative to gelatin, since it is also tasteless and odorless; its gelling power is higher. It is heat-stable and acid-stable, and resulting gels tend to be brittle.
 
