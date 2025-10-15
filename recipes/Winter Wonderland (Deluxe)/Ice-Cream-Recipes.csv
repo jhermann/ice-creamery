@@ -1,0 +1,48 @@
+Winter Wonderland (Deluxe);;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;;
+Nutritional values per 100g/ml;100;g;;141.3;5.2;22.6;5.8;6.0;0.2;;;;;
+Nutritional values per ½ Deluxe Tub;340;g;;480.3;17.8;76.9;19.7;20.4;0.6;;;;;
+Nutritional values total;681;g;;962.1;35.7;154.1;39.5;40.8;1.2;;;;;
+;;;;;;;;;;;;;;
+FPDF / PAC (target 20..30);28.57;;;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";16.97%;;;;;;;;;;;;;
+ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);32.3;g;;4.7%;;;;;;;;;;
+ℹ️ Net carbs;67.5;g;;*∝ 5 servings@136g:* 13.5g;;;*∝ 3 servings@227g:* 22.5g;;;*energy ratio (low <20%):* 28.1%;;;;
+;;;;;;;;;;;;;;
+"*Winter Wonderland* is a festive ice cream capturing the essence of the holidays in every bite. Cocoa and ginger bread blend with a hint of
+Amaretto, cinnamon, and vanilla, while almond slivers, candied orange peel, and sultanas add a joyful splash of texture and flavor.
+
+With reduced sugar and protein-enrichment for balance, this seasonal treat offers all the comfort of wintertime sweets without the guilt.
+Mix-ins are included in the macros.";;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+"Spin on “Light Ice Cream”, scrape down, and re-mix if needed.
+
+Rating: 😋 (untested)";;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+1. Bloom the cocoa powder with some of the milk.;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment;0Carb[%];Counts?
+Soy milk 1.6% (sugar-free) [Berief];90.00;ml;0;30.00;1.60;0.90;0.00;3.00;0.08;;4.00;heat to ≈80°C;;1
+Cocoa Powder Organic 11% [Sevenhills];40.00;g;0;367.00;11.00;26.80;0.90;28.00;0.05;-0.80;;;;1
+Soy milk 1.6% (sugar-free) [Berief];300.00;ml;1;30.00;1.60;0.90;0.00;3.00;0.08;;4.00;;;1
+Amaretto 28 vol%;30.00;ml;1;282.00;;30.00;30.00;;;1.93;;*alternative:* 17g VG, and almond extract;;1
+Glycerin (E422, VG) [hd-line];5.00;g;1;400.00;;99.00;;;;3.70;;;50.00;1
+SweEX (Erythritol + Xylitol 3:2);50.00;g;2;109.60;;100.00;;;;2.56;;*alternative:* 67g allulose or dextrose;100.00;1
+Inulin [Vit4ever];30.00;g;2;210.00;;97.00;8.00;;0.20;0.09;;;89.00;1
+Whey + Casein protein (grass-fed) [Vilgain];15.00;g;2;384.00;4.60;5.70;5.60;80.00;0.50;0.06;90.40;with stevia;;1
+Skim milk powder 1:10 (SMP) [Vita2You];;g;2;358.00;0.97;50.50;50.50;35.00;1.00;0.51;94.03;;;1
+Salty Stability [Inulin / GMS / CMC / Guar / XG / Salt];10.00;g;2;267.5;3.6;88.4;5.9;0.3;3.5;0.06;;*not-as-good substitute:* 1g guar, 0.3g xanthan, and 0.3g salt;73.80;1
+Instant Coffee [Mount Hagen];;g;2;0.00;;;;;;;;1.5g per 125ml;;1
+Cinnamon (Ceylon);1.00;g;2;;;;;;;;;"*optional*, to taste; 1tsp = 3g";;1
+;;;;;;;;;;;;;;
+Cream 32% [REWE Beste Wahl];50.00;ml;3;311.00;32.00;3.20;3.20;2.50;0.13;0.03;6.32;;;1
+Flavor drops Vanilla (sucralose) [IronMaxx];≈3;drops;3;;;;;;;;;to taste;;
+;;;;;;;;;;;;;;
+Aachener Printen (chocolate) [Lambertz];30.00;g;4;388.00;8.30;69.40;34.40;6.90;0.80;;;chopped [116kcal, 10.3g sugar];;1
+Almond slivers [naturix24];10.00;g;4;589.00;54.00;5.00;4.00;22.00;;;;chopped [59kcal, 0.4g sugar];;1
+Candied Lemon Peel;;g;4;321.00;0.30;78.00;77.00;0.10;0.50;0.10;;chopped [0kcal, 0g sugar];;1
+Candied Orange Peel;7.00;g;4;314.00;0.50;76.00;76.00;0.50;0.63;0.10;;chopped [22kcal, 5.3g sugar];;1
+Sultanas (organic) [Biojoy];13.00;g;4;298.00;0.60;68.00;67.00;2.50;0.02;0.67;;chopped [39kcal, 8.7g sugar];;1
+White chocolate shavings [Ruf];;g;4;559.00;35.00;56.00;56.00;5.90;0.23;;;*or* chopped choc chips [0kcal, 0g sugar];;1
