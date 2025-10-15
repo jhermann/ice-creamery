@@ -548,6 +548,13 @@ For a cold-acting mix, combine it with guar gum using a `3GG:1XG` ratio.
 To easily mix it with water, dissolve in some oil or mix with other dry ingredients first.
 For liquids, always use a blender or immersion blender.
 
+> 💡 To properly weigh small amounts of xanthan without a jeweller's scale,
+> mix the gum with 9 times inulin (10g XG, 90g inulin),
+> then use 10g of that blend to get 1g of XG. These amounts work on any half-decent kitchen scale.
+> 
+> To get an even mix, progressively add the inulin, i.e. start with a 1:1 ratio of gum and filler, mix,
+> then add more and more inulin while mixing, until you reach the target weight.
+
 Xanthan is stable across a wide pH range (2–12), and functions well in acidic bases containing fruit or citrus.
 It works from −20°C to 120°C, and is also robust to high salinity.
 
