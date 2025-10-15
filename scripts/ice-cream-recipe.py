@@ -139,7 +139,7 @@ AUTO_LINK_STOP_WORDS = {
     'desiccated', 'Evaporated milk', 'Extract',
     'Flavor drops', 'Flavor Powder', 'Ice Cream', 'Irish Cream',
     'Low fat milk', 'Milk 3.5%', 'Mint chocolate',
-    'Peanut butter', 'Philadelphia Milka',
+    'Peanut butter', 'Philadelphia Milka', 'Printen',
     'Seed Powder', 'Soy sauce', 'tea powder', 'to MAX line',
 }
 LOGO_IMG = '<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="%s" />'
@@ -642,6 +642,9 @@ def main():
     doc_start = md_text.find('\n---\n')
     for fragment in docmeta.get("remove", []):
         md_text = md_text[:doc_start] + md_text[doc_start:].replace(fragment, '')
+    for fragment in docmeta.get("replace", []):
+        orig, subst = re.split('=>', fragment, 1)
+        md_text = md_text[:doc_start] + md_text[doc_start:].replace(orig, subst)
 
     if args.dry_run:
         print(md_text, end=None)
