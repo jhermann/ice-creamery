@@ -26,11 +26,14 @@ Halloween ice cream recipe inspired by themed cocktails & drinks.
 On Halloween night, let “Witches’ Brew” cast its flavorful spell,
 where cocktails and creamy ice cream become one beastly delight.
 
-> <img width=220 alt="After Sorbet" src="_1.jpg" class="zoomable" />
-> <img width=220 alt="After Mix-in" src="_2.jpg" class="zoomable" />
-> <img width=220 alt="Scooped" src="_3.jpg" class="zoomable" />
+Spin on “Light Ice Cream”, scrape down, and run mix-in.
+Mix-ins are not counted in the macros.
 
-> *processing...* • Rating: 😋🧙‍♀️🪄🔥🎃 (details)
+> <img width=220 alt="After Light Ice Cream" src="Witches-Brew_2025-10-16_1.jpg" class="zoomable" />
+> <img width=220 alt="After Mix-in" src="Witches-Brew_2025-10-16_2.jpg" class="zoomable" />
+> <img width=220 alt="Served" src="Witches-Brew_2025-10-16_3.jpg" class="zoomable" />
+
+> Rating: 😋🧙‍♀️🪄🎃 (still needs some work)
 
 # INGREDIENTS
 
