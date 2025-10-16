@@ -1,14 +1,14 @@
 Witches' Brew (Deluxe);;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 ;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;;
-Nutritional values per 100g/ml;100;g;;114.3;3.5;15.2;2.9;3.6;0.2;;;;;
-Nutritional values per ½ Deluxe Tub;340;g;;388.6;11.8;51.8;10.0;12.2;0.7;;;;;
-Nutritional values total;679;g;;776.0;23.5;103.4;20.0;24.4;1.5;;;;;
+Nutritional values per 100g/ml;100;g;;121.4;4.0;14.0;7.4;4.2;0.2;;;;;
+Nutritional values per ½ Deluxe Tub;340;g;;412.9;13.6;47.5;25.3;14.2;0.8;;;;;
+Nutritional values total;675;g;;819.2;26.9;94.2;50.1;28.2;1.5;;;;;
 ;;;;;;;;;;;;;;
-FPDF / PAC (target 20..30);32.26;;;;;;;;;;;;;
-"Protein / Energy Ratio (ok=12%; hi=20%)";12.57%;;;;;;Low-Sugar;;;;;;;
-ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);29.2;g;;4.3%;;;;;;;;;;
-ℹ️ Net carbs;68.6;g;;*∝ 5 servings@136g:* 13.7g;;;*∝ 3 servings@226g:* 22.9g;;;*energy ratio (low <20%):* 35.4%;;;;
+FPDF / PAC (target 20..30);31.50;;;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";13.75%;;;;;;;;;;;;;
+ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);34.4;g;;5.1%;;;;;;;;;;
+ℹ️ Net carbs;80.9;g;;*∝ 5 servings@135g:* 16.2g;;;*∝ 3 servings@225g:* 27g;;;*energy ratio (low <20%):* 39.5%;;;;
 ;;;;;;;;;;;;;;
 "> *Take a scoop, if you dare!*
 
@@ -23,27 +23,31 @@ Mix-ins are not counted in the macros.
 ;;;;;;;;;;;;;;
 "> Rating: 😋🧙‍♀️🪄🎃 (still needs some work)
 ";;;;;;;;;;;;;;
-1. Zest and juice the lime, mix with syrup and alcohol.;;;;;;;;;;;;;;
+"1. Chop the cranberries (mix-in), and soak them overnight in the fridge, covered in alcohol.
+ 1. Zest and juice the lime, mix with syrup and alcohol.";;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment;0Carb[%];Counts?
-Gin 40 vol% (Spanish) [Larios];60.00;g;0;221.00;;;;;;2.96;;;;1
+Gin 40 vol% (Spanish) [Larios];60.00;g;0;221.00;;;;;;2.96;;;;0
+Grappa 40 vol% [Sibona];50.00;g;0;230.00;;1.30;1.30;;;2.96;;;;1
 Lime juice + zest (organic) [REWE Bio];20.00;ml;0;25.00;0.10;8.40;1.70;0.40;;;;1 lime = 60..65g;;1
-Pomegranate syrup (nar ekşisi) [fersan];10.00;g;0;292.00;0.10;71.70;53.40;1.00;0.60;0.53;;0.76 ml/g;;1
-Raspberry Emulsion [LorAnn];5.00;ml;0;;;;;;;;;1 tbsp/l (1.5%);;1
+Pomegranate syrup (nar ekşisi) [fersan];17.00;g;0;292.00;0.10;71.70;53.40;1.00;0.60;0.53;;0.76 ml/g;;1
+Raspberry Emulsion [LorAnn];3.00;ml;0;;;;;;;;;1 tbsp/l (1.5%);;1
 Soy milk 1.6% (sugar-free) [Berief];425.00;ml;1;30.00;1.60;0.90;0.00;3.00;0.08;;4.00;use any other preferred milk (~2% fat);;1
 Molasses [Grafschafter Goldsaft];10.00;g;1;306.00;0.50;70.00;66.00;2.30;0.03;0.66;;Sweetness = 66%;;1
-Inulin [Vit4ever];25.00;g;2;210.00;;97.00;8.00;;0.20;0.09;;"Sweetness = 8%; GI ~= 0";89.00;1
-Isomalt (E953) [GoodBake];25.00;g;2;236.00;;98.00;;;;0.39;;Very low GI, 50% sweetness;50.00;1
-Ube Yam Root powder [Fil Choice];25.00;g;2;382.00;0.60;83.00;9.50;6.10;0.30;0.10;;;;1
-Whey + Casein protein (grass-fed) [Vilgain];10.00;g;2;384.00;4.60;5.70;5.60;80.00;0.50;0.06;90.40;with stevia;;1
+Trehalose [SaporePuro];30.00;g;2;355.00;0.00;89.00;89.00;0.00;0.03;1.00;;*alternative:* 30g sugar, and less stevia;;1
+Isomalt (E953) [GoodBake];;g;2;236.00;;98.00;;;;0.39;;Very low GI, 50% sweetness;50.00;1
+SweEX (Erythritol + Xylitol 3:2);;g;2;109.60;;100.00;;;;2.56;;*alternative:* 0g allulose or dextrose;100.00;1
+Inulin [Vit4ever];15.00;g;2;210.00;;97.00;8.00;;0.20;0.09;;"Sweetness = 8%; GI ~= 0";89.00;1
+Ube Yam Root powder [Fil Choice];15.00;g;2;382.00;0.60;83.00;9.50;6.10;0.30;0.10;;*alternative:* blueberry or lingonberry;;1
+Whey + Casein protein (grass-fed) [Vilgain];15.00;g;2;384.00;4.60;5.70;5.60;80.00;0.50;0.06;90.40;with stevia;;1
 Waxy Maize Starch (E1442) [Ultratex];10.00;g;2;391.00;0.15;97.00;0.00;0.50;0.50;;;;;1
-Beet Root Powder (organic) [Mandoi];2.50;g;2;347.00;1.00;70.00;46.00;14.10;0.10;;;*optional*, for color;;1
+Beet Root Powder (organic) [Mandoi];3.00;g;2;347.00;1.00;70.00;46.00;14.10;0.10;;;*optional*, for color;;1
 Salt;0.75;g;2;;;;;;100.00;5.90;;;;1
 Xanthan gum (E415, XG);0.75;g;2;320.00;;78.00;;6.00;1.00;;;"¼ tsp; *optional:* for better melting, and freezer stability";;1
 Aronia Powder;;g;2;;;;;;;;;*optional*, for color;;1
 ;;;;;;;;;;;;;;
-❗*Prepared gin/lime/syrup mix*; ; ;3;;;;;;;;;Blend into base before tasting for sweetness;;
-Cream 32% [REWE Beste Wahl];50.00;ml;3;311.00;32.00;3.20;3.20;2.50;0.13;0.03;6.32;Add and stir;;1
+❗*Prepared alcohol/lime/syrup mix*; ; ;3;;;;;;;;;Blend into base before tasting for sweetness;;
+Cream 32% [REWE Beste Wahl];60.00;ml;3;311.00;32.00;3.20;3.20;2.50;0.13;0.03;6.32;Add and stir;;1
 Stevia drops “natural” [Nick’s];≈15;drops;3;;;;;;;;;to taste;;
 ;;;;;;;;;;;;;;
-Cranberries (sugared) [dm bio];15.00;g;4;322.00;1.00;74.00;60.00;0.80;0.01;;;chopped [48kcal, 9g sugar];;
+Cranberries (sugared) [dm bio];20.00;g;4;322.00;1.00;74.00;60.00;0.80;0.01;;;chopped & soaked [64kcal, 12g sugar];;

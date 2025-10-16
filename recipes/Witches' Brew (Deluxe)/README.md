@@ -8,9 +8,7 @@ remove:
 - '_   _ '
 tags:
 - Alcohol
-- Draft
 - Fruit
-- Low-Sugar
 - Polysaccharide Gum
 - Scoopable
 - Seasonal
@@ -41,10 +39,10 @@ Mix-ins are not counted in the macros.
 
 **Prep**
 
-  - _60g_ Gin 40 vol% (Spanish) [Larios]
+  - _50g_ Grappa 40 vol% [Sibona]
   - _20ml_ Lime juice + zest (organic) [REWE Bio] • 1 lime = 60..65g
-  - _10g_ Pomegranate syrup (nar ekşisi) [fersan] • 0.76 ml/g
-  - _5ml_ Raspberry Emulsion [LorAnn] • 1 tbsp/l (1.5%)
+  - _17g_ Pomegranate syrup (nar ekşisi) [fersan] • 0.76 ml/g
+  - _3ml_ Raspberry Emulsion [LorAnn] • 1 tbsp/l (1.5%)
 
 **Wet**
 
@@ -53,27 +51,28 @@ Mix-ins are not counted in the macros.
 
 **Dry**
 
-  - _25g_ [Inulin \[Vit4ever\]](/ice-creamery/info/ingredients/#inulin){target="_blank"}<sup>↗</sup> • Sweetness = 8%; GI ~= 0
-  - _25g_ [Isomalt (E953) \[GoodBake\]](/ice-creamery/info/ingredients/#isomalt-e953){target="_blank"}<sup>↗</sup> • Very low GI, 50% sweetness
-  - _25g_ Ube Yam Root powder [Fil Choice]
-  - _10g_ [Whey + Casein protein (grass-fed) \[Vilgain\]](/ice-creamery/info/ingredients/#whey-protein){target="_blank"}<sup>↗</sup> • with stevia
+  - _30g_ [Trehalose \[SaporePuro\]](/ice-creamery/info/ingredients/#trehalose-e965){target="_blank"}<sup>↗</sup> • *alternative:* 30g sugar, and less stevia
+  - _15g_ [Inulin \[Vit4ever\]](/ice-creamery/info/ingredients/#inulin){target="_blank"}<sup>↗</sup> • Sweetness = 8%; GI ~= 0
+  - _15g_ Ube Yam Root powder [Fil Choice] • *alternative:* blueberry or lingonberry
+  - _15g_ [Whey + Casein protein (grass-fed) \[Vilgain\]](/ice-creamery/info/ingredients/#whey-protein){target="_blank"}<sup>↗</sup> • with stevia
   - _10g_ [Waxy Maize Starch (E1442) \[Ultratex\]](/ice-creamery/info/ingredients/#waxy-maize-starch-e1442){target="_blank"}<sup>↗</sup>
-  - _2.5g_ Beet Root Powder (organic) [Mandoi] • *optional*, for color
+  - _3g_ Beet Root Powder (organic) [Mandoi] • *optional*, for color
   - _0.75g_ Salt
   - _0.75g_ [Xanthan gum (E415, XG)](/ice-creamery/info/ingredients/#xanthan-gum-xg-e415){target="_blank"}<sup>↗</sup> • ¼ tsp; *optional:* for better melting, and freezer stability
 
 **Fill to MAX**
 
-  - ❗*Prepared gin/lime/syrup mix* • Blend into base before tasting for sweetness
-  - _50ml_ Cream 32% [REWE Beste Wahl] • Add and stir
+  - [❗*Prepared alcohol/lime/syrup mix*](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup> • Blend into base before tasting for sweetness
+  - _60ml_ Cream 32% [REWE Beste Wahl] • Add and stir
   - _≈15 drops_ [Stevia drops “natural” \[Nick’s\]](/ice-creamery/info/ingredients/#stevia-e960){target="_blank"}<sup>↗</sup> • to taste
 
 **Mix-ins**
 
-  - _15g_ Cranberries (sugared) [dm bio] • chopped [48kcal, 9g sugar]
+  - _20g_ Cranberries (sugared) [dm bio] • chopped & soaked [64kcal, 12g sugar]
 
 # DIRECTIONS
 
+ 1. Chop the cranberries (mix-in), and soak them overnight in the fridge, covered in alcohol.
  1. Zest and juice the lime, mix with syrup and alcohol.
  1. Add "wet" ingredients to empty Creami tub.
  1. Weigh and mix dry ingredients, easiest by adding to a jar with a secure lid and shaking vigorously.
@@ -86,10 +85,10 @@ Mix-ins are not counted in the macros.
 
 # NUTRITIONAL & OTHER INFO
 
-- **Nutritional values per 100g/ml:** 100g; 114.3 kcal; fat 3.5g; carbs 15.2g; sugar 2.9g; protein 3.6g; salt 0.2g
-- **Nutritional values per ½ Deluxe Tub:** 340g; 388.6 kcal; fat 11.8g; carbs 51.8g; sugar 10.0g; protein 12.2g; salt 0.7g
-- **Nutritional values total:** 679g; 776.0 kcal; fat 23.5g; carbs 103.4g; sugar 20.0g; protein 24.4g; salt 1.5g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 32.26
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 12.57% • Low-Sugar
-- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 29.2g • 4.3%
-- **Net carbs:** 68.6g • *∝ 5 servings@136g:* 13.7g • *∝ 3 servings@226g:* 22.9g • *energy ratio (low <20%):* 35.4%
+- **Nutritional values per 100g/ml:** 100g; 121.4 kcal; fat 4.0g; carbs 14.0g; sugar 7.4g; protein 4.2g; salt 0.2g
+- **Nutritional values per ½ Deluxe Tub:** 340g; 412.9 kcal; fat 13.6g; carbs 47.5g; sugar 25.3g; protein 14.2g; salt 0.8g
+- **Nutritional values total:** 675g; 819.2 kcal; fat 26.9g; carbs 94.2g; sugar 50.1g; protein 28.2g; salt 1.5g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 31.50
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 13.75%
+- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 34.4g • 5.1%
+- **Net carbs:** 80.9g • *∝ 5 servings@135g:* 16.2g • *∝ 3 servings@225g:* 27g • *energy ratio (low <20%):* 39.5%
