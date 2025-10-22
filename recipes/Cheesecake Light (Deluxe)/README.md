@@ -22,6 +22,7 @@ tags:
 - Xylitol
 ---
 # Cheesecake Light (Deluxe)
+<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="logo-Cheesecake-Light.png" />
 
 Inspired by German cheesecake, which is made with ‘Quark’ or ‘Topfen’
 – think of a cross between yogurt, cottage cheese and ricotta.
@@ -31,7 +32,6 @@ The buttermilk adds the necessary tanginess.
 Spin on *Light Ice Cream*, do a scrape-down, and finish with a mix-in or respin run.
 
 Serve with graham crackers or butter cookies to stand in for the pie crust.
-
 > <img width=220 alt="After Light Ice Cream" src="Cheesecake-Light_2025-09-28_1.jpg" class="zoomable" />
 > <img width=220 alt="After Respin" src="Cheesecake-Light_2025-09-28_2.jpg" class="zoomable" />
 > <img width=220 alt="Scooped" src="Cheesecake-Light_2025-09-28_3.jpg" class="zoomable" />
