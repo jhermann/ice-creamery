@@ -18,6 +18,7 @@ tags:
 - Xylitol
 ---
 # Espresso Martini Light (Deluxe)
+<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="logo-Espresso-Martini.png" />
 
 This imitates an *espresso martini*, a cocktail made with espresso, vodka, coffee liqueur, and a touch of sweetness.
 It contains no gin or vermouth, but it's served in a martini glass.
@@ -31,7 +32,6 @@ Spin on “Sorbet”, scrape down, and mix-in if needed.
 Pour in the additional alcohol after the 1st spin. It roughly doubles the energy value.
 
 Rating: 😋🍸☕ (untested)
-
 > <img width=360 alt="Spun Ice Cream" src="" class="zoomable" />
 
 # INGREDIENTS
@@ -51,7 +51,7 @@ Rating: 😋🍸☕ (untested)
 
 **Fill to MAX**
 
-  - _50ml_ Water to MAX line (minus 80ml)
+  - _50ml_ Water to MAX line
   - _≈5 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
 
 **Mix-ins**
