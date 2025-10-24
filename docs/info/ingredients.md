@@ -375,7 +375,8 @@ E1422 is a pre-gelatinized (modified) cold-acting starch.
 It functions as a thickener, binder, emulsifier, and stabilizer, and is tolerant to heat, acid, and shear.
 It also enhances the freeze-thaw stability of ice cream.
 
-It can replace gelatin and also Waxy Maize Starch (E1442), another modified starch, with similar results.
+It can replace gelatin and also [Waxy Maize Starch (E1442)](#waxy-maize-starch-e1442),
+another modified starch, with similar results.
 More specifically E1422 is ideal for frozen and chilled foods, dressings, and bakery products, 
 while E1442 is well-suited for acidic foods, high-temperature processing, and dairy products.
 
@@ -578,6 +579,8 @@ It produces transparent pastes, unlike most other starches that create an opaque
 In the US this is sold as *Clearjel*, and if you're looking for sources online,
 try searching for *modified corn starch* or *instant corn starch*.
 There are not too many end-consumer products in the EU, and the price range is roughly €15 to €35 per kg.
+
+[Acetylated Distarch Adipate (E1422)](#acetylated-distarch-adipate-e1422) is also a modified starch and can be used instead.
 
 > 🧪 Also known as *Hydroxypropyl Distarch Phosphate*, E1442 is derived from natural waxy corn starch,
 > but is chemically modified to improve its properties.
