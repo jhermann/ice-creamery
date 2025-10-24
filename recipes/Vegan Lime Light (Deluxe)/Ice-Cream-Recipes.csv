@@ -1,0 +1,37 @@
+Vegan Lime Light (Deluxe);;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;;
+Nutritional values per 100g/ml;100;g;;75.8;2.1;13.0;2.2;3.7;0.2;;;;;
+Nutritional values per ½ Deluxe Tub;340;g;;257.6;7.3;44.3;7.5;12.7;0.6;;;;;
+Nutritional values total;680;g;;515.1;14.5;88.6;15.0;25.4;1.1;;;;;
+;;;;;;;;;;;;;;
+FPDF / PAC (target 20..30);32.01;;;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";19.70%;;;;LOW-FAT;;Low-Sugar;;;;;;;
+ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);32.0;g;;4.7%;;;;;;;;;;
+ℹ️ Net carbs;32.5;g;;*∝ 5 servings@136g:* 6.5g;;;*∝ 3 servings@227g:* 10.8g;;;*energy ratio (low <20%):* 25.3%;;;;
+"“Vegan Lime Light” is a refreshing, dairy-free ice cream that delivers
+the perfect blend of creamy tofu, zesty lime, and silky soy milk in every bite.";;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+Spin on “Light Ice Cream”, scrape down, and re-mix.;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+Rating: 😋🌿🍋‍🟩  (untested);;;;;;;;;;;;;;
+"1. Zest the lime(s), rub the zest into the sweetener, fill up with the juice and lemon liqueur.
+ 1. Let it rest in the fridge for a few hours.";;;;;;;;;;;;;;
+"1. Soften the tofu in the microwave with part of the milk.
+ 1. Blend together with the stabilizer mix until creamy and smooth.
+ 1. Add the rest of the milk, and the prepared zest.
+ 1. Use your blender on full speed to homogenize everything.";;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment;0Carb[%];Counts?
+Limoncello di Calabria 28 vol% [REWE];50.00;ml;0;261.00;0.00;26.60;26.60;0.00;;1.90;;;;1
+SweEX (Erythritol + Xylitol 3:2);45.00;g;0;109.60;;100.00;;;;2.56;;*alternative:* 60g allulose or dextrose;100.00;1
+Lime juice + zest (organic) [REWE Bio];20.00;ml;0;25.00;0.10;8.40;1.70;0.40;;;;"1 lime = 60..65g; optionally use 2 limes, or 1 lemon";;1
+Soy milk 1.6% (sugar-free) [Berief];200.00;ml;1;30.00;1.60;0.90;0.00;3.00;0.08;;4.00;Heat and blend with the tofu;;1
+Tofu (plain) [REWE Bio];90.00;g;1;129.00;7.50;1.80;0.50;13.00;0.20;;15.54;If you have it, use silken tofu;;1
+Soy milk 1.6% (sugar-free) [Berief];250.00;ml;1;30.00;1.60;0.90;0.00;3.00;0.08;;4.00;;;1
+Salty Stability [Inulin / GMS / CMC / Guar / XG / Salt];15.00;g;2;267.5;3.6;88.4;5.9;0.3;3.5;0.06;;*not-as-good substitute:* 1.5g guar, 0.5g xanthan, and 0.5g salt;73.80;1
+❔Waxy Maize Starch (E1442) [Ultratex];10.00;g;2;391.00;0.15;97.00;0.00;0.50;0.50;;;use only if needed for more viscosity;;1
+Inulin [Vit4ever];0.10;g;2;210.00;;97.00;8.00;;0.20;0.09;;;89.00;0
+Salt;0.10;g;2;;;;;;100.00;5.90;;3 quick shakes (with my shaker);;0
+;;;;;;;;;;;;;;
+Flavor drops “Natural” (stevia) [Nick’s];≈1;drops;3;;;;;;;;;to taste • unflavored;;
