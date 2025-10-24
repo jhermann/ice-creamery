@@ -370,6 +370,7 @@ def parse_recipe_csv(csv_name, args, images=[]):
     recipe = defaultdict(list)
     lines = []
     nutrition = []
+    special_prep = []
     special_directions = []
 
     with open(csv_name, 'r', encoding='utf-8') as handle:
@@ -450,6 +451,7 @@ def parse_recipe_csv(csv_name, args, images=[]):
         recipe=recipe,
         lines=lines,
         nutrition=nutrition,
+        special_prep=special_prep,
         special_directions=special_directions,
         is_topping=is_topping,
         title=title,
@@ -486,7 +488,6 @@ def main():
         ' 1. After mixing, let the base sit in the fridge for at least 30min (better 2h),'
         ' for the seeds to properly soak. Stir before freezing.',
     ]
-    special_prep = []
     mix_in = []
     STEP_PREP = 0
     STEP_WET = 1
@@ -503,9 +504,9 @@ def main():
     card = parse_recipe_csv(args.csv_name, args, images)
     recipe = defaultdict(list)
     recipe.update(card.recipe)
-    lines, nutrition, special_directions, is_topping, title = \
+    lines, nutrition, special_prep, special_directions, is_topping, title = \
         list(card.lines), list(card.nutrition), \
-        card.special_directions, card.is_topping, card.title
+        card.special_prep, card.special_directions, card.is_topping, card.title
     #pp(dict(card))
     #pp((dict(recipe), lines, nutrition))
 
