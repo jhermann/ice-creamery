@@ -15,13 +15,13 @@ of common ingredients, sorted by PAC.
 
 | FPDF/PAC | POD |  GI | Ingredient | Comment |
 | -: | -: | -: | :----------------- | :------ |
-| 740 |  -/- | -/- | Ethanol | Do not use pure ethanol in ice cream |
+| 740 |  -/- | -/- | [Ethanol](#alcohol-ethanol) | Do not use pure ethanol in ice cream |
 | 590 |  -/- | -/- | Salt  | Sodium chloride (NaCl) |
-| 370 |  60 |  5 | Vegetable glycerin | |
+| 370 |  60 |  5 | [Vegetable Glycerin](#vegetable-glycerin-glycerol-vg-e422) | |
 | 296 |  -/- | -/- | Hard liquor | 40 vol% (80 proof) |
 | 280 | ≈75 |  0 | Erythritol | POD ranges from 70 to 80 |
-| 220 | 100 | 12 | Xylitol | |
-| 190 |  70 |  0 | Allulose | |
+| 220 | 100 | 12 | [Xylitol](#xylitol-e967) | |
+| 190 |  70 |  0 | [Allulose](#allulose) | |
 | 190 |  70 | **100** | Dextrose | 100% glucose (monosaccharide) |
 | 190 | 170 | 19 | Fructose | |
 | 190 | 100 | ≈68 | High-fructose corn syrup (HFCS-55) | fructose >55% + glucose |
@@ -33,7 +33,7 @@ of common ingredients, sorted by PAC.
 | 100 |  16–40 | 45 | Lactose | Milk sugar |
 | 100 |  10 |  6 | Polydextrose | |
 | **100** | **100** | 65 | **Sucrose** | Table sugar, 1:1 glucose:fructose |
-| 100 |  45 | 38 | Trehalose | Disaccharide, found in plants & fungi;<br />also improves texture / icyness |
+| 100 |  45 | 38 | [Trehalose](#trehalose-e965) | Disaccharide, found in plants & fungi;<br />also improves texture / icyness |
 | ≈90 | ≈55 | ≈75 | Glucose Powder (40/42 DE) | 5–7% water; also called atomized / dehydrated glucose |
 | ≈85 | ≈45 | ≈98 | Rice syrup | ~35:50:15 glucose / maltose / various polysaccharides |
 |  80 |  50 | ≈75 | Glucose Syrup (42 DE) | 25% water |
