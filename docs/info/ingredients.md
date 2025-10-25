@@ -18,8 +18,8 @@ of common ingredients, sorted by PAC.
 | 740 |  -/- | -/- | [Ethanol](#alcohol-ethanol) | Do not use pure ethanol in ice cream |
 | 590 |  -/- | -/- | Salt  | Sodium chloride (NaCl) |
 | 370 |  60 |  5 | [Vegetable Glycerin](#vegetable-glycerin-glycerol-vg-e422) | |
-| 296 |  -/- | -/- | Hard liquor | 40 vol% (80 proof) |
-| 280 | ≈75 |  0 | Erythritol | POD ranges from 70 to 80 |
+| 296 |  -/- | -/- | [Hard liquor](#alcohol-ethanol) | 40 vol% (80 proof) |
+| 280 | ≈75 |  0 | [Erythritol](#erythritol-e968) | POD ranges from 70 to 80 |
 | 220 | 100 | 12 | [Xylitol](#xylitol-e967) | |
 | 190 |  70 |  0 | [Allulose](#allulose) | |
 | 190 |  70 | **100** | Dextrose | 100% glucose (monosaccharide) |
@@ -31,7 +31,7 @@ of common ingredients, sorted by PAC.
 | 190 |  60 |  9 | Sorbitol | |
 | 180 | ≈160 | 11 | Agave Syrup | POD ranges from 140 to 180; ~80:20 fructose / glucose |
 | 100 |  16–40 | 45 | Lactose | Milk sugar |
-| 100 |  10 |  6 | Polydextrose | |
+| 100 |  10 |  6 | [Polydextrose](#polydextrose-e1200) | |
 | **100** | **100** | 65 | **Sucrose** | Table sugar, 1:1 glucose:fructose |
 | 100 |  45 | 38 | [Trehalose](#trehalose-e965) | Disaccharide, found in plants & fungi;<br />also improves texture / icyness |
 | ≈90 | ≈55 | ≈75 | Glucose Powder (40/42 DE) | 5–7% water; also called atomized / dehydrated glucose |
@@ -41,11 +41,11 @@ of common ingredients, sorted by PAC.
 |  68 | ≈66 | 54 | Maple syrup | High in sucrose, but also has fructose and glucose|
 |  61 |  40 | ≈56 | Light corn syrup (32 DE) | ~15:15:70 glucose / maltose / various polysaccharides |
 |  50 |  -/- | 85 | Modified corn starch | Possibly lower GI for some modifications |
-| ≈39 |  50 |  2 | Isomalt | PAC ranges from 36 — 42; 2.36 kcal/g |
+| ≈39 |  50 |  2 | [Isomalt](#isomalt-e953) | PAC ranges from 36 — 42; 2.36 kcal/g |
 |  34 |  21 | 110 | Maltodextrin (18 DE) | |
-|  22 |  10 |  1 | Inulin | |
+|  22 |  10 |  1 | [Inulin](#inulin) | |
 | <20 |  ≈10 |  <55 | Resistant Dextrin (E1400) | GI typically ranges from 25 to 48 |
-|  10 |  44 | 35 | Maltitol (E965) | |
+|  10 |  44 | 35 | [Maltitol](#maltitol-e965) (E965) | |
 
 > 🧪 **Sources**<br />
 > * https://www.icecreamscience.com/blog/corn-syrup-used-ice-cream
@@ -123,7 +123,7 @@ Sugar alcohol with a cooling mouth-feel and about 75% as sweet as sugar (add ⅓
 Erythritol lowers the freezing point of water drastically (2.8x compared to sugar).
 
 It has a strong tendency to crystallize in long-term frozen state (weeks), leading to a hard texture. This can be alleviated by adding at least 0.05% of a stabilizer, and staying below 8% of total weight.
-Mixing with at least 40% of xylitol has the same effect.
+Mixing with at least 40% of [xylitol](#xylitol-e967) has the same effect.
 
 *Dosage:* 6.5–8% of an ice cream base.
 
@@ -143,13 +143,13 @@ To overcome these issues, the study found that a crystallization inhibitor, like
 An ideal ratio of three parts erythritol to two parts of a second polyol is suggested. The optimal usage level for erythritol was determined to be between 6.5% and 8.0% of the total recipe to maximize taste benefits without causing irreversible textural hardening. High-intensity sweeteners, such as sucralose, are also needed to balance sweetness, as polyols generally provide less sweetness than sugar.
 
 ### SweEX (Erythritol / Xylitol Blend)
-A mix of Erythritol and Xylitol (ratio 3:2) I dubbed *SweEX* that takes
+A mix of [Erythritol](#erythritol-e968) and [Xylitol](#xylitol-e967) (ratio 3:2) I dubbed *SweEX* that takes
 the results of the *Jungbunzlauer study* into account (details see right above).
 
 It has a PAC of 256, a POD of ≈85%, and a GI below 7 (i.e. below that of xylitol).
 
 > 💡 **Swapping in Allulose**<br />Use 133% of the given amount of *SweEX* to attain about the same PAC and POD values.
-> That means using 75% of a given pure allulose amount in the other direction.
+> That means using 75% of a given pure [allulose](#allulose) amount in the other direction.
 
 ### Inulin
 Inulin is a naturally occurring polysaccharide, and used to improve mouthfeel, stability, acceptability of low-fat ice creams, and forms a gel-like network that binds water.
@@ -178,7 +178,7 @@ It has high heat resistance and will not melt until it reaches 145°C.
 There is no ADI value (*Acceptable Daily Intake*), but moderation is advised to avoid potential digestive issues.
 Suggested is an upper limit of 50g per day for adults, while children should consume less.
 
-It is very similar to maltitol, and requires care regarding daily intake just like other sugar alcohols.
+It is very similar to [maltitol](#maltitol-e965), and requires care regarding daily intake just like other sugar alcohols.
 Chemically it is a mix of glucose (50%), sorbitol (25%), and mannitol (25%).
 
 > ⚠️ Too much isomalt can lead to a soft, sticky texture.
@@ -209,7 +209,7 @@ It is a long-chain, sugar-like molecule that is not fully digestible by human en
 EU regulations require labelling above 15g for possible GI issues in sensitive individuals,
 so take that into account. From a safety standpoint, there are no limits set.
 
-Compared to inulin, polydextrose is also a soluble fiber and very similar in sweetness and GI,
+Compared to [inulin](#inulin), polydextrose is also a soluble fiber and very similar in sweetness and GI,
 but has a five times higher PAC of 100.
 
 ### Resistant Dextrin (E1400)
@@ -223,10 +223,10 @@ Compared to maltodextrin, which has a very high GI of 110 and a PAC of 34, RD ha
 and minimal blood sugar effects.
 
 It's often used as a fat substitute or to add creaminess, and can also help prevent ice crystal formation.
-It can replace or accompany inulin — a combination of inulin and resistant dextrin may offer
+It can replace or accompany [inulin](#inulin) — a combination of inulin and resistant dextrin may offer
 superior prebiotic benefits with less gas production than inulin alone.
 
-Dextrin is a type of modified starch, produced via partial hydrolysis from different sources like corn, potato, rice, or wheat.
+> 🧪 Dextrin is a type of modified starch, produced via partial hydrolysis from different sources like corn, potato, rice, or wheat.
 
 ### Sorbitol (E420)
 
@@ -236,7 +236,7 @@ It tastes like sugar, but creates a noticeable cooling effect in the mouth.
 
 Using sorbitol in ice cream improves its texture and stability, providing a smoother, creamier consistency by lowering the freezing point.
 Its anti-crystallization properties reduce ice crystal formation, and also help controlling
-the tendency of erythritol to harden an ice cream in long-term storage.
+the tendency of [erythritol](#erythritol-e968) to harden an ice cream in long-term storage.
 
 As with all sugar alcohols, keep the effects on the digestive system in mind (max. 10% of a recipe).
 
@@ -248,15 +248,15 @@ Many people find stevia to have a slightly bitter or licorice aftertaste.
 
 In ice cream, stevia in its pure form (as a liquid) makes it simple to dial in the sweetness of a base without influencing its texture and PAC value.
 You have to be aware of the effects of bulking agents on your base when it comes in powdered form;
-one common example is the use of erythritol for that, with significant FP depression changes.
+one common example is the use of [erythritol](#erythritol-e968) for that, with significant FP depression changes.
 
 ### Sucralose (E955)
 
 Sucralose is a non-caloric artificial sweetener that is about 600 times sweeter than table sugar.
 It is derived from sucrose through a chemical process.
-Sucralose is commonly known by the brand name Splenda.
+Sucralose is commonly known by the brand name *Splenda*.
 
-Like stevia, when used in liquid form, it makes it simple to dial in the sweetness of a base without influencing its texture and PAC value.
+Like [stevia](#stevia-e960), when used in liquid form, it makes it simple to dial in the sweetness of a base without influencing its texture and PAC value.
 
 ### Trehalose (E965)
 Trehalose is a disaccharide (composed of two glucose molecules),
