@@ -1,3 +1,10 @@
+header.md-header, nav.md-tabs {
+  background-image: url("/ice-creamery/assets/top-bgnd-opaque.png");
+  background-size: auto 48px;
+  background-repeat: repeat;
+  background-blend-mode: overlay;
+}
+
 img.zoomable {
   user-drag: none;
   cursor: zoom-in;
