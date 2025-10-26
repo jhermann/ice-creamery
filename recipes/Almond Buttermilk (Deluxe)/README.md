@@ -50,6 +50,12 @@ Added 2g GMS (emulsifier) and dissolved that, the SMP and the almond butter in h
 > 
 > *Served with molasses and almond slivers, directly after processing.*
 
+> <img width=180 alt="Dark Choc Mixin" src="almond-buttermilk_dark-choc_2025-10-26_1.jpg" class="zoomable" />
+> <img width=180 alt="Dark Choc Mixin" src="almond-buttermilk_dark-choc_2025-10-26_2.jpg" class="zoomable" />
+> <img width=180 alt="Dark Choc Mixin" src="almond-buttermilk_dark-choc_2025-10-26_3.jpg" class="zoomable" />
+> 
+> *Added 100g cottage cheese, processed using FroYo, and used dark chocolate flakes as a mix-in.*
+
 # INGREDIENTS
 
 ℹ️ Brand names are in square brackets `[...]`.
