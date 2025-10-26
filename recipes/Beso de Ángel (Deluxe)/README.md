@@ -31,9 +31,11 @@ tags:
 
 The common theme is a sweet fruit base with a combination of sweet, chewy, and crunchy textures.
 
+The base is just 600g on purpose, to leave room for plenty of mix-ins. The mix-ins as listed below add 230kcal and 20.1g sugar.
+
+> <img width=330 alt="Add-ins (dry), chopped" src="Beso-de-Ángel_2025-10-26_13-17.jpg" class="zoomable" />
+
 Process on *Light Ice Cream*, do a scrape-down, then the mix-in run with your chosen add-ins.
-The base is just 600g on purpose, to leave room for plenty of mix-ins.
-The mix-ins as listed below add 230kcal and 20.1g sugar.
 
 > <img width=220 alt="After Sorbet" src="_1.jpg" class="zoomable" />
 > <img width=220 alt="After Mix-in" src="_2.jpg" class="zoomable" />
@@ -63,7 +65,7 @@ The mix-ins as listed below add 230kcal and 20.1g sugar.
 
 **Fill to MAX**
 
-  - _≈7 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
+  - _≈8 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
 
 **Mix-ins**
 
