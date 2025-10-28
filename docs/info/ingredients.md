@@ -44,7 +44,7 @@ of common ingredients, sorted by PAC.
 | ≈39 |  50 |  2 | [Isomalt](#isomalt-e953) | PAC ranges from 36 — 42; 2.36 kcal/g |
 |  34 |  21 | 110 | Maltodextrin (18 DE) | |
 |  22 |  10 |  1 | [Inulin](#inulin) | |
-| <20 |  ≈10 |  <55 | Resistant Dextrin (E1400) | GI typically ranges from 25 to 48 |
+| <20 |  ≈10 |  <55 | [Resistant Dextrin](#resistant-dextrin-e1400) (E1400) | GI typically ranges from 25 to 48 |
 |  10 |  44 | 35 | [Maltitol](#maltitol-e965) (E965) | |
 
 > 🧪 **Sources**<br />
@@ -166,6 +166,9 @@ Natural chicory / agave inulin has 8g sugar, and 88% fiber. Further processing l
 
 *Topinambur* or *Jerusalem artichoke syrup* has about 36% inulin, 1% glucose, and 2% fructose,
 at a density of ≈1.3 g/ml.
+
+[Polydextrose](#polydextrose-e1200) is similar but with a PAC of 100,
+and [Resistant Dextrin](#resistant-dextrin-e1400) can replace or be combined with inulin.
 
 ### Isomalt (E953)
 
