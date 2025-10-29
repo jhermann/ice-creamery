@@ -34,6 +34,7 @@ of common ingredients, sorted by PAC.
 | 100 |  10 |  6 | [Polydextrose](#polydextrose-e1200) | |
 | **100** | **100** | 65 | **Sucrose** | Table sugar, 1:1 glucose:fructose |
 | 100 |  45 | 38 | [Trehalose](#trehalose-e965) | Disaccharide, found in plants & fungi;<br />also improves texture / icyness |
+|  99 |  ≈85 | 35 | [Maltitol](#maltitol-e965) (E965) | POD ranges from 80 — 90 |
 | ≈90 | ≈55 | ≈75 | Glucose Powder (40/42 DE) | 5–7% water; also called atomized / dehydrated glucose |
 | ≈85 | ≈45 | ≈98 | Rice syrup | ~35:50:15 glucose / maltose / various polysaccharides |
 |  80 |  50 | ≈75 | Glucose Syrup (42 DE) | 25% water |
@@ -45,7 +46,6 @@ of common ingredients, sorted by PAC.
 |  34 |  21 | 110 | Maltodextrin (18 DE) | |
 |  22 |  10 |  1 | [Inulin](#inulin) | |
 | <20 |  ≈10 |  <55 | [Resistant Dextrin](#resistant-dextrin-e1400) (E1400) | GI typically ranges from 25 to 48 |
-|  10 |  44 | 35 | [Maltitol](#maltitol-e965) (E965) | |
 
 > 🧪 **Sources**<br />
 > * https://www.icecreamscience.com/blog/corn-syrup-used-ice-cream
