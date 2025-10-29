@@ -12,7 +12,6 @@ remove:
 - ' (to the MAX line)'
 tags:
 - Cooked Base
-- Draft
 - Emulsifier
 - Erythritol
 - Fruit
@@ -37,9 +36,13 @@ The base is just 600g on purpose, to leave room for plenty of mix-ins. The mix-i
 
 Process on *Light Ice Cream*, do a scrape-down, then the mix-in run with your chosen add-ins.
 
-> <img width=220 alt="After Sorbet" src="_1.jpg" class="zoomable" />
-> <img width=220 alt="After Mix-in" src="_2.jpg" class="zoomable" />
-> <img width=220 alt="Scooped" src="_3.jpg" class="zoomable" />
+> <img width=220 alt="After Light Ice Cream" src="Beso-de-Ángel_2025-10-29_1.jpg" class="zoomable" />
+> <img width=220 alt="After Mix-in" src="Beso-de-Ángel_2025-10-29_2.jpg" class="zoomable" />
+> <img width=220 alt="Swirled" src="Beso-de-Ángel_2025-10-29_3.jpg" class="zoomable" />
+
+Mix-ins were soaked in rum, and a cherry swirl added manually after the mix-in run.
+
+> <img width=330 alt="Scooped" src="Beso-de-Ángel_2025-10-29_4.jpg" class="zoomable" />
 
 # INGREDIENTS
 
