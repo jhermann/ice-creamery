@@ -36,12 +36,6 @@ jobs:
           restore-keys: |
             mkdocs-material-
 
-      - run: |
-          pip install pyyaml 'mkdocs-material[imaging]' \
-              mkdocs-exporter \
-              mkdocs-git-revision-date-localized-plugin \
-              mkdocs-link-embeds-plugin \
-              mkdocs-print-site-plugin \
-              mkdocs-macros-plugin
+      - run: pip install -r./requirements.txt
       - run: bash linkdocs.sh
       - run: mkdocs gh-deploy --config-file mkdocs.yml --force --use-directory-urls

@@ -169,9 +169,7 @@ script before that into your `~/bin`.
 
 ```sh
 sudo apt install libgtk-4-dev libevent-dev libavif-dev
-mkvenv3 mkdocs 'mkdocs-material[imaging]' \
-    mkdocs-exporter mkdocs-git-revision-date-localized-plugin \
-    mkdocs-link-embeds-plugin mkdocs-print-site-plugin mkdocs-macros-plugin
+mkvenv3 mkdocs -r./requirements.txt
 ```
 
 Then call the following command in the repository's root directory:

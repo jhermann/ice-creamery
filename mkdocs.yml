@@ -38,6 +38,11 @@ theme:
         name: Switch to system preference
   logo: assets/logo.png
   favicon: assets/favicon.png
+  icon:
+    admonition:
+      example: fontawesome/solid/flask
+      info: fontawesome/solid/circle-info
+      tip: fontawesome/solid/lightbulb
   features:
     - navigation.footer
     - navigation.tabs
@@ -54,7 +59,20 @@ plugins:
   - offline:
       enabled: !ENV [MKDOCS_OFFLINE, false]
   - search
-  - git-revision-date-localized
+
+  #- git-revision-date-localized
+  - document-dates:
+      position: bottom         # Display position: top(after title) bottom(end of document)
+      type: timeago            # Date type: date datetime timeago, default: date
+      exclude:                 # List of excluded files
+        - tags.md              # Exclude the specified file
+      date_format: '%Y-%m-%d'  # Date format strings (e.g., %Y-%m-%d, %b %d, %Y)
+      time_format: '%H:%M'     # Time format strings (valid only if type=datetime)
+      show_author: false       # Author display mode: true(avatar) text(text) false(hidden)
+
+  - exclude:
+      glob:
+        - assets/*.inc.md
 
   - social:
       cards: true
@@ -117,6 +135,9 @@ markdown_extensions:
       title: Table of Contents
       permalink: true
       permalink_title: Anchor link to this section for reference
+  # https://squidfunk.github.io/mkdocs-material/reference/admonitions/#supported-types
+  - admonition
+  - pymdownx.details
 
 extra:
   generator: false
@@ -126,4 +147,5 @@ extra:
 
 extra_css:
   - assets/css/link-embeds.css
+  - assets/css/admonitions.css
   - assets/css/custom.css
