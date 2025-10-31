@@ -47,16 +47,15 @@ Lists just like this one.
 
 - 🎦 [The Best Ice Cream Books for Beginners](https://www.youtube.com/watch?v=OCewlsUmKKU) by *Polar Ice Creamery*
 - 🎦 [Gelato Masterclass: Make the best Italian ice cream at home](https://www.youtube.com/watch?v=eH1wuQg4h4Y)
-- Stabilizers (*Polar Ice Creamery*):
-
-   - 🎦 [Ice Cream Stabilizers: Beginner's Guide](https://www.youtube.com/watch?v=GyTIS0ic3Qs)
-   - 🎦 [Ultimate Ice Cream Stabilizer Video](https://www.youtube.com/watch?v=p0Xbfl2KGWg) (2025)
-   - 🎦 [Ultimate Ice Cream Stabilizer Mix](https://www.youtube.com/watch?v=DDsdwJi3D_A)
-   - 🎦 [Starches, CMC, GMS & Tara Gum](https://www.youtube.com/watch?v=Z-dyM5j9tQs)
-   - 🎦 [Carrageenans](https://www.youtube.com/watch?v=LSecSAu7xWI)
-   - 🎦 [Guar Gum](https://www.youtube.com/watch?v=KrvLeh8tr-E)
-   - 🎦 [Locust Bean Gum (LBG)](https://www.youtube.com/watch?v=SKg_3PGxlww)
-   - 🎦 [Xanthan Gum](https://www.youtube.com/watch?v=H2dHQtIhY88)
+-   Stabilizers (*Polar Ice Creamery*):
+    - 🎦 [Ice Cream Stabilizers: Beginner's Guide](https://www.youtube.com/watch?v=GyTIS0ic3Qs)
+    - 🎦 [Ultimate Ice Cream Stabilizer Video](https://www.youtube.com/watch?v=p0Xbfl2KGWg) (2025)
+    - 🎦 [Ultimate Ice Cream Stabilizer Mix](https://www.youtube.com/watch?v=DDsdwJi3D_A)
+    - 🎦 [Starches, CMC, GMS & Tara Gum](https://www.youtube.com/watch?v=Z-dyM5j9tQs)
+    - 🎦 [Carrageenans](https://www.youtube.com/watch?v=LSecSAu7xWI)
+    - 🎦 [Guar Gum](https://www.youtube.com/watch?v=KrvLeh8tr-E)
+    - 🎦 [Locust Bean Gum (LBG)](https://www.youtube.com/watch?v=SKg_3PGxlww)
+    - 🎦 [Xanthan Gum](https://www.youtube.com/watch?v=H2dHQtIhY88)
 
 ## Ice Cream Calculators
 I use my spreadsheet, so this is a "what I found on the web" list, without any preferences attached.
