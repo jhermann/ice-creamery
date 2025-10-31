@@ -50,8 +50,9 @@ of common ingredients, sorted by PAC.
 |  22 |  10 |  1 | [Inulin](#inulin) | |
 | <20 |  ≈10 |  <55 | [Resistant Dextrin](#resistant-dextrin-e1400) (E1400) | GI typically ranges from 25 to 48 |
 
-> 🧪 **Sources**<br />
-> * https://www.icecreamscience.com/blog/corn-syrup-used-ice-cream
+!!! science "Sources"
+
+    * https://www.icecreamscience.com/blog/corn-syrup-used-ice-cream
 
 Note that natural ingredients like molasses or maple syrup
 can slightly differ depending on brand, check the sugar content
@@ -167,7 +168,9 @@ RDA is 8-18g (tested for up to 24 weeks). Most common side effects include gas, 
 
 Natural chicory / agave inulin has 8g sugar, and 88% fiber. Further processing leads to HP inulin that has 97% fiber and 0% sugar, and it needs to be heated to 65°C to dissolve.
 
-> <sup>*Source:* https://www.icecreamscience.com/blog/why-is-inulin-used-in-ice-cream</sup>
+!!! science "Source"
+
+    https://www.icecreamscience.com/blog/why-is-inulin-used-in-ice-cream
 
 *Topinambur* or *Jerusalem artichoke syrup* has about 36% inulin, 1% glucose, and 2% fructose,
 at a density of ≈1.3 g/ml.
@@ -234,7 +237,9 @@ It's often used as a fat substitute or to add creaminess, and can also help prev
 It can replace or accompany [inulin](#inulin) — a combination of inulin and resistant dextrin may offer
 superior prebiotic benefits with less gas production than inulin alone.
 
-> 🧪 Dextrin is a type of modified starch, produced via partial hydrolysis from different sources like corn, potato, rice, or wheat.
+!!! science "Scientific Background"
+
+    Dextrin is a type of modified starch, produced via partial hydrolysis from different sources like corn, potato, rice, or wheat.
 
 ### Sorbitol (E420)
 
@@ -377,7 +382,9 @@ When combined in ice cream with guar gum, both are typically used in small amoun
 with guar gum usually ranging from 0.1–0.5% and gum arabic from 0.3–0.7% of the total mix weight.
 The exact ratio can be adjusted based on desired texture and flavor.
 
-> 🧪 Acacia gum is a complex mixture of glycoproteins and polysaccharides, predominantly polymers of arabinose and galactose.
+!!! science "Scientific Background"
+
+    Acacia gum is a complex mixture of glycoproteins and polysaccharides, predominantly polymers of arabinose and galactose.
 
 ### Acetylated Distarch Adipate (E1422)
 
@@ -390,7 +397,10 @@ another modified starch, with similar results.
 More specifically E1422 is ideal for frozen and chilled foods, dressings, and bakery products, 
 while E1442 is well-suited for acidic foods, high-temperature processing, and dairy products.
 
-> 🧪 E1422 is created by chemically modifying starches like corn, potato, or tapioca with acetic anhydride and adipic acid.
+!!! science "Scientific Background"
+
+    E1422 is created by chemically modifying starches like
+    corn, potato, or tapioca with acetic anhydride and adipic acid.
 
 ### Agar-Agar (E406)
 Agar-Agar is a natural, plant-based gelling and thickening agent (hydrocolloid), derived from red algae. It's commonly used as a vegan alternative to gelatin, since it is also tasteless and odorless; its gelling power is higher. It is heat-stable and acid-stable, and resulting gels tend to be brittle.
@@ -594,8 +604,11 @@ There are not too many end-consumer products in the EU, and the price range is r
 
 [Acetylated Distarch Adipate (E1422)](#acetylated-distarch-adipate-e1422) is also a modified starch and can be used instead.
 
-> 🧪 Also known as *Hydroxypropyl Distarch Phosphate*, E1442 is derived from natural waxy corn starch,
-> but is chemically modified to improve its properties.
+!!! science "Scientific Background"
+
+    Also known as *Hydroxypropyl Distarch Phosphate*,
+    E1442 is derived from natural waxy corn starch,
+    but is chemically modified to improve its properties.
 
 ## Emulsifiers
 
@@ -624,8 +637,10 @@ GMS is typically used at concentrations of 0.1% to 0.5% of the total mix.
 Normally it is combined with CMC at a ratio of 2GMS:1CMC,
 and a dosage of up to 1% of water content, e.g. 0.3% GMS and 0.05–0.15% CMC in the total base.
 
-> 🧪 GMS falls into the *Mono- and Diglycerides of Fatty Acids* (E471) category,
-> and is a pure form of what is otherwise a mixture of different mono- and diglycerides.
+!!! science "Scientific Background"
+
+    GMS falls into the *Mono- and Diglycerides of Fatty Acids* (E471) category,
+    and is a pure form of what is otherwise a mixture of different mono- and diglycerides.
 
 ### Polysorbate 80 (E433)
 
