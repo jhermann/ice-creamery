@@ -50,13 +50,7 @@ PREPPED_NAME = {
     'ICSv2': 'Ice Cream Stabilizer (ICS)',
 }
 SNIPPETS = dict(
-    alcohol="""
-!!! tip "Alcohol Replacement"
-
-    If you don't want alcohol in your ice cream, or prepare it for kids,
-    replace the small amount of alcohol with vegetable glycerin.
-    For 10g booze (40 vol%) use 8g VG instead.
-""",
+    alcohol="\n{% include 'assets/booze2vg.inc.md' %}\n",
 )
 PREPPED = {
     'ICSv2': {
@@ -229,7 +223,7 @@ def md_anchor(title, _re=re.compile(r'([^a-z0-9]+)')):
 
 def parse_info_docs(kind, header):
     """Parse the Markdown file 'ingredients.md' for linking from recipes to it."""
-    docsfile = Path(__file__).readlink().parent.parent / 'docs' / 'info' / f'{kind}.md'
+    docsfile = Path(__file__).resolve().parent.parent / 'docs' / 'info' / f'{kind}.md'
     markup = docsfile.read_text(encoding='utf-8')
     titles = [x.lstrip('#').strip() for x in markup.splitlines() if x.startswith(header)]
     wordmap = {md_anchor(x): set(md_anchor(x).split('-')) for x in titles}
@@ -373,6 +367,10 @@ def parse_recipe_csv(csv_name, args, images=[]):
     nutrition = []
     special_prep = []
     special_directions = []
+    freezing = [  # inserted before 'mix-in' step
+        ' 1. Put on the lid, freeze for 24h, then spin as usual. Flatten any humps before that.',
+        ' 1. Process with RE-SPIN mode when not creamy enough after the first spin.',
+    ]
 
     with open(csv_name, 'r', encoding='utf-8') as handle:
         reader = csv.reader(handle, delimiter=';')
@@ -454,6 +452,7 @@ def parse_recipe_csv(csv_name, args, images=[]):
         nutrition=nutrition,
         special_prep=special_prep,
         special_directions=special_directions,
+        freezing=freezing,
         is_topping=is_topping,
         title=title,
     ))
@@ -480,10 +479,6 @@ def main():
     }
     premix = [
         ' 1. Add the prepared dry ingredients, and blend QUICKLY using an immersion blender on full speed.',
-    ]
-    freezing = [  # inserted before 'mix-in' step
-        ' 1. Put on the lid, freeze for 24h, then spin as usual. Flatten any humps before that.',
-        ' 1. Process with RE-SPIN mode when not creamy enough after the first spin.',
     ]
     soaking = [
         ' 1. After mixing, let the base sit in the fridge for at least 30min (better 2h),'
@@ -566,7 +561,7 @@ def main():
             elif step == STEP_MIX_IN:
                 if any('chia' in x['ingredients'].lower() for x in recipe[STEP_DRY]):
                     lines.extend(soaking)
-                lines.extend(freezing)
+                lines.extend(card.freezing)
                 lines.extend(mix_in)
             if recipe[step]:  # we have ingredients for this step?
                 for line in [x.strip() for x in directions.strip().splitlines()]:

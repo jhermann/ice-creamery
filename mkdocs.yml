@@ -138,6 +138,7 @@ markdown_extensions:
   # https://squidfunk.github.io/mkdocs-material/reference/admonitions/#supported-types
   - admonition
   - pymdownx.details
+  - pymdownx.snippets
 
 extra:
   generator: false

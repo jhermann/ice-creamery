@@ -4,8 +4,21 @@
      * https://mkdocs-macros-plugin.readthedocs.io/en/latest/macros/
      * https://tedboy.github.io/jinja2/templ14.html
 """
-
+import sys
 import pathlib
+import importlib.util as imp_util
+
+def load_module(file_name, module_name=''):
+    """Load a script fiel as a module."""
+    module_name = module_name or pathlib.Path(file_name).stem.replace('-', '_')
+    spec = imp_util.spec_from_file_location(module_name, file_name)
+    module = imp_util.module_from_spec(spec)
+    sys.modules[module_name] = module
+    spec.loader.exec_module(module)
+    return module
+
+recipe_lib = load_module(pathlib.Path(__file__).parent / 'scripts' / 'ice-cream-recipe.py')
+recipe_lib.parse_info_docs('ingredients', '### ')
 
 def define_env(env):
     """
@@ -30,6 +43,11 @@ def define_env(env):
     @env.filter
     def rchop(text, length):
         return text[:-length]
+
+    @env.filter
+    def ingredient(text):
+        #return f'[{ text.replace("]", "\\]") }](/ice-creamery/info/ingredients/#{anchor})' + '' + \
+        return recipe_lib.ingredient_link(text)
 
     # If you wish, you can  declare a macro with a different name
     #def f(x):
