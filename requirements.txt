@@ -1,4 +1,5 @@
 # python3 -mpip install -r./requirements.txt
+attrdict
 mkdocs-material[imaging]
 mkdocs-exporter
 #mkdocs-git-revision-date-localized-plugin
