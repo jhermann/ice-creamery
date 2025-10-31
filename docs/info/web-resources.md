@@ -40,6 +40,7 @@ Lists just like this one.
 
 **Noteworthy Videos**
 
+- 🎦 [The Best Ice Cream Books for Beginners](https://www.youtube.com/watch?v=OCewlsUmKKU) by *Polar Ice Creamery*
 - 🎦 [Gelato Masterclass: Make the best Italian ice cream at home](https://www.youtube.com/watch?v=eH1wuQg4h4Y)
 
 ## Ice Cream Calculators
