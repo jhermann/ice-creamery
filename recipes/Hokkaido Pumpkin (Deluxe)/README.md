@@ -44,10 +44,7 @@ Rating: 😋🎃🎃❄️ (very unique flavor, but probably needs to be passed 
 
 > <img width=482 alt="Served" src="Hokkaido_2025-08-11_1.jpg" class="zoomable" />
 
-> 💡 **Alcohol Replacement**<br />
-> If you don't want alcohol in your ice cream, or prepare it for kids,
-> replace the small amount of alcohol with vegetable glycerin.
-> For 10g booze (40 vol%) use 8g VG instead.
+{% include 'assets/booze2vg.inc.md' %}
 
 # INGREDIENTS
 

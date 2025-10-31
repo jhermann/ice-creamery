@@ -47,10 +47,7 @@ Rating: 😋🥛🍦🍋🧇  (tastes like milk 😼)
 
 Temperature of the base before and after processing.
 
-> 💡 **Alcohol Replacement**<br />
-> If you don't want alcohol in your ice cream, or prepare it for kids,
-> replace the small amount of alcohol with vegetable glycerin.
-> For 10g booze (40 vol%) use 8g VG instead.
+{% include 'assets/booze2vg.inc.md' %}
 
 # INGREDIENTS
 

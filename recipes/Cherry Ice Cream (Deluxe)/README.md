@@ -47,10 +47,7 @@ Then make a deep and a medium hole, fill each with 1 tsp spread,
 finally bury 1 tsp on top in a shallow cavity — all these are placed on the corners of an imaginary triangle.
 Then carefully fold all with a chopstick, *do not overmix*.
 
-> 💡 **Alcohol Replacement**<br />
-> If you don't want alcohol in your ice cream, or prepare it for kids,
-> replace the small amount of alcohol with vegetable glycerin.
-> For 10g booze (40 vol%) use 8g VG instead.
+{% include 'assets/booze2vg.inc.md' %}
 
 # INGREDIENTS
 
