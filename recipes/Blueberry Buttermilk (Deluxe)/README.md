@@ -30,10 +30,11 @@ The buttermilk gives this a tangy and fresh profile, refreeze after processing f
 You can replace the blueberries by other fruit, adapt the "Fill to MAX" liquid amount accordingly,
 and use less buttermilk if you'd overfill otherwise.
 
-> 💡 **Alcohol Replacement**<br />
-> If you don't want alcohol in your ice cream, or prepare it for kids,
-> replace the small amount of alcohol with vegetable glycerin.
-> For 10g booze (40 vol%) use 8g VG instead.
+!!! tip "Alcohol Replacement"
+
+    If you don't want alcohol in your ice cream, or prepare it for kids,
+    replace the small amount of alcohol with vegetable glycerin.
+    For 10g booze (40 vol%) use 8g VG instead.
 
 Process on *Frozen Yogurt*, [hold it shortly under running water](https://jhermann.github.io/ice-creamery/info/tips%2Btricks/#handling-of-icy-sides-bottom)
 *after* that.Then a scrape-down and a respin.

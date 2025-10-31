@@ -51,10 +51,11 @@ PREPPED_NAME = {
 }
 SNIPPETS = dict(
     alcohol="""
-> 💡 **Alcohol Replacement**<br />
-> If you don't want alcohol in your ice cream, or prepare it for kids,
-> replace the small amount of alcohol with vegetable glycerin.
-> For 10g booze (40 vol%) use 8g VG instead.
+!!! tip "Alcohol Replacement"
+
+    If you don't want alcohol in your ice cream, or prepare it for kids,
+    replace the small amount of alcohol with vegetable glycerin.
+    For 10g booze (40 vol%) use 8g VG instead.
 """,
 )
 PREPPED = {
