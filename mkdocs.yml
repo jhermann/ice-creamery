@@ -12,6 +12,30 @@ theme:
   name: material
   locale: en
   include_sidebar: true
+  palette:
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      primary: deep purple  # indigo
+      accent: light blue
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: blue
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep purple  # indigo
+      accent: light blue
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
   logo: assets/logo.png
   favicon: assets/favicon.png
   features:
