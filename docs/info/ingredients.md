@@ -3,9 +3,12 @@
 Here you can find some background information about common ingredients in ice cream recipes.
 
 ## Freezing Point Depression Factor (PAC) and Sweetness (POD)
-> ℹ️ This info is at the very top because you will most often need it for reference.
-> If you're new to ice cream making, first read the linked glossary definitions
-> of all those abbreviations, or skip the table for now and read on further below.
+
+!!! tip "Reference Information"
+
+    This info is at the very top because you will most often need it for reference.
+    If you're new to ice cream making, first read the linked glossary definitions
+    of all those abbreviations, or skip the table for now and read on further below.
 
 ### Common Ingredient PAC / POD / GI Values
 [Freezing point depression factor](/ice-creamery/info/glossary/#potere-anti-congelante-pac) (FPDF / PAC),
@@ -148,8 +151,10 @@ the results of the *Jungbunzlauer study* into account (details see right above).
 
 It has a PAC of 256, a POD of ≈85%, and a GI below 7 (i.e. below that of xylitol).
 
-> 💡 **Swapping in Allulose**<br />Use 133% of the given amount of *SweEX* to attain about the same PAC and POD values.
-> That means using 75% of a given pure [allulose](#allulose) amount in the other direction.
+!!! tip "Swapping in Allulose"
+
+    Use 133% of the given amount of *SweEX* to attain about the same PAC and POD values.
+    That means using 75% of a given pure [allulose](#allulose) amount in the other direction.
 
 ### Inulin
 Inulin is a naturally occurring polysaccharide, and used to improve mouthfeel, stability, acceptability of low-fat ice creams, and forms a gel-like network that binds water.
@@ -344,8 +349,10 @@ Using only a singular thickener means you often miss out on synergistic effects 
   * *Soy Lecithin + LBG + GG + λC* (eggless): 4:4:2:1, 1g+1g+0.5g+0.25g / 1kg (0.4% of water weight); has to be heated to >80°C for full LBG hydration.
   * *CMC + GG + λC* (sorbet): 2:1:1, 2g+1g+1g / 1kg (0.5% of water weight); no cooking; add 1g lecithin when you have fatty ingredients (nut butter, melted chocolate, ...).
 
-> 💡 See also [A Guide to Gums](https://blog.modernistpantry.com/advice/reference-sheets/a-guide-to-gums/) by *Kitchen Alchemy*,
-> and [The Purpose and Nature of Ice Cream Stabilizers](/ice-creamery/info/polar-ice-creamery/#the-purpose-and-nature-of-ice-cream-stabilizers).
+!!! info "More Details"
+
+    See also [A Guide to Gums](https://blog.modernistpantry.com/advice/reference-sheets/a-guide-to-gums/) by *Kitchen Alchemy*,
+    and [The Purpose and Nature of Ice Cream Stabilizers](/ice-creamery/info/polar-ice-creamery/#the-purpose-and-nature-of-ice-cream-stabilizers).
 
 ### Acacia Gum (Gum Arabic / E414)
 
@@ -548,16 +555,18 @@ Some sources suggest starting at around 0.1-0.15% by weight,
 with a maximum of 0.25% to avoid undesirable textures (it becomes slimy beyond that).
 For a cold-acting mix, combine it with guar gum using a `3GG:1XG` ratio.
 
+!!! tip inline end "Weighing Small Quantities"
+
+    To properly weigh small amounts of xanthan without a jeweller's scale,
+    mix the gum with 9 times inulin (10g XG, 90g inulin),
+    then use 10g of that blend to get 1g of XG. These amounts work on any half-decent kitchen scale.
+
+    To get an even mix, progressively add the inulin, i.e. start with a 1:1 ratio of gum and filler, mix,
+    then add more and more inulin while mixing, until you reach the target weight.
+
 [Xanthan](https://en.wikipedia.org/wiki/Xanthan_gum) works at room temperature.
 To easily mix it with water, dissolve in some oil or mix with other dry ingredients first.
 For liquids, always use a blender or immersion blender.
-
-> 💡 To properly weigh small amounts of xanthan without a jeweller's scale,
-> mix the gum with 9 times inulin (10g XG, 90g inulin),
-> then use 10g of that blend to get 1g of XG. These amounts work on any half-decent kitchen scale.
-> 
-> To get an even mix, progressively add the inulin, i.e. start with a 1:1 ratio of gum and filler, mix,
-> then add more and more inulin while mixing, until you reach the target weight.
 
 Xanthan is stable across a wide pH range (2–12), and functions well in acidic bases containing fruit or citrus.
 It works from −20°C to 120°C, and is also robust to high salinity.
@@ -636,7 +645,9 @@ Lecithin reduces the surface tension between fat and water, contributing to a sm
 
 In an egg-free ice cream, add from 0.15% to 0.5% of the total recipe weight (1.5–5 g/l).
 
-> ⚠️ While generally safe, individuals with soy allergies should be aware of potential reactions.
+!!! warning inline end "Possible Allergenic Reactions"
+
+    While generally safe, individuals with soy allergies should be aware of potential reactions.
 
 Soy lecithin is often extracted using chemical solvents, which makes it a UPF, and it might come from GMO sources.
 
