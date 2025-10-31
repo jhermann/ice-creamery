@@ -1,0 +1,82 @@
+/* 1. Plug-in styles
+    including icons, fonts, colors, etc
+    */
+/* 
+.md-main .document-dates-plugin {
+    color: rgba(109, 157, 204, 0.7);
+    font-size: 0.75rem;
+}
+.md-main .document-dates-plugin .material-icons {
+    font-size: 0.9rem;
+} */
+
+/* Customized icons, just change the icon name.
+    Google Fonts Icons (2500+): https://fonts.google.com/icons
+
+    doc_created:  add_circle, add_circle, note_add, more_time
+    doc_modified: update, check_circle, task, refresh
+    doc_author:   person, account_circle
+    doc_authors:  group, groups */
+/* 
+.document-dates-plugin .material-icons[data-icon="doc_created"]::before {
+    content: "more_time";
+}
+.document-dates-plugin .material-icons[data-icon="doc_modified"]::before {
+    content: "refresh";
+}
+.document-dates-plugin .material-icons[data-icon="doc_author"]::before {
+    content: "person";
+}
+.document-dates-plugin .material-icons[data-icon="doc_authors"]::before {
+    content: "group";
+} */
+
+
+
+/* 2. Plug-in wrapper styles
+    including divider line, margin, padding, and the hiding of this plugin, etc
+    */
+/* Remove the divider line: */
+/* 
+.document-dates-plugin-wrapper.document-dates-top,
+.document-dates-plugin-wrapper.document-dates-bottom {
+    border-bottom: none;
+} */
+
+
+
+/* 3. Tooltip styles
+    including theme, arrow, font, color, background color, etc
+    */
+
+/* Demo of the custom theme 'sorrel' and 'sublime', you can configure it in user.config.js (optional) */
+/* 
+.tippy-box[data-theme~='sorrel'] {
+    background-color: #F7E6E2;
+    color: #B1402A;
+}
+.tippy-box[data-theme~='sorrel'] > .tippy-arrow::before {
+    color: #F7E6E2;
+}
+
+.tippy-box[data-theme~='sublime'] {
+    background-color: #474747;
+    color: #F19D38;
+}
+.tippy-box[data-theme~='sublime'] > .tippy-arrow::before {
+    color: #474747;
+} */
+
+
+
+/* 4. Author Avatar styles
+    e.g. shape, hover scale, grayscale mode
+    */
+/* 
+.avatar-wrapper {
+    border-radius: 4px;
+    filter: grayscale(0%);
+}
+.avatar-wrapper:hover {
+    transform: scale(1.08);
+} */

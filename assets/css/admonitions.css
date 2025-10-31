@@ -1,0 +1,18 @@
+:root {
+    --md-admonition-icon--sourcecode: url("code-solid-full.svg");
+    --md-admonition-color--sourcecode: rgb(204, 204, 0);
+}
+.md-typeset .admonition.sourcecode,
+.md-typeset details.sourcecode {
+    border-color: var(--md-admonition-color--sourcecode);
+}
+.md-typeset .sourcecode > .admonition-title,
+.md-typeset .sourcecode > summary {
+    background-color: rgb(from var(--md-admonition-color--sourcecode) r g b / 0.15)
+}
+.md-typeset .sourcecode > .admonition-title::before,
+.md-typeset .sourcecode > summary::before {
+    background-color: var(--md-admonition-color--sourcecode);
+    -webkit-mask-image: var(--md-admonition-icon--sourcecode);
+    mask-image: var(--md-admonition-icon--sourcecode);
+}
