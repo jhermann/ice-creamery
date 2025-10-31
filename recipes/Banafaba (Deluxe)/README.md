@@ -45,10 +45,7 @@ Rating: 😋😋😋🍌
 Directly after the respin, you get a “soft scoopable” consistency, smooth and crystal-free.
 It’s a tiny bit gritty — from the hemp seeds? The banana flavor is very mild.
 
-> 💡 **Alcohol Replacement**<br />
-> If you don't want alcohol in your ice cream, or prepare it for kids,
-> replace the small amount of alcohol with vegetable glycerin.
-> For 10g booze (40 vol%) use 8g VG instead.
+{% include 'assets/booze2vg.inc.md' %}
 
 # INGREDIENTS
 
@@ -62,7 +59,7 @@ It’s a tiny bit gritty — from the hemp seeds? The banana flavor is very mild
 
 **Wet**
 
-  - _300ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
+  - _300ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup> • *alternative*: use any other preferred milk (~2% fat)
   - _15g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • Sweetness = 60%; GI = 5; Density = 1.26 g/ml
   - _10g_ [Brandy or Vodka 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup> • *alternative:* 8g (additional) vegetable glycerin for a sober recipe
 
