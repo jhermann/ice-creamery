@@ -641,13 +641,13 @@ and influence the bahavior of drugs in the body.
 
 Soy lecithin is an emulsifier gained from soy beans, and used in ice cream to improve texture and stability.
 
-Lecithin reduces the surface tension between fat and water, contributing to a smoother, more velvety mouthfeel. It helps prevent fat separation and ice crystal growth, maintaining the ice cream's structure and flavor during freezing and thawing. 
-
-In an egg-free ice cream, add from 0.15% to 0.5% of the total recipe weight (1.5–5 g/l).
-
 !!! warning inline end "Possible Allergenic Reactions"
 
     While generally safe, individuals with soy allergies should be aware of potential reactions.
+
+Lecithin reduces the surface tension between fat and water, contributing to a smoother, more velvety mouthfeel. It helps prevent fat separation and ice crystal growth, maintaining the ice cream's structure and flavor during freezing and thawing.
+
+In an egg-free ice cream, add from 0.15% to 0.5% of the total recipe weight (1.5–5 g/l).
 
 Soy lecithin is often extracted using chemical solvents, which makes it a UPF, and it might come from GMO sources.
 
