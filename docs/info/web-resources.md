@@ -23,6 +23,7 @@ Lists just like this one.
 
 - [My Recipe Posts on Reddit](https://www.reddit.com/search/?q=author%3Aj_hermann+cream) — Most of them, anyway.
 - [Ninja CREAMi Test Kitchen](https://ninjatestkitchen.com/collection/ninja-creami-creations/) — Recipes beyond those in the manual.
+- [The Frozen Dessert Spreadsheet of Doom](https://docs.google.com/spreadsheets/d/1fKilMlLa5IFT_kN1hVjlRWHdJ2v2NX5uGIxxYqJA_pQ/edit?usp=sharing) ([download](https://docs.google.com/spreadsheets/d/e/2PACX-1vRZdPU8V-8mM_KfvP5zElajPmhv-VhDe3q5phOGkhz3oYtbALSDIDKs_gW73vdP3EGkVBmq1dxITTsg/pub?output=xlsx))
 - [Ninja Creami at Samsung Food](https://s.samsungfood.com/eWWyY) — Make ice cream, smoothie bowls, milkshakes, and more using the Ninja Creami.
 - [proteinninja on RecipeSage](https://recipesage.com/#/people/@proteinninja) — Protein-Ninja.com's shared recipes.
 
