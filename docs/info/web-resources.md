@@ -39,7 +39,7 @@ Lists just like this one.
 
 - [Polar Ice Creamery](https://www.youtube.com/c/PolarIceCreamery) — Science-based ice cream making, for classic ice cream machines as well as the Creami.
 
-   - [🧪 Ice Cream Science Playlist](https://youtube.com/playlist?list=PLQC4zsI_2FcHwB7kBla7tKcZ4o_NecSC6)
+    - [🧪 Ice Cream Science Playlist](https://youtube.com/playlist?list=PLQC4zsI_2FcHwB7kBla7tKcZ4o_NecSC6)
 
 - [Odd Scoops](https://www.youtube.com/@OddScoops) — Where ice cream gets weird! Also see [r/cursedcreamis](https://www.reddit.com/r/cursedcreamis/) if you're a fan.
 
