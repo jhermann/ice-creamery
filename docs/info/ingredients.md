@@ -595,6 +595,12 @@ This is a modified starch derived from waxy corn, used as a thickening agent, st
 (improves texture and mouthfeel). It tolerates a wide temperature range, acidity, and shear force,
 and has an excellent freeze-thaw stability, making it ideal for ice cream.
 
+!!! science inline end "Scientific Background"
+
+    Also known as *Hydroxypropyl Distarch Phosphate*,
+    E1442 is derived from natural waxy corn starch,
+    but is chemically modified to improve its properties.
+
 It is a (off-)white fine powder with a bland odor and neutral taste.
 It produces transparent pastes, unlike most other starches that create an opaque look.
 
@@ -603,12 +609,6 @@ try searching for *modified corn starch* or *instant corn starch*.
 There are not too many end-consumer products in the EU, and the price range is roughly €15 to €35 per kg.
 
 [Acetylated Distarch Adipate (E1422)](#acetylated-distarch-adipate-e1422) is also a modified starch and can be used instead.
-
-!!! science "Scientific Background"
-
-    Also known as *Hydroxypropyl Distarch Phosphate*,
-    E1442 is derived from natural waxy corn starch,
-    but is chemically modified to improve its properties.
 
 ## Emulsifiers
 
