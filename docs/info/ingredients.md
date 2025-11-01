@@ -52,7 +52,7 @@ of common ingredients, sorted by PAC.
 
 !!! science "Sources"
 
-    * https://www.icecreamscience.com/blog/corn-syrup-used-ice-cream
+    * [Why is corn syrup used in ice cream?](https://www.icecreamscience.com/blog/corn-syrup-used-ice-cream) by *Ice Cream Science*
 
 Note that natural ingredients like molasses or maple syrup
 can slightly differ depending on brand, check the sugar content
@@ -162,15 +162,15 @@ Inulin is a naturally occurring polysaccharide, and used to improve mouthfeel, s
 
 Inulin has fewer calories (2 kcal/g) compared to fat (9 kcal/g) or sucrose (4 kcal/g).
 
+!!! science inline end "Source"
+
+    [Why is inulin used in ice cream?](https://www.icecreamscience.com/blog/why-is-inulin-used-in-ice-cream) by *Ice Cream Science*
+
 Fat can be reduced by 50% with 5% native inulin — i.e. up to 35g in a Deluxe tub. It improves creaminess perception and melting resistance. Typically 10-20g in a 680g mix is enough.
 
 RDA is 8-18g (tested for up to 24 weeks). Most common side effects include gas, bloating, diarrhea, constipation, and cramps. As a fructan, inulin has minimal impact on increasing blood sugar.
 
 Natural chicory / agave inulin has 8g sugar, and 88% fiber. Further processing leads to HP inulin that has 97% fiber and 0% sugar, and it needs to be heated to 65°C to dissolve.
-
-!!! science "Source"
-
-    https://www.icecreamscience.com/blog/why-is-inulin-used-in-ice-cream
 
 *Topinambur* or *Jerusalem artichoke syrup* has about 36% inulin, 1% glucose, and 2% fructose,
 at a density of ≈1.3 g/ml.
@@ -180,19 +180,21 @@ and [Resistant Dextrin](#resistant-dextrin-e1400) can replace or be combined wit
 
 ### Isomalt (E953)
 
+!!! warning inline end "Use in Moderation"
+
+    Too much isomalt can lead to a soft, sticky texture.
+
+    There is no ADI value (*Acceptable Daily Intake*), but moderation is advised to avoid potential digestive issues.
+    Suggested is an upper limit of 50g per day for adults, while children should consume less.
+
 Isomalt is a mixture of two disaccharide alcohols and used primarily for its sugar-like physical properties.
 It has a very low GI, is tooth-friendly, and provides about half the energy of table sugar.
 
 Isomalt is about half as sweet as sugar and has a similar taste.
 It has high heat resistance and will not melt until it reaches 145°C.
 
-There is no ADI value (*Acceptable Daily Intake*), but moderation is advised to avoid potential digestive issues.
-Suggested is an upper limit of 50g per day for adults, while children should consume less.
-
 It is very similar to [maltitol](#maltitol-e965), and requires care regarding daily intake just like other sugar alcohols.
 Chemically it is a mix of glucose (50%), sorbitol (25%), and mannitol (25%).
-
-> ⚠️ Too much isomalt can lead to a soft, sticky texture.
 
 ### Maltitol (E965)
 
@@ -229,6 +231,10 @@ but has a five times higher PAC of 100.
 It has a low viscosity, is easily dissolved in cold water, and resists heat, acidic conditions, and freezing.
 Its GI is below 55 and typically ranges from 25 to 48, which is considered low.
 
+!!! science inline end "Scientific Background"
+
+    Dextrin is a type of modified starch, produced via partial hydrolysis from different sources like corn, potato, rice, or wheat.
+
 All these numbers mean you can provide body to ice cream, without effects on sweetness or causing blood sugar spikes.
 Compared to maltodextrin, which has a very high GI of 110 and a PAC of 34, RD has almost no effect on the freezing point,
 and minimal blood sugar effects.
@@ -236,10 +242,6 @@ and minimal blood sugar effects.
 It's often used as a fat substitute or to add creaminess, and can also help prevent ice crystal formation.
 It can replace or accompany [inulin](#inulin) — a combination of inulin and resistant dextrin may offer
 superior prebiotic benefits with less gas production than inulin alone.
-
-!!! science "Scientific Background"
-
-    Dextrin is a type of modified starch, produced via partial hydrolysis from different sources like corn, potato, rice, or wheat.
 
 ### Sorbitol (E420)
 
@@ -336,6 +338,11 @@ of 5-10g over a day is recommended, due to the effects on the digestive system.
 [Thickeners (E4xx group)](https://en.wikipedia.org/wiki/E_number#E400%E2%80%93E499)
 are texturizing agents and natural hydrocolloids to stabilize, thicken, gelify, emulsify, or bind liquids (water).
 
+!!! info inline end "More Details"
+
+    See also [A Guide to Gums](https://blog.modernistpantry.com/advice/reference-sheets/a-guide-to-gums/) by *Kitchen Alchemy*,
+    and [The Purpose and Nature of Ice Cream Stabilizers](/ice-creamery/info/polar-ice-creamery/#the-purpose-and-nature-of-ice-cream-stabilizers).
+
 Most thickeners are hydrocolloids, which are hydrophilic molecules that have a high molecular weight. They are used as functional ingredients in food formulation for increasing food consistency, improving gelling effect, and controlling the microstructure, texture, flavor, and shelf life.
 
 Many thickeners also have an emulsifying effect.
@@ -354,11 +361,6 @@ Using only a singular thickener means you often miss out on synergistic effects 
   * *Soy Lecithin + LBG + GG + λC* (eggless): 4:4:2:1, 1g+1g+0.5g+0.25g / 1kg (0.4% of water weight); has to be heated to >80°C for full LBG hydration.
   * *CMC + GG + λC* (sorbet): 2:1:1, 2g+1g+1g / 1kg (0.5% of water weight); no cooking; add 1g lecithin when you have fatty ingredients (nut butter, melted chocolate, ...).
 
-!!! info "More Details"
-
-    See also [A Guide to Gums](https://blog.modernistpantry.com/advice/reference-sheets/a-guide-to-gums/) by *Kitchen Alchemy*,
-    and [The Purpose and Nature of Ice Cream Stabilizers](/ice-creamery/info/polar-ice-creamery/#the-purpose-and-nature-of-ice-cream-stabilizers).
-
 ### Acacia Gum (Gum Arabic / E414)
 
 Acacia gum, also known as gum arabic, acts as a stabilizer, emulsifier, and thickener in ice cream,
@@ -373,6 +375,10 @@ To dissolve the gum more easily and quicker, heat your liquid to around 50°C (1
 Moderate heating (~65°C) can be beneficial for reducing gelling without significantly impacting emulsification.
 Heating beyond 100°C can lead to protein degradation and loss of emulsifying properties.
 
+!!! science inline end "Scientific Background"
+
+    Acacia gum is a complex mixture of glycoproteins and polysaccharides, predominantly polymers of arabinose and galactose.
+
 Regarding typical GI issues of food that is high in fiber, acacia is well-tolerated at lower doses (<30g / day),
 but side effects increase significantly with doses above this level. Individual sensitivity has to be considered,
 so stick to lower doses when you use it for the 1st time, especially if you have known problems with other gums.
@@ -382,27 +388,28 @@ When combined in ice cream with guar gum, both are typically used in small amoun
 with guar gum usually ranging from 0.1–0.5% and gum arabic from 0.3–0.7% of the total mix weight.
 The exact ratio can be adjusted based on desired texture and flavor.
 
-!!! science "Scientific Background"
-
-    Acacia gum is a complex mixture of glycoproteins and polysaccharides, predominantly polymers of arabinose and galactose.
-
 ### Acetylated Distarch Adipate (E1422)
 
 E1422 is a pre-gelatinized (modified) cold-acting starch.
 It functions as a thickener, binder, emulsifier, and stabilizer, and is tolerant to heat, acid, and shear.
 It also enhances the freeze-thaw stability of ice cream.
 
+!!! science inline end "Scientific Background"
+
+    E1422 is created by chemically modifying starches like
+    corn, potato, or tapioca with acetic anhydride and adipic acid.
+
 It can replace gelatin and also [Waxy Maize Starch (E1442)](#waxy-maize-starch-e1442),
 another modified starch, with similar results.
 More specifically E1422 is ideal for frozen and chilled foods, dressings, and bakery products, 
 while E1442 is well-suited for acidic foods, high-temperature processing, and dairy products.
 
-!!! science "Scientific Background"
-
-    E1422 is created by chemically modifying starches like
-    corn, potato, or tapioca with acetic anhydride and adipic acid.
-
 ### Agar-Agar (E406)
+
+!!! science inline end "Source"
+
+    [How to Use Agar-Agar in Cooking](https://www.amazingfoodmadeeasy.com/info/modernist-ingredients/more/agar-agar)
+
 Agar-Agar is a natural, plant-based gelling and thickening agent (hydrocolloid), derived from red algae. It's commonly used as a vegan alternative to gelatin, since it is also tasteless and odorless; its gelling power is higher. It is heat-stable and acid-stable, and resulting gels tend to be brittle.
 
  * Hydration: simmer for 3…5min at 100°C.
@@ -410,8 +417,6 @@ Agar-Agar is a natural, plant-based gelling and thickening agent (hydrocolloid),
  * For a gel: 0.2% soft gels / 3.0% firm gels.
  * For a fluid gel: 0.5% to 2.0% / fluid gels are made by blending the already set gel.
  * For foam: 0.3% to 1.0% for light foams and 1.0% to 2.0% for denser foams.
-
-> <sup>*Source:* https://www.amazingfoodmadeeasy.com/info/modernist-ingredients/more/agar-agar</sup>
 
 ### Sodium Alginate (E401)
 *Sodium alginate* is a natural polysaccharide derived from brown seaweed,
@@ -523,7 +528,9 @@ Salep is a thickening agent derived from the tubers of certain orchids, primaril
 and a warming winter drink of the same name. In ice cream, salep gives it a distinctive chewy and stretchy texture.
 It's also known to provide a unique flavor and aroma.
 
-> ℹ️ Within the EU, where all orchid species are protected, the trade of salep is generally prohibited.
+!!! info inline end "EU Regulation"
+
+    Within the EU, where all orchid species are protected, the trade of salep is generally prohibited.
 
 If salep is unavailable, possible substitutes are konjac flour (40–60% glucomannan) and also guar gum (galactomannan).
 
@@ -565,14 +572,7 @@ Some sources suggest starting at around 0.1-0.15% by weight,
 with a maximum of 0.25% to avoid undesirable textures (it becomes slimy beyond that).
 For a cold-acting mix, combine it with guar gum using a `3GG:1XG` ratio.
 
-!!! tip inline end "Weighing Small Quantities"
-
-    To properly weigh small amounts of xanthan without a jeweller's scale,
-    mix the gum with 9 times inulin (10g XG, 90g inulin),
-    then use 10g of that blend to get 1g of XG. These amounts work on any half-decent kitchen scale.
-
-    To get an even mix, progressively add the inulin, i.e. start with a 1:1 ratio of gum and filler, mix,
-    then add more and more inulin while mixing, until you reach the target weight.
+{% include 'assets/small-amounts.inc.md' %}
 
 [Xanthan](https://en.wikipedia.org/wiki/Xanthan_gum) works at room temperature.
 To easily mix it with water, dissolve in some oil or mix with other dry ingredients first.
@@ -626,6 +626,11 @@ In ice cream, it adds body and helps to create a smooth texture (by reducing ice
 and prevents it from drying out or being too sweet.
 It's most often used in egg-less ice cream bases, and in combination with CMC.
 
+!!! science inline end "Scientific Background"
+
+    GMS falls into the *Mono- and Diglycerides of Fatty Acids* (E471) category,
+    and is a pure form of what is otherwise a mixture of different mono- and diglycerides.
+
 GMS takes the form of a white, odorless, and sweet-tasting flaky powder that is hygroscopic.
 It's the result of a chemical reaction of glycerol with stearic acid,
 both typically refined from plant or animal sources.
@@ -636,11 +641,6 @@ it can be first mixed with oil and then blended into the water phase (similar to
 GMS is typically used at concentrations of 0.1% to 0.5% of the total mix.
 Normally it is combined with CMC at a ratio of 2GMS:1CMC,
 and a dosage of up to 1% of water content, e.g. 0.3% GMS and 0.05–0.15% CMC in the total base.
-
-!!! science "Scientific Background"
-
-    GMS falls into the *Mono- and Diglycerides of Fatty Acids* (E471) category,
-    and is a pure form of what is otherwise a mixture of different mono- and diglycerides.
 
 ### Polysorbate 80 (E433)
 
@@ -677,9 +677,7 @@ especially as a replacement when you don't like coconut.
 For creaminess, you can combine almond milk with ingredients like
 almond butter, bananas, dates, cashews, and hemp hearts.
 
- >‼️**Check Ingredients List**<br />
- > Always check for ingredients other than soy / oats / nuts, water, and salt, especially thickeners, emulsifiers, and stabilizers.
- > Adapt your recipe accordingly if necessary.
+{% include 'assets/milk-additives.inc.md' %}
 
 ### Casein
 
@@ -707,9 +705,7 @@ That is why in recipes the expected percentage should always be included explici
 *Full fat* ranges from 14% to 29% (and even higher in coconut cream),
 while *reduced fat* products typically have 7% to 17%.
 
- >‼️**Check Ingredients List**<br />
- > Always check for ingredients other than soy / oats / nuts, water, and salt, especially thickeners, emulsifiers, and stabilizers.
- > Adapt your recipe accordingly if necessary.
+{% include 'assets/milk-additives.inc.md' %}
 
 In your recipes, make sure to prevent separation of fatty and watery phases
 by adding enough emulsifiers.
@@ -726,16 +722,19 @@ or use tempering to incorporate it into a cooked base.
 As with similar ingredients, always state the expected fat percentage explicitly in a recipe.
 
 ### Cream Cheese
+
+!!! info inline end "Geographic Differences"
+
+    In the UK, the equivalent product to German double-cream cheese (~22% fat) is called *soft cream cheese*,
+    the fattier US cream cheese has to be mixed with low-fat milk (ratio 2:1, i.e. ⅓ of the weight replaced by milk).
+
+    In the US, a standard cream cheese must contain at least 33% milkfat
+    and have a moisture content of no more than 55%.
+
 Cream cheese is a soft, unripened cheese made from milk and cream,
 and has a mild, creamy flavor and smooth texture.
 
-In the US, a standard cream cheese must contain at least 33% milkfat and have a moisture content of no more than 55%.
 As with similar ingredients, always state the expected fat percentage explicitly in a recipe.
-
-> ℹ️ **Geographic Differences**<br />
-> In the UK, the equivalent product to German double-cream cheese (~22% fat) is called *soft cream cheese*,
-> the fattier US cream cheese has to be mixed with low-fat milk (ratio 2:1, i.e. ⅓ of the weight replaced by milk).
-
 Also make sure to check for any added stabilizers and other additions in a product;
 a good product just needs milk/cream and salt, and maybe some yogurt.
 
@@ -782,17 +781,18 @@ and others like Greek Yogurt, Kefir and Skyr. For many people's taste, they crea
 Quark (German) and Topfen (Austrian, South German) are both types of fresh, soft cheese,
 essentially the same dairy product (*curd cheese*).
 
+!!! info inline end "Geographic Differences"
+
+    Low-fat quark (around 1% fat) can be swapped 1:1 with US low-fat cream cheese, with very similar macros.
+
+    For replacing the full-fat variant, mix 40% US cream cheese with 60% low-fat milk (ratio 2:3).
+
 They are made from milk, often by adding an acid or rennet to curdle the milk,
 and then draining the whey. While they are similar,
 there can be slight regional variations in texture and fat content.
 
 German quark has three variants regarding fat content, below 10%, 20% and above 40% fat
 in dry matter, roughly translating to ~1%, ~5%, and 12–14% fat total.
-
-> ℹ️ **Geographic Differences**<br />
-> Low-fat quark (around 1% fat) can be swapped 1:1 with US low-fat cream cheese, with very similar macros.
->
-> For replacing the full-fat variant, mix 40% US cream cheese with 60% low-fat milk (ratio 2:3).
 
 When making cheesecake, Germans use quark where US recipes would use cream cheese.
 
@@ -846,9 +846,7 @@ very low-cal bases that are well-suited for people with diabetes.
 No additional sugar also helps in boozy recipes, where you want to use
 all your "FP depression budget" on the boozy part.
 
- >‼️**Check Ingredients List**<br />
- > Always check for ingredients other than soy / oats / nuts, water, and salt, especially thickeners, emulsifiers, and stabilizers.
- > Adapt your recipe accordingly if necessary.
+{% include 'assets/milk-additives.inc.md' %}
 
 ### Soy Protein Isolate
 Soy protein isolate is a highly concentrated source of protein derived from soybeans.
@@ -863,6 +861,13 @@ Additionally, it can reduce ice recrystallization, leading to a smoother texture
 Soy protein isolate is a *great vegan & sugar-free replacement for SMP*.
 
 ### Tofu
+
+!!! tip inline end "Silken from Firm Tofu"
+
+    When you can only get firm tofu, blend it before use
+    with a little soy milk or water (10% of weight),
+    to a creamy consistency.
+
 Tofu, also known as bean curd, is a food made from dried soybeans. It is created by curdling fresh soy milk
 and pressing the curds into a solid block. Tofu is a versatile ingredient and has a high protein content.
 
@@ -870,19 +875,17 @@ In vegan recipes, tofu can replace several dairy products, including ricotta che
 Silken tofu, when blended, can mimic the texture of heavy cream or sour cream,
 and also be used as a substitute for yogurt.
 
-> 💡 **Silken from firm tofu**<br />
-> When you can only get firm tofu, blend it before use
-> with a little soy milk or water (10% of weight),
-> to a creamy consistency.
-
 ### Whey Protein
+
+!!! warning inline end "Check Ingredients List!"
+
+    Always check for ingredients other than protein,
+    especially thickeners, emulsifiers, and stabilizers.
+    Adapt your recipe accordingly if necessary.
+
 Whey protein primarily functions as a water-binding agent, contributing to viscosity, stability, and texture. It helps to maintain small ice crystals avoiding grittiness (by limiting water mobility and ice crystal growth), and increases your protein intake.
 
 By limiting water-ice-water transitions, whey proteins help to improve the freeze/thaw stability of ice cream, which also avoids a big quality degradation during long-term storage in the freezer.
-
- >‼️**Check Ingredients List**<br />
- > Always check for ingredients other than protein, especially thickeners, emulsifiers, and stabilizers.
- > Adapt your recipe accordingly if necessary.
 
 ## Mix-ins and Toppings
 See also [Toppings & Mix-ins](/ice-creamery/T/Toppings/) for recipes
@@ -926,10 +929,7 @@ while more (3-4 tbsp) can create a noticeable kick.
 Liqueurs and fortified wines can be added in larger quantities
 without significantly affecting the freezing point, up to a point.
 
-> 💡 **Alcohol Replacement**<br />If you don't want alcohol in your ice cream,
-> or prepare it for kids, replace the small amount of alcohol in non-boozy
-> recipes with vegetable glycerin. For 10g booze (40 vol%) use 8g VG instead,
-> in addition to any VG already part of the recipe.
+{% include 'assets/booze2vg.inc.md' %}
 
 A good rule of thumb is to never add more than 200g of 40% (80 proof) alcohol
 in 1kg base (i.e. max. 20%), leading to roughly 8 vol% in total.
