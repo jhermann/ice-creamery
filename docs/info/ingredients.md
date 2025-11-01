@@ -297,6 +297,8 @@ Glycerin, also known as glycerol or E422, is widely used in ice cream to reduce 
 It is a sugar alcohol and has one of the highest freezing point depression factors, at 3.7 compared to table sugar.
 
 It is a clear, odorless, and sweet-tasting liquid with a syrupy consistency.
+To use it without causing a sticky mess, it is best transferred into a squeeze bottle
+(like used for condiments), allowing good control and no spills while weighing it.
 
 *Vegetable* glycerin is typically made from plant oils like soybean, coconut, or palm oil.
 It has 60% the sweetness of table sugar, and is hygroscopic.
