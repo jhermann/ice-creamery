@@ -8,7 +8,6 @@ excluded_tags:
 tags:
 - Alcohol
 - Dairy
-- Draft
 - Erythritol
 - Gum-Free
 - Hi-Protein
@@ -40,7 +39,9 @@ Rating: 😋🍋🍋🍰🍰 (lemony-cheesy as expected, not very sour, but refr
 
 > <img width=442 alt="Served" src="Lemon-Cake_2025-08-31_4.jpg" class="zoomable" />
 
-ℹ️ Read [About 'Simple' Recipes](/ice-creamery/info/tips%2Btricks/#about-simple-recipes) regarding 'exotic' ingredients and their alternatives.
+!!! info "Simple Recipe"
+
+    Read [About 'Simple' Recipes](/ice-creamery/info/tips%2Btricks/#about-simple-recipes)    regarding 'exotic' ingredients and their alternatives.
 
 # INGREDIENTS
 
@@ -49,13 +50,14 @@ Rating: 😋🍋🍋🍰🍰 (lemony-cheesy as expected, not very sour, but refr
 **Wet**
 
   - _330g_ [Soured milk 3.5% \[Schwälbchen\]](/ice-creamery/info/ingredients/#soured-milk){target="_blank"}<sup>↗</sup> • *alternative:* Creamed cottage cheese 4%
-  - _240g_ Ricotta 9% fat (33% DM) [REWE Marca Italia] • *alternative:* Topfen / Quark 11–14%
+  - _250g_ Ricotta 9% fat (33% DM) [REWE Marca Italia] • *alternative:* Topfen / Quark 11–14%
   - _40ml_ Limoncello di Calabria 28 vol% [REWE] • *alternative:* 20g glycerin (VG) and 15ml lemon juice
   - _20ml_ Lime juice + zest (organic) [REWE Bio] • 1 lime = 60..65g
 
 **Dry**
 
   - _40g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • *alternative:* 53g allulose or dextrose
+  - _5g_ [Waxy Maize Starch (E1442) \[Ultratex\]](/ice-creamery/info/ingredients/#waxy-maize-starch-e1442){target="_blank"}<sup>↗</sup> • *alternative:* [E1422](https://jhermann.github.io/ice-creamery/info/ingredients/#acetylated-distarch-adipate-e1422)
   - _0.25g_ Salt • 7 quick shakes (with my shaker)
   - _1–2 pinches_ ❔Turmeric • *optional*, for color
 
@@ -75,10 +77,10 @@ Rating: 😋🍋🍋🍰🍰 (lemony-cheesy as expected, not very sour, but refr
 
 # NUTRITIONAL & OTHER INFO
 
-- **Nutritional values per 100g/ml:** 100g; 102.4 kcal; fat 4.9g; carbs 10.9g; sugar 4.8g; protein 5.2g; salt 0.2g
-- **Nutritional values per ½ Deluxe Tub:** 340g; 348.0 kcal; fat 16.8g; carbs 37.1g; sugar 16.2g; protein 17.7g; salt 0.5g
-- **Nutritional values total:** 670g; 686.0 kcal; fat 33.2g; carbs 73.2g; sugar 31.9g; protein 35.0g; salt 1.1g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.89
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 20.39% • Low-Sugar • Hi-Protein
-- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 63.6g • 9.5%
-- **Net carbs:** 33.2g • *∝ 5 servings@134g:* 6.6g • *∝ 3 servings@223g:* 11.1g • *energy ratio (low <20%):* 19.4%
+- **Nutritional values per 100g/ml:** 100g; 104.9 kcal; fat 5.0g; carbs 11.4g; sugar 4.7g; protein 5.3g; salt 0.2g
+- **Nutritional values per ½ Deluxe Tub:** 340g; 356.7 kcal; fat 16.9g; carbs 38.9g; sugar 16.0g; protein 17.9g; salt 0.5g
+- **Nutritional values total:** 685g; 719.0 kcal; fat 34.1g; carbs 78.4g; sugar 32.2g; protein 36.0g; salt 1.1g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.30
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 20.03% • Low-Sugar • Hi-Protein
+- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 65.1g • 9.5%
+- **Net carbs:** 38.4g • *∝ 5 servings@137g:* 7.7g • *∝ 3 servings@228g:* 12.8g • *energy ratio (low <20%):* 21.3%
