@@ -40,6 +40,7 @@ theme:
   favicon: assets/favicon.png
   icon:
     admonition:
+      abstract: fontawesome/solid/file-lines
       example: fontawesome/solid/flask
       info: fontawesome/solid/circle-info
       tip: fontawesome/solid/lightbulb
