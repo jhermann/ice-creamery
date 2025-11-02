@@ -1,5 +1,7 @@
 ---
 description: Recipe for the Ninja Creami Deluxe [24oz]
+excluded_steps:
+- ^$
 excluded_tags:
 - Vanilla
 tags:
@@ -7,6 +9,8 @@ tags:
 - Emulsifier
 - Erythritol
 - Fruit
+- Hi-Protein
+- Low-Fat
 - Low-Sugar
 - Polysaccharide Gum
 - Scoopable
@@ -31,12 +35,12 @@ Spun on Lite Ice Cream, followed by a scrape-down and a mix-in run.
 
 Serve with graham crackers, shortbread, or plain cookies to stand in for the pie crust.
 
-Rating: 😋😋😋🍓🍓
+Rating: 😋😋🥛🍓🍓
 
 > <img width=220 alt="Sorbet run" src="Strawberry-Cheesecake_2025-07-22_sorbet.jpg" class="zoomable" />
 > <img width=220 alt="After Respin" src="Strawberry-Cheesecake_2025-07-22_respin.jpg" class="zoomable" />
 > <img width=220 alt="Served" src="Strawberry-Cheesecake_2025-07-22_served.jpg" class="zoomable" />
->
+> 
 > *Made with whey / casein protein mix, processed on Sorbet + Respin. Served with chopped cashews and chopped rum-soaked sultanas.*
 
 # INGREDIENTS
@@ -45,23 +49,22 @@ Rating: 😋😋😋🍓🍓
 
 **Wet**
 
-  - _245g_ [Topfen / Quark 14.4% \[Berchtesgadener\]](/ice-creamery/info/ingredients/#quark-topfen){target="_blank"}<sup>↗</sup> • 250g container
+  - _245g_ [Topfen / Quark 14.4% \[Berchtesgadener\]](/ice-creamery/info/ingredients/#quark-topfen){target="_blank"}<sup>↗</sup> • 250g container; *US alternative:* low-fat cream cheese
   - _200g_ Strawberries
-  - _145g_ Greek Yogurt 9% [Lyttos]
-  - _15g_ [Brandy or Vodka 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup>
-  - _15g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • Sweetness = 60%; GI = 5; Density = 1.26 g/ml
+  - _125ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup> • use any other preferred milk (~2% fat)
+  - _15g_ [Brandy or Vodka 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup> • *alternative:* 12g (additional) VG for a sober recipe
+  - _15g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • Sweetness = 60%; GI = 5
   - _15ml_ Lemon juice
 
 **Dry**
 
-  - _30g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • POD ≈ 90%; GI < 7
+  - _30g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • POD ≈ 85%; GI < 7
   - _20g_ [Whey + Casein protein (grass-fed) \[Vilgain\]](/ice-creamery/info/ingredients/#whey-protein){target="_blank"}<sup>↗</sup> • with stevia
-  - _10g_ [Salty Stability \[Inulin / GMS / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup> • unsweetened “ICSv2”
+  - _10g_ [Salty Stability \[Inulin / GMS / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup> • *not-as-good substitute:* 1g guar, 0.3g xanthan, and 0.3g salt
   - _1g_ Salt
 
 **Fill to MAX**
 
-  - _24ml_ Water, milk, cream, or yogurt to MAX line
   - _≈3 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
   - _≈3 drops_ Flavor drops Cookies&Cream (stevia) [Nick’s] • to taste
 
@@ -73,7 +76,7 @@ Rating: 😋😋😋🍓🍓
 
   - _3-4 pieces_ Graham crackers
   - _3-4 pieces_ Wafers (cream-filled)
-  - _15.60g_ Biscoff “Lotus” cookies [Aldi] • 1pc = 7.8g; add as a topping [76kcal, 5.9g sugar]
+  - _16g_ Biscoff “Lotus” cookies [Aldi] • 1pc = 7.8g; add as a topping [77kcal, 6.1g sugar]
   - _18g_ Butter cookies [Kägi Toggenburger] • 1pc = 6g; add as a topping [84kcal, 3.8g sugar]
 
 # DIRECTIONS
@@ -88,11 +91,12 @@ Rating: 😋😋😋🍓🍓
  1. Process with MIX-IN after adding mix-ins evenly. For that, add partial amounts into a hole going down to the bottom, and fold the ice cream over, building pockets of mix-ins.
 
 # NUTRITIONAL & OTHER INFO
-- **Nutritional values per 100g/ml:** 100g; 125.9 kcal; fat 7.0g; carbs 11.3g; sugar 3.8g; protein 6.0g; salt 0.3g
-- **Nutritional values per ½ Deluxe Tub:** 360g; 453.3 kcal; fat 25.4g; carbs 40.6g; sugar 13.8g; protein 21.4g; salt 0.9g
-- **Nutritional values total:** 720g; 906.6 kcal; fat 50.7g; carbs 81.3g; sugar 27.7g; protein 42.9g; salt 1.8g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.71
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 18.93% • Low-Sugar
-- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 45.7g • 6.4%
-- **Net carbs:** 36.4g • *∝ 5 servings@144g:* 7.3g • *∝ 3 servings@240g:* 12.1g • *energy ratio (low <20%):* 16.1%
+
+- **Nutritional values per 100g/ml:** 100g; 115.4 kcal; fat 5.8g; carbs 11.4g; sugar 3.3g; protein 6.2g; salt 0.3g
+- **Nutritional values per ½ Deluxe Tub:** 340g; 392.4 kcal; fat 19.8g; carbs 38.7g; sugar 11.2g; protein 21.1g; salt 0.9g
+- **Nutritional values total:** 676g; 780.2 kcal; fat 39.4g; carbs 76.9g; sugar 22.2g; protein 42.0g; salt 1.7g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 31.81
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 21.53% • Low-Sugar • Hi-Protein
+- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 39.3g • 5.8%
+- **Net carbs:** 32.0g • *∝ 5 servings@135g:* 6.4g • *∝ 3 servings@225g:* 10.7g • *energy ratio (low <20%):* 16.4%
 - **10g 'Salty Stability' is:** 7.3g Inulin • 1.2g Glycerol Monostearate (GMS / E471) • 0.6g Tylose powder (E466, Tylo, CMC) • 0.4g Guar gum (E412) • 0.33g Salt • 0.13g Xanthan gum (E415, XG).
