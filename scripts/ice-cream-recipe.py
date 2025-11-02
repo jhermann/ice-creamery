@@ -364,6 +364,7 @@ def parse_recipe_csv(csv_name, args, images=[]):
 
     recipe = defaultdict(list)
     lines = []
+    mix_in = []
     nutrition = []
     special_prep = []
     special_directions = []
@@ -452,6 +453,7 @@ def parse_recipe_csv(csv_name, args, images=[]):
         nutrition=nutrition,
         special_prep=special_prep,
         special_directions=special_directions,
+        mix_in=mix_in,
         freezing=freezing,
         is_topping=is_topping,
         title=title,
@@ -484,7 +486,6 @@ def main():
         ' 1. After mixing, let the base sit in the fridge for at least 30min (better 2h),'
         ' for the seeds to properly soak. Stir before freezing.',
     ]
-    mix_in = []
     STEP_PREP = 0
     STEP_WET = 1
     STEP_DRY = 2
@@ -564,7 +565,7 @@ def main():
                 if any('chia' in x['ingredients'].lower() for x in recipe[STEP_DRY]):
                     lines.extend(soaking)
                 lines.extend(card.freezing)
-                lines.extend(mix_in)
+                lines.extend(card.mix_in)
             if recipe[step]:  # we have ingredients for this step?
                 for line in [x.strip() for x in directions.strip().splitlines()]:
                     lines.append(f' 1. {line}')
