@@ -447,6 +447,10 @@ def parse_recipe_csv(csv_name, args, images=[]):
 
         # End of CSV processing
 
+    for idx, line in enumerate(lines):
+        if line.startswith('!!! '):  # no smarty quotes in superfences
+            lines[idx] = lines[idx].replace('“', '"').replace('”', '"')
+
     return AttrDict(dict(
         recipe=recipe,
         lines=lines,
@@ -458,7 +462,6 @@ def parse_recipe_csv(csv_name, args, images=[]):
         is_topping=is_topping,
         title=title,
     ))
-
 
 def main():
     """Main loop."""
