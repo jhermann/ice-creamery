@@ -21,7 +21,7 @@ tags:
 
 Mostly buttermilk, leaving room for some cream-y indulgence.
 
-!!! tip “Lower Calories”
+!!! tip "Lower Calories"
 
     If you use 575ml of 2% fairlife or another hi-protein milk and no cream,
     you get to about 525 kcal and almost 50g protein in total,
