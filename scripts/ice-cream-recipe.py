@@ -509,8 +509,10 @@ def main():
     if 'Simple' in docmeta['tags']:
         lines.extend([
             '',
-            "> ℹ️ Read [About 'Simple' Recipes](/ice-creamery/info/tips%2Btricks/#about-simple-recipes)"
-            " regarding 'exotic' ingredients and their alternatives.",
+            '!!! info "Simple Recipe"',
+            '',
+            "    Read [About 'Simple' Recipes](/ice-creamery/info/tips%2Btricks/#about-simple-recipes)"
+            "    regarding 'exotic' ingredients and their alternatives.",
             '',
         ])
 
