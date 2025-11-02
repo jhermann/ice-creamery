@@ -21,7 +21,11 @@ put the number of added lines into a HTML comment after the link, in the format 
 
 These recipes were added in the last 2 months.
 
-> 👀 Also see the [Draft](https://jhermann.github.io/ice-creamery/tags/#tag:draft) tag for recipes that aren't tested yet, or need further optimizations.
+!!! tip "Draft Recipes"
+
+    Also see the [Draft](/ice-creamery/tags/#tag:draft) and
+    [Experimental](/ice-creamery/tags/#tag:experimental) tags
+    for recipes that aren't tested yet, or need further optimizations.
 
 *   **2025-09-18** [Easy Peely](/ice-creamery/E/Easy%20Peely%20%28Deluxe%29) <!-- added 80 lines -->
 *   **2025-09-17** [Milky Whey](/ice-creamery/M/Milky%20Whey%20%28Deluxe%29) <!-- added 84 lines -->

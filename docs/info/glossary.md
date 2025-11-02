@@ -20,9 +20,12 @@ it's essentially double the ABV value (80-proof ≅ 40 vol%).
 
 A measure of the amount of reducing sugars present in a sugar product (e.g. amount of monosaccharides in a glucose syrup), expressed as a percentage on a dry basis relative to dextrose. Note that syrups typically contain 25% water, while glucose powder (dehydrated / atomized glucose) only retains about 5%. In both cases, the DE value is the percentage of glucose molecules in *dry matter*.
 
-The difference of glucose syrup products to pure dextrose (100% glucose, a monosaccharide) is technically a reduced PAC (~90 instead of 190) and lower sweetness. Textural effects come from the remaining starches in glucose syrup, which contribute to the overall body, viscosity, and creaminess of the ice cream, and its melting behavior.
+!!! info inline end "DE and DP"
 
-> ℹ️ The dextrose equivalent also gives an indication of the average degree of polymerisation (DP) for starch sugars. As a rule of thumb, `DE × DP = 120`.
+    The dextrose equivalent also gives an indication of the average degree of polymerisation (DP)
+    for starch sugars. As a rule of thumb, `DE × DP = 120`.
+
+The difference of glucose syrup products to pure dextrose (100% glucose, a monosaccharide) is technically a reduced PAC (~90 instead of 190) and lower sweetness. Textural effects come from the remaining starches in glucose syrup, which contribute to the overall body, viscosity, and creaminess of the ice cream, and its melting behavior.
 
 ## Freezing Point Depression Factor (FPDF)
 
@@ -62,13 +65,14 @@ What this means is that lower amounts of ingredients with a higher PAC, when use
 
 The PAC method should be used when lactose concentration significantly varies or is high enough to make the ice cream too soft.
 
-> **Total FPDF**
-> <br />The formula is `sum(weight[g] * specific FPDF) / total weight * 100` with the sum taken over all sweeteners (in 100g ice cream mix).
-> With a PAC of 5.9 the salt percentage should be added too, even when it is commonly in the low single digit percentages.
+!!! science "Total FPDF"
+
+    The formula is `sum(weight[g] * specific FPDF) / total weight * 100` with the sum taken over all sweeteners (in 100g ice cream mix).
+    With a PAC of 5.9 the salt percentage should be added too, even when it is commonly in the low single digit percentages.
 
 Ice cream stored at -18°C with a total FPDF of 20..25 will be easily scoopable, while <15 will be quite hard. Ice cream is considered soft enough when about 65% of the water molecules are frozen at serving temperature (e.g. -11°C).
 
-For milk ice cream, target range is 24-28 (double the serving temp, i.e. 2*-12°C), for sorbets 30-36 (factor 2.5).
+For milk ice cream, target range is 24-28 (double the serving temp, i.e. -12°C), for sorbets 30-36 (factor 2.5).
 
 ## Potere Dolcificante (POD)
 

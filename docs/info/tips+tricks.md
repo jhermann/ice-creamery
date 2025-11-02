@@ -122,14 +122,17 @@ This of course requires you have a scoopable base that can be refrozen without p
 and ensures the machine operates under the best conditions,
 especially when it comes to a strong paddle / rod connection.
 
+!!! warning inline end "Using a Dishwasher"
+
+    The manual might state everything is dishwasher safe, but generally
+    plastic ages faster when exposed to the harsh chemicals and higher heat in a dishwasher.
+    Cleaning by hand, if you do it regularly, is over in a minute or so.
+
 After you're done with processing a tub,
 clean the tip of the rod with a damp cloth, **instantly and every time**.
 Disjoin and drop lid and paddle into your (shallowly) filled sink, so they're submerged.
 That gives you ample opportunity to dig into your freshly made creami,
 without residue drying up or congealing.
-
-> ⚠️ **Using a Dishwasher**<br />
-> The manual might state everything is dishwasher safe, but generally plastic ages faster when exposed to the harsh chemicals in a dishwasher. Cleaning by hand, if you do it regularly, is over in a minute or so.
 
 Later, clean the lid by lifting it out of the water and shaking it horizontally,
 repeating the submerging and lifting+shaking cycle several times.
