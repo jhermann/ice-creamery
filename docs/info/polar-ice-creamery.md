@@ -1,21 +1,25 @@
 # "Polar Ice Creamery" Wisdoms<img style="float: right; margin-left: 1.5em;" width=160 alt="Logo" src="/ice-creamery/info/logo-polar-ice-creamery.png" />
 
-> Important ideas and facts regarding various ice cream topics,
-> drawing information directly from the YouTube video transscripts of the well-known
-> [Polar Ice Creamery](https://www.youtube.com/@PolarIceCreamery/) channel.
->
-> All credit goes to them. All errors are mine.
->
-> This accompanies the information on the other pages here, and you can expect some duplication.
+!!! abstract "About This Page"
 
-## Ice Cream Sugars: A Briefing on Sucrose, Dextrose, and Erythritol
+    Important ideas and facts regarding various ice cream topics,
+    drawing information directly from the YouTube video transscripts of the well-known
+    [Polar Ice Creamery](https://www.youtube.com/@PolarIceCreamery/) channel.
 
-> Summary of key information regarding three types of sugars used in ice cream:
-> sucrose, dextrose, and erythritol, drawing from episodes 1, 2, and 3 of the
-> "Sugars in Ice Cream Series."
-> 
-> It highlights their properties, impact on ice cream texture and sweetness,
-> and suitability for various applications.
+    All credit goes to them. All errors are mine.
+
+    This accompanies the information on the other pages here, and you can expect some duplication.
+
+## Sugars: A Briefing on Sucrose, Dextrose, and Erythritol
+
+!!! info "Section Summary"
+
+    Key information regarding three types of sugars used in ice cream:
+    sucrose, dextrose, and erythritol, drawing from episodes 1, 2, and 3 of the
+    "Sugars in Ice Cream Series."
+
+    It highlights their properties, impact on ice cream texture and sweetness,
+    and suitability for various applications.
 
 ### The Essential Role of Sugar in Ice Cream
 
@@ -84,11 +88,13 @@ Erythritol is presented as a sugar alcohol with potential benefits for health-co
 
 ## The Purpose and Nature of Ice Cream Stabilizers
 
-> Stabilizers are crucial for improving ice cream texture, longevity, and
-> overall quality by controlling ice crystal formation, air bubble size,
-> and maintaining a smooth, creamy mouthfeel.
->
-> See also [Thickeners](/ice-creamery/info/ingredients/#thickeners) and [Emulsifiers](/ice-creamery/info/ingredients/#emulsifiers) on the *Ingredients* page.
+!!! info "Section Summary"
+
+    Stabilizers are crucial for improving ice cream texture, longevity, and
+    overall quality by controlling ice crystal formation, air bubble size,
+    and maintaining a smooth, creamy mouthfeel.
+
+    See also [Thickeners](/ice-creamery/info/ingredients/#thickeners) and [Emulsifiers](/ice-creamery/info/ingredients/#emulsifiers) on the *Ingredients* page.
 
 ### Overview
 
@@ -116,6 +122,11 @@ Stabilizers are additives that significantly enhance the quality of homemade and
 
 
 ## Key Ice Cream Stabilizers and Their Characteristics
+
+!!! info "Section Summary"
+
+    This highlights the most commonly used stabilizers and their traits,
+    and why and how to use them.
 
 ### Guar Gum (E412)
 
@@ -216,9 +227,12 @@ Stabilizers are additives that significantly enhance the quality of homemade and
 
 ## Homemade Ice Cream & Gelato: FAQ
 
-### Introduction
+!!! info "Section Summary"
 
-This summarizes key themes and essential information regarding homemade ice cream and gelato making, addressing both novice and experienced home ice cream makers, covering general techniques, ingredient science, and flavor development.
+    This summarizes key themes and essential information regarding
+    homemade ice cream and gelato making, addressing both novice and
+    experienced home ice cream makers, covering general techniques,
+    ingredient science, and flavor development.
 
 ### Key Takeaways
 
