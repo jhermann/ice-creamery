@@ -35,6 +35,9 @@ img.zoomable:active {
   padding: .3rem .2rem;
   min-width: 1rem;
 }
+.md-typeset table:not([class]) tr {
+  color: #111;
+}
 .md-typeset table:not([class]) thead tr {
   background-color: #bbb;
 }
