@@ -525,6 +525,33 @@ It is synergistic when combined with other hydrocolloids to increase their gelli
 
 *Also know as:* carob / Johannisbrotkernmehl.
 
+### Psyllium Husk
+
+Psyllium is a natural dietary fiber from plant seeds, not a synthetic additive, and counts as a whole food.
+
+!!! warning inline end "Medical Info"
+
+    Psyllium *can* cause serious allergic reactions, so be careful on first use.
+
+    Psyllium may also affect the absorption of drugs, and should be consumed
+    at least 2 hours apart from taking any medicine.
+
+    A processed equivalent used in similar applications is
+    [Hydroxypropyl Methylcellulose (HPMC / E464)](#hydroxypropyl-methylcellulose-hpmc-e464),
+    but lacks the health benefits.
+
+In ice cream, psyllium acts as a thickener, improving texture and reducing iciness,
+especially in low-fat or dairy-free recipes. Melting behavior as well as
+freeze-thaw stability is better, and ice crystal formation during freezing is inhibited.
+It adds fiber and increases the percentage of solids.
+
+Blending it clump-free needs common techniques like mixing with other dry ingredients first,
+a powerful blender with good shear (frothers are *out*), and is best added late in the blending.
+Another method is pre-gelling, hydrating the powder with some liquid and then use the gel in blending.
+
+*Dosage:* Up to 0.9% of the total base. Start low, psyllium has a very high gelling strength,
+overdosing can lead to pudding-like textures, and also increase machine strain significantly.
+
 ### Salep
 Salep is a thickening agent derived from the tubers of certain orchids, primarily used in Turkish ice cream (*Dondurma*)
 and a warming winter drink of the same name. In ice cream, salep gives it a distinctive chewy and stretchy texture.
