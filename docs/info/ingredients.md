@@ -543,7 +543,9 @@ Psyllium is a natural dietary fiber from plant seeds, not a synthetic additive, 
 In ice cream, psyllium acts as a thickener, improving texture and reducing iciness,
 especially in low-fat or dairy-free recipes. Melting behavior as well as
 freeze-thaw stability is better, and ice crystal formation during freezing is inhibited.
-It adds fiber and increases the percentage of solids.
+
+It adds fiber and increases the percentage of solids, and has emulsifying properties
+that can replace usage of other emulsifiers like [E471](#glycerol-monostearate-gms-e471).
 
 Blending it clump-free needs common techniques like mixing with other dry ingredients first,
 a powerful blender with good shear (frothers are *out*), and is best added late in the blending.
