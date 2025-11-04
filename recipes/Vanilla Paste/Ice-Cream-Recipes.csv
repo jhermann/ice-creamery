@@ -1,9 +1,9 @@
 Vanilla Paste;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 ;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;;
-Nutritional values per 100g/ml;100;g;;132.7;0.0;33.2;32.8;0.0;0.0;;;;;
-Nutritional values per tsp;5;g;;6.6;0.0;1.7;1.6;0.0;0.0;;;;;
-Nutritional values total;250;g;;331.7;0.1;83.0;82.0;0.1;0.0;;;;;
+Nutritional values per 100g/ml;100;g;;129.7;0.0;32.4;32.0;0.0;0.0;;;;;
+Nutritional values per tsp;5;g;;6.5;0.0;1.6;1.6;0.0;0.0;;;;;
+Nutritional values total;280;g;;363.0;0.1;90.7;89.7;0.1;0.0;;;;;
 ;;;;;;;;;;;;;;
 "Making your own luxurious vanilla bean paste at home easily surpasses store-bought options and elevates your ice cream making skills.
 This easy recipe uses readily available ingredients, including vanilla beans of varying quality.
@@ -37,8 +37,8 @@ The powder can then be used to improve the taste of breakfast bowls and the like
  1. Store the finished paste in a jar or bottle in the refrigerator. The paste will further thicken as it chills.";;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment;0Carb[%];Counts?
-Water (cold);125.00;ml;1;;;;;;;;;;;1
+Water (cold);140.00;ml;1;;;;;;;;;;;1
 Trehalose [SaporePuro];80.00;g;2;355.00;0.00;89.00;89.00;0.00;0.03;1.00;;"POD = 45%; GI = 38";;1
-Vanilla Pods (Bourbon) [InterVanilla];30.00;g;0;;;;;;;;;15 pods, grade B (or A), 12-13 cm;;1
-Agave syrup;14.00;ml;1;313.00;0.50;77.00;77.00;0.50;0.00;1.80;;*alternatives:* corn or simple syrup;;1
+Vanilla Beans (Bourbon) [InterVanilla];35.00;g;0;;;;;;;;;17-18 beans, grade B (or A), 12-13 cm;;1
+Agave syrup;24.00;ml;1;313.00;0.50;77.00;77.00;0.50;0.00;1.80;;*alternatives:* corn or simple syrup;;1
 Citric Acid;1.00;g;2;391.00;0.15;97.00;0.00;0.50;0.50;;;0.5–1g ≈ 15ml lemon juice;;1

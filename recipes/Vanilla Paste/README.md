@@ -45,12 +45,12 @@ The powder can then be used to improve the taste of breakfast bowls and the like
 
 **Prep**
 
-  - _30g_ Vanilla Pods (Bourbon) [InterVanilla] • 15 pods, grade B (or A), 12-13 cm
+  - _35g_ Vanilla Beans (Bourbon) [InterVanilla] • 17-18 beans, grade B (or A), 12-13 cm
 
 **Wet**
 
-  - _125ml_ Water (cold)
-  - _14ml_ Agave syrup • *alternatives:* corn or simple syrup
+  - _140ml_ Water (cold)
+  - _24ml_ Agave syrup • *alternatives:* corn or simple syrup
 
 **Dry**
 
@@ -70,6 +70,6 @@ The powder can then be used to improve the taste of breakfast bowls and the like
 
 # NUTRITIONAL & OTHER INFO
 
-- **Nutritional values per 100g/ml:** 100g; 132.7 kcal; fat 0.0g; carbs 33.2g; sugar 32.8g; protein 0.0g; salt 0.0g
-- **Nutritional values per tsp:** 5g; 6.6 kcal; fat 0.0g; carbs 1.7g; sugar 1.6g; protein 0.0g; salt 0.0g
-- **Nutritional values total:** 250g; 331.7 kcal; fat 0.1g; carbs 83.0g; sugar 82.0g; protein 0.1g; salt 0.0g
+- **Nutritional values per 100g/ml:** 100g; 129.7 kcal; fat 0.0g; carbs 32.4g; sugar 32.0g; protein 0.0g; salt 0.0g
+- **Nutritional values per tsp:** 5g; 6.5 kcal; fat 0.0g; carbs 1.6g; sugar 1.6g; protein 0.0g; salt 0.0g
+- **Nutritional values total:** 280g; 363.0 kcal; fat 0.1g; carbs 90.7g; sugar 89.7g; protein 0.1g; salt 0.0g
