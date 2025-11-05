@@ -237,7 +237,8 @@ Put it to good use by making a milk shake from the bottom half inch or so (≈1.
 1. Fill the tub to a third or half with your preferred milk.
 2. Add sweetener or flavor drops of choice, and possibly a dollop of cream.
 3. Froth it up with a blender, incorporating all of the ice cream.
-4. Pour into a long-drink glass.
+4. If necessary, use easily dissolved instant starch to thicken your shake clump-free.
+5. Pour into a long-drink glass.
 
 > <img width=240 alt="Frozen bottom" src="../milkshake_2025-06-13_1.jpg" class="zoomable" />
 > <img width=240 alt="Blended frothy" src="../milkshake_2025-06-13_2.jpg" class="zoomable" />
