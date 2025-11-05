@@ -24,11 +24,11 @@ The result is superior to typical vanilla extracts or essences, especially when 
 The vanilla beans your use can be grade B, preferably with some residual moisture.
 Besides the beans, you need water, sugar, and a small amount of corn syrup
 to prevent crystallization when storing the paste over a longer time,
-and to also increase viscosiry.
+and to also increase viscosity.
 
-For the sugar component, prefer monosaccharides such as glucose, fructose, lactose, maltose, trehalose, (rice /corn) syrup, and the like.
+For the sugar component, prefer monosaccharides such as glucose, fructose, lactose, maltose, trehalose, plus (rice /corn) syrup and the like.
 The main reason to not use sucrose is a lower GI or PAC, for health reasons and easier recipe balancing, respectively.
-Trehalose is used here because of its lower GI and sweetness, but feel free to simply go with table sugar.
+Trehalose is used here because of its lower GI and sweetness, but feel free to simply go with table sugar and corn syrup.
 
 Make sure that all the equipment you use is thoroughly cleaned and sterilized, to ensure
 a long shelf life of several months, when kept in the fridge. Pay special attention to
