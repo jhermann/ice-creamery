@@ -14,6 +14,7 @@ tags:
 - Dairy
 - Emulsifier
 - Erythritol
+- Favorite
 - Hi-Protein
 - Low-Sugar
 - Polysaccharide Gum

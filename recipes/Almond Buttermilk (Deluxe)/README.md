@@ -9,6 +9,7 @@ tags:
 - Dairy
 - Emulsifier
 - Erythritol
+- Favorite
 - Low-Sugar
 - Polysaccharide Gum
 - Scoopable
