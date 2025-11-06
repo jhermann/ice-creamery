@@ -138,7 +138,7 @@ AUTO_LINK_STOP_WORDS = {
     'Seed Powder', 'Soy sauce', 'tea powder', 'to MAX line',
 }
 LOGO_IMG = '<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="%s" />'
-MILK_HINT = ('Soy milk 1.6%', '*alternative*: use any other preferred milk (~2% fat)')
+MILK_HINT = ('Soy milk 1.6%', '*alternative*: any other preferred milk (~2% fat)')
 
 
 def add_default_tags(md_text, docmeta):
