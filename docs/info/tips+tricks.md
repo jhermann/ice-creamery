@@ -75,7 +75,7 @@ Also, some ingredients and tools I consider essential for ice cream making, whic
  * A sturdy (metal) ice cream scoop.
  <br /><br /><img width=240 alt="Metal Scoop" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/assets/Metal-Scoop.jpg" class="zoomable" />
  * Extra containers for having a selection of prepared flavors. Two is not enough for most people, many settle on 6 to be able to prep a full week's worth of creamis.
- * Pint cozies assuming you *do* enjoy your ice cream spooning directly out of the ocntainer. They prevent premature melting, and cold hands. Get ones with a handle (formed like a coffee mug).
+ * Pint cozies assuming you *do* enjoy your ice cream spooning directly out of the container. They prevent premature melting, and cold hands. Get ones with a handle (formed like a coffee mug).
  * An immersion blender or stand mixer — do *not* use a milk frother, you want to blend your base, not add foam that you need to get rid of later on by hours of waiting.
  * A digital kitchen scale. Prefer one that has a 0.1g precision, those are also typically updating faster, without undue delays of one or more seconds.
  <br /><br /><img width=240 alt="Digital Kitchen Scale" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/assets/Kitchen-Scale.jpg" class="zoomable" />
