@@ -57,6 +57,49 @@ Lists just like this one.
     - 🎦 [Locust Bean Gum (LBG)](https://www.youtube.com/watch?v=SKg_3PGxlww)
     - 🎦 [Xanthan Gum](https://www.youtube.com/watch?v=H2dHQtIhY88)
 
+## Ninja Creami Manuals
+
+These are the PDF manuals and guides that [SharkNinja](https://www.sharkninja.com/) offers for download.
+
+### NC30x (Standard, 7-in-1, 16oz)
+
+!!! tip inline end "Read the Manual"
+
+    It is strongly recommended to read the [Owner's Guide](https://support.ninjakitchen.com/hc/en-us/articles/4405968280466-NC300-Series-Ninja-CREAMi-7-in-1-Ice-Cream-Maker-Owner-s-Guide) *before* using the machine and *before* posting questions to social media. Most answers can be found in the guide, along with helpful safety considerations.
+
+- [Quick Start Guide](https://support.ninjakitchen.com/hc/en-us/articles/4407291316114-NC300-Series-Ninja-CREAMi-7-in-1-Ice-Cream-Maker-Quick-Start-Guide)
+- [Owner's Guide](https://support.ninjakitchen.com/hc/en-us/articles/4405968280466-NC300-Series-Ninja-CREAMi-7-in-1-Ice-Cream-Maker-Owner-s-Guide)
+
+    - Safety Warnings
+    - How to Use
+    - How to Clean
+    - Troubleshooting
+    - Different mode meanings
+
+- [Safety Instructions](https://support.ninjakitchen.com/hc/en-us/articles/4408901727250-NC300-Series-Ninja-CREAMi-7-in-1-Ice-Cream-Maker-Insert-Safety-Instructions) (included in the *Owner's Guide*)
+- Official Inspirational Recipe Guides:
+
+    - [Inspirational Guide with 50 Recipes](https://support.ninjakitchen.com/hc/en-us/articles/5089515953564-NC301H-Series-Ninja-CREAMi-7-in-1-Ice-Cream-Maker-Inspirational-Guide-50-Recipes)
+    - [Inspirational Guide with 30 Recipes](https://support.ninjakitchen.com/hc/en-us/articles/4409019172114-NC300-Series-Ninja-CREAMi-7-in-1-Ice-Cream-Maker-Inspirational-Guide-30-Recipes)
+    - [Inspirational Guide with 15 Recipes](https://support.ninjakitchen.com/hc/en-us/articles/4405968291602-NC300-Series-Ninja-CREAMi-7-in-1-Ice-Cream-Maker-Inspirational-Guide-15-Recipes)
+
+### NC50x (Deluxe, 11-in-1, 24oz)
+
+!!! tip inline end "Read the Manual"
+
+    It is strongly recommended to read the [Owner's Guide](https://support.ninjakitchen.com/hc/en-us/articles/5783309283356-NC500-Series-Ninja-CREAMi-Deluxe-11-in-1-Ice-Cream-and-Frozen-Treat-Maker-Owner-s-Guide) *before* using the machine and *before* posting questions to social media. Most answers can be found in the guide, along with helpful safety considerations.
+
+- [Quick Start Guide](https://support.ninjakitchen.com/hc/en-us/articles/5783372993948-NC501-Series-Ninja-CREAMi-Deluxe-11-in-1-Ice-Cream-and-Frozen-Treat-Maker-Quick-Start-Guide)
+- [Owner's Guide](https://support.ninjakitchen.com/hc/en-us/articles/5783309283356-NC500-Series-Ninja-CREAMi-Deluxe-11-in-1-Ice-Cream-and-Frozen-Treat-Maker-Owner-s-Guide) ([2nd link](https://support.ninjakitchen.com/hc/en-us/articles/7445419388060-NC501-Series-Ninja-CREAMi-Deluxe-11-in-1-Ice-Cream-and-Frozen-Treat-Maker-Owner-s-Guide))
+
+    - Safety Warnings
+    - How to Use
+    - How to Clean
+    - Troubleshooting
+    - Different mode meanings
+
+- [Inspirational Guide](https://support.ninjakitchen.com/hc/en-us/articles/5783868076316-NC501-Series-Ninja-CREAMi-Deluxe-11-in-1-Ice-Cream-and-Frozen-Treat-Maker-Inspirational-Guide)
+
 ## Ice Cream Calculators
 I use my spreadsheet, so this is a "what I found on the web" list, without any preferences attached.
 
