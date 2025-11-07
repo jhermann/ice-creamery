@@ -57,6 +57,8 @@ Lists just like this one.
     - 🎦 [Locust Bean Gum (LBG)](https://www.youtube.com/watch?v=SKg_3PGxlww)
     - 🎦 [Xanthan Gum](https://www.youtube.com/watch?v=H2dHQtIhY88)
 
+- 🎦 [Is Your Ninja Creami Full of Rotten Dairy?](https://www.youtube.com/watch?v=Cbc4sUrBCGM) — A look at the inside.
+
 ## Ninja Creami Manuals
 
 These are the PDF manuals and guides that [SharkNinja](https://www.sharkninja.com/) offers for download.
