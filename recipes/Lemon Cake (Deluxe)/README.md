@@ -39,6 +39,13 @@ Rating: 😋🍋🍋🍰🍰 (lemony-cheesy as expected, not very sour, but refr
 
 > <img width=442 alt="Served" src="Lemon-Cake_2025-08-31_4.jpg" class="zoomable" />
 
+Processed using *Sorbet*, followed by a scrape-down, respin, and mix-in with a diced frozen slice of cake.
+
+> <img width=164 alt="After Sorbet" src="Lemon-Cake_2025-11-07_1.jpg" class="zoomable" />
+> <img width=164 alt="After Respin" src="Lemon-Cake_2025-11-07_2.jpg" class="zoomable" />
+> <img width=164 alt="Mix-in" src="Lemon-Cake_2025-11-07_3.jpg" class="zoomable" />
+> <img width=164 alt="Scooped" src="Lemon-Cake_2025-11-07_4.jpg" class="zoomable" />
+
 !!! info "Simple Recipe"
 
     Read [About 'Simple' Recipes](/ice-creamery/info/tips%2Btricks/#about-simple-recipes)    regarding 'exotic' ingredients and their alternatives.
