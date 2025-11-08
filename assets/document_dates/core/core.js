@@ -34,12 +34,8 @@ function generateAvatar() {
 
         const imgEl = wrapper.querySelector('img.avatar');
         if (imgEl) {
-            // 先设置 onerror，再设置 src（设置src时就会立即触发加载）
-            imgEl.onerror = () => imgEl.style.display = 'none';
-            const dataSrc = (imgEl.getAttribute('data-src') || '').trim();
-            if (dataSrc) {
-                imgEl.src = dataSrc;
-            } else {
+            const src = (imgEl.getAttribute('src') || '').trim();
+            if (!src) {
                 imgEl.style.display = 'none';
             }
         }
