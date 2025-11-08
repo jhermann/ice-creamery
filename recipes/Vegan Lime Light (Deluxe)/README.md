@@ -8,6 +8,7 @@ excluded_steps:
 - Let blender run until
 excluded_tags:
 - Allulose
+- Dairy
 - Vanilla
 tags:
 - Draft
@@ -25,6 +26,9 @@ tags:
 
 “Vegan Lime Light” is a refreshing, dairy-free ice cream that delivers
 the perfect blend of creamy tofu, zesty lime, and silky soy milk in every bite.
+
+A non-vegan variation with similar macros is replacing tofu, part of the soy milk, and the starch with
+250g fat-free quark (or creamed cottage cheese) and 40ml cream (32%).
 
 Spin on “Light Ice Cream”, scrape down, and re-mix.
 
@@ -48,7 +52,7 @@ Rating: 😋🌿🍋‍🟩  (untested)
 
   - _200ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup> • Heat and blend with the tofu
   - _90g_ [Tofu (plain) \[REWE Bio\]](/ice-creamery/info/ingredients/#tofu){target="_blank"}<sup>↗</sup> • If you have it, use silken tofu
-  - _250ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup> • *alternative*: use any other preferred milk (~2% fat)
+  - _250ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup> • *alternative*: any other preferred milk (~2% fat)
 
 **Dry**
 
