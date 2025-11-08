@@ -61,7 +61,7 @@ Rating: 😋🌿🍋‍🟩  (untested)
 
 **Fill to MAX**
 
-  - _≈1 drops_ Flavor drops “Natural” (stevia) [Nick’s] • to taste • unflavored
+  - _≈12 drops_ Flavor drops “Natural” (stevia) [Nick’s] • to taste • unflavored
 
 # DIRECTIONS
 
