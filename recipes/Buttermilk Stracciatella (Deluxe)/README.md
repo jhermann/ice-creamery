@@ -31,9 +31,10 @@ Still it is low-sugar and smooth.
 Macros include the dark chocolate shavings.
 Process on *Sorbet*, with scrape-down and a mix-in run to integrate the chocolate.<br clear=all />
 
-> <img width=360 alt="Spun Ice Cream" src="" class="zoomable" />
+> <img width=330 alt="Spun Ice Cream" src="BM-Stracciatella_2025-11-08_1.jpg" class="zoomable" />
+> <img width=330 alt="Scoops" src="BM-Stracciatella_2025-11-08_2.jpg" class="zoomable" />
 
-Rating: 😋🥛🍫 (untested)
+Rating: 😋🥛🥛🍫🍫
 
 # INGREDIENTS
 
