@@ -31,6 +31,12 @@ Spin on “Light Ice Cream”, scrape down, and re-mix.
 
 Rating: 😋🍌🍌🍌🍫 (smooth and creamy, with a dark chocolate mix-in)
 
+> <img width=220 alt="After Light Ice Cream" src="Easy-Peely_2025-11-10_1.jpg" class="zoomable" />
+> <img width=220 alt="After Respin" src="Easy-Peely_2025-11-10_2.jpg" class="zoomable" />
+> <img width=220 alt="Manual mix-in" src="Easy-Peely_2025-11-10_3.jpg" class="zoomable" />
+>
+> *2025-11-10: Light Ice Cream and respin, with manually mixed in dark chocolate shavings.*
+
 # INGREDIENTS
 
 ℹ️ Brand names are in square brackets `[...]`.
