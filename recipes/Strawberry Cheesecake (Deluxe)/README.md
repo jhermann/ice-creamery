@@ -43,6 +43,12 @@ Rating: 😋😋🥛🍓🍓
 > 
 > *Made with whey / casein protein mix, processed on Sorbet + Respin. Served with chopped cashews and chopped rum-soaked sultanas.*
 
+> <img width=220 alt="FroYo run" src="Strawberry-Cheesecake_2025-11-10_1.jpg" class="zoomable" />
+> <img width=220 alt="After mix-in" src="Strawberry-Cheesecake_2025-11-10_2.jpg" class="zoomable" />
+> <img width=220 alt="Scooped" src="Strawberry-Cheesecake_2025-11-10_3.jpg" class="zoomable" />
+> 
+> *2025-11-10: Processed on FroYo, scrape-down, and mix-in run with white chocolate shavings.*
+
 # INGREDIENTS
 
 ℹ️ Brand names are in square brackets `[...]`.
