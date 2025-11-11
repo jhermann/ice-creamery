@@ -369,7 +369,9 @@ def parse_recipe_csv(csv_name, args, images=[]):
     special_prep = []
     special_directions = []
     freezing = [  # inserted before 'mix-in' step
-        ' 1. Put on the lid, freeze for 24h, then spin as usual. Flatten any humps before that.',
+        ' 1. For better results, let the base age in the fridge (covered, lid on), for a few hours or over night.'
+        ' This helps flavor development and gum hydration, especially with unheated bases.',
+        ' 1. Freeze for 24h with lid on, then spin as usual. Flatten any humps before that.',
         ' 1. Process with RE-SPIN mode when not creamy enough after the first spin.',
     ]
 
