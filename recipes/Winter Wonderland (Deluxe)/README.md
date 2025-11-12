@@ -8,6 +8,7 @@ excluded_tags:
 - Vanilla
 replace:
 - to empty Creami=>and the bloomed cocoa to empty Creami
+- Fill to MAX=>Top off (Stir in)
 tags:
 - Emulsifier
 - Erythritol
@@ -59,7 +60,7 @@ Rating: 😋 (untested)
   - _10g_ [Salty Stability \[Inulin / GMS / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup> • *not-as-good substitute:* 1g guar, 0.3g xanthan, and 0.3g salt
   - _1g_ Cinnamon (Ceylon) • *optional*, to taste; 1tsp = 3g
 
-**Fill to MAX**
+**Top off (Stir in)**
 
   - _50ml_ Cream 32% [REWE Beste Wahl]
   - _≈5 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
