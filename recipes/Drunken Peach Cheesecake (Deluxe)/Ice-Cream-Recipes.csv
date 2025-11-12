@@ -1,14 +1,14 @@
 Drunken Peach Cheesecake (Deluxe);;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 ;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;;
-Nutritional values per 100g/ml;100;g;;81.5;0.9;11.9;6.0;4.6;0.0;;;;;
-Nutritional values per ½ Deluxe Tub;340;g;;277.0;3.0;40.6;20.4;15.7;0.2;;;;;
-Nutritional values total;680;g;;554.0;5.9;81.2;40.7;31.4;0.3;;;;;
+Nutritional values per 100g/ml;100;g;;114.0;5.0;12.2;6.2;3.2;0.0;;;;;
+Nutritional values per ½ Deluxe Tub;340;g;;387.8;17.2;41.5;21.0;10.9;0.1;;;;;
+Nutritional values total;685;g;;781.2;34.6;83.6;42.4;22.0;0.2;;;;;
 ;;;;;;;;;;;;;;
-FPDF / PAC (target 20..30);31.66;;;;;;;;;;;;;
-"Protein / Energy Ratio (ok=12%; hi=20%)";22.68%;;;;LOW-FAT;;;Hi-Protein;Low-Salt;;;;;
-ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);29.3;g;;4.3%;;;;;;;;;;
-ℹ️ Net carbs;51.2;g;;*∝ 5 servings@136g:* 10.2g;;;*∝ 3 servings@227g:* 17.1g;;;*energy ratio (low <20%):* 37%;;;;
+FPDF / PAC (target 20..30);31.22;;;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";11.28%;;;;;;;;Low-Salt;;;;;
+ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);15.8;g;;2.3%;;;;;;;;;;
+ℹ️ Net carbs;53.6;g;;*∝ 5 servings@137g:* 10.7g;;;*∝ 3 servings@228g:* 17.9g;;;*energy ratio (low <20%):* 27.5%;;;;
 Canned peaches, quark (or cream cheese), and rum or bourbon. What could go wrong?;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 "Process on *Sorbet*, [hold it shortly under running water](https://jhermann.github.io/ice-creamery/info/tips%2Btricks/#handling-of-icy-sides-bottom)
@@ -18,13 +18,14 @@ Then a scrape-down and a respin or mix-in.<br clear=all />";;;;;;;;;;;;;;
 "Rating: 😋🍑🍑🍑🍰 (used sorbet + mix-in; dense, cheesy, and very peachy)";;;;;;;;;;;;;;
 "1. Put ‘wet’ and ‘dry’ ingredients into an empty Creami tub (on a scale), and blend until smooth.
  1. Adapt sweetness to taste using the flavor drops, stir thoroughly.";;;;;;;;;;;;;;
-The [brand names] used are in brackets.;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment;0Carb[%];Counts?
-Peaches in Grape Juice [Libby’s];350.00;g;1;53.00;;12.00;9.00;0.50;;;;Can = 410g;;1
-Topfen / Quark 0.6% [Berchtesgadener];240.00;g;1;70.00;0.60;3.60;3.60;11.90;0.08;0.04;11.40;*US alternative:* low-fat cream cheese;;1
+Peaches in Grape Juice [Libby’s];375.00;g;1;53.00;;12.00;9.00;0.50;;;;Can = 410g;;1
+Topfen / Quark 14.4% [Berchtesgadener];240.00;g;1;179.00;14.40;3.60;3.60;8.40;0.08;0.04;6.60;"250g container; *alternative:* 180g ricotta 9% and 60ml cream 32%";;1
+Topfen / Quark 0.6% [Berchtesgadener];;g;1;70.00;0.60;3.60;3.60;11.90;0.08;0.04;11.40;"250g container; *US alternative:* low-fat cream cheese";;1
 Jamaica Rum 43 vol%;40.00;g;1;300.00;;;;;;3.18;;*alternative:* bourbon, or other 40 vol% alcohol;;1
-Cream Cheese 23% [Exquisa];20.00;g;1;238.00;22.50;3.00;3.00;5.50;0.70;0.03;9.64;click the link for UK / US equivalents;;1
+Cream Cheese 23% [Exquisa];20.00;g;1;238.00;22.50;3.00;3.00;5.50;0.70;0.03;9.64;click the link for UK / US equivalents;;0
 Molasses [Grafschafter Goldsaft];;g;1;306.00;0.50;70.00;66.00;2.30;0.03;0.66;;Sweetness = 66%;;1
 Topfen / Quark 14.4% [Berchtesgadener];;g;1;179.00;14.40;3.60;3.60;8.40;0.08;0.04;6.60;250g container;;1
 SweEX (Erythritol + Xylitol 3:2);30.00;g;2;109.60;;100.00;;;;2.56;;*alternative:* 40g allulose or dextrose;100.00;1

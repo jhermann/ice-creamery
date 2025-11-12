@@ -14,8 +14,6 @@ tags:
 - Erythritol
 - Fruit
 - Gum-Free
-- Hi-Protein
-- Low-Fat
 - Scoopable
 - Simple
 - Sucralose
@@ -40,7 +38,9 @@ Rating: 😋🍑🍑🍑🍰 (used sorbet + mix-in; dense, cheesy, and very peac
 
 > <img width=442 alt="Served with Molasses + Butter Cookie" src="Drunken-Peach-Cheesecake_2025-08-16_4.jpg" class="zoomable" />
 
-> ℹ️ Read [About 'Simple' Recipes](/ice-creamery/info/tips%2Btricks/#about-simple-recipes) regarding 'exotic' ingredients and their alternatives.
+!!! info "Simple Recipe"
+
+    Read [About 'Simple' Recipes](/ice-creamery/info/tips%2Btricks/#about-simple-recipes)    regarding 'exotic' ingredients and their alternatives.
 
 # INGREDIENTS
 
@@ -48,10 +48,9 @@ Rating: 😋🍑🍑🍑🍰 (used sorbet + mix-in; dense, cheesy, and very peac
 
 **Wet**
 
-  - _350g_ Peaches in Grape Juice [Libby’s] • Can = 410g
-  - _240g_ [Topfen / Quark 0.6% \[Berchtesgadener\]](/ice-creamery/info/ingredients/#quark-topfen){target="_blank"}<sup>↗</sup> • *US alternative:* low-fat cream cheese
+  - _375g_ Peaches in Grape Juice [Libby’s] • Can = 410g
+  - _240g_ [Topfen / Quark 14.4% \[Berchtesgadener\]](/ice-creamery/info/ingredients/#quark-topfen){target="_blank"}<sup>↗</sup> • 250g container; *alternative:* 180g ricotta 9% and 60ml cream 32%
   - _40g_ [Jamaica Rum 43 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup> • *alternative:* bourbon, or other 40 vol% alcohol
-  - _20g_ [Cream Cheese 23% \[Exquisa\]](/ice-creamery/info/ingredients/#cream-cheese){target="_blank"}<sup>↗</sup> • click the link for UK / US equivalents
 
 **Dry**
 
@@ -72,15 +71,16 @@ Rating: 😋🍑🍑🍑🍰 (used sorbet + mix-in; dense, cheesy, and very peac
 
  1. Put ‘wet’ and ‘dry’ ingredients into an empty Creami tub (on a scale), and blend until smooth.
  1. Adapt sweetness to taste using the flavor drops, stir thoroughly.
- 1. Put on the lid, freeze for 24h, then spin as usual. Flatten any humps before that.
+ 1. For better results, let the base age in the fridge (covered, lid on), for a few hours or over night. This helps flavor development and gum hydration, especially with unheated bases.
+ 1. Freeze for 24h with lid on, then spin as usual. Flatten any humps before that.
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
 
 # NUTRITIONAL & OTHER INFO
 
-- **Nutritional values per 100g/ml:** 100g; 81.5 kcal; fat 0.9g; carbs 11.9g; sugar 6.0g; protein 4.6g; salt 0.0g
-- **Nutritional values per ½ Deluxe Tub:** 340g; 277.0 kcal; fat 3.0g; carbs 40.6g; sugar 20.4g; protein 15.7g; salt 0.2g
-- **Nutritional values total:** 680g; 554.0 kcal; fat 5.9g; carbs 81.2g; sugar 40.7g; protein 31.4g; salt 0.3g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 31.66
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 22.68% • LOW-FAT • Hi-Protein • Low-Salt
-- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 29.3g • 4.3%
-- **Net carbs:** 51.2g • *∝ 5 servings@136g:* 10.2g • *∝ 3 servings@227g:* 17.1g • *energy ratio (low <20%):* 37%
+- **Nutritional values per 100g/ml:** 100g; 114.0 kcal; fat 5.0g; carbs 12.2g; sugar 6.2g; protein 3.2g; salt 0.0g
+- **Nutritional values per ½ Deluxe Tub:** 340g; 387.8 kcal; fat 17.2g; carbs 41.5g; sugar 21.0g; protein 10.9g; salt 0.1g
+- **Nutritional values total:** 685g; 781.2 kcal; fat 34.6g; carbs 83.6g; sugar 42.4g; protein 22.0g; salt 0.2g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 31.22
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 11.28% • Low-Salt
+- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 15.8g • 2.3%
+- **Net carbs:** 53.6g • *∝ 5 servings@137g:* 10.7g • *∝ 3 servings@228g:* 17.9g • *energy ratio (low <20%):* 27.5%
