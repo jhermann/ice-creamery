@@ -952,6 +952,10 @@ Use a sharp knife like a razor and shave over the edge of a large enough piece o
 > <img width=240 alt="Making Chocolate Shavings" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/assets/Choc-Shavings_2025-08-04_1.jpg" class="zoomable" />
 > <img width=240 alt="Chocolate Shavings as a Topping" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/assets/Choc-Shavings_2025-08-04_2.jpg" class="zoomable" />
 
+Or buy them ready-to-use.
+
+> <img width=360 alt="Store-Bought Chocolate Shavings" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/assets/Store-Bought-Chocolate-Shavings_2025-11-12.jpg" class="zoomable" />
+
 ## Miscellaneous
 ### Alcohol (Ethanol)
 Alcohol can enhance or provide flavor,
