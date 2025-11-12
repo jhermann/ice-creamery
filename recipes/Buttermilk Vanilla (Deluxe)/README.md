@@ -7,7 +7,6 @@ excluded_tags:
 - Vanilla
 tags:
 - Dairy
-- Draft
 - Erythritol
 - Hi-Protein
 - Low-Sugar
@@ -58,7 +57,7 @@ Rating: 😋🥛🍦 (untested)
 **Fill to MAX**
 
   - _75ml_ Cream 32% [REWE Beste Wahl]
-  - _≈1 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
+  - _≈3 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
 
 # DIRECTIONS
 
