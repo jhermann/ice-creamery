@@ -79,6 +79,7 @@ Rating: 😋😋🥛🍓🍓
 **Mix-ins**
 
   - _20g_ Sultanas (organic) [Biojoy] • add coarsely chopped as a mix-in [60kcal, 13g sugar]
+  - _20g_ [White chocolate shavings \[Ruf\]](/ice-creamery/info/ingredients/#chocolate-shavings){target="_blank"}<sup>↗</sup> • pre-freeze or fold in manually, if you want bigger pieces [112kcal, 11.2g sugar]
 
 **Topping Options**
 
