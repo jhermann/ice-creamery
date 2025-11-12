@@ -9,6 +9,7 @@ tags:
 - Dairy
 - Emulsifier
 - Erythritol
+- Favorite
 - Fruit
 - Hi-Protein
 - Low-Fat

@@ -9,6 +9,7 @@ excluded_tags:
 - Vanilla
 tags:
 - Erythritol
+- Favorite
 - Fruit
 - Low-Fat
 - Scoopable
