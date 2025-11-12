@@ -1,14 +1,14 @@
 Strawberry Cheesecake (Deluxe);;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 ;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;;;
-Nutritional values per 100g/ml;100;g;;115.4;5.8;11.4;3.3;6.2;0.3;;;;;
-Nutritional values per ½ Deluxe Tub;340;g;;392.4;19.8;38.7;11.2;21.1;0.9;;;;;
-Nutritional values total;676;g;;780.2;39.4;76.9;22.2;42.0;1.7;;;;;
+Nutritional values per 100g/ml;100;g;;116.1;5.8;11.5;3.4;6.2;0.3;;;;;
+Nutritional values per ½ Deluxe Tub;340;g;;394.7;19.8;39.3;11.6;21.2;0.9;;;;;
+Nutritional values total;678;g;;787.2;39.4;78.3;23.1;42.3;1.8;;;;;
 ;;;;;;;;;;;;;;
-FPDF / PAC (target 20..30);31.81;;;;;;;;;;;;;
-"Protein / Energy Ratio (ok=12%; hi=20%)";21.53%;;;;;;Low-Sugar;Hi-Protein;;;;;;
+FPDF / PAC (target 20..30);31.72;;;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";21.49%;;;;;;Low-Sugar;Hi-Protein;;;;;;
 ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);39.3;g;;5.8%;;;;;;;;;;
-ℹ️ Net carbs;32.0;g;;*∝ 5 servings@135g:* 6.4g;;;*∝ 3 servings@225g:* 10.7g;;;*energy ratio (low <20%):* 16.4%;;;;
+ℹ️ Net carbs;33.4;g;;*∝ 5 servings@136g:* 6.7g;;;*∝ 3 servings@226g:* 11.1g;;;*energy ratio (low <20%):* 17%;;;;
 "A great combination of various tart flavors,
 and a variation of my German cheesecake base, which is made with ‘Quark’ or ‘Topfen’
 – think of a cross between yogurt, cottage cheese and ricotta.";;;;;;;;;;;;;;
@@ -19,7 +19,11 @@ Spun on Lite Ice Cream, followed by a scrape-down and a mix-in run.;;;;;;;;;;;;;
 
 Rating: 😋😋🥛🍓🍓";;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
-> *Made with whey / casein protein mix, processed on Sorbet + Respin. Served with chopped cashews and chopped rum-soaked sultanas.*;;;;;;;;;;;;;;
+"> 
+> *Made with whey / casein protein mix, processed on Sorbet + Respin. Served with chopped cashews and chopped rum-soaked sultanas.*
+
+> 
+> *2025-11-10: Processed on FroYo, scrape-down, and mix-in run with white chocolate shavings.*";;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment;0Carb[%];Counts?
 Topfen / Quark 14.4% [Berchtesgadener];245.00;g;1;179.00;14.40;3.60;3.60;8.40;0.08;0.04;6.60;"250g container; *US alternative:* low-fat cream cheese";;1
@@ -32,10 +36,11 @@ Glycerin (E422, VG) [hd-line];15.00;g;1;400.00;;99.00;;;;3.70;;"Sweetness = 60%;
 Lemon juice;15.00;ml;1;25.00;0.10;3.36;1.65;0.30;0.01;0.02;;;;1
 Topfen / Quark 0.6% [Berchtesgadener];;g;1;70.00;0.60;3.60;3.60;11.90;0.08;0.04;11.40;"250g container; *US alternative:* low-fat cream cheese";;1
 Vanilla Extract (w/ alcohol) [Native Vanilla];;ml;1;300.00;;;;;;2.22;;;;1
-SweEX (Erythritol + Xylitol 3:2);30.00;g;2;109.60;;100.00;;;;2.56;;"POD ≈ 85%; GI < 7";100.00;1
+SweEX (Erythritol + Xylitol 3:2);30.00;g;2;109.60;;100.00;;;;2.56;;*alternative:* 40g allulose or dextrose;100.00;1
 Whey + Casein protein (grass-fed) [Vilgain];20.00;g;2;384.00;4.60;5.70;5.60;80.00;0.50;0.06;90.40;with stevia;;1
 Skim milk powder 1:10 (SMP) [Vita2You];;g;2;358.00;0.97;50.50;50.50;35.00;1.00;0.51;94.03;;;0
 Salty Stability [Inulin / GMS / CMC / Guar / XG / Salt];10.00;g;2;267.5;3.6;88.4;5.9;0.3;3.5;0.06;;*not-as-good substitute:* 1g guar, 0.3g xanthan, and 0.3g salt;73.80;1
+Beet Root Powder (organic) [Mandoi];2.00;g;2;347.00;1.00;70.00;46.00;14.10;0.10;;;*optional*, for color;;1
 Salt;1.00;g;2;;;;;;100.00;5.90;;;;1
 ;;;;;;;;;;;;;;
 Water, milk, cream, or yogurt to MAX line;;ml;3;;;;;;;;;;;1

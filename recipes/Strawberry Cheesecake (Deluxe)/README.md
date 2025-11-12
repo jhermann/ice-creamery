@@ -3,6 +3,7 @@ description: Recipe for the Ninja Creami Deluxe [24oz]
 excluded_steps:
 - ^$
 excluded_tags:
+- Allulose
 - Vanilla
 tags:
 - Dairy
@@ -64,9 +65,10 @@ Rating: 😋😋🥛🍓🍓
 
 **Dry**
 
-  - _30g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • POD ≈ 85%; GI < 7
+  - _30g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • *alternative:* 40g allulose or dextrose
   - _20g_ [Whey + Casein protein (grass-fed) \[Vilgain\]](/ice-creamery/info/ingredients/#whey-protein){target="_blank"}<sup>↗</sup> • with stevia
   - _10g_ [Salty Stability \[Inulin / GMS / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup> • *not-as-good substitute:* 1g guar, 0.3g xanthan, and 0.3g salt
+  - _2g_ Beet Root Powder (organic) [Mandoi] • *optional*, for color
   - _1g_ Salt
 
 **Fill to MAX**
@@ -92,17 +94,18 @@ Rating: 😋😋🥛🍓🍓
  1. Pour into the tub and *QUICKLY* use an immersion blender on full speed to homogenize everything.
  1. Let blender run until thickeners are properly hydrated, up to 1-2 min. Or blend again after waiting that time.
  1. Add remaining ingredients (to the MAX line) and stir with a spoon.
- 1. Put on the lid, freeze for 24h, then spin as usual. Flatten any humps before that.
+ 1. For better results, let the base age in the fridge (covered, lid on), for a few hours or over night. This helps flavor development and gum hydration, especially with unheated bases.
+ 1. Freeze for 24h with lid on, then spin as usual. Flatten any humps before that.
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
  1. Process with MIX-IN after adding mix-ins evenly. For that, add partial amounts into a hole going down to the bottom, and fold the ice cream over, building pockets of mix-ins.
 
 # NUTRITIONAL & OTHER INFO
 
-- **Nutritional values per 100g/ml:** 100g; 115.4 kcal; fat 5.8g; carbs 11.4g; sugar 3.3g; protein 6.2g; salt 0.3g
-- **Nutritional values per ½ Deluxe Tub:** 340g; 392.4 kcal; fat 19.8g; carbs 38.7g; sugar 11.2g; protein 21.1g; salt 0.9g
-- **Nutritional values total:** 676g; 780.2 kcal; fat 39.4g; carbs 76.9g; sugar 22.2g; protein 42.0g; salt 1.7g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 31.81
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 21.53% • Low-Sugar • Hi-Protein
+- **Nutritional values per 100g/ml:** 100g; 116.1 kcal; fat 5.8g; carbs 11.5g; sugar 3.4g; protein 6.2g; salt 0.3g
+- **Nutritional values per ½ Deluxe Tub:** 340g; 394.7 kcal; fat 19.8g; carbs 39.3g; sugar 11.6g; protein 21.2g; salt 0.9g
+- **Nutritional values total:** 678g; 787.2 kcal; fat 39.4g; carbs 78.3g; sugar 23.1g; protein 42.3g; salt 1.8g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 31.72
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 21.49% • Low-Sugar • Hi-Protein
 - **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 39.3g • 5.8%
-- **Net carbs:** 32.0g • *∝ 5 servings@135g:* 6.4g • *∝ 3 servings@225g:* 10.7g • *energy ratio (low <20%):* 16.4%
+- **Net carbs:** 33.4g • *∝ 5 servings@136g:* 6.7g • *∝ 3 servings@226g:* 11.1g • *energy ratio (low <20%):* 17%
 - **10g 'Salty Stability' is:** 7.3g Inulin • 1.2g Glycerol Monostearate (GMS / E471) • 0.6g Tylose powder (E466, Tylo, CMC) • 0.4g Guar gum (E412) • 0.33g Salt • 0.13g Xanthan gum (E415, XG).
