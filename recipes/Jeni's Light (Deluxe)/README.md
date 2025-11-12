@@ -34,6 +34,12 @@ Energy is reduced from almost 1500kcal to about 850kcal, fat roughly halved, and
 
 Add any flavor to your liking, e.g. 1-2 tsp vanilla extract.
 
+!!! tip "Cold Base Preparation with Instant Starch"
+
+    You can use [E1422](/ice-creamery/info/ingredients/#acetylated-distarch-adipate-e1422) or [E1442](/ice-creamery/info/ingredients/#waxy-maize-starch-e1442) or other modified starches (instant pudding) instead of the corn starch, and 400ml soy milk as the base liquid.
+
+    Make sure you blend the base until all sugars are fully dissolved.
+
 > <img width=220 alt="After Light Ice Cream" src="Jenis-Light_2025-09-21_1.jpg" class="zoomable" />
 > <img width=220 alt="After Mix-in" src="Jenis-Light_2025-09-21_2.jpg" class="zoomable" />
 > <img width=220 alt="Scooped" src="Jenis-Light_2025-09-21_3.jpg" class="zoomable" />
@@ -53,7 +59,7 @@ Add any flavor to your liking, e.g. 1-2 tsp vanilla extract.
 
 **Wet**
 
-  - _350ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup> • *alternative*: use any other preferred milk (~2% fat)
+  - _350ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup> • *alternative*: any other preferred milk (~2% fat)
   - _50g_ [Cream Cheese 23% \[Exquisa\]](/ice-creamery/info/ingredients/#cream-cheese){target="_blank"}<sup>↗</sup> • click the link for UK / US equivalents
   - _15g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • POD = 60%; GI = 5; Density = 1.26 g/ml
 
@@ -78,7 +84,8 @@ Add any flavor to your liking, e.g. 1-2 tsp vanilla extract.
  1. **Add cream cheese and VG**: Remove from heat, add VG, and whisk in the softened cream cheese until fully incorporated.
  1. **Chill**: Cool the mixture quickly (ice bath or fridge) until completely cold — ideally overnight.
  1. Add remaining ingredients (to the MAX line) and stir with a spoon.
- 1. Put on the lid, freeze for 24h, then spin as usual. Flatten any humps before that.
+ 1. For better results, let the base age in the fridge (covered, lid on), for a few hours or over night. This helps flavor development and gum hydration, especially with unheated bases.
+ 1. Freeze for 24h with lid on, then spin as usual. Flatten any humps before that.
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
 
 # NUTRITIONAL & OTHER INFO
