@@ -1,18 +1,19 @@
 Salt & Straw Base (Deluxe);;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 ;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;;
-Nutritional values per 100g/ml;100;g;;228.0;14.0;22.6;18.6;3.1;0.2;;;;;
-Nutritional values per ½ Deluxe Tub;340;g;;775.1;47.6;76.7;63.2;10.5;0.8;;;;;
-Nutritional values total;687;g;;1565.0;96.1;154.9;127.6;21.2;1.6;;;;;
+Nutritional values per 100g/ml;100;g;;228.1;14.0;22.6;18.1;3.1;0.2;;;;;
+Nutritional values per ½ Deluxe Tub;340;g;;775.4;47.6;76.7;61.5;10.5;0.8;;;;;
+Nutritional values total;687;g;;1565.6;96.1;154.9;124.2;21.2;1.6;;;;;
 ;;;;;;;;;;;;;;
-FPDF / PAC (target 20..30);27.00;;;;;;;;;;;;;
+FPDF / PAC (target 20..30);26.73;;;;;;;;;;;;;
 "Protein / Energy Ratio (ok=12%; hi=20%)";5.41%;;;;;;;;;;;;;
 ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);49.4;g;;7.2%;;;;;;;;;;
 ℹ️ Net carbs;149.9;g;;*∝ 5 servings@137g:* 30g;;;*∝ 3 servings@229g:* 50g;;;*energy ratio (low <20%):* 38.3%;;;;
 ;;;;;;;;;;;;;;
-"Salt & Straw's base, scaled to ~600g.
+"Salt & Straw's base, scaled to ~600g, 16% fat and 18.6% sugar.
 
-Example recipe flavored with strawberries (fresh/frozen + freeze-dried).";;;;;;;;;;;;;;
+Example recipe flavored with strawberries (fresh/frozen + freeze-dried).
+The listed macros include those additions, reducing the fat percentage to 14%.";;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
@@ -22,8 +23,8 @@ Example recipe flavored with strawberries (fresh/frozen + freeze-dried).";;;;;;;
 Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment;0Carb[%];Counts?
 Cream 32% [REWE Beste Wahl];275.00;g;1;311.00;32.00;3.20;3.20;2.50;0.13;0.03;6.32;;;1
 Milk 3.5% [Weihenstephan];200.00;g;1;64.00;3.50;4.70;4.70;3.50;0.13;0.05;8.97;;;1
-Light corn syrup (32 DE) [Karo];25.00;g;1;400.00;;100.00;33.00;;0.25;0.61;;"US brand; *alternative:* rice or maple syrup";;1
-Sugar;80.00;g;2;387.00;;100.00;100.00;;;1.00;;;;1
+Light corn syrup (32 DE) [Karo];30.00;g;1;400.00;;100.00;33.00;;0.25;0.61;;"US brand; *alternative:* rice or maple syrup";;1
+Sugar;75.00;g;2;387.00;;100.00;100.00;;;1.00;;;;1
 Skim milk powder 1:10 (SMP) [Vita2You];15.00;g;2;358.00;0.97;50.50;50.50;35.00;1.00;0.51;94.03;;;1
 Salt;0.75;g;2;;;;;;100.00;5.90;;;;1
 Xanthan gum (E415, XG);0.75;g;2;320.00;;78.00;;6.00;1.00;;;1tsp ≈ 2.8g;;1
