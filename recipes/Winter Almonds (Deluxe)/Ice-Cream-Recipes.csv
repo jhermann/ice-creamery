@@ -1,0 +1,46 @@
+Winter Almonds (Deluxe);;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;;
+Nutritional values per 100g/ml;100;g;;143.9;5.8;18.5;10.3;5.4;0.2;;;;;
+Nutritional values per ½ Deluxe Tub;340;g;;489.3;19.6;62.9;35.1;18.4;0.8;;;;;
+Nutritional values total;662;g;;952.8;38.1;122.4;68.2;35.8;1.5;;;;;
+;;;;;;;;;;;;;;
+FPDF / PAC (target 20..30);30.42;;;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";15.03%;;;;;;;;;;;;;
+ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);52.4;g;;7.9%;;;;;;;;;;
+ℹ️ Net carbs;81.3;g;;*∝ 5 servings@132g:* 16.3g;;;*∝ 3 servings@221g:* 27.1g;;;*energy ratio (low <20%):* 34.1%;;;;
+;;;;;;;;;;;;;;
+"Ice cream based on almond butter and Amaretto as the main flavor component, with buttermilk as the main liquid.
+An emulsifier is used to properly integrate the nut butter.
+
+Winter comes with the mix-in: firm ginger bread, almond chunks, dark chocolate shavings, and raisins.
+Without the mix-ins this has about 650 kcal, 4% fat and 7% sugar, the macros below include the mix-ins.
+
+Processed on *Lite Ice Cream*, with scrape-down and a respin.";;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+Rating: 😋 (untested combination of 2 other  recipes);;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+"1. Microwave part of the milk and the almond butter to 70°C.
+ 1. Mix SMP with the emulsifier, and blend it into the hot milk.
+ 1. Add the rest of the ‘wet’ ingredients.";;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment;0Carb[%];Counts?
+Buttermilk 1% [REWE];150.00;ml;0;35.00;0.50;4.00;4.00;3.50;0.15;0.04;8.50;;;1
+Almond butter (creamy) [Seba Garden];40.00;g;0;598.00;52.54;10.11;4.86;21.15;0.01;0.05;;;;1
+Skim milk powder 1:10 (SMP) [Vita2You];15.00;g;0;358.00;0.97;50.50;50.50;35.00;1.00;0.51;94.03;;;1
+Glycerol Monostearate (E471) [Bulk];2.00;g;0;415.00;;;;;;;;*alternative:* lecithin;;1
+Cream Cheese 23% [Exquisa];;g;0;238.00;22.50;3.00;3.00;5.50;0.70;0.03;9.64;;;1
+Buttermilk 1% [REWE];300.00;ml;1;35.00;0.50;4.00;4.00;3.50;0.15;0.04;8.50;;;1
+Amaretto 28 vol%;40.00;ml;1;282.00;;30.00;30.00;;;1.93;;;;1
+Glycerin (E422, VG) [hd-line];;g;1;400.00;;99.00;;;;3.70;;"Sweetness = 60%; GI = 5; Density = 1.26 g/ml";50.00;1
+SweEX (Erythritol + Xylitol 3:2);30.00;g;2;109.60;;100.00;;;;2.56;;*alternative:* 40g allulose or dextrose;100.00;1
+Salty Stability [Inulin / GMS / CMC / Guar / XG / Salt];15.00;g;2;267.5;3.6;88.4;5.9;0.3;3.5;0.06;;*not-as-good substitute:* 1.5g guar, 0.5g xanthan, and 0.5g salt;73.80;1
+;;;;;;;;;;;;;;
+Buttermilk 1% [REWE];;ml;3;35.00;0.50;4.00;4.00;3.50;0.15;0.04;8.50;;;1
+Flavor drops Cookies&Cream (stevia) [Nick’s];≈10;drops;3;;;;;;;;;to taste;;
+;;;;;;;;;;;;;;
+Dark chocolate shavings [Ruf];20.00;g;4;506.00;27.60;53.80;47.50;6.40;0.00;;;pre-freeze if possible [101kcal, 9.5g sugar];;1
+Aachener Printen (herbal) [Lambertz];20.00;g;4;370.00;2.00;78.90;38.50;6.70;0.63;;;firm ginger bread, chopped [74kcal, 7.7g sugar];;1
+Almond slivers [naturix24];15.00;g;4;589.00;54.00;5.00;4.00;22.00;;;;chopped [88kcal, 0.6g sugar];;1
+Sultanas (organic) [Biojoy];15.00;g;4;298.00;0.60;68.00;67.00;2.50;0.02;0.67;;chopped [45kcal, 10.1g sugar];;1
