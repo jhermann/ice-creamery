@@ -2,8 +2,8 @@
 attrdict3
 mkdocs-material[imaging]
 mkdocs-exporter
-#mkdocs-git-revision-date-localized-plugin
-mkdocs-document-dates
+mkdocs-git-revision-date-localized-plugin
+#mkdocs-document-dates
 mkdocs-link-embeds-plugin
 mkdocs-print-site-plugin
 mkdocs-macros-plugin
