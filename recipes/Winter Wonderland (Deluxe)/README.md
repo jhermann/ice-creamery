@@ -72,7 +72,7 @@ Rating: 😋😋⛄🍫🍫 (dense and fudgy, with chewy mix-ins)
 
 **Mix-ins**
 
-  - _30g_ Aachener Printen (herbal) [Lambertz] • quite hard ginger bread, chopped [111kcal, 11.6g sugar]
+  - _30g_ Aachener Printen (herbal) [Lambertz] • firm ginger bread, chopped [111kcal, 11.6g sugar]
   - _10g_ Almond slivers [naturix24] • chopped [59kcal, 0.4g sugar]
   - _7g_ Candied Orange Peel • chopped [22kcal, 5.3g sugar]
   - _13g_ Sultanas (organic) [Biojoy] • chopped [39kcal, 8.7g sugar]
