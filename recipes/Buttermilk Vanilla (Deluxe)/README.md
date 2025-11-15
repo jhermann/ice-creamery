@@ -34,7 +34,7 @@ Process on *Light Ice Cream*, with scrape-down, and a mix-in or respin run if ne
 > <img width=220 alt="After Mix-in" src="BM-Vanilla_2025-11-15_2.jpg" class="zoomable" />
 > <img width=220 alt="Scooped" src="BM-Vanilla_2025-11-15_3.jpg" class="zoomable" />
 
-Rating: 😋🥛🥛🍦🍫 (processed on Light Ice Cream, respin, and a dark chocolate mix-in)
+Rating: 😋🥛🥛🍦🍫 (processed on Light Ice Cream, and a dark chocolate mix-in)
 
 # INGREDIENTS
 
