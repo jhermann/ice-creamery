@@ -8,6 +8,7 @@ excluded_tags:
 tags:
 - Dairy
 - Erythritol
+- Favorite
 - Hi-Protein
 - Polysaccharide Gum
 - Scoopable

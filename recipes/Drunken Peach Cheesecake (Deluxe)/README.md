@@ -12,6 +12,7 @@ tags:
 - Alcohol
 - Dairy
 - Erythritol
+- Favorite
 - Fruit
 - Gum-Free
 - Scoopable
