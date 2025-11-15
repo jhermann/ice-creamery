@@ -30,11 +30,11 @@ Change the vanilla flavoring to what you have, e.g. vanilla paste or essence. Ju
 
 Process on *Light Ice Cream*, with scrape-down, and a mix-in or respin run if needed.<br clear=all />
 
-> <img width=220 alt="After Light Ice Cream" src="_1.jpg" class="zoomable" />
-> <img width=220 alt="After Mix-in" src="_2.jpg" class="zoomable" />
-> <img width=220 alt="Scooped" src="_3.jpg" class="zoomable" />
+> <img width=220 alt="After Light Ice Cream" src="BM-Vanilla_2025-11-15_1.jpg" class="zoomable" />
+> <img width=220 alt="After Mix-in" src="BM-Vanilla_2025-11-15_2.jpg" class="zoomable" />
+> <img width=220 alt="Scooped" src="BM-Vanilla_2025-11-15_3.jpg" class="zoomable" />
 
-Rating: 😋🥛🍦 (untested)
+Rating: 😋🥛🥛🍦🍫 (processed on Light Ice Cream, respin, and a dark chocolate mix-in)
 
 # INGREDIENTS
 
