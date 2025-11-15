@@ -28,7 +28,7 @@ tags:
 Ice cream based on almond butter and Amaretto as the main flavor component, with buttermilk as the main liquid.
 An emulsifier is used to properly integrate the nut butter.
 
-Winter comes with the mix-in: firm ginger bread, almond chunks, dark chocolate shavings, and raisins.
+Winter comes with the mix-ins: firm ginger bread, almond chunks, dark chocolate shavings, and raisins.
 Without the mix-ins this has about 650 kcal, 4% fat and 7% sugar, the macros below include the mix-ins.
 
 Processed on *Lite Ice Cream*, with scrape-down and a respin.
@@ -44,7 +44,7 @@ Rating: 😋 (untested combination of 2 other  recipes)
 
 **Prep**
 
-  - _150ml_ Buttermilk 1% [REWE]
+  - _175ml_ Buttermilk 1% [REWE]
   - _40g_ [Almond butter (creamy) \[Seba Garden\]](/ice-creamery/info/ingredients/#almond-milk-butter){target="_blank"}<sup>↗</sup>
   - _15g_ [Skim milk powder 1:10 (SMP) \[Vita2You\]](/ice-creamery/info/ingredients/#skim-milk-powder-smp){target="_blank"}<sup>↗</sup>
   - _2g_ [Glycerol Monostearate (E471) \[Bulk\]](/ice-creamery/info/ingredients/#glycerol-monostearate-gms-e471){target="_blank"}<sup>↗</sup> • *alternative:* lecithin
@@ -56,7 +56,7 @@ Rating: 😋 (untested combination of 2 other  recipes)
 
 **Dry**
 
-  - _30g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • *alternative:* 40g allulose or dextrose
+  - _33g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • *alternative:* 44g allulose or dextrose
   - _15g_ [Salty Stability \[Inulin / GMS / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup> • *not-as-good substitute:* 1.5g guar, 0.5g xanthan, and 0.5g salt
 
 **Top off (Stir in)**
@@ -86,11 +86,11 @@ Rating: 😋 (untested combination of 2 other  recipes)
 
 # NUTRITIONAL & OTHER INFO
 
-- **Nutritional values per 100g/ml:** 100g; 143.9 kcal; fat 5.8g; carbs 18.5g; sugar 10.3g; protein 5.4g; salt 0.2g
-- **Nutritional values per ½ Deluxe Tub:** 340g; 489.3 kcal; fat 19.6g; carbs 62.9g; sugar 35.1g; protein 18.4g; salt 0.8g
-- **Nutritional values total:** 662g; 952.8 kcal; fat 38.1g; carbs 122.4g; sugar 68.2g; protein 35.8g; salt 1.5g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.42
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 15.03%
-- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 52.4g • 7.9%
-- **Net carbs:** 81.3g • *∝ 5 servings@132g:* 16.3g • *∝ 3 servings@221g:* 27.1g • *energy ratio (low <20%):* 34.1%
+- **Nutritional values per 100g/ml:** 100g; 139.8 kcal; fat 5.5g; carbs 18.3g; sugar 10.0g; protein 5.3g; salt 0.2g
+- **Nutritional values per ½ Deluxe Tub:** 340g; 475.4 kcal; fat 18.8g; carbs 62.3g; sugar 34.1g; protein 18.1g; salt 0.7g
+- **Nutritional values total:** 690g; 964.8 kcal; fat 38.2g; carbs 126.4g; sugar 69.2g; protein 36.7g; salt 1.5g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.47
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 15.21%
+- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 54.5g • 7.9%
+- **Net carbs:** 82.3g • *∝ 5 servings@138g:* 16.5g • *∝ 3 servings@230g:* 27.4g • *energy ratio (low <20%):* 34.1%
 - **15g 'Salty Stability' is:** 11.0g Inulin • 1.8g Glycerol Monostearate (GMS / E471) • 0.9g Tylose powder (E466, Tylo, CMC) • 0.6g Guar gum (E412) • 0.5g Salt • 0.2g Xanthan gum (E415, XG).
