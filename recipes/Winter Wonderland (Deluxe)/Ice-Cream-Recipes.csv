@@ -1,14 +1,14 @@
 Winter Wonderland (Deluxe);;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 ;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;;
-Nutritional values per 100g/ml;100;g;;143.2;5.0;23.4;6.3;6.0;0.2;;;;;
-Nutritional values per ½ Deluxe Tub;340;g;;486.7;16.9;79.6;21.3;20.3;0.6;;;;;
-Nutritional values total;676;g;;967.8;33.6;158.3;42.3;40.5;1.1;;;;;
+Nutritional values per 100g/ml;100;g;;132.6;5.1;20.8;4.8;6.0;0.1;;;;;
+Nutritional values per ½ Deluxe Tub;340;g;;450.9;17.4;70.9;16.2;20.2;0.5;;;;;
+Nutritional values total;646;g;;856.8;33.0;134.6;30.7;38.4;0.9;;;;;
 ;;;;;;;;;;;;;;
-FPDF / PAC (target 20..30);30.16;;;;;;;;;;;;;
-"Protein / Energy Ratio (ok=12%; hi=20%)";16.72%;;;;;;;;;;;;;
-ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);31.9;g;;4.7%;;;;;;;;;;
-ℹ️ Net carbs;71.7;g;;*∝ 5 servings@135g:* 14.3g;;;*∝ 3 servings@225g:* 23.9g;;;*energy ratio (low <20%):* 29.7%;;;;
+FPDF / PAC (target 20..30);31.39;;;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";17.95%;;;;;;Low-Sugar;;;;;;;
+ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);31.9;g;;4.9%;;;;;;;;;;
+ℹ️ Net carbs;48.1;g;;*∝ 5 servings@129g:* 9.6g;;;*∝ 3 servings@215g:* 16g;;;*energy ratio (low <20%):* 22.4%;;;;
 ;;;;;;;;;;;;;;
 "*Winter Wonderland* is a festive ice cream capturing the essence of the holidays in every bite. Cocoa and ginger bread blend with a hint of
 Amaretto, cinnamon, and vanilla, while almond slivers, candied orange peel, and sultanas add a joyful splash of texture and flavor.
@@ -16,9 +16,9 @@ Amaretto, cinnamon, and vanilla, while almond slivers, candied orange peel, and 
 With reduced sugar and protein-enrichment for balance, this seasonal treat offers all the comfort of wintertime sweets without the guilt.
 Mix-ins are included in the macros.";;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
-"Spin on “Light Ice Cream”, scrape down, and re-mix if needed.
+"Spin on “Light Ice Cream”, scrape down, the add mix-ins.
 
-Rating: 😋 (untested)";;;;;;;;;;;;;;
+Rating: 😋😋⛄🍫🍫 (dense and fudgy, with chewy mix-ins)";;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 1. Bloom the cocoa powder with some of the milk — microwave the milk for ≈60 seconds at 800W, then stir in the cocoa until you get a smooth paste.;;;;;;;;;;;;;;
@@ -41,7 +41,7 @@ Cream 32% [REWE Beste Wahl];50.00;ml;3;311.00;32.00;3.20;3.20;2.50;0.13;0.03;6.3
 Flavor drops Vanilla (sucralose) [IronMaxx];≈5;drops;3;;;;;;;;;to taste;;
 ;;;;;;;;;;;;;;
 Aachener Printen (chocolate) [Lambertz];;g;4;388.00;8.30;69.40;34.40;6.90;0.80;;;quite hard ginger bread, chopped [0kcal, 0g sugar];;1
-Aachener Printen (herbal) [Lambertz];30.00;g;4;370.00;2.00;78.90;38.50;6.70;0.63;;;quite hard ginger bread, chopped [111kcal, 11.6g sugar];;1
+Aachener Printen (herbal) [Lambertz];30.00;g;4;370.00;2.00;78.90;38.50;6.70;0.63;;;quite hard ginger bread, chopped [111kcal, 11.6g sugar];;
 Almond slivers [naturix24];10.00;g;4;589.00;54.00;5.00;4.00;22.00;;;;chopped [59kcal, 0.4g sugar];;1
 Candied Lemon Peel;;g;4;321.00;0.30;78.00;77.00;0.10;0.50;0.10;;chopped [0kcal, 0g sugar];;1
 Candied Orange Peel;7.00;g;4;314.00;0.50;76.00;76.00;0.50;0.63;0.10;;chopped [22kcal, 5.3g sugar];;1

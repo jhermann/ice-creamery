@@ -14,6 +14,7 @@ replace:
 tags:
 - Emulsifier
 - Erythritol
+- Low-Sugar
 - Polysaccharide Gum
 - Scoopable
 - Seasonal
@@ -31,13 +32,15 @@ Amaretto, cinnamon, and vanilla, while almond slivers, candied orange peel, and 
 With reduced sugar and protein-enrichment for balance, this seasonal treat offers all the comfort of wintertime sweets without the guilt.
 Mix-ins are included in the macros.
 
-Spin on “Light Ice Cream”, scrape down, and re-mix if needed.
+Spin on “Light Ice Cream”, scrape down, then add mix-ins.
 
-> <img width=220 alt="After Sorbet" src="_1.jpg" class="zoomable" />
-> <img width=220 alt="After Mix-in" src="_2.jpg" class="zoomable" />
-> <img width=220 alt="Scooped" src="_3.jpg" class="zoomable" />
+> <img width=220 alt="After Light Ice Cream" src="Winter-Wonderland_2025-11-14_1.jpg" class="zoomable" />
+> <img width=220 alt="After Mix-in" src="Winter-Wonderland_2025-11-14_2.jpg" class="zoomable" />
+> <img width=220 alt="Scooped" src="Winter-Wonderland_2025-11-14_3.jpg" class="zoomable" />
 
-Rating: 😋 (untested)
+Rating: 😋😋⛄🍫🍫 (dense and fudgy, with chewy mix-ins)
+
+> <img width=480 alt="Served" src="Winter-Wonderland_2025-11-14_4.jpg" class="zoomable" />
 
 # INGREDIENTS
 
@@ -89,11 +92,11 @@ Rating: 😋 (untested)
 
 # NUTRITIONAL & OTHER INFO
 
-- **Nutritional values per 100g/ml:** 100g; 143.2 kcal; fat 5.0g; carbs 23.4g; sugar 6.3g; protein 6.0g; salt 0.2g
-- **Nutritional values per ½ Deluxe Tub:** 340g; 486.7 kcal; fat 16.9g; carbs 79.6g; sugar 21.3g; protein 20.3g; salt 0.6g
-- **Nutritional values total:** 676g; 967.8 kcal; fat 33.6g; carbs 158.3g; sugar 42.3g; protein 40.5g; salt 1.1g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.16
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 16.72%
-- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 31.9g • 4.7%
-- **Net carbs:** 71.7g • *∝ 5 servings@135g:* 14.3g • *∝ 3 servings@225g:* 23.9g • *energy ratio (low <20%):* 29.7%
+- **Nutritional values per 100g/ml:** 100g; 132.6 kcal; fat 5.1g; carbs 20.8g; sugar 4.8g; protein 6.0g; salt 0.1g
+- **Nutritional values per ½ Deluxe Tub:** 340g; 450.9 kcal; fat 17.4g; carbs 70.9g; sugar 16.2g; protein 20.2g; salt 0.5g
+- **Nutritional values total:** 646g; 856.8 kcal; fat 33.0g; carbs 134.6g; sugar 30.7g; protein 38.4g; salt 0.9g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 31.39
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 17.95% • Low-Sugar
+- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 31.9g • 4.9%
+- **Net carbs:** 48.1g • *∝ 5 servings@129g:* 9.6g • *∝ 3 servings@215g:* 16g • *energy ratio (low <20%):* 22.4%
 - **10g 'Salty Stability' is:** 7.3g Inulin • 1.2g Glycerol Monostearate (GMS / E471) • 0.6g Tylose powder (E466, Tylo, CMC) • 0.4g Guar gum (E412) • 0.33g Salt • 0.13g Xanthan gum (E415, XG).
