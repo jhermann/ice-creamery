@@ -23,6 +23,7 @@ tags:
 - Xylitol
 ---
 # Vegan Lime Light (Deluxe)
+<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="logo-Vegan-Lime-Light.png" />
 
 “Vegan Lime Light” is a refreshing, dairy-free ice cream that delivers
 the perfect blend of creamy tofu, zesty lime, and silky soy milk in every bite.
@@ -32,11 +33,12 @@ A non-vegan variation with similar macros is replacing tofu, part of the soy mil
 
 Spin on “Light Ice Cream”, scrape down, and re-mix.
 
-> <img width=220 alt="After Sorbet" src="_1.jpg" class="zoomable" />
-> <img width=220 alt="After Mix-in" src="_2.jpg" class="zoomable" />
-> <img width=220 alt="Scooped" src="_3.jpg" class="zoomable" />
+> <img width=164 alt="After Sorbet" src="Lime-Lite_2025-11-15_1.jpg" class="zoomable" />
+> <img width=164 alt="After Respin" src="Lime-Lite_2025-11-15_2.jpg" class="zoomable" />
+> <img width=164 alt="After Mix-in" src="Lime-Lite_2025-11-15_3.jpg" class="zoomable" />
+> <img width=164 alt="Scooped" src="Lime-Lite_2025-11-15_4.jpg" class="zoomable" />
 
-Rating: 😋🌿🍋‍🟩  (untested)
+Rating: 😋😋🐮🍋‍🟩🍋‍🟩  (chose the non-vegan option, used Sorbet, respin, and mix-in with cashews and white chocolate)
 
 # INGREDIENTS
 
@@ -65,14 +67,15 @@ Rating: 😋🌿🍋‍🟩  (untested)
 
 # DIRECTIONS
 
- 1. Zest the lime(s), rub the zest into the sweetener, fill up with the juice and lemon liqueur.
- 1. Let it rest in the fridge for a few hours.
  1. Soften the tofu in the microwave with part of the milk.
  1. Blend together with the stabilizer mix until creamy and smooth.
  1. Add the rest of the milk, and the prepared zest.
  1. Use your blender on full speed to homogenize everything.
+ 1. Zest the lime(s), rub the zest into the sweetener, fill up with the juice and lemon liqueur.
+ 1. Let it rest in the fridge for a few hours.
  1. Add remaining ingredients (to the MAX line) and stir with a spoon.
- 1. Put on the lid, freeze for 24h, then spin as usual. Flatten any humps before that.
+ 1. For better results, let the base age in the fridge (covered, lid on), for a few hours or over night. This helps flavor development and gum hydration, especially with unheated bases.
+ 1. Freeze for 24h with lid on, then spin as usual. Flatten any humps before that.
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
 
 # NUTRITIONAL & OTHER INFO
