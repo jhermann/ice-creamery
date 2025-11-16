@@ -24,6 +24,7 @@ tags:
 - Xylitol
 ---
 # Rum Raisin Coconut (Deluxe)
+<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="logo-rum-raisin-coconut.png" />
 
 This rum raisin coconut ice cream combines the deep flavor
 of rum-soaked raisins with the smooth richness of coconut milk.
