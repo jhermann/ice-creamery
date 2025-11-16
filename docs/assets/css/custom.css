@@ -5,6 +5,12 @@ header.md-header, nav.md-tabs {
   background-blend-mode: overlay;
 }
 
+@media(min-width: 600px) {
+  .md-path {
+    display: none;
+  }
+}
+
 img.zoomable {
   user-drag: none;
   cursor: zoom-in;
