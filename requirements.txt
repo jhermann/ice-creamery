@@ -5,6 +5,7 @@ mkdocs-exporter
 mkdocs-git-revision-date-localized-plugin
 #mkdocs-document-dates
 mkdocs-link-embeds-plugin
+mkdocs-toggle-sidebar-plugin
 mkdocs-print-site-plugin
 mkdocs-macros-plugin
 mkdocs-exclude
