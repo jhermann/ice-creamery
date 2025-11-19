@@ -6,6 +6,12 @@ excluded_steps:
 - Process with RE-SPIN
 excluded_tags:
 - Vanilla
+remove:
+- 1. For better results, let the base age in the fridge (covered, lid on), for a few
+  hours or over night. This helps flavor development and gum hydration, especially
+  with unheated bases.
+- 1. Freeze for 24h with lid on, then spin as usual. Flatten any humps before that.
+- 1. Process with RE-SPIN mode when not creamy enough after the first spin.
 tags:
 - Emulsifier
 - Polysaccharide Gum
@@ -26,6 +32,10 @@ When done, store the powder in an air-tight container with enough volume.
 
 <img style="float: left; margin-right: 1.5em;" width=240 alt="Container with blended mix" src="Salty-Stabilizer_2025-07-14.jpg" class="zoomable" />
 
+To get an even mix, progressively add the inulin, i.e. start with only 30g of inulin,
+mix with all other ingredients,
+then add more and more inulin while mixing, until you reach the target weight.
+
 > **3 Ingredient Replacement**<br />In a pinch, you can replace one 15g dose of the mix by 1.5g guar, 0.5g xanthan, and 0.5g salt — scale other amounts accordingly.
 > Do not expect the exact same results as from the full blend.
 >
@@ -42,9 +52,9 @@ Use 15g of the mix for a Creami Deluxe tub (24oz, yields 10),
 and 10g for the regular size (16oz, yields 15).
 
 For optimal results regarding texture and ice crystal prevention, heat suitable parts of the liquids
-in your recipe (e.g. the milk, at least 200ml or so) to somewhere between 50°C and 80°C, and blend the mix plus other dry
-ingredients into the hot liquid. This improves hydration of gums, dissolves your sugars, and activates
-the emulsifier.
+in your recipe (e.g. the milk, at least 200ml or so) to somewhere between 50°C and 80°C, and
+blend the mix plus other dry ingredients into the hot liquid. This improves hydration of gums,
+dissolves your sugars, and activates the emulsifier.
 
 The salt is added for convenience with final recipes,
 and for a FPDF boost. Inulin bulks up the mix to be compatible with normal kitchen scales.
@@ -66,6 +76,9 @@ and for a FPDF boost. Inulin bulks up the mix to be compatible with normal kitch
 
  1. Weigh and mix dry ingredients, easiest by adding to a jar with a secure lid and shaking vigorously.
  1. Store in an air-tight container with enough volume.
+ 
+ 
+ 
 
 # NUTRITIONAL & OTHER INFO
 
