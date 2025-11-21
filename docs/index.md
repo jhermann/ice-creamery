@@ -48,7 +48,8 @@ Open [the link][1] in your browser, and enter questions like this into the chat 
 
 You can also ask for ingredients, like in this case:
 
-    I have coconut milk, xanthan, and allulose. List some suitable recipes, and what I need in addition. 
+    I have coconut milk, xanthan, and allulose. List some suitable recipes,
+    and what I need in addition.
 
 So if you're lost in the collection of more than 100 recipes and neither the search nor [tags](tags/) help,
 you can get pretty specific and ask for a short list according to *your* requirements.
