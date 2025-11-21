@@ -50,8 +50,8 @@ You can also ask for ingredients, like in this case:
 
     I have coconut milk, xanthan, and allulose. List some suitable recipes, and what I need in addition. 
 
-So if you're lost in the list of more than 100 recipes and neither teh search nor [tags](tags/) help,
-you can get pretty secific and get a short list according to your requirments.
+So if you're lost in the collection of more than 100 recipes and neither the search nor [tags](tags/) help,
+you can get pretty specific and ask for a short list according to *your* requirements.
 
 [1]: https://notebooklm.google.com/notebook/4849972b-b449-40b9-bc93-5a0660ef518d
 
