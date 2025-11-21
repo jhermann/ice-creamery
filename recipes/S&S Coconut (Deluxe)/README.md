@@ -22,12 +22,12 @@ tags:
 - Xylitol
 ---
 # S&S Coconut (Deluxe)
+<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="logo-s+s-coconut.png" />
 
 Adapts the [S&S Light (Deluxe)](/ice-creamery/S/S%26S%20Light%20%28Deluxe%29/) recipe by
 replacing the dairy cream with reconstituted coconut cream.
 
 Process on *Light Ice Cream*, scrape-down, and then a mix-in or respin as needed.
-
 > <img width=220 alt="After Sorbet" src="_1.jpg" class="zoomable" />
 > <img width=220 alt="After Mix-in" src="_2.jpg" class="zoomable" />
 > <img width=220 alt="Scooped" src="_3.jpg" class="zoomable" />
