@@ -37,6 +37,24 @@ That section also contains a FAQ page and a glossary, in case some abbreviations
 
     If your browser does not support the audio element, try to [download](https://github.com/jhermann/ice-creamery/raw/refs/heads/main/assets/audio/interview-style-tour-of-the-site-96k.mp3) the MP3 file.
 
+## How to use the AI chat?
+
+This recipe collection is available via a [read-only link][1] to
+a [Google NotebookLM](https://notebooklm.google/) workspace.
+
+Open [the link][1] in your browser, and enter questions like this into the chat prompt:
+
+    list recipes with less than 5g net carbs per 100g
+
+You can also ask for ingredients, like in this case:
+
+    I have coconut milk, xanthan, and allulose. List some suitable recipes, and what I need in addition. 
+
+So if you're lost in the list of more than 100 recipes and neither teh search nor [tags](tags/) help,
+you can get pretty secific and get a short list according to your requirments.
+
+[1]: https://notebooklm.google.com/notebook/4849972b-b449-40b9-bc93-5a0660ef518d
+
 ## How It's Made?
 This website is based on a collection of calculated recipes stored in a
 [GitHub repository](https://github.com/jhermann/ice-creamery#readme).
