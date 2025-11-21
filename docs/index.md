@@ -37,7 +37,7 @@ That section also contains a FAQ page and a glossary, in case some abbreviations
 
     If your browser does not support the audio element, try to [download](https://github.com/jhermann/ice-creamery/raw/refs/heads/main/assets/audio/interview-style-tour-of-the-site-96k.mp3) the MP3 file.
 
-## How to use the AI chat?
+## How to Use the AI Chat?
 
 This recipe collection is available via a [read-only link][1] to
 a [Google NotebookLM](https://notebooklm.google/) workspace.
