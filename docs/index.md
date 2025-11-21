@@ -53,6 +53,10 @@ You can also ask for ingredients, like in this case:
 So if you're lost in the collection of more than 100 recipes and neither the search nor [tags](tags/) help,
 you can get pretty specific and ask for a short list according to *your* requirements.
 
+And if you have a classic Creami model or the Swirl, try this:
+
+> <img width=720 alt="AI chat" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/assets/ai-chat-scale-2-thirds.png" />
+
 [1]: https://notebooklm.google.com/notebook/4849972b-b449-40b9-bc93-5a0660ef518d
 
 ## How It's Made?
