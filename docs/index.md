@@ -51,6 +51,11 @@ You can also ask for ingredients, like in this case:
     I have coconut milk, xanthan, and allulose. List some suitable recipes,
     and what I need in addition.
 
+To add links to the recipes in the result, ask like this:
+
+    list all recipes above a total of 1000kcal,
+    and use their canonical url to create links for the names
+
 So if you're lost in the collection of more than 100 recipes and neither the search nor [tags](tags/) help,
 you can get pretty specific and ask for a short list according to *your* requirements.
 
