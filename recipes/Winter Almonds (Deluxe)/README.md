@@ -10,7 +10,8 @@ excluded_tags:
 remove:
 - ' (to the MAX line)'
 replace:
-- Fill to MAX=>Top off (Stir in)
+- Fill to MAX=>Adjust sweetness
+- "Mix-ins=>Mix-ins (choose option 1\uFE0F\u20E3 or 2\uFE0F\u20E3)"
 tags:
 - Dairy
 - Draft
@@ -32,7 +33,15 @@ An emulsifier is used to properly integrate the nut butter.
 Winter comes with the mix-ins: firm ginger bread, almond chunks, dark chocolate shavings, and raisins.
 Without the mix-ins this has about 650 kcal, 4% fat and 7% sugar, the macros below include the mix-ins.
 
-Processed on *Lite Ice Cream*, with scrape-down and a respin.
+!!! tip "Soaked Raisins Variant (option 2️⃣)"
+
+    Soak 40g chopped raisins in 45g rum (43 vol%) a day before you make the base,
+    then drain them into the base *on a scale* (should be ~26g), and leave out the Amaretto.
+
+    The macros improve a bit across the board, except a 11% drop in protein.
+
+Process on *Lite Ice Cream*, with scrape-down and finally the mix-in run. Put back into freezer to get to the desired consistency.
+
 > <img width=220 alt="After Sorbet" src="_1.jpg" class="zoomable" />
 > <img width=220 alt="After Mix-in" src="_2.jpg" class="zoomable" />
 > <img width=220 alt="Scooped" src="_3.jpg" class="zoomable" />
@@ -47,34 +56,36 @@ Rating: 😋 (untested combination of 2 other  recipes)
 
   - _175ml_ Buttermilk 1% [REWE]
   - _40g_ [Almond butter (creamy) \[Seba Garden\]](/ice-creamery/info/ingredients/#almond-milk-butter){target="_blank"}<sup>↗</sup>
+  - _33g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • *alternative:* 44g allulose or dextrose
   - _15g_ [Skim milk powder 1:10 (SMP) \[Vita2You\]](/ice-creamery/info/ingredients/#skim-milk-powder-smp){target="_blank"}<sup>↗</sup>
   - _2g_ [Glycerol Monostearate (E471) \[Bulk\]](/ice-creamery/info/ingredients/#glycerol-monostearate-gms-e471){target="_blank"}<sup>↗</sup> • *alternative:* lecithin
 
 **Wet**
 
   - _300ml_ Buttermilk 1% [REWE]
-  - _40ml_ [Amaretto 28 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup>
+  - _40ml_ [Amaretto 28 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup> • *with option 2️⃣:* replace with 26g surplus rum
 
 **Dry**
 
-  - _33g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • *alternative:* 44g allulose or dextrose
   - _15g_ [Salty Stability \[Inulin / GMS / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup> • *not-as-good substitute:* 1.5g guar, 0.5g xanthan, and 0.5g salt
 
-**Top off (Stir in)**
+**Adjust sweetness**
 
   - _≈10 drops_ Flavor drops Cookies&Cream (stevia) [Nick’s] • to taste
 
-**Mix-ins**
+**Mix-ins (choose option 1️⃣ or 2️⃣)**
 
-  - _20g_ [Dark chocolate shavings \[Ruf\]](/ice-creamery/info/ingredients/#chocolate-shavings){target="_blank"}<sup>↗</sup> • pre-freeze if possible [101kcal, 9.5g sugar]
-  - _20g_ Aachener Printen (herbal) [Lambertz] • firm ginger bread, chopped [74kcal, 7.7g sugar]
-  - _15g_ Almond slivers [naturix24] • chopped [88kcal, 0.6g sugar]
-  - _15g_ Sultanas (organic) [Biojoy] • chopped [45kcal, 10.1g sugar]
+  - _20g_ [1️⃣ Dark chocolate shavings \[Ruf\]](/ice-creamery/info/ingredients/#chocolate-shavings){target="_blank"}<sup>↗</sup> • pre-freeze if possible [101kcal, 9.5g sugar]
+  - _20g_ 1️⃣ Aachener Printen (herbal) [Lambertz] • firm ginger bread, chopped [74kcal, 7.7g sugar]
+  - _15g_ 1️⃣ Almond slivers [naturix24] • chopped [88kcal, 0.6g sugar]
+  - _15g_ 1️⃣ Sultanas (organic) [Biojoy] • chopped [45kcal, 10.1g sugar]
+  - _40g_ 2️⃣ Sultanas (organic) [Biojoy] • chopped, soaked in rum [119kcal, 27g sugar]
+  - _45g_ [2️⃣ Jamaica Rum 43 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup> • drain raisins and add surplus to base
 
 # DIRECTIONS
 
- 1. Microwave part of the milk and the almond butter to 70°C.
- 1. Mix SMP with the emulsifier, and blend it into the hot milk.
+ 1. Microwave part of the milk and the almond butter to about 75°C (~2min at 800W).
+ 1. Mix the dry ‘prep’ ingredients, and blend or whisk them into the hot milk.
  1. Add the rest of the ‘wet’ ingredients.
  1. Weigh and mix dry ingredients, easiest by adding to a jar with a secure lid and shaking vigorously.
  1. Pour into the tub and *QUICKLY* use an immersion blender on full speed to homogenize everything.
