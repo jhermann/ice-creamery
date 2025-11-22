@@ -38,7 +38,7 @@ from collections import defaultdict
 
 import yaml
 from attrdict import AttrDict
-
+from requests.utils import requote_uri
 
 CSV_FILE = 'Ice-Cream-Recipes.csv'
 MD_FILE = 'recipe-{file_title}.md'
@@ -141,7 +141,7 @@ LOGO_IMG = '<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" 
 MILK_HINT = ('Soy milk 1.6%', '*alternative*: any other preferred milk (~2% fat)')
 
 
-def add_default_tags(md_text, docmeta):
+def add_default_tags(md_text, docmeta, title=''):
     """Insert YAML metadata into generated markdown text."""
     md_text_words = set(re.split(r'[^-A-Za-z]+', md_text))
     md_text_words_lc = set(x.lower() for x in md_text_words)
@@ -168,6 +168,8 @@ def add_default_tags(md_text, docmeta):
         if word in md_text_words:
             docmeta['tags'].append(tag)
     if docmeta:
+        if title:
+            docmeta['canonical_url'] = requote_uri(f'https://jhermann.github.io/ice-creamery/{title[0]}/{title}/')
         if 'excluded_tags' in docmeta:
             regex = re.compile(f"({')|('.join(docmeta['excluded_tags']).lower()})", flags=re.IGNORECASE)
             docmeta['tags'] = {x for x in docmeta['tags'] if not regex.search(x)}
@@ -588,7 +590,7 @@ def main():
     lines = [x for x in lines if x is not None]
     md_text = '\n'.join(lines)
     if not is_topping:
-        md_text = add_default_tags(md_text, docmeta)
+        md_text = add_default_tags(md_text, docmeta, title)
 
     # Create the Markdown file
     md_file = markdown_file(title, is_topping)
@@ -636,7 +638,7 @@ def main():
                     del md_text[0:idx+1]
                     break
         md_text = '\n'.join(md_text).strip() + '\n'
-        md_text = add_default_tags(md_text, docmeta)
+        md_text = add_default_tags(md_text, docmeta, title)
         print(f'Updating tags only: {", ".join(sorted(docmeta["tags"]))}')
 
     snippet_re = '|'.join([re.escape(x) for x in SNIPPETS.keys()])
