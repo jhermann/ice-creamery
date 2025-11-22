@@ -1,4 +1,5 @@
 ---
+canonical_url: https://jhermann.github.io/ice-creamery/D/Dulce%20de%20Leche%20%E2%80%A2%20Vegan%20(Deluxe)/
 description: Recipe for the Ninja Creami Deluxe [24oz]
 excluded_steps:
 - ingredients to empty Creami tub.

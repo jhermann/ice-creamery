@@ -1,4 +1,5 @@
 ---
+canonical_url: https://jhermann.github.io/ice-creamery/S/Salty%20Stability/
 description: Unsweetened pre-mixed stabilizer for Ninja Creami recipes.
 excluded_steps:
 - .+

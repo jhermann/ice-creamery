@@ -1,4 +1,5 @@
 ---
+canonical_url: https://jhermann.github.io/ice-creamery/D/Datanacoco%20(Deluxe)/
 description: Recipe for the Ninja Creami Deluxe [24oz]
 excluded_steps:
 - ingredients to empty Creami tub
@@ -6,9 +7,9 @@ excluded_steps:
 excluded_tags:
 - Vanilla
 tags:
-- Experimental
 - Emulsifier
 - Erythritol
+- Experimental
 - Fruit
 - Polysaccharide Gum
 - Scoopable

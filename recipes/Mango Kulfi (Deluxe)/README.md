@@ -1,4 +1,5 @@
 ---
+canonical_url: https://jhermann.github.io/ice-creamery/M/Mango%20Kulfi%20(Deluxe)/
 description: Recipe for the Ninja Creami Deluxe [24oz]
 excluded_steps:
 - hydrating in hot water

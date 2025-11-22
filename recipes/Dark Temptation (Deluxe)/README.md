@@ -1,4 +1,5 @@
 ---
+canonical_url: https://jhermann.github.io/ice-creamery/D/Dark%20Temptation%20(Deluxe)/
 description: Recipe for the Ninja Creami Deluxe [24oz]
 excluded_steps:
 - hydrating in hot water
@@ -7,9 +8,9 @@ excluded_tags:
 - Vanilla
 tags:
 - Alcohol
-- Experimental
 - Emulsifier
 - Erythritol
+- Experimental
 - Low-Sugar
 - Polysaccharide Gum
 - Stevia

@@ -1,4 +1,5 @@
 ---
+canonical_url: https://jhermann.github.io/ice-creamery/P/Pomegranate%20Light%20(Deluxe)/
 description: Recipe for the Ninja Creami Deluxe [24oz]
 excluded_steps:
 - ingredients to empty Creami tub

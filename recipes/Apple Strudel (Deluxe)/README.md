@@ -1,4 +1,5 @@
 ---
+canonical_url: https://jhermann.github.io/ice-creamery/A/Apple%20Strudel%20(Deluxe)/
 description: Recipe for the Ninja Creami Deluxe [24oz]
 excluded_steps:
 - ^$
@@ -7,9 +8,9 @@ excluded_tags:
 - Sorbet
 tags:
 - Dairy
-- Experimental
 - Emulsifier
 - Erythritol
+- Experimental
 - Polysaccharide Gum
 - Scoopable
 - Stevia

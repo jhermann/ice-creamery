@@ -1,4 +1,5 @@
 ---
+canonical_url: https://jhermann.github.io/ice-creamery/I/Ice%20Cream%20Stabilizer%20%E2%80%A2%20ICSv2/
 description: Prepared mix for a general ice cream stabilizer.
 excluded_steps:
 - Pour into the tub
@@ -6,6 +7,8 @@ excluded_steps:
 - Let blender run
 - Put on the lid
 - Process with
+excluded_tags:
+- Vanilla
 tags:
 - Erythritol
 - Polysaccharide Gum

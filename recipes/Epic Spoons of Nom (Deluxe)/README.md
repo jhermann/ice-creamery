@@ -1,12 +1,15 @@
 ---
+canonical_url: https://jhermann.github.io/ice-creamery/E/Epic%20Spoons%20of%20Nom%20(Deluxe)/
 description: Recipe for the Ninja Creami Deluxe [24oz]
+excluded_steps:
+- ^$
 excluded_tags:
 - Dairy
 - Vanilla
 tags:
-- Experimental
 - Emulsifier
 - Erythritol
+- Experimental
 - Hi-Protein
 - Light
 - Low-Fat

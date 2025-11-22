@@ -1,4 +1,5 @@
 ---
+canonical_url: https://jhermann.github.io/ice-creamery/V/Vanilla%20Paste/
 description: Home-made vanilla paste.
 excluded_steps:
 - .

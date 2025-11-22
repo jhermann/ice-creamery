@@ -1,4 +1,5 @@
 ---
+canonical_url: https://jhermann.github.io/ice-creamery/V/Vanil-Low%20(Deluxe)/
 description: Almond milk + cottage cheese base at ~50kcal / 100g
 excluded_steps:
 - ^$

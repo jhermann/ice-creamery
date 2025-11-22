@@ -1,5 +1,8 @@
 ---
+canonical_url: https://jhermann.github.io/ice-creamery/B/Banana%20%E2%80%A2%20Slim%20(Deluxe)/
 description: Recipe for the Ninja Creami Deluxe [24oz]
+excluded_steps:
+- ^$
 excluded_tags:
 - Vanilla
 tags:

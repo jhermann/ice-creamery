@@ -1,4 +1,5 @@
 ---
+canonical_url: https://jhermann.github.io/ice-creamery/M/Mandarin%20Sherbet%20(Deluxe)/
 description: Mostly mandarin slices and juice, at 7% sugar and 2% fat [24oz]
 excluded_steps:
 - ^$

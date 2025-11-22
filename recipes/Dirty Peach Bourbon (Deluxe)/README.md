@@ -1,7 +1,10 @@
 ---
+canonical_url: https://jhermann.github.io/ice-creamery/D/Dirty%20Peach%20Bourbon%20(Deluxe)/
 description: Recipe for the Ninja Creami Deluxe [24oz]
 excluded_steps:
 - ingredients to empty Creami tub
+excluded_tags:
+- Vanilla
 tags:
 - Alcohol
 - Dairy-Free

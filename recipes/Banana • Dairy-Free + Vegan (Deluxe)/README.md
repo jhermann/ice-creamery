@@ -1,4 +1,5 @@
 ---
+canonical_url: https://jhermann.github.io/ice-creamery/B/Banana%20%E2%80%A2%20Dairy-Free%20+%20Vegan%20(Deluxe)/
 description: Recipe for the Ninja Creami Deluxe [24oz]
 excluded_steps:
 - wet. ingredients to empty

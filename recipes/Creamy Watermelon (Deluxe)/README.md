@@ -1,4 +1,5 @@
 ---
+canonical_url: https://jhermann.github.io/ice-creamery/C/Creamy%20Watermelon%20(Deluxe)/
 description: Variation of the "Just Fruit" recipe with protein powder and cream.
 excluded_steps:
 - ^$

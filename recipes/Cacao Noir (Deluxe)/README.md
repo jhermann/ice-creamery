@@ -1,4 +1,5 @@
 ---
+canonical_url: https://jhermann.github.io/ice-creamery/C/Cacao%20Noir%20a/k/a%20Charcolate%20(Deluxe)/
 description: Recipe for the Ninja Creami Deluxe [24oz]
 excluded_steps:
 - specified ingredients by dissolving
@@ -41,7 +42,6 @@ Rating: 😋🍫🍫🍫🕳️ (chocolate black hole, in a good way)
 > <img width=320 alt="Scooped after 3 days" src="Cacao-Noir_2025-08-02.jpg" class="zoomable" />
 >
 > *Scooped fresh out of the freezer, after 3 days.*
-
 
 # INGREDIENTS
 

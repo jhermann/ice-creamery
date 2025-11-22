@@ -1,4 +1,5 @@
 ---
+canonical_url: https://jhermann.github.io/ice-creamery/I/Instamaze/
 description: Recipe for the Ninja Creami Deluxe [24oz]
 excluded_steps:
 - ^$

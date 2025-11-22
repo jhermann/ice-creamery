@@ -1,7 +1,10 @@
 ---
+canonical_url: https://jhermann.github.io/ice-creamery/M/Milkshake/
 description: Viscous milkshake with 2 scoops of ice cream
 excluded_steps:
 - .+
+excluded_tags:
+- Vanilla
 tags:
 - Hi-Protein
 - Light

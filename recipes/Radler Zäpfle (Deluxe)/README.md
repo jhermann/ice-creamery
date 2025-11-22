@@ -1,4 +1,5 @@
 ---
+canonical_url: https://jhermann.github.io/ice-creamery/R/Radler%20Z%C3%A4pfle%20(Deluxe)/
 description: A bitter-sweet sorbet from a typical German summer beer mix
 excluded_steps:
 - easiest by adding
