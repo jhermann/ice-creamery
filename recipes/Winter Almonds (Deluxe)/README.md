@@ -47,6 +47,8 @@ Process on *Lite Ice Cream*, with scrape-down and finally the mix-in run. Put ba
 
 Rating: 😋🍇🍫☃️🍧 (spun on FroYo, with soaked sultanas and dark chocolate as the mix-ins; sweet and comforting)
 
+> <img width=442 alt="Served" src="Winter-Almonds_2025-11-23_4.jpg" class="zoomable" />
+
 # INGREDIENTS
 
 ℹ️ Brand names are in square brackets `[...]`.
