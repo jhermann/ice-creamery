@@ -14,7 +14,6 @@ replace:
 - "Mix-ins=>Mix-ins (choose option 1\uFE0F\u20E3 or 2\uFE0F\u20E3)"
 tags:
 - Dairy
-- Draft
 - Emulsifier
 - Erythritol
 - Polysaccharide Gum
@@ -42,11 +41,11 @@ Without the mix-ins this has about 650 kcal, 4% fat and 7% sugar, the macros bel
 
 Process on *Lite Ice Cream*, with scrape-down and finally the mix-in run. Put back into freezer to get to the desired consistency.
 
-> <img width=220 alt="After Sorbet" src="_1.jpg" class="zoomable" />
-> <img width=220 alt="After Mix-in" src="_2.jpg" class="zoomable" />
-> <img width=220 alt="Scooped" src="_3.jpg" class="zoomable" />
+> <img width=220 alt="After FroYo" src="Winter-Almonds_2025-11-23_1.jpg" class="zoomable" />
+> <img width=220 alt="With Mix-ins" src="Winter-Almonds_2025-11-23_2.jpg" class="zoomable" />
+> <img width=220 alt="After Mix-in, Scooped" src="Winter-Almonds_2025-11-23_3.jpg" class="zoomable" />
 
-Rating: 😋 (untested combination of 2 other  recipes)
+Rating: 😋🍇🍫☃️🍧 (spun on FroYo, with soaked sultanas and dark chocolate as the mix-ins; sweet and comforting)
 
 # INGREDIENTS
 
