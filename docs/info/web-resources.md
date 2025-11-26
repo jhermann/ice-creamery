@@ -21,6 +21,10 @@ Lists just like this one.
 - [Scoop Club](https://www.scoopclub.com.au/) — Ice cream recipes and appliance reviews.
 - [Popular Posts on Ice Cream Science](https://www.icecreamscience.com/popular-posts)
 
+## Blog Posts & Articles
+
+- [The Science of the Best Sorbet](https://www.seriouseats.com/how-to-make-the-best-sorbet) (Serious Eats)
+
 ## Recipe Collections
 
 - [My Recipe Posts on Reddit](https://www.reddit.com/search/?q=author%3Aj_hermann+cream) — Most of them, anyway.
