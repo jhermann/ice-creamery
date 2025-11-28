@@ -33,6 +33,12 @@ Small ice crystals (but then it is a sorbet / sherbet), and still immediately sc
 
 Rating: 😋😋😋😋❄️
 
+> <img width=220 alt="" src="Mandarin-Sherbet_2025-11-28_1.jpg" class="zoomable" />
+> <img width=220 alt="" src="Mandarin-Sherbet_2025-11-28_2.jpg" class="zoomable" />
+> <img width=220 alt="" src="Mandarin-Sherbet_2025-11-28_3.jpg" class="zoomable" />
+>
+> Light Ice Cream + respin (November 2025).
+
 # INGREDIENTS
 
 ℹ️ Brand names are in square brackets `[...]`.
