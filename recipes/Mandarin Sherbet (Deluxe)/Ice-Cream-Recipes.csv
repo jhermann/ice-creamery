@@ -1,37 +1,37 @@
 Mandarin Sherbet (Deluxe);;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 ;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;;
-Nutritional values per 100g/ml;100;g;;74.4;1.6;14.4;4.4;3.2;0.2;;;;;
-Nutritional values per ½ Deluxe Tub;340;g;;253.0;5.6;48.8;14.8;10.7;0.5;;;;;
-Nutritional values total;680;g;;506.0;11.2;97.6;29.6;21.5;1.0;;;;;
+Nutritional values per 100g/ml;100;g;;79.9;1.9;17.5;4.5;2.6;0.1;;;;;
+Nutritional values per ½ Deluxe Tub;340;g;;271.8;6.5;59.6;15.4;9.0;0.5;;;;;
+Nutritional values total;680;g;;543.6;13.0;119.1;30.8;18.0;0.9;;;;;
 ;;;;;;;;;;;;;;
-FPDF / PAC (target 20..30);30.69;;;;;;;;;;;;;
-"Protein / Energy Ratio (ok=12%; hi=20%)";16.99%;;;;LOW-FAT;;Low-Sugar;;;;;;;
-ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);24.5;g;;3.6%;;;;;;;;;;
-ℹ️ Net carbs;47.6;g;;*∝ 5 servings@136g:* 9.5g;;;*∝ 3 servings@227g:* 15.9g;;;*energy ratio (low <20%):* 37.6%;;;;
+FPDF / PAC (target 20..30);31.04;;;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";13.22%;;;;LOW-FAT;;Low-Sugar;;;;;;;
+ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);20.6;g;;3.0%;;;;;;;;;;
+ℹ️ Net carbs;47.8;g;;*∝ 5 servings@136g:* 9.6g;;;*∝ 3 servings@227g:* 15.9g;;;*energy ratio (low <20%):* 35.1%;;;;
 ;;;;;;;;;;;;;;
-Mostly mandarin slices and juice, which means a relatively high sugar content, but still reasonably lo-cal because it has only 2% fat.;;;;;;;;;;;;;;
+Mostly mandarin slices in juice plus soy milk and a little cream, which leads to 5% sugar and 2% fat content, keeping it reasonably lo-cal.;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 "Small ice crystals (but then it is a sorbet / sherbet), and still immediately scoopable after 1 day in the freezer.
 
-Rating: 😋😋😋😋❄️ ";;;;;;;;;;;;;;
+Rating: 😋😋🍊🍊❄️ ";;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
+Light Ice Cream + respin (November 2025).;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment;0Carb[%];Counts?
 Mandarins in juice [REWE];300.00;g;1;48.00;0.00;11.00;9.00;0.60;0.02;0.09;;;;1
-Soy milk 1.6% (sugar-free) [Berief];200.00;ml;1;30.00;1.60;0.90;0.00;3.00;0.08;;4.00;;;1
-Cream Cheese [Exquisa];30.00;g;1;238.00;22.50;3.00;3.00;5.50;0.70;0.03;9.64;;;1
-Glycerin (E422, VG) [hd-line];18.00;g;1;400.00;;99.00;;;;3.70;;"POD = 60%; GI = 5; Density = 1.26 g/ml";50.00;1
+Soy milk 1.6% (sugar-free) [Berief];250.00;ml;1;30.00;1.60;0.90;0.00;3.00;0.08;;4.00;;;1
+Cream Cheese [Exquisa];;g;1;238.00;22.50;3.00;3.00;5.50;0.70;0.03;9.64;;;1
+Glycerin (E422, VG) [hd-line];15.00;g;1;400.00;;99.00;;;;3.70;;"POD = 60%; GI = 5; Density = 1.26 g/ml";50.00;1
 Brandy or Vodka 40 vol%;10.00;g;1;280.00;;;;;;2.96;;*alternative:* 8g (additional) VG for a sober recipe;;1
-SweEX (Erythritol + Xylitol 3:2);30.00;g;2;109.60;;100.00;;;;2.56;;"alternatives: 40g allulose or dextrose; POD ≈ 85%; GI < 7";100.00;1
-Soy protein isolate (nature) [Powerstar];20.00;g;2;372.00;1.00;1.00;0.00;89.80;2.50;;93.00;unsweetened, unflavored;;0
+SweEX (Erythritol + Xylitol 3:2);35.00;g;2;109.60;;100.00;;;;2.56;;"alternatives: 47g allulose or dextrose; POD ≈ 85%; GI < 7";100.00;1
+Inulin [Vit4ever];20.00;g;2;210.00;;97.00;8.00;;0.20;0.09;;"Sweetness = 8%; GI ~= 0";89.00;1
 Salty Stability [Inulin / GMS / CMC / Guar / XG / Salt];15.00;g;2;267.5;3.6;88.4;5.9;0.3;3.5;0.06;;*not-as-good substitute:* 1.5g guar, 0.5g xanthan, and 0.5g salt;73.80;1
-Whey + Casein protein (grass-fed) [Vilgain];15.00;g;2;384.00;4.60;5.70;5.60;80.00;0.50;0.06;90.40;with stevia;;1
+Whey + Casein protein (grass-fed) [Vilgain];10.00;g;2;384.00;4.60;5.70;5.60;80.00;0.50;0.06;90.40;with stevia;;1
 ;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
-Water to MAX line;62.00;ml;3;;;;;;;;;;;1
+Cream 32% [REWE Beste Wahl];25.00;ml;3;311.00;32.00;3.20;3.20;2.50;0.13;0.03;6.32;;;1
 Flavor drops Peach / Maracuja [IronMaxx];≈3;drops;3;;;;;;;;;to taste;;
 ;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
@@ -41,7 +41,7 @@ Nov 11, 2024;Switched to ICSv2, added SMP;;;;;;;;;;;;;
 Dec 13, 2024;Half the fruit, added milk + flavor drops;;;;;;;;;;;;;
 Jun 21, 2025;Switched to soy milk;;;;;;;;;;;;;
 Aug 27, 2025;Use new blends;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
+Nov 29, 2025;No cream cheese, add inulin and cream;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
