@@ -20,6 +20,7 @@ tags:
 - Xylitol
 ---
 # Vegan Vanilla (Deluxe)
+<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="logo-vegan-base.png" />
 
 Plain vanilla base using soy milk and instant starch.
 
