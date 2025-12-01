@@ -22,7 +22,7 @@ Rating: 😋 (untested)";;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment;0Carb[%];Counts?
-Soy milk 1.6% (sugar-free) [Berief];500.00;ml;1;30.00;1.60;0.90;0.00;3.00;0.08;;4.00;*alternative:* any other preferred milk (~2% fat);;1
+Soy milk 1.6% (sugar-free) [Berief];550.00;ml;1;30.00;1.60;0.90;0.00;3.00;0.08;;4.00;*alternative:* any other preferred milk (~2% fat);;1
 Glycerin (E422, VG) [hd-line];15.00;g;1;400.00;;99.00;;;;3.70;;"Sweetness = 60%; GI = 5; Density = 1.26 g/ml";50.00;1
 Vanilla Extract (w/ alcohol) [Native Vanilla];;ml;1;300.00;;;;;;2.22;;;;1
 Brandy or Vodka 40 vol%;10.00;g;1;280.00;;;;;;2.96;;*alternative:* 8g (additional) VG for a sober recipe;;1
@@ -32,7 +32,7 @@ Waxy Maize Starch (E1442) [Ultratex];15.00;g;2;391.00;0.15;97.00;0.00;0.50;0.50;
 Vanilla Bean Powder [InterVanilla];4.00;g;2;288.00;0.10;13.00;13.00;0.00;0.00;;;;;1
 Salt;1.00;g;2;;;;;;100.00;5.90;;;;1
 ;;;;;;;;;;;;;;
-Soy milk 1.6% (sugar-free) [Berief];50.00;ml;3;30.00;1.60;0.90;0.00;3.00;0.08;;4.00;;;1
+Soy milk 1.6% (sugar-free) [Berief];;ml;3;30.00;1.60;0.90;0.00;3.00;0.08;;4.00;;;1
 Flavor drops Vanilla (sucralose) [IronMaxx];≈3;drops;3;;;;;;;;;to taste;;
 ;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
