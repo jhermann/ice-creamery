@@ -18,9 +18,13 @@ tags:
 ---
 # S&S Light (Deluxe)
 
-Adapted Salt & Straw's base, scaled to ~600g and targeted for less fat (8%) and sugar (2%) with 3.4% net carbs.
+Adapted Salt & Straw's base, scaled to ~600g neutral base and targeted for less fat (8%) and sugar (2%) with 3.4% net carbs.
 
-Example recipe flavored with strawberries (fresh/frozen + freeze-dried).
+Use the 80–100g unclaimed tub space for a flavor component of your choice,
+either blended into the base before freezing, or added as a mix-in later on.
+
+The example recipe as found below is flavored with strawberries (fresh/frozen + freeze-dried for a flavor boost)
+and the 1st test batch was done with blueberries (which was what I had at hand).
 
 Process on *Light Ice Cream*, scrape-down, and then a mix-in or respin as needed.
 
@@ -37,7 +41,7 @@ Rating: 😋😋🥛🫐🫐 (Creamy and ice-free, with blueberries)
 **Wet**
 
   - _375ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup> • use any other preferred milk (~2% fat)
-  - _15g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • POD = 60%; GI = 5; Density = 1.26 g/ml
+  - _18g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • POD = 60%; GI = 5; Density = 1.26 g/ml
 
 **Dry**
 
@@ -61,16 +65,17 @@ Rating: 😋😋🥛🫐🫐 (Creamy and ice-free, with blueberries)
  1. Pour into the tub and *QUICKLY* use an immersion blender on full speed to homogenize everything.
  1. Let blender run until thickeners are properly hydrated, up to 1-2 min. Or blend again after waiting that time.
  1. Add remaining ingredients (to the MAX line) and stir with a spoon.
- 1. Put on the lid, freeze for 24h, then spin as usual. Flatten any humps before that.
+ 1. For better results, let the base age in the fridge (covered, lid on), for a few hours or over night. This helps flavor development and gum hydration, especially with unheated bases.
+ 1. Freeze for 24h with lid on, then spin as usual. Flatten any humps before that.
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
 
 # NUTRITIONAL & OTHER INFO
 
-- **Nutritional values per 100g/ml:** 100g; 118.8 kcal; fat 6.9g; carbs 16.2g; sugar 3.7g; protein 4.1g; salt 0.2g
-- **Nutritional values per ½ Deluxe Tub:** 340g; 404.0 kcal; fat 23.5g; carbs 55.1g; sugar 12.5g; protein 13.8g; salt 0.7g
-- **Nutritional values total:** 687g; 815.7 kcal; fat 47.5g; carbs 111.3g; sugar 25.2g; protein 27.9g; salt 1.4g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.43
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 13.69% • Low-Sugar
+- **Nutritional values per 100g/ml:** 100g; 120.0 kcal; fat 6.9g; carbs 16.6g; sugar 3.6g; protein 4.0g; salt 0.2g
+- **Nutritional values per ½ Deluxe Tub:** 340g; 408.1 kcal; fat 23.4g; carbs 56.4g; sugar 12.4g; protein 13.8g; salt 0.7g
+- **Nutritional values total:** 690g; 827.7 kcal; fat 47.5g; carbs 114.3g; sugar 25.2g; protein 27.9g; salt 1.4g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 31.91
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 13.49% • Low-Sugar
 - **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 41.3g • 6.0%
-- **Net carbs:** 36.6g • *∝ 5 servings@137g:* 7.3g • *∝ 3 servings@229g:* 12.2g • *energy ratio (low <20%):* 17.9%
-- **Net carbs (base only):** 22.9g
+- **Net carbs:** 38.1g • *∝ 5 servings@138g:* 7.6g • *∝ 3 servings@230g:* 12.7g • *energy ratio (low <20%):* 18.4%
+- **Net carbs (base only):** 24.4g

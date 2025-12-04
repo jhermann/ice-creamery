@@ -1,19 +1,23 @@
 S&S Light (Deluxe);;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 ;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;;
-Nutritional values per 100g/ml;100;g;;118.8;6.9;16.2;3.7;4.1;0.2;;;;;
-Nutritional values per ½ Deluxe Tub;340;g;;404.0;23.5;55.1;12.5;13.8;0.7;;;;;
-Nutritional values total;687;g;;815.7;47.5;111.3;25.2;27.9;1.4;;;;;
+Nutritional values per 100g/ml;100;g;;120.0;6.9;16.6;3.6;4.0;0.2;;;;;
+Nutritional values per ½ Deluxe Tub;340;g;;408.1;23.4;56.4;12.4;13.8;0.7;;;;;
+Nutritional values total;690;g;;827.7;47.5;114.3;25.2;27.9;1.4;;;;;
 ;;;;;;;;;;;;;;
-FPDF / PAC (target 20..30);30.43;;;;;;;;;;;;;
-"Protein / Energy Ratio (ok=12%; hi=20%)";13.69%;;;;;;Low-Sugar;;;;;;;
+FPDF / PAC (target 20..30);31.91;;;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";13.49%;;;;;;Low-Sugar;;;;;;;
 ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);41.3;g;;6.0%;;;;;;;;;;
-ℹ️ Net carbs;36.6;g;;*∝ 5 servings@137g:* 7.3g;;;*∝ 3 servings@229g:* 12.2g;;;*energy ratio (low <20%):* 17.9%;;;;
+ℹ️ Net carbs;38.1;g;;*∝ 5 servings@138g:* 7.6g;;;*∝ 3 servings@230g:* 12.7g;;;*energy ratio (low <20%):* 18.4%;;;;
 ;;;;;;;;;;;;;;
-"Adapted Salt & Straw's base, scaled to ~600g and targeted for less fat (8%) and sugar (2%) with 3.4% net carbs.
+"Adapted Salt & Straw's base, scaled to ~600g neutral base and targeted for less fat (8%) and sugar (2%) with 3.4% net carbs.
 
-Example recipe flavored with strawberries (fresh/frozen + freeze-dried).";;;;;;;;;;;;;;
-ℹ️ Net carbs (base only);22.9;g;;;;;;;;;;;;
+Use the 80–100g unclaimed tub space for a flavor component of your choice,
+either blended into the base before freezing, or added as a mix-in later on.
+
+The example recipe as found below is flavored with strawberries (fresh/frozen + freeze-dried for a flavor boost)
+and the 1st test batch was done with blueberries (which was what I had at hand).";;;;;;;;;;;;;;
+ℹ️ Net carbs (base only);24.4;g;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 "Process on *Light Ice Cream*, scrape-down, and then a mix-in or respin as needed.
@@ -23,7 +27,7 @@ Rating: 😋😋🥛🫐🫐 (Creamy and ice-free, with blueberries)";;;;;;;;;;;
 ;;;;;;;;;;;;;;
 Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment;0Carb[%];Counts?
 Soy milk 1.6% (sugar-free) [Berief];375.00;ml;1;30.00;1.60;0.90;0.00;3.00;0.08;;4.00;use any other preferred milk (~2% fat);;1
-Glycerin (E422, VG) [hd-line];15.00;g;1;400.00;;99.00;;;;3.70;;"POD = 60%; GI = 5; Density = 1.26 g/ml";50.00;1
+Glycerin (E422, VG) [hd-line];18.00;g;1;400.00;;99.00;;;;3.70;;"POD = 60%; GI = 5; Density = 1.26 g/ml";50.00;1
 SweEX (Erythritol + Xylitol 3:2);45.00;g;2;109.60;;100.00;;;;2.56;;*alternative:* 60g allulose or dextrose;100.00;1
 Inulin [Vit4ever];25.00;g;2;210.00;;97.00;8.00;;0.20;0.09;;"Sweetness = 8%; GI ~= 0";89.00;1
 Skim milk powder 1:10 (SMP) [Vita2You];10.00;g;2;358.00;0.97;50.50;50.50;35.00;1.00;0.51;94.03;;;1
