@@ -17,6 +17,7 @@ tags:
 - Xylitol
 ---
 # S&S Light (Deluxe)
+<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="logo-s+s-light.png" />
 
 Adapted Salt & Straw's base, scaled to ~600g neutral base and targeted for less fat (8%) and sugar (2%) with 3.4% net carbs.
 
