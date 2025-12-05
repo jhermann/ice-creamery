@@ -193,7 +193,7 @@ def read_images():
         if imgnames:
             result[1] = LOGO_IMG % str(imgnames[0])
     if not (set(result) - {1}):
-        result[997] = '> <img width=220 alt="After Sorbet" src="_1.jpg" class="zoomable" />'
+        result[997] = '> <img width=220 alt="After 1st Spin" src="_1.jpg" class="zoomable" />'
         result[998] = '> <img width=220 alt="After Mix-in" src="_2.jpg" class="zoomable" />'
         result[999] = '> <img width=220 alt="Scooped" src="_3.jpg" class="zoomable" />'
     return result
