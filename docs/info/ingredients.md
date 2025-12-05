@@ -1004,3 +1004,22 @@ An important step you should *never* skip is blooming your cocoa powder. It is a
 This process helps to hydrate the cocoa particles, soften their membrane, and release their aromatic compounds, resulting in a more intense chocolate flavor in the final dessert. Also don't forget that pinch of salt.
 
 By blooming cocoa powder, you can achieve a richer, more intense chocolate flavor without necessarily using more cocoa. It's a simple step that can make a noticeable difference in the final taste of your chocolate ice cream.
+
+### Glucono Delta Lactone (GDL / E575)
+
+In ice cream, *Glucono Delta Lactone (GDL)* acts as a slow-release acidifier,
+gradually lowering pH to control protein coagulation, improve texture, stabilize color, and enhance flavor.
+It provides a smoother mouthfeel and better stability compared to fast acids like citric acid.
+It essentially controls how dairy proteins (like whey protein) interact,
+leading to a more desirable, uniform gel network, preventing excessive "weeping" or graininess.
+
+GDL starts as a neutral powder but slowly hydrolyzes (breaks down) in water to form gluconic acid, creating a gradual pH drop.
+This slow acidification gently causes dairy proteins to unfold and link together (coagulate/gel).
+It helps to prevent large ice crystals from forming during freezing and storage,
+as well as separation or a grainy texture.
+
+GDL is a white, odorless crystalline powder, processed but non-synthetic, and has roughly a third of the sourness of citric acid.
+Use it in very small amounts, in the range of 0.2% to 0.5% of total weight.
+For a subtle tangy flavor, or when combined with xanthan or LBG, keep it at 0.1% to 0.3%.
+Do not overdose, as that might create undesirable textures (gummy, slimy, or overly firm instead of creamy)
+— start low, taste often, and adjust to achieve your desired tang and texture.
