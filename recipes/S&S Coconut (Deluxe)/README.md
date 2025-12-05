@@ -31,6 +31,7 @@ replacing the dairy cream with reconstituted coconut cream.
 Process on *Light Ice Cream*, scrape-down, and then a mix-in or respin as needed.
 
 > <img width=330 alt="After 1st Spin" src="S+S-Coconut_2025-12-05_1.jpg" class="zoomable" />
+> <img width=330 alt="Served" src="S+S-Coconut_2025-12-05_2.jpg" class="zoomable" />
 
 Rating: 😋😋🥥🥥🍫  (very soft after one spin, manually added dark chocolate flakes)
 
