@@ -1,14 +1,14 @@
 S&S Coconut (Deluxe);;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 ;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;;
-Nutritional values per 100g/ml;100;g;;125.4;6.3;18.4;2.0;5.6;0.2;;;;;
-Nutritional values per ½ Deluxe Tub;340;g;;426.3;21.5;62.5;6.9;19.1;0.7;;;;;
-Nutritional values total;671;g;;841.4;42.5;123.4;13.6;37.6;1.5;;;;;
+Nutritional values per 100g/ml;100;g;;127.1;6.6;18.2;2.0;5.5;0.3;;;;;
+Nutritional values per ½ Deluxe Tub;340;g;;432.0;22.4;61.8;6.8;18.8;0.9;;;;;
+Nutritional values total;686;g;;871.4;45.2;124.6;13.7;37.9;1.7;;;;;
 ;;;;;;;;;;;;;;
-FPDF / PAC (target 20..30);30.98;;;;;;;;;;;;;
-"Protein / Energy Ratio (ok=12%; hi=20%)";17.88%;;;;;;Low-Sugar;;;;;;;
-ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);81.1;g;;12.1%;;;;;;;;;;
-ℹ️ Net carbs;51.6;g;;*∝ 5 servings@134g:* 10.3g;;;*∝ 3 servings@224g:* 17.2g;;;*energy ratio (low <20%):* 24.5%;;;;
+FPDF / PAC (target 20..30);30.21;;;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";17.41%;;;;;;Low-Sugar;;;;;;;
+ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);83.4;g;;12.2%;;;;;;;;;;
+ℹ️ Net carbs;53.3;g;;*∝ 5 servings@137g:* 10.7g;;;*∝ 3 servings@229g:* 17.8g;;;*energy ratio (low <20%):* 24.5%;;;;
 ;;;;;;;;;;;;;;
 "Adapts the [S&S Light (Deluxe)](/ice-creamery/S/S%26S%20Light%20%28Deluxe%29/) recipe by
 replacing the dairy cream with reconstituted coconut cream.";;;;;;;;;;;;;;
@@ -17,21 +17,21 @@ replacing the dairy cream with reconstituted coconut cream.";;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 "Process on *Light Ice Cream*, scrape-down, and then a mix-in or respin as needed.
 
-Rating: 😋😋🥥 (untested)";;;;;;;;;;;;;;
+Rating: 😋😋🥥🥥🍫  (very soft after one spin, manually added dark chocolate flakes)";;;;;;;;;;;;;;
 "1. For the base, mix the coconut milk powder and the GMS in a medium-sized bowl.
  1. Add the hot water and whisk until clump-free.";;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment;0Carb[%];Counts?
-Water (~85°C);130.00;ml;0;;;;;;;;;*alternative:* 195ml coconut milk 18.5%;;1
-Coconut Milk Powder 54% [Green Essence];65.00;g;0;640.00;55.00;40.25;1.25;6.25;0.13;;46.50;;;1
-Glycerol Monostearate (E471) [Bulk];1.50;g;0;415.00;;;;;;;;*alternative:* lecithin;;1
+Water (~85°C);140.00;ml;0;;;;;;;;;*alternative:* 210ml coconut milk 18.5%;;1
+Coconut Milk Powder 54% [Green Essence];70.00;g;0;640.00;55.00;40.25;1.25;6.25;0.13;;46.50;;;1
+Glycerol Monostearate (E471) [Bulk];1.80;g;0;415.00;;;;;;;;*alternative:* lecithin;;1
 Soy milk 1.6% (sugar-free) [Berief];350.00;ml;1;30.00;1.60;0.90;0.00;3.00;0.08;;4.00;use any other preferred milk (~2% fat);;1
-Glycerin (E422, VG) [hd-line];18.00;g;1;400.00;;99.00;;;;3.70;;"POD = 60%; GI = 5; Density = 1.26 g/ml";50.00;1
+Glycerin (E422, VG) [hd-line];17.00;g;1;400.00;;99.00;;;;3.70;;"POD = 60%; GI = 5; Density = 1.26 g/ml";50.00;1
 SweEX (Erythritol + Xylitol 3:2);45.00;g;2;109.60;;100.00;;;;2.56;;*alternative:* 60g allulose or dextrose;100.00;1
 Inulin [Vit4ever];20.00;g;2;210.00;;97.00;8.00;;0.20;0.09;;"Sweetness = 8%; GI ~= 0";89.00;1
 Skim milk powder 1:10 (SMP) [Vita2You];20.00;g;2;358.00;0.97;50.50;50.50;35.00;1.00;0.51;94.03;;;1
 Whey + Casein protein (grass-fed) [Vilgain];20.00;g;2;384.00;4.60;5.70;5.60;80.00;0.50;0.06;90.40;with stevia;;1
-Salt;0.75;g;2;;;;;;100.00;5.90;;;;1
-Xanthan gum (E415, XG);0.75;g;2;320.00;;78.00;;6.00;1.00;;;1tsp ≈ 2.8g;;1
+Salt;1.00;g;2;;;;;;100.00;5.90;;;;1
+Xanthan gum (E415, XG);1.00;g;2;320.00;;78.00;;6.00;1.00;;;1tsp ≈ 2.8g;;1
 ;;;;;;;;;;;;;;
-Flavor drops “Natural” (stevia) [Nick’s];≈1;drops;3;;;;;;;;;to taste • unflavored;;
+Flavor drops “Natural” (stevia) [Nick’s];≈3;drops;3;;;;;;;;;to taste • unflavored;;

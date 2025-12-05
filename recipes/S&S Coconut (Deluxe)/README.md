@@ -29,11 +29,10 @@ Adapts the [S&S Light (Deluxe)](/ice-creamery/S/S%26S%20Light%20%28Deluxe%29/) r
 replacing the dairy cream with reconstituted coconut cream.
 
 Process on *Light Ice Cream*, scrape-down, and then a mix-in or respin as needed.
-> <img width=220 alt="After Sorbet" src="_1.jpg" class="zoomable" />
-> <img width=220 alt="After Mix-in" src="_2.jpg" class="zoomable" />
-> <img width=220 alt="Scooped" src="_3.jpg" class="zoomable" />
 
-Rating: 😋😋🥥 (untested)
+> <img width=330 alt="After 1st Spin" src="S+S-Coconut_2025-12-05_1.jpg" class="zoomable" />
+
+Rating: 😋😋🥥🥥🍫  (very soft after one spin, manually added dark chocolate flakes)
 
 # INGREDIENTS
 
@@ -41,14 +40,14 @@ Rating: 😋😋🥥 (untested)
 
 **Prep**
 
-  - _130ml_ Water (~85°C) • *alternative:* 195ml coconut milk 18.5%
-  - _65g_ [Coconut Milk Powder 54% \[Green Essence\]](/ice-creamery/info/ingredients/#coconut-milk){target="_blank"}<sup>↗</sup>
-  - _1.5g_ [Glycerol Monostearate (E471) \[Bulk\]](/ice-creamery/info/ingredients/#glycerol-monostearate-gms-e471){target="_blank"}<sup>↗</sup> • *alternative:* lecithin
+  - _140ml_ Water (~85°C) • *alternative:* 210ml coconut milk 18.5%
+  - _70g_ [Coconut Milk Powder 54% \[Green Essence\]](/ice-creamery/info/ingredients/#coconut-milk){target="_blank"}<sup>↗</sup>
+  - _1.80g_ [Glycerol Monostearate (E471) \[Bulk\]](/ice-creamery/info/ingredients/#glycerol-monostearate-gms-e471){target="_blank"}<sup>↗</sup> • *alternative:* lecithin
 
 **Wet**
 
   - _350ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup> • use any other preferred milk (~2% fat)
-  - _18g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • POD = 60%; GI = 5; Density = 1.26 g/ml
+  - _17g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • POD = 60%; GI = 5; Density = 1.26 g/ml
 
 **Dry**
 
@@ -56,12 +55,12 @@ Rating: 😋😋🥥 (untested)
   - _20g_ [Inulin \[Vit4ever\]](/ice-creamery/info/ingredients/#inulin){target="_blank"}<sup>↗</sup> • Sweetness = 8%; GI ~= 0
   - _20g_ [Skim milk powder 1:10 (SMP) \[Vita2You\]](/ice-creamery/info/ingredients/#skim-milk-powder-smp){target="_blank"}<sup>↗</sup>
   - _20g_ [Whey + Casein protein (grass-fed) \[Vilgain\]](/ice-creamery/info/ingredients/#whey-protein){target="_blank"}<sup>↗</sup> • with stevia
-  - _0.75g_ Salt
-  - _0.75g_ [Xanthan gum (E415, XG)](/ice-creamery/info/ingredients/#xanthan-gum-xg-e415){target="_blank"}<sup>↗</sup> • 1tsp ≈ 2.8g
+  - _1g_ Salt
+  - _1g_ [Xanthan gum (E415, XG)](/ice-creamery/info/ingredients/#xanthan-gum-xg-e415){target="_blank"}<sup>↗</sup> • 1tsp ≈ 2.8g
 
 **Adjust sweetness**
 
-  - _≈1 drops_ Flavor drops “Natural” (stevia) [Nick’s] • to taste • unflavored
+  - _≈3 drops_ Flavor drops “Natural” (stevia) [Nick’s] • to taste • unflavored
 
 # DIRECTIONS
 
@@ -78,10 +77,10 @@ Rating: 😋😋🥥 (untested)
 
 # NUTRITIONAL & OTHER INFO
 
-- **Nutritional values per 100g/ml:** 100g; 125.4 kcal; fat 6.3g; carbs 18.4g; sugar 2.0g; protein 5.6g; salt 0.2g
-- **Nutritional values per ½ Deluxe Tub:** 340g; 426.3 kcal; fat 21.5g; carbs 62.5g; sugar 6.9g; protein 19.1g; salt 0.7g
-- **Nutritional values total:** 671g; 841.4 kcal; fat 42.5g; carbs 123.4g; sugar 13.6g; protein 37.6g; salt 1.5g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.98
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 17.88% • Low-Sugar
-- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 81.1g • 12.1%
-- **Net carbs:** 51.6g • *∝ 5 servings@134g:* 10.3g • *∝ 3 servings@224g:* 17.2g • *energy ratio (low <20%):* 24.5%
+- **Nutritional values per 100g/ml:** 100g; 127.1 kcal; fat 6.6g; carbs 18.2g; sugar 2.0g; protein 5.5g; salt 0.3g
+- **Nutritional values per ½ Deluxe Tub:** 340g; 432.0 kcal; fat 22.4g; carbs 61.8g; sugar 6.8g; protein 18.8g; salt 0.9g
+- **Nutritional values total:** 686g; 871.4 kcal; fat 45.2g; carbs 124.6g; sugar 13.7g; protein 37.9g; salt 1.7g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.21
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 17.41% • Low-Sugar
+- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 83.4g • 12.2%
+- **Net carbs:** 53.3g • *∝ 5 servings@137g:* 10.7g • *∝ 3 servings@229g:* 17.8g • *energy ratio (low <20%):* 24.5%
