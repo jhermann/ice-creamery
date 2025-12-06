@@ -1,5 +1,8 @@
 ---
+canonical_url: https://jhermann.github.io/ice-creamery/C/Chocolate%20Caramel%20(Deluxe)/
 description: Recipe for the Ninja Creami Deluxe [24oz]
+excluded_steps:
+- ^$
 excluded_tags:
 - Vanilla
 tags:
