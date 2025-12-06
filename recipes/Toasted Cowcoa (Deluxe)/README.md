@@ -1,8 +1,11 @@
 ---
+canonical_url: https://jhermann.github.io/ice-creamery/T/Toasted%20Cowcoa%20(Deluxe)/
 description: Recipe for the Ninja Creami Deluxe [24oz]
 excluded_steps:
 - specified ingredients by dissolving
 - ingredients to empty Creami tub.
+excluded_tags:
+- Vanilla
 tags:
 - Dairy
 - Draft

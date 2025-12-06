@@ -1,8 +1,11 @@
 ---
+canonical_url: https://jhermann.github.io/ice-creamery/U/Umamiso%20(Deluxe)/
 description: Recipe for the Ninja Creami Deluxe [24oz]
 excluded_steps:
 - ingredients to empty Creami tub
 - prepared dry ingredients
+excluded_tags:
+- Vanilla
 tags:
 - Dairy-Free
 - Draft

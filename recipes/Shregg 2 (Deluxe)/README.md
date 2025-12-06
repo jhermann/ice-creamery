@@ -1,5 +1,8 @@
 ---
+canonical_url: https://jhermann.github.io/ice-creamery/S/Shregg%202%20(Deluxe)/
 description: Recipe for the Ninja Creami Deluxe [24oz]
+excluded_steps:
+- ^$
 excluded_tags:
 - Vanilla
 tags:
@@ -21,7 +24,6 @@ tags:
 [Egg&cream punch](https://world.openfoodfacts.org/product/4001486916119/sahne-eierpunsch-katlenburger) ice cream.
 
 Process on SORBET.
-
 
 > <img width=360 alt="Spun Ice Cream" src="" class="zoomable" />
 

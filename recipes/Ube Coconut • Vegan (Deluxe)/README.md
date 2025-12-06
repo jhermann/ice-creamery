@@ -1,5 +1,8 @@
 ---
+canonical_url: https://jhermann.github.io/ice-creamery/U/Ube%20Coconut%20%E2%80%A2%20Vegan%20(Deluxe)/
 description: Recipe for the Ninja Creami Deluxe [24oz]
+excluded_steps:
+- ^$
 excluded_tags:
 - Vanilla
 tags:

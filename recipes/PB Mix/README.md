@@ -1,5 +1,8 @@
 ---
+canonical_url: https://jhermann.github.io/ice-creamery/P/PB%20Mix/
 description: Prepared mix for peanut butter bases.
+excluded_steps:
+- ^$
 excluded_tags:
 - Vanilla
 tags:

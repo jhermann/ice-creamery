@@ -1,4 +1,5 @@
 ---
+canonical_url: https://jhermann.github.io/ice-creamery/F/Forget-Me-Nut%20Swirl/
 description: Recipe for the Ninja Creami Deluxe [24oz]
 excluded_steps:
 - add the prepared dry ingredients

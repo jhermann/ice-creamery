@@ -1,5 +1,10 @@
 ---
+canonical_url: https://jhermann.github.io/ice-creamery/O/Orange%20Julius%20(Deluxe)/
 description: Recipe for the Ninja Creami Deluxe [24oz]
+excluded_steps:
+- ^$
+excluded_tags:
+- Vanilla
 tags:
 - Dairy
 - Erythritol
@@ -10,7 +15,6 @@ tags:
 - Scoopable
 - Sorbet
 - Tylo Powder (CMC)
-- Vanilla
 - Xylitol
 ---
 # Orange Julius (Deluxe)

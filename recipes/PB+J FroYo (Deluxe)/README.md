@@ -1,11 +1,15 @@
 ---
+canonical_url: https://jhermann.github.io/ice-creamery/P/PB+J%20FroYo%20(Deluxe)/
 description: Recipe for the Ninja Creami Deluxe [24oz]
+excluded_steps:
+- ^$
+excluded_tags:
+- Vanilla
 tags:
 - Dairy
 - Erythritol
 - Fruit
 - Tylo Powder (CMC)
-- Vanilla
 ---
 # PB+J FroYo (Deluxe)
 <img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/recipes/PB%20Mix/pb-ice-cream-logo.png" />

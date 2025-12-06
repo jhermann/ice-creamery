@@ -1,9 +1,13 @@
 ---
+canonical_url: https://jhermann.github.io/ice-creamery/S/Strawberry%20Sangria%20(Deluxe)/
 description: Recipe for the Ninja Creami Deluxe [24oz]
+excluded_steps:
+- ^$
 excluded_tags:
 - Dairy
 tags:
 - Alcohol
+- Erythritol
 - Favorite
 - Fruit
 - Light

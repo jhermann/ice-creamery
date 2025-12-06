@@ -1,8 +1,11 @@
 ---
+canonical_url: https://jhermann.github.io/ice-creamery/P/Peach%20%E2%80%A2%20Sicilian%20Gelato%20(Deluxe)/
 description: Traditional Sicilian gelato, thickened with cornstarch.
 excluded_steps:
 - blender run until
 - remaining ingredients
+excluded_tags:
+- Vanilla
 tags:
 - Cooked Base
 - Draft
