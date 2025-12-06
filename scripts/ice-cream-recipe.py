@@ -442,7 +442,7 @@ def parse_recipe_csv(csv_name, args, images=[]):
                 data['comment'] = MILK_HINT[1]
             if not data['step']:
                 handle_top_row(row)
-            elif data['ingredients'] and data['counts?'] != '0':
+            elif data['ingredients'] and data.get('counts?', 1) != '0':
                 if data['amount'].endswith('.00'):
                     data['amount'] = data['amount'][:-3]
                 if args.macros or data['amount'] and data['amount'] != '0':
