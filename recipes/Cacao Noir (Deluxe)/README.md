@@ -40,7 +40,7 @@ Rating: 😋🍫🍫🍫🕳️ (chocolate black hole, in a good way)
 > *Served with pecans and black cherry fruit spread.*
 
 > <img width=320 alt="Scooped after 3 days" src="Cacao-Noir_2025-08-02.jpg" class="zoomable" />
->
+> 
 > *Scooped fresh out of the freezer, after 3 days.*
 
 # INGREDIENTS
@@ -49,30 +49,30 @@ Rating: 😋🍫🍫🍫🕳️ (chocolate black hole, in a good way)
 
 **Prep**
 
-  - _200ml_ Water (boiling)
+  - _200ml_ Water (almost boiling, 90°C)
   - _50g_ Dark chocolate 85% [Moser-Roth/Aldi] • Portion = 25g
+  - _20g_ [Cocoa Noir Intense 11% \[Cacao Barry\]](/ice-creamery/info/ingredients/#cocoa-powder){target="_blank"}<sup>↗</sup> • intense, tart cocoa flavour
 
 **Wet**
 
-  - _200ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
+  - _200ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup> • *alternative*: any other preferred milk (~2% fat)
   - _20g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • POD = 60%; GI = 5; Density = 1.26 g/ml
   - _15g_ Cointreau 40 vol% • 1 bottle = 70cl
   - _10ml_ Soy sauce • ½ tbsp
 
 **Dry**
 
-  - _45g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • POD ≈ 90%; GI < 7
-  - _20g_ [Cocoa Noir Intense 11% \[Cacao Barry\]](/ice-creamery/info/ingredients/#cocoa-powder){target="_blank"}<sup>↗</sup> • intense, tart cocoa flavour
+  - _45g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • POD ≈ 85%; GI < 7
   - _15g_ [Skim milk powder 1:10 (SMP) \[Vita2You\]](/ice-creamery/info/ingredients/#skim-milk-powder-smp){target="_blank"}<sup>↗</sup>
   - _15g_ [Whey + Casein protein (grass-fed) \[Vilgain\]](/ice-creamery/info/ingredients/#whey-protein){target="_blank"}<sup>↗</sup> • with stevia
-  - _10g_ [Salty Stability \[Inulin / GMS / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup> • unsweetened “ICSv2”
+  - _10g_ [Salty Stability \[Inulin / GMS / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup> • *not-as-good substitute:* 1g guar, 0.3g xanthan, and 0.3g salt
   - _4.5g_ Instant Coffee [Mount Hagen] • 1.5g per 125ml
-  - _0.5g_ Cinnamon (Ceylon)
+  - _0.5g_ Cinnamon (Ceylon) • *optional*
   - _1 pinch_ Cayenne + Nutmeg • **optional** – 🔥❤️‍🔥 for that hot vibe
 
 **Fill to MAX**
 
-  - _75ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
+  - _75ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup> • *alternative*: any other preferred milk (~2% fat)
   - _≈10 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
 
 **Mix-ins**
@@ -87,15 +87,16 @@ Rating: 😋🍫🍫🍫🕳️ (chocolate black hole, in a good way)
 
 # DIRECTIONS
 
- 1. In a medium-sized bowl, mix all the ‘dry’ ingredients with a whisk.
- 1. Pour ½ the boiling water over the cocoa to bloom it, and whisk to combine to a smooth paste.
+ 1. In a medium-sized heat-proof bowl, mix all the ‘dry’ ingredients with a whisk.
+ 1. Pour ½ the hot water over the cocoa to bloom it, and whisk to combine to a smooth paste.
  1. Carefully integrate the other half of the water.
  1. Break the chocolate into pieces and melt them into the hot paste, then let it cool down a bit.
  1. Add "wet" ingredients and the chocolate paste to empty Creami tub (use a silicone spatula).
  1. Use an immersion blender on full speed to homogenize everything.
  1. Let blender run until thickeners are properly hydrated, up to 1-2 min. Or blend again after waiting that time.
  1. Add remaining ingredients (to the MAX line) and stir with a spoon.
- 1. Put on the lid, freeze for 24h, then spin as usual. Flatten any humps before that.
+ 1. For better results, let the base age in the fridge (covered, lid on), for a few hours or over night. This helps flavor development and gum hydration, especially with unheated bases.
+ 1. Freeze for 24h with lid on, then spin as usual. Flatten any humps before that.
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
  1. Process with MIX-IN after adding mix-ins evenly. For that, add partial amounts into a hole going down to the bottom, and fold the ice cream over, building pockets of mix-ins.
 
