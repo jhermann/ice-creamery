@@ -1033,3 +1033,7 @@ and enhances texture, body, and nutritional value.
 
 It is mild in flavor, rich in potassium, iron, magnesium, and vitamins, and can be used uncooked.
 As with all food high in fiber, watch out for GI issues and start low if you're not used to a diet high in fiber.
+
+To blend it in clump-free, make a slurry or mix it with other dry ingredients first.
+Use 1-2 tbsp (15–30g) per liter, 3 tbsp makes the flavor more prominent, and 4 tbsp leads to a more pudding-like consistency.
+Start on the low end, and if you combine it with other thickeners or gums, adjust accordingly.
