@@ -640,6 +640,7 @@ try searching for *modified corn starch* or *instant corn starch*.
 There are not too many end-consumer products in the EU, and the price range is roughly €15 to €35 per kg.
 
 [Acetylated Distarch Adipate (E1422)](#acetylated-distarch-adipate-e1422) is also a modified starch and can be used instead.
+And see [Green Banana Powder](#green-banana-powder-plantain) for a more natural, less processed replacement.
 
 ## Emulsifiers
 
@@ -1037,3 +1038,15 @@ As with all food high in fiber, watch out for GI issues and start low if you're 
 To blend it in clump-free, make a slurry or mix it with other dry ingredients first.
 Use 1-2 tbsp (15–30g) per liter, 3 tbsp makes the flavor more prominent, and 4 tbsp leads to a more pudding-like consistency.
 Start on the low end, and if you combine it with other thickeners or gums, adjust accordingly.
+
+!!! tip "Plantain vs. WMS"
+
+    When replacing [Waxy Maize Starch](#waxy-maize-starch-e1442), a practical starting point is to treat green banana powder
+    as slightly stronger in water binding and structure, so begin around a 0.7 substitution by weight
+    and adjust to texture, up to a 1:1 ratio.
+    Because banana flour carries fiber and non‑starch solids, replacing waxy maize 1:1 can make the mix
+    thicker and slightly more gummy.
+
+    It behaves more like a fiber‑rich, resistant‑starch bulking agent than a pure gelatinizing starch,
+    giving body, slowing melt, and adding solids, but with less “clean” gel-like thickening.
+    Beyond about 2% of mix, banana notes and yellower color become noticeable.
