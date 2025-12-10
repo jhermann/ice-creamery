@@ -1023,3 +1023,13 @@ Use it in very small amounts, in the range of 0.2% to 0.5% of total weight.
 For a subtle tangy flavor, or when combined with xanthan or LBG, keep it at 0.1% to 0.3%.
 Do not overdose, as that might create undesirable textures (gummy, slimy, or overly firm instead of creamy)
 — start low, taste often, and adjust to achieve your desired tang and texture.
+
+### Green Banana Powder (Plantain)
+
+Green plantain powder is a good source of fiber, typically around 7% of its weigth
+in the form of resistant starch found in unripe plantains.
+In ice cream, especially in non-dairy or low-fat recipes, it acts as a natural stabilizer / thickener
+and enhances texture, body, and nutritional value.
+
+It is mild in flavor, rich in potassium, iron, magnesium, and vitamins, and can be used uncooked.
+As with all food high in fiber, watch out for GI issues and start low if you're not used to a diet high in fiber.
