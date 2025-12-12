@@ -36,6 +36,7 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to system preference
+  custom_dir: assets/mkdocs_theme
   logo: assets/logo.png
   favicon: assets/favicon.png
   icon:
