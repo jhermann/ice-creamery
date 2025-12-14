@@ -34,6 +34,13 @@ Process on *Frozen Yogurt*, [hold it shortly under running water](https://jherma
 
 Rating: 😋😋😋😋🍌 (June 2025)
 
+> <img width=220 alt="After 1st Spin" src="banana-slim_2025-12-14_1.jpg" class="zoomable" />
+> <img width=220 alt="After Mix-in" src="banana-slim_2025-12-14_2.jpg" class="zoomable" />
+> <img width=220 alt="Scooped" src="banana-slim_2025-12-14_3.jpg" class="zoomable" />
+
+December 2025, Light Ice Cream + Mix-in with dark chocolate, very soft
+
+
 # INGREDIENTS
 
 ℹ️ Brand names are in square brackets `[...]`.
