@@ -1032,7 +1032,8 @@ in the form of resistant starch found in unripe plantains.
 In ice cream, especially in non-dairy or low-fat recipes, it acts as a natural stabilizer / thickener
 and enhances texture, body, and nutritional value.
 
-It is mild in flavor, rich in potassium, iron, magnesium, and vitamins, and can be used uncooked.
+It is mild in flavor, rich in potassium, iron, magnesium, and vitamins,
+and should be cooked due to food safety (check the information on your package).
 As with all food high in fiber, watch out for GI issues and start low if you're not used to a diet high in fiber.
 
 To blend it in clump-free, make a slurry or mix it with other dry ingredients first.
