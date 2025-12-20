@@ -23,6 +23,7 @@ tags:
 - Low-Sugar
 - Scoopable
 - Stevia
+- Sucralose
 - Xylitol
 ---
 # Vegan Almond (Deluxe)
@@ -63,7 +64,8 @@ Rating: 😋 (untested)
 
 **Adjust sweetness**
 
-  - _≈3 drops_ Flavor drops Cookies&Cream (stevia) [Nick’s] • to taste
+  - _≈12 drops_ Flavor drops Cookies&Cream (stevia) [Nick’s] • to taste
+  - _≈3 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
 
 # DIRECTIONS
 
