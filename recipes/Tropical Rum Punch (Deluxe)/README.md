@@ -17,12 +17,14 @@ replace:
 - remaining ingredients=>flavor drops
 tags:
 - Cooked Base
+- Dairy-Free
 - Draft
 - Fruit
 - Low-Fat
 - Polysaccharide Gum
 - Scoopable
 - Sucralose
+- Vegan
 ---
 # Tropical Rum Punch (Deluxe)
 <img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="logo-Tropical_Rum_Punch.png" />
