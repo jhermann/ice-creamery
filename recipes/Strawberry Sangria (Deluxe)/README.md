@@ -50,9 +50,9 @@ Rating: 😋🍷🍓🍓🍓
 > 
 > *Using a 1:1 mix of strawberries and blueberries, 15g inulin, 15g soy protein, 1g XG, and 1.5g CMC. Served with a dusting of powdered erythritol.*
 
-> <img width=244 alt="After Sorbet" src="SB-Sangria_2025-12-21_1.jpg" class="zoomable" />
-> <img width=244 alt="After Respin" src="SB-Sangria_2025-12-21_2.jpg" class="zoomable" />
-> <img width=244 alt="Scooped" src="SB-Sangria_2025-12-21_3.jpg" class="zoomable" />
+> <img width=220 alt="After Sorbet" src="SB-Sangria_2025-12-21_1.jpg" class="zoomable" />
+> <img width=220 alt="After Respin" src="SB-Sangria_2025-12-21_2.jpg" class="zoomable" />
+> <img width=220 alt="Scooped" src="SB-Sangria_2025-12-21_3.jpg" class="zoomable" />
 > 
 > Dec 2025: Processed on Sorbet, held under tap water, scrape-down, respin.
 
