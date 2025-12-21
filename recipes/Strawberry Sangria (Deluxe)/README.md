@@ -27,7 +27,7 @@ tags:
 
 This creamy sorbet is inspired by Sangria, a refreshing, fruity, alcoholic punch originating from Spain and Portugal.
 
->💡**Using mulled wine**<br />If you can get ahold of it, mulled wine from berries (Bär Gløgg) is a great alternative to the red wine.
+>💡**Using mulled wine**<br />If you can get ahold of it, mulled wine from berries (Bär Gløgg) is a great alternative to the red wine — it only has 11 vol%, so use 225g to compensate.
 
 Process on *Sorbet*, then a scrape-down and a mix-in run.
 Comes out “soft scoopable”, refreeze for at least 1–2 hours.
@@ -44,7 +44,7 @@ Rating: 😋🍷🍓🍓🍓
 > <img width=360 alt="Variation by u/_phillimore" src="u-_phillimore-pinot-noir-blueberries-raspberries.webp" class="zoomable" />
 > 
 > *Variation by [u/\_phillimore](https://www.reddit.com/user/_phillimore/): Pinot noir, blueberries, and raspberries.*
-
+ 
 > <img width=244 alt="Berry mix and CMC" src="Sangria_2025-07-07_3.jpg" class="zoomable" />
 > <img width=196 alt="Berry mix and CMC" src="Sangria_2025-07-07_4.jpg" class="zoomable" />
 > 
@@ -63,9 +63,8 @@ Rating: 😋🍷🍓🍓🍓
 **Wet**
 
   - _400g_ Strawberries • Alternatives: blueberries, berry mix, ...
-  - _200ml_ Red Wine 13 vol% (dry) • also works with rosé or white wine
+  - _200g_ Red Wine 13 vol% (dry) • also works with rosé or white wine
   - _20ml_ Lime juice + zest (organic) [REWE Bio] • 1 lime = 60..65g
-  - _10g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • Sweetness = 60%; GI = 5; Density = 1.26 g/ml
 
 **Dry**
 
@@ -75,7 +74,7 @@ Rating: 😋🍷🍓🍓🍓
 
 **Fill to MAX**
 
-  - _28ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup> • fill to MAX line
+  - _25ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup> • fill to MAX line
   - _6–12 drops_ Flavor drops Strawberry (sucralose) [IronMaxx] • to taste
 
 # DIRECTIONS
@@ -92,10 +91,10 @@ Rating: 😋🍷🍓🍓🍓
 
 # NUTRITIONAL & OTHER INFO
 
-- **Nutritional values per 100g/ml:** 100g; 57.7 kcal; fat 0.3g; carbs 8.3g; sugar 3.8g; protein 0.6g; salt 0.2g
-- **Nutritional values per ½ Deluxe Tub:** 340g; 196.3 kcal; fat 1.0g; carbs 28.3g; sugar 13.1g; protein 2.1g; salt 0.5g
-- **Nutritional values total:** 680g; 392.6 kcal; fat 2.1g; carbs 56.6g; sugar 26.1g; protein 4.2g; salt 1.1g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 33.50
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 4.26% • LOW-FAT • Low-Sugar
-- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 1.1g • 0.2%
-- **Net carbs:** 33.8g • *∝ 5 servings@136g:* 6.8g • *∝ 3 servings@227g:* 11.3g • *energy ratio (low <20%):* 34.4%
+- **Nutritional values per 100g/ml:** 100g; 52.7 kcal; fat 0.3g; carbs 7.0g; sugar 3.9g; protein 0.6g; salt 0.2g
+- **Nutritional values per ½ Deluxe Tub:** 340g; 179.3 kcal; fat 1.0g; carbs 23.8g; sugar 13.3g; protein 2.1g; salt 0.5g
+- **Nutritional values total:** 667g; 351.7 kcal; fat 2.0g; carbs 46.7g; sugar 26.1g; protein 4.1g; salt 1.1g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 34.57
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 4.65% • LOW-FAT • Low-Sugar
+- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 1.0g • 0.1%
+- **Net carbs:** 28.9g • *∝ 5 servings@133g:* 5.8g • *∝ 3 servings@222g:* 9.6g • *energy ratio (low <20%):* 32.8%
