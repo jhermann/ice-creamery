@@ -27,7 +27,7 @@ tags:
 - Vegan
 ---
 # Tropical Rum Punch (Deluxe)
-<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="logo-Tropical_Rum_Punch.png" />
+<img style="float: right; margin-left: 1.5em;" width=320 alt="Logo" src="logo-Tropical_Rum_Punch.png" />
 
 *Tropical Rum Punch* blends pineapple, orange, and
 mango juices with a hint of lime for a bright, fruity base.
