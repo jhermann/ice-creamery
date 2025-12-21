@@ -51,15 +51,15 @@ Rating: 😋🍍🍹🥥 (untested)
 
 **Prep**
 
-  - _175ml_ Juice: 60% Orange/20% Mango/20% Pineapple [REWE]
-  - _130ml_ Water
+  - _200ml_ Juice: 60% Orange/20% Mango/20% Pineapple [REWE]
+  - _100ml_ Water
   - _30ml_ Lime or lemon juice
   - _15g_ Pomegranate syrup (grenadine, nar ekşisi) [fersan] • 0.76 ml/g
 
 **Wet**
 
   - _225g_ Pineapple in juice [REWE] • Can = 227g (140g fruit)
-  - _40g_ [Jamaica Rum 43 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup>
+  - _45g_ [Jamaica Rum 43 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup>
 
 **Dry**
 
@@ -85,10 +85,10 @@ Rating: 😋🍍🍹🥥 (untested)
 
 # NUTRITIONAL & OTHER INFO
 
-- **Nutritional values per 100g/ml:** 100g; 101.9 kcal; fat 1.8g; carbs 17.9g; sugar 10.9g; protein 0.6g; salt 0.2g
-- **Nutritional values per ½ Deluxe Tub:** 340g; 346.5 kcal; fat 6.1g; carbs 60.8g; sugar 37.2g; protein 2.1g; salt 0.6g
-- **Nutritional values total:** 677g; 690.0 kcal; fat 12.2g; carbs 121.1g; sugar 74.1g; protein 4.2g; salt 1.3g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 31.37
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 2.44% • LOW-FAT
+- **Nutritional values per 100g/ml:** 100g; 101.0 kcal; fat 1.7g; carbs 16.7g; sugar 9.8g; protein 0.7g; salt 0.2g
+- **Nutritional values per ½ Deluxe Tub:** 340g; 343.4 kcal; fat 5.7g; carbs 56.9g; sugar 33.3g; protein 2.3g; salt 0.6g
+- **Nutritional values total:** 677g; 683.8 kcal; fat 11.3g; carbs 113.3g; sugar 66.3g; protein 4.5g; salt 1.2g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 32.46
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 2.65% • LOW-FAT
 - **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 9.3g • 1.4%
-- **Net carbs:** 103.3g • *∝ 5 servings@135g:* 20.7g • *∝ 3 servings@226g:* 34.4g • *energy ratio (low <20%):* 59.9%
+- **Net carbs:** 95.5g • *∝ 5 servings@135g:* 19.1g • *∝ 3 servings@226g:* 31.8g • *energy ratio (low <20%):* 55.9%

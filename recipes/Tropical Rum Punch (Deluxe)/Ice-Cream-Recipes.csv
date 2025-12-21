@@ -1,14 +1,14 @@
 Tropical Rum Punch (Deluxe);;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 ;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;;
-Nutritional values per 100g/ml;100;g;;101.9;1.8;17.9;10.9;0.6;0.2;;;;;
-Nutritional values per ½ Deluxe Tub;340;g;;346.5;6.1;60.8;37.2;2.1;0.6;;;;;
-Nutritional values total;677;g;;690.0;12.2;121.1;74.1;4.2;1.3;;;;;
+Nutritional values per 100g/ml;100;g;;101.0;1.7;16.7;9.8;0.7;0.2;;;;;
+Nutritional values per ½ Deluxe Tub;340;g;;343.4;5.7;56.9;33.3;2.3;0.6;;;;;
+Nutritional values total;677;g;;683.8;11.3;113.3;66.3;4.5;1.2;;;;;
 ;;;;;;;;;;;;;;
-FPDF / PAC (target 20..30);31.37;;;;;;;;;;;;;
-"Protein / Energy Ratio (ok=12%; hi=20%)";2.44%;;;;LOW-FAT;;;;;;;;;
+FPDF / PAC (target 20..30);32.46;;;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";2.65%;;;;LOW-FAT;;;;;;;;;
 ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);9.3;g;;1.4%;;;;;;;;;;
-ℹ️ Net carbs;103.3;g;;*∝ 5 servings@135g:* 20.7g;;;*∝ 3 servings@226g:* 34.4g;;;*energy ratio (low <20%):* 59.9%;;;;
+ℹ️ Net carbs;95.5;g;;*∝ 5 servings@135g:* 19.1g;;;*∝ 3 servings@226g:* 31.8g;;;*energy ratio (low <20%):* 55.9%;;;;
 ;;;;;;;;;;;;;;
 "*Tropical Rum Punch* blends pineapple, orange, and
 mango juices with a hint of lime for a bright, fruity base.
@@ -30,12 +30,12 @@ Rating: 😋🍍🍹🥥 (untested)";;;;;;;;;;;;;;
  1. Let it cool down a bit and blend into the rest of the ‘wet’ ingredients.";;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment;0Carb[%];Counts?
-Juice: 60% Orange/20% Mango/20% Pineapple [REWE];175.00;ml;0;67.00;0.50;16.00;16.00;0.50;0.07;0.16;;;;1
-Water;130.00;ml;0;;;;;;;;;;;1
+Juice: 60% Orange/20% Mango/20% Pineapple [REWE];200.00;ml;0;48.00;0.00;10.10;10.10;0.60;0.00;0.10;;;;1
+Water;100.00;ml;0;;;;;;;;;;;1
 Lime or lemon juice;30.00;ml;0;25.00;0.10;8.40;1.70;0.40;;;;;;1
 Pomegranate syrup (grenadine, nar ekşisi) [fersan];15.00;g;0;292.00;0.10;71.70;53.40;1.00;0.60;0.53;;0.76 ml/g;;1
 Pineapple in juice [REWE];225.00;g;1;69.00;;16.00;15.00;0.60;0.00;0.15;;Can = 227g (140g fruit);;1
-Jamaica Rum 43 vol%;40.00;g;1;300.00;;;;;;3.18;;;;1
+Jamaica Rum 43 vol%;45.00;g;1;300.00;;;;;;3.18;;;;1
 Mango (fresh or frozen);;g;1;62.00;0.50;13.00;13.00;0.60;0.00;0.13;;;;1
 Banana Powder (green plantain) [Govinda];20.00;g;2;365.00;1.50;78.00;10.00;2.00;0.01;;;*alternatives:* (instant) starch, or tapioca;;1
 Coconut Milk Powder 54% [Green Essence];20.00;g;2;640.00;55.00;40.25;1.25;6.25;0.13;;46.50;;;1
