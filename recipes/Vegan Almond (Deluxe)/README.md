@@ -31,13 +31,13 @@ tags:
 
 Vegan base with almond butter and amaretto in soy milk thickened with green banana starch.
 
-Process on *Light Ice Cream*, with scrape-down, and a mix-in or respin run if needed.<br clear=all />
+Process on *FroYo* or *Light Ice Cream*, with scrape-down, and a mix-in or respin run if needed.<br clear=all />
 
-> <img width=220 alt="After 1st Spin" src="_1.jpg" class="zoomable" />
-> <img width=220 alt="After Mix-in" src="_2.jpg" class="zoomable" />
-> <img width=220 alt="Scooped" src="_3.jpg" class="zoomable" />
+> <img width=220 alt="After 1st Spin" src="Vegan-Almond_2025-12-21_1.jpg" class="zoomable" />
+> <img width=220 alt="After Mix-in" src="Vegan-Almond_2025-12-21_2.jpg" class="zoomable" />
+> <img width=220 alt="Scooped" src="Vegan-Almond_2025-12-21_3.jpg" class="zoomable" />
 
-Rating: 😋 (untested)
+Rating: 😋😋😋😋😋 (sweet almond taste, which is good since I wanted a marzipan note, firm pudding-like consistency)
 
 # INGREDIENTS
 
@@ -51,7 +51,7 @@ Rating: 😋 (untested)
 **Wet**
 
   - _160ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup> • *alternative:* any other preferred milk (~2% fat)
-  - _40ml_ [Amaretto 28 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup>
+  - _40g_ [Almond Liqueur 21.5 vol% \[Casella Amaretto\]](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup> • 1 bottle = 700ml
 
 **Dry**
 
@@ -78,10 +78,10 @@ Rating: 😋 (untested)
 
 # NUTRITIONAL & OTHER INFO
 
-- **Nutritional values per 100g/ml:** 100g; 100.5 kcal; fat 4.3g; carbs 14.8g; sugar 2.6g; protein 3.6g; salt 0.2g
-- **Nutritional values per ½ Deluxe Tub:** 340g; 341.7 kcal; fat 14.7g; carbs 50.4g; sugar 8.9g; protein 12.1g; salt 0.7g
-- **Nutritional values total:** 680g; 683.4 kcal; fat 29.5g; carbs 100.9g; sugar 17.8g; protein 24.2g; salt 1.5g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 31.00
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 14.14% • Low-Sugar
+- **Nutritional values per 100g/ml:** 100g; 95.1 kcal; fat 4.3g; carbs 14.1g; sugar 1.9g; protein 3.6g; salt 0.2g
+- **Nutritional values per ½ Deluxe Tub:** 340g; 323.5 kcal; fat 14.7g; carbs 48.1g; sugar 6.5g; protein 12.1g; salt 0.7g
+- **Nutritional values total:** 680g; 647.0 kcal; fat 29.5g; carbs 96.1g; sugar 13.0g; protein 24.2g; salt 1.5g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.04
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 14.94% • Low-Sugar
 - **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 20.4g • 3.0%
-- **Net carbs:** 38.1g • *∝ 5 servings@136g:* 7.6g • *∝ 3 servings@227g:* 12.7g • *energy ratio (low <20%):* 22.3%
+- **Net carbs:** 33.3g • *∝ 5 servings@136g:* 6.7g • *∝ 3 servings@227g:* 11.1g • *energy ratio (low <20%):* 20.6%
