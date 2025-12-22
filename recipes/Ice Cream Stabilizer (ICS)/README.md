@@ -13,6 +13,7 @@ tags:
 - Erythritol
 - Polysaccharide Gum
 - Tylo Powder (CMC)
+- Vegan
 ---
 # Ice Cream Stabilizer • ICSv2
 <img style="float: right; padding-left: 1rem;" width=320 alt="ICS Logo" src="https://github.com/jhermann/ice-creamery/blob/main/assets/ICS-logo.png?raw=true" />

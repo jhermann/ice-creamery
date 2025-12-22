@@ -10,6 +10,7 @@ tags:
 - Emulsifier
 - Polysaccharide Gum
 - Tylo Powder (CMC)
+- Vegan
 ---
 # Instamaze
 <img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="logo-Instamaze.png" />

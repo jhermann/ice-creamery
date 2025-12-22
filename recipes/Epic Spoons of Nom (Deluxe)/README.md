@@ -19,6 +19,7 @@ tags:
 - Scoopable
 - Sucralose
 - Tylo Powder (CMC)
+- Vegan
 ---
 # Epic Spoons of Nom (Deluxe)
 <img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="logo-ESoN.webp" />

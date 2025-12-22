@@ -17,6 +17,7 @@ tags:
 - Emulsifier
 - Polysaccharide Gum
 - Tylo Powder (CMC)
+- Vegan
 ---
 # Salty Stability
 <img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="logo-salty-stability.webp" />

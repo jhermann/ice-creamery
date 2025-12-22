@@ -16,6 +16,7 @@ tags:
 - Scoopable
 - Sucralose
 - Tylo Powder (CMC)
+- Vegan
 - Xylitol
 ---
 # Espresso Martini Light (Deluxe)
