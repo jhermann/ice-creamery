@@ -6,6 +6,9 @@ excluded_steps:
 excluded_tags:
 - Allulose
 - Vanilla
+replace:
+- Fill to MAX=>Flavor (treat as Wet/Dry as appropriate)
+- Mix-ins=>Fill to MAX
 tags:
 - Erythritol
 - Fruit
@@ -53,11 +56,14 @@ Rating: 😋😋🥛🫐🫐 (Creamy and ice-free, with blueberries)
   - _0.75g_ Salt
   - _0.75g_ [Xanthan gum (E415, XG)](/ice-creamery/info/ingredients/#xanthan-gum-xg-e415){target="_blank"}<sup>↗</sup> • 1tsp ≈ 2.8g
 
+**Flavor (treat as Wet/Dry as appropriate)**
+
+  - _60g_ Strawberries
+  - _20g_ Strawberry powder [Supergarden]
+
 **Fill to MAX**
 
   - _125g_ Cream 32% [REWE Beste Wahl]
-  - _60g_ Strawberries
-  - _20g_ Strawberry powder [Supergarden]
 
 # DIRECTIONS
 
@@ -69,6 +75,7 @@ Rating: 😋😋🥛🫐🫐 (Creamy and ice-free, with blueberries)
  1. For better results, let the base age in the fridge (covered, lid on), for a few hours or over night. This helps flavor development and gum hydration, especially with unheated bases.
  1. Freeze for 24h with lid on, then spin as usual. Flatten any humps before that.
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
+ 1. Process with MIX-IN after adding mix-ins evenly. For that, add partial amounts into a hole going down to the bottom, and fold the ice cream over, building pockets of mix-ins.
 
 # NUTRITIONAL & OTHER INFO
 
