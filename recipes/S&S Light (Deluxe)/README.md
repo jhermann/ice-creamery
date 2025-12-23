@@ -60,6 +60,7 @@ Rating: 😋😋🥛🫐🫐 (Creamy and ice-free, with blueberries)
 
   - _60g_ Strawberries
   - _20g_ Strawberry powder [Supergarden]
+  - _2g_ Beet Root Powder (organic) [Mandoi] • optional, for color
 
 **Fill to MAX**
 
@@ -79,11 +80,11 @@ Rating: 😋😋🥛🫐🫐 (Creamy and ice-free, with blueberries)
 
 # NUTRITIONAL & OTHER INFO
 
-- **Nutritional values per 100g/ml:** 100g; 120.0 kcal; fat 6.9g; carbs 16.6g; sugar 3.6g; protein 4.0g; salt 0.2g
-- **Nutritional values per ½ Deluxe Tub:** 340g; 408.1 kcal; fat 23.4g; carbs 56.4g; sugar 12.4g; protein 13.8g; salt 0.7g
-- **Nutritional values total:** 690g; 827.7 kcal; fat 47.5g; carbs 114.3g; sugar 25.2g; protein 27.9g; salt 1.4g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 31.91
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 13.49% • Low-Sugar
+- **Nutritional values per 100g/ml:** 100g; 120.7 kcal; fat 6.9g; carbs 16.7g; sugar 3.8g; protein 4.1g; salt 0.2g
+- **Nutritional values per ½ Deluxe Tub:** 340g; 410.4 kcal; fat 23.4g; carbs 56.9g; sugar 12.8g; protein 13.9g; salt 0.7g
+- **Nutritional values total:** 692g; 834.6 kcal; fat 47.6g; carbs 115.7g; sugar 26.1g; protein 28.2g; salt 1.4g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 31.82
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 13.52% • Low-Sugar
 - **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 41.3g • 6.0%
-- **Net carbs:** 38.1g • *∝ 5 servings@138g:* 7.6g • *∝ 3 servings@230g:* 12.7g • *energy ratio (low <20%):* 18.4%
+- **Net carbs:** 39.5g • *∝ 5 servings@138g:* 7.9g • *∝ 3 servings@231g:* 13.2g • *energy ratio (low <20%):* 18.9%
 - **Net carbs (base only):** 24.4g

@@ -1,14 +1,14 @@
 S&S Light (Deluxe);;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 ;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;;
-Nutritional values per 100g/ml;100;g;;120.0;6.9;16.6;3.6;4.0;0.2;;;;;
-Nutritional values per ½ Deluxe Tub;340;g;;408.1;23.4;56.4;12.4;13.8;0.7;;;;;
-Nutritional values total;690;g;;827.7;47.5;114.3;25.2;27.9;1.4;;;;;
+Nutritional values per 100g/ml;100;g;;120.7;6.9;16.7;3.8;4.1;0.2;;;;;
+Nutritional values per ½ Deluxe Tub;340;g;;410.4;23.4;56.9;12.8;13.9;0.7;;;;;
+Nutritional values total;692;g;;834.6;47.6;115.7;26.1;28.2;1.4;;;;;
 ;;;;;;;;;;;;;;
-FPDF / PAC (target 20..30);31.91;;;;;;;;;;;;;
-"Protein / Energy Ratio (ok=12%; hi=20%)";13.49%;;;;;;Low-Sugar;;;;;;;
+FPDF / PAC (target 20..30);31.82;;;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";13.52%;;;;;;Low-Sugar;;;;;;;
 ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);41.3;g;;6.0%;;;;;;;;;;
-ℹ️ Net carbs;38.1;g;;*∝ 5 servings@138g:* 7.6g;;;*∝ 3 servings@230g:* 12.7g;;;*energy ratio (low <20%):* 18.4%;;;;
+ℹ️ Net carbs;39.5;g;;*∝ 5 servings@138g:* 7.9g;;;*∝ 3 servings@231g:* 13.2g;;;*energy ratio (low <20%):* 18.9%;;;;
 ;;;;;;;;;;;;;;
 "Adapted Salt & Straw's base, scaled to ~600g neutral base and targeted for less fat (8%) and sugar (2%) with 3.4% net carbs.
 
@@ -38,3 +38,4 @@ Xanthan gum (E415, XG);0.75;g;2;320.00;;78.00;;6.00;1.00;;;1tsp ≈ 2.8g;;1
 Cream 32% [REWE Beste Wahl];125.00;g;4;311.00;32.00;3.20;3.20;2.50;0.13;0.03;6.32;;;1
 Strawberries;60.00;g;3;31.00;0.40;5.80;5.70;0.80;0.00;0.06;;;;1
 Strawberry powder [Supergarden];20.00;g;3;287.00;3.70;50.90;50.60;7.60;0.00;0.51;;;;1
+Beet Root Powder (organic) [Mandoi];2.00;g;3;347.00;1.00;70.00;46.00;14.10;0.10;;;optional, for color;;1
