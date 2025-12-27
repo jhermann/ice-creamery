@@ -35,6 +35,8 @@ Spun on Sorbet with a re-spin, and coarsely cubed stollen as a mix-in. The mix-i
 
 Rating: 😋😋🍎🍏🎅
 
+Mix-ins are not included in the macros.
+
 # INGREDIENTS
 
 ℹ️ Brand names are in square brackets `[...]`.
@@ -61,7 +63,9 @@ Rating: 😋😋🍎🍏🎅
 
 **Mix-ins**
 
-  - _10g_ Raisins (chopped) • add as a topping or mix-in [30kcal, 6.8g sugar]
+  - _20g_ Almond slivers [naturix24] • add as a topping or mix-in [118kcal, 0.8g sugar]
+  - _15g_ Raisins (chopped) • add as a topping or mix-in [45kcal, 10.2g sugar]
+  - _50g_ Stollen, coarsely cubed [REWE] • add as a mix-in [194kcal, 16.5g sugar]
 
 # DIRECTIONS
 
