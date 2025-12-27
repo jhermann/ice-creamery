@@ -4,6 +4,7 @@ description: Recipe for the Ninja Creami Deluxe [24oz]
 excluded_steps:
 - ^$
 excluded_tags:
+- Allulose
 - Vanilla
 tags:
 - Dairy
@@ -41,20 +42,20 @@ Rating: 😋😋🍎🍏🎅
 **Wet**
 
   - _300ml_ Apple Sauce (no added sugar) [Gut Bio/Aldi] • 1 jar = 355g
-  - _150ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
-  - _100g_ [Cottage Cheese 4% \[REWE Bio\]](/ice-creamery/info/ingredients/#cottage-cheese){target="_blank"}<sup>↗</sup>
+  - _150ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup> • *alternative*: any other preferred milk (~2% fat)
+  - _100g_ [Cottage Cheese 4% \[REWE Bio\]](/ice-creamery/info/ingredients/#cottage-cheese){target="_blank"}<sup>↗</sup> • *alternative:* silken tofu for dairy-free
   - _15g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • Sweetness = 60%; GI = 5; Density = 1.26 g/ml
-  - _10g_ [Brandy or Vodka 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup>
+  - _10g_ [Brandy or Vodka 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup> • *alternative:* 8g (additional) VG for a sober recipe
 
 **Dry**
 
-  - _32g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • POD ≈ 90%; GI < 7
-  - _15g_ [Salty Stability \[Inulin / GMS / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup> • unsweetened “ICSv2”
+  - _32g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • *alternative:* 43g allulose or dextrose
+  - _15g_ [Salty Stability \[Inulin / GMS / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup> • *not-as-good substitute:* 1.5g guar, 0.5g xanthan, and 0.5g salt
   - _3g_ Cinnamon (Ceylon) • 1tsp = 3g
 
 **Fill to MAX**
 
-  - _55ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
+  - _55ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup> • *alternative*: any other preferred milk (~2% fat)
   - _≈3 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
   - _≈3 drops_ Flavor drops Caramel (sucralose) [IronMaxx] • to taste
 
@@ -69,14 +70,15 @@ Rating: 😋😋🍎🍏🎅
  1. Pour into the tub and *QUICKLY* use an immersion blender on full speed to homogenize everything.
  1. Let blender run until thickeners are properly hydrated, up to 1-2 min. Or blend again after waiting that time.
  1. Add remaining ingredients (to the MAX line) and stir with a spoon.
- 1. Put on the lid, freeze for 24h, then spin as usual. Flatten any humps before that.
+ 1. For better results, let the base age in the fridge (covered, lid on), for a few hours or over night. This helps flavor development and gum hydration, especially with unheated bases.
+ 1. Freeze for 24h with lid on, then spin as usual. Flatten any humps before that.
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
  1. Process with MIX-IN after adding mix-ins evenly. For that, add partial amounts into a hole going down to the bottom, and fold the ice cream over, building pockets of mix-ins.
 
 # NUTRITIONAL & OTHER INFO
 
 - **Nutritional values per 100g/ml:** 100g; 69.4 kcal; fat 1.4g; carbs 14.6g; sugar 4.7g; protein 3.0g; salt 0.2g
-- **Nutritional values per ½ Deluxe Tub:** 360g; 249.7 kcal; fat 4.9g; carbs 52.4g; sugar 16.9g; protein 10.8g; salt 0.7g
+- **Nutritional values per ½ Deluxe Tub:** 340g; 235.8 kcal; fat 4.7g; carbs 49.5g; sugar 15.9g; protein 10.2g; salt 0.7g
 - **Nutritional values total:** 680g; 471.7 kcal; fat 9.3g; carbs 99.0g; sugar 31.9g; protein 20.4g; salt 1.4g
 - **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.47
 - **Protein / Energy Ratio (ok=12%; hi=20%):** 17.30% • LOW-FAT • Low-Sugar
