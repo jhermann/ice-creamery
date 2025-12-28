@@ -2463,7 +2463,7 @@
 <article class="md-content__inner md-typeset">
 <h1 id="recently-changed">Recently Changed<img alt="Logo" src="/ice-creamery/info/logo-changed.png" style="float: right; margin-left: 1.5em;" width="160"/><a class="headerlink" href="#recently-changed" title="Anchor link to this section for reference">¶</a></h1>
 <!--
-1. git log --since="2 months ago" --pretty=format:"%H %ad %s" --date=short --numstat recipes >history.txt
+1. git log --since="3 months ago" --pretty=format:"%H %ad %s" --date=short --numstat recipes >history.txt
 2. add "history.txt" as a source to NotebookLM (via "Upload")
 3. paste the prompt:
 
@@ -2472,7 +2472,7 @@ use the "history.txt" source which has this format: records are lines separated 
 the other lines hold the number of added and deleted lines for each file changed in the commit,
 which can be used to infer the changeset size, followed by the path of the file.
 
-list the names of the directory under "recipes" for all changes of "README.md" files
+create a bullet list of the names of the directory under "recipes" for all changes of "README.md" files
 that have at least one record with more than 40 lines added. sort the list by the date in descending order,
 and include the date as the first field, in bold text.
 leave out the text " (Deluxe)" in the visible directory name.
@@ -2481,7 +2481,7 @@ link the directory name using Markdown format, with the URL prefix
 and finally followed by the FULL original directory name. url-encode that link.
 put the number of added lines into a HTML comment after the link, in the format "added NNN lines".
 -->
-<p>These recipes were added in the last 2 months.</p>
+<p>These recipes were added in the last 3 months.</p>
 <div class="admonition tip">
 <p class="admonition-title">Draft Recipes</p>
 <p>Also see the <a href="/ice-creamery/tags/#tag:draft">Draft</a> and
@@ -2489,41 +2489,30 @@ put the number of added lines into a HTML comment after the link, in the format 
 for recipes that aren't tested yet, or need further optimizations.</p>
 </div>
 <ul>
-<li><strong>2025-09-18</strong> <a href="/ice-creamery/E/Easy%20Peely%20%28Deluxe%29">Easy Peely</a> <!-- added 80 lines --></li>
-<li><strong>2025-09-17</strong> <a href="/ice-creamery/M/Milky%20Whey%20%28Deluxe%29">Milky Whey</a> <!-- added 84 lines --></li>
-<li><strong>2025-09-05</strong> <a href="/ice-creamery/I/Instamaze">Instamaze</a> <!-- added 72 lines --></li>
-<li><strong>2025-08-23</strong> <a href="/ice-creamery/C/Creamy%20Watermelon%20%28Deluxe%29">Creamy Watermelon</a> <!-- added 75 lines --></li>
-<li><strong>2025-08-20</strong> <a href="/ice-creamery/M/Margarita%20Sorbet%20%28Deluxe%29">Margarita Sorbet</a> <!-- added 80 lines --></li>
-<li><strong>2025-08-17</strong> <a href="/ice-creamery/L/Lazy%20Skyr%20%28Deluxe%29">Lazy Skyr</a> <!-- added 78 lines --></li>
-<li><strong>2025-08-17</strong> <a href="/ice-creamery/D/Dulce%20de%20Leche%20%E2%80%A2%20Vegan%20%28Deluxe%29">Dulce de Leche • Vegan</a> <!-- added 41 lines --></li>
-<li><strong>2025-08-16</strong> <a href="/ice-creamery/L/Lemon%20Cake%20%28Deluxe%29">Lemon Cake</a> <!-- added 73 lines --></li>
-<li><strong>2025-08-15</strong> <a href="/ice-creamery/D/Drunken%20Peach%20Cheesecake%20%28Deluxe%29">Drunken Peach Cheesecake</a> <!-- added 81 lines --></li>
-<li><strong>2025-08-14</strong> <a href="/ice-creamery/T/Topfenpalatschinken%20%28Deluxe%29">Topfenpalatschinken</a> <!-- added 90 lines --></li>
-<li><strong>2025-08-14</strong> <a href="/ice-creamery/A/Avocado%20pure%20%28Deluxe%29">Avocado pure</a> <!-- added 71 lines --></li>
-<li><strong>2025-08-12</strong> <a href="/ice-creamery/C/Cherry%20Ice%20Cream%20%28Deluxe%29">Cherry Ice Cream</a> <!-- added 44 lines --></li>
-<li><strong>2025-08-07</strong> <a href="/ice-creamery/B/Banana%2BRum%20Gelato%20%28Deluxe%29">Banana+Rum Gelato</a> <!-- added 73 lines --></li>
-<li><strong>2025-08-04</strong> <a href="/ice-creamery/H/Hokkaido%20Pumpkin%20%28Deluxe%29">Hokkaido Pumpkin</a> <!-- added 90 lines --></li>
-<li><strong>2025-08-02</strong> <a href="/ice-creamery/E/Espresso%20Martini%20Light%20%28Deluxe%29">Espresso Martini Light</a> <!-- added 80 lines --></li>
-<li><strong>2025-08-02</strong> <a href="/ice-creamery/C/Creamia%20%28Deluxe%29">Creamia</a> <!-- added 76 lines --></li>
-<li><strong>2025-08-01</strong> <a href="/ice-creamery/D/Datanacoco%20%28Deluxe%29">Datanacoco</a> <!-- added 80 lines --></li>
-<li><strong>2025-08-01</strong> <a href="/ice-creamery/B/Butter%20Pecan%20%28Deluxe%29">Butter Pecan</a> <!-- added 89 lines --></li>
-<li><strong>2025-07-31</strong> <a href="/ice-creamery/B/Butterscotch%20%28Deluxe%29">Butterscotch</a> <!-- added 82 lines --></li>
-<li><strong>2025-07-28</strong> <a href="/ice-creamery/A/Apple%20Strudel%20%28Deluxe%29">Apple Strudel</a> <!-- added 79 lines --></li>
-<li><strong>2025-07-27</strong> <a href="/ice-creamery/W/Woodruff%20%28Deluxe%29">Woodruff</a> <!-- added 81 lines --></li>
-<li><strong>2025-07-23</strong> <a href="/ice-creamery/B/Buttermilk%20Stracciatella%20%28Deluxe%29">Buttermilk Stracciatella</a> <!-- added 84 lines --></li>
-<li><strong>2025-07-22</strong> <a href="/ice-creamery/D/Dark%20Temptation%20%28Deluxe%29">Dark Temptation</a> <!-- added 89 lines --></li>
-<li><strong>2025-07-20</strong> <a href="/ice-creamery/J/Just%20Fruit%20%28Deluxe%29">Just Fruit</a> <!-- added 92 lines --></li>
-<li><strong>2025-07-20</strong> <a href="/ice-creamery/M/Milkshake">Milkshake</a> <!-- added 44 lines --></li>
+<li><strong>2025-12-22</strong> <a href="/ice-creamery/T/Tropical%20Rum%20Punch%20%28Deluxe%29">Tropical Rum Punch</a> <!-- added 94 lines --></li>
+<li><strong>2025-12-20</strong> <a href="/ice-creamery/V/Vegan%20Almond%20%28Deluxe%29">Vegan Almond</a> <!-- added 85 lines --></li>
+<li><strong>2025-12-14</strong> <a href="/ice-creamery/V/Vegan%20Gingerbread%20%28Deluxe%29">Vegan Gingerbread</a> <!-- added 89 lines --></li>
+<li><strong>2025-12-01</strong> <a href="/ice-creamery/V/Vegan%20Vanilla%20%28Deluxe%29">Vegan Vanilla</a> <!-- added 79 lines --></li>
+<li><strong>2025-11-21</strong> <a href="/ice-creamery/S/S%26S%20Coconut%20%28Deluxe%29">S&amp;S Coconut</a> <!-- added 86 lines --></li>
+<li><strong>2025-11-16</strong> <a href="/ice-creamery/R/Rum%20Raisin%20Coconut%20%28Deluxe%29">Rum Raisin Coconut</a> <!-- added 97 lines --></li>
+<li><strong>2025-11-14</strong> <a href="/ice-creamery/W/Winter%20Almonds%20%28Deluxe%29">Winter Almonds</a> <!-- added 96 lines --></li>
+<li><strong>2025-11-04</strong> <a href="/ice-creamery/V/Vanilla%20Paste">Vanilla Paste</a> <!-- added 75 lines --></li>
+<li><strong>2025-11-02</strong> <a href="/ice-creamery/B/Buttermilk%20Vanilla%20%28Deluxe%29">Buttermilk Vanilla</a> <!-- added 81 lines --></li>
+<li><strong>2025-10-24</strong> <a href="/ice-creamery/V/Vegan%20Lime%20Light%20%28Deluxe%29">Vegan Lime Light</a> <!-- added 83 lines --></li>
+<li><strong>2025-10-10</strong> <a href="/ice-creamery/S/Starry%20Night%20%28Deluxe%29">Starry Night</a> <!-- added 90 lines --></li>
+<li><strong>2025-10-08</strong> <a href="/ice-creamery/B/Beso%20de%20%C3%81ngel%20%28Deluxe%29">Beso de Ángel</a> <!-- added 93 lines --></li>
+<li><strong>2025-10-08</strong> <a href="/ice-creamery/W/Witches%27%20Brew%20%28Deluxe%29">Witches' Brew</a> <!-- added 91 lines --></li>
+<li><strong>2025-10-04</strong> <a href="/ice-creamery/P/Pumpkin%20Spice%20Gelato%20%28Deluxe%29">Pumpkin Spice Gelato</a> <!-- added 81 lines --></li>
 </ul>
 <p>These entries represent changes where the <code>README.md</code> file within their respective recipe directories
 had more than 40 lines added. The list is ordered with the most recent changes first.</p>
-<p>[last updated 2025-09-18]</p>
+<p>[last updated 2025-12-28]</p>
 <aside class="md-source-file">
 <span class="md-source-file__fact">
 <span class="md-icon" title="Last update">
 <svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"></path></svg>
 </span>
-<span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="November 2, 2025 08:56:45 UTC">November 2, 2025</span>
+<span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="December 28, 2025 22:15:15 UTC">December 28, 2025</span>
 </span>
 </aside>
 </article>
@@ -2568,7 +2557,7 @@ had more than 40 lines added. The list is ordered with the most recent changes f
 <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank"><img alt="CC-BY-NC-4.0" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/assets/logo-cc-by-nc-4.0.png" style="height: 0.9em;"/></a>
 • Made with <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank">Material for MkDocs</a>
 
-      • Last updated: 2025-12-28 10:19 UTC
+      • Last updated: 2025-12-28 22:16 UTC
     </div>
 </div>
 <div class="md-social">
