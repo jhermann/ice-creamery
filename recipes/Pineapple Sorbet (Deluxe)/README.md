@@ -54,7 +54,7 @@ Rating: 😋😋😋🍍🍍
 **Fill to MAX**
 
   - _75ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup> • *alternative*: any other preferred milk (~2% fat)
-  - _≈1 drops_ Flavor drops Peach / Maracuja (sucralose) [IronMaxx] • to taste
+  - _≈7 drops_ Flavor drops Peach / Maracuja (sucralose) [IronMaxx] • to taste
 
 **Optional / Choices**
 
