@@ -39,7 +39,7 @@ with a subtle tart sweetness.
 
 The result is a refreshing sorbet that tastes like sunshine.<br clear=all />
 
-Spin on “Sorbet”, scrape down, and re-spin.
+Spin on “Sorbet”, scrape down, and respin.
 
 > <img width=220 alt="After 1st Spin" src="Tropical-Rum-Punch_2025-12-30_1.jpg" class="zoomable" />
 > <img width=220 alt="After Respin" src="Tropical-Rum-Punch_2025-12-30_2.jpg" class="zoomable" />
@@ -65,7 +65,7 @@ Rating: 😋🍍🍹🥥 (very dense consistency, unique taste)
 
 **Dry**
 
-  - _20g_ [Banana Powder (green plantain) \[Govinda\]](/ice-creamery/info/ingredients/#green-banana-powder-plantain){target="_blank"}<sup>↗</sup> • *alternatives:* (instant) starch, or tapioca
+  - _10g_ [Banana Powder (green plantain) \[Govinda\]](/ice-creamery/info/ingredients/#green-banana-powder-plantain){target="_blank"}<sup>↗</sup> • *alternatives:* (instant) starch, or tapioca
   - _20g_ [Coconut Milk Powder 54% \[Green Essence\]](/ice-creamery/info/ingredients/#coconut-milk){target="_blank"}<sup>↗</sup>
   - _20g_ [Inulin \[Vit4ever\]](/ice-creamery/info/ingredients/#inulin){target="_blank"}<sup>↗</sup> • Sweetness = 8%; GI ~= 0
   - _1g_ Salt
@@ -87,10 +87,10 @@ Rating: 😋🍍🍹🥥 (very dense consistency, unique taste)
 
 # NUTRITIONAL & OTHER INFO
 
-- **Nutritional values per 100g/ml:** 100g; 101.0 kcal; fat 1.7g; carbs 16.7g; sugar 9.8g; protein 0.7g; salt 0.2g
-- **Nutritional values per ½ Deluxe Tub:** 340g; 343.4 kcal; fat 5.7g; carbs 56.9g; sugar 33.3g; protein 2.3g; salt 0.6g
-- **Nutritional values total:** 677g; 683.8 kcal; fat 11.3g; carbs 113.3g; sugar 66.3g; protein 4.5g; salt 1.2g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 32.46
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 2.65% • LOW-FAT
+- **Nutritional values per 100g/ml:** 100g; 97.0 kcal; fat 1.7g; carbs 15.8g; sugar 9.8g; protein 0.6g; salt 0.2g
+- **Nutritional values per ½ Deluxe Tub:** 340g; 329.9 kcal; fat 5.7g; carbs 53.8g; sugar 33.3g; protein 2.2g; salt 0.6g
+- **Nutritional values total:** 667g; 647.3 kcal; fat 11.2g; carbs 105.5g; sugar 65.3g; protein 4.3g; salt 1.2g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 32.94
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 2.68% • LOW-FAT
 - **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 9.3g • 1.4%
-- **Net carbs:** 95.5g • *∝ 5 servings@135g:* 19.1g • *∝ 3 servings@226g:* 31.8g • *energy ratio (low <20%):* 55.9%
+- **Net carbs:** 87.7g • *∝ 5 servings@133g:* 17.5g • *∝ 3 servings@222g:* 29.2g • *energy ratio (low <20%):* 54.2%
