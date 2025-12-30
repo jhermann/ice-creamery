@@ -18,7 +18,6 @@ replace:
 tags:
 - Cooked Base
 - Dairy-Free
-- Draft
 - Fruit
 - Low-Fat
 - Polysaccharide Gum
