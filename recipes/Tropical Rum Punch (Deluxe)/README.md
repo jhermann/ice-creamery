@@ -39,13 +39,13 @@ with a subtle tart sweetness.
 
 The result is a refreshing sorbet that tastes like sunshine.<br clear=all />
 
-Spin on “Sorbet”, scrape down, and re-mix.
+Spin on “Sorbet”, scrape down, and re-spin.
 
-> <img width=220 alt="After 1st Spin" src="_1.jpg" class="zoomable" />
-> <img width=220 alt="After Mix-in" src="_2.jpg" class="zoomable" />
-> <img width=220 alt="Scooped" src="_3.jpg" class="zoomable" />
+> <img width=220 alt="After 1st Spin" src="Tropical-Rum-Punch_2025-12-30_1.jpg" class="zoomable" />
+> <img width=220 alt="After Respin" src="Tropical-Rum-Punch_2025-12-30_2.jpg" class="zoomable" />
+> <img width=220 alt="Scooped" src="Tropical-Rum-Punch_2025-12-30_3.jpg" class="zoomable" />
 
-Rating: 😋🍍🍹🥥 (untested)
+Rating: 😋🍍🍹🥥 (very dense consistency, unique taste)
 
 # INGREDIENTS
 
