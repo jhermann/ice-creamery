@@ -35,6 +35,12 @@ Processed on “Sorbet”, with a scrape-down and re-spin.
 
 Rating: 😋😋😋🍍🍍
 
+> <img width=220 alt="After Sorbet" src="pineapple-sorbet_2025-12-31_1.jpg" class="zoomable" />
+> <img width=220 alt="After Respin" src="pineapple-sorbet_2025-12-31_2.jpg" class="zoomable" />
+> <img width=220 alt="Scooped" src="pineapple-sorbet_2025-12-31_3.jpg" class="zoomable" />
+
+Processed with Sorbet, then a scrape-down and respin. Made with 30g cream cheese and 70ml milk.
+
 # INGREDIENTS
 
 ℹ️ Brand names are in square brackets `[...]`.
