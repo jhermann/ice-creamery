@@ -13,7 +13,6 @@ replace:
 - empty Creami tub=>empty Creami tub, including the prepared coconut milk
 tags:
 - Dairy
-- Draft
 - Emulsifier
 - Erythritol
 - Low-Sugar
