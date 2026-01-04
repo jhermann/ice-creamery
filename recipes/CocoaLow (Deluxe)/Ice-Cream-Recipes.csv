@@ -1,37 +1,103 @@
-CocoaLow (Deluxe);;;;;;;;;;;;;
-;;;;;;;;;;;;;
-;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;
-Nutritional values per 100g/ml;100;g;;68.7;1.6;12.9;0.2;5.8;0.5;;;;
-Nutritional values per ½ Deluxe Tub;360;g;;247.3;5.7;46.5;0.8;20.7;1.7;;;;
-Nutritional values total;720;g;;494.5;11.4;93.0;1.5;41.5;3.4;;;;
-;;;;;;;;;;;;;
-FPDF / PAC (target 20..30);31.56;;;;;;;;;;;;
-"Protein / Energy Ratio (ok=12%; hi=20%)";33.56%;;;;LOW-FAT;;Low-Sugar;Hi-Protein;;;;;
-ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);18.6;g;;2.6%;;;;;;;;;
-ℹ️ Net carbs;24.7;g;;*∝ 5 servings@144g:* 4.9g;;;*∝ 3 servings@240g:* 8.2g;;;;;;
+CocoaLow (Deluxe);;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;;;
+Nutritional values per 100g/ml;100;g;;68.2;1.7;14.1;0.2;3.4;0.1;;;;;
+Nutritional values per ½ Deluxe Tub;340;g;;231.8;5.8;48.0;0.6;11.6;0.4;;;;;
+Nutritional values total;684;g;;466.4;11.6;96.5;1.2;23.3;0.9;;;;;
+;;;;;;;;;;;;;;
+FPDF / PAC (target 20..30);30.16;;;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";20.02%;;;;LOW-FAT;;Low-Sugar;Hi-Protein;;;;;;
+ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);18.0;g;;>;;;;;;;;;;
+ℹ️ Net carbs;25.4;g;;*∝ 5 servings@137g:* 5.1g;;;*∝ 3 servings@228g:* 8.5g;;;*energy ratio (low <20%):* 21.8%;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
 "> 🌿 **Vegan & Dairy-free**<br />Recipe is using only soy milk and protein.
 
-Spin on Sorbet, followed by a scrape-down, and either a Respin or Mix-In run.";;;;;;;;;;;;;
-;;;;;;;;;;;;;
-**This is an experimental recipe, and great texture is not guaranteed!**;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-Rating: 😋 (untested);;;;;;;;;;;;;
-"1. Mix the boiling water with the cocoa powder to bloom it, then let it cool down.
- 1. Add ""wet"" ingredients and the bloomed cocoa to empty Creami tub.";;;;;;;;;;;;;
-The [brand names] used are in brackets.;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment;0Carb[%]
-Water (boiling);125.00;ml;0;;;;;;;;;;
-Cocoa Powder Organic 11% [Sevenhills];35.00;g;0;367.00;11.00;26.80;0.90;28.00;0.05;;;;
-Soy milk 1.6% (sugar-free) [Berief];300.00;ml;1;30.00;1.60;0.90;0.00;3.00;0.08;;;;
-Glycerin (E422, VG) [hd-line];20.00;g;1;400.00;;99.00;;;;3.70;;"POD = 60%; GI = 5; Density = 1.26 g/ml";50.00
-Fir honey [Bihophar];;g;1;338.00;;84.00;58.00;0.10;0.19;1.46;;;
-Soy protein isolate (nature) [Powerstar];20.00;g;2;372.00;1.00;1.00;0.00;89.80;2.50;;93.00;1kg bag, unsweetened, unflavored;
-Inulin [Vit4ever];15.00;g;2;210.00;;97.00;8.00;;0.20;0.09;;"Sweetness = 8%; GI ~= 0";89.00
-Xylitol (E967);15.00;g;2;238.00;;100.00;;;;2.20;;"POD = 100%; GI = 7";100.00
-Erythritol (E968);30.00;g;2;24.00;0.00;100.00;0.00;0.00;0.00;2.80;;POD = 75%;100.00
-Salt;2.50;g;2;;;;;;100.00;5.90;;;
-;;;;;;;;;;;;;
-Soy milk 1.6% (sugar-free) [Berief];157.50;ml;3;30.00;1.60;0.90;0.00;3.00;0.08;;;make blending easier by splitting the milk;
-Water to MAX line;;ml;3;;;;;;;;;;
-Flavor drops Vanilla (sucralose) [IronMaxx];3–7;drops;3;;;;;;;;;to taste;
+Spin on Sorbet, followed by a scrape-down, and either a Respin or Mix-In run.
+
+**This is an experimental recipe, and great texture is not guaranteed!**";;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+Rating: 😋 (untested);;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+"1. Mix the hot water with the cocoa powder to bloom it, then let it cool down.
+ 1. Add ""wet"" ingredients and the bloomed cocoa to empty Creami tub.";;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment;0Carb[%];Counts?
+Water (almost boiling, 90°C);100.00;ml;0;;;;;;;;;;;1
+Cocoa Powder Organic 11% [Sevenhills];35.00;g;0;367.00;11.00;26.80;0.90;28.00;0.05;-0.90;;;;1
+Soy milk 1.6% (sugar-free) [Berief];350.00;ml;1;30.00;1.60;0.90;0.00;3.00;0.08;;4.00;;;1
+Glycerin (E422, VG) [hd-line];20.00;g;1;400.00;;99.00;;;;3.70;;"POD = 60%; GI = 5; Density = 1.26 g/ml";50.00;1
+Brandy or Vodka 40 vol%;10.00;g;1;280.00;;;;;;2.96;;*alternative:* 8g (additional) VG for a sober recipe;;1
+Fir honey [Bihophar];;g;1;338.00;;84.00;58.00;0.10;0.19;1.46;;;;1
+SweEX (Erythritol + Xylitol 3:2);50.00;g;2;109.60;;100.00;;;;2.56;;*alternative:* 67g allulose or dextrose;100.00;1
+Salty Stability [Inulin / GMS / CMC / Guar / XG / Salt];15.00;g;2;267.5;3.6;88.4;5.9;0.3;3.5;0.06;;*not-as-good substitute:* 1.5g guar, 0.5g xanthan, and 0.5g salt;73.80;1
+Instant Coffee [Mount Hagen];4.00;g;2;0.00;;;;;;;;1.5g per 125ml;;1
+;;;;;;;;;;;;;;
+Soy milk 1.6% (sugar-free) [Berief];100.00;ml;3;30.00;1.60;0.90;0.00;3.00;0.08;;4.00;make blending easier by splitting the milk;;1
+Water to MAX line;;ml;3;;;;;;;;;;;1
+Flavor drops Vanilla (sucralose) [IronMaxx];≈5;drops;3;;;;;;;;;to taste;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
