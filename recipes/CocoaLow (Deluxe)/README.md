@@ -25,6 +25,7 @@ tags:
 - Xylitol
 ---
 # CocoaLow (Deluxe)
+<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="logo-CocoaLow.png" />
 
 *CocoaLow* is a chocolate ice cream that delivers
 rich cocoa depth with a whisper of roasted coffee,
@@ -36,7 +37,6 @@ excess fat or carbs. Every gram serves a purpose:
 cocoa for intensity, coffee for contrast, and
 a hint of brandy to reduce crystallization
 and open flavor notes.
-
 > 🌿 **Vegan & Dairy-free**<br />Recipe is using only soy milk and protein.
 
 Spin on Sorbet, followed by a scrape-down, and either a Respin or Mix-In run.
