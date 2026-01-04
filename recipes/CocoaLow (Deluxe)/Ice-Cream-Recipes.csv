@@ -1,16 +1,25 @@
 CocoaLow (Deluxe);;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 ;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;;;
-Nutritional values per 100g/ml;100;g;;68.2;1.7;14.1;0.2;3.4;0.1;;;;;
-Nutritional values per ½ Deluxe Tub;340;g;;231.8;5.8;48.0;0.6;11.6;0.4;;;;;
-Nutritional values total;684;g;;466.4;11.6;96.5;1.2;23.3;0.9;;;;;
+Nutritional values per 100g/ml;100;g;;70.0;1.7;14.4;0.2;3.4;0.1;;;;;
+Nutritional values per ½ Deluxe Tub;340;g;;238.1;5.7;49.0;0.7;11.4;0.4;;;;;
+Nutritional values total;685;g;;479.8;11.4;98.7;1.4;23.0;0.9;;;;;
 ;;;;;;;;;;;;;;
-FPDF / PAC (target 20..30);30.16;;;;;;;;;;;;;
-"Protein / Energy Ratio (ok=12%; hi=20%)";20.02%;;;;LOW-FAT;;Low-Sugar;Hi-Protein;;;;;;
-ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);18.0;g;;>;;;;;;;;;;
-ℹ️ Net carbs;25.4;g;;*∝ 5 servings@137g:* 5.1g;;;*∝ 3 servings@228g:* 8.5g;;;*energy ratio (low <20%):* 21.8%;;;;
+FPDF / PAC (target 20..30);30.11;;;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";19.21%;;;;LOW-FAT;;Low-Sugar;;;;;;;
+ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);17.6;g;;>;;;;;;;;;;
+ℹ️ Net carbs;26.5;g;;*∝ 5 servings@137g:* 5.3g;;;*∝ 3 servings@228g:* 8.8g;;;*energy ratio (low <20%):* 22.1%;;;;
 ;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
+"*CocoaLow* is a chocolate ice cream that delivers
+rich cocoa depth with a whisper of roasted coffee,
+softened by soy milk and a touch of glycerin
+for natural smoothness.
+
+That composition keeps the texture velvety without
+excess fat or carbs. Every gram serves a purpose:
+cocoa for intensity, coffee for contrast, and
+a hint of brandy to reduce crystallization
+and open flavor notes.";;;;;;;;;;;;;;
 "> 🌿 **Vegan & Dairy-free**<br />Recipe is using only soy milk and protein.
 
 Spin on Sorbet, followed by a scrape-down, and either a Respin or Mix-In run.
@@ -31,11 +40,11 @@ Brandy or Vodka 40 vol%;10.00;g;1;280.00;;;;;;2.96;;*alternative:* 8g (additiona
 Fir honey [Bihophar];;g;1;338.00;;84.00;58.00;0.10;0.19;1.46;;;;1
 SweEX (Erythritol + Xylitol 3:2);50.00;g;2;109.60;;100.00;;;;2.56;;*alternative:* 67g allulose or dextrose;100.00;1
 Salty Stability [Inulin / GMS / CMC / Guar / XG / Salt];15.00;g;2;267.5;3.6;88.4;5.9;0.3;3.5;0.06;;*not-as-good substitute:* 1.5g guar, 0.5g xanthan, and 0.5g salt;73.80;1
-Instant Coffee [Mount Hagen];4.00;g;2;0.00;;;;;;;;1.5g per 125ml;;1
+Instant Coffee [Mount Hagen];4.00;g;2;0.00;;;;;;;;"*optional*; 1.5g per 125ml";;1
 ;;;;;;;;;;;;;;
-Soy milk 1.6% (sugar-free) [Berief];100.00;ml;3;30.00;1.60;0.90;0.00;3.00;0.08;;4.00;make blending easier by splitting the milk;;1
-Water to MAX line;;ml;3;;;;;;;;;;;1
-Flavor drops Vanilla (sucralose) [IronMaxx];≈5;drops;3;;;;;;;;;to taste;;
+Soy milk 1.6% (sugar-free) [Berief];90.00;ml;3;30.00;1.60;0.90;0.00;3.00;0.08;;4.00;make blending easier by splitting the milk;;1
+Syrup Caramel (low-sugar) [Sukrin];11.00;ml;3;149.00;0.00;21.00;1.80;0.00;0.07;;;"*optional*; 14% sorbitol, erythritol, stevia";10.00;1
+Flavor drops Vanilla (sucralose) [IronMaxx];≈9;drops;3;;;;;;;;;to taste;;
 ;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
