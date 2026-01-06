@@ -92,6 +92,6 @@ Rating: 😋😋🥛🍫🍫 (creamy and smooth, nice chocolate flavor)
 - **Nutritional values total:** 685g; 479.8 kcal; fat 11.4g; carbs 98.7g; sugar 1.4g; protein 23.0g; salt 0.9g
 - **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.11
 - **Protein / Energy Ratio (ok=12%; hi=20%):** 19.21% • LOW-FAT • Low-Sugar
-- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 17.6g • >
+- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 17.6g
 - **Net carbs:** 26.5g • *∝ 5 servings@137g:* 5.3g • *∝ 3 servings@228g:* 8.8g • *energy ratio (low <20%):* 22.1%
 - **15g 'Salty Stability' is:** 11.0g Inulin • 1.8g Glycerol Monostearate (GMS / E471) • 0.9g Tylose powder (E466, Tylo, CMC) • 0.6g Guar gum (E412) • 0.5g Salt • 0.2g Xanthan gum (E415, XG).
