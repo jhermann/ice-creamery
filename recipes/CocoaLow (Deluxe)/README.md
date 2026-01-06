@@ -10,7 +10,6 @@ excluded_tags:
 - Vanilla
 tags:
 - Dairy-Free
-- Draft
 - Emulsifier
 - Erythritol
 - Light
@@ -37,17 +36,16 @@ excess fat or carbs. Every gram serves a purpose:
 cocoa for intensity, coffee for contrast, and
 a hint of brandy to reduce crystallization
 and open flavor notes.
+
 > 🌿 **Vegan & Dairy-free**<br />Recipe is using only soy milk and protein.
 
-Spin on Sorbet, followed by a scrape-down, and either a Respin or Mix-In run.
+Spun on *Light Ice Cream* and *Ice Cream*, with a scrape-down inbetween.
 
-**This is an experimental recipe, and great texture is not guaranteed!**
+> <img width=220 alt="After 1st Spin" src="CocoaLow_2026-01-06_1.jpg" class="zoomable" />
+> <img width=220 alt="After Mix-in" src="CocoaLow_2026-01-06_2.jpg" class="zoomable" />
+> <img width=220 alt="Scooped" src="CocoaLow_2026-01-06_3.jpg" class="zoomable" />
 
-> <img width=220 alt="After 1st Spin" src="_1.jpg" class="zoomable" />
-> <img width=220 alt="After Mix-in" src="_2.jpg" class="zoomable" />
-> <img width=220 alt="Scooped" src="_3.jpg" class="zoomable" />
-
-Rating: 😋 (untested)
+Rating: 😋😋🥛🍫🍫 (creamy and smooth, nice chocolate flavor)
 
 # INGREDIENTS
 
