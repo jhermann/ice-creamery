@@ -12,6 +12,7 @@ tags:
 - Drinkable
 ---
 # Piña Colada Cocktail (Deluxe)
+<img style="float: right; margin-left: 1.5em;" width=180 alt="Logo" src="logo-Pina_Colada_Cocktail.png" />
 
 A *Piña Colada* is a sweet, creamy, tropical cocktail made with rum, coconut cream (or coconut milk),
 and pineapple juice, often blended with ice to create a slushy texture, though it can also be shaken.
