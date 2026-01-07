@@ -1,0 +1,33 @@
+Piña Colada Cocktail (Deluxe);;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;;
+Nutritional values per 100g/ml;100;g;;199.8;6.9;15.7;15.5;0.5;0.0;;;;;
+Nutritional values per Serving;210;g;;419.7;14.6;33.0;32.6;1.0;0.1;;;;;
+Nutritional values total;630;g;;1259.0;43.7;99.1;97.7;3.0;0.2;;;;;
+;;;;;;;;;;;;;;
+FPDF / PAC (target 20..30);32.43;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+"1. Pour ‘wet’ ingredients into an empty CREAMi Deluxe Tub up to the DRINKABLE FREEZE FILL line.
+ 2. Stir mixture until combined. Freeze for 24 hours, lid on.
+ 3. Remove tub from freezer and remove lid from tub.
+ 4. Add pour-in ingredients to the DRINKABLE POUR-IN line.
+ 5. Press FULL, then use the dial to select FROZEN DRINK and press dial to begin processing.
+ 6. Once processing is complete, transfer piña colada to a glass and serve immediately.
+ 7. **NOTE:** If you prefer a thinner frozen drink after processing, simply add 2–4 additional tablespoons
+ of your desired pour-in (rum or juice), then select RE-SPIN.";;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment;0Carb[%];Counts?
+Cream 32% [REWE Beste Wahl];70.00;ml;1;311.00;32.00;3.20;3.20;2.50;0.13;0.03;6.32;;;1
+White Rum 43 vol%;20.00;g;1;300.00;;;;;;3.18;;;;1
+Cream of Coconut 15% [Coco López];140.00;ml;1;324.00;15.00;47.00;46.00;0.10;0.04;0.46;;48% coconut milk;;1
+Pineapple juice [REWE];270.00;ml;1;51.00;0.10;11.50;11.50;0.40;0.01;0.12;;;;1
+White Rum 43 vol%;130.00;g;3;300.00;;;;;;;;;;1
+Coconut milk 22% [REWE Bio];;ml;1;222.00;22.00;4.00;4.00;2.00;0.04;0.04;;;;0

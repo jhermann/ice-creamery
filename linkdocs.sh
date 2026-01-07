@@ -10,7 +10,7 @@ while read dir; do
     letter=$(tr a-z A-Z <<<"${name:0:1}")
     mkdir -p "docs/$letter"
 
-    if [ "$name" = "Toppings" ]; then
+    if [ "$name" = "Toppings" -o "$name" = "Piña Colada Cocktail (Deluxe)" ]; then
         cp "$dir/README.md" "docs/$letter/$name.md"
 
         ( ls -1 "$dir"/recipe-*.md 2>/dev/null || : ) | sort | \

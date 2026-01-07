@@ -1,3 +1,16 @@
+---
+canonical_url: https://jhermann.github.io/ice-creamery/P/Pi%C3%B1a%20Colada%20Cocktail%20(Deluxe)/
+description: Recipe for the Ninja Creami Deluxe [24oz]
+excluded_steps:
+- ^$
+excluded_tags:
+- Vanilla
+- Fruit
+tags:
+- Alcohol
+- Draft
+- Drinkable
+---
 # Piña Colada Cocktail (Deluxe)
 
 A *Piña Colada* is a sweet, creamy, tropical cocktail made with rum, coconut cream (or coconut milk),

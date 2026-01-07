@@ -1,0 +1,38 @@
+Piña Colada Cocktail • Light (Deluxe);;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;;
+Nutritional values per 100g/ml;100;g;;149.8;3.5;18.1;5.8;0.6;0.0;;;;;
+Nutritional values per Serving;212;g;;317.3;7.4;38.3;12.2;1.2;0.0;;;;;
+Nutritional values total;635;g;;952.0;22.3;115.0;36.6;3.7;0.1;;;;;
+;;;;;;;;;;;;;;
+FPDF / PAC (target 20..30);31.32;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+Fat- and sugar-reduced variant that is also vegan.;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+"1. For the reconstituted coconut cream, mix the ‘prep’ ingredients (except the water) in a medium-sized bowl.
+ 1. Add the hot water and whisk until clump-free.";;;;;;;;;;;;;;
+"1. Pour ‘freezable’ ingredients and the prepared coconut cream into an empty CREAMi Deluxe Tub up to the DRINKABLE FREEZE FILL line.
+ 2. Stir mixture until combined. Freeze for 24 hours, lid on.
+ 3. Remove tub from freezer and remove lid from tub.
+ 4. Add pour-in ingredients to the DRINKABLE POUR-IN line.
+ 5. Press FULL, then use the dial to select FROZEN DRINK and press dial to begin processing.
+ 6. Once processing is complete, transfer piña colada to a glass and serve immediately.
+ 7. **NOTE:** If you prefer a thinner frozen drink after processing, simply add 2–4 additional tablespoons
+ of your desired pour-in (rum or juice), then select RE-SPIN.";;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment;0Carb[%];Counts?
+Water (~85°C);80.00;ml;0;;;;;;;;;*alternative:* 120ml coconut milk 18.5%;;1
+Coconut Milk Powder 54% [Green Essence];40.00;g;0;640.00;55.00;40.25;1.25;6.25;0.13;;46.50;;;1
+Glycerol Monostearate (E471) [Bulk];0.40;g;0;415.00;;;;;;;;*alternative:* lecithin;;1
+SweEX (Erythritol + Xylitol 3:2);45.00;g;0;109.60;;100.00;;;;2.56;;*alternative:* 60g allulose or dextrose;100.00;1
+Sweetener Tablets [LightSüß];12.00;pcs;0;0.00;;;;;;;;1 tablet ≃ 4g sugar;;
+Inulin [Vit4ever];20.00;g;0;210.00;;97.00;8.00;;0.20;0.09;;"Sweetness = 8%; GI ~= 0";89.00;1
+Coconut milk 22% [REWE Bio];;ml;0;222.00;22.00;4.00;4.00;2.00;0.04;0.04;;;;
+White Rum 43 vol%;;g;1;300.00;;;;;;3.18;;;;1
+Pineapple juice [REWE];300.00;ml;1;51.00;0.10;11.50;11.50;0.40;0.01;0.12;;;;1
+White Rum 43 vol%;150.00;g;3;300.00;;;;;;;;;;1

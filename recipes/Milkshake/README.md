@@ -6,6 +6,7 @@ excluded_steps:
 excluded_tags:
 - Vanilla
 tags:
+- Drinkable
 - Hi-Protein
 - Light
 - Low-Fat
