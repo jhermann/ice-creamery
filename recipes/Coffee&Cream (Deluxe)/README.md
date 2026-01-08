@@ -32,6 +32,10 @@ the consistency is soft and firms up after several hours in the freezer.
 
 Rating: 😋😋😋☕☕
 
+> <img width=220 alt="After Light Ice Cream" src="Coffee+Cream_2026-01-08_1.jpg" class="zoomable" />
+> <img width=220 alt="After Mix-in" src="Coffee+Cream_2026-01-08_2.jpg" class="zoomable" />
+> <img width=220 alt="Scooped" src="Coffee+Cream_2026-01-08_3.jpg" class="zoomable" />
+
 # INGREDIENTS
 
 ℹ️ Brand names are in square brackets `[...]`.
