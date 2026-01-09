@@ -16,6 +16,7 @@ tags:
 - Tylo Powder (CMC)
 ---
 # Irish Cream (Deluxe)
+<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="logo-Irish_Cream.png" />
 
 *Irish Cream* ice cream with subtle notes of vanilla, coffee, and chocolate,
 for an easygoing, grown‑up treat.
