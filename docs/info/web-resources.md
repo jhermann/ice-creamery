@@ -111,10 +111,13 @@ I use my spreadsheet, so this is a "what I found on the web" list, without any p
 
 - [Dream Scoops](https://www.dreamscoops.com/ice-cream-science/ice-cream-calculator/) — Meant to be a relatively simple tool for home cooks.
 
-    - 🎦 [Ice Cream Calculator • Part 1](https://www.youtube.com/watch?v=yx9QH_BMW2Q) (from "Polar Ice Creamery")
+    - 🎦 [Ice Cream Calculator • Part 1](https://www.youtube.com/watch?v=yx9QH_BMW2Q) (by *Polar Ice Creamery*)
 
 - [Calculate Ice Cream](https://calculateicecream.com/) — Online recipe creation software.
 - [Scoopulator](https://www.scoopulator.app/calc) — A web-based and approachable ice cream calculator & ingredient database.
+
+    - 🎦 [A New Ice Cream Calculator?](https://www.youtube.com/watch?v=prlcFm3nNwU) (by *Polar Ice Creamery*)
+
 - [IceCreamCalc](https://icecreamcalc.com/) — Ice cream recipe and balancing software.
 
     - [icecreamcalc.app](https://www.icecreamcalc.app/) — Web version of the desktop app, with mostly the same features.
