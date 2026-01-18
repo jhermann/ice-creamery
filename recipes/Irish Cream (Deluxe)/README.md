@@ -7,7 +7,7 @@ excluded_steps:
 excluded_tags:
 - Vanilla
 tags:
-- Draft
+- Alcohol
 - Emulsifier
 - Low-Sugar
 - Polysaccharide Gum
@@ -21,13 +21,13 @@ tags:
 *Irish Cream* ice cream with subtle notes of vanilla, coffee, and chocolate,
 for an easygoing, grown‑up treat.
 
-Spin on “Light Ice Cream”, scrape down, and re-mix if needed.
+Spun on “Light Ice Cream”, with scrape down and a re-mix.
 
-> <img width=220 alt="After 1st Spin" src="_1.jpg" class="zoomable" />
-> <img width=220 alt="After Mix-in" src="_2.jpg" class="zoomable" />
-> <img width=220 alt="Scooped" src="_3.jpg" class="zoomable" />
+> <img width=220 alt="After 1st Spin" src="Irish-Cream_2026-01-18_1.jpg" class="zoomable" />
+> <img width=220 alt="After Mix-in" src="Irish-Cream_2026-01-18_2.jpg" class="zoomable" />
+> <img width=220 alt="Scooped" src="Irish-Cream_2026-01-18_3.jpg" class="zoomable" />
 
-Rating: 😋 (untested)
+Rating: 😋🍀🐮🍹🍫 (very soft, flavor dominated by alcohol and cocoa, as it should be)
 
 # INGREDIENTS
 
@@ -54,7 +54,7 @@ Rating: 😋 (untested)
 **Fill to MAX**
 
   - _150ml_ Cream 32% [REWE Beste Wahl]
-  - _≈3 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
+  - _≈8 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
 
 # DIRECTIONS
 
