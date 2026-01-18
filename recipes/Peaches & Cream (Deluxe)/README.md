@@ -8,7 +8,6 @@ excluded_tags:
 - Vanilla
 tags:
 - Dairy
-- Draft
 - Erythritol
 - Fruit
 - Low-Sugar
@@ -23,13 +22,13 @@ tags:
 *Peaches & Cream* is a classic ice cream that combines a smooth cream base with naturally sweet peaches.
 The flavor is straightforward, familiar, and focused on balancing dairy richness with peach notes in every scoop.
 
-Spin on “Light Ice Cream”, scrape down, and re-mix if needed.
+Spun on “Ice Cream”, then a scrape down, and respin.
 
-> <img width=220 alt="After 1st Spin" src="_1.jpg" class="zoomable" />
-> <img width=220 alt="After Mix-in" src="_2.jpg" class="zoomable" />
-> <img width=220 alt="Scooped" src="_3.jpg" class="zoomable" />
+> <img width=220 alt="After 1st Spin" src="Peaches+Cream_2026-01-18_1.jpg" class="zoomable" />
+> <img width=220 alt="After Respin" src="Peaches+Cream_2026-01-18_2.jpg" class="zoomable" />
+> <img width=220 alt="Scooped" src="Peaches+Cream_2026-01-18_3.jpg" class="zoomable" />
 
-Rating: 😋🐮🍑 (untested)
+Rating: 😋🐮🐮🍑🍑 (peachy, soft-serve directly after processing)
 
 # INGREDIENTS
 
@@ -54,7 +53,7 @@ Rating: 😋🐮🍑 (untested)
 **Fill to MAX**
 
   - _75ml_ Cream 32% [REWE Beste Wahl]
-  - _≈3 drops_ Flavor drops Peach / Maracuja (sucralose) [IronMaxx] • to taste
+  - _≈6 drops_ Flavor drops Peach / Maracuja (sucralose) [IronMaxx] • to taste
 
 # DIRECTIONS
 
