@@ -33,9 +33,9 @@ Then scrape down the sides, and process with mix-in.
 > <img width=220 alt="After Mix-in" src="Pomegranate-Light_2025-07-17_2.jpg" class="zoomable" />
 > <img width=220 alt="Scooped" src="Pomegranate-Light_2025-07-17_3.jpg" class="zoomable" />
 
-> <img width=442 alt="Served" src="Pomegranate-Light_2025-07-17_4.jpg" class="zoomable" />
+Rating: 😋🧈🐮🔴🔴
 
-Rating: 😋😋😋🔴🔴
+> <img width=442 alt="Served" src="Pomegranate-Light_2025-07-17_4.jpg" class="zoomable" />
 
 # INGREDIENTS
 
@@ -43,30 +43,31 @@ Rating: 😋😋😋🔴🔴
 
 **Wet**
 
-  - _75g_ [Cottage Cheese 4% \[REWE Bio\]](/ice-creamery/info/ingredients/#cottage-cheese){target="_blank"}<sup>↗</sup>
-  - _490ml_ Buttermilk 1% [REWE]
+  - _75g_ [Cottage Cheese 4% \[REWE Bio\]](/ice-creamery/info/ingredients/#cottage-cheese){target="_blank"}<sup>↗</sup> • *alternative:* 40g cream cheese
+  - _490ml_ Buttermilk 1% [REWE] • *alternative:* kefir, skyr, soured milk, or similar
   - _50g_ Pomegranate syrup (nar ekşisi) [fersan] • 0.76 ml/g
   - _10g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • *alternative:* 35g lactose
 
 **Dry**
 
   - _45g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • *alternative:* 60g allulose or dextrose
-  - _10g_ [Salty Stability \[Inulin / GMS / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup> • unsweetened “ICSv2”
+  - _10g_ [Salty Stability \[Inulin / GMS / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup> • *not-as-good substitute:* 1g guar, 0.3g xanthan, and 0.3g salt
   - _1g_ Beet Root Powder (organic) [Mandoi] • *optional*, for color
 
 **Fill to MAX**
 
-  - _≈2 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
+  - _≈3 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
 
 # DIRECTIONS
 
- 1. In an empty Creami tub, blend the cottage cheese with an equal amount of soy milk to a very creamy texture.
+ 1. In an empty Creami tub, warm up the cheese and blend with an equal amount of milk to a very creamy texture.
  1. Add the "wet" ingredients to it.
  1. Weigh and mix dry ingredients, easiest by adding to a jar with a secure lid and shaking vigorously.
  1. Pour into the tub and *QUICKLY* use an immersion blender on full speed to homogenize everything.
  1. Let blender run until thickeners are properly hydrated, up to 1-2 min. Or blend again after waiting that time.
  1. Add remaining ingredients (to the MAX line) and stir with a spoon.
- 1. Put on the lid, freeze for 24h, then spin as usual. Flatten any humps before that.
+ 1. For better results, let the base age in the fridge (covered, lid on), for a few hours or over night. This helps flavor development and gum hydration, especially with unheated bases.
+ 1. Freeze for 24h with lid on, then spin as usual. Flatten any humps before that.
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
 
 # NUTRITIONAL & OTHER INFO
