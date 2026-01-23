@@ -13,7 +13,6 @@ replace:
 - Fill to MAX=>Top off (Stir in)
 tags:
 - Dairy-Free
-- Draft
 - Erythritol
 - Light
 - Low-Fat
@@ -53,7 +52,7 @@ Rating: 😋 (untested)
 
   - _45g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • *alternative:* 60g allulose or dextrose
   - _20g_ [Inulin \[Vit4ever\]](/ice-creamery/info/ingredients/#inulin){target="_blank"}<sup>↗</sup> • Sweetness = 8%; GI ~= 0
-  - _15g_ [Waxy Maize Starch (E1442) \[Ultratex\]](/ice-creamery/info/ingredients/#waxy-maize-starch-e1442){target="_blank"}<sup>↗</sup> • *alternative:* [E1422](https://jhermann.github.io/ice-creamery/info/ingredients/#acetylated-distarch-adipate-e1422) / *any* modified starch
+  - _20g_ [Waxy Maize Starch (E1442) \[Ultratex\]](/ice-creamery/info/ingredients/#waxy-maize-starch-e1442){target="_blank"}<sup>↗</sup> • *alternative:* [E1422](https://jhermann.github.io/ice-creamery/info/ingredients/#acetylated-distarch-adipate-e1422) / *any* modified starch
   - _4g_ Vanilla Bean Powder [InterVanilla]
   - _1g_ Salt
 
@@ -74,10 +73,10 @@ Rating: 😋 (untested)
 
 # NUTRITIONAL & OTHER INFO
 
-- **Nutritional values per 100g/ml:** 100g; 62.8 kcal; fat 1.3g; carbs 15.0g; sugar 0.3g; protein 2.5g; salt 0.2g
-- **Nutritional values per ½ Deluxe Tub:** 340g; 213.5 kcal; fat 4.5g; carbs 51.1g; sugar 1.1g; protein 8.5g; salt 0.8g
-- **Nutritional values total:** 660g; 414.5 kcal; fat 8.8g; carbs 99.3g; sugar 2.1g; protein 16.6g; salt 1.6g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 32.91
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 16.00% • LOW-FAT • Low-Sugar
+- **Nutritional values per 100g/ml:** 100g; 65.3 kcal; fat 1.3g; carbs 15.7g; sugar 0.3g; protein 2.5g; salt 0.2g
+- **Nutritional values per ½ Deluxe Tub:** 340g; 221.9 kcal; fat 4.5g; carbs 53.2g; sugar 1.1g; protein 8.5g; salt 0.8g
+- **Nutritional values total:** 665g; 434.0 kcal; fat 8.8g; carbs 104.1g; sugar 2.1g; protein 16.6g; salt 1.6g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 32.68
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 15.30% • LOW-FAT • Low-Sugar
 - **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 22.0g • 3.3%
-- **Net carbs:** 29.0g • *∝ 5 servings@132g:* 5.8g • *∝ 3 servings@220g:* 9.7g • *energy ratio (low <20%):* 28%
+- **Net carbs:** 33.8g • *∝ 5 servings@133g:* 6.8g • *∝ 3 servings@222g:* 11.3g • *energy ratio (low <20%):* 31.2%
