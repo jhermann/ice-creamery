@@ -26,14 +26,18 @@ Pomegranate ice cream based on pomegranate syrup (nar ekşisi), buttermilk, and 
 
 > <img width=240 alt="Ingredients" src="Pomegranate-Light_2025-07-16_1.jpg" class="zoomable" />
 
-Process on *Sorbet*, [hold it shortly under running water](https://jhermann.github.io/ice-creamery/info/tips%2Btricks/#handling-of-icy-sides-bottom) *after* that
+Process on *Light Ice Cream*, [hold it shortly under running water](https://jhermann.github.io/ice-creamery/info/tips%2Btricks/#handling-of-icy-sides-bottom) *after* that.
 Then scrape down the sides, and process with mix-in.
 
 > <img width=220 alt="Spun Ice Cream" src="Pomegranate-Light_2025-07-17_1.jpg" class="zoomable" />
 > <img width=220 alt="After Mix-in" src="Pomegranate-Light_2025-07-17_2.jpg" class="zoomable" />
-> <img width=220 alt="Scooped" src="Pomegranate-Light_2025-07-17_3.jpg" class="zoomable" />
+> <img width=220 alt="Scooped" src="Pomegranate-Light_2025-07-17_3.jpg" class="zoomable" /><br />
 
-Rating: 😋🧈🐮🔴🔴
+> <img width=220 alt="Spun Ice Cream" src="Pomegranate-Light_2026-01-24_1.jpg" class="zoomable" />
+> <img width=220 alt="After Mix-in" src="Pomegranate-Light_2026-01-24_2.jpg" class="zoomable" />
+> <img width=220 alt="Scooped" src="Pomegranate-Light_2026-01-24_3.jpg" class="zoomable" />
+
+Rating: 😋🧈🐮🔴🔴 (fruity and soft)
 
 > <img width=442 alt="Served" src="Pomegranate-Light_2025-07-17_4.jpg" class="zoomable" />
 
