@@ -1,14 +1,14 @@
 Coconut (Deluxe);;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 ;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;;
-Nutritional values per 100g/ml;100;g;;154.6;10.3;13.9;0.8;2.6;0.2;;;;;
-Nutritional values per ½ Deluxe Tub;340;g;;525.8;35.1;47.4;2.6;8.7;0.8;;;;;
-Nutritional values total;679;g;;1050.0;70.1;94.6;5.2;17.4;1.5;;;;;
+Nutritional values per 100g/ml;100;g;;155.1;10.1;15.7;0.9;2.5;0.2;;;;;
+Nutritional values per ½ Deluxe Tub;340;g;;527.4;34.4;53.5;2.9;8.5;0.7;;;;;
+Nutritional values total;694;g;;1076.4;70.1;109.3;6.0;17.4;1.5;;;;;
 ;;;;;;;;;;;;;;
-FPDF / PAC (target 20..30);30.10;;;;;;;;;;;;;
-"Protein / Energy Ratio (ok=12%; hi=20%)";6.64%;;;;;;Low-Sugar;;;;;;;
-ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);41.9;g;;6.2%;;;;;;;;;;
-ℹ️ Net carbs;46.3;g;;*∝ 5 servings@136g:* 9.3g;;;*∝ 3 servings@226g:* 15.4g;;;*energy ratio (low <20%):* 17.6%;;;;
+FPDF / PAC (target 20..30);31.44;;;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";6.48%;;;;;;Low-Sugar;;;;;;;
+ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);41.9;g;;6.0%;;;;;;;;;;
+ℹ️ Net carbs;47.1;g;;*∝ 5 servings@139g:* 9.4g;;;*∝ 3 servings@231g:* 15.7g;;;*energy ratio (low <20%):* 17.5%;;;;
 ;;;;;;;;;;;;;;
 "Coconut is unsurprisingly the dominant flavor.
 
@@ -31,12 +31,12 @@ Glycerol Monostearate (E471) [Bulk];3.00;g;0;415.00;;;;;;;;*alternative:* lecith
 Soy milk 1.6% (sugar-free) [Berief];350.00;ml;1;30.00;1.60;0.90;0.00;3.00;0.08;;4.00;;;1
 Glycerin (E422, VG) [hd-line];;g;1;400.00;;99.00;;;;3.70;;"Sweetness = 60%; GI = 5; Density = 1.26 g/ml";50.00;1
 Jamaica Rum 43 vol%;30.00;g;1;300.00;;;;;;3.18;;*alternative:* 24g (additional) VG for a sober recipe;;1
-SweEX (Erythritol + Xylitol 3:2);35.00;g;2;109.60;;100.00;;;;2.56;;*alternative:* 47g allulose or dextrose;100.00;1
-Inulin [Vit4ever];15.00;g;2;210.00;;97.00;8.00;;0.20;0.09;;"Sweetness = 8%; GI ~= 0";89.00;1
+SweEX (Erythritol + Xylitol 3:2);40.00;g;2;109.60;;100.00;;;;2.56;;*alternative:* 53g allulose or dextrose;100.00;1
+Inulin [Vit4ever];25.00;g;2;210.00;;97.00;8.00;;0.20;0.09;;"Sweetness = 8%; GI ~= 0";89.00;1
 Waxy Maize Starch (E1442) [Ultratex];15.00;g;2;391.00;0.15;97.00;0.00;0.50;0.50;;;*alternative:* [E1422](https://jhermann.github.io/ice-creamery/info/ingredients/#acetylated-distarch-adipate-e1422), or any instant starch;;1
 Salt;1.00;g;2;;;;;;100.00;5.90;;;;1
 ;;;;;;;;;;;;;;
-Flavor drops Vanilla (sucralose) [IronMaxx];≈5;drops;3;;;;;;;;;to taste;;
+Flavor drops Vanilla (sucralose) [IronMaxx];≈4;drops;3;;;;;;;;;to taste;;
 ;;;;;;;;;;;;;;
 Jan 2, 2025;"Added alcohol & more cottage cheese; no SMP";;;;;;;;;;;;;
 Jan 4, 2025;Coconut flakes, no whey, reintroduced SMP;;;;;;;;;;;;;

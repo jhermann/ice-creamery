@@ -6,12 +6,12 @@ excluded_steps:
 - ingredients to empty Creami tub
 excluded_tags:
 - Allulose
+- Dairy
 - Vanilla
 replace:
 - Fill to MAX=>Adjust sweetness
 tags:
 - Coconut
-- Dairy
 - Emulsifier
 - Erythritol
 - Low-Sugar
@@ -54,14 +54,14 @@ Rating: 😋😋😋🥥🥥  (coconutty delickious)
 
 **Dry**
 
-  - _35g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • *alternative:* 47g allulose or dextrose
-  - _15g_ [Inulin \[Vit4ever\]](/ice-creamery/info/ingredients/#inulin){target="_blank"}<sup>↗</sup> • Sweetness = 8%; GI ~= 0
+  - _40g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • *alternative:* 53g allulose or dextrose
+  - _25g_ [Inulin \[Vit4ever\]](/ice-creamery/info/ingredients/#inulin){target="_blank"}<sup>↗</sup> • Sweetness = 8%; GI ~= 0
   - _15g_ [Waxy Maize Starch (E1442) \[Ultratex\]](/ice-creamery/info/ingredients/#waxy-maize-starch-e1442){target="_blank"}<sup>↗</sup> • *alternative:* [E1422](https://jhermann.github.io/ice-creamery/info/ingredients/#acetylated-distarch-adipate-e1422), or any instant starch
   - _1g_ Salt
 
 **Adjust sweetness**
 
-  - _≈5 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
+  - _≈4 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
 
 # DIRECTIONS
 
@@ -78,13 +78,13 @@ Rating: 😋😋😋🥥🥥  (coconutty delickious)
 
 # NUTRITIONAL & OTHER INFO
 
-- **Nutritional values per 100g/ml:** 100g; 154.6 kcal; fat 10.3g; carbs 13.9g; sugar 0.8g; protein 2.6g; salt 0.2g
-- **Nutritional values per ½ Deluxe Tub:** 340g; 525.8 kcal; fat 35.1g; carbs 47.4g; sugar 2.6g; protein 8.7g; salt 0.8g
-- **Nutritional values total:** 679g; 1050.0 kcal; fat 70.1g; carbs 94.6g; sugar 5.2g; protein 17.4g; salt 1.5g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.10
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 6.64% • Low-Sugar
-- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 41.9g • 6.2%
-- **Net carbs:** 46.3g • *∝ 5 servings@136g:* 9.3g • *∝ 3 servings@226g:* 15.4g • *energy ratio (low <20%):* 17.6%
+- **Nutritional values per 100g/ml:** 100g; 155.1 kcal; fat 10.1g; carbs 15.7g; sugar 0.9g; protein 2.5g; salt 0.2g
+- **Nutritional values per ½ Deluxe Tub:** 340g; 527.4 kcal; fat 34.4g; carbs 53.5g; sugar 2.9g; protein 8.5g; salt 0.7g
+- **Nutritional values total:** 694g; 1076.4 kcal; fat 70.1g; carbs 109.3g; sugar 6.0g; protein 17.4g; salt 1.5g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 31.44
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 6.48% • Low-Sugar
+- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 41.9g • 6.0%
+- **Net carbs:** 47.1g • *∝ 5 servings@139g:* 9.4g • *∝ 3 servings@231g:* 15.7g • *energy ratio (low <20%):* 17.5%
 - **Jan 2, 2025:** Added alcohol & more cottage cheese; no SMP
 - **Jan 4, 2025:** Coconut flakes, no whey, reintroduced SMP
 - **Feb 28, 2025:** Reduce GMS to ~0.28%, and disperse in hot water
