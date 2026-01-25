@@ -40,6 +40,12 @@ Rating: 😋🍑🍑🍑🍰 (used sorbet + mix-in; dense, cheesy, and very peac
 
 > <img width=442 alt="Served with Molasses + Butter Cookie" src="Drunken-Peach-Cheesecake_2025-08-16_4.jpg" class="zoomable" />
 
+Spun on *Ice Cream*, respin, and *Ice Cream* again.
+
+> <img width=220 alt="After Sorbet" src="Drunken-Peach-Cheesecake_2026-01-25_1.jpg" class="zoomable" />
+> <img width=220 alt="After Mix-in" src="Drunken-Peach-Cheesecake_2026-01-25_2.jpg" class="zoomable" />
+> <img width=220 alt="Scooped" src="Drunken-Peach-Cheesecake_2026-01-25_3.jpg" class="zoomable" />
+
 !!! info "Simple Recipe"
 
     Read [About 'Simple' Recipes](/ice-creamery/info/tips%2Btricks/#about-simple-recipes)    regarding 'exotic' ingredients and their alternatives.
