@@ -1,16 +1,16 @@
 Pomegranate Light (Deluxe);;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 ;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;;
-Nutritional values per 100g/ml;100;g;;74.2;0.9;17.7;7.1;4.0;0.3;;;;;
-Nutritional values per ½ Deluxe Tub;340;g;;252.3;2.9;60.2;24.0;13.7;1.0;;;;;
-Nutritional values total;681;g;;505.3;5.9;120.6;48.1;27.3;1.9;;;;;
+Nutritional values per 100g/ml;100;g;;71.2;0.9;17.0;6.4;4.1;0.3;;;;;
+Nutritional values per ½ Deluxe Tub;340;g;;241.9;3.0;57.6;21.8;13.8;0.9;;;;;
+Nutritional values total;672;g;;477.8;5.9;113.8;43.0;27.3;1.8;;;;;
 ;;;;;;;;;;;;;;
-FPDF / PAC (target 20..30);30.99;;;;;;;;;;;;;
-"Protein / Energy Ratio (ok=12%; hi=20%)";21.65%;;;;LOW-FAT;;;Hi-Protein;;;;;;
-ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);53.7;g;;7.9%;;;;;;;;;;
-ℹ️ Net carbs;63.3;g;;*∝ 5 servings@136g:* 12.7g;;;*∝ 3 servings@227g:* 21.1g;;;*energy ratio (low <20%):* 50.1%;;;;
+FPDF / PAC (target 20..30);30.58;;;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";22.87%;;;;LOW-FAT;;;Hi-Protein;;;;;;
+ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);53.7;g;;8.0%;;;;;;;;;;
+ℹ️ Net carbs;56.4;g;;*∝ 5 servings@134g:* 11.3g;;;*∝ 3 servings@224g:* 18.8g;;;*energy ratio (low <20%):* 47.3%;;;;
 ;;;;;;;;;;;;;;
-Pomegranate ice cream based on pomegranate syrup (nar ekşisi), buttermilk, and cottage cheese. Clocking in at 74 kcal / 100g and 63g net carbs.;;;;;;;;;;;;;;
+Pomegranate ice cream based on pomegranate syrup (nar ekşisi), buttermilk, and cottage cheese. Clocking in at 71 kcal / 100g and 56g net carbs.;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 "Process on *Light Ice Cream*, [hold it shortly under running water](https://jhermann.github.io/ice-creamery/info/tips%2Btricks/#handling-of-icy-sides-bottom) *after* that.
 Then scrape down the sides, and process with mix-in.
@@ -26,12 +26,12 @@ Cottage Cheese 4% [REWE Bio];75.00;g;1;91.00;4.00;1.00;1.00;12.70;0.69;0.01;16.0
 Soured milk 3.5% [Schwälbchen];;g;1;64.00;3.50;4.00;4.00;3.30;0.13;0.04;8.50;;;1
 Cream Cheese 23% [Exquisa];;g;1;238.00;22.50;3.00;3.00;5.50;0.70;0.03;9.64;;;1
 Buttermilk 1% [REWE];490.00;ml;1;35.00;0.50;4.00;4.00;3.50;0.15;0.04;8.50;*alternative:* kefir, skyr, soured milk, or similar;;1
-Pomegranate syrup (nar ekşisi) [fersan];50.00;g;1;292.00;0.10;71.70;53.40;1.00;0.60;0.53;;0.76 ml/g;;1
+Pomegranate syrup (nar ekşisi) [fersan];40.00;g;1;292.00;0.10;71.70;53.40;1.00;0.60;0.53;;0.76 ml/g;;1
 Glycerin (E422, VG) [hd-line];10.00;g;1;400.00;;99.00;;;;3.70;;*alternative:* 35g lactose;50.00;1
 Brandy or Vodka 40 vol%;;g;1;280.00;;;;;;2.96;;*alternative:* 0g (additional) VG for a sober recipe;;1
 SweEX (Erythritol + Xylitol 3:2);45.00;g;2;109.60;;100.00;;;;2.56;;*alternative:* 60g allulose or dextrose;100.00;1
 Salty Stability [Inulin / GMS / CMC / Guar / XG / Salt];10.00;g;2;267.5;3.6;88.4;5.9;0.3;3.5;0.06;;*not-as-good substitute:* 1g guar, 0.3g xanthan, and 0.3g salt;73.80;1
-Beet Root Powder (organic) [Mandoi];1.00;g;2;347.00;1.00;70.00;46.00;14.10;0.10;;;*optional*, for color;;1
+Beet Root Powder (organic) [Mandoi];1.50;g;2;347.00;1.00;70.00;46.00;14.10;0.10;;;*optional*, for color;;1
 Whey + Casein protein (grass-fed) [Vilgain];;g;2;384.00;4.60;5.70;5.60;80.00;0.50;0.06;90.40;with stevia;;1
 Salt;;g;2;0.00;0.00;0.00;0.00;0.00;100.00;5.90;;;;1
 ;;;;;;;;;;;;;;

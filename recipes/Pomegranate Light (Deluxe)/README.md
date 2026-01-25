@@ -22,7 +22,7 @@ tags:
 # Pomegranate Light (Deluxe)
 <img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="logo-pomegranate-light.png" />
 
-Pomegranate ice cream based on pomegranate syrup (nar ekşisi), buttermilk, and cottage cheese. Clocking in at 74 kcal / 100g and 63g net carbs.
+Pomegranate ice cream based on pomegranate syrup (nar ekşisi), buttermilk, and cottage cheese. Clocking in at 71 kcal / 100g and 56g net carbs.
 
 > <img width=240 alt="Ingredients" src="Pomegranate-Light_2025-07-16_1.jpg" class="zoomable" />
 
@@ -49,14 +49,14 @@ Rating: 😋🧈🐮🔴🔴 (fruity and soft)
 
   - _75g_ [Cottage Cheese 4% \[REWE Bio\]](/ice-creamery/info/ingredients/#cottage-cheese){target="_blank"}<sup>↗</sup> • *alternative:* 40g cream cheese
   - _490ml_ Buttermilk 1% [REWE] • *alternative:* kefir, skyr, soured milk, or similar
-  - _50g_ Pomegranate syrup (nar ekşisi) [fersan] • 0.76 ml/g
+  - _40g_ Pomegranate syrup (nar ekşisi) [fersan] • 0.76 ml/g
   - _10g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • *alternative:* 35g lactose
 
 **Dry**
 
   - _45g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • *alternative:* 60g allulose or dextrose
   - _10g_ [Salty Stability \[Inulin / GMS / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup> • *not-as-good substitute:* 1g guar, 0.3g xanthan, and 0.3g salt
-  - _1g_ Beet Root Powder (organic) [Mandoi] • *optional*, for color
+  - _1.5g_ Beet Root Powder (organic) [Mandoi] • *optional*, for color
 
 **Fill to MAX**
 
@@ -76,12 +76,12 @@ Rating: 😋🧈🐮🔴🔴 (fruity and soft)
 
 # NUTRITIONAL & OTHER INFO
 
-- **Nutritional values per 100g/ml:** 100g; 74.2 kcal; fat 0.9g; carbs 17.7g; sugar 7.1g; protein 4.0g; salt 0.3g
-- **Nutritional values per ½ Deluxe Tub:** 340g; 252.3 kcal; fat 2.9g; carbs 60.2g; sugar 24.0g; protein 13.7g; salt 1.0g
-- **Nutritional values total:** 681g; 505.3 kcal; fat 5.9g; carbs 120.6g; sugar 48.1g; protein 27.3g; salt 1.9g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.99
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 21.65% • LOW-FAT • Hi-Protein
-- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 53.7g • 7.9%
-- **Net carbs:** 63.3g • *∝ 5 servings@136g:* 12.7g • *∝ 3 servings@227g:* 21.1g • *energy ratio (low <20%):* 50.1%
+- **Nutritional values per 100g/ml:** 100g; 71.2 kcal; fat 0.9g; carbs 17.0g; sugar 6.4g; protein 4.1g; salt 0.3g
+- **Nutritional values per ½ Deluxe Tub:** 340g; 241.9 kcal; fat 3.0g; carbs 57.6g; sugar 21.8g; protein 13.8g; salt 0.9g
+- **Nutritional values total:** 672g; 477.8 kcal; fat 5.9g; carbs 113.8g; sugar 43.0g; protein 27.3g; salt 1.8g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.58
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 22.87% • LOW-FAT • Hi-Protein
+- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 53.7g • 8.0%
+- **Net carbs:** 56.4g • *∝ 5 servings@134g:* 11.3g • *∝ 3 servings@224g:* 18.8g • *energy ratio (low <20%):* 47.3%
 - **Aug 23, 2025:** Reformulation with Buttermilk & Cottage Cheese (no curdling)
 - **10g 'Salty Stability' is:** 7.3g Inulin • 1.2g Glycerol Monostearate (GMS / E471) • 0.6g Tylose powder (E466, Tylo, CMC) • 0.4g Guar gum (E412) • 0.33g Salt • 0.13g Xanthan gum (E415, XG).
