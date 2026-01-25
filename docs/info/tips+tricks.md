@@ -99,6 +99,8 @@ These ratios are keeping the PAC / POD value as close as possible to the origina
  * **Alcohol 40 vol%** → 80% Glycerin — This is mildly sweet where the alcohol is not.
  * **Alcohol 40 vol%** → 300% Lactose — This is mildly sweet where the alcohol is not.
  * **Light corn syrup (32 DE)** → 80% rice syrup *or* maple syrup
+ * **Sugar (Sucrose)** → 55% Isomalt (E953) + 45% Fructose (PAC 107; POD 104; **GI ~10**)
+ * **Allulose** → 50% Fructose + 50% Inulin (PAC 106; POD 90; **GI ~10**)
 
 Where the replacing weight differs, the usual "fill to MAX line" will take care of that.
 
