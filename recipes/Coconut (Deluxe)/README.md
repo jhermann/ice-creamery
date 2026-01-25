@@ -26,13 +26,15 @@ tags:
 
 Coconut is unsurprisingly the dominant flavor.
 
-> <img width=360 alt="Spun Ice Cream" src="Coconut_2025-01-02.jpg" class="zoomable" />
+> <img width=360 alt="Served" src="Coconut_2026-01-25_4.jpg" class="zoomable" />
 
-Process on *Ice Cream*, scrape-down, and then a mix-in or respin as needed.
+Processed on *Ice Cream*, scrape-down, and then a mix-in or respin as needed.
 
-> <img width=360 alt="Spun Ice Cream" src="coconut_2025-02-27.jpg" class="zoomable" />
+> <img width=360 alt="Spun ice cream" src="Coconut_2026-01-25_1.jpg" class="zoomable" />
+> <img width=360 alt="After mix-in" src="Coconut_2026-01-25_2.jpg" class="zoomable" />
+> <img width=360 alt="Scooped" src="Coconut_2026-01-25_3.jpg" class="zoomable" />
 
-Rating: 😋🥥  (new formula)
+Rating: 😋😋😋🥥🥥  (coconutty delickious)
 
 # INGREDIENTS
 
