@@ -10,7 +10,7 @@ excluded_tags:
 remove:
 - ' (to the MAX line)'
 replace:
-- Fill to MAX=>Top off (Stir in)
+- Fill to MAX=>Adjust Sweetness
 tags:
 - Dairy-Free
 - Erythritol
@@ -30,13 +30,13 @@ Plain vanilla base using soy milk and instant starch.
 Change the vanilla flavoring to what you have, e.g. vanilla paste or essence. Just be sure to use enough, and taste the base.
 Or use other flavoring in combination with the vanilla, or replacing it.
 
-Process on *Light Ice Cream*, with scrape-down, and a mix-in or respin run if needed.<br clear=all />
+Processed on *Frozen Yogurt*, with scrape-down, and a respin.<br clear=all />
 
-> <img width=220 alt="After Sorbet" src="_1.jpg" class="zoomable" />
-> <img width=220 alt="After Mix-in" src="_2.jpg" class="zoomable" />
-> <img width=220 alt="Scooped" src="_3.jpg" class="zoomable" />
+> <img width=220 alt="After Sorbet" src="Vegan-Vanilla_2026-01-24_1.jpg" class="zoomable" />
+> <img width=220 alt="After Mix-in" src="Vegan-Vanilla_2026-01-24_2.jpg" class="zoomable" />
+> <img width=220 alt="Scooped" src="Vegan-Vanilla_2026-01-24_3.jpg" class="zoomable" />
 
-Rating: 😋 (untested)
+Rating: 😋😋😋😋😋 (lots of creamy vanilla)
 
 # INGREDIENTS
 
@@ -56,7 +56,7 @@ Rating: 😋 (untested)
   - _4g_ Vanilla Bean Powder [InterVanilla]
   - _1g_ Salt
 
-**Top off (Stir in)**
+**Adjust Sweetness**
 
   - _≈3 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
 
