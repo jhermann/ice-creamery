@@ -31,7 +31,11 @@ Spin on *Light Ice Cream*, do a scrape-down, and finish with a mix-in or respin 
 > <img width=220 alt="After Mix-in" src="_2.jpg" class="zoomable" />
 > <img width=220 alt="Scooped" src="_3.jpg" class="zoomable" />
 
-Rating: 😋
+Rating: 😋 (untested)
+
+!!! info "Simple Recipe"
+
+    Read [About 'Simple' Recipes](/ice-creamery/info/tips%2Btricks/#about-simple-recipes)    regarding 'exotic' ingredients and their alternatives.
 
 # INGREDIENTS
 
@@ -39,20 +43,21 @@ Rating: 😋
 
 **Wet**
 
-  - _330g_ [Soured milk 3.5% \[Schwälbchen\]](/ice-creamery/info/ingredients/#soured-milk){target="_blank"}<sup>↗</sup> • 500g container
+  - _300ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup> • *alternative:* any other preferred milk (~2% fat)
   - _240g_ [Topfen / Quark 0.6% \[Berchtesgadener\]](/ice-creamery/info/ingredients/#quark-topfen){target="_blank"}<sup>↗</sup> • 250g container; *US alternative:* low-fat cream cheese
-  - _20ml_ Syrup Caramel (low-sugar) [Sukrin] • 14% sorbitol, erythritol, stevia [30kcal, 0.4g sugar]
-  - _15g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • POD = 60%; GI = 5; Density = 1.26 g/ml
+  - _50ml_ Syrup Caramel (low-sugar) [Sukrin] • 14% sorbitol, erythritol, stevia [75kcal, 0.9g sugar]
+  - _20g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • POD = 60%; GI = 5; Density = 1.26 g/ml
 
 **Dry**
 
   - _45g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • *alternative:* 60g allulose or dextrose
+  - _15g_ [Inulin \[Vit4ever\]](/ice-creamery/info/ingredients/#inulin){target="_blank"}<sup>↗</sup> • Sweetness = 8%; GI ~= 0
   - _5g_ [Waxy Maize Starch (E1442) \[Ultratex\]](/ice-creamery/info/ingredients/#waxy-maize-starch-e1442){target="_blank"}<sup>↗</sup> • *alternative:* [E1422](https://jhermann.github.io/ice-creamery/info/ingredients/#acetylated-distarch-adipate-e1422), or any instant starch
   - _1g_ Salt
 
 **Fill to MAX**
 
-  - _25ml_ Cream 32% [REWE Beste Wahl]
+  - _≈5 drops_ Flavor drops Caramel (sucralose) [IronMaxx] • to taste
   - _≈3 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
 
 **Topping Options**
@@ -72,10 +77,10 @@ Rating: 😋
 
 # NUTRITIONAL & OTHER INFO
 
-- **Nutritional values per 100g/ml:** 100g; 90.4 kcal; fat 3.1g; carbs 13.4g; sugar 3.4g; protein 5.9g; salt 0.2g
-- **Nutritional values per ½ Deluxe Tub:** 340g; 307.4 kcal; fat 10.5g; carbs 45.7g; sugar 11.5g; protein 20.0g; salt 0.8g
-- **Nutritional values total:** 681g; 615.6 kcal; fat 21.0g; carbs 91.5g; sugar 23.0g; protein 40.1g; salt 1.7g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.72
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 26.06% • Low-Sugar • Hi-Protein
-- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 57.0g • 8.4%
-- **Net carbs:** 37.0g • *∝ 5 servings@136g:* 7.4g • *∝ 3 servings@227g:* 12.3g • *energy ratio (low <20%):* 24.1%
+- **Nutritional values per 100g/ml:** 100g; 75.9 kcal; fat 0.9g; carbs 15.7g; sugar 1.6g; protein 5.6g; salt 0.2g
+- **Nutritional values per ½ Deluxe Tub:** 340g; 258.0 kcal; fat 3.1g; carbs 53.3g; sugar 5.4g; protein 18.9g; salt 0.8g
+- **Nutritional values total:** 676g; 512.9 kcal; fat 6.2g; carbs 106.0g; sugar 10.7g; protein 37.6g; salt 1.5g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 31.67
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 29.31% • LOW-FAT • Low-Sugar • Hi-Protein
+- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 39.4g • 5.8%
+- **Net carbs:** 32.7g • *∝ 5 servings@135g:* 6.5g • *∝ 3 servings@225g:* 10.9g • *energy ratio (low <20%):* 25.5%
