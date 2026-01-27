@@ -220,9 +220,9 @@ When soft enough, scrape down any hump that might have developed during freezing
 
 ## Handling of Icy Sides & Bottom
 
-The way a *Creami* processes your base means that the tub sides and bottom remain partially frozen, since the paddle can *never* touch the sides or bottom of the container, within normal operating conditions.
+The way a *Creami* processes your base means that the tub sides and bottom remain partially frozen, since the paddle can *never* touch the sides or bottom of the container, within normal operating conditions. It has to be that way, since otherwise you risk the whole base spinning as a block rather than being shaved down. The sides and the bottom with its grooves provide the grip for the block to stay in place, with only the paddle spinning.
 
-To fix that, **after** the 1st (main) processing step, run *cold* tap water (20..25°C) over the container, tilted a little to the side and while turning it to treat the container wall fully. Do that for 15..30 seconds, depending on the consistency of the base.
+To get rid of the icy parts, **after** the 1st (main) processing step, run *cold* tap water (20..25°C) over the container, tilted a little to the side and while turning it to treat the container wall fully. Do that for 15..30 seconds, depending on the consistency of the base.
 
 Then, for already relatively soft bases, do a 2nd run on "Mix-in" to minimize the additional heat induced, otherwise perform a "Respin." You can also scrape down the sides with a spoon (upside of the spoon oriented towards the wall) or a stiff silicone spatula, to bring the icy parts to where the paddle can reach them.
 
