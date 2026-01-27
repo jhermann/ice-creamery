@@ -14,6 +14,7 @@ tags:
 - Low-Fat
 - Low-Sugar
 - Scoopable
+- Simple
 - Stevia
 - Sucralose
 - Xylitol
