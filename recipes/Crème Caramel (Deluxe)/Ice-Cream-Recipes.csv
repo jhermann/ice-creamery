@@ -1,0 +1,46 @@
+Crème Caramel (Deluxe);;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;;
+Nutritional values per 100g/ml;100;g;;90.4;3.1;13.4;3.4;5.9;0.2;;;;;
+Nutritional values per ½ Deluxe Tub;340;g;;307.4;10.5;45.7;11.5;20.0;0.8;;;;;
+Nutritional values total;681;g;;615.6;21.0;91.5;23.0;40.1;1.7;;;;;
+;;;;;;;;;;;;;;
+FPDF / PAC (target 20..30);30.72;;;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";26.06%;;;;;;Low-Sugar;Hi-Protein;;;;;;
+ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);57.0;g;;8.4%;;;;;;;;;;
+ℹ️ Net carbs;37.0;g;;*∝ 5 servings@136g:* 7.4g;;;*∝ 3 servings@227g:* 12.3g;;;*energy ratio (low <20%):* 24.1%;;;;
+;;;;;;;;;;;;;;
+"Not the traditional recipe, but a lighter version using
+thickened dairy products instead of eggs and milk.";;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+"Spin on *Light Ice Cream*, do a scrape-down, and finish with a mix-in or respin run.
+
+Rating: 😋";;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment;;Counts?
+Soured milk 3.5% [Schwälbchen];330.00;g;1;64.00;3.50;4.00;4.00;3.30;0.13;0.04;8.50;500g container;;1
+Topfen / Quark 0.6% [Berchtesgadener];240.00;g;1;70.00;0.60;3.60;3.60;11.90;0.08;0.04;11.40;"250g container; *US alternative:* low-fat cream cheese";;1
+Syrup Caramel (low-sugar) [Sukrin];20.00;ml;1;149.00;0.00;21.00;1.80;0.00;0.07;;;14% sorbitol, erythritol, stevia [30kcal, 0.4g sugar];10.00;1
+Glycerin (E422, VG) [hd-line];15.00;g;1;400.00;;99.00;;;;3.70;;"POD = 60%; GI = 5; Density = 1.26 g/ml";50.00;1
+Brandy or Vodka 40 vol%;;g;1;280.00;;;;;;2.96;;*alternative:* 0g (additional) VG for a sober recipe;;1
+SweEX (Erythritol + Xylitol 3:2);45.00;g;2;109.60;;100.00;;;;2.56;;*alternative:* 60g allulose or dextrose;100.00;1
+Waxy Maize Starch (E1442) [Ultratex];5.00;g;2;391.00;0.15;97.00;0.00;0.50;0.50;;;*alternative:* [E1422](https://jhermann.github.io/ice-creamery/info/ingredients/#acetylated-distarch-adipate-e1422), or any instant starch;;1
+Salt;1.00;g;2;;;;;;100.00;5.90;;;;1
+Salty Stability [Inulin / GMS / CMC / Guar / XG / Salt];;g;2;267.5;3.6;88.4;5.9;0.3;3.5;0.06;;*not-as-good substitute:* 0g guar, 0g xanthan, and 0g salt;73.80;1
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+Cream 32% [REWE Beste Wahl];25.00;ml;3;311.00;32.00;3.20;3.20;2.50;0.13;0.03;6.32;;;1
+Flavor drops Vanilla (sucralose) [IronMaxx];≈3;drops;3;;;;;;;;;to taste;;
+;;;;;;;;;;;;;;
+Syrup Caramel (low-sugar) [Sukrin];10.00;ml;5;149.00;0.00;21.00;1.80;0.00;0.07;;;14% sorbitol, erythritol, stevia [15kcal, 0.2g sugar];10.00;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
