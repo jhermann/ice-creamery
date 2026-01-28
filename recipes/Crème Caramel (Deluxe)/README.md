@@ -60,6 +60,10 @@ Rating: 😋 (untested)
   - _≈5 drops_ Flavor drops Caramel (sucralose) [IronMaxx] • to taste
   - _≈3 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
 
+**Mix-ins**
+
+  - _40g_ Medjool dates (organic) [Seba Garden] • 1 date = 20g; pitted, possibly soaked, and chopped [111kcal, 26.4g sugar]
+
 **Topping Options**
 
   - _10ml_ Syrup Caramel (low-sugar) [Sukrin] • 14% sorbitol, erythritol, stevia [15kcal, 0.2g sugar]
@@ -74,6 +78,7 @@ Rating: 😋 (untested)
  1. For better results, let the base age in the fridge (covered, lid on), for a few hours or over night. This helps flavor development and gum hydration, especially with unheated bases.
  1. Freeze for 24h with lid on, then spin as usual. Flatten any humps before that.
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
+ 1. Process with MIX-IN after adding mix-ins evenly. For that, add partial amounts into a hole going down to the bottom, and fold the ice cream over, building pockets of mix-ins.
 
 # NUTRITIONAL & OTHER INFO
 
