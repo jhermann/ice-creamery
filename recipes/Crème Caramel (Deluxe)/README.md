@@ -25,6 +25,8 @@ tags:
 Not the traditional recipe, but a lighter version using
 thickened dairy products instead of eggs and milk.
 
+> <img width=330 alt="Mixin: Dates in Rum" src="Mixin-Dates-in-Rum_2026-01-28.jpg" class="zoomable" />
+
 Spin on *Light Ice Cream*, do a scrape-down, and finish with a mix-in or respin run.
 
 > <img width=220 alt="After 1st Spin" src="_1.jpg" class="zoomable" />
