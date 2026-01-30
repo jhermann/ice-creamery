@@ -18,7 +18,6 @@ replace:
 - Fill to MAX=>Adjust sweetness
 tags:
 - Cooked Base
-- Draft
 - Erythritol
 - Low-Sugar
 - Scoopable

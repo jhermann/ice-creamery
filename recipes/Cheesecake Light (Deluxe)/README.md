@@ -8,7 +8,6 @@ excluded_tags:
 - Vanilla
 tags:
 - Dairy
-- Draft
 - Emulsifier
 - Erythritol
 - Hi-Protein

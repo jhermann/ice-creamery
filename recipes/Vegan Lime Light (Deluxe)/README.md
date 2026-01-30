@@ -12,7 +12,6 @@ excluded_tags:
 - Dairy
 - Vanilla
 tags:
-- Draft
 - Emulsifier
 - Erythritol
 - Low-Fat

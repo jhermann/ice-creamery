@@ -12,7 +12,6 @@ excluded_tags:
 - Vanilla
 tags:
 - Dairy
-- Draft
 - Erythritol
 - Low-Sugar
 - Polysaccharide Gum
