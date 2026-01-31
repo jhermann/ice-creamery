@@ -6,6 +6,10 @@ excluded_steps:
 excluded_tags:
 - Fruit
 - Vanilla
+remove:
+- ' (to the MAX line)'
+replace:
+- Fill to MAX=>Adjust Sweetness
 tags:
 - Dairy
 - Draft
@@ -61,7 +65,7 @@ Rating: 😋 (untested)
   - _0.33g_ [Xanthan gum (E415, XG)](/ice-creamery/info/ingredients/#xanthan-gum-xg-e415){target="_blank"}<sup>↗</sup> • 1tsp ≈ 2.8g
   - _1g_ Salt
 
-**Fill to MAX**
+**Adjust Sweetness**
 
   - _≈3 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
 
@@ -73,7 +77,7 @@ Rating: 😋 (untested)
  1. Weigh and mix dry ingredients, easiest by adding to a jar with a secure lid and shaking vigorously.
  1. Pour into the tub and *QUICKLY* use an immersion blender on full speed to homogenize everything.
  1. Let blender run until thickeners are properly hydrated, up to 1-2 min. Or blend again after waiting that time.
- 1. Add remaining ingredients (to the MAX line) and stir with a spoon.
+ 1. Add remaining ingredients and stir with a spoon.
  1. For better results, let the base age in the fridge (covered, lid on), for a few hours or over night. This helps flavor development and gum hydration, especially with unheated bases.
  1. Freeze for 24h with lid on, then spin as usual. Flatten any humps before that.
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
