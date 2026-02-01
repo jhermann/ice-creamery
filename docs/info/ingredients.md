@@ -352,6 +352,7 @@ Many thickeners also have an emulsifying effect.
 Using only a singular thickener means you often miss out on synergistic effects of a combination of several thickeners, e.g. forming specific kinds of gels (SIGs).
 
  * Use guar/tara in combination with xanthan, ratio `4TG:1XG` or `3GG:1XG`.
+ * Another cold acting mix is CMC, guar gum, and xanthan gum with ratios of `4CMC:3GG:1XG` and 0.3% to 0.5% of the total mix weight. CMC contributes excellent water binding/melting resistance, guar provides body and viscosity, and xanthan adds creaminess and suspension.
  * Guar gum and LBG is also a good combination (`3GG:2LBG`).
  * Similarly, CMC and GMS should always go together, and can be combined with GG. Use 0.2–0.5% of the mix for each, the exact ratios depend on the make-up of your mix, and targets like creaminess, resistance to melting, and mouthfeel. Start on the lower ends, and adjust until you hit your targets.
  * Another complementary combination is guar (0.1–0.3%), CMC / tylo (0.1–0.3%), and gum arabic (0.1–0.5%). Again, start on the lower ends, and adjust until you hit your desired targets. A Deluxe tub dosage would be 2g+2g (GG:CMC) vs. 1.25+1.25+1.5g (GG:CMC:GA).
