@@ -32,15 +32,16 @@ of rum-soaked raisins with the smooth richness of coconut milk.
 The result is a creamy, balanced ice cream that’s lightly tropical with a warm hint of rum.
 
 Don’t forget to soak the raisins at least a day before preparing the base.
-Macros include the mix-ins.
+Macros include the mix-ins.<br clear=all />
 
 Process on *Light Ice Cream*, do a scrape-down, followed by the mix-in run.
 
-> <img width=220 alt="After Sorbet" src="_1.jpg" class="zoomable" />
-> <img width=220 alt="After Mix-in" src="_2.jpg" class="zoomable" />
-> <img width=220 alt="Scooped" src="_3.jpg" class="zoomable" />
+> <img width=330 alt="After 1st Spin" src="Rum-Raisin-Coconut_2026-02-04_1.jpg" class="zoomable" />
+> <img width=330 alt="With Mix-ins" src="Rum-Raisin-Coconut_2026-02-04_2.jpg" class="zoomable" />
+> <img width=330 alt="After Mix-in" src="Rum-Raisin-Coconut_2026-02-04_3.jpg" class="zoomable" />
+> <img width=330 alt="Scooped" src="Rum-Raisin-Coconut_2026-02-04_4.jpg" class="zoomable" />
 
-Rating: 😋🍹🍇🥥 (untested)
+Rating: 😋🍹🍇🥥🥥 (soft & creamy, no ice crystals)
 
 # INGREDIENTS
 
@@ -65,7 +66,7 @@ Rating: 😋🍹🍇🥥 (untested)
 
 **Adjust sweetness**
 
-  - _≈1 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
+  - _≈5 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
 
 **Mix-ins**
 
