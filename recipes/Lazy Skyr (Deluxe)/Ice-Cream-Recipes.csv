@@ -1,14 +1,14 @@
 Lazy Skyr (Deluxe);;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 ;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;;
-Nutritional values per 100g/ml;100;g;;86.3;0.6;13.5;5.9;7.7;0.2;;;;;
-Nutritional values per ½ Deluxe Tub;340;g;;293.4;2.1;45.9;20.0;26.1;0.6;;;;;
-Nutritional values total;678;g;;585.1;4.1;91.5;39.9;52.1;1.1;;;;;
+Nutritional values per 100g/ml;100;g;;86.5;0.6;14.4;5.8;7.6;0.2;;;;;
+Nutritional values per ½ Deluxe Tub;340;g;;294.2;2.0;48.9;19.8;25.9;0.5;;;;;
+Nutritional values total;685;g;;592.8;4.1;98.5;39.9;52.1;1.1;;;;;
 ;;;;;;;;;;;;;;
-FPDF / PAC (target 20..30);30.27;;;;;;;;;;;;;
-"Protein / Energy Ratio (ok=12%; hi=20%)";35.65%;;;;LOW-FAT;;;Hi-Protein;;;;;;
-ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);95.1;g;;14.0%;;;;;;;;;;
-ℹ️ Net carbs;53.7;g;;*∝ 5 servings@136g:* 10.7g;;;*∝ 3 servings@226g:* 17.9g;;;*energy ratio (low <20%):* 36.7%;;;;
+FPDF / PAC (target 20..30);32.57;;;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";35.19%;;;;LOW-FAT;;;Hi-Protein;;;;;;
+ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);95.1;g;;13.9%;;;;;;;;;;
+ℹ️ Net carbs;53.7;g;;*∝ 5 servings@137g:* 10.7g;;;*∝ 3 servings@228g:* 17.9g;;;*energy ratio (low <20%):* 36.2%;;;;
 ;;;;;;;;;;;;;;
 "“Lazily” using a container of pre-flavored skyr (flavors: vanilla / blueberry / cherry / strawberry),
 just adding a few things for freezing point depression and ice crystal inhibition.";;;;;;;;;;;;;;
@@ -37,10 +37,10 @@ Lemon juice;5.00;ml;1;25.00;0.10;3.36;1.65;0.30;0.01;0.02;;;;1
 Lactose [Sunlife];53.00;g;2;380.00;0.00;95.00;95.00;0.10;0.00;0.95;95.00;;;0
 Salty Stability [Inulin / GMS / CMC / Guar / XG / Salt];10.00;g;2;267.5;3.6;88.4;5.9;0.3;3.5;0.06;;*not-as-good substitute:* 1g guar, 0.3g xanthan, and 0.3g salt;73.80;1
 Whey + Casein protein (grass-fed) [Vilgain];10.00;g;2;384.00;4.60;5.70;5.60;80.00;0.50;0.06;90.40;with stevia;;1
-SweEX (Erythritol + Xylitol 3:2);23.00;g;2;109.60;;100.00;;;;2.56;;*alternative:* 31g allulose or dextrose;100.00;1
+SweEX (Erythritol + Xylitol 3:2);30.00;g;2;109.60;;100.00;;;;2.56;;*alternative:* 40g allulose or dextrose;100.00;1
 ❔Strawberry powder [Supergarden];10.00;g;2;287.00;3.70;50.90;50.60;7.60;0.00;0.51;;*optional*, recommended for “Strawberry” flavor;;
 ;;;;;;;;;;;;;;
-Soy milk 1.6% (sugar-free) [Berief];2.00;ml;3;30.00;1.60;0.90;0.00;3.00;0.08;;4.00;;;0
+Soy milk 1.6% (sugar-free) [Berief];-5.00;ml;3;30.00;1.60;0.90;0.00;3.00;0.08;;4.00;;;0
 Flavor drops Vanilla (sucralose) [IronMaxx];;drops;3;;;;;;;;;to taste;;0
 ;;;;;;;;;;;;;;
 Mint chocolate thins [After Eight];30.00;g;4;426.00;12.90;73.50;67.80;2.10;0.03;;;"1pc ≈ 7.5g; freeze for more integrity, and chop them when frozen [128kcal, 20g sugar]";;
