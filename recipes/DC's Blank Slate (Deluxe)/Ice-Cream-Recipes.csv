@@ -1,0 +1,34 @@
+DC's Blank Slate (Deluxe);;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;;;
+Nutritional values per 100g/ml;100;g;;225.2;13.1;24.1;20.1;3.1;0.3;;;;;
+Nutritional values per ½ Deluxe Tub;340;g;;765.7;44.6;82.1;68.4;10.5;1.0;;;;;
+Nutritional values total;627;g;;1412.1;82.2;151.4;126.1;19.4;1.8;;;;;
+;;;;;;;;;;;;;;
+FPDF / PAC (target 20..30);24.12;;;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";5.50%;;;;;;;;;;;;;
+ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);50.2;g;;8.0%;;;;;;;;;;
+ℹ️ Net carbs;151.4;g;;*∝ 5 servings@125g:* 30.3g;;;*∝ 3 servings@209g:* 50.5g;;;*energy ratio (low <20%):* 42.9%;;;;
+;;;;;;;;;;;;;;
+Dana Cree’s “Blank Slate” Philadelphia-style base, scaled to ~625g.;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+Spin on “Ice Cream”, scrape down, and re-mix if needed.;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+Rating: 😋 (untested);;;;;;;;;;;;;;
+"1. Mix the dry ingredients in a small container.
+ 1. Bring cream, milk, and syrup to a full rolling boil while whisking.
+ 1. Whisk in the dry mix, simmer 2 minutes while whisking.
+ 1. Mix cornstarch and water to a smooth slurry, and whisk that into the base, cook 1 minute more.
+ 1. Chill quickly, in an ice bath.";;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment;0Carb[%];Counts?
+Water (cold);15.00;ml;0;;;;;;;;;;;1
+Corn starch;6.00;g;0;353.00;0.50;86.00;0.50;0.50;0.01;;;;;1
+Milk 3.5% [Weihenstephan];240.00;ml;1;64.00;3.50;4.70;4.70;3.50;0.13;0.05;8.97;;;1
+Cream 32% [REWE Beste Wahl];230.00;ml;1;311.00;32.00;3.20;3.20;2.50;0.13;0.03;6.32;;;1
+Light corn syrup (32 DE) [Karo];30.00;ml;1;400.00;;100.00;33.00;;0.25;0.61;;"US brand; *alternative:* rice, agave, or maple syrup";;1
+Agave syrup [REWE Bio];;ml;1;307.00;0.50;75.00;75.00;0.50;0.03;1.80;;"POD ≈160; GI=11";;1
+Condensed milk, sweetened;;ml;1;322.00;8.00;55.00;55.00;7.50;0.25;0.55;20.00;;;1
+Sugar;90.00;g;2;387.00;;100.00;100.00;;;1.00;;;;1
+Milk powder 1:10 (skim, SMP) [Vita2You];15.00;g;2;358.00;0.97;50.50;50.50;35.00;1.00;0.51;94.03;;;1
+Salt;1.00;g;2;;;;;;100.00;5.90;;;;1
