@@ -3,6 +3,7 @@ canonical_url: https://jhermann.github.io/ice-creamery/U/Ultimate%20FroYo%20(Del
 description: Recipe for the Ninja Creami Deluxe [24oz]
 excluded_steps:
 - ingredients to empty Creami tub
+- prepared dry ingredients
 excluded_tags:
 - Fruit
 - Vanilla
@@ -75,7 +76,6 @@ Rating: 😋🐮🥛🥛🍦 (very creamy, no ice crystals whatsoever; 0-sugar a
 
  1. In a small saucepan, mix all ‘prep’ ingredients and heat to 90°C on medium, while whisking.
  1. Add the "wet" ingredients and the milk preparation to an empty Creami tub.
- 1. Add the prepared dry ingredients, and blend QUICKLY using an immersion blender on full speed.
  1. Weigh and mix dry ingredients, easiest by adding to a jar with a secure lid and shaking vigorously.
  1. Pour into the tub and *QUICKLY* use an immersion blender on full speed to homogenize everything.
  1. Let blender run until thickeners are properly hydrated, up to 1-2 min. Or blend again after waiting that time.
