@@ -15,6 +15,7 @@ tags:
 - Simple
 ---
 # DC's Blank Slate (Deluxe)
+<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="logo-Blank_Slate.png" />
 
 Dana Cree’s “Blank Slate” Philadelphia-style base, scaled to ~625g.
 
@@ -25,6 +26,10 @@ Spin on “Ice Cream”, scrape down, and re-mix if needed.
 > <img width=220 alt="Scooped" src="_3.jpg" class="zoomable" />
 
 Rating: 😋 (untested)
+
+!!! info "Simple Recipe"
+
+    Read [About 'Simple' Recipes](/ice-creamery/info/tips%2Btricks/#about-simple-recipes)    regarding 'exotic' ingredients and their alternatives.
 
 # INGREDIENTS
 
