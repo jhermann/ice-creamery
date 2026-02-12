@@ -12,7 +12,6 @@ replace:
 - Fill to MAX=>Adjust Sweetness
 tags:
 - Dairy
-- Draft
 - Emulsifier
 - Erythritol
 - Hi-Protein
@@ -32,11 +31,11 @@ Perfect on its own or as a versatile base for any topping or swirl.
 
 Spin on “FroYo”, scrape down, and run the mix-in cycle.
 
-> <img width=220 alt="After 1st Spin" src="_1.jpg" class="zoomable" />
-> <img width=220 alt="After Mix-in" src="_2.jpg" class="zoomable" />
-> <img width=220 alt="Scooped" src="_3.jpg" class="zoomable" />
+> <img width=220 alt="After 1st Spin" src="Ultimate-FroYo_2026-02-12_1.jpg" class="zoomable" />
+> <img width=220 alt="After Mix-in" src="Ultimate-FroYo_2026-02-12_2.jpg" class="zoomable" />
+> <img width=220 alt="Scooped" src="Ultimate-FroYo_2026-02-12_3.jpg" class="zoomable" />
 
-Rating: 😋 (untested)
+Rating: 😋🐮🥛🥛🍦 (very creamy, no ice crystals whatsoever; 0-sugar added cherry jam as a mix-in)
 
 # INGREDIENTS
 
