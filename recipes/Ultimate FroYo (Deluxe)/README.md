@@ -11,6 +11,7 @@ remove:
 - ' (to the MAX line)'
 replace:
 - Fill to MAX=>Adjust Sweetness
+- Topping Options=>Optional Flavors
 tags:
 - Dairy
 - Emulsifier
@@ -54,7 +55,6 @@ Rating: 😋🐮🥛🥛🍦 (very creamy, no ice crystals whatsoever; 0-sugar a
 **Wet**
 
   - _400ml_ Yogurt mild 4% [REWE Bio] • 500g container
-  - _3ml_ Vanilla Extract (w/ alcohol) [Native Vanilla]
 
 **Dry**
 
@@ -72,6 +72,10 @@ Rating: 😋🐮🥛🥛🍦 (very creamy, no ice crystals whatsoever; 0-sugar a
 
   - _50g_ Jam “Black Cherry” [Schwartau Extra Zero] • fruit spread, no added sugar; add as a (manual) mix-in [30kcal, 3.6g sugar]
 
+**Optional Flavors**
+
+  - _3ml_ Vanilla Extract (w/ alcohol) [Native Vanilla] • *optional* flavor, add before freezing
+
 # DIRECTIONS
 
  1. In a small saucepan, mix all ‘prep’ ingredients and heat to 90°C on medium, while whisking.
@@ -87,10 +91,10 @@ Rating: 😋🐮🥛🥛🍦 (very creamy, no ice crystals whatsoever; 0-sugar a
 
 # NUTRITIONAL & OTHER INFO
 
-- **Nutritional values per 100g/ml:** 100g; 96.6 kcal; fat 3.8g; carbs 11.0g; sugar 6.3g; protein 5.1g; salt 0.3g
-- **Nutritional values per ½ Deluxe Tub:** 340g; 328.3 kcal; fat 12.8g; carbs 37.3g; sugar 21.3g; protein 17.4g; salt 1.0g
-- **Nutritional values total:** 655g; 632.0 kcal; fat 24.6g; carbs 71.7g; sugar 40.9g; protein 33.5g; salt 2.0g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 31.59
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 21.20% • Hi-Protein
+- **Nutritional values per 100g/ml:** 100g; 95.6 kcal; fat 3.8g; carbs 11.0g; sugar 6.3g; protein 5.1g; salt 0.3g
+- **Nutritional values per ½ Deluxe Tub:** 340g; 325.1 kcal; fat 12.8g; carbs 37.4g; sugar 21.4g; protein 17.5g; salt 1.1g
+- **Nutritional values total:** 652g; 623.0 kcal; fat 24.6g; carbs 71.7g; sugar 40.9g; protein 33.5g; salt 2.0g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.72
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 21.51% • Hi-Protein
 - **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 61.5g • 9.4%
-- **Net carbs:** 56.9g • *∝ 5 servings@131g:* 11.4g • *∝ 3 servings@218g:* 19g • *energy ratio (low <20%):* 36%
+- **Net carbs:** 56.9g • *∝ 5 servings@130g:* 11.4g • *∝ 3 servings@217g:* 19g • *energy ratio (low <20%):* 36.5%

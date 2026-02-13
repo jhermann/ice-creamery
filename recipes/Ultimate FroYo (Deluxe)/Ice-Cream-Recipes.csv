@@ -1,14 +1,14 @@
 Ultimate FroYo (Deluxe);;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 ;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;;;
-Nutritional values per 100g/ml;100;g;;96.6;3.8;11.0;6.3;5.1;0.3;;;;;
-Nutritional values per ½ Deluxe Tub;340;g;;328.3;12.8;37.3;21.3;17.4;1.0;;;;;
-Nutritional values total;655;g;;632.0;24.6;71.7;40.9;33.5;2.0;;;;;
+Nutritional values per 100g/ml;100;g;;95.6;3.8;11.0;6.3;5.1;0.3;;;;;
+Nutritional values per ½ Deluxe Tub;340;g;;325.1;12.8;37.4;21.4;17.5;1.1;;;;;
+Nutritional values total;652;g;;623.0;24.6;71.7;40.9;33.5;2.0;;;;;
 ;;;;;;;;;;;;;;
-FPDF / PAC (target 20..30);31.59;;;;;;;;;;;;;
-"Protein / Energy Ratio (ok=12%; hi=20%)";21.20%;;;;;;;Hi-Protein;;;;;;
+FPDF / PAC (target 20..30);30.72;;;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";21.51%;;;;;;;Hi-Protein;;;;;;
 ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);61.5;g;;9.4%;;;;;;;;;;
-ℹ️ Net carbs;56.9;g;;*∝ 5 servings@131g:* 11.4g;;;*∝ 3 servings@218g:* 19g;;;*energy ratio (low <20%):* 36%;;;;
+ℹ️ Net carbs;56.9;g;;*∝ 5 servings@130g:* 11.4g;;;*∝ 3 servings@217g:* 19g;;;*energy ratio (low <20%):* 36.5%;;;;
 ;;;1;;;;;;;;;;;
 "A balanced, creamy frozen yogurt that brings together the smoothness of real yogurt with a purposeful mix of stabilizers and mild sweetness.
 
@@ -32,7 +32,6 @@ Banana Powder (green plantain) [Govinda];15.00;g;0;365.00;1.50;78.00;10.00;2.00;
 Glycerol Monostearate (E471) [Bulk];3.00;g;0;415.00;;;;;;;;*alternative:* lecithin;;1
 Cottage Cheese 4% [REWE Bio];;g;0;91.00;4.00;1.00;1.00;12.70;0.69;0.01;16.00;;;1
 Yogurt mild 4% [REWE Bio];400.00;ml;1;71.00;3.80;5.00;5.00;4.10;0.15;0.05;10.27;500g container;;1
-Vanilla Extract (w/ alcohol) [Native Vanilla];3.00;ml;1;300.00;;;;;;2.22;;;;1
 Brandy or Vodka 40 vol%;;g;1;280.00;;;;;;2.96;;*alternative:* same amount additional VG for a sober recipe;;1
 Glycerin (E422, VG) [hd-line];;g;1;400.00;;99.00;;;;3.70;;*alternative:* 0g (additional) VG for a sober recipe;50.00;1
 Soy Yogurt (unflavored) [alpro];;ml;1;49.00;2.30;2.20;2.20;4.00;0.24;0.02;7.00;400g container;;1
@@ -54,5 +53,6 @@ Waxy Maize Starch (E1442) [Ultratex];;g;2;391.00;0.15;97.00;0.00;0.50;0.50;;;*al
 Flavor drops Vanilla (sucralose) [IronMaxx];≈3;drops;3;;;;;;;;;to taste;;
 ;;;;;;;;;;;;;;
 Cream 32% [REWE Beste Wahl];0.00;ml;4;311.00;32.00;3.20;3.20;2.50;0.13;0.03;6.32;;;
-;;;;;;;;;;;;;;
 Jam “Black Cherry” [Schwartau Extra Zero];50.00;g;4;59.00;0.20;15.40;7.10;0.50;0.03;;;"fruit spread, no added sugar; add as a (manual) mix-in [30kcal, 3.6g sugar]";8.00;
+;;;;;;;;;;;;;;
+Vanilla Extract (w/ alcohol) [Native Vanilla];3.00;ml;5;300.00;;;;;;2.22;;*optional* flavor, add before freezing;;
