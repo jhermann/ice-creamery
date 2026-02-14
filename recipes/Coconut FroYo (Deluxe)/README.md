@@ -50,7 +50,7 @@ Rating: 😋🐮🥛🥥 (untested)
   - _55g_ [Coconut Milk Powder 54% \[Green Essence\]](/ice-creamery/info/ingredients/#coconut-milk){target="_blank"}<sup>↗</sup> • *alternative:* 200ml coconut milk 18–22%, and skip the soy milk
   - _40g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • *alternative:* 53g allulose or dextrose
   - _3g_ [Glycerol Monostearate (E471) \[Bulk\]](/ice-creamery/info/ingredients/#glycerol-monostearate-gms-e471){target="_blank"}<sup>↗</sup> • *alternative:* lecithin, or 0.5g xanthan
-  - _1g_ Salt • 26 quick shakes (with my shaker)
+  - _1g_ Salt
 
 **Fill to MAX**
 
