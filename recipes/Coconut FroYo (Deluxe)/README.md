@@ -8,6 +8,8 @@ excluded_tags:
 - Dairy
 - Polysaccharide Gum
 - Vanilla
+replace:
+- Fill to MAX=>Adjust sweetness
 tags:
 - Draft
 - Emulsifier
@@ -29,7 +31,7 @@ Process on *FroYo*, do a scrape-down, and MIX-IN or RESPIN (choose depending on 
 > <img width=220 alt="After Mix-in" src="_2.jpg" class="zoomable" />
 > <img width=220 alt="Scooped" src="_3.jpg" class="zoomable" />
 
-Rating: 😋🐮🥛🥥 (untested)
+> Rating: 😋🐮🥛🥥 (untested)
 
 !!! info "Simple Recipe"
 
@@ -52,7 +54,7 @@ Rating: 😋🐮🥛🥥 (untested)
   - _3g_ [Glycerol Monostearate (E471) \[Bulk\]](/ice-creamery/info/ingredients/#glycerol-monostearate-gms-e471){target="_blank"}<sup>↗</sup> • *alternative:* lecithin, or 0.5g xanthan
   - _1g_ Salt
 
-**Fill to MAX**
+**Adjust sweetness**
 
   - _≈1 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
 
