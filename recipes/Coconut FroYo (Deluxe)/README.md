@@ -56,7 +56,7 @@ Process on *FroYo*, do a scrape-down, and MIX-IN or RESPIN (choose depending on 
 
 **Adjust sweetness**
 
-  - _≈1 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
+  - _≈3 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
 
 # DIRECTIONS
 
