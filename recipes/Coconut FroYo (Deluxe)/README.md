@@ -25,13 +25,13 @@ tags:
 
 Tangy yogurt ice cream with coconut flavor.
 
-Process on *FroYo*, do a scrape-down, and MIX-IN or RESPIN (choose depending on consistency you get after processing, and eventually want after a 2nd spin).
+Process on *Light Ice Cream*, do a scrape-down, and finish with MIX-IN.
 
-> <img width=220 alt="After 1st Spin" src="_1.jpg" class="zoomable" />
-> <img width=220 alt="After Mix-in" src="_2.jpg" class="zoomable" />
-> <img width=220 alt="Scooped" src="_3.jpg" class="zoomable" />
+> <img width=220 alt="After 1st Spin" src="Coconut-FroYo_2026-02-16_1.jpg" class="zoomable" />
+> <img width=220 alt="After Mix-in" src="Coconut-FroYo_2026-02-16_2.jpg" class="zoomable" />
+> <img width=220 alt="Scooped" src="Coconut-FroYo_2026-02-16_3.jpg" class="zoomable" />
 
-> Rating: 😋🐮🥛🥥 (untested)
+Rating: 😋🐮🥛🥛🥥 (creamy, with subtle coconut flavor)
 
 !!! info "Simple Recipe"
 
