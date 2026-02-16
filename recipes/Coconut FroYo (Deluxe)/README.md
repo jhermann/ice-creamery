@@ -16,7 +16,6 @@ tags:
 - Erythritol
 - Low-Sugar
 - Scoopable
-- Simple
 - Sucralose
 - Tylo Powder (CMC)
 - Xylitol
@@ -34,10 +33,6 @@ Process on *Light Ice Cream*, do a scrape-down, and finish with MIX-IN.
 
 Rating: 😋🐮🥛🥛🥥 (creamy, with subtle coconut flavor)
 
-!!! info "Simple Recipe"
-
-    Read [About 'Simple' Recipes](/ice-creamery/info/tips%2Btricks/#about-simple-recipes)    regarding 'exotic' ingredients and their alternatives.
-
 # INGREDIENTS
 
 ℹ️ Brand names are in square brackets `[...]`.
@@ -46,12 +41,14 @@ Rating: 😋🐮🥛🥛🥥 (creamy, with subtle coconut flavor)
 
   - _400ml_ Yogurt mild 4% [REWE Bio] • 500g container; can be lower fat (2% or ‘zero’), or buttermilk
   - _150ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup> • use any other preferred milk (~2% fat)
-  - _20g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • Sweetness = 60%; GI = 5; Density = 1.26 g/ml
+  - _10g_ [Brandy or Vodka 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup> • *alternative:* 8g (additional) VG for a sober recipe
+  - _10g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • Sweetness = 60%; GI = 5; Density = 1.26 g/ml
 
 **Dry**
 
   - _55g_ [Coconut Milk Powder 54% \[Green Essence\]](/ice-creamery/info/ingredients/#coconut-milk){target="_blank"}<sup>↗</sup> • *alternative:* 200ml coconut milk 18–22%, and skip the soy milk
   - _40g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • *alternative:* 53g allulose or dextrose
+  - _20g_ [Inulin \[Vit4ever\]](/ice-creamery/info/ingredients/#inulin){target="_blank"}<sup>↗</sup> • Sweetness = 8%; GI ~= 0
   - _3g_ [Glycerol Monostearate (E471) \[Bulk\]](/ice-creamery/info/ingredients/#glycerol-monostearate-gms-e471){target="_blank"}<sup>↗</sup> • *alternative:* lecithin, or 0.5g xanthan
   - _1g_ [Carboxymethyl Cellulose (CMC / E466) \[GoodBake\]](/ice-creamery/info/ingredients/#carboxymethyl-cellulose-cmc-e466){target="_blank"}<sup>↗</sup>
   - _1g_ Salt
@@ -73,10 +70,10 @@ Rating: 😋🐮🥛🥛🥥 (creamy, with subtle coconut flavor)
 
 # NUTRITIONAL & OTHER INFO
 
-- **Nutritional values per 100g/ml:** 100g; 122.9 kcal; fat 7.1g; carbs 15.5g; sugar 3.1g; protein 3.6g; salt 0.3g
-- **Nutritional values per ½ Deluxe Tub:** 340g; 417.8 kcal; fat 24.3g; carbs 52.8g; sugar 10.5g; protein 12.4g; salt 0.9g
-- **Nutritional values total:** 670g; 823.3 kcal; fat 47.9g; carbs 104.0g; sugar 20.7g; protein 24.3g; salt 1.8g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 31.77
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 11.82% • Low-Sugar
-- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 72.6g • 10.8%
-- **Net carbs:** 54.0g • *∝ 5 servings@134g:* 10.8g • *∝ 3 servings@223g:* 18g • *energy ratio (low <20%):* 26.3%
+- **Nutritional values per 100g/ml:** 100g; 123.7 kcal; fat 6.9g; carbs 16.5g; sugar 3.2g; protein 3.5g; salt 0.3g
+- **Nutritional values per ½ Deluxe Tub:** 340g; 420.5 kcal; fat 23.6g; carbs 55.9g; sugar 11.0g; protein 12.0g; salt 0.9g
+- **Nutritional values total:** 690g; 853.3 kcal; fat 47.9g; carbs 113.5g; sugar 22.3g; protein 24.3g; salt 1.8g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.07
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 11.41% • Low-Sugar
+- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 72.6g • 10.5%
+- **Net carbs:** 50.7g • *∝ 5 servings@138g:* 10.1g • *∝ 3 servings@230g:* 16.9g • *energy ratio (low <20%):* 23.8%
