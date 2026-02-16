@@ -36,7 +36,7 @@ an Erythritol / Xylitol blend. All these options have a POD of 70..100, and a PA
 
 Finally, have some ultra-sweetener at hand, so you can up the sweetness level without texture impact.
 Common options are monkfruit, stevia, and sucralose; possibly also as "flavor drops", to give a recipe a boost in the right direction.
-Liquid options >(with a dropper included) are easier to handle, for powdered forms you needs a very exact scale (0.01g precision).
+Liquid products (with a dropper included) are easier to handle; to weigh powdered forms, you need a very exact scale (0.01g precision).
 For details, see [Beginner's Guide to Scoopable Ice Cream](https://github.com/jhermann/ice-creamery/wiki/Beginner%27s-Guide-to-Scoopable-Ice-Cream).
 
 To reduce (subjective!) aftertaste effects by masking them, you can use a pinch of salt (which you should add anyway).
