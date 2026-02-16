@@ -1,14 +1,14 @@
 Coconut FroYo (Deluxe);;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 ;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;;
-Nutritional values per 100g/ml;100;g;;122.2;7.2;15.4;3.1;3.6;0.3;;;;;
-Nutritional values per ½ Deluxe Tub;340;g;;415.4;24.3;52.5;10.5;12.4;0.9;;;;;
-Nutritional values total;669;g;;817.3;47.9;103.3;20.7;24.3;1.8;;;;;
+Nutritional values per 100g/ml;100;g;;122.9;7.1;15.5;3.1;3.6;0.3;;;;;
+Nutritional values per ½ Deluxe Tub;340;g;;417.8;24.3;52.8;10.5;12.4;0.9;;;;;
+Nutritional values total;670;g;;823.3;47.9;104.0;20.7;24.3;1.8;;;;;
 ;;;;;;;;;;;;;;
-FPDF / PAC (target 20..30);31.82;;;;;;;;;;;;;
-"Protein / Energy Ratio (ok=12%; hi=20%)";11.91%;;;;;;Low-Sugar;;;;;;;
-ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);72.6;g;;10.9%;;;;;;;;;;
-ℹ️ Net carbs;53.3;g;;*∝ 5 servings@134g:* 10.7g;;;*∝ 3 servings@223g:* 17.8g;;;*energy ratio (low <20%):* 26.1%;;;;
+FPDF / PAC (target 20..30);31.77;;;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";11.82%;;;;;;Low-Sugar;;;;;;;
+ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);72.6;g;;10.8%;;;;;;;;;;
+ℹ️ Net carbs;54.0;g;;*∝ 5 servings@134g:* 10.8g;;;*∝ 3 servings@223g:* 18g;;;*energy ratio (low <20%):* 26.3%;;;;
 ;;;;;;;;;;;;;;
 Tangy yogurt ice cream with coconut flavor.;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
@@ -29,6 +29,7 @@ Buttermilk 1% [REWE];;ml;1;35.00;0.50;4.00;4.00;3.50;0.15;0.04;8.50;;;1
 Coconut Milk Powder 54% [Green Essence];55.00;g;2;640.00;55.00;40.25;1.25;6.25;0.13;;46.50;*alternative:* 200ml coconut milk 18–22%, and skip the soy milk;;1
 SweEX (Erythritol + Xylitol 3:2);40.00;g;2;109.60;;100.00;;;;2.56;;*alternative:* 53g allulose or dextrose;100.00;1
 Glycerol Monostearate (E471) [Bulk];3.00;g;2;415.00;;;;;;;;*alternative:* lecithin, or 0.5g xanthan;;1
+Carboxymethyl Cellulose (CMC / E466) [GoodBake];1.00;g;2;600.00;;75.00;;;;;;;;1
 Salt;1.00;g;2;;;;;;100.00;5.90;;;;1
 Salty Stability [Inulin / GMS / CMC / Guar / XG / Salt];;g;2;267.5;3.6;88.4;5.9;0.3;3.5;0.06;;*not-as-good substitute:* 0g guar, 0g xanthan, and 0g salt;73.80;1
 Skim milk powder 1:10 (SMP) [Vita2You];;g;2;358.00;0.97;50.50;50.50;35.00;1.00;0.51;94.03;;;1
