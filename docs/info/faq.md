@@ -20,6 +20,29 @@ The Ice Cream Stabilizer (ICSv2) blend, containing erythritol, Tylose powder, ta
 
 Additionally, some recipes incorporate alcohol like fruit brandy or vodka.
 
+## What sweetener is 'best'?
+
+First, 'best' is highly subjective, some people get an aftertaste that other people don't, and 'healthy' is also in the eye of the beholder. Individual GI effects, especially when it comes to sugar alcohols, are also a factor to consider.
+
+To get this out of the way, if you have no dietary restrictions and don't eat whole tubs at once, table sugar (sucrose) and dextrose are probably 'best'.
+Add light corn syrup (or rice/agave syrup) for improved consistency, and you're covered. The rest of this answer covers low GI / lower or no calories options.
+
+The next best 'natural' thing to sugar is [Trehalose (E965)](https://jhermann.github.io/ice-creamery/info/ingredients/#trehalose-e965) — tastes like sugar and has the same PAC and calories. but is half as sweet and has a way lower GI.
+
+Then there are the lowcal / 0-cal sweeteners, try allulose first (in the US/CA market, maybe combined with monk fruit, to make it as sweet as table sugar).
+Next is a monkfruit/erythritol combo, but be aware that erythritol should be combined with another bulky sweetener to prevent crystallization.
+A universally (globally) available option is [SweEX](https://jhermann.github.io/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend),
+an Erythritol / Xylitol blend. All these options have a POD of 70..100, and a PAC from 190 to 280.
+
+Finally, have some ultra-sweetener at hand, so you can up the sweetness level without texture impact.
+Common options are monkfruit, stevia, and sucralose; possibly also as "flavor drops", to give a recipe a boost in the right direction.
+Liquid options >(with a dropper included) are easier to handle, for powdered forms you needs a very exact scale (0.01g precision).
+For details, see [Beginner's Guide to Scoopable Ice Cream](https://github.com/jhermann/ice-creamery/wiki/Beginner%27s-Guide-to-Scoopable-Ice-Cream).
+
+To reduce (subjective!) aftertaste effects by masking them, you can use a pinch of salt (which you should add anyway).
+And *Pepsi* has patent `US6265012B1` to [reduce the lingering sweet aftertaste of sucralose](https://patents.google.com/patent/US6265012B1/en),
+by adding tannin or tannic acid to your base (also used in wine production).
+
 ## What nutritional metrics are highlighted in the recipes?
 
 Beyond standard nutritional values (calories, fat, carbs, sugar, protein, salt), the recipes often include metrics like "FPDF / PAC (target 20..30)", "Protein / Energy Ratio (ok=12%; hi=20%)", and "Milk Solids Non-Fat (MSNF, 7-11%)". 
