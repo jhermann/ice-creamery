@@ -69,17 +69,20 @@ using a hardening factor (HF; negative PAC):
 - Cocoa paste: -160
 - Hazelnut paste: -90
 
-**Solidification Point of Common Oils**
+**Solidification Point of Common Oils / Fats**
 
 | Type of Oil | °C |  °F |
 | :----------------- | -: | -: |
 | Avocado | -6 | 20 |
+| Cocoa¹ | 24 | 75 |
 | Coconut | 24 | 75 |
 | Olive (native) | 10 | 50 |
 | Olive (refined) | -6 | 20 |
 | Peanut | -1..3 | 30..37 |
 | Soybean | -18 | 0 |
 | Sunflower | -17 | 1 |
+
+> ¹ Cocoa butter typically solidifies below 24°C (75°F), but it has 6 crystal forms (I-VI) with melting points ranging from 17°C to 36°C. Form V (tempered) typically solidifies between 27°C and 34°C (80–93°F), just below body temperature.
 
 Exact temperatures can vary due to different grades of purity.
 
