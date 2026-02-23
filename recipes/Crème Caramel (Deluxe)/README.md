@@ -33,7 +33,7 @@ Spin on *Light Ice Cream*, do a scrape-down, and finish with a mix-in or respin 
 > <img width=165 alt="After Mix-in" src="Crème-Caramel_2026-02-23_3.jpg" class="zoomable" />
 > <img width=165 alt="Scooped" src="Crème-Caramel_2026-02-23_4.jpg" class="zoomable" />
 
-Rating: 😋 (untested)
+Rating: 😋🍮🥛🍮🥛 (creamy, a bit too sweet, nice and strong caramel flavor)
 
 # INGREDIENTS
 
@@ -55,8 +55,8 @@ Rating: 😋 (untested)
 
 **Fill to MAX**
 
-  - _≈5 drops_ Flavor drops Caramel (sucralose) [IronMaxx] • to taste
-  - _≈3 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
+  - _≈3 drops_ Flavor drops Caramel (sucralose) [IronMaxx] • to taste
+  - _≈1 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
 
 **Mix-ins**
 
