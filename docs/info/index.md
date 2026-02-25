@@ -55,6 +55,10 @@ use the Markdown format for the output.
 
     This section lists recipes that have been created within the last two months.
 
+*   **Recipe Guide**
+
+    Looking at the list of recipes from different angles, providing selections that conform with certain requirements and expectations.
+
 *   **Tips & Tricks**
 
     This section provides practical advice for using the Ninja Creami.
@@ -68,10 +72,6 @@ use the Markdown format for the output.
      * guidance on choosing processing modes based on their speed and duration profiles for different desired textures,
      * the importance of performing a scrape test before processing,
      * and methods for the handling of icy container walls after the initial processing step.
-
-*   **Recipe Guide**
-
-    Looking at the list of recipes from different angles, providing selections that conform with certain requirements and expectations.
 
 *   **Resources on the Web**
 
