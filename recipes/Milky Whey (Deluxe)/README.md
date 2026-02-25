@@ -10,7 +10,7 @@ tags:
 - Dairy
 - Erythritol
 - Favorite
-- Hi-Protein
+- Low-Sugar
 - Polysaccharide Gum
 - Scoopable
 - Stevia
@@ -63,10 +63,10 @@ Temperature of the base before and after processing.
 
 **Dry**
 
-  - _30g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • *alternative:* 40g allulose or dextrose
-  - _20g_ [Waxy Maize Starch (E1442) \[Ultratex\]](/ice-creamery/info/ingredients/#waxy-maize-starch-e1442){target="_blank"}<sup>↗</sup> • dissolves easily; use 1-5%
-  - _20g_ [Whey + Casein protein (grass-fed) \[Vilgain\]](/ice-creamery/info/ingredients/#whey-protein){target="_blank"}<sup>↗</sup> • with stevia
-  - _15g_ [Skim milk powder 1:10 (SMP) \[Vita2You\]](/ice-creamery/info/ingredients/#skim-milk-powder-smp){target="_blank"}<sup>↗</sup>
+  - _35g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • *alternative:* 47g allulose or dextrose
+  - _15g_ [Inulin \[Vit4ever\]](/ice-creamery/info/ingredients/#inulin){target="_blank"}<sup>↗</sup> • Sweetness = 8%; GI ~= 0
+  - _15g_ [Whey + Casein protein (grass-fed) \[Vilgain\]](/ice-creamery/info/ingredients/#whey-protein){target="_blank"}<sup>↗</sup> • with stevia
+  - _10g_ [Waxy Maize Starch (E1442) \[Ultratex\]](/ice-creamery/info/ingredients/#waxy-maize-starch-e1442){target="_blank"}<sup>↗</sup> • dissolves easily; use 1-5%
   - _1.5g_ [Guar gum (E412)](/ice-creamery/info/ingredients/#guar-gum-e412){target="_blank"}<sup>↗</sup>
   - _1g_ Salt
 
@@ -86,15 +86,16 @@ Temperature of the base before and after processing.
  1. Pour into the tub and *QUICKLY* use an immersion blender on full speed to homogenize everything.
  1. Let blender run until thickeners are properly hydrated, up to 1-2 min. Or blend again after waiting that time.
  1. Add remaining ingredients (to the MAX line) and stir with a spoon.
- 1. Put on the lid, freeze for 24h, then spin as usual. Flatten any humps before that.
+ 1. For better results, let the base age in the fridge (covered, lid on), for a few hours or over night. This helps flavor development and gum hydration, especially with unheated bases.
+ 1. Freeze for 24h with lid on, then spin as usual. Flatten any humps before that.
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
 
 # NUTRITIONAL & OTHER INFO
 
-- **Nutritional values per 100g/ml:** 100g; 112.3 kcal; fat 4.3g; carbs 14.6g; sugar 5.1g; protein 6.0g; salt 0.3g
-- **Nutritional values per ½ Deluxe Tub:** 340g; 381.8 kcal; fat 14.7g; carbs 49.6g; sugar 17.4g; protein 20.3g; salt 1.0g
-- **Nutritional values total:** 693g; 777.6 kcal; fat 30.0g; carbs 101.0g; sugar 35.5g; protein 41.4g; salt 2.1g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 31.15
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 21.31% • Hi-Protein
-- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 83.4g • 12.0%
-- **Net carbs:** 63.5g • *∝ 5 servings@139g:* 12.7g • *∝ 3 servings@231g:* 21.2g • *energy ratio (low <20%):* 32.7%
+- **Nutritional values per 100g/ml:** 100g; 102.9 kcal; fat 4.3g; carbs 15.1g; sugar 4.2g; protein 4.7g; salt 0.3g
+- **Nutritional values per ½ Deluxe Tub:** 340g; 350.0 kcal; fat 14.7g; carbs 51.3g; sugar 14.4g; protein 16.0g; salt 1.0g
+- **Nutritional values total:** 683g; 702.6 kcal; fat 29.6g; carbs 103.0g; sugar 28.9g; protein 32.1g; salt 1.9g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 32.36
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 18.29% • Low-Sugar
+- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 64.8g • 9.5%
+- **Net carbs:** 47.2g • *∝ 5 servings@137g:* 9.4g • *∝ 3 servings@228g:* 15.7g • *energy ratio (low <20%):* 26.9%
