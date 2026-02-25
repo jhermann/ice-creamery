@@ -50,12 +50,12 @@ Rating: 😋🥛🍦 (untested)
   - _15g_ [Waxy Maize Starch (E1442) \[Ultratex\]](/ice-creamery/info/ingredients/#waxy-maize-starch-e1442){target="_blank"}<sup>↗</sup> • *alternative:* [E1422](https://jhermann.github.io/ice-creamery/info/ingredients/#acetylated-distarch-adipate-e1422) / *any* modified starch
   - _3g_ Vanilla Bean Powder [InterVanilla]
   - _1g_ Salt
-  - _6 pcs_ Sweetener Tablets [LightSüß] • 1 tablet ≃ 4g sugar
+  - _8 pcs_ Sweetener Tablets [LightSüß] • 1 tablet ≃ 4g sugar
 
 **Fill to MAX**
 
   - _80ml_ Cream 32% [REWE Beste Wahl]
-  - _≈3 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
+  - _≈6 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
 
 **Topping Options**
 
