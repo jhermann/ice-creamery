@@ -1,4 +1,4 @@
-# Recipe Guide<img style="float: right; margin-left: 1.5em;" width=160 alt="Logo" src="logo-recipe-guide.png" />
+# Recipe Guide<img style="float: right; margin-left: 1.5em;" width=160 alt="Logo" src="/ice-creamery/info/logo-recipe-guide.png" />
 
 Looking at the list of recipes from different angles, providing selections that conform with certain requirements and expectations.
 
