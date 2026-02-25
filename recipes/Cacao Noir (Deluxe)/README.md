@@ -4,8 +4,6 @@ description: Recipe for the Ninja Creami Deluxe [24oz]
 excluded_steps:
 - specified ingredients by dissolving
 - ingredients to empty Creami tub.
-- and mix dry ingredients
-- '[*]quickly[*]'
 excluded_tags:
 - Fruit
 - Vanilla
@@ -14,7 +12,6 @@ tags:
 - Erythritol
 - Low-Sugar
 - Polysaccharide Gum
-- Promising
 - Scoopable
 - Stevia
 - Sucralose
@@ -62,7 +59,7 @@ Rating: 😋🍫🍫🍫🕳️ (chocolate black hole, in a good way)
 
 **Dry**
 
-  - _45g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • POD ≈ 85%; GI < 7
+  - _42g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • POD ≈ 85%; GI < 7
   - _15g_ [Skim milk powder 1:10 (SMP) \[Vita2You\]](/ice-creamery/info/ingredients/#skim-milk-powder-smp){target="_blank"}<sup>↗</sup>
   - _15g_ [Whey + Casein protein (grass-fed) \[Vilgain\]](/ice-creamery/info/ingredients/#whey-protein){target="_blank"}<sup>↗</sup> • with stevia
   - _10g_ [Salty Stability \[Inulin / GMS / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup> • *not-as-good substitute:* 1g guar, 0.3g xanthan, and 0.3g salt
@@ -72,7 +69,7 @@ Rating: 😋🍫🍫🍫🕳️ (chocolate black hole, in a good way)
 
 **Fill to MAX**
 
-  - _75ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup> • *alternative*: any other preferred milk (~2% fat)
+  - _78ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup> • *alternative*: any other preferred milk (~2% fat)
   - _≈10 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
 
 **Mix-ins**
@@ -87,12 +84,12 @@ Rating: 😋🍫🍫🍫🕳️ (chocolate black hole, in a good way)
 
 # DIRECTIONS
 
- 1. In a medium-sized heat-proof bowl, mix all the ‘dry’ ingredients with a whisk.
  1. Pour ½ the hot water over the cocoa to bloom it, and whisk to combine to a smooth paste.
  1. Carefully integrate the other half of the water.
  1. Break the chocolate into pieces and melt them into the hot paste, then let it cool down a bit.
  1. Add "wet" ingredients and the chocolate paste to empty Creami tub (use a silicone spatula).
- 1. Use an immersion blender on full speed to homogenize everything.
+ 1. Weigh and mix dry ingredients, easiest by adding to a jar with a secure lid and shaking vigorously.
+ 1. Pour into the tub and *QUICKLY* use an immersion blender on full speed to homogenize everything.
  1. Let blender run until thickeners are properly hydrated, up to 1-2 min. Or blend again after waiting that time.
  1. Add remaining ingredients (to the MAX line) and stir with a spoon.
  1. For better results, let the base age in the fridge (covered, lid on), for a few hours or over night. This helps flavor development and gum hydration, especially with unheated bases.
@@ -102,11 +99,11 @@ Rating: 😋🍫🍫🍫🕳️ (chocolate black hole, in a good way)
 
 # NUTRITIONAL & OTHER INFO
 
-- **Nutritional values per 100g/ml:** 100g; 124.1 kcal; fat 5.8g; carbs 15.0g; sugar 3.1g; protein 5.6g; salt 0.5g
-- **Nutritional values per ½ Deluxe Tub:** 340g; 421.8 kcal; fat 19.6g; carbs 51.0g; sugar 10.5g; protein 19.2g; salt 1.7g
-- **Nutritional values total:** 695g; 862.2 kcal; fat 40.0g; carbs 104.2g; sugar 21.5g; protein 39.3g; salt 3.4g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 31.29
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 18.21% • Low-Sugar
-- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 38.7g • 5.6%
-- **Net carbs:** 41.8g • *∝ 5 servings@139g:* 8.4g • *∝ 3 servings@232g:* 13.9g • *energy ratio (low <20%):* 19.4%
+- **Nutritional values per 100g/ml:** 100g; 123.7 kcal; fat 5.8g; carbs 14.6g; sugar 3.1g; protein 5.7g; salt 0.5g
+- **Nutritional values per ½ Deluxe Tub:** 340g; 420.6 kcal; fat 19.6g; carbs 49.5g; sugar 10.5g; protein 19.2g; salt 1.7g
+- **Nutritional values total:** 695g; 859.8 kcal; fat 40.1g; carbs 101.2g; sugar 21.5g; protein 39.3g; salt 3.4g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.19
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 18.30% • Low-Sugar
+- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 38.8g • 5.6%
+- **Net carbs:** 41.9g • *∝ 5 servings@139g:* 8.4g • *∝ 3 servings@232g:* 14g • *energy ratio (low <20%):* 19.5%
 - **10g 'Salty Stability' is:** 7.3g Inulin • 1.2g Glycerol Monostearate (GMS / E471) • 0.6g Tylose powder (E466, Tylo, CMC) • 0.4g Guar gum (E412) • 0.33g Salt • 0.13g Xanthan gum (E415, XG).
