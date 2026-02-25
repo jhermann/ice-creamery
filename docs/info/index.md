@@ -69,6 +69,10 @@ use the Markdown format for the output.
      * the importance of performing a scrape test before processing,
      * and methods for the handling of icy container walls after the initial processing step.
 
+*   **Recipe Guide**
+
+    Looking at the list of recipes from different angles, providing selections that conform with certain requirements and expectations.
+
 *   **Resources on the Web**
 
     A list of well-known web sites and other resources like YouTube channels found on the internet.
