@@ -17,7 +17,7 @@ These are some basic facts applying to all recipes.
 
 Avoid these things and methods:
 
- * **Do not** listen to claims like "but it works for me, for years now." *Your* freezer might have a temperature lower or higher than the other person's, *your* kitchen temperature might vary greatly according to local climate and seasonal changes, *your* paddle might be more worn down that the other person's, *your* protein powder might not have the additives that *their's* has, and so on.
+ * **Do not** listen to claims like "but it works for me, for years now." *Your* freezer might have a temperature lower or higher than the other person's, *your* kitchen temperature might vary greatly according to local climate and seasonal changes, *your* paddle might be more worn down that the other person's, *your* protein powder might not have the additives that *theirs* has, and so on.
 
  * **Do not** use a milk frother to mix your bases. These things do not disperse powders as effectively as an immersion blender or blender (because it's not their job), and also add a lot of *unwanted* foam (that's their job).
 
@@ -116,6 +116,10 @@ Best instrument to do that within the tub is a chopstick. It requires a swirl mi
 1. This is best done by slowly moving the chopstick in a circle, sticking it diagonally into the base, while also slowly turning the tub until you did a full circle.
 
 1. Refreeze for at least a few hours.
+
+> <img width=220 alt="Processed" src="https://jhermann.github.io/ice-creamery/M/Milky%20Whey%20%28Deluxe%29/Milky-Whey+Cherry_2026-02-25_1.jpg" class="zoomable" />
+> <img width=220 alt="Loaded" src="https://jhermann.github.io/ice-creamery/M/Milky%20Whey%20%28Deluxe%29/Milky-Whey+Cherry_2026-02-25_2.jpg" class="zoomable" />
+> <img width=220 alt="Swirled" src="https://jhermann.github.io/ice-creamery/M/Milky%20Whey%20%28Deluxe%29/Milky-Whey+Cherry_2026-02-25_3.jpg" class="zoomable" />
 
 You may also consider to transfer your processed ice cream into a storage container, and layer it with your swirl mix.
 You automatically get swirls while scooping it out again.
