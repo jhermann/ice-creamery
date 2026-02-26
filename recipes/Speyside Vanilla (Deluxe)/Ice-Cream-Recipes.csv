@@ -1,14 +1,14 @@
 Speyside Vanilla (Deluxe);;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 ;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;;
-Nutritional values per 100g/ml;100;g;;100.3;4.2;7.8;3.5;4.6;0.3;;;;;
-Nutritional values per ½ Deluxe Tub;340;g;;341.1;14.4;26.7;11.9;15.8;1.0;;;;;
-Nutritional values total;680;g;;682.1;28.8;53.4;23.8;31.6;2.0;;;;;
+Nutritional values per 100g/ml;100;g;;102.7;4.1;9.8;3.6;4.5;0.3;;;;;
+Nutritional values per ½ Deluxe Tub;340;g;;349.1;14.1;33.2;12.2;15.4;1.0;;;;;
+Nutritional values total;695;g;;713.6;28.8;67.9;25.0;31.6;2.0;;;;;
 ;;;;;;;;;;;;;;
-FPDF / PAC (target 20..30);33.24;;;;;;;;;;;;;
-"Protein / Energy Ratio (ok=12%; hi=20%)";18.52%;;;;;;Low-Sugar;;;;;;;
-ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);61.1;g;;9.0%;;;;;;;;;;
-ℹ️ Net carbs;38.4;g;;*∝ 5 servings@136g:* 7.7g;;;*∝ 3 servings@227g:* 12.8g;;;*energy ratio (low <20%):* 22.5%;;;;
+FPDF / PAC (target 20..30);32.74;;;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";17.70%;;;;;;Low-Sugar;;;;;;;
+ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);61.1;g;;8.8%;;;;;;;;;;
+ℹ️ Net carbs;39.6;g;;*∝ 5 servings@139g:* 7.9g;;;*∝ 3 servings@232g:* 13.2g;;;*energy ratio (low <20%):* 22.2%;;;;
 ;;;;;;;;;;;;;;
 Based on “Buttermilk Vanilla”, with an infusion of Scotch spirit.;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
@@ -16,7 +16,7 @@ Based on “Buttermilk Vanilla”, with an infusion of Scotch spirit.;;;;;;;;;;;
 
 Process on *Light Ice Cream*, with scrape-down, and a mix-in or respin run if needed.<br clear=all />
 
-Rating: 😋🥛🍦 (untested)";;;;;;;;;;;;;;
+Rating: 😋🥛🍦❄️ (creamy but a bit icy, hopefully fixed now by adding inulin)";;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
@@ -30,6 +30,7 @@ Milk 2% fat (hi-protein) [Fairlife];;ml;1;50.00;1.88;2.50;2.50;5.42;0.13;0.03;9.
 Milk zero fat (hi-protein) [Fairlife];;ml;1;33.00;0.00;2.50;2.50;5.42;0.13;0.03;9.30;US brand;;1
 SweEX (Erythritol + Xylitol 3:2);15.00;g;2;109.60;;100.00;;;;2.56;;*alternative:* 20g allulose or dextrose;100.00;1
 Whey + Casein protein (grass-fed) [Vilgain];15.00;g;2;384.00;4.60;5.70;5.60;80.00;0.50;0.06;90.40;with stevia;;1
+Inulin [Vit4ever];15.00;g;2;210.00;;97.00;8.00;;0.20;0.09;;"Sweetness = 8%; GI ~= 0";89.00;1
 Waxy Maize Starch (E1442) [Ultratex];15.00;g;2;391.00;0.15;97.00;0.00;0.50;0.50;;;*alternative:* [E1422](https://jhermann.github.io/ice-creamery/info/ingredients/#acetylated-distarch-adipate-e1422) / *any* modified starch;;1
 Vanilla Bean Powder [InterVanilla];3.00;g;2;288.00;0.10;13.00;13.00;0.00;0.00;;;;;1
 Salt;1.00;g;2;;;;;;100.00;5.90;;;;1

@@ -27,11 +27,11 @@ Change the vanilla flavoring to what you have, e.g. vanilla paste or essence. Ju
 
 Process on *Light Ice Cream*, with scrape-down, and a mix-in or respin run if needed.<br clear=all />
 
-> <img width=220 alt="After 1st Spin" src="_1.jpg" class="zoomable" />
-> <img width=220 alt="After Mix-in" src="_2.jpg" class="zoomable" />
-> <img width=220 alt="Scooped" src="_3.jpg" class="zoomable" />
+> <img width=220 alt="After 1st Spin" src="Speyside-Vanilla_2026-02-26_1.jpg" class="zoomable" />
+> <img width=220 alt="After Mix-in" src="Speyside-Vanilla_2026-02-26_2.jpg" class="zoomable" />
+> <img width=220 alt="Scooped" src="Speyside-Vanilla_2026-02-26_3.jpg" class="zoomable" />
 
-Rating: 😋🥛🍦 (untested)
+Rating: 😋🥛🍦❄️ (creamy but a bit icy, hopefully fixed now by adding inulin)
 
 # INGREDIENTS
 
@@ -47,6 +47,7 @@ Rating: 😋🥛🍦 (untested)
 
   - _15g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • *alternative:* 20g allulose or dextrose
   - _15g_ [Whey + Casein protein (grass-fed) \[Vilgain\]](/ice-creamery/info/ingredients/#whey-protein){target="_blank"}<sup>↗</sup> • with stevia
+  - _15g_ [Inulin \[Vit4ever\]](/ice-creamery/info/ingredients/#inulin){target="_blank"}<sup>↗</sup> • Sweetness = 8%; GI ~= 0
   - _15g_ [Waxy Maize Starch (E1442) \[Ultratex\]](/ice-creamery/info/ingredients/#waxy-maize-starch-e1442){target="_blank"}<sup>↗</sup> • *alternative:* [E1422](https://jhermann.github.io/ice-creamery/info/ingredients/#acetylated-distarch-adipate-e1422) / *any* modified starch
   - _3g_ Vanilla Bean Powder [InterVanilla]
   - _1g_ Salt
@@ -75,10 +76,10 @@ Rating: 😋🥛🍦 (untested)
 
 # NUTRITIONAL & OTHER INFO
 
-- **Nutritional values per 100g/ml:** 100g; 100.3 kcal; fat 4.2g; carbs 7.8g; sugar 3.5g; protein 4.6g; salt 0.3g
-- **Nutritional values per ½ Deluxe Tub:** 340g; 341.1 kcal; fat 14.4g; carbs 26.7g; sugar 11.9g; protein 15.8g; salt 1.0g
-- **Nutritional values total:** 680g; 682.1 kcal; fat 28.8g; carbs 53.4g; sugar 23.8g; protein 31.6g; salt 2.0g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 33.24
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 18.52% • Low-Sugar
-- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 61.1g • 9.0%
-- **Net carbs:** 38.4g • *∝ 5 servings@136g:* 7.7g • *∝ 3 servings@227g:* 12.8g • *energy ratio (low <20%):* 22.5%
+- **Nutritional values per 100g/ml:** 100g; 102.7 kcal; fat 4.1g; carbs 9.8g; sugar 3.6g; protein 4.5g; salt 0.3g
+- **Nutritional values per ½ Deluxe Tub:** 340g; 349.1 kcal; fat 14.1g; carbs 33.2g; sugar 12.2g; protein 15.4g; salt 1.0g
+- **Nutritional values total:** 695g; 713.6 kcal; fat 28.8g; carbs 67.9g; sugar 25.0g; protein 31.6g; salt 2.0g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 32.74
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 17.70% • Low-Sugar
+- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 61.1g • 8.8%
+- **Net carbs:** 39.6g • *∝ 5 servings@139g:* 7.9g • *∝ 3 servings@232g:* 13.2g • *energy ratio (low <20%):* 22.2%
