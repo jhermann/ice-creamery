@@ -7,7 +7,6 @@ excluded_tags:
 - Allulose
 - Vanilla
 tags:
-- Draft
 - Emulsifier
 - Erythritol
 - Fruit
@@ -34,7 +33,7 @@ Spun on “Light Ice Cream”, scrape down, and “Ice Cream”.
 > <img width=220 alt="After 2nd Spin" src="Fruity-FroYo-SB_2026-03-02_2.jpg" class="zoomable" />
 > <img width=220 alt="Scooped" src="Fruity-FroYo-SB_2026-03-02_3.jpg" class="zoomable" />
 
-Rating: 😋🥛🍒🍓🫐 (untested)
+Rating: 😋🥛🍒🍓🫐 (primarily tangy yogurt, with the fruit in the background)
 
 # INGREDIENTS
 
