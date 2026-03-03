@@ -107,6 +107,7 @@ These are the PDF manuals and guides that [SharkNinja](https://www.sharkninja.co
 - [Inspirational Guide](https://support.ninjakitchen.com/hc/en-us/articles/5783868076316-NC501-Series-Ninja-CREAMi-Deluxe-11-in-1-Ice-Cream-and-Frozen-Treat-Maker-Inspirational-Guide)
 
 ## Ice Cream Calculators
+
 I use my spreadsheet, so this is a "what I found on the web" list, without any preferences attached.
 
 - [Dream Scoops](https://www.dreamscoops.com/ice-cream-science/ice-cream-calculator/) — Meant to be a relatively simple tool for home cooks.
@@ -126,6 +127,14 @@ I use my spreadsheet, so this is a "what I found on the web" list, without any p
 - [Ice Cream Science • Home Cook's Spreadsheet](https://www.icecreamscience.com/blog/calculate-ice-cream-mix) — How to calculate an ice cream mix.
 - [Omni Perfect Ice Cream Calculator](https://www.omnicalculator.com/food/ice-cream)
 - [Ice Solution](https://icesolution.app/)
+
+!!! tip "Targets for Creami Formulations"
+
+    - Total **solids**: 28–33% of mix weight.
+    - Total **sugars** (including polyols/intense sweeteners, as “sugar equivalents”): about 11.5–12.5%.
+    - Serving **temperature**: aim for 13–14 °C (i.e., hardness/scoopability tuned so it just eats well straight from the freezer).
+    - **Fat**: about 2.5% currently, but can be lowered toward 0% if compensated with other solids (inulin, SMP, protein, more sweeteners).
+    - Machine safety/texture constraint: if the modeled serving temperature is warmer than negative ~13°C at your freezer setting, the mix is too icy; if it’s much colder, you likely have too many solids and the texture suffers.
 
 ## Nutritional Databases
 
