@@ -706,6 +706,24 @@ In an egg-free ice cream, add from 0.15% to 0.5% of the total recipe weight (1.5
 
 Soy lecithin is often extracted using chemical solvents, which makes it a UPF, and it might come from GMO sources.
 
+### Sucrose Esters of Fatty Acids (E473)
+
+This is used in ice cream primarily as an emulsifier and stabilizer
+to improve texture, mouthfeel, and shelf life.
+It is first dissolved in the watery part of a base and then mixed with fatty ingredients; E473 is considered cold‑soluble or at least cold‑dispersible. Mono‑esters (high HLB of 10–16) are more water‑soluble and can dissolve or disperse readily in cold water or cold milk.
+
+Key Uses of E473 in ice cream:
+
+- **Creates Creamy Texture:** It helps in emulsifying fats and water, ensuring a smooth and creamy texture.
+- **Controls Ice Crystal Formation:** It stabilizes the mixture, preventing the growth of large ice crystals, which results in a finer, smoother product.
+- **Improves Melt Resistance:** It enhances the structure of the ice cream, allowing it to hold its shape better and melt slower.
+- **Increases Overrun (Air Incorporation):** It helps in incorporating air, contributing to a lighter, more aerated, and stable structure.
+- **Enhances Low-Fat Alternatives:** It is often used to compensate for the loss of mouthfeel in reduced-fat ice creams.
+
+E473 is highly effective because it can be tailored to different, complex emulsion systems and is often used in combination with other emulsifiers for improved results.
+
+It is typically used at about 0.2–0.3% of the total mix, with an upper limit of 0.5%. Start at the low end as usual, especially when you combine it with E471 (Mono- and Diglycerides of Fatty Acids) or other emulsifiers. The acceptable daily intake (ADI) for E473 is 40mg/kg body weight per day.
+
 ## Dairy & Milk Alternatives
 ### Almond Milk & Butter
 
