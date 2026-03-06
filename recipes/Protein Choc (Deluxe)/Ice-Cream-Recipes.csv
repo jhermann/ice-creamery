@@ -1,0 +1,43 @@
+Protein Choc (Deluxe);;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;;;
+Nutritional values per 100g/ml;100;g;;121.0;4.1;14.4;0.6;9.5;0.2;;;;;
+Nutritional values per ½ Deluxe Tub;340;g;;411.5;14.0;49.1;2.1;32.3;0.6;;;;;
+Nutritional values total;680;g;;823.0;27.9;98.1;4.3;64.6;1.2;;;;;
+;;;;;;;;;;;;;;
+FPDF / PAC (target 20..30);30.03;;;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";31.42%;;;;;;Low-Sugar;Hi-Protein;;;;;;
+ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);64.3;g;;9.5%;;;;;;;;;;
+ℹ️ Net carbs;32.0;g;;*∝ 5 servings@136g:* 6.4g;;;*∝ 3 servings@227g:* 10.7g;;;*energy ratio (low <20%):* 15.6%;;;;
+;;;;;;;;;;;;;;
+"Chocolate ice cream, very high in protein.
+You can boost the chocolate flavor by using chocolate milk,
+and adding dark chocolate as a mix-in or by melting it into the bloomed cocoa.";;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+Spin on “Light Ice Cream”, scrape down, and re-mix if needed.;;;;;;;;;;;;;;
+"
+Rating: 😋 (untested)";;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+"1. Mix the cocoa and sweetener with milk heatened in the microwave (to >80°C), blend to a smooth paste.
+ 1. Add the bloomed cocoa and the other wet ingredients to an empty Creami tub.";;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment;0Carb[%];Counts?
+Soy milk 1.6% (sugar-free) [Berief];100.00;ml;0;30.00;1.60;0.90;0.00;3.00;0.08;;4.00;*alternative:* any other preferred milk (~2% fat);;1
+Cocoa Powder Organic 11% [Sevenhills];45.00;g;0;367.00;11.00;26.80;0.90;28.00;0.05;-0.90;;;;1
+SweEX (Erythritol + Xylitol 3:2);45.00;g;0;109.60;;100.00;;;;2.56;;*alternative:* 60g allulose or dextrose;100.00;1
+Soy milk 1.6% (sugar-free) [Berief];350.00;ml;1;30.00;1.60;0.90;0.00;3.00;0.08;;4.00;*alternative:* any other preferred milk (~2% fat);;1
+Glycerin (E422, VG) [hd-line];20.00;g;1;400.00;;99.00;;;;3.70;;*alternative:* 16g (additional) VG for a sober recipe;50.00;1
+Brandy or Vodka 40 vol%;15.00;g;1;280.00;;;;;;2.96;;*alternative:* same amount additional VG for a sober recipe;;1
+Vanilla Extract (w/ alcohol) [Native Vanilla];;ml;1;300.00;;;;;;2.22;;;;1
+Milk 3.5% [Weihenstephan];;ml;1;64.00;3.50;4.70;4.70;3.50;0.13;0.05;8.97;;;1
+Whey protein Chocolate [MaxiNutrition];50.00;g;2;374.00;4.90;5.30;3.40;75.00;0.55;0.03;87.60;;;1
+Inulin [Vit4ever];;g;2;210.00;;97.00;8.00;;0.20;0.09;;"Sweetness = 8%; GI ~= 0";89.00;1
+Waxy Maize Starch (E1442) [Ultratex];;g;2;391.00;0.15;97.00;0.00;0.50;0.50;;;*alternative:* [E1422](https://jhermann.github.io/ice-creamery/info/ingredients/#acetylated-distarch-adipate-e1422), or any instant starch;;1
+Salty Stability [Inulin / GMS / CMC / Guar / XG / Salt];15.00;g;2;267.5;3.6;88.4;5.9;0.3;3.5;0.06;;*not-as-good substitute:* 1.5g guar, 0.5g xanthan, and 0.5g salt;73.80;1
+Salt;1.00;g;2;;;;;;100.00;5.90;;;;0
+Guar gum (E412);1.50;g;2;180.00;0.60;84.00;0.00;5.50;0.30;;;;;0
+Xanthan gum (E415, XG);0.50;g;2;320.00;;78.00;;6.00;1.00;;;1tsp ≈ 2.8g;;0
+Allulose;;g;2;40.00;;80.00;;;;1.90;;*alternative:* 0g SweEX (Erythritol + Xylitol 3:2);80.00;0
+;;;;;;;;;;;;;;
+Cream 32% [REWE Beste Wahl];40.00;ml;3;311.00;32.00;3.20;3.20;2.50;0.13;0.03;6.32;;;1
+Flavor drops Vanilla (sucralose) [IronMaxx];≈1;drops;3;;;;;;;;;to taste;;
