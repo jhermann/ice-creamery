@@ -69,8 +69,9 @@ If in doubt, just shop for them online — my recipes have names of brands that 
 Also, some ingredients and tools I consider essential for ice cream making, which you might not have encountered in cooking or baking yet. These are:
 
  * [Glycerin (E422, VG)](https://jhermann.github.io/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422) to get a scoopable, freezer-stable ice cream.
- * [Soy or Sunflower Lecithin](https://jhermann.github.io/ice-creamery/info/ingredients/#soy-lecithin-e322) for recipes that contain nut butter or other unusual amounts of fat.
+ * [Soy or Sunflower Lecithin](https://jhermann.github.io/ice-creamery/info/ingredients/#soy-lecithin-e322) for recipes that contain nut butter or other unusual amounts of fat. The more 'exotic' options are [E473](https://jhermann.github.io/ice-creamery/info/ingredients/#sucrose-esters-of-fatty-acids-e473) and [E471](https://jhermann.github.io/ice-creamery/info/ingredients/#glycerol-monostearate-gms-e471).
  * Xanthan and guar gum. Where you encounter [Salty Stability](/ice-creamery/S/Salty%20Stability/) as an ingredient, you can replace it by 1.5g guar, 0.5g xanthan, and 0.5g salt (for a standard 15g dosage, scale other amounts accordingly).
+ * [Skim Milk Powder (SMP)](https://jhermann.github.io/ice-creamery/info/ingredients/#skim-milk-powder-smp) and [Inulin](https://jhermann.github.io/ice-creamery/info/ingredients/#inulin) to provide body (solids), especially to low(er) fat recipes.
  * Dextrose, in case you want to replace sugar alcohols (erythritol, xylitol, etc).
  * A sturdy (metal) ice cream scoop.
  <br /><br /><img width=240 alt="Metal Scoop" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/assets/Metal-Scoop.jpg" class="zoomable" />
