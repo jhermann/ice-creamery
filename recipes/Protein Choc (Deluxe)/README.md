@@ -27,10 +27,12 @@ You can boost the chocolate flavor by using chocolate milk,
 and adding dark chocolate as a mix-in or by melting it into the bloomed cocoa.
 
 Spin on “Light Ice Cream”, scrape down, and re-mix if needed.
-Rating: 😋 (untested)
+
 > <img width=220 alt="After 1st Spin" src="_1.jpg" class="zoomable" />
 > <img width=220 alt="After Mix-in" src="_2.jpg" class="zoomable" />
 > <img width=220 alt="Scooped" src="_3.jpg" class="zoomable" />
+
+Rating: 😋 (untested)
 
 # INGREDIENTS
 
@@ -38,13 +40,13 @@ Rating: 😋 (untested)
 
 **Prep**
 
-  - _100ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup> • *alternative:* any other preferred milk (~2% fat)
+  - _150ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup> • *alternative:* any other preferred milk (~2% fat)
   - _45g_ [Cocoa Powder Organic 11% \[Sevenhills\]](/ice-creamery/info/ingredients/#cocoa-powder){target="_blank"}<sup>↗</sup>
   - _45g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • *alternative:* 60g allulose or dextrose
 
 **Wet**
 
-  - _350ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup> • *alternative:* any other preferred milk (~2% fat)
+  - _300ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup> • *alternative:* any other preferred milk (~2% fat)
   - _20g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • *alternative:* 16g (additional) VG for a sober recipe
   - _15g_ [Brandy or Vodka 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup> • *alternative:* same amount additional VG for a sober recipe
 
@@ -56,7 +58,7 @@ Rating: 😋 (untested)
 **Fill to MAX**
 
   - _40ml_ Cream 32% [REWE Beste Wahl]
-  - _≈1 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
+  - _≈6 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
 
 # DIRECTIONS
 
