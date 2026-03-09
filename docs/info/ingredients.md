@@ -276,6 +276,20 @@ Sucralose is commonly known by the brand name *Splenda*.
 
 Like [stevia](#stevia-e960), when used in liquid form, it makes it simple to dial in the sweetness of a base without influencing its texture and PAC value.
 
+### Tagatose
+
+[Tagatose](https://en.wikipedia.org/wiki/Tagatose) is a rare, low-calorie, natural monosaccharide sugar (sweetener) that is about 90% as sweet as sucrose, but with only a third to half the calories (1.5–2.8 kcal/g). It is found in small amounts in dairy and some fruits, is non-cariogenic, and has a very low glycemic index, making it popular for diabetes-friendly foods.
+
+**Key Aspects of Tagatose**
+
+-   **Sweetener Properties:** It behaves like sugar in cooking, browning, and texture, making it an excellent sucrose substitute.
+-   **Low Calorie/Glycemic Index:** Due to limited absorption in the small intestine, it has a minimal impact on blood glucose and insulin levels.
+-   **Source:** While found in dairy and fruits, it is commercially produced by breaking down lactose into galactose, which is then converted into D-tagatose.
+-   **Safety & Status:** It is generally recognized as safe (GRAS) by the [FDA](https://pubmed.ncbi.nlm.nih.gov/12511110/) and approved by [FSANZ](https://www.foodstandards.gov.au/consumer/foodtech/tagatose); it is an approved novel food ingredient in the EU (since 2005) and Great Britain.
+-   **Digestive Considerations:** Although safe, excessive consumption may lead to digestive discomfort.
+
+Tagatose is frequently used in foods such as ice cream, chocolate, and chewing gum.
+
 ### Trehalose (E965)
 Trehalose is a disaccharide (composed of two glucose molecules),
 naturally occurring in plants, fungi, shellfish, and insects.
