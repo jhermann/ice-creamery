@@ -31,7 +31,7 @@ Spin on “Light Ice Cream”, scrape down, and run a mix-in cycle.
 > <img width=220 alt="After Mix-in" src="Protein-Choc_2026-03-10_2.jpg" class="zoomable" />
 > <img width=220 alt="Scooped" src="Protein-Choc_2026-03-10_3.jpg" class="zoomable" />
 
-Rating: 😋🥛🍫🥛🍫 (untested)
+Rating: 😋🥛🍫🍫🍫 (strong chocolate flavor, soft after mix-in run, profits from refreezing)
 
 # INGREDIENTS
 
@@ -61,7 +61,7 @@ Rating: 😋🥛🍫🥛🍫 (untested)
 
 **Mix-ins**
 
-  - _35g_ [Milk Choc. w/ Nougat \[frankonia\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup> • no extra sugar; frozen & broken into chunks [177kcal, 3.5g sugar]
+  - _35g_ [Milk Choc. w/ Nougat \[frankonia\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup> • no extra sugar; frozen & chopped [177kcal, 3.5g sugar]
 
 # DIRECTIONS
 
