@@ -8,7 +8,6 @@ excluded_tags:
 - Allulose
 - Vanilla
 tags:
-- Draft
 - Emulsifier
 - Erythritol
 - Hi-Protein
@@ -28,11 +27,11 @@ and adding dark chocolate as a mix-in or by melting it into the bloomed cocoa.
 
 Spin on “Light Ice Cream”, scrape down, and run a mix-in cycle.
 
-> <img width=220 alt="After 1st Spin" src="_1.jpg" class="zoomable" />
-> <img width=220 alt="After Mix-in" src="_2.jpg" class="zoomable" />
-> <img width=220 alt="Scooped" src="_3.jpg" class="zoomable" />
+> <img width=220 alt="After 1st Spin" src="Protein-Choc_2026-03-10_1.jpg" class="zoomable" />
+> <img width=220 alt="After Mix-in" src="Protein-Choc_2026-03-10_2.jpg" class="zoomable" />
+> <img width=220 alt="Scooped" src="Protein-Choc_2026-03-10_3.jpg" class="zoomable" />
 
-Rating: 😋🥛🍫 (untested)
+Rating: 😋🥛🍫🥛🍫 (untested)
 
 # INGREDIENTS
 
@@ -62,7 +61,7 @@ Rating: 😋🥛🍫 (untested)
 
 **Mix-ins**
 
-  - _30g_ [Milk Choc. w/ Nougat \[frankonia\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup> • no extra sugar; frozen & broken into chunks [152kcal, 3g sugar]
+  - _35g_ [Milk Choc. w/ Nougat \[frankonia\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup> • no extra sugar; frozen & broken into chunks [177kcal, 3.5g sugar]
 
 # DIRECTIONS
 
