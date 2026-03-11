@@ -46,8 +46,8 @@ Rating: 😋🥛🍫🍫🍫 (strong chocolate flavor, soft after mix-in run, pr
 **Wet**
 
   - _300ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup> • *alternative:* any other preferred milk (~2% fat)
-  - _20g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • *alternative:* 16g (additional) VG for a sober recipe
-  - _15g_ [Brandy or Vodka 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup> • *alternative:* same amount additional VG for a sober recipe
+  - _20g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • POD = 60%; GI = 5; Density = 1.26 g/ml
+  - _15g_ [Brandy or Vodka 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup> • *alternative:* 12g (additional) VG for a sober recipe
 
 **Dry**
 
