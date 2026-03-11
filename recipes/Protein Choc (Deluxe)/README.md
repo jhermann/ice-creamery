@@ -61,7 +61,7 @@ Rating: 😋🥛🍫🍫🍫 (strong chocolate flavor, soft after mix-in run, pr
 
 **Mix-ins**
 
-  - _35g_ [Milk Choc. w/ Nougat \[frankonia\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup> • no extra sugar; frozen & chopped [177kcal, 3.5g sugar]
+  - _35g_ Milk Choc. w/ Nougat [frankonia] • no extra sugar; frozen & chopped [177kcal, 3.5g sugar]
 
 # DIRECTIONS
 
