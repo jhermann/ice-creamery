@@ -29,7 +29,9 @@ Avoid these things and methods:
 
  * **Do not** freeze your bases less than 24h, *unless* you know from a previous scrape test your recipe is OK with less, or you freeze pre-chilled bases.
 
- * **Do not** soften (thaw) your frozen tubs without checking whether that is needed at all, see [scrape test](#scrape-test-always).
+ * **Do not** process bases frozen outside the designated temperature range of -12°C to -20°C.
+
+ * **Do not** soften (thaw) your frozen tubs without checking whether that is needed at all, see [scrape test](#scrape-test-always). By default, process immediately after removing from the freezer.
 
  * **Do not** run your tubs under hot water *before* the first spin, see [Handling of Icy Sides & Bottom](#handling-of-icy-sides-bottom).
 
