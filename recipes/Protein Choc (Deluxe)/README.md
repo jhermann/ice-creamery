@@ -25,6 +25,8 @@ Chocolate ice cream, very high in protein.
 You can boost the chocolate flavor by using chocolate milk,
 and adding dark chocolate as a mix-in or by melting it into the bloomed cocoa.
 
+> <img width=442 alt="Served" src="Protein-Choc_2026-03-10_4.jpg" class="zoomable" />
+
 Spin on “Light Ice Cream”, scrape down, and run a mix-in cycle.
 
 > <img width=220 alt="After 1st Spin" src="Protein-Choc_2026-03-10_1.jpg" class="zoomable" />
