@@ -543,6 +543,20 @@ It is synergistic when combined with other hydrocolloids to increase their gelli
 
 *Also know as:* carob / Johannisbrotkernmehl.
 
+### Microcrystalline Cellulose (E460(i) / MCC)
+
+MCC is a commonly used food additive, stabilizer, and thickening agent derived from
+high-quality wood pulp or fibrous plant material. It is a purified, partially depolymerized
+cellulose that appears as a fine, white, odorless powder.
+
+It is an indigestible and insoluble fiber (in water, ethanol, and ether) and commonly used as
+an anti-caking and non-caloric bulking agent.
+Like inulin, it provides a creamy mouthfeel in low-fat products, but without the typical GI issues at typical doses.
+
+MCC has no specified ADI, meaning it is not deemed a safety risk in food.
+
+> ℹ️ E460 is split into two types: E460(i) is microcrystalline cellulose, and E460(ii) is powdered cellulose.
+
 ### Psyllium Husk
 
 Psyllium is a natural dietary fiber from plant seeds, not a synthetic additive, and counts as a whole food.
