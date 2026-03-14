@@ -1,13 +1,13 @@
 Matcha Coconut (Deluxe);;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 ;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;;
-Nutritional values per 100g/ml;100;g;;111.4;4.6;13.8;2.7;7.0;0.2;;;;;
-Nutritional values per ½ Deluxe Tub;340;g;;378.7;15.6;46.8;9.3;23.7;0.6;;;;;
-Nutritional values total;680;g;;757.4;31.2;93.5;18.6;47.4;1.1;;;;;
+Nutritional values per 100g/ml;100;g;;111.2;4.6;13.7;2.7;7.0;0.2;;;;;
+Nutritional values per ½ Deluxe Tub;340;g;;377.9;15.6;46.6;9.3;23.7;0.6;;;;;
+Nutritional values total;682;g;;758.0;31.3;93.6;18.6;47.5;1.1;;;;;
 ;;;;;;;;;;;;;;
-FPDF / PAC (target 20..30);33.45;;;;;;;;;;;;;
-"Protein / Energy Ratio (ok=12%; hi=20%)";25.05%;;;;;;Low-Sugar;Hi-Protein;;;;;;
-ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);63.6;g;;9.4%;;;;;;;;;;
+FPDF / PAC (target 20..30);33.36;;;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";25.06%;;;;;;Low-Sugar;Hi-Protein;;;;;;
+ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);63.7;g;;9.3%;;;;;;;;;;
 ℹ️ Net carbs;38.7;g;;*∝ 5 servings@136g:* 7.7g;;;*∝ 3 servings@227g:* 12.9g;;;*energy ratio (low <20%):* 20.4%;;;;
 ;;;;;;;;;;;;;;
 "🍵🥥 This matcha ice cream blends green tea's earthy flavor and subtle bitterness
@@ -28,7 +28,9 @@ Heated base with 12g matcha, one spin on *Light Ice Cream*.";;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment;0Carb[%];Counts?
 Soy milk 1.6% (sugar-free) [Berief];350.00;ml;1;30.00;1.60;0.90;0.00;3.00;0.08;;4.00;;;1
-Coconut milk 22% [REWE Bio];100.00;ml;1;222.00;22.00;4.00;4.00;2.00;0.04;0.04;;;;1
+Coconut milk 22% [REWE Bio];100.00;ml;1;222.00;22.00;4.00;4.00;2.00;0.04;0.04;;*alternative:* 60ml more soy milk and 40g coconut milk powder 54%;;1
+Soy milk 1.6% (sugar-free) [Berief];60.00;ml;1;30.00;1.60;0.90;0.00;3.00;0.08;;4.00;;;0
+Coconut Milk Powder 54% [Green Essence];40.00;g;2;640.00;55.00;40.25;1.25;6.25;0.13;;46.50;;;0
 Cottage Cheese 4% [REWE Bio];;g;1;91.00;4.00;1.00;1.00;12.70;0.69;0.01;16.00;*alternative:* 0g cream cheese and 0ml milk;;1
 Glycerin (E422, VG) [hd-line];15.00;g;1;400.00;;99.00;;;;3.70;;"POD = 60%; GI = 5; Density = 1.26 g/ml";50.00;1
 Brandy or Vodka 40 vol%;15.00;g;1;280.00;;;;;;2.96;;*alternative:* 12g (additional) VG for a sober recipe;;1
@@ -39,5 +41,5 @@ Salty Stability [Inulin / GMS / CMC / Guar / XG / Salt];10.00;g;2;267.5;3.6;88.4
 Whey + Casein protein (grass-fed) [Vilgain];25.00;g;2;384.00;4.60;5.70;5.60;80.00;0.50;0.06;90.40;with stevia;;1
 Skim milk powder 1:10 (SMP) [Vita2You];25.00;g;2;358.00;0.97;50.50;50.50;35.00;1.00;0.51;94.03;;;1
 ;;;;;;;;;;;;;;
-Soy milk 1.6% (sugar-free) [Berief];88.00;ml;3;30.00;1.60;0.90;0.00;3.00;0.08;;4.00;;;1
+Soy milk 1.6% (sugar-free) [Berief];90.00;ml;3;30.00;1.60;0.90;0.00;3.00;0.08;;4.00;;;1
 Flavor drops Vanilla (sucralose) [IronMaxx];≈2;drops;3;;;;;;;;;to taste;;

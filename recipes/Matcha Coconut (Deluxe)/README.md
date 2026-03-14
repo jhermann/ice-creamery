@@ -37,6 +37,7 @@ It's gently flavored and smooth without being heavy.
 > <img width=221 alt="Blending the Base" src="Matcha_2025-07-27_2.jpg" class="zoomable" />
 
 Process on SORBET and MIX-IN or RESPIN (choose depending on consistency you get after processing, and eventually want after the 2nd spin).
+
 > <img width=220 alt="Sorbet" src="Matcha_2025-07-28_1.jpg" class="zoomable" />
 > <img width=220 alt="Mix-in" src="Matcha_2025-07-28_2.jpg" class="zoomable" />
 > <img width=220 alt="Scooped" src="Matcha_2025-07-28_3.jpg" class="zoomable" />
@@ -57,7 +58,7 @@ Heated base with 12g matcha, one spin on *Light Ice Cream*.
 **Wet**
 
   - _350ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup> • *alternative*: any other preferred milk (~2% fat)
-  - _100ml_ [Coconut milk 22% \[REWE Bio\]](/ice-creamery/info/ingredients/#coconut-milk){target="_blank"}<sup>↗</sup>
+  - _100ml_ [Coconut milk 22% \[REWE Bio\]](/ice-creamery/info/ingredients/#coconut-milk){target="_blank"}<sup>↗</sup> • *alternative:* 60ml more soy milk and 40g coconut milk powder 54%
   - _15g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • POD = 60%; GI = 5; Density = 1.26 g/ml
   - _15g_ [Brandy or Vodka 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup> • *alternative:* 12g (additional) VG for a sober recipe
 
@@ -71,7 +72,7 @@ Heated base with 12g matcha, one spin on *Light Ice Cream*.
 
 **Fill to MAX**
 
-  - _88ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup> • *alternative*: any other preferred milk (~2% fat)
+  - _90ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup> • *alternative*: any other preferred milk (~2% fat)
   - _≈2 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
 
 # DIRECTIONS
@@ -87,11 +88,11 @@ Heated base with 12g matcha, one spin on *Light Ice Cream*.
 
 # NUTRITIONAL & OTHER INFO
 
-- **Nutritional values per 100g/ml:** 100g; 111.4 kcal; fat 4.6g; carbs 13.8g; sugar 2.7g; protein 7.0g; salt 0.2g
-- **Nutritional values per ½ Deluxe Tub:** 340g; 378.7 kcal; fat 15.6g; carbs 46.8g; sugar 9.3g; protein 23.7g; salt 0.6g
-- **Nutritional values total:** 680g; 757.4 kcal; fat 31.2g; carbs 93.5g; sugar 18.6g; protein 47.4g; salt 1.1g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 33.45
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 25.05% • Low-Sugar • Hi-Protein
-- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 63.6g • 9.4%
+- **Nutritional values per 100g/ml:** 100g; 111.2 kcal; fat 4.6g; carbs 13.7g; sugar 2.7g; protein 7.0g; salt 0.2g
+- **Nutritional values per ½ Deluxe Tub:** 340g; 377.9 kcal; fat 15.6g; carbs 46.6g; sugar 9.3g; protein 23.7g; salt 0.6g
+- **Nutritional values total:** 682g; 758.0 kcal; fat 31.3g; carbs 93.6g; sugar 18.6g; protein 47.5g; salt 1.1g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 33.36
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 25.06% • Low-Sugar • Hi-Protein
+- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 63.7g • 9.3%
 - **Net carbs:** 38.7g • *∝ 5 servings@136g:* 7.7g • *∝ 3 servings@227g:* 12.9g • *energy ratio (low <20%):* 20.4%
 - **10g 'Salty Stability' is:** 7.3g Inulin • 1.2g Glycerol Monostearate (GMS / E471) • 0.6g Tylose powder (E466, Tylo, CMC) • 0.4g Guar gum (E412) • 0.33g Salt • 0.13g Xanthan gum (E415, XG).
