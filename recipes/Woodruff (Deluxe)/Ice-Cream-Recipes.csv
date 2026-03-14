@@ -1,14 +1,14 @@
 Woodruff (Deluxe);;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 ;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;;
-Nutritional values per 100g/ml;100;g;;78.7;1.7;11.0;0.5;7.3;0.2;;;;;
-Nutritional values per ½ Deluxe Tub;340;g;;267.6;5.7;37.3;1.7;24.8;0.6;;;;;
-Nutritional values total;675;g;;530.8;11.3;74.0;3.3;49.1;1.2;;;;;
+Nutritional values per 100g/ml;100;g;;81.6;1.7;10.0;0.5;7.3;0.2;;;;;
+Nutritional values per ½ Deluxe Tub;340;g;;277.6;5.7;34.0;1.8;24.8;0.6;;;;;
+Nutritional values total;674;g;;550.3;11.3;67.4;3.5;49.1;1.2;;;;;
 ;;;;;;;;;;;;;;
-FPDF / PAC (target 20..30);30.89;;;;;;;;;;;;;
-"Protein / Energy Ratio (ok=12%; hi=20%)";37.02%;;;;LOW-FAT;;Low-Sugar;Hi-Protein;;;;;;
+FPDF / PAC (target 20..30);30.78;;;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";35.72%;;;;LOW-FAT;;Low-Sugar;Hi-Protein;;;;;;
 ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);58.2;g;;8.6%;;;;;;;;;;
-ℹ️ Net carbs;22.9;g;;*∝ 5 servings@135g:* 4.6g;;;*∝ 3 servings@225g:* 7.6g;;;*energy ratio (low <20%):* 17.3%;;;;
+ℹ️ Net carbs;25.8;g;;*∝ 5 servings@135g:* 5.2g;;;*∝ 3 servings@225g:* 8.6g;;;*energy ratio (low <20%):* 18.8%;;;;
 ;;;;;;;;;;;;;;
 "Woodruff flavor (or “Waldmeister”) is a rather German thing, used in the green version of *Berliner Kindl*,
 in May punch (*Maibowle*), or as a flavor of *Ahoi Brause*.
@@ -30,15 +30,15 @@ Rating: 😋 (untested)";;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment;0Carb[%];Counts?
 Soy milk 1.6% (sugar-free) [Berief];500.00;ml;1;30.00;1.60;0.90;0.00;3.00;0.08;;4.00;;;1
-Glycerin (E422, VG) [hd-line];20.00;g;1;400.00;;99.00;;;;3.70;;"Sweetness = 60%; GI = 5; Density = 1.26 g/ml";50.00;1
-Brandy or Vodka 40 vol%;15.00;g;1;280.00;;;;;;2.96;;*alternative:* 12g (additional) VG for a sober recipe;;1
+Glycerin (E422, VG) [hd-line];21.00;g;1;400.00;;99.00;;;;3.70;;"Sweetness = 60%; GI = 5; Density = 1.26 g/ml";50.00;1
+Brandy or Vodka 40 vol%;21.00;g;1;280.00;;;;;;2.96;;*alternative:* 17g (additional) VG for a sober recipe;;1
 Soy protein isolate (nature) [Powerstar];;g;2;372.00;1.00;1.00;0.00;89.80;2.50;;93.00;1kg bag, unsweetened, unflavored;;1
 Whey + Casein protein (grass-fed) [Vilgain];40.00;g;2;384.00;4.60;5.70;5.60;80.00;0.50;0.06;90.40;with stevia;;1
 Trehalose [SaporePuro];;g;2;355.00;0.00;89.00;89.00;0.00;0.03;1.00;;"POD = 45%; GI = 38";;1
 Erythritol (E968);;g;2;24.00;0.00;100.00;0.00;0.00;0.00;2.80;;POD = 75%;100.00;1
-SweEX (Erythritol + Xylitol 3:2);30.00;g;2;109.60;;100.00;;;;2.56;;*alternative:* 40g allulose or dextrose;100.00;1
+SweEX (Erythritol + Xylitol 3:2);20.00;g;2;109.60;;100.00;;;;2.56;;*alternative:* 27g allulose or dextrose;100.00;1
 Salty Stability [Inulin / GMS / CMC / Guar / XG / Salt];15.00;g;2;267.5;3.6;88.4;5.9;0.3;3.5;0.06;;*not-as-good substitute:* 1.5g guar, 0.5g xanthan, and 0.5g salt;73.80;1
-Instant Drink “Woodruff” (0 sugar) [Instick];2.50;g;2;383.00;0.00;96.00;7.70;0.00;0.02;1.29;;1 stick (2.5g) for 500ml water;;1
+Instant Drink “Woodruff” (0 sugar) [Instick];5.00;g;2;383.00;0.00;96.00;7.70;0.00;0.02;1.29;;1 stick (2.5g) for 500ml water;;1
 Matcha green tea powder (organic) [Mandoi];2.00;g;2;383.00;3.90;65.40;;29.30;0.01;;;"for color; ½ tsp = 1g";;1
 ;;;;;;;;;;;;;;
 Soy milk 1.6% (sugar-free) [Berief];50.00;ml;3;30.00;1.60;0.90;0.00;3.00;0.08;;4.00;;;1
