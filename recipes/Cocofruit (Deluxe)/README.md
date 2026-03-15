@@ -10,6 +10,10 @@ excluded_steps:
 excluded_tags:
 - Allulose
 - Vanilla
+remove:
+- ' (to the MAX line)'
+replace:
+- Fill to MAX=>Adjust sweetness
 tags:
 - Coconut
 - Cooked Base
@@ -69,7 +73,7 @@ Process on *Light Ice Cream*, do a scrape-down, and MIX-IN or RESPIN (choose dep
   - _15g_ [Salty Stability \[Inulin / GMS / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup> • *not-as-good substitute:* 1.5g guar, 0.5g xanthan, and 0.5g salt
   - _15g_ [Whey + Casein protein (grass-fed) \[Vilgain\]](/ice-creamery/info/ingredients/#whey-protein){target="_blank"}<sup>↗</sup> • with stevia
 
-**Fill to MAX**
+**Adjust sweetness**
 
   - _≈7 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
 
@@ -89,7 +93,7 @@ Process on *Light Ice Cream*, do a scrape-down, and MIX-IN or RESPIN (choose dep
  1. Put the fruit into an empty Creami tub, and let it defrost a bit when frozen. Blend bananas with a bit of lemon juice.
  1. Heat the ‘wet’ ingredients to about 60°C, and whisk in the dry ones that you blended together beforehand.
  1. Pour into the Creami tub and blend together with the fruit to a smooth consistency.
- 1. Add remaining ingredients (to the MAX line) and stir with a spoon.
+ 1. Add remaining ingredients and stir with a spoon.
  1. For better results, let the base age in the fridge (covered, lid on), for a few hours or over night. This helps flavor development and gum hydration, especially with unheated bases.
  1. Freeze for 24h with lid on, then spin as usual. Flatten any humps before that.
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
