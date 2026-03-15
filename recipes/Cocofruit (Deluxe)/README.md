@@ -82,6 +82,7 @@ Process on *Light Ice Cream*, do a scrape-down, and MIX-IN or RESPIN (choose dep
   - _175g_ Mango • fresh or frozen [109kcal, 23g sugar]
   - _150g_ Pineapple in juice [Del Monte] • canned [102kcal, 23g sugar]
   - _175g_ Strawberries • fresh or frozen [54kcal, 10g sugar]
+  - _175g_ Mandarins in juice [REWE] • canned [84kcal, 16g sugar]
 
 # DIRECTIONS
 
@@ -89,7 +90,8 @@ Process on *Light Ice Cream*, do a scrape-down, and MIX-IN or RESPIN (choose dep
  1. Heat the ‘wet’ ingredients to about 60°C, and whisk in the dry ones that you blended together beforehand.
  1. Pour into the Creami tub and blend together with the fruit to a smooth consistency.
  1. Add remaining ingredients (to the MAX line) and stir with a spoon.
- 1. Put on the lid, freeze for 24h, then spin as usual. Flatten any humps before that.
+ 1. For better results, let the base age in the fridge (covered, lid on), for a few hours or over night. This helps flavor development and gum hydration, especially with unheated bases.
+ 1. Freeze for 24h with lid on, then spin as usual. Flatten any humps before that.
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
 
 # NUTRITIONAL & OTHER INFO
