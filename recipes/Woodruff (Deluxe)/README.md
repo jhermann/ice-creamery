@@ -7,7 +7,6 @@ excluded_tags:
 - Allulose
 - Vanilla
 tags:
-- Draft
 - Emulsifier
 - Erythritol
 - Hi-Protein
@@ -34,13 +33,13 @@ The one I use is based on maltodextrin, and already contains a good amounts of s
 so make sure to dial in any additional sweeteners to your palate.
 While doing so, keep the freezing point depression in mind.
 
-Spin on “Sorbet”, scrape down, and re-mix.
+Spin on “Sorbet”, scrape down, and respin.
 
-> <img width=220 alt="After 1st Spin" src="_1.jpg" class="zoomable" />
-> <img width=220 alt="After Mix-in" src="_2.jpg" class="zoomable" />
-> <img width=220 alt="Scooped" src="_3.jpg" class="zoomable" />
+> <img width=220 alt="After 1st Spin" src="Woodruff_2026-03-16_1.jpg" class="zoomable" />
+> <img width=220 alt="After Respin" src="Woodruff_2026-03-16_2.jpg" class="zoomable" />
+> <img width=220 alt="Scooped" src="Woodruff_2026-03-16_3.jpg" class="zoomable" />
 
-Rating: 😋 (untested)
+Rating: 😋😋😋😋😋 (soft, creamy, sweet, woodruffian)
 
 # INGREDIENTS
 
