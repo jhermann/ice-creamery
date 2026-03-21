@@ -14,7 +14,6 @@ tags:
 - Polysaccharide Gum
 - Scoopable
 - Sorbet
-- Stevia
 - Sucralose
 - Tylo Powder (CMC)
 - Xylitol
@@ -25,6 +24,8 @@ tags:
 Sherbet mostly from strained watermelon pulp, with cream and minimal additions to make it processable (soft, scoopable).
 
 > *A variation of the "Just Fruit" recipe with protein powder and cream.*
+>
+> 🌿 Use plant protein and coconut cream for a vegan recipe.
 
 Spin on “Sorbet”, scrape down, and mix-in with
 [Red Swirl](/ice-creamery/T/Toppings/#red-swirl-mix-in).
@@ -50,7 +51,7 @@ Rating: 😋🍉🍉🍉🥛
 **Dry**
 
   - _35g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • *alternatives:* 47g allulose or dextrose; POD ≈ 85%; GI < 7
-  - _10g_ [Whey + Casein protein (grass-fed) \[Vilgain\]](/ice-creamery/info/ingredients/#whey-protein){target="_blank"}<sup>↗</sup> • with stevia
+  - _10g_ [Whey + Casein protein (grass-fed) \[Vilgain\]](/ice-creamery/info/ingredients/#whey-protein){target="_blank"}<sup>↗</sup> • *vegan alternative:* plant protein
   - _2g_ [Glycerol Monostearate (E471) \[Bulk\]](/ice-creamery/info/ingredients/#glycerol-monostearate-gms-e471){target="_blank"}<sup>↗</sup> • *alternative:* lecithin
   - _1.75g_ [Carboxymethyl Cellulose (CMC / E466) \[GoodBake\]](/ice-creamery/info/ingredients/#carboxymethyl-cellulose-cmc-e466){target="_blank"}<sup>↗</sup> • *alternative:*  guar gum (same amount)
   - _0.75g_ [Xanthan gum (E415, XG)](/ice-creamery/info/ingredients/#xanthan-gum-xg-e415){target="_blank"}<sup>↗</sup> • 1tsp ≈ 2.8g
@@ -59,7 +60,7 @@ Rating: 😋🍉🍉🍉🥛
 
 **Fill to MAX**
 
-  - _80ml_ Cream 32% [REWE Beste Wahl]
+  - _80ml_ Cream 32% [REWE Beste Wahl] • *vegan alternative:* coconut cream
   - _≈5 drops_ Flavor drops Peach / Maracuja (sucralose) [IronMaxx] • to taste
 
 # DIRECTIONS
@@ -70,7 +71,8 @@ Rating: 😋🍉🍉🍉🥛
  1. Pour into the tub and *QUICKLY* use an immersion blender on full speed to homogenize everything.
  1. Let blender run until thickeners are properly hydrated, up to 1-2 min. Or blend again after waiting that time.
  1. Add remaining ingredients (to the MAX line) and stir with a spoon.
- 1. Put on the lid, freeze for 24h, then spin as usual. Flatten any humps before that.
+ 1. For better results, let the base age in the fridge (covered, lid on), for a few hours or over night. This helps flavor development and gum hydration, especially with unheated bases.
+ 1. Freeze for 24h with lid on, then spin as usual. Flatten any humps before that.
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
 
 # NUTRITIONAL & OTHER INFO
