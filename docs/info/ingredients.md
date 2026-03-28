@@ -214,6 +214,28 @@ but on the positive side it does not promote tooth decay.
 
 Maltitol is commercially produced by hydrogenating maltose, which comes from starch.
 
+### Monk Fruit
+
+Monk fruit is a natural, zero-calorie sweetener that delivers intense sweetness
+but lacks the physical bulk needed to prevent ice cream from freezing solid.
+It must be paired with other functional ingredients to achieve a proper texture.
+
+!!! warning inline end "More than Monk Fruit..."
+
+    Often what is called 'Monk Fruit Sweetener' is not that (alone),
+    especially when sold as 1:1 sugar replacement. It is actually mostly erythritol
+    or allulose, with monk fruit added to bring sweetness to the level of sucrose.
+
+    Also note that then it is 1:1 as sweet, but other traits (especially PAC)
+    are way different still.
+
+The sweetness of monk fruit comes from compounds called mogrosides, specifically mogroside V,
+which is 150 to 250 times sweeter than sucrose. It does not impact blood sugar and is highly effective
+at masking bitter or sulfurous off-notes from dairy or plant proteins in frozen desserts.
+
+Due to its extreme potency, monk fruit typically comprises only 0.05% to 0.1% of an ice cream base,
+meaning it contributes negligible freezing point depression (PAC).
+
 ### Polydextrose (E1200)
 
 Polydextrose is a synthetic ingredient made from glucose, sorbitol, and citric acid,
