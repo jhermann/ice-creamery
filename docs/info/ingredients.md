@@ -216,10 +216,6 @@ Maltitol is commercially produced by hydrogenating maltose, which comes from sta
 
 ### Monk Fruit
 
-Monk fruit is a natural, zero-calorie sweetener that delivers intense sweetness
-but lacks the physical bulk needed to prevent ice cream from freezing solid.
-It must be paired with other functional ingredients to achieve a proper texture.
-
 !!! warning inline end "More than Monk Fruit..."
 
     Often what is called 'Monk Fruit Sweetener' is not that (alone),
@@ -228,6 +224,10 @@ It must be paired with other functional ingredients to achieve a proper texture.
 
     Also note that then it is 1:1 as sweet, but other traits (especially PAC)
     are way different still.
+
+Monk fruit is a natural, zero-calorie sweetener that delivers intense sweetness
+but lacks the physical bulk needed to prevent ice cream from freezing solid.
+It must be paired with other functional ingredients to achieve a proper texture.
 
 The sweetness of monk fruit comes from compounds called mogrosides, specifically mogroside V,
 which is 150 to 250 times sweeter than sucrose. It does not impact blood sugar and is highly effective
