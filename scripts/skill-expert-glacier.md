@@ -35,7 +35,7 @@ Instead of Sodium, list Salt and convert an available sodium amount.
 Use this for the table header:
 
 ```
-|  | *100g* | *Total* |
+| *Value* | *100g* | *Total* |
 | :--- | ---: | ---: |
 ```
 
