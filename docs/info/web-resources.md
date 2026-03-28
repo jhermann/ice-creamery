@@ -148,7 +148,7 @@ however for beginners, I *do* recommend *Scoopulator*.
     - [de.openfoodfacts.org](https://de.openfoodfacts.org/) — The German version.
 
 - [USDA FoodData Central](https://fdc.nal.usda.gov/) — As long as you-know-who does not destroy it.
-- [Australian Food Composition Database](https://afcd.foodstandards.gov.au/foodbyalphabetsearch.aspx) (AFCD) by Food Standards Australia New Zealand (FSANZ)) — A mix of basic ingredients and prepared food, searchable and categorized; they stand out by assigning IDs to their entries.
+- [Australian Food Composition Database](https://afcd.foodstandards.gov.au/foodbyalphabetsearch.aspx) (AFCD) by Food Standards Australia New Zealand (FSANZ) — A mix of basic ingredients and prepared food, searchable and categorized; they stand out by assigning IDs to their entries.
 
   - [AFCD Data Files (FSANZ)](https://www.foodstandards.gov.au/science-data/food-nutrient-databases/afcd/data-files)
 
