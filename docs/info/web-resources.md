@@ -155,3 +155,36 @@ however for beginners, I *do* recommend *Scoopulator*.
 - [Eat This Much — Browse Foods](https://www.eatthismuch.com/food/browse)
 - [FDDB](https://fddb.info/db/en/index.html) — Calorie table, food diary, food database.
 - [alko.fi](https://www.alko.fi/en/food-and-drinks) — Web shop that allows to search and browse for alcoholic products, and provides ABV, energy, and sugar content values (the latter are often hard to find).
+
+## Food Fact APIs
+
+APIs that provide RESTful access to macronutrients, micronutrients, and ingredient data. Also see *Nutritional Databases* above for downloadable data sets (typically spreadsheets) that some of them offer.
+
+### API Overview
+
+| *API Docs* | *DB Size* | *Pricing* | *Key Feature* |
+|---|---|---|---|
+| [Open Food Facts](https://openfoodfacts.github.io/openfoodfacts-server/api/) | 2.8M+ items | Free & Open Source | Barcode lookups and additive + ingredient tracking |
+| [USDA FoodData Central](https://fdc.nal.usda.gov/api-guide/) | 380,000+ items | Free | Research-grade micronutrient profiles for raw ingredients |
+| [FatSecret Platform](https://platform.fatsecret.com/platform-api) | 2.3M+ items | Tiered | Verified manufacturer data and global coverage |
+| [CalorieNinjas](https://calorieninjas.com/api) | 100,000+ items | Tiered | NLP-driven unstructured text and recipe parsing |
+
+### Open Food Facts API
+Open Food Facts is a collaborative, open-source database containing over 2.8 million products globally. It is particularly strong for international and European packaged foods, making it easy to retrieve data on ingredients, allergens, and specific food additives.
+
+The API supports barcode lookups and allows developers to submit product photos for AI-driven data extraction.
+
+### USDA FoodData Central API
+Maintained by the US government, this free API provides research-grade nutritional data for over 380,000 foods. It is ideal for precise scientific formulation, offering detailed micronutrient profiles, foundation food data, and raw ingredient chemistry without any usage limits.
+
+There are endpoints for searching foods and retrieving detailed nutrient breakdowns, using standard REST calls.
+
+### FatSecret Platform API
+FatSecret offers a massive, verified database of over 2.3 million generic, branded, and restaurant foods across 56 countries. It provides highly accurate macronutrient and micronutrient breakdowns, allergen information, and dietary tags like vegan or vegetarian.
+
+The data is sourced from verified manufacturer inputs and user contributions, ensuring high accuracy for commercial applications.
+
+### CalorieNinjas API
+CalorieNinjas specializes in natural language processing (NLP), allowing developers to pass unstructured text or images—such as a raw recipe—to extract nutritional facts.
+
+It covers over 100,000 foods and automatically calculates calories and macros based on the detected ingredients and serving sizes.
