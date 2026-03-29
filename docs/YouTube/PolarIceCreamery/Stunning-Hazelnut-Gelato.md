@@ -19,6 +19,7 @@ Looking for a super smooth hazelnut flavor without any of the grit? This recipe 
 ## Ingredients
 
 **Gelato Base**
+
 *   567g (≈2.4 cups) **[Cream 18% / Half and Half](https://afcd.foodstandards.gov.au/fooddetails.aspx?PFKID=F003267)**
 *   46g (≈0.5 cups) **[Skim Milk Powder](https://afcd.foodstandards.gov.au/fooddetails.aspx?PFKID=F005652)**
 *   124g (≈0.6 cups) **[White Sugar](https://afcd.foodstandards.gov.au/fooddetails.aspx?PFKID=F008976)**
@@ -29,6 +30,7 @@ Looking for a super smooth hazelnut flavor without any of the grit? This recipe 
 *Subtotal Weight*: 749g
 
 **Hazelnut Praline (Mix-in)**
+
 *   100g (≈0.7 cups) **[Hazelnuts, roasted](https://afcd.foodstandards.gov.au/fooddetails.aspx?PFKID=F006098)**
 *   100g (≈0.5 cups) **[White Sugar](https://afcd.foodstandards.gov.au/fooddetails.aspx?PFKID=F008976)**
 
