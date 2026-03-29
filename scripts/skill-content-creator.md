@@ -31,7 +31,8 @@ Make sure you have the correct YouTube URL by searching for the video title and 
 
 For Ninja Creami recipes, add " [Deluxe][24oz]" or " [Standard][16oz]" to the title, after the channel name,
 and depending on the video description or total base weight.
-Mark anything above 900ml/g with a tag containing the total base weight in liters, e.g. " [1.2l]".
+To anything above 900ml/g total base weight add a marker
+containing that weight in liters (assuming a density of 1:1), e.g. " [1.2l]".
 
 Add more tags to the list in the metadata section when certain conditions are met:
 
