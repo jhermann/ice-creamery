@@ -20,7 +20,7 @@ All output must be in clean Markdown using this structure:
     ---
 
 2. **Title** (H1): # [Recipe Name] ([YouTube Channel Name])
-3. **Video reference**: `> From the transscript of [TITLE](URL).`
+3. **Video reference**: `> From the transcript of [TITLE](URL).`
 4. **Stats Table**: After the hint "**Composition of the base**", add and empty line and a `| Fat % | Sugar % | Total Solids % | Overrun |` table. Only include ingredients in the base itself for this data.
 5. **Description**: A summary of the narrative in the video description and transscript, focussing on the recipe's flavor and possible problems that might arise.
 6. **Ingredients** (H2): A bulleted list with weights in grams (g).
