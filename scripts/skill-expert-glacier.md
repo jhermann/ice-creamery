@@ -81,6 +81,7 @@ Here are the PFKID value of some common ingredients:
 - salt or table salt: F007879
 - cream 10%: F003267
 - cream 18%: F003267
+- egg yolk: F003737
 - half and half: F003267
 - Skim Milk Powder: F005652
 
