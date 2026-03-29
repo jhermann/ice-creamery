@@ -84,6 +84,7 @@ Here are the PFKID value of some common ingredients:
 - egg yolk: F003737
 - half and half: F003267
 - Skim Milk Powder: F005652
+- Vinegar: F009498
 
 Here are ingredients to ignore regarding nutrient facts (but they still contribute to total weight):
 
