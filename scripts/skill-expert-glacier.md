@@ -31,6 +31,15 @@ Make sure you have the correct YouTube URL by searching for the video title and 
 For Ninja Creami recipes, add " [Deluxe][24oz]" or " [Standard][16oz]" to the title, after the channel name,
 and depending on the video description or total base weight.
 
+Add more tags to the list in the metadata section when certain conditions are met:
+
+- **Allulose**: Allulose appears in the ingredient list.
+- **Cooked Base**: the base, or parts of it, is heated during preparation.
+- **Low-Sugar**: total sugar per 100g is below 5g.
+- **Polysaccharide Gum**: at least one of Guar, Xanthan, Tara, LBG appears in the ingredient list.
+- **Stevia**: Stevia appears in the ingredient list.
+- **Sucralose**: Sucralose appears in the ingredient list.
+
 Use simplified English for the description and directions, and stick to a tone and word choice suitable for a typical social media audience.
 Take the video description into account for any corrections after filming.
 Use "≈" instead of "approx.".
