@@ -77,20 +77,22 @@ Use this for the table header:
 | :--- | ---: | ---: |
 ```
 
-Stick to the usual order of values: Total Weight (g),
-Energy (kcal), Fat, Saturated Fat, Carbohydrates,
-Sugars, Dietary Fiber, Protein, Salt.
+Stick to the usual order of values: ⚖️ Total Weight (g),
+🔥 Energy (kcal), 🫒 Fat, 🧈 Saturated Fat, 🍞 Carbohydrates,
+🍬 Sugars, 💨 Dietary Fiber, 💪 Protein, 🧂 Salt.
 
 Don't say "the provided food database",
 but instead use "**[Australian Food Composition Database (AFCD)](https://afcd.foodstandards.gov.au/)**".
 
 Here are the PFKID value of some common ingredients:
 
-- salt or table salt: F007879
+- Almond Beverage: F009824
+- Almond Milk: F009824
 - cream 10%: F003267
 - cream 18%: F003267
 - egg yolk: F003737
 - half and half: F003267
+- salt or table salt: F007879
 - Skim Milk Powder: F005652
 - Vinegar: F009498
 
