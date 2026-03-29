@@ -23,7 +23,7 @@ The secret is "burning" the allulose on its own to get that dark caramel color. 
 
 *   632g [Light Cream (≈18% fat / single cream)](https://afcd.foodstandards.gov.au/fooddetails.aspx?PFKID=F003267) (≈2 ⅔ cups)
 *   80g Allulose (≈½ cup + 1 tbsp)
-*   32g [Skim Milk Powder](https://afcd.foodstandards.gov.au/fooddetails.aspx?PFKID=F005605) (≈¼ cup)
+*   32g [Skim Milk Powder](https://afcd.foodstandards.gov.au/fooddetails.aspx?PFKID=F005652) (≈¼ cup)
 *   3g [Salt](https://afcd.foodstandards.gov.au/fooddetails.aspx?PFKID=F007879) (≈½ tsp)
 *   2g Liquid Stevia Drops (≈½ tsp)
 
