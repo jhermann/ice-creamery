@@ -21,10 +21,10 @@ All output must be in clean Markdown using this structure:
 
 2. **Title** (H1): # [Recipe Name] ([YouTube Channel Name])
 3. **Video reference**: `> From the transcript of [TITLE](URL).`
-4. **Stats Table**: After the hint "**Composition of the base**", add and empty line and a `| Fat % | Sugar % | Total Solids % | Overrun |` table. Only include ingredients in the base itself for this data.
+4. **Stats Table**: After the hint "**Composition of the base**", add an empty line and a `| Fat % | Sugar % | Total Solids % | Overrun |` table. Only include ingredients in the base itself for this data.
 5. **Description**: A summary of the narrative in the video description and transscript, focussing on the recipe's flavor and possible problems that might arise.
-6. **Ingredients** (H2): A bulleted list with weights in grams (g).
-7. **Directions** (H2): Numbered steps (Base Prep → Aging → Churning → Hardening).
+6. **Ingredients** (H2): A bulleted list with weights in grams (g). Format: `[metric] [name] ([imperial]) [• optional comment]`
+7. **Directions** (H2): Numbered steps: Base Prep → Aging → Freezing (creami only) → Churning ("Processing" for the Creami) → Hardening.
 8. **Nutrition Facts** (H2): Nutrient label data as explained below.
 
 Make sure you have the correct YouTube URL by searching for the video title and channel name, and using the result as the video's URL.
@@ -37,7 +37,7 @@ containing that weight in liters (assuming a density of 1:1), e.g. " [1.2l]".
 Add more tags to the list in the metadata section when certain conditions are met:
 
 - **Allulose**: Allulose appears in the ingredient list.
-- **Cooked Base**: the base, or parts of it, is heated during preparation.
+- **Cooked Base**: the base, or part of it, is heated during preparation.
 - **Low-Cal**: energy per 100g is below 40kcal.
 - **Low-Fat**: fat per 100g is below 3g.
 - **Low-Salt**: salt per 100g is below 0.12g.
@@ -57,8 +57,9 @@ Link the ingredient names in the list to their AFCD entry, using
 
 In the "Ingredients" section, if the list is split into e.g. base and swirl or sauce,
 add a total weight for each of those subsections.
-Place it separate from the imgredient list, after an empty line,
+Place it separate from the ingredient list, after an empty line,
 in the form "*Subtotal Weight*: [Subtotal]g".
+Use "*Total Weight*: [Total]g" when there is only one list.
 
 Include both metric and US imperial units where possible.
 For imperial units, use an appropriate mix of quarts, cups, tbsp, tsp, not just oz.
@@ -84,21 +85,26 @@ Stick to the usual order of values: ⚖️ Total Weight (g),
 Don't say "the provided food database",
 but instead use "**[Australian Food Composition Database (AFCD)](https://afcd.foodstandards.gov.au/)**".
 
-Here are the PFKID value of some common ingredients:
+## Special AFCD ID Mappings
+
+Here are the PFKID values of some common ingredients:
 
 - Almond Beverage: F009824
 - Almond Milk: F009824
+- Butter: F001971
+- Unsalted Butter: F001971
 - cream 10%: F003267
 - cream 18%: F003267
 - egg yolk: F003737
 - half and half: F003267
 - salt or table salt: F007879
 - Skim Milk Powder: F005652
+- Sugar: F008976
 - Vinegar: F009498
 
-Here are ingredients to ignore regarding nutrient facts (but they still contribute to total weight):
+Here are ingredients to ignore regarding nutrient facts, and should not be linked to AFCD (but they still contribute to total weight):
 
 - Guar Gum
 - Hazelnut Extract
 
-Always look at these lists first, before matching a food with the database yourself.
+*Always* look at these lists first, before matching a food with the database yourself.
