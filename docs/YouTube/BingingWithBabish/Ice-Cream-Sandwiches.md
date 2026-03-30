@@ -25,6 +25,7 @@ If you aren't careful when folding the whipped cream into the cheese base, you m
 ## Ingredients
 
 **Carrot Cake Bread**
+
 * 250g [Carrots](https://afcd.foodstandards.gov.au/fooddetails.aspx?PFKID=F002276) (2 cups) • peeled and finely grated, then pressed
 * 210g [All-purpose Flour](https://afcd.foodstandards.gov.au/fooddetails.aspx?PFKID=F004007) (≈ 1 3/4 cups)
 * 250g [Brown Sugar](https://afcd.foodstandards.gov.au/fooddetails.aspx?PFKID=F008969) (1 1/4 cups) • packed
@@ -43,6 +44,7 @@ If you aren't careful when folding the whipped cream into the cheese base, you m
 *Subtotal Weight*: 1151g
 
 **Cream Cheese Semifreddo Filling**
+
 * 240g [Heavy Cream](https://afcd.foodstandards.gov.au/fooddetails.aspx?PFKID=F003270) (1 cup)
 * 200g [Cream Cheese](https://afcd.foodstandards.gov.au/fooddetails.aspx?PFKID=F002444) (≈ 7 oz) • room temperature cubes
 * 100g [White Sugar](https://afcd.foodstandards.gov.au/fooddetails.aspx?PFKID=F008976) (1/2 cup)

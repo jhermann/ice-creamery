@@ -61,6 +61,8 @@ Place it separate from the ingredient list, after an empty line,
 in the form "*Subtotal Weight*: [Subtotal]g".
 Use "*Total Weight*: [Total]g" when there is only one list.
 
+For subsection headings in "Ingredients" use bold text, followed by an empty line.
+
 Include both metric and US imperial units where possible.
 For imperial units, use an appropriate mix of quarts, cups, tbsp, tsp, not just oz.
 Convert units using density data you find in the provided food database.
