@@ -95,6 +95,8 @@ Here are the PFKID values of some common ingredients:
 - Unsalted Butter: F001971
 - cream 10%: F003267
 - cream 18%: F003267
+- egg: F003729
+- whole egg: F003729
 - egg yolk: F003737
 - half and half: F003267
 - salt or table salt: F007879
