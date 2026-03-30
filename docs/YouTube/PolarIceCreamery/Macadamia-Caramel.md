@@ -4,7 +4,7 @@ tags:
 - Polysaccharide Gum
 - YouTube
 ---
-# Browned Butter Macadamia [1.4l]
+# Browned Butter Macadamia Caramel [1.4l]
 
 > From the transcript of [Beautiful Browned Butter Macadamia Homemade Ice Cream](https://www.youtube.com/watch?v=DzDBjlKnhxg).
 
@@ -23,6 +23,7 @@ The caramel is stirred just enough to let it slightly crystallize, giving it a t
 ## Ingredients
 
 **Brown Butter Sweet Cream Base**
+
 * 545g [Whole Milk](https://afcd.foodstandards.gov.au/fooddetails.aspx?PFKID=F005634) (≈ 2 1/4 cups)
 * 100g [Cream 33%](https://afcd.foodstandards.gov.au/fooddetails.aspx?PFKID=F003270) (≈ 1/3 cup + 1 tbsp)
 * 85g [Unsalted Butter](https://afcd.foodstandards.gov.au/fooddetails.aspx?PFKID=F001971) (≈ 6 tbsp) • weight after browning 100g of butter
@@ -36,6 +37,7 @@ The caramel is stirred just enough to let it slightly crystallize, giving it a t
 *Subtotal Weight*: 1066.5g
 
 **Macadamia Caramel Mix-in**
+
 * 150g [Sugar](https://afcd.foodstandards.gov.au/fooddetails.aspx?PFKID=F008976) (≈ 3/4 cup)
 * 70g [Unsalted Butter](https://afcd.foodstandards.gov.au/fooddetails.aspx?PFKID=F001971) (≈ 5 tbsp)
 * 35g [Cream](https://afcd.foodstandards.gov.au/fooddetails.aspx?PFKID=F003270) (≈ 2 1/2 tbsp)
