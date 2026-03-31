@@ -93,6 +93,8 @@ Here are the PFKID values of some common ingredients:
 
 - Almond Beverage: F009824
 - Almond Milk: F009824
+- Banana: F000262
+- Brandy: F000051
 - Butter: F001971
 - Unsalted Butter: F001971
 - cream 10%: F003267
@@ -101,14 +103,22 @@ Here are the PFKID values of some common ingredients:
 - whole egg: F003729
 - egg yolk: F003737
 - half and half: F003267
+- hemp hearts: F009977
 - salt or table salt: F007879
 - Skim Milk Powder: F005652
+- Soy milk: F008704
+- Soy protein: F009147
 - Sugar: F008976
 - Vinegar: F009498
+- Vodka: F000051
 
-Here are ingredients to ignore regarding nutrient facts, and should not be linked to AFCD (but they still contribute to total weight):
+Here are ingredients to ignore regarding nutrient facts, and MUST NOT be linked to AFCD (but they still contribute to total weight):
 
+- Erythritol
+- Glycerin
 - Guar Gum
 - Hazelnut Extract
+- Vegetable Glycerin
+- Xylitol
 
 *Always* look at these lists first, before matching a food with the database yourself.
