@@ -77,9 +77,16 @@ Rating: 😋😋😋😋😋 (soft, creamy, sweet, woodruffian)
 
 # NUTRITIONAL & OTHER INFO
 
-- **Nutritional values per 100g/ml:** 100g; 81.6 kcal; fat 1.7g; carbs 10.0g; sugar 0.5g; protein 7.3g; salt 0.2g
-- **Nutritional values per ½ Deluxe Tub:** 340g; 277.6 kcal; fat 5.7g; carbs 34.0g; sugar 1.8g; protein 24.8g; salt 0.6g
-- **Nutritional values total:** 674g; 550.3 kcal; fat 11.3g; carbs 67.4g; sugar 3.5g; protein 49.1g; salt 1.2g
+| 🥗 Value | 100g | Serving | Total |
+| :--- | ---: | ---: | ---: |
+| ⚖️ Weight (g) | 100 | 340 | 674 |
+| 🔥 Energy (kcal) | 81.6 | 277.6 | 550.3 |
+| 🫒 Fat (g) | 1.7 | 5.7 | 11.3 |
+| 🍞 Carbohydrates (g) | 10.0 | 34.0 | 67.4 |
+| 🍬 Sugars (g) | 0.5 | 1.8 | 3.5 |
+| 💪 Protein (g) | 7.3 | 24.8 | 49.1 |
+| 🧂 Salt (g) | 0.2 | 0.6 | 1.2 |
+
 - **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.78
 - **Protein / Energy Ratio (ok=12%; hi=20%):** 35.72% • LOW-FAT • Low-Sugar • Hi-Protein
 - **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 58.2g • 8.6%
