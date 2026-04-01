@@ -247,6 +247,10 @@ def ingredient_link(ingredient, kind='ingredients', threshold=0.4, args=None):
             link += '{target="_blank"}<sup>↗</sup>'
         return link
 
+    # check if already linked (Markdown or HTML link)
+    if re.search(r'\[[^\]]+\]\([^\)]+\)', ingredient) or '<a ' in ingredient:
+        return ingredient
+
     args = vars(args) if args else {}
     for key in PREPPED:
         if key in ingredient:
@@ -320,6 +324,40 @@ def abort(errmsg):
     """Exit the script."""
     print(f"ERROR: {errmsg}", file=sys.stderr)
     sys.exit(1)
+
+
+def write_nutrition_db(csv_path, rows):
+    """Write a flat nutrition database for macro exports."""
+    fieldnames = [
+        'id',
+        'ingredient',
+        'kcal',
+        'fat',
+        'carbs',
+        'sugar',
+        'protein',
+        'salt',
+        'fpdf',
+        'msnf',
+        'comment',
+    ]
+    with csv_path.open('w', encoding='utf-8', newline='') as handle:
+        writer = csv.DictWriter(handle, fieldnames=fieldnames)
+        writer.writeheader()
+        for row in rows:
+            writer.writerow({
+                'id': row.get('id', ''),
+                'ingredient': row.get('ingredients', ''),
+                'kcal': row.get('kcal', ''),
+                'fat': row.get('fat', ''),
+                'carbs': row.get('carbs', ''),
+                'sugar': row.get('sugar', ''),
+                'protein': row.get('protein', ''),
+                'salt': row.get('salt', ''),
+                'fpdf': row.get('fpdf', ''),
+                'msnf': row.get('msnf', ''),
+                'comment': row.get('comment', ''),
+            })
 
 def parse_cli(argv=None):
     """"""
@@ -718,6 +756,12 @@ def main():
             for step in recipe.values():
                 yield from step
 
+        macro_rows = sorted(
+            (row for row in all_ingredients() if row['kcal']),
+            key=lambda row: row['ingredients'].lower(),
+        )
+        write_nutrition_db(Path(__file__).resolve().with_name('nutrition-db.csv'), macro_rows)
+
         fields = dict(
             href='Ingredient' + '\u2001' * 15,
             kcal='Energy<br/>[kcal]',
@@ -736,14 +780,14 @@ def main():
         ])
         idx = 0
         print(header)
-        for row in sorted(all_ingredients(), key=lambda x: x['ingredients'].lower()):
-            if row['kcal']:
-                if idx and not(idx % 10):
-                    print(header)
-                if row.get('anchor'):
-                    row['href'] = row['anchor'].replace('><', '>\t<').replace('\t', row['href'])
-                print('|', ' | '.join(row.get(x, '').replace(' [', '<br />[').replace(r' \[', r'<br />\[') for x in fields), '|')
-                idx = idx + 1
+        for row in macro_rows:
+            if idx and not(idx % 10):
+                print(header)
+            row['href'] = ingredient_link(row['ingredients'], args=args)
+            if row.get('id'):
+                row['href'] = f'<span id="id-{row["id"]}">{row["href"]}</span>'
+            print('|', ' | '.join(row.get(x, '').replace(' [', '<br />[').replace(r' \[', r'<br />\[') for x in fields), '|')
+            idx = idx + 1
         return
 
     if args.tags_only:
