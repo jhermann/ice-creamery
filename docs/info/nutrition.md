@@ -252,10 +252,11 @@ All values are per 100g.<br clear="all" />
 | <span id="id-18dda24">[Oat Milk Barista 2.6% (sugar-free)<br />\[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup></span> | 49.00 | 2.60 | 5.30 | 0.50 | 1.10 | 0.10 |  | 5.00 | *alternative:* any other preferred milk (~2% fat) |
 | <span id="id-01fc09a">Orange juice (freshly pressed)</span> | 45.00 | 0.20 | 10.40 | 8.40 | 0.70 | 0.00 | 0.08 |  |  |
 | <span id="id-8c8f3e2">Orange juice (with pulp)<br />[Aldi]</span> | 43.00 | 0.50 | 8.80 | 8.80 | 0.70 | 0.01 | 0.09 |  |  |
-| <span id="id-df2ce65">Paella Rice (Bomba)<br />[Santo Tomas]</span> | 344.00 | 0.68 | 76.90 | 0.21 | 7.00 | 0.01 |  |  | Or short grain milk rice |
+| <span id="id-oreo-tc">Oreo Thins (classic)</span> | 490.00 | 21.00 | 69.00 | 39.00 | 4.80 | 0.83 |  |  | 4pc = 24g |
 
 | Ingredient                | Energy<br/>[kcal] | Fat | Carbs | Sugar | Protein | Salt | PAC | MSNF | Comment |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | :--- |
+| <span id="id-df2ce65">Paella Rice (Bomba)<br />[Santo Tomas]</span> | 344.00 | 0.68 | 76.90 | 0.21 | 7.00 | 0.01 |  |  | Or short grain milk rice |
 | <span id="id-f2e5320">Pandan Leaves Extract 80%<br />[Nang Fah]</span> | 4.00 | 0.20 | 0.20 | 0.00 | 0.30 | 0.00 |  |  | 1 can = 400ml |
 | <span id="id-051075d">[PB powder<br />\[Fitmeals\]](/ice-creamery/info/ingredients/#cocoa-powder){target="_blank"}<sup>↗</sup></span> | 387.00 | 14.00 | 30.00 | 6.00 | 50.00 | 0.00 | 0.06 |  |  |
 | <span id="id-2ad484b">[PB powder<br />\[Vilgain\]](/ice-creamery/info/ingredients/#cocoa-powder){target="_blank"}<sup>↗</sup></span> | 387.00 | 14.00 | 17.00 | 9.00 | 48.00 | 0.02 | 0.09 |  |  |
@@ -265,10 +266,10 @@ All values are per 100g.<br clear="all" />
 | <span id="id-2765c64">Peanut butter (crunchy, organic)<br />[REWE]</span> | 604.00 | 51.00 | 7.30 | 4.50 | 25.00 | 0.43 |  |  | 250g glass jar |
 | <span id="id-d766a6e">Pear Juice</span> | 47.00 |  | 11.00 | 10.50 |  |  | 0.11 |  |  |
 | <span id="id-9272ff3">Pecan nuts (organic)<br />[Biojoy]</span> | 721.00 | 72.00 | 4.30 | 4.00 | 9.20 | 0.00 | 0.04 |  | 10 halves = 15g; add as a topping<br />[0kcal, 0g sugar] |
-| <span id="id-8be6f0a">Philadelphia Milka</span> | 286.00 | 13.00 | 34.00 | 33.00 | 6.40 | 0.48 | 0.33 |  |  |
 
 | Ingredient                | Energy<br/>[kcal] | Fat | Carbs | Sugar | Protein | Salt | PAC | MSNF | Comment |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | :--- |
+| <span id="id-8be6f0a">Philadelphia Milka</span> | 286.00 | 13.00 | 34.00 | 33.00 | 6.40 | 0.48 | 0.33 |  |  |
 | <span id="id-aaeaa5c">Pineapple in juice<br />[Del Monte]</span> | 68.00 |  | 15.00 | 15.00 | 0.40 | 0.02 | 0.15 |  | Can = 565g |
 | <span id="id-c83b500">Pineapple in juice<br />[REWE]</span> | 69.00 |  | 16.00 | 15.00 | 0.60 | 0.00 | 0.15 |  | Can = 227g (140g fruit) |
 | <span id="id-9ad3ce6">Pineapple juice<br />[REWE]</span> | 51.00 | 0.10 | 11.50 | 11.50 | 0.40 | 0.01 | 0.12 |  |  |
@@ -278,10 +279,10 @@ All values are per 100g.<br clear="all" />
 | <span id="id-d70aebd">Pomegranate syrup (nar ekşisi)<br />[fersan]</span> | 292.00 | 0.10 | 71.70 | 53.40 | 1.00 | 0.60 | 0.53 |  | 0.76 ml/g |
 | <span id="id-b52c006">[Protein 59% (vegan, organic, natural)<br />\[Nature Love\]](/ice-creamery/info/ingredients/#whey-protein){target="_blank"}<sup>↗</sup></span> | 375.00 | 10.00 | 3.90 | 1.90 | 59.00 | 0.36 |  | 78.00 | Blend of ⅔ pumpkin and ⅓ sunflower seed |
 | <span id="id-130b2ba">[Protein 79% (vegan, organic, natural)<br />\[Volksshake\]](/ice-creamery/info/ingredients/#whey-protein){target="_blank"}<sup>↗</sup></span> | 391.00 | 6.40 | 7.00 | 0.20 | 79.00 | 0.90 |  | 89.00 | Blend of organic pea, rice, hemp, chia, sunflower & pumpkin seed (with guar gum) |
-| <span id="id-bb05d72">[Protein Pints Chocolate](/ice-creamery/info/ingredients/#chocolate-shavings){target="_blank"}<sup>↗</sup></span> | 133.00 | 6.70 | 18.90 | 4.44 | 11.10 | 0.31 | 0.04 |  | 270g container |
 
 | Ingredient                | Energy<br/>[kcal] | Fat | Carbs | Sugar | Protein | Salt | PAC | MSNF | Comment |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | :--- |
+| <span id="id-bb05d72">[Protein Pints Chocolate](/ice-creamery/info/ingredients/#chocolate-shavings){target="_blank"}<sup>↗</sup></span> | 133.00 | 6.70 | 18.90 | 4.44 | 11.10 | 0.31 | 0.04 |  | 270g container |
 | <span id="id-da784ed">Pumpkin spice<br />[Just Spices]</span> | 379.00 | 12.40 | 53.40 | 48.00 | 5.80 | 0.13 |  |  |  |
 | <span id="id-2fa1448">Raisins</span> | 298.00 | 0.60 | 68.00 | 68.00 | 2.50 | 0.05 | 0.10 |  |  |
 | <span id="id-4a2edec">Red Wine 13 vol% (dry)</span> | 85.00 |  | 0.69 | 0.69 |  |  | 1.23 |  |  |
@@ -291,10 +292,10 @@ All values are per 100g.<br clear="all" />
 | <span id="id-d4bb2ca">Sake 15 vol%</span> | 134.00 |  | 5.00 |  |  | 0.00 | 1.41 |  |  |
 | <span id="id-3a1ff94">Salty Prezels<br />[Huober/REWE]</span> | 397.00 | 6.20 | 72.30 | 2.60 | 11.30 | 4.90 |  |  | 1 pretzel = 2g |
 | <span id="id-3d1ecef">[Salty Stability<br />\[Inulin / GMS / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup></span> | 267.5 | 3.6 | 88.4 | 5.9 | 0.3 | 3.5 | 0.06 |  | *not-as-good substitute:* 0g guar, 0g xanthan, and 0g salt |
-| <span id="id-db5b6d3">Scandic Bärgløgg 11 vol%<br />[Katlenburger]</span> | 120.00 |  |  |  |  |  | 1.03 |  | 1 bottle = 750ml |
 
 | Ingredient                | Energy<br/>[kcal] | Fat | Carbs | Sugar | Protein | Salt | PAC | MSNF | Comment |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | :--- |
+| <span id="id-db5b6d3">Scandic Bärgløgg 11 vol%<br />[Katlenburger]</span> | 120.00 |  |  |  |  |  | 1.03 |  | 1 bottle = 750ml |
 | <span id="id-0455629">Sesame oil (roasted)<br />[Diamond]</span> | 828.00 | 92.00 | 0.50 | 0.50 | 0.50 | 0.01 |  |  |  |
 | <span id="id-9505a87">Skyr (unflavored)<br />[Milsani / Aldi]</span> | 65.00 | 0.20 | 4.40 | 4.40 | 10.60 | 0.15 | 0.04 | 17.80 | 82% water; 500g container |
 | <span id="id-7f4f865">Skyr<br />[arla]</span> | 63.00 | 0.20 | 4.00 | 4.00 | 10.60 | 0.14 | 0.04 | 17.80 | 82% water; 450g container |
@@ -304,10 +305,10 @@ All values are per 100g.<br clear="all" />
 | <span id="id-afaef4f">Soda syrup “7up zero”<br />[Sodastream]</span> | 8.00 | 0.00 | 0.00 | 0.00 | 0.00 | 1.04 |  |  | 440ml bottle (1:19, yields 9l) |
 | <span id="id-d4eefe4">Soda syrup “afri cola zero”<br />[Sodapop]</span> | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.01 |  |  | 500ml bottle (1:19, yields 10l) |
 | <span id="id-45da511">Soda syrup “Schwipp Schwap zero”<br />[Sodastream]</span> | 24.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.48 |  |  | 440ml bottle (1:19, yields 9l) |
-| <span id="id-e362c7a">Soda syrup “Squee zero Raspberry”<br />[IronMaxx]</span> | 69.00 | 0.00 | 1.80 | 0.00 | 0.00 | 1.30 |  |  | 65ml bottle (4:500, yields 8l) |
 
 | Ingredient                | Energy<br/>[kcal] | Fat | Carbs | Sugar | Protein | Salt | PAC | MSNF | Comment |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | :--- |
+| <span id="id-e362c7a">Soda syrup “Squee zero Raspberry”<br />[IronMaxx]</span> | 69.00 | 0.00 | 1.80 | 0.00 | 0.00 | 1.30 |  |  | 65ml bottle (4:500, yields 8l) |
 | <span id="id-836ba46">[Sorbitol](/ice-creamery/info/ingredients/#sorbitol-e420){target="_blank"}<sup>↗</sup></span> | 250.00 |  | 99.80 | 0.00 |  |  | 1.90 |  | POD 60%, GI 9 |
 | <span id="id-1134d61">[Soured milk 3.5%<br />\[Schwälbchen\]](/ice-creamery/info/ingredients/#soured-milk){target="_blank"}<sup>↗</sup></span> | 64.00 | 3.50 | 4.00 | 4.00 | 3.30 | 0.13 | 0.04 | 8.50 | 500g container |
 | <span id="id-2755284">[Soy milk 1.6% (sugar-free)<br />\[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup></span> | 30.00 | 1.60 | 0.90 | 0.00 | 3.00 | 0.08 |  | 4.00 | *alternative:* any other preferred milk (~2% fat) |
@@ -317,10 +318,10 @@ All values are per 100g.<br clear="all" />
 | <span id="id-93f3a24">Strawberries</span> | 31.00 | 0.40 | 5.80 | 5.70 | 0.80 | 0.00 | 0.06 |  |  |
 | <span id="id-e1bc6d8">Strawberry powder<br />[Supergarden]</span> | 287.00 | 3.70 | 50.90 | 50.60 | 7.60 | 0.00 | 0.51 |  |  |
 | <span id="id-25f7a44">Strawberry slices freeze-dried<br />[EWL]</span> | 300.00 | 3.30 | 48.00 | 48.00 | 7.00 | 0.01 |  |  | Mix-in for a full tub (2 servings) |
-| <span id="id-7e371c1">Sugar</span> | 387.00 |  | 100.00 | 100.00 |  |  | 1.00 |  |  |
 
 | Ingredient                | Energy<br/>[kcal] | Fat | Carbs | Sugar | Protein | Salt | PAC | MSNF | Comment |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | :--- |
+| <span id="id-7e371c1">Sugar</span> | 387.00 |  | 100.00 | 100.00 |  |  | 1.00 |  |  |
 | <span id="id-7421325">Sultanas (organic)<br />[Biojoy]</span> | 298.00 | 0.60 | 68.00 | 67.00 | 2.50 | 0.02 | 0.67 |  | add chopped as a mix-in<br />[0kcal, 0g sugar] |
 | <span id="id-941f8f9">Sweet potato (baked)</span> | 90.00 | 0.10 | 21.00 | 6.50 | 2.00 | 0.04 |  |  | 1 potato ~130g |
 | <span id="id-2451f68">Sweetener Tablets<br />[LightSüß]</span> | 0.00 |  |  |  |  |  |  |  | 1 tablet ≃ 4g sugar |
@@ -330,10 +331,10 @@ All values are per 100g.<br clear="all" />
 | <span id="id-da6b65f">tajin with lime</span> | 6.00 | 0.40 | 0.60 | 0.00 | 0.20 | 1.42 |  |  | 142g shaker; www.tajin.com |
 | <span id="id-4da3a02">[Tapioca syrup](/ice-creamery/info/ingredients/#tapioca-starch){target="_blank"}<sup>↗</sup></span> | 312.00 | 0.00 | 78.00 | 33.00 | 0.00 | 0.00 | 0.33 |  |  |
 | <span id="id-470b20a">[Tara gum (E417)](/ice-creamery/info/ingredients/#tara-gum-e417){target="_blank"}<sup>↗</sup></span> | 185.00 | 0.31 | 87.00 | 0.00 | 2.26 | 0.00 |  |  |  |
-| <span id="id-2004c08">Tequila 38 vol%</span> | 266.00 |  |  |  |  |  | 2.81 |  | 1 bottle = 70cl |
 
 | Ingredient                | Energy<br/>[kcal] | Fat | Carbs | Sugar | Protein | Salt | PAC | MSNF | Comment |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | :--- |
+| <span id="id-2004c08">Tequila 38 vol%</span> | 266.00 |  |  |  |  |  | 2.81 |  | 1 bottle = 70cl |
 | <span id="id-9728a3b">[Tofu (plain)<br />\[Berief\]](/ice-creamery/info/ingredients/#tofu){target="_blank"}<sup>↗</sup></span> | 137.00 | 8.00 | 0.70 | 0.50 | 15.40 | 0.03 |  | 16.91 | Package of 2x200g |
 | <span id="id-5d599df">[Tofu (plain)<br />\[REWE Bio\]](/ice-creamery/info/ingredients/#tofu){target="_blank"}<sup>↗</sup></span> | 129.00 | 7.50 | 1.80 | 0.50 | 13.00 | 0.20 |  | 15.54 | Package of 2x200g |
 | <span id="id-2f03f79">[Tofu (silken)<br />\[REWE\]](/ice-creamery/info/ingredients/#tofu){target="_blank"}<sup>↗</sup></span> | 48.00 | 2.10 | 1.80 | 0.50 | 5.30 | 0.01 |  | 7.46 |  |
@@ -343,10 +344,10 @@ All values are per 100g.<br clear="all" />
 | <span id="id-84ed2ea">[Trehalose<br />\[SaporePuro\]](/ice-creamery/info/ingredients/#trehalose-e965){target="_blank"}<sup>↗</sup></span> | 355.00 | 0.00 | 89.00 | 89.00 | 0.00 | 0.03 | 1.00 |  | POD = 45%; GI = 38 |
 | <span id="id-e732a6e">Ube Yam Root powder<br />[Fil Choice]</span> | 382.00 | 0.60 | 83.00 | 9.50 | 6.10 | 0.30 | 0.10 |  | like vanilla+pistachio |
 | <span id="id-54fb850">Vanilla Bean Paste</span> | 239.00 | 0.00 | 57.20 | 55.00 | 0.49 |  | 0.55 |  |  |
-| <span id="id-538e9f6">Vanilla Bean Powder<br />[InterVanilla]</span> | 288.00 | 0.10 | 13.00 | 13.00 | 0.00 | 0.00 |  |  |  |
 
 | Ingredient                | Energy<br/>[kcal] | Fat | Carbs | Sugar | Protein | Salt | PAC | MSNF | Comment |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | :--- |
+| <span id="id-538e9f6">Vanilla Bean Powder<br />[InterVanilla]</span> | 288.00 | 0.10 | 13.00 | 13.00 | 0.00 | 0.00 |  |  |  |
 | <span id="id-92d1980">Vanilla Extract (w/ alcohol)<br />[Native Vanilla]</span> | 300.00 |  |  |  |  |  | 2.22 |  |  |
 | <span id="id-6e3e461">[Vodka 40 vol% (measured by volume)](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup></span> | 225.00 |  |  |  |  |  | 2.34 |  |  |
 | <span id="id-092810d">[Vodka 40 vol% (measured by weigth)](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup></span> | 280.00 |  |  |  |  |  | 2.96 |  |  |
@@ -356,10 +357,10 @@ All values are per 100g.<br clear="all" />
 | <span id="id-f5e36f4">Walnuts (organic)<br />[Biojoy]</span> | 675.00 | 63.00 | 11.00 | 6.90 | 14.00 | 0.01 | 0.07 |  | add as a topping<br />[0kcal, 0g sugar] |
 | <span id="id-654a508">Watermelon</span> | 30.00 | 0.15 | 7.60 | 6.20 | 0.61 | 0.00 | 0.06 |  | 91% water |
 | <span id="id-654a508">Watermelon</span> | 30.00 | 0.20 | 7.60 | 6.20 | 0.60 |  | 0.06 |  | fresh<br />[0kcal, 0g sugar] |
-| <span id="id-0e5caff">[Waxy Maize Starch (E1442)<br />\[Ultratex\]](/ice-creamery/info/ingredients/#waxy-maize-starch-e1442){target="_blank"}<sup>↗</sup></span> | 391.00 | 0.15 | 97.00 | 0.00 | 0.50 | 0.50 |  |  | *alternative:*<br />[E1422](https://jhermann.github.io/ice-creamery/info/ingredients/#acetylated-distarch-adipate-e1422), or any instant starch |
 
 | Ingredient                | Energy<br/>[kcal] | Fat | Carbs | Sugar | Protein | Salt | PAC | MSNF | Comment |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | :--- |
+| <span id="id-0e5caff">[Waxy Maize Starch (E1442)<br />\[Ultratex\]](/ice-creamery/info/ingredients/#waxy-maize-starch-e1442){target="_blank"}<sup>↗</sup></span> | 391.00 | 0.15 | 97.00 | 0.00 | 0.50 | 0.50 |  |  | *alternative:*<br />[E1422](https://jhermann.github.io/ice-creamery/info/ingredients/#acetylated-distarch-adipate-e1422), or any instant starch |
 | <span id="id-b954be3">[Whey + Casein protein (grass-fed)<br />\[Vilgain\]](/ice-creamery/info/ingredients/#whey-protein){target="_blank"}<sup>↗</sup></span> | 384.00 | 4.60 | 5.70 | 5.60 | 80.00 | 0.50 | 0.06 | 90.40 | with stevia |
 | <span id="id-9bba6f2">[Whey protein Chocolate<br />\[MaxiNutrition\]](/ice-creamery/info/ingredients/#whey-protein){target="_blank"}<sup>↗</sup></span> | 374.00 | 4.90 | 5.30 | 3.40 | 75.00 | 0.55 | 0.03 | 87.60 |  |
 | <span id="id-165651e">[Whey protein Vanilla<br />\[MaxiNutrition\]](/ice-creamery/info/ingredients/#whey-protein){target="_blank"}<sup>↗</sup></span> | 392.00 | 5.80 | 6.20 | 5.30 | 78.00 | 0.57 | 0.05 | 89.20 |  |
@@ -369,10 +370,10 @@ All values are per 100g.<br clear="all" />
 | <span id="id-5236903">[Xanthan gum (E415, XG)](/ice-creamery/info/ingredients/#xanthan-gum-xg-e415){target="_blank"}<sup>↗</sup></span> | 320.00 |  | 78.00 |  | 6.00 | 1.00 |  |  | 1tsp ≈ 2.8g |
 | <span id="id-13c310b">[Xylitol (E967)](/ice-creamery/info/ingredients/#xylitol-e967){target="_blank"}<sup>↗</sup></span> | 238.00 |  | 100.00 |  |  |  | 2.20 |  | POD = 100%; GI = 7 |
 | <span id="id-a137ea6">Yogurt 3.5%<br />[REWE]</span> | 70.00 | 3.50 | 4.80 | 4.80 | 4.80 | 0.15 | 0.05 | 10.82 |  |
-| <span id="id-2101a5b">Yogurt 8% Apricot<br />[Lyttos / Aldi]</span> | 131.00 | 8.00 | 12.20 | 11.50 | 2.60 | 0.09 | 0.12 | 16.53 |  |
 
 | Ingredient                | Energy<br/>[kcal] | Fat | Carbs | Sugar | Protein | Salt | PAC | MSNF | Comment |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | :--- |
+| <span id="id-2101a5b">Yogurt 8% Apricot<br />[Lyttos / Aldi]</span> | 131.00 | 8.00 | 12.20 | 11.50 | 2.60 | 0.09 | 0.12 | 16.53 |  |
 | <span id="id-7f656a8">Yogurt 8% Cherry<br />[Lyttos / Aldi]</span> | 128.00 | 7.90 | 11.70 | 10.90 | 2.60 | 0.10 | 0.11 | 15.98 |  |
 | <span id="id-60e4066">Yogurt mild 4%<br />[REWE Bio]</span> | 71.00 | 3.80 | 5.00 | 5.00 | 4.10 | 0.15 | 0.05 | 10.27 | 500g container |
 | <span id="id-9527fbe">Zucchini (raw, peeled)</span> | 17.00 | 0.30 | 3.40 | 2.10 | 1.20 | 0.00 |  |  |  |
