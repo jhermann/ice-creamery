@@ -43,9 +43,14 @@ Be aware that some plant-based protein powders might cause a slightly grainy tex
 1.  **Base Prep**: Combine the milk, cream, xylitol, and guar gum in a saucepan.
 2.  Whisk in the skim milk powder, chocolate protein powder, and cocoa powder.
 3.  Heat the pan on the hob to ≈40–50°C (104–122°F) while stirring constantly. Make sure all powders and the xylitol are completely dissolved for a smooth base.
-4.  **Aging**: Pour the mixture into a container and let it chill in the refrigerator overnight.
-5.  **Churning**: Stir the chilled base to ensure it's well-mixed. Pour into a pre-chilled ice cream maker and process according to the machine's instructions until it reaches your preferred consistency (≈25–40% overrun).
-6.  **Hardening**: Transfer the churned ice cream to a storage container and freeze overnight to allow it to firm up properly before serving.
+4.  **Aging**:
+
+    - Pour the mix into a Ninja Creami Deluxe pint.
+    - Let it sit in the fridge until cold, and scoop off any foam from the top so it is filled exactly to the max fill line with liquid.
+
+5.  **Hardening**: Put the lid on and freeze for at least 24 hours.
+6.  **Churning**: Put the frozen pint in the Ninja Creami and spin on the "(Light) Ice Cream" or "Gelato" setting.
+7.  **Hardening**: Freeze a few hours to allow it to firm up properly before serving.
 
 ## Nutrition Facts
 
