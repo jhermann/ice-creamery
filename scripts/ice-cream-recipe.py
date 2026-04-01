@@ -282,6 +282,16 @@ def info_link(term, args=None):
             term = term.replace(fragment, link)
     return term
 
+
+def nutrition_link(ingredient_id):
+    """Return a nutrition table link for a known ingredient id."""
+    if not ingredient_id:
+        return ''
+    return (
+        f' <a id="id-{ingredient_id}" '
+        f'href="{WEBSITE_BASE_URL}/info/nutrition/#id-{ingredient_id}">ℹ️</a>'
+    )
+
 def subtitle(text, is_topping=False):
     """Create markdown for a recipe subtitle."""
     # TODO: add a `--format=reddit|generic` option
@@ -536,10 +546,11 @@ def main():
             ingredient['spacer'] = '' if ingredient['unit'] in {'g', 'ml', ''} else ' '
             ingredient['amount'] = ingredient['amount'].replace(".50", ".5")
             ingredient['href'] = ingredient_link(ingredient['ingredients'], args=args)
-            ingredient['anchor'] = '<span id="id-{}"></span>'.format(ingredient['id']) if ingredient.get('id') else ''
-            lines.append('  - {anchor}_{amount}{spacer}{unit}_ {href}'.format(**ingredient))
+            ingredient['nutrition_link'] = nutrition_link(ingredient.get('id'))
+            lines.append('  - _{amount}{spacer}{unit}_ {href}'.format(**ingredient))
             if ingredient['comment']:
                 lines[-1] += f" • {ingredient['comment']}"
+            lines[-1] += ingredient['nutrition_link']
             if not args.macros:
                 for key in ('ICSv2', 'Salty Stability'):
                     if key in ingredient['ingredients']:
