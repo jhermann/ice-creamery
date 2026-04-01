@@ -168,3 +168,4 @@ cython_debug/
 #.idea/
 wiki/
 docs/assets/document_dates/
+all-*.txt
