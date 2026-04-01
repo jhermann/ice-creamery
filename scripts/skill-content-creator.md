@@ -102,8 +102,8 @@ Use this for the table header:
 ```
 
 Stick to the usual order of values: ⚖️ Total Weight (g),
-🔥 Energy (kcal), 🫒 Fat, 🧈 Saturated Fat, 🍞 Carbohydrates,
-🍬 Sugars, 💨 Dietary Fiber, 💪 Protein, 🧂 Salt.
+🔥 Energy (kcal), 🫒 Fat (g), 🧈 Saturated Fat (g), 🍞 Carbohydrates (g),
+🍬 Sugars (g), 💨 Dietary Fiber (g), 💪 Protein (g), 🧂 Salt (g).
 
 Don't say "the provided food database",
 but instead use "**[Australian Food Composition Database (AFCD)](https://afcd.foodstandards.gov.au/)**".
