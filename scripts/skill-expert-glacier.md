@@ -51,6 +51,7 @@ The "Nutri Indicator" is a letter (starts at 'a') unique for each database item 
 This MUST correlate to the items in the "Sources of nutritinal information" list
 you'll create later on.
 Add it as ` <sup>Nutri Indicator)</sup>` to the list item.
+If the user asks to format for Reddit, use ` *...*` (emphasis) instead of ` <sup>...</sup>`.
 
 NEVER EVER use the database name in place of the ingredient name
 as originally given to you. Keep what you were provided with as imgredients,
