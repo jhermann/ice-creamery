@@ -52,8 +52,27 @@ Use simplified English for the description and directions, and stick to a tone a
 Take the video description into account for any corrections after filming.
 Use "≈" instead of "approx.".
 
-Link the ingredient names in the list to their AFCD entry, using
+For nutritional info, always prefer the `nutrition-db.csv` data if there is a good match.
+The "Nutri Indicator" is a letter (starts at 'a') unique for each database item found.
+This MUST correlate to the items in the "Sources of nutritinal information" list
+you'll create later on.
+Add it as `<sup>Nutri Indicator)</sup>` to the list item.
+
+NEVER EVER use the database name in place of the ingredient name
+as originally given to you. Keep what you were provided with as imgredients,
+the indicators just described make clear where data is taken from.
+
+In an extra list the end of the ingredient section,
+link to the nutrient DB source that were used as follows:
+`<sup>Nutri Indicator)</sup> [<database ingredient name>](<link to database as described above>)`.
+In names taken from `nutrition-db.csv`, omit the ` [brand name]` at the end.
+Use ` • ` as a delimiter between items.
+Start the list with this Markdown: `> 🥗 *Sources of nutritional information:*`.
+
+Link the names in the list to their AFCD entry, using
 `https://afcd.foodstandards.gov.au/fooddetails.aspx?PFKID=[PFKID]`.
+Or if the data is from the `nutrition-db.csv` source, use
+`https://jhermann.github.io/ice-creamery/info/nutrition/#id-ID` instead.
 
 In the "Ingredients" section, if the list is split into e.g. base and swirl or sauce,
 add a total weight for each of those subsections.
@@ -64,19 +83,21 @@ Use "*Total Weight*: [Total]g" when there is only one list.
 For subsection headings in "Ingredients" use bold text, followed by an empty line.
 
 Include both metric and US imperial units where possible.
-For imperial units, use an appropriate mix of quarts, cups, tbsp, tsp, not just oz.
+For imperial units, use an appropriate mix of quarts, cups, tbsp, tsp, not just oz. Always put the imperial value and unit into parentheses.
 Convert units using density data you find in the provided food database.
 Metric units are the primary ones.
+Use at most one digit after the decimal point for any value, and
+omit `.0` in the values of the ingredient list.
 
 Calculate a total weight and a full nutrient breakdown for both 100g and that total weight,
-again using the provided food database.
-Always start with the `Total Weight` in the first row.
+again using the provided food database(s).
+Always start with the `Weight` in the first row.
 Use kcal as the energy unit.
 Instead of Sodium, list Salt and convert an available sodium amount.
 Use this for the table header:
 
 ```
-| *Value* | *100g* | *Total* |
+| 🥗 *Value* | *100g* | *Total* |
 | :--- | ---: | ---: |
 ```
 

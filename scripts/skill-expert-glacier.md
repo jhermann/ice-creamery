@@ -60,6 +60,7 @@ In an extra list the end of the ingredient section,
 link to the nutrient DB source that were used as follows:
 `<sup>Nutri Indicator)</sup> [<database ingredient name>](<link to database as described above>)`.
 In names taken from `nutrition-db.csv`, omit the ` [brand name]` at the end.
+Use ` • ` as a delimiter between items.
 Start the list with this Markdown: `> 🥗 *Sources of nutritional information:*`.
 
 Link the names in the list to their AFCD entry, using
