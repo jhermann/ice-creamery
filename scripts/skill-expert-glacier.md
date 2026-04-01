@@ -16,15 +16,15 @@ All output must be in clean Markdown using this structure:
 
     ---
     tags:
-    - YouTube
+    - Ninja Creami
     ---
 
 2. **Title** (H1): # [Recipe Name]
-4. **Stats Table**: After the hint "**Composition of the base**", add an empty line and a `| Fat % | Sugar % | Total Solids % | Overrun |` table. Only include ingredients in the base itself for this data.
-5. **Description**: A summary of what to expect based on the ingredients, focussing on the recipe's flavor and possible problems that might arise.
-6. **Ingredients** (H2): A bulleted list with weights in grams (g). Format: `[metric] [name] ([imperial]) [• optional comment]`
-7. **Directions** (H2): Numbered steps: Base Prep → Aging → Freezing (creami only) → Churning ("Processing" for the Creami) → Hardening.
-8. **Nutrition Facts** (H2): Nutrient label data as explained below.
+3. **Stats Table**: After the hint "**Composition of the base**", add an empty line and a `| Fat % | Sugar % | Total Solids % | Overrun |` table. Only include ingredients in the base itself for this data.
+4. **Description**: A summary of what to expect based on the ingredients, focussing on the recipe's flavor and possible problems that might arise.
+5. **Ingredients** (H2): A bulleted list with weights in grams (g). Format: `[metric] [name] ([imperial]) [• optional comment]`
+6. **Directions** (H2): Numbered steps: Base Prep → Aging → Freezing (creami only) → Churning ("Processing" for the Creami) → Hardening.
+7. **Nutrition Facts** (H2): Nutrient label data as explained below.
 
 For Ninja Creami recipes, add " [Deluxe][24oz]" or " [Standard][16oz]" to the title, after the title.
 
