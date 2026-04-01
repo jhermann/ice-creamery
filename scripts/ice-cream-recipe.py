@@ -150,6 +150,8 @@ def add_default_tags(md_text, docmeta, title=''):
     docmeta.setdefault('tags', ['Draft'])
     docmeta['tags'] = list(set(docmeta['tags']) - CALCULATED_TAGS)
     kcal = re.search(r'100g; ([.0-9]+) kcal;', md_text)
+    if not kcal:
+        kcal = re.search(r'\|\s*🔥 Energy \(kcal\)\s*\|\s*([.0-9]+)\s*\|', md_text)
     if kcal and float(kcal.group(1)) <= TAG_LIGHT_KCAL_LIMIT:
         docmeta['tags'].append('Light')
     pac = re.search(r'FPDF / .?PAC.+:.?.? ([.0-9]+)', md_text)
@@ -374,10 +376,27 @@ def parse_recipe_csv(csv_name, args, images=[]):
         elif lines[-1] != '':  # empty row (1st one after some text)
             lines.append('')
 
+    def parse_nutritional_row(row, fields):
+        """Parse one CSV nutrition row into structured values."""
+        entry = {
+            'label': row[0].strip(),
+            'weight': row[1].strip(),
+            'weight_unit': row[2].strip(),
+            'kcal': row[4].strip(),
+            'nutrients': {},
+        }
+        for key, value in zip(fields, row[5:]):
+            key = key.strip()
+            value = value.strip()
+            if key and value:
+                entry['nutrients'][key] = value
+        return entry
+
     recipe = defaultdict(list)
     lines = []
     mix_in = []
     nutrition = []
+    nutritional_values = []
     special_prep = []
     special_directions = []
     freezing = [  # inserted before 'mix-in' step
@@ -410,9 +429,7 @@ def parse_recipe_csv(csv_name, args, images=[]):
             row = next(reader)
             if 'Nutritional' not in row[0]:
                 break  # end of nutrient / macros info
-            data = dict(zip(fields, row[5:]))
-            nutrients = "; ".join([f'{k.lower()} {v}g' for k, v in data.items() if v])
-            nutrition.append(f'**{row[0]}:** {row[1]}{row[2]}; {row[4]} kcal; {nutrients}')
+            nutritional_values.append(parse_nutritional_row(row, fields))
 
         # Parse up to ingredient list
         while row[0] != 'Ingredients':  # process comment / text lines, up to the ingredient list
@@ -469,6 +486,7 @@ def parse_recipe_csv(csv_name, args, images=[]):
         recipe=recipe,
         lines=lines,
         nutrition=nutrition,
+        nutritional_values=nutritional_values,
         special_prep=special_prep,
         special_directions=special_directions,
         mix_in=mix_in,
@@ -479,6 +497,88 @@ def parse_recipe_csv(csv_name, args, images=[]):
 
 def main():
     """Main loop."""
+    def normalize_nutrient_name(name):
+        """Canonicalize nutrient header names from CSV."""
+        lowered = re.sub(r'[^a-z0-9]+', '', name.lower())
+        aliases = {
+            'fat': 'fat',
+            'totalfat': 'fat',
+            'saturatedfat': 'saturated_fat',
+            'satfat': 'saturated_fat',
+            'saturates': 'saturated_fat',
+            'carbs': 'carbohydrates',
+            'carbohydrates': 'carbohydrates',
+            'totalcarbohydrates': 'carbohydrates',
+            'sugar': 'sugars',
+            'sugars': 'sugars',
+            'fiber': 'dietary_fiber',
+            'fibre': 'dietary_fiber',
+            'dietaryfiber': 'dietary_fiber',
+            'protein': 'protein',
+            'salt': 'salt',
+        }
+        return aliases.get(lowered)
+
+    def build_nutrition_table(nutritional_values):
+        """Build markdown table for 100g, per tub/serving, and total values."""
+        if not nutritional_values:
+            return []
+
+        def pick_100g_row():
+            for item in nutritional_values:
+                if '100g' in item['label'].lower() or item['weight'].strip().startswith('100'):
+                    return item
+            return nutritional_values[0]
+
+        def pick_total_row():
+            for item in nutritional_values:
+                if 'total' in item['label'].lower():
+                    return item
+            return nutritional_values[-1]
+
+        def pick_per_serving_row(per_100g, total):
+            for item in nutritional_values:
+                if item is not per_100g and item is not total:
+                    return item
+            return None
+
+        def as_weight(value):
+            return re.sub(r'\s*[a-zA-Z]+\s*$', '', value).strip() or value
+
+        def as_value(value):
+            return value if value else '—'
+
+        def has_any_value(*values):
+            return any((v or '').strip() not in {'', '—'} for v in values)
+
+        per_100g = pick_100g_row()
+        total = pick_total_row()
+        per_serving = pick_per_serving_row(per_100g, total)
+
+        values_100g = {normalize_nutrient_name(k): v for k, v in per_100g['nutrients'].items()}
+        values_per_serving = {normalize_nutrient_name(k): v for k, v in per_serving['nutrients'].items()} if per_serving else {}
+        values_total = {normalize_nutrient_name(k): v for k, v in total['nutrients'].items()}
+
+        rows = [
+            ('⚖️ Weight (g)', as_weight(per_100g['weight']), as_weight(per_serving['weight']) if per_serving else '—', as_weight(total['weight'])),
+            ('🔥 Energy (kcal)', per_100g['kcal'] or '—', per_serving['kcal'] if per_serving and per_serving['kcal'] else '—', total['kcal'] or '—'),
+            ('🫒 Fat (g)', as_value(values_100g.get('fat')), as_value(values_per_serving.get('fat')), as_value(values_total.get('fat'))),
+            ('🧈 Saturated Fat (g)', as_value(values_100g.get('saturated_fat')), as_value(values_per_serving.get('saturated_fat')), as_value(values_total.get('saturated_fat'))),
+            ('🍞 Carbohydrates (g)', as_value(values_100g.get('carbohydrates')), as_value(values_per_serving.get('carbohydrates')), as_value(values_total.get('carbohydrates'))),
+            ('🍬 Sugars (g)', as_value(values_100g.get('sugars')), as_value(values_per_serving.get('sugars')), as_value(values_total.get('sugars'))),
+            ('💨 Dietary Fiber (g)', as_value(values_100g.get('dietary_fiber')), as_value(values_per_serving.get('dietary_fiber')), as_value(values_total.get('dietary_fiber'))),
+            ('💪 Protein (g)', as_value(values_100g.get('protein')), as_value(values_per_serving.get('protein')), as_value(values_total.get('protein'))),
+            ('🧂 Salt (g)', as_value(values_100g.get('salt')), as_value(values_per_serving.get('salt')), as_value(values_total.get('salt'))),
+        ]
+        rows = [row for row in rows if has_any_value(row[1], row[2], row[3])]
+
+        table = [
+            '| 🥗 Value | 100g | Serving | Total |',
+            '| :--- | ---: | ---: | ---: |',
+        ]
+        table.extend([f'| {label} | {v100} | {vtub} | {vtotal} |' for label, v100, vtub, vtotal in rows])
+        return table
+
     args = parse_cli()
     #pp(args)
     steps = {  # These correlate to the "#" column in the sheet's ingredient list, with prep ~ 0 and mix-in ~ 4
@@ -518,8 +618,9 @@ def main():
     card = parse_recipe_csv(args.csv_name, args, images)
     recipe = defaultdict(list)
     recipe.update(card.recipe)
-    lines, nutrition, special_prep, special_directions, is_topping, title = \
+    lines, nutrition, nutritional_values, special_prep, special_directions, is_topping, title = \
         list(card.lines), list(card.nutrition), \
+        list(card.nutritional_values), \
         card.special_prep, card.special_directions, card.is_topping, card.title
     #pp(dict(card))
     #pp((dict(recipe), lines, nutrition))
@@ -593,9 +694,10 @@ def main():
                     lines.extend([x for x in premix if not excluded_steps.search(x)])
 
     # Add nutritional info
-    lines.extend([
-        '', subtitle('Nutritional & Other Info', is_topping), '' if is_topping else None, '',
-        '- ' + '\n- '.join(nutrition)])
+    lines.extend(['', subtitle('Nutritional & Other Info', is_topping), '' if is_topping else None, ''])
+    lines.extend(build_nutrition_table(nutritional_values))
+    if nutrition:
+        lines.extend(['', '- ' + '\n- '.join(nutrition)])
 
     # Add default tags
     lines.append('')  # add trailing line end
