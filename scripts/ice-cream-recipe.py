@@ -536,7 +536,8 @@ def main():
             ingredient['spacer'] = '' if ingredient['unit'] in {'g', 'ml', ''} else ' '
             ingredient['amount'] = ingredient['amount'].replace(".50", ".5")
             ingredient['href'] = ingredient_link(ingredient['ingredients'], args=args)
-            lines.append('  - _{amount}{spacer}{unit}_ {href}'.format(**ingredient))
+            ingredient['anchor'] = '<span id="id-{}"></span>'.format(ingredient['id']) if ingredient.get('id') else ''
+            lines.append('  - {anchor}_{amount}{spacer}{unit}_ {href}'.format(**ingredient))
             if ingredient['comment']:
                 lines[-1] += f" • {ingredient['comment']}"
             if not args.macros:
@@ -626,7 +627,9 @@ def main():
             if row['kcal']:
                 if idx and not(idx % 10):
                     print(header)
-                print('|', ' | '.join(row[x].replace(' [', '<br />[').replace(r' \[', r'<br />\[') for x in fields), '|')
+                if row.get('anchor'):
+                    row['href'] = row['anchor'].replace('><', '>\t<').replace('\t', row['href'])
+                print('|', ' | '.join(row.get(x, '').replace(' [', '<br />[').replace(r' \[', r'<br />\[') for x in fields), '|')
                 idx = idx + 1
         return
 
