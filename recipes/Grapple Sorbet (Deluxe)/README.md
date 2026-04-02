@@ -50,19 +50,19 @@ Spin on “Sorbet”, scrape down, and re-mix.
 
   - _300ml_ Apple Juice (clear, filtered)
   - _150ml_ Grape Juice (white)
-  - _150ml_ Water (cold)
-  - _15g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup>
+  - _150ml_ Water (cold) <a id="id-87f72fd" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-87f72fd">ℹ️</a>
+  - _15g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> <a id="id-8717e6d" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-8717e6d">ℹ️</a>
 
 **Dry**
 
-  - _35g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • *alternative:* 47g allulose or dextrose
-  - _20g_ [Waxy Maize Starch (E1442) \[Ultratex\]](/ice-creamery/info/ingredients/#waxy-maize-starch-e1442){target="_blank"}<sup>↗</sup> • dissolves easily; use 1-5%
-  - _1g_ Citric Acid • 0.5–1g ≈ 15ml lemon juice
-  - _1g_ [Xanthan gum (E415, XG)](/ice-creamery/info/ingredients/#xanthan-gum-xg-e415){target="_blank"}<sup>↗</sup> • 1tsp ≈ 2.8g
+  - _35g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • *alternative:* 47g allulose or dextrose <a id="id-f44b101" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-f44b101">ℹ️</a>
+  - _20g_ [Waxy Maize Starch (E1442) \[Ultratex\]](/ice-creamery/info/ingredients/#waxy-maize-starch-e1442){target="_blank"}<sup>↗</sup> • dissolves easily; use 1-5% <a id="id-0e5caff" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-0e5caff">ℹ️</a>
+  - _1g_ Citric Acid • 0.5–1g ≈ 15ml lemon juice <a id="id-42c46ba" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-42c46ba">ℹ️</a>
+  - _1g_ [Xanthan gum (E415, XG)](/ice-creamery/info/ingredients/#xanthan-gum-xg-e415){target="_blank"}<sup>↗</sup> • 1tsp ≈ 2.8g <a id="id-5236903" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-5236903">ℹ️</a>
 
 **Fill to MAX**
 
-  - _≈8 drops_ [Stevia drops “natural” \[Nick’s\]](/ice-creamery/info/ingredients/#stevia-e960){target="_blank"}<sup>↗</sup> • to taste • unflavored
+  - _≈8 drops_ [Stevia drops “natural” \[Nick’s\]](/ice-creamery/info/ingredients/#stevia-e960){target="_blank"}<sup>↗</sup> • to taste • unflavored <a id="id-0918891" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-0918891">ℹ️</a>
 
 **Optional / Choices**
 
@@ -75,14 +75,22 @@ Spin on “Sorbet”, scrape down, and re-mix.
  1. Pour into the tub and *QUICKLY* use an immersion blender on full speed to homogenize everything.
  1. Let blender run until thickeners are properly hydrated, up to 1-2 min. Or blend again after waiting that time.
  1. Add remaining ingredients (to the MAX line) and stir with a spoon.
- 1. Put on the lid, freeze for 24h, then spin as usual. Flatten any humps before that.
+ 1. For better results, let the base age in the fridge (covered, lid on), for a few hours or over night. This helps flavor development and gum hydration, especially with unheated bases.
+ 1. Freeze for 24h with lid on, then spin as usual. Flatten any humps before that.
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
 
 # NUTRITIONAL & OTHER INFO
 
-- **Nutritional values per 100g/ml:** 100g; 65.1 kcal; fat 0.1g; carbs 19.4g; sugar 8.5g; protein 0.1g; salt 0.0g
-- **Nutritional values per ½ Deluxe Tub:** 340g; 221.2 kcal; fat 0.4g; carbs 66.0g; sugar 28.8g; protein 0.5g; salt 0.1g
-- **Nutritional values total:** 672g; 437.2 kcal; fat 0.8g; carbs 130.4g; sugar 56.9g; protein 0.9g; salt 0.3g
+| 🥗 Value | 100g | Serving | Total |
+| :--- | ---: | ---: | ---: |
+| ⚖️ Weight (g) | 100 | 340 | 672 |
+| 🔥 Energy (kcal) | 65.1 | 221.2 | 437.2 |
+| 🫒 Fat (g) | 0.1 | 0.4 | 0.8 |
+| 🍞 Carbohydrates (g) | 19.4 | 66.0 | 130.4 |
+| 🍬 Sugars (g) | 8.5 | 28.8 | 56.9 |
+| 💪 Protein (g) | 0.1 | 0.5 | 0.9 |
+| 🧂 Salt (g) | 0.0 | 0.1 | 0.3 |
+
 - **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.28
 - **Protein / Energy Ratio (ok=12%; hi=20%):** 0.84% • LOW-FAT • Low-Salt
 - **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 0.0g • 0.0%
