@@ -46,6 +46,7 @@ WEBSITE_BASE_URL = 'https://jhermann.github.io/ice-creamery'
 
 TAG_LIGHT_KCAL_LIMIT = 75.0
 TAG_SCOOPABLE_PAC_LIMIT = 30.0
+IMPERIAL_TSP_OMIT_PERCENT = 0.03
 PREPPED_NAME = {
     'ICSv2': 'Ice Cream Stabilizer (ICS)',
 }
@@ -297,6 +298,97 @@ def nutrition_link(ingredient_id):
         f' <a id="id-{ingredient_id}" '
         f'href="{WEBSITE_BASE_URL}/info/nutrition/#id-{ingredient_id}">ℹ️</a>'
     )
+
+
+def format_fractional_tsp(value):
+    """Format fractional teaspoon values in factional steps."""
+    whole = int(value)
+    frac = round((value - whole) * 8) / 8
+    glyph = {
+        0.125: '⅛', 0.25: '¼', 0.375: '⅜', 0.5: '½',
+        0.625: '⅝', 0.75: '¾', 0.875: '⅞',
+    }.get(frac)
+
+    if whole and glyph:
+        return f'{whole} {glyph}'
+    if whole:
+        return str(whole)
+    return glyph or '0'
+
+
+def us_imperial_volume_combo(amount, unit):
+    """ Convert metric amounts into a compact US kitchen combination.
+
+        For grams, assumes a rough 1g ~= 1ml density as a kitchen estimate.
+    """
+    unit = unit.strip().lower()
+    if unit not in {'g', 'ml', 'fl oz', 'floz'}:
+        return ''
+
+    try:
+        metric = float(amount)
+    except (TypeError, ValueError):
+        return ''
+
+    if metric <= 0:
+        return ''
+
+    cup_ml = 236.588
+    fl_oz_ml = 29.5735
+    oz_g = 28.3495
+    tbsp_ml = 14.7868
+    tsp_ml = 4.92892
+    total_metric = metric
+
+    remaining = metric
+    cups = int(remaining // cup_ml)
+    remaining -= cups * cup_ml
+
+    ounces = 0
+    fluid_ounces = 0
+    if unit == 'g':
+        ounces = int(remaining // oz_g)
+        remaining -= ounces * oz_g
+    elif unit == 'ml':
+        fluid_ounces = int(remaining // fl_oz_ml)
+        remaining -= fluid_ounces * fl_oz_ml
+
+    tbsp = int(remaining // tbsp_ml)
+    remaining -= tbsp * tbsp_ml
+    tsp = round((remaining / tsp_ml) * 4) / 4
+
+    # Normalize carry-over after rounding.
+    if tsp >= 3:
+        tbsp += int(tsp // 3)
+        tsp = round((tsp % 3) * 4) / 4
+    if unit == 'ml':
+        if tbsp >= 2:
+            fluid_ounces += int(tbsp // 2)
+            tbsp = int(tbsp % 2)
+        if fluid_ounces >= 8:
+            cups += int(fluid_ounces // 8)
+            fluid_ounces = int(fluid_ounces % 8)
+
+    # If the tsp percentage is small, omit it for simplicity.
+    has_larger_parts = bool(cups or ounces or fluid_ounces or tbsp)
+    if tsp and has_larger_parts and (tsp * tsp_ml / total_metric) < IMPERIAL_TSP_OMIT_PERCENT:
+        tsp = 0
+
+    parts = []
+    if cups:
+        parts.append(f"{cups} cup{'s' if cups != 1 else ''}")
+    if ounces:
+        parts.append(f"{ounces} oz")
+    if fluid_ounces:
+        parts.append(f"{fluid_ounces} fl oz")
+    if tbsp:
+        parts.append(f"{tbsp} tbsp")
+    if tsp:
+        parts.append(f"{format_fractional_tsp(tsp)} tsp")
+    if not parts:
+        parts.append('⅛ tsp')
+
+    return ' + '.join(parts)
 
 def subtitle(text, is_topping=False):
     """Create markdown for a recipe subtitle."""
@@ -685,8 +777,11 @@ def main():
             ingredient['spacer'] = '' if ingredient['unit'] in {'g', 'ml', ''} else ' '
             ingredient['amount'] = ingredient['amount'].replace(".50", ".5")
             ingredient['href'] = ingredient_link(ingredient['ingredients'], args=args)
+            ingredient['imperial'] = us_imperial_volume_combo(ingredient['amount'], ingredient['unit'])
             ingredient['nutrition_link'] = nutrition_link(ingredient.get('id'))
             lines.append('  - _{amount}{spacer}{unit}_ {href}'.format(**ingredient))
+            if ingredient['imperial']:
+                lines[-1] += f" (≈{ingredient['imperial']})"
             if ingredient['comment']:
                 lines[-1] += f" • {ingredient['comment']}"
             lines[-1] += ingredient['nutrition_link']
