@@ -4,7 +4,7 @@ tags:
 - Polysaccharide Gum
 - YouTube
 ---
-# Stunning Hazelnut Gelato [Deluxe]
+# Stunning Hazelnut Gelato [24oz]
 
 > From the transcript of [Stunning Hazelnut Gelato in the Ninja Creami - ULTRA smooth](https://www.youtube.com/watch?v=MRJ7khMUhdk).
 

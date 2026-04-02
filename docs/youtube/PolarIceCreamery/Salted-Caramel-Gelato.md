@@ -5,7 +5,7 @@ tags:
 - Stevia
 - YouTube
 ---
-# Salted Caramel Gelato [Deluxe]
+# Salted Caramel Gelato [24oz]
 
 > From the transcript of [No Added Sugar Salted Caramel Gelato (Ultra Creamy & Diabetic-Friendly Option)](https://www.youtube.com/watch?v=vsiAqzxcliA).
 
