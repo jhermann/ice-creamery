@@ -1,0 +1,48 @@
+"Rosehip & Hibiscus (Deluxe)";;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;"Amount";"Unit";;"kcal";"Fat";"Carbs";"Sugar";"Protein";"Salt";;;;;;
+"Nutritional values per 100g/ml";100;"g";;60.2;1.4;14.4;0.2;2.6;0.1;;;;;;
+"Nutritional values per ½ Deluxe Tub";340;"g";;204.7;4.6;48.9;0.7;8.7;0.3;;;;;;
+"Nutritional values total";681;"g";;410.1;9.2;98.0;1.3;17.4;0.6;;;;;;
+;;;;;;;;;;;;;;;
+"FPDF / PAC (target 20..30)";31.22;;;;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";16.96%;;;"";"LOW-FAT";;"Low-Sugar";"";"Low-Salt";;;;;;
+"ℹ️ Milk Solids Non-Fat (MSNF, 7-11%)";23.0;"g";;3.4%;;;;;;;;;;;
+"ℹ️ Net carbs";31.1;"g";;"*∝ 5 servings@136g:* 6.2g";;;"*∝ 3 servings@227g:* 10.4g";;;"*energy ratio (low <20%):* 30.4%";;;;;
+;;;;;;;;;;;;;;;
+"If you’re looking for a refreshing, floral treat that skips the heavy cream and sugar, this *Rosehip & Hibiscus Gelato* is for you.
+
+By combining a concentrated cold-brew tea base with technical ingredients like inulin and xanthan gum, you get a texture like store-bought, without the high fat content.
+
+> 🌿 **Vegan & Dairy-free**
+
+You can of course try this with any other type of tea you like, adapt the number of tea bags depending on its intensity.
+
+!!! note ""Sober Recipe""
+
+    If you prefer a non-alcoholic version, simply swap the Grappa for an extra 8g of Vegetable Glycerin (VG) to maintain that soft consistency.
+
+Spin on “Sorbet”, scrape down, and re-mix.";;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+"*Rating:* 😋🌹🍵 (untested)";;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+"!!! note ""Why These Ingredients Work""
+
+    The combination of *Waxy Maize Starch* and *Xanthan Gum* provides a thick & velvety body, while *Glycerin* and a touch of *Grappa* lower the freezing point to keep the gelato soft and scoopable.
+
+    By using a blend of *Erythritol, Xylitol, and Inulin*, you get a balanced & low-glycemic sweetness.
+";;;;;;;;;;;;;;;
+"1. Steep the tea in the milk, for a few hours or over night in the fridge.";;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+"Ingredients";"Amount";"Unit";"#";"kcal";"Fat";"Carbs";"Sugar";"Protein";"Salt";"FPDF";"MSNF";"Comment";"0Carb[%]";"Counts?";"ID"
+"Soy milk 1.6% (sugar-free) [Berief]";575.00;"ml";0;30.00;1.60;0.90;0.00;3.00;0.08;;4.00;"*alternative:* any other preferred milk (~2% fat)";;1;"2755284"
+"Tea (Rosehip & Hibiscus)";2.00;"bags";0;;;;;;;;;;;1;"tea-rhip"
+"Glycerin (E422, VG) [hd-line]";17.00;"g";1;400.00;;99.00;;;;3.70;;;50.00;1;"8717e6d"
+"Grappa 40 vol% [Sibona]";10.00;"g";1;230.00;;1.30;1.30;;;2.97;;"*alternative:* 8g (additional) VG for a sober recipe";;1;"bd27e02"
+"SweEX (Erythritol + Xylitol 3:2)";45.00;"g";2;109.60;;100.00;;;;2.56;;"*alternative:* 60g allulose or dextrose";100.00;1;"f44b101"
+"Inulin [Vit4ever]";15.00;"g";2;210.00;;97.00;8.00;;0.20;0.09;;"Sweetness = 8%; GI ~= 0";89.00;1;"d8bc1db"
+"Waxy Maize Starch (E1442) [Ultratex]";15.00;"g";2;391.00;0.15;97.00;0.00;0.50;0.50;;;"dissolves easily; use 1-5%";;1;"0e5caff"
+"Citric Acid";1.00;"g";2;391.00;0.15;97.00;0.00;0.50;0.50;;;"0.5–1g ≈ 15ml lemon juice";;1;"42c46ba"
+"Xanthan gum (E415, XG)";1.00;"g";2;320.00;;78.00;;6.00;1.00;;;"1tsp ≈ 2.8g";;1;"5236903"
+;;;;;;;;;;;;;;;
+"Flavor drops “Natural” (stevia) [Nick’s]";"≈1";"drops";3;;;;;;;;;"to taste • unflavored";;"";"b4e0320"
