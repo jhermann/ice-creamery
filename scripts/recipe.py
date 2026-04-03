@@ -336,7 +336,11 @@ def main() -> int:
             selected_match = sheet_matches[0]
         else:
             options = [f"{match.display_path} :: {match.sheet_name}" for match in sheet_matches]
-            _, selected_index = pick(options, title="Select a sheet to open")
+            try:
+                _, selected_index = pick(options, title="Select a sheet to open")
+            except (KeyboardInterrupt, EOFError):
+                print("Selection cancelled.", file=sys.stderr)
+                return 1
             selected_match = sheet_matches[selected_index]
 
         print(f"Opening {selected_match.display_path} :: {selected_match.sheet_name}")
