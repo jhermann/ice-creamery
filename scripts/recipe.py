@@ -114,6 +114,10 @@ class SpreadSheetSupport:
             return path.name
 
     @staticmethod
+    def format_sheet_label(sheet_name: str, position: int, width: int) -> str:
+        return f"[#{position:0{width}d}] {sheet_name}"
+
+    @staticmethod
     def map_open_path(path: Path, path_mapper_cmd: list[str]) -> str:
         if not path_mapper_cmd:
             return str(path)
@@ -316,32 +320,43 @@ def main() -> int:
 
     for path in spreadsheet_files:
         try:
-            sheet_names = SpreadSheetSupport.list_sheet_names(path)
+            all_sheet_names = SpreadSheetSupport.list_sheet_names(path)
         except (ET.ParseError, BadZipFile, KeyError, OSError) as exc:
             had_errors = True
             print(f"{path}: ERROR: {exc}", file=sys.stderr)
             continue
 
+        indexed_sheet_names = list(enumerate(all_sheet_names, start=1))
+        position_width = max(2, len(str(len(all_sheet_names))))
+
         if settings.action in {"search", "open"}:
-            sheet_names = SpreadSheetSupport.match_sheet_names(sheet_names, settings.patterns)
-            if not sheet_names:
+            search_patterns = [SpreadSheetSupport.compile_search_pattern(pattern) for pattern in settings.patterns]
+            indexed_sheet_names = [
+                (position, sheet_name)
+                for position, sheet_name in indexed_sheet_names
+                if any(pattern.search(sheet_name) for pattern in search_patterns)
+            ]
+            if not indexed_sheet_names:
                 continue
             had_matches = True
 
         display_path = SpreadSheetSupport.display_path(path, settings.sheet_directory)
 
         if settings.action == "open":
-            for sheet_name in sheet_names:
+            for position, sheet_name in indexed_sheet_names:
                 sheet_matches.append(AttrDict(
                     path=path,
                     display_path=display_path,
                     sheet_name=sheet_name,
+                    sheet_position=position,
+                    sheet_position_width=position_width,
                 ))
             continue
 
         print(display_path)
-        for sheet_name in sheet_names:
-            print(f"  - {sheet_name}")
+        for position, sheet_name in indexed_sheet_names:
+            label = SpreadSheetSupport.format_sheet_label(sheet_name, position, position_width)
+            print(f"  - {label}")
 
     if settings.action == "open":
         if not sheet_matches and not had_errors:
@@ -350,7 +365,13 @@ def main() -> int:
         if len(sheet_matches) == 1:
             selected_match = sheet_matches[0]
         else:
-            options = [f"{match.display_path} :: {match.sheet_name}" for match in sheet_matches]
+            options = [
+                (
+                    f"{match.display_path} :: "
+                    f"{SpreadSheetSupport.format_sheet_label(match.sheet_name, match.sheet_position, match.sheet_position_width)}"
+                )
+                for match in sheet_matches
+            ]
             try:
                 _, selected_index = pick(options, title="Select a sheet to open")
             except (KeyboardInterrupt, EOFError):
@@ -358,7 +379,12 @@ def main() -> int:
                 return 1
             selected_match = sheet_matches[selected_index]
 
-        print(f"Opening {selected_match.display_path} :: {selected_match.sheet_name}")
+        selected_label = SpreadSheetSupport.format_sheet_label(
+            selected_match.sheet_name,
+            selected_match.sheet_position,
+            selected_match.sheet_position_width,
+        )
+        print(f"Opening {selected_match.display_path} :: {selected_label}")
         SpreadSheetSupport.open_sheet_match(
             selected_match,
             settings.libreoffice_cmd,
