@@ -312,6 +312,7 @@ def print_info(settings: AttrDict) -> None:
     info("Extensions:", ", ".join(sorted(settings.extensions)))
     info("Python:", f'{sys.executable} {platform.python_version()}')
     info("Platform:", platform.platform())
+    info("Script File:", Path(__file__).resolve())
     info("Current Working Dir:", Path.cwd())
 
 
