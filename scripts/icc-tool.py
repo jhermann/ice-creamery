@@ -26,23 +26,15 @@
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
     SOFTWARE.
 """
-import os
-import re
-import csv
 import sys
-import json
 import argparse
 import importlib.util as imp_util
 
 from pprint import pp  # pylint: disable=unused-import
 from pathlib import Path
-from operator import itemgetter
-from collections import defaultdict
-
-import sys
 
 def load_module(file_name, module_name=''):
-    """Load a script fiel as a module."""
+    """Load a script file as a module."""
     module_name = module_name or Path(file_name).stem.replace('-', '_')
     spec = imp_util.spec_from_file_location(module_name, file_name)
     module = imp_util.module_from_spec(spec)
@@ -162,9 +154,6 @@ def write_recipe(args):
         for step in card.recipe.values():
             yield from step
 
-    def amount(key):
-        return float(ingredient[key] or 0) / 100
-
     card = recipe_lib.parse_recipe_csv(args.csv_name, args)
     #pp(dict(card))
     #pp(dict(card.recipe))
@@ -191,22 +180,6 @@ def write_recipe(args):
         items=',\n    '.join(items),
     )
     print(data)
-
-    """{'ingredients': 'Cream 32% [REWE Beste Wahl]',
-        'amount': '25',
-        'unit': 'ml',
-        'step': '3',
-        'kcal': '311.00',
-        'fat': '32.00',
-        'carbs': '3.20',
-        'sugar': '3.20',
-        'protein': '2.50',
-        'salt': '0.13',
-        'fpdf': '0.03',
-        'msnf': '6.32',
-        'comment': '',
-        '0carb[%]': '',
-        'counts?': '1'},"""
 
 def main():
     """Main loop."""
