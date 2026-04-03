@@ -1,5 +1,12 @@
 # python3 -mpip install -r./requirements.txt
+
+# script utilities
+appdirs
 attrdict3
+pick
+pyyaml
+
+# mkdocs plugins
 mkdocs-material[imaging]
 mkdocs-exporter
 mkdocs-git-revision-date-localized-plugin
