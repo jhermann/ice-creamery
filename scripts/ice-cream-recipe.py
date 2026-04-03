@@ -781,135 +781,146 @@ def parse_recipe_csv(csv_name, args, images=[]):
         title=title,
     ))
 
-def main():
-    """Main loop."""
-    args = parse_cli()
-    #pp(args)
-    steps = {  # These correlate to the "#" column in the sheet's ingredient list, with prep ~ 0 and mix-in ~ 4
-        'Prep': 'Prepare specified ingredients by dissolving / hydrating in hot water.',
-        'Wet': 'Add "wet" ingredients to empty Creami tub.',
-        'Dry': """
-            Weigh and mix dry ingredients, easiest by adding to a jar with a secure lid and shaking vigorously.
-            Pour into the tub and *QUICKLY* use an immersion blender on full speed to homogenize everything.
-            Let blender run until thickeners are properly hydrated, up to 1-2 min. Or blend again after waiting that time.
-        """,
-        'Fill to MAX': 'Add remaining ingredients (to the MAX line) and stir with a spoon.',
-        'Mix-ins':
-            'Process with MIX-IN after adding mix-ins evenly.'
-            ' For that, add partial amounts into a hole going down to the bottom, and fold the ice cream over, building pockets of mix-ins.',
-        'Topping Options': '',
-        'Optional / Choices': '',
-    }
-    premix = [
-        ' 1. Add the prepared dry ingredients, and blend QUICKLY using an immersion blender on full speed.',
-    ]
-    soaking = [
-        ' 1. After mixing, let the base sit in the fridge for at least 30min (better 2h),'
-        ' for the seeds to properly soak. Stir before freezing.',
-    ]
+
+@dataclass
+class MarkdownRecipe:
+    """Build and write recipe markdown from parsed card data."""
+    args: argparse.Namespace
+    docmeta: dict
+    card: AttrDict
+
     STEP_PREP = 0
     STEP_WET = 1
     STEP_DRY = 2
     STEP_FILL = 3
     STEP_MIX_IN = 4
 
-    images = read_images()
-    docmeta = read_meta()
-    parse_info_docs('ingredients', '### ')
-    parse_info_docs('glossary', '## ')
-    #print(yaml.safe_dump(docmeta)); die
+    def __post_init__(self):
+        self.steps = {  # These correlate to the "#" column in the sheet's ingredient list, with prep ~ 0 and mix-in ~ 4
+            'Prep': 'Prepare specified ingredients by dissolving / hydrating in hot water.',
+            'Wet': 'Add "wet" ingredients to empty Creami tub.',
+            'Dry': """
+                Weigh and mix dry ingredients, easiest by adding to a jar with a secure lid and shaking vigorously.
+                Pour into the tub and *QUICKLY* use an immersion blender on full speed to homogenize everything.
+                Let blender run until thickeners are properly hydrated, up to 1-2 min. Or blend again after waiting that time.
+            """,
+            'Fill to MAX': 'Add remaining ingredients (to the MAX line) and stir with a spoon.',
+            'Mix-ins':
+                'Process with MIX-IN after adding mix-ins evenly.'
+                ' For that, add partial amounts into a hole going down to the bottom, and fold the ice cream over, building pockets of mix-ins.',
+            'Topping Options': '',
+            'Optional / Choices': '',
+        }
+        self.premix = [
+            ' 1. Add the prepared dry ingredients, and blend QUICKLY using an immersion blender on full speed.',
+        ]
+        self.soaking = [
+            ' 1. After mixing, let the base sit in the fridge for at least 30min (better 2h),'
+            ' for the seeds to properly soak. Stir before freezing.',
+        ]
+        self.recipe = defaultdict(list)
+        self.recipe.update(self.card.recipe)
+        self.lines = list(self.card.lines)
+        self.nutrition = list(self.card.nutrition)
+        self.nutritional_values = list(self.card.nutritional_values)
+        self.special_prep = self.card.special_prep
+        self.special_directions = self.card.special_directions
+        self.is_topping = self.card.is_topping
+        self.title = self.card.title
 
-    card = parse_recipe_csv(args.csv_name, args, images)
-    recipe = defaultdict(list)
-    recipe.update(card.recipe)
-    lines, nutrition, nutritional_values, special_prep, special_directions, is_topping, title = \
-        list(card.lines), list(card.nutrition), \
-        list(card.nutritional_values), \
-        card.special_prep, card.special_directions, card.is_topping, card.title
-    #pp(dict(card))
-    #pp((dict(recipe), lines, nutrition))
+    def render_markdown(self):
+        """Build the markdown document text."""
+        if 'Simple' in self.docmeta['tags']:
+            self.lines.extend([
+                '',
+                '!!! info "Simple Recipe"',
+                '',
+                "    Read [About 'Simple' Recipes](/ice-creamery/info/tips%2Btricks/#about-simple-recipes)"
+                "    regarding 'exotic' ingredients and their alternatives.",
+                '',
+            ])
 
-    if 'Simple' in docmeta['tags']:
-        lines.extend([
-            '',
-            '!!! info "Simple Recipe"',
-            '',
-            "    Read [About 'Simple' Recipes](/ice-creamery/info/tips%2Btricks/#about-simple-recipes)"
-            "    regarding 'exotic' ingredients and their alternatives.",
-            '',
-        ])
+        # Add ingredient list
+        self.lines.extend([
+            subtitle('Ingredients', self.is_topping),
+            None if self.is_topping else '\nℹ️ Brand names are in square brackets `[...]`.'])
+        for step, (name, _directions) in enumerate(self.steps.items()):
+            if not self.recipe[step]:  # no ingredients for this step?
+                continue
+            self.lines.extend([''] if self.is_topping else ['', f'**{name}**', ''])
+            for ingredient in self.recipe[step]:
+                item = IngredientItem(ingredient, self.args).prepare()
+                self.lines.append(item.markdown_line())
+                if not self.args.macros:
+                    prep_nutrition = item.prep_nutrition_line()
+                    if prep_nutrition:
+                        self.nutrition.append(prep_nutrition)
 
-    # Add ingredient list
-    lines.extend([
-        subtitle('Ingredients', is_topping),
-        None if is_topping else '\nℹ️ Brand names are in square brackets `[...]`.'])
-    for step, (name, directions) in enumerate(steps.items()):
-        if not recipe[step]:  # no ingredients for this step?
-            continue
-        lines.extend([''] if is_topping else ['', f'**{name}**', ''])
-        for ingredient in recipe[step]:
-            item = IngredientItem(ingredient, args).prepare()
-            lines.append(item.markdown_line())
-            if not args.macros:
-                prep_nutrition = item.prep_nutrition_line()
-                if prep_nutrition:
-                    nutrition.append(prep_nutrition)
+        # Add directions
+        excluded_steps = re.compile(f"({')|('.join(self.docmeta.get('excluded_steps', [])).lower()})", flags=re.IGNORECASE)
+        self.lines.extend(['', subtitle('Directions', self.is_topping), ''])
+        if self.special_prep:
+            self.lines.extend(self.special_prep)
+        if self.special_directions:
+            self.lines.extend(self.special_directions)
+            if any(x in line.lower().split() for line in self.special_directions for x in {'heat', 'cook'}):
+                self.docmeta['tags'].append('Cooked Base')
+        if not self.is_topping:
+            for step, (_name, directions) in enumerate(self.steps.items()):
+                if 'excluded_steps' in self.docmeta:
+                    directions = '\n'.join(line
+                        for line in directions.splitlines()
+                        if not excluded_steps.search(line))
+                if step == self.STEP_PREP:
+                    if self.recipe[self.STEP_PREP] and not any('water' in x['ingredients'].lower() for x in self.recipe[self.STEP_PREP]):
+                        continue
+                elif step == self.STEP_MIX_IN:
+                    if any('chia' in x['ingredients'].lower() for x in self.recipe[self.STEP_DRY]):
+                        self.lines.extend(self.soaking)
+                    self.lines.extend(self.card.freezing)
+                    self.lines.extend(self.card.mix_in)
+                if self.recipe[step]:  # we have ingredients for this step?
+                    for line in [x.strip() for x in directions.strip().splitlines()]:
+                        self.lines.append(f' 1. {line}')
+                if step == self.STEP_WET:
+                    if self.recipe[self.STEP_PREP] and not any('water' in x['ingredients'].lower() for x in self.recipe[self.STEP_PREP]):
+                        self.lines.extend([x for x in self.premix if not excluded_steps.search(x)])
 
-    # Add directions
-    excluded_steps = re.compile(f"({')|('.join(docmeta.get('excluded_steps', [])).lower()})", flags=re.IGNORECASE)
-    lines.extend(['', subtitle('Directions', is_topping), ''])
-    if special_prep:
-        lines.extend(special_prep)
-    if special_directions:
-        lines.extend(special_directions)
-        if any(x in line.lower().split() for line in special_directions for x in {'heat', 'cook'}):
-            docmeta['tags'].append('Cooked Base')
-    if not is_topping:
-        for step, (name, directions) in enumerate(steps.items()):
-            if 'excluded_steps' in docmeta:
-                directions = '\n'.join(line
-                    for line in directions.splitlines()
-                    if not excluded_steps.search(line))
-            #if not directions:
-            #    continue
-            if step == STEP_PREP:
-                if recipe[STEP_PREP] and not any('water' in x['ingredients'].lower() for x in recipe[STEP_PREP]):
-                    continue
-            elif step == STEP_MIX_IN:
-                if any('chia' in x['ingredients'].lower() for x in recipe[STEP_DRY]):
-                    lines.extend(soaking)
-                lines.extend(card.freezing)
-                lines.extend(card.mix_in)
-            if recipe[step]:  # we have ingredients for this step?
-                for line in [x.strip() for x in directions.strip().splitlines()]:
-                    lines.append(f' 1. {line}')
-            if step == STEP_WET:
-                if recipe[STEP_PREP] and not any('water' in x['ingredients'].lower() for x in recipe[STEP_PREP]):
-                    lines.extend([x for x in premix if not excluded_steps.search(x)])
+        # Add nutritional info
+        self.lines.extend(['', subtitle('Nutritional & Other Info', self.is_topping), '' if self.is_topping else None, ''])
+        self.lines.extend(NutrientFacts(self.nutritional_values).build_table())
+        if self.nutrition:
+            self.lines.extend(['', '- ' + '\n- '.join(self.nutrition)])
 
-    # Add nutritional info
-    lines.extend(['', subtitle('Nutritional & Other Info', is_topping), '' if is_topping else None, ''])
-    lines.extend(NutrientFacts(nutritional_values).build_table())
-    if nutrition:
-        lines.extend(['', '- ' + '\n- '.join(nutrition)])
+        # Add default tags
+        self.lines.append('')  # add trailing line end
+        self.lines = [x for x in self.lines if x is not None]
+        md_text = '\n'.join(self.lines)
+        if not self.is_topping:
+            md_text = add_default_tags(md_text, self.docmeta, self.title)
+        return md_text
 
-    # Add default tags
-    lines.append('')  # add trailing line end
-    lines = [x for x in lines if x is not None]
-    md_text = '\n'.join(lines)
-    if not is_topping:
-        md_text = add_default_tags(md_text, docmeta, title)
+    def normalize_markdown(self, md_text):
+        """Apply final markdown normalization and snippet expansion."""
+        snippet_re = '|'.join([re.escape(x) for x in SNIPPETS.keys()])
+        snippet_re = f'<!-- SNIPPET: ({snippet_re}) -->'
+        md_text, _ = re.subn('\n{2,}', '\n\n', md_text)
+        md_text, _ = re.subn(r'(\d) • g', r'\1g', md_text)
+        md_text, _ = re.subn(snippet_re, lambda x: SNIPPETS[x.group(1)].strip(), md_text)
+        doc_start = md_text.find('\n---\n')
+        if not self.args.tags_only:
+            for fragment in self.docmeta.get("remove", []):
+                md_text = md_text[:doc_start] + md_text[doc_start:].replace(fragment, '')
+            for fragment in self.docmeta.get("replace", []):
+                orig, subst = re.split('=>', fragment, 1)
+                md_text = md_text[:doc_start] + md_text[doc_start:].replace(orig, subst)
+        return md_text
 
-    # Create the Markdown file
-    md_file = markdown_file(title, is_topping)
-    md_text = md_text.replace('http://bit.ly/4frc4Vj', '[Ice Cream Stabilizer]'
-        f'({WEBSITE_BASE_URL}'
-        '/I/Ice%20Cream%20Stabilizer%20(ICS)/)')  # take care of Reddit stupidness
-
-    if args.macros:
+    def output_macros(self):
+        """Write nutrition database and print macro table output."""
         def all_ingredients():
             'Helper.'
-            for step in recipe.values():
+            for step in self.recipe.values():
                 yield from step
 
         macro_rows = sorted(
@@ -939,46 +950,57 @@ def main():
         for row in macro_rows:
             if idx and not(idx % 10):
                 print(header)
-            row['href'] = ingredient_link(row['ingredients'], args=args)
+            row['href'] = ingredient_link(row['ingredients'], args=self.args)
             if row.get('id'):
                 row['href'] = f'<span id="id-{row["id"]}">{row["href"]}</span>'
             print('|', ' | '.join(row.get(x, '').replace(' [', '<br />[').replace(r' \[', r'<br />\[') for x in fields), '|')
             idx = idx + 1
-        return
 
-    if args.tags_only:
-        md_text = Path(md_file).read_text(encoding='utf-8').splitlines()
-        if md_text[0] == '---':
-            for idx in range(1, len(md_text)):
-                if md_text[idx] == '---':
-                    del md_text[0:idx+1]
-                    break
-        md_text = '\n'.join(md_text).strip() + '\n'
-        md_text = add_default_tags(md_text, docmeta, title)
-        print(f'Updating tags only: {", ".join(sorted(docmeta["tags"]))}')
+    def run(self):
+        """Render and output markdown based on CLI flags."""
+        if self.args.macros:
+            self.output_macros()
+            return
 
-    snippet_re = '|'.join([re.escape(x) for x in SNIPPETS.keys()])
-    snippet_re = f'<!-- SNIPPET: ({snippet_re}) -->'
-    md_text, _ = re.subn('\n{2,}', '\n\n', md_text)
-    md_text, _ = re.subn(r'(\d) • g', r'\1g', md_text)
-    md_text, _ = re.subn(snippet_re, lambda x: SNIPPETS[x.group(1)].strip(), md_text)
-    doc_start = md_text.find('\n---\n')
-    if not args.tags_only:
-        for fragment in docmeta.get("remove", []):
-            md_text = md_text[:doc_start] + md_text[doc_start:].replace(fragment, '')
-        for fragment in docmeta.get("replace", []):
-            orig, subst = re.split('=>', fragment, 1)
-            md_text = md_text[:doc_start] + md_text[doc_start:].replace(orig, subst)
+        md_text = self.render_markdown()
+        md_file = markdown_file(self.title, self.is_topping)
+        md_text = md_text.replace('http://bit.ly/4frc4Vj', '[Ice Cream Stabilizer]'
+            f'({WEBSITE_BASE_URL}'
+            '/I/Ice%20Cream%20Stabilizer%20(ICS)/)')  # take care of Reddit stupidness
 
-    if args.dry_run:
-        print(md_text, end=None)
-    else:
-        with open(md_file, 'w', encoding='utf-8') as out:
-            out.write(md_text)
+        if self.args.tags_only:
+            md_text = Path(md_file).read_text(encoding='utf-8').splitlines()
+            if md_text[0] == '---':
+                for idx in range(1, len(md_text)):
+                    if md_text[idx] == '---':
+                        del md_text[0:idx+1]
+                        break
+            md_text = '\n'.join(md_text).strip() + '\n'
+            md_text = add_default_tags(md_text, self.docmeta, self.title)
+            print(f'Updating tags only: {", ".join(sorted(self.docmeta["tags"]))}')
 
-        # Open markdown file in VS Code
-        if not args.no_edit:
-            os.system(f'{os.getenv("GUI_EDITOR", "code")} "{md_file}"')
+        md_text = self.normalize_markdown(md_text)
+
+        if self.args.dry_run:
+            print(md_text, end=None)
+        else:
+            with open(md_file, 'w', encoding='utf-8') as out:
+                out.write(md_text)
+
+            # Open markdown file in VS Code
+            if not self.args.no_edit:
+                os.system(f'{os.getenv("GUI_EDITOR", "code")} "{md_file}"')
+
+def main():
+    """Main loop."""
+    args = parse_cli()
+    images = read_images()
+    docmeta = read_meta()
+    parse_info_docs('ingredients', '### ')
+    parse_info_docs('glossary', '## ')
+
+    card = parse_recipe_csv(args.csv_name, args, images)
+    MarkdownRecipe(args, docmeta, card).run()
 
 if __name__ == '__main__':
     main()
