@@ -1,6 +1,5 @@
 #! /usr/bin/env python3
-""" Utility to handle metadata in LibreOffice spreadsheets
-    with ice cream recipes.
+""" Utility to handle ice cream recipes written using LibreOffice spreadsheets.
 
     This script supports these actions:
     * lists sheet names
@@ -131,13 +130,14 @@ class SpreadSheetSupport:
         return mapped_path
 
     @staticmethod
-    def open_sheet_match(match: AttrDict, libreoffice_cmd: list[str], path_mapper_cmd: list[str], open_args: list[str] | None = None, verbose: bool = False) -> None:
+    def open_sheet_match(match: AttrDict, libreoffice_cmd: list[str],
+                         path_mapper_cmd: list[str], open_args: list[str] | None = None, verbose: bool = False) -> None:
         open_path = SpreadSheetSupport.map_open_path(match.path, path_mapper_cmd)
         namespace = {"open_path": open_path, "sheet_name": match.sheet_name}
         formatted_args = [arg.format(**namespace) for arg in (open_args or [])]
         command = [*libreoffice_cmd, *formatted_args, open_path]
         if verbose:
-            print(f"  command: {' '.join(command)}")
+            print(f"⛭ command: {' '.join(command)}")
         popen_kwargs = {
             "stdin": subprocess.DEVNULL,
             "stdout": subprocess.DEVNULL,
@@ -154,7 +154,7 @@ class SpreadSheetSupport:
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
-        description="List contained sheet names for LibreOffice spreadsheet files.",
+        description=__doc__.split('.')[0] + '.',
     )
     parser.add_argument(
         "action",
@@ -208,7 +208,8 @@ def parse_args() -> argparse.Namespace:
         "-c",
         "--config",
         type=Path,
-        help=f"Path to a YAML config file. Default: {get_default_config_path()}",
+        help=f"Path to a YAML config file. Use '-' with --create-config to write to stdout."
+             f" Default: {get_default_config_path()}",
     )
     parser.add_argument(
         "--create-config",
@@ -317,7 +318,8 @@ def main() -> int:
         config_path = args.config.expanduser() if args.config else get_default_config_path()
         if args.create_config:
             create_config_file(config_path)
-            print(f"Created config file at {config_path}")
+            if config_path != Path("-"):
+                print(f"🆕 Created config file at {config_path}")
             return 0
 
         settings = resolve_settings(args)
@@ -326,7 +328,7 @@ def main() -> int:
         return 2
 
     if settings.action not in {"list", "search", "open", "info"}:
-        print(f"Unsupported action: {settings.action}", file=sys.stderr)
+        print(f"⚡ Unsupported action: {settings.action}", file=sys.stderr)
         return 2
 
     if settings.action == "info":
@@ -334,11 +336,11 @@ def main() -> int:
         return 0
 
     if settings.action in {"search", "open"} and not settings.patterns:
-        print(f"Action '{settings.action}' requires at least one glob pattern", file=sys.stderr)
+        print(f"⁉️ Action '{settings.action}' requires at least one glob pattern", file=sys.stderr)
         return 2
 
     if not settings.sheet_directory.is_dir():
-        print(f"Not a directory: {settings.sheet_directory}", file=sys.stderr)
+        print(f"⚡ Not a directory: {settings.sheet_directory}", file=sys.stderr)
         return 2
 
     spreadsheet_files = list(SpreadSheetSupport.iter_spreadsheet_files(
@@ -347,7 +349,7 @@ def main() -> int:
         settings.extensions,
     ))
     if not spreadsheet_files:
-        print(f"No LibreOffice spreadsheet files found in {settings.sheet_directory}", file=sys.stderr)
+        print(f"⚡ No LibreOffice spreadsheet files found in {settings.sheet_directory}", file=sys.stderr)
         return 1
 
     had_errors = False
@@ -381,7 +383,7 @@ def main() -> int:
                 display_path = SpreadSheetSupport.map_open_path(path, settings.path_mapper)
             except (subprocess.CalledProcessError, FileNotFoundError, OSError, ValueError) as exc:
                 had_errors = True
-                print(f"{path}: ERROR: path mapping failed: {exc}", file=sys.stderr)
+                print(f"⚡ {path}: ERROR: path mapping failed: {exc}", file=sys.stderr)
                 continue
         else:
             display_path = SpreadSheetSupport.display_path(path, settings.sheet_directory, settings.abspath)

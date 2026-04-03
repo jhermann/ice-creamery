@@ -3,6 +3,7 @@
 
 from __future__ import annotations
 
+import sys
 import shlex
 from pathlib import Path
 from datetime import datetime
@@ -94,8 +95,15 @@ def load_yaml_config(
 
 
 def create_yaml_config_file(config_path: Path, default_config: dict) -> None:
+    if config_path == Path("-"):
+        sys.stdout.write("# This is a config file for the ice-creamery scripts.\n")
+        sys.stdout.write("# You can customize the settings here or use CLI arguments to override them.\n")
+        sys.stdout.write(f"# Created at {datetime.now().isoformat(timespec='seconds', sep=' ')}.\n\n")
+        yaml.safe_dump(default_config, sys.stdout, sort_keys=False)
+        return
+
     if config_path.exists():
-        raise FileExistsError(f"Config file already exists: {config_path}")
+        raise FileExistsError(f"⛔ Config file already exists: {config_path}")
 
     config_path.parent.mkdir(parents=True, exist_ok=True)
     with config_path.open("w", encoding="utf-8") as handle:
