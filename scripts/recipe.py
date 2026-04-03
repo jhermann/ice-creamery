@@ -211,9 +211,16 @@ def create_config_file(config_path: Path) -> None:
     create_yaml_config_file(config_path, DEFAULT_CONFIG)
 
 
+def normalize_patterns(patterns: list[str]) -> list[str]:
+    cwd_basename = Path.cwd().resolve().name or str(Path.cwd().resolve())
+    return [cwd_basename.replace(' (Deluxe)', '') if pattern == "." else pattern
+            for pattern in patterns]
+
+
 def resolve_settings(args: argparse.Namespace) -> AttrDict:
     config_path = args.config.expanduser() if args.config else get_default_config_path()
     config = load_config(config_path)
+    action = {"s": "search", "o": "open", "i": "info"}.get(args.action, args.action)
 
     sheet_directory = args.directory
     if sheet_directory is None:
@@ -232,13 +239,13 @@ def resolve_settings(args: argparse.Namespace) -> AttrDict:
 
     return AttrDict(
         config_path=config_path,
-        action={"s": "search", "o": "open", "i": "info"}.get(args.action, args.action),
+        action=action,
         sheet_directory=Path(sheet_directory).expanduser(),
         sheet_recursive=sheet_recursive,
         extensions=extensions,
         libreoffice_cmd=config.get("libreoffice_cmd", DEFAULT_CONFIG["libreoffice_cmd"]),
         path_mapper=config.get("path_mapper", DEFAULT_CONFIG["path_mapper"]),
-        patterns=args.args,
+        patterns=normalize_patterns(args.args) if action in {"search", "open"} else args.args,
     )
 
 
