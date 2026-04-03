@@ -22,6 +22,7 @@ DEFAULT_CONFIG = {
     "sheet_recursive": False,
     "extensions": sorted(SUPPORTED_SUFFIXES),
     "libreoffice_cmd": ["libreoffice", "--calc"],
+    "path_mapper": [],
 }
 
 __all__ = [

@@ -114,8 +114,20 @@ class SpreadSheetSupport:
             return path.name
 
     @staticmethod
-    def open_sheet_match(match: AttrDict, libreoffice_cmd: list[str]) -> None:
-        command = [*libreoffice_cmd, str(match.path)]
+    def map_open_path(path: Path, path_mapper_cmd: list[str]) -> str:
+        if not path_mapper_cmd:
+            return str(path)
+
+        mapped_path = subprocess.check_output([*path_mapper_cmd, str(path)], encoding="utf-8")
+        mapped_path = mapped_path.strip()
+        if not mapped_path:
+            raise ValueError("Path mapper returned an empty path")
+        return mapped_path
+
+    @staticmethod
+    def open_sheet_match(match: AttrDict, libreoffice_cmd: list[str], path_mapper_cmd: list[str]) -> None:
+        open_path = SpreadSheetSupport.map_open_path(match.path, path_mapper_cmd)
+        command = [*libreoffice_cmd, open_path]
         popen_kwargs = {
             "stdin": subprocess.DEVNULL,
             "stdout": subprocess.DEVNULL,
@@ -186,6 +198,7 @@ def load_config(config_path: Path) -> dict:
             "sheet_recursive": bool,
             "extensions": lambda value: normalize_extensions(value, SUPPORTED_SUFFIXES),
             "libreoffice_cmd": lambda value: normalize_command(value, DEFAULT_CONFIG["libreoffice_cmd"]),
+            "path_mapper": lambda value: normalize_command(value, DEFAULT_CONFIG["path_mapper"]),
         },
     )
 
@@ -220,6 +233,7 @@ def resolve_settings(args: argparse.Namespace) -> AttrDict:
         sheet_recursive=sheet_recursive,
         extensions=extensions,
         libreoffice_cmd=config.get("libreoffice_cmd", DEFAULT_CONFIG["libreoffice_cmd"]),
+        path_mapper=config.get("path_mapper", DEFAULT_CONFIG["path_mapper"]),
         patterns=args.args,
     )
 
@@ -246,6 +260,7 @@ def print_info(settings: AttrDict) -> None:
 
     libreoffice_found = bool(shutil.which(libreoffice_bin))
     info("LibreOffice Command:", with_exists_marker(" ".join(settings.libreoffice_cmd), libreoffice_found))
+    info("Path Mapper:", " ".join(settings.path_mapper) or "(none)")
 
     info("Sheet Directory:", with_exists_marker(settings.sheet_directory))
     info("Sheet Recursive:", bool_marker(settings.sheet_recursive))
@@ -344,7 +359,11 @@ def main() -> int:
             selected_match = sheet_matches[selected_index]
 
         print(f"Opening {selected_match.display_path} :: {selected_match.sheet_name}")
-        SpreadSheetSupport.open_sheet_match(selected_match, settings.libreoffice_cmd)
+        SpreadSheetSupport.open_sheet_match(
+            selected_match,
+            settings.libreoffice_cmd,
+            settings.path_mapper,
+        )
         return 1 if had_errors else 0
 
     if settings.action == "search" and not had_matches and not had_errors:
