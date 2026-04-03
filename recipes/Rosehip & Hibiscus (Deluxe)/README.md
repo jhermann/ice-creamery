@@ -68,7 +68,7 @@ Spin on “Sorbet”, scrape down, and re-mix.
 
 **Dry**
 
-  - _45g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> (≈1 oz + 1 tbsp + ½ tsp) • *alternative:* 60g allulose or dextrose <a id="id-f44b101" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-f44b101">ℹ️</a>
+  - _45g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> (≈3 tbsp) • *alternative:* 60g allulose or dextrose <a id="id-f44b101" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-f44b101">ℹ️</a>
   - _15g_ [Inulin \[Vit4ever\]](/ice-creamery/info/ingredients/#inulin){target="_blank"}<sup>↗</sup> (≈1 tbsp) • Sweetness = 8%; GI ~= 0 <a id="id-d8bc1db" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-d8bc1db">ℹ️</a>
   - _15g_ [Waxy Maize Starch (E1442) \[Ultratex\]](/ice-creamery/info/ingredients/#waxy-maize-starch-e1442){target="_blank"}<sup>↗</sup> (≈1 tbsp) • dissolves easily; use 1-5% <a id="id-0e5caff" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-0e5caff">ℹ️</a>
   - _1g_ Citric Acid (≈¼ tsp) • 0.5–1g ≈ 15ml lemon juice <a id="id-42c46ba" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-42c46ba">ℹ️</a>
