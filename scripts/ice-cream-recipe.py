@@ -644,13 +644,20 @@ def parse_cli(argv=None):
     return parser.parse_args()
 
 
-def parse_recipe_csv(csv_name, args, images=[]):
-    """Read in an exported recipe spread sheet."""
+@dataclass
+class RecipeDataSheet:
+    """Parse a recipe CSV export into structured card data."""
+    csv_name: Path
+    args: argparse.Namespace
+    images: dict
 
-    def handle_top_row(row):
-        '''Helper for non-ingredient row handling.'''
-        nonlocal images
+    @staticmethod
+    def parse_nutritional_row(row, fields):
+        """Parse one CSV nutrition row into structured values."""
+        return NutrientItem.from_csv_row(row, fields)
 
+    def handle_top_row(self, row, lines, nutrition):
+        """Handle rows outside of ingredient lines."""
         if row[2] and 'MSNF' not in row[0] and 'ℹ️' not in row[0]:
             # structured / complex row, e.g. with formulas
             line = [x.strip() for x in row]
@@ -660,7 +667,7 @@ def parse_recipe_csv(csv_name, args, images=[]):
                 line = ' *', line[1].replace('.00', ''), line[2], line[0]
             lines.append(' '.join(line))
         elif row[1] and row[0].strip():  # row with a value in the 2nd column
-            nutrition.append(f'**{info_link(row[0].strip("ℹ️").strip(), args=args)}:** {row[1].strip()}')
+            nutrition.append(f'**{info_link(row[0].strip("ℹ️").strip(), args=self.args)}:** {row[1].strip()}')
             if any(row[2:]):
                 aux_info = ' • '.join([''] + [x.strip() for x in row[2:] if x.strip()])
                 if aux_info.startswith(' • g • '):
@@ -674,112 +681,110 @@ def parse_recipe_csv(csv_name, args, images=[]):
         elif lines[-1] != '':  # empty row (1st one after some text)
             lines.append('')
 
-    def parse_nutritional_row(row, fields):
-        """Parse one CSV nutrition row into structured values."""
-        return NutrientItem.from_csv_row(row, fields)
+    def parse(self):
+        """Read an exported recipe spread sheet."""
+        recipe = defaultdict(list)
+        lines = []
+        mix_in = []
+        nutrition = []
+        nutritional_values = []
+        special_prep = []
+        special_directions = []
+        freezing = [  # inserted before 'mix-in' step
+            ' 1. For better results, let the base age in the fridge (covered, lid on), for a few hours or over night.'
+            ' This helps flavor development and gum hydration, especially with unheated bases.',
+            ' 1. Freeze for 24h with lid on, then spin as usual. Flatten any humps before that.',
+            ' 1. Process with RE-SPIN mode when not creamy enough after the first spin.',
+        ]
 
-    recipe = defaultdict(list)
-    lines = []
-    mix_in = []
-    nutrition = []
-    nutritional_values = []
-    special_prep = []
-    special_directions = []
-    freezing = [  # inserted before 'mix-in' step
-        ' 1. For better results, let the base age in the fridge (covered, lid on), for a few hours or over night.'
-        ' This helps flavor development and gum hydration, especially with unheated bases.',
-        ' 1. Freeze for 24h with lid on, then spin as usual. Flatten any humps before that.',
-        ' 1. Process with RE-SPIN mode when not creamy enough after the first spin.',
-    ]
+        with open(self.csv_name, 'r', encoding='utf-8') as handle:
+            reader = csv.reader(handle, delimiter=';')
+            row = ''
+            title = next(reader)[0]
+            is_topping = title.endswith('Topping)') or title.endswith('Mix-in)')
+            if is_topping:
+                if 999 in self.images:
+                    # No default image
+                    del self.images[999]
+                if not title.endswith(' (Mix-in)'):
+                    title = title.rsplit('(', 1)[0].strip()
+            lines.extend([f"#{'#' if is_topping else ''} {title}", ''])
+            if 1 in self.images:
+                lines[-1:-1] = [self.images[1]]
+                del self.images[1]
 
-    with open(csv_name, 'r', encoding='utf-8') as handle:
-        reader = csv.reader(handle, delimiter=';')
-        row = ''
-        title = next(reader)[0]
-        is_topping = title.endswith('Topping)') or title.endswith('Mix-in)')
-        if is_topping:
-            if 999 in images:
-                # No default image
-                del images[999]
-            if not title.endswith(' (Mix-in)'):
-                title = title.rsplit('(', 1)[0].strip()
-        lines.extend([f"#{'#' if is_topping else ''} {title}", ''])
-        if 1 in images:
-            lines[-1:-1] = [images[1]]
-            del images[1]
+            # Handle nutrients
+            next(reader)  # skip empty row
+            fields = next(reader)[5:]  # nutrient column headers, followed by 3 lines with 100g/360g/total values
+            while True:
+                row = next(reader)
+                if 'Nutritional' not in row[0]:
+                    break  # end of nutrient / macros info
+                nutritional_values.append(self.parse_nutritional_row(row, fields))
 
-        # Handle nutrients
-        next(reader)  # skip empty row
-        fields = next(reader)[5:]  # nutrient column headers, followed by 3 lines with 100g/360g/total values
-        while True:
-            row = next(reader)
-            if 'Nutritional' not in row[0]:
-                break  # end of nutrient / macros info
-            nutritional_values.append(parse_nutritional_row(row, fields))
+            # Parse up to ingredient list
+            while row[0] != 'Ingredients':  # process comment / text lines, up to the ingredient list
+                img_idx = min(self.images) if self.images else 9999
+                #print('L:', len(lines), 'I:', img_idx); pp(lines[-3:])
+                if self.images and len(lines) >= img_idx:
+                    lines[img_idx:img_idx] = [self.images[img_idx], '']
+                    del self.images[img_idx]
 
-        # Parse up to ingredient list
-        while row[0] != 'Ingredients':  # process comment / text lines, up to the ingredient list
-            img_idx = min(images) if images else 9999
-            #print('L:', len(lines), 'I:', img_idx); pp(lines[-3:])
-            if images and len(lines) >= img_idx:
-                lines[img_idx:img_idx] = [images[img_idx], '']
-                del images[img_idx]
-
-            row = next(reader)
-            #print('!', row)
-            if row[0] == 'Ingredients':
-                break  # pass header line to ingredients processing
-            elif row[0].lstrip().startswith('1. '):
-                if 'prep' in row[0]:
-                    special_prep.append(' ' + row[0].strip())
-                elif 'Before freezing' in row[0]:
-                    freezing[0:0] = [' ' + row[0].strip()]
-                elif ' a mix-in' in row[0] or ' the mix-in' in row[0]:
-                    mix_in[0:0] = [' ' + row[0].strip()]
+                row = next(reader)
+                #print('!', row)
+                if row[0] == 'Ingredients':
+                    break  # pass header line to ingredients processing
+                elif row[0].lstrip().startswith('1. '):
+                    if 'prep' in row[0]:
+                        special_prep.append(' ' + row[0].strip())
+                    elif 'Before freezing' in row[0]:
+                        freezing[0:0] = [' ' + row[0].strip()]
+                    elif ' a mix-in' in row[0] or ' the mix-in' in row[0]:
+                        mix_in[0:0] = [' ' + row[0].strip()]
+                    else:
+                        special_directions.append(' ' + row[0].strip())
                 else:
-                    special_directions.append(' ' + row[0].strip())
-            else:
-                handle_top_row(row)
+                    self.handle_top_row(row, lines, nutrition)
 
-        if images:
-            lines.extend([''] + list(images.values()))
-            images = {}
+            if self.images:
+                lines.extend([''] + list(self.images.values()))
+                self.images = {}
 
-        fields = [x.lower().replace('#', 'step') for x in row]
-        #print(fields)
+            fields = [x.lower().replace('#', 'step') for x in row]
+            #print(fields)
 
-        # Read ingredients
-        for row in reader:
-            data = dict(zip(fields, row))
-            if MILK_HINT[0] in data['ingredients'] and not data['comment']:
-                data['comment'] = MILK_HINT[1]
-            if not data['step']:
-                handle_top_row(row)
-            elif data['ingredients'] and data.get('counts?', 1) != '0':
-                if data['amount'].endswith('.00'):
-                    data['amount'] = data['amount'][:-3]
-                if args.macros or data['amount'] and data['amount'] != '0':
-                    step = int(data['step'])
-                    recipe[step].append(data)
+            # Read ingredients
+            for row in reader:
+                data = dict(zip(fields, row))
+                if MILK_HINT[0] in data['ingredients'] and not data['comment']:
+                    data['comment'] = MILK_HINT[1]
+                if not data['step']:
+                    self.handle_top_row(row, lines, nutrition)
+                elif data['ingredients'] and data.get('counts?', 1) != '0':
+                    if data['amount'].endswith('.00'):
+                        data['amount'] = data['amount'][:-3]
+                    if self.args.macros or data['amount'] and data['amount'] != '0':
+                        step = int(data['step'])
+                        recipe[step].append(data)
 
-        # End of CSV processing
+            # End of CSV processing
 
-    for idx, line in enumerate(lines):
-        if line.startswith('!!! '):  # no smarty quotes in superfences
-            lines[idx] = lines[idx].replace('“', '"').replace('”', '"')
+        for idx, line in enumerate(lines):
+            if line.startswith('!!! '):  # no smarty quotes in superfences
+                lines[idx] = lines[idx].replace('“', '"').replace('”', '"')
 
-    return AttrDict(dict(
-        recipe=recipe,
-        lines=lines,
-        nutrition=nutrition,
-        nutritional_values=nutritional_values,
-        special_prep=special_prep,
-        special_directions=special_directions,
-        mix_in=mix_in,
-        freezing=freezing,
-        is_topping=is_topping,
-        title=title,
-    ))
+        return AttrDict(dict(
+            recipe=recipe,
+            lines=lines,
+            nutrition=nutrition,
+            nutritional_values=nutritional_values,
+            special_prep=special_prep,
+            special_directions=special_directions,
+            mix_in=mix_in,
+            freezing=freezing,
+            is_topping=is_topping,
+            title=title,
+        ))
 
 
 @dataclass
@@ -999,7 +1004,7 @@ def main():
     parse_info_docs('ingredients', '### ')
     parse_info_docs('glossary', '## ')
 
-    card = parse_recipe_csv(args.csv_name, args, images)
+    card = RecipeDataSheet(args.csv_name, args, images).parse()
     MarkdownRecipe(args, docmeta, card).run()
 
 if __name__ == '__main__':
