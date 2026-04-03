@@ -107,6 +107,27 @@ These ratios are keeping the PAC / POD value as close as possible to the origina
 
 Where the replacing weight differs, the usual "fill to MAX line" will take care of that.
 
+### DIY Glucose Syrup (Substitute)
+
+Many recipes out there treat glucose syrup as a staple item you can just grab off the shelf,
+similar to light corn syrup. Most professional recipes use a 42 DE syrup, which is roughly
+75% solids and 25% water; you can easily reconstitute it using dextrose (glucose powder).
+
+* 80g Dextrose (≈0.4 cups) • also known as glucose powder
+* 20g Water (≈1.3 tbsp) • note the dextrose also has residual water, between **7.5% and 9.5%** by weight
+
+🔥 *Energy:* 280 kcal
+
+**Directions**
+
+1. **Heat up**: Put the dextrose and water into a small saucepan. Heat it over low-medium heat while whisking until the powder is gone and the liquid looks clear.
+2. **Cool down**: Let your new syrup cool down to room temperature. It's best to keep this in a squeeze bottle so you can easily weigh it for your next recipe.
+
+**The "By the Book" Substitutes**
+
+-   **Corn Syrup:** Light corn syrup (like *Karo*) is the most common direct substitute for glucose syrup in a home setting because it has a similar sugar profile and water content.
+-   **Rice Malt Syrup:** Depending on where you are, this might be easier to source.
+
 ## Folding in Swirls
 If you have soft swirls that are not frozen (and aren't supposed to freeze), you cannot use the mix-in mode.
 
