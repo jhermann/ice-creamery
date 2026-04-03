@@ -311,6 +311,7 @@ class ImperialUnitTransform:
     CUP_ML = 236.588
     FL_OZ_ML = 29.5735
     TBSP_ML = 14.7868
+    PLAIN_TBSP_EPS_ML = 1.0
     TSP_ML = 4.92892
     OZ_G = 28.3495
 
@@ -344,6 +345,14 @@ class ImperialUnitTransform:
 
         if metric <= 0:
             return ''
+
+        # Prefer plain tablespoons for small kitchen-rounded amounts.
+        tbsp_total = metric / cls.TBSP_ML
+        tbsp_rounded = round(tbsp_total)
+        rounded_tbsp_metric = tbsp_rounded * cls.TBSP_ML
+        if (1 - cls.PLAIN_TBSP_EPS_ML + 1 < tbsp_total < 5 + cls.PLAIN_TBSP_EPS_ML
+                and abs(metric - rounded_tbsp_metric) <= cls.PLAIN_TBSP_EPS_ML):
+            return f"{tbsp_rounded} tbsp"
 
         total_metric = metric
 
