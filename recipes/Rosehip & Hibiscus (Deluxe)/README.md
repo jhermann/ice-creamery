@@ -21,6 +21,7 @@ tags:
 - Polysaccharide Gum
 - Scoopable
 - Stevia
+- Sucralose
 - Xylitol
 ---
 # Rosehip & Hibiscus (Deluxe)
@@ -73,10 +74,12 @@ Spin on “Sorbet”, scrape down, and re-mix.
   - _15g_ [Waxy Maize Starch (E1442) \[Ultratex\]](/ice-creamery/info/ingredients/#waxy-maize-starch-e1442){target="_blank"}<sup>↗</sup> (≈1 tbsp) • dissolves easily; use 1-5% <a id="id-0e5caff" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-0e5caff">ℹ️</a>
   - _1g_ Citric Acid (≈¼ tsp) • 0.5–1g ≈ 15ml lemon juice <a id="id-42c46ba" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-42c46ba">ℹ️</a>
   - _1g_ [Xanthan gum (E415, XG)](/ice-creamery/info/ingredients/#xanthan-gum-xg-e415){target="_blank"}<sup>↗</sup> (≈¼ tsp) • 1tsp ≈ 2.8g <a id="id-5236903" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-5236903">ℹ️</a>
+  - _2g_ Beet Root Powder (organic) [Mandoi] (≈½ tsp) • *optional*, for color <a id="id-72d8998" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-72d8998">ℹ️</a>
 
 **Adjust sweetness**
 
-  - _≈1 drops_ Flavor drops “Natural” (stevia) [Nick’s] • to taste • unflavored <a id="id-b4e0320" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-b4e0320">ℹ️</a>
+  - _≈6 drops_ Flavor drops “Natural” (stevia) [Nick’s] • to taste • unflavored <a id="id-b4e0320" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-b4e0320">ℹ️</a>
+  - _≈6 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste <a id="id-7c57f43" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-7c57f43">ℹ️</a>
 
 # DIRECTIONS
 
@@ -94,15 +97,15 @@ Spin on “Sorbet”, scrape down, and re-mix.
 
 | 🥗 Value | 100g | Serving | Total |
 | :--- | ---: | ---: | ---: |
-| ⚖️ Weight (g) | 100 | 340 | 681 |
-| 🔥 Energy (kcal) | 60.2 | 204.7 | 410.1 |
+| ⚖️ Weight (g) | 100 | 340 | 683 |
+| 🔥 Energy (kcal) | 61.1 | 207.6 | 417.0 |
 | 🫒 Fat (g) | 1.4 | 4.6 | 9.2 |
-| 🍞 Carbohydrates (g) | 14.4 | 48.9 | 98.0 |
-| 🍬 Sugars (g) | 0.2 | 0.7 | 1.3 |
-| 💪 Protein (g) | 2.6 | 8.7 | 17.4 |
+| 🍞 Carbohydrates (g) | 14.6 | 49.5 | 99.4 |
+| 🍬 Sugars (g) | 0.3 | 1.1 | 2.3 |
+| 💪 Protein (g) | 2.6 | 8.8 | 17.7 |
 | 🧂 Salt (g) | 0.1 | 0.3 | 0.6 |
 
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 31.22
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 16.96% • LOW-FAT • Low-Sugar • Low-Salt
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 31.13
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 16.95% • LOW-FAT • Low-Sugar • Low-Salt
 - **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 23.0g • 3.4%
-- **Net carbs:** 31.1g • *∝ 5 servings@136g:* 6.2g • *∝ 3 servings@227g:* 10.4g • *energy ratio (low <20%):* 30.4%
+- **Net carbs:** 32.5g • *∝ 5 servings@137g:* 6.5g • *∝ 3 servings@228g:* 10.8g • *energy ratio (low <20%):* 31.2%
