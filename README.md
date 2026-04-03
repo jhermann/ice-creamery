@@ -226,6 +226,12 @@ scripts/recipe.py o .
 
 # show resolved settings
 scripts/recipe.py info -d recipes
+
+# create a default configuration (won't overwrite an existing one)
+scripts/recipe.py --create-config
+
+# dump the default configuration to stdout
+scripts/recipe.py --create-config -c -
 ```
 
 Configuration:
