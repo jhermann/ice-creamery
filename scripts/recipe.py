@@ -12,6 +12,7 @@ from __future__ import annotations
 
 # isorted imports
 import re
+import os
 import sys
 import fnmatch
 import argparse
@@ -114,7 +115,19 @@ class SpreadSheetSupport:
 
     @staticmethod
     def open_sheet_match(match: AttrDict, libreoffice_cmd: list[str]) -> None:
-        subprocess.Popen([*libreoffice_cmd, str(match.path)])
+        command = [*libreoffice_cmd, str(match.path)]
+        popen_kwargs = {
+            "stdin": subprocess.DEVNULL,
+            "stdout": subprocess.DEVNULL,
+            "stderr": subprocess.DEVNULL,
+        }
+
+        if os.name == "nt":
+            popen_kwargs["creationflags"] = subprocess.DETACHED_PROCESS | subprocess.CREATE_NEW_PROCESS_GROUP
+        else:
+            popen_kwargs["start_new_session"] = True
+
+        subprocess.Popen(command, **popen_kwargs)
 
 
 def parse_args() -> argparse.Namespace:
