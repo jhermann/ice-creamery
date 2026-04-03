@@ -236,6 +236,32 @@ Configuration:
 
 By default, only `.ods` files are scanned. Use `-e ods fods` to include `.fods` files.
 
+**How to set up opening to a selected sheet directly?**
+
+As described, this works for *Windows/WSL*, using *Libre Office* on the Windows side.
+
+1. **Create `OpenToSheet` macro**: In LibreOffice, go to *"Tools > Macros > Organize Macros > Basic...*". Click on the "*My Macros > New*" button, then add...
+
+    ```
+    Sub OpenToSheet(sSheetName As String)
+      Dim oSheet As Object
+      oSheet = ThisComponent.Sheets.getByName(sSheetName)
+      ThisComponent.CurrentController.setActiveSheet(oSheet)
+    End Sub
+    ```
+
+2. **Adapt configuration**: Add this to your `ice-creamery/config.yml`...
+
+    ```
+    libreoffice_cmd: "'/mnt/c/Program Files/LibreOffice/program/soffice.exe'"
+    path_mapper: "wslpath -w"
+    open_args:
+    - "--calc"
+    - "{open_path}"
+    - "macro:///Standard.Module1.OpenToSheet(\"{sheet_name}\")"
+    ```
+
+With calling `recipe o .`, you now should be able to directly open the related sheet when you are in a recipe directory.
 
 ## Resources
 

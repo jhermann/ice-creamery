@@ -131,9 +131,13 @@ class SpreadSheetSupport:
         return mapped_path
 
     @staticmethod
-    def open_sheet_match(match: AttrDict, libreoffice_cmd: list[str], path_mapper_cmd: list[str]) -> None:
+    def open_sheet_match(match: AttrDict, libreoffice_cmd: list[str], path_mapper_cmd: list[str], open_args: list[str] | None = None, verbose: bool = False) -> None:
         open_path = SpreadSheetSupport.map_open_path(match.path, path_mapper_cmd)
-        command = [*libreoffice_cmd, open_path]
+        namespace = {"open_path": open_path, "sheet_name": match.sheet_name}
+        formatted_args = [arg.format(**namespace) for arg in (open_args or [])]
+        command = [*libreoffice_cmd, *formatted_args, open_path]
+        if verbose:
+            print(f"  command: {' '.join(command)}")
         popen_kwargs = {
             "stdin": subprocess.DEVNULL,
             "stdout": subprocess.DEVNULL,
@@ -195,6 +199,12 @@ def parse_args() -> argparse.Namespace:
         help="Display spreadsheet file paths mapped through the configured path_mapper command.",
     )
     parser.add_argument(
+        "-v",
+        "--verbose",
+        action="store_true",
+        help="Enable verbose output.",
+    )
+    parser.add_argument(
         "-c",
         "--config",
         type=Path,
@@ -217,6 +227,7 @@ def load_config(config_path: Path) -> dict:
             "extensions": lambda value: normalize_extensions(value, SUPPORTED_SUFFIXES),
             "libreoffice_cmd": lambda value: normalize_command(value, DEFAULT_CONFIG["libreoffice_cmd"]),
             "path_mapper": lambda value: normalize_command(value, DEFAULT_CONFIG["path_mapper"]),
+            "open_args": lambda value: normalize_command(value, DEFAULT_CONFIG["open_args"]),
         },
     )
 
@@ -259,8 +270,10 @@ def resolve_settings(args: argparse.Namespace) -> AttrDict:
         extensions=extensions,
         libreoffice_cmd=config.get("libreoffice_cmd", DEFAULT_CONFIG["libreoffice_cmd"]),
         path_mapper=config.get("path_mapper", DEFAULT_CONFIG["path_mapper"]),
+        open_args=config.get("open_args", DEFAULT_CONFIG["open_args"]),
         abspath=args.abspath,
         mapped=args.mapped,
+        verbose=args.verbose,
         patterns=normalize_patterns(args.args) if action in {"search", "open"} else args.args,
     )
 
@@ -420,6 +433,8 @@ def main() -> int:
             selected_match,
             settings.libreoffice_cmd,
             settings.path_mapper,
+            settings.open_args,
+            settings.verbose,
         )
         return 1 if had_errors else 0
 
