@@ -17,6 +17,8 @@
 - [How to get a live version of a recipe?](#how-to-get-a-live-version-of-a-recipe)
 - [Tips \& Tricks](#tips--tricks)
 - [Setting up mkdocs](#setting-up-mkdocs)
+- [Tools](#tools)
+  - [`scripts/recipe.py`](#scriptsrecipepy)
 - [Resources](#resources)
 
 
@@ -185,6 +187,54 @@ MKDOCS_EXPORTER_PDF=true mkdocs build
 ```
 
 More plugins are available from the [catalog](https://github.com/mkdocs/catalog).
+
+
+## Tools
+
+### `scripts/recipe.py`
+
+Use this helper to scan LibreOffice spreadsheet files and work with recipe sheet names.
+
+It supports these actions:
+
+* `list` (default): list all sheet names in all spreadsheet files.
+* `search` / `s`: list only sheets matching one or more patterns (glob or `/regex/`).
+* `open` / `o`: interactively choose and open a matching sheet in LibreOffice.
+* `info` / `i`: print resolved configuration and environment details.
+
+Pattern matching works as substring glob by default (`*pattern*`, case-insensitive).
+If a pattern starts with `/`, it is treated as a regular expression.
+If you pass `.` to `search` or `open`, it is replaced by the current working directory basename.
+
+*Examples:*
+
+```sh
+# list sheets in current directory
+scripts/recipe.py -d .
+
+# search recursively across recipe folders
+scripts/recipe.py search peach -d recipes -r
+
+# regex search (case-insensitive)
+scripts/recipe.py s '/^banana/' -d recipes -r
+
+# open matching sheets in LibreOffice (selection menu if multiple)
+scripts/recipe.py open cheesecake -d recipes -r
+
+# open the recipe sheet of the recipe folder you're currently in
+scripts/recipe.py o .
+
+# show resolved settings
+scripts/recipe.py info -d recipes
+```
+
+Configuration:
+
+* Create a default config file: `scripts/recipe.py --create-config`
+* Use a specific config file: `scripts/recipe.py -c /path/to/config.yml ...`
+* Main config keys: `sheet_directory`, `sheet_recursive`, `extensions`, `libreoffice_cmd`, `path_mapper`
+
+By default, only `.ods` files are scanned. Use `-e ods fods` to include `.fods` files.
 
 
 ## Resources
