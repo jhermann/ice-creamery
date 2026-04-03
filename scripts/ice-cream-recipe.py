@@ -3,7 +3,7 @@
     Python script that spits out Markdown based on a Libreoffice spreadsheet
     (CSV export of a recipe sheet).
 
-    Copyright (c) 2024 Jürgen Hermann
+    Copyright (c) 2024–2026 Jürgen Hermann
 
     Permission is hereby granted, free of charge, to any person obtaining a copy
     of this software and associated documentation files (the "Software"), to deal
@@ -30,12 +30,12 @@ import sys
 import difflib
 import argparse
 import subprocess
-from dataclasses import dataclass
 
 from pprint import pp  # pylint: disable=unused-import
 from pathlib import Path
 from operator import itemgetter
 from collections import defaultdict
+from dataclasses import dataclass
 
 import yaml
 from attrdict import AttrDict
@@ -47,7 +47,6 @@ WEBSITE_BASE_URL = 'https://jhermann.github.io/ice-creamery'
 
 TAG_LIGHT_KCAL_LIMIT = 75.0
 TAG_SCOOPABLE_PAC_LIMIT = 30.0
-IMPERIAL_TSP_OMIT_PERCENT = 0.03
 PREPPED_NAME = {
     'ICSv2': 'Ice Cream Stabilizer (ICS)',
 }
@@ -301,95 +300,102 @@ def nutrition_link(ingredient_id):
     )
 
 
-def format_fractional_tsp(value):
-    """Format fractional teaspoon values in factional steps."""
-    whole = int(value)
-    frac = round((value - whole) * 8) / 8
-    glyph = {
+class ImperialUnitTransform:
+    """Transform metric ingredient amounts into compact US kitchen units."""
+
+    TSP_GLYPHS = {
         0.125: '⅛', 0.25: '¼', 0.375: '⅜', 0.5: '½',
         0.625: '⅝', 0.75: '¾', 0.875: '⅞',
-    }.get(frac)
+    }
+    TSP_OMIT_PERCENT = 0.03
+    CUP_ML = 236.588
+    FL_OZ_ML = 29.5735
+    TBSP_ML = 14.7868
+    TSP_ML = 4.92892
+    OZ_G = 28.3495
 
-    if whole and glyph:
-        return f'{whole} {glyph}'
-    if whole:
-        return str(whole)
-    return glyph or '0'
+    @classmethod
+    def format_fractional_tsp(cls, value):
+        """Format fractional teaspoon values in factional steps."""
+        whole = int(value)
+        frac = round((value - whole) * 8) / 8
+        glyph = cls.TSP_GLYPHS.get(frac)
 
+        if whole and glyph:
+            return f'{whole} {glyph}'
+        if whole:
+            return str(whole)
+        return glyph or '0'
 
-def us_imperial_volume_combo(amount, unit):
-    """ Convert metric amounts into a compact US kitchen combination.
+    @classmethod
+    def volume_combo(cls, amount, unit):
+        """Convert metric amounts into a compact US kitchen combination.
 
         For grams, assumes a rough 1g ~= 1ml density as a kitchen estimate.
-    """
-    unit = unit.strip().lower()
-    if unit not in {'g', 'ml', 'fl oz', 'floz'}:
-        return ''
+        """
+        unit = unit.strip().lower()
+        if unit not in {'g', 'ml', 'fl oz', 'floz'}:
+            return ''
 
-    try:
-        metric = float(amount)
-    except (TypeError, ValueError):
-        return ''
+        try:
+            metric = float(amount)
+        except (TypeError, ValueError):
+            return ''
 
-    if metric <= 0:
-        return ''
+        if metric <= 0:
+            return ''
 
-    cup_ml = 236.588
-    fl_oz_ml = 29.5735
-    oz_g = 28.3495
-    tbsp_ml = 14.7868
-    tsp_ml = 4.92892
-    total_metric = metric
+        total_metric = metric
 
-    remaining = metric
-    cups = int(remaining // cup_ml)
-    remaining -= cups * cup_ml
+        remaining = metric
+        cups = int(remaining // cls.CUP_ML)
+        remaining -= cups * cls.CUP_ML
 
-    ounces = 0
-    fluid_ounces = 0
-    if unit == 'g':
-        ounces = int(remaining // oz_g)
-        remaining -= ounces * oz_g
-    elif unit == 'ml':
-        fluid_ounces = int(remaining // fl_oz_ml)
-        remaining -= fluid_ounces * fl_oz_ml
+        ounces = 0
+        fluid_ounces = 0
+        if unit == 'g':
+            ounces = int(remaining // cls.OZ_G)
+            remaining -= ounces * cls.OZ_G
+        elif unit == 'ml':
+            fluid_ounces = int(remaining // cls.FL_OZ_ML)
+            remaining -= fluid_ounces * cls.FL_OZ_ML
 
-    tbsp = int(remaining // tbsp_ml)
-    remaining -= tbsp * tbsp_ml
-    tsp = round((remaining / tsp_ml) * 4) / 4
+        tbsp = int(remaining // cls.TBSP_ML)
+        remaining -= tbsp * cls.TBSP_ML
+        tsp = round((remaining / cls.TSP_ML) * 4) / 4
 
-    # Normalize carry-over after rounding.
-    if tsp >= 3:
-        tbsp += int(tsp // 3)
-        tsp = round((tsp % 3) * 4) / 4
-    if unit == 'ml':
-        if tbsp >= 2:
-            fluid_ounces += int(tbsp // 2)
-            tbsp = int(tbsp % 2)
-        if fluid_ounces >= 8:
-            cups += int(fluid_ounces // 8)
-            fluid_ounces = int(fluid_ounces % 8)
+        # Normalize carry-over after rounding.
+        if tsp >= 3:
+            tbsp += int(tsp // 3)
+            tsp = round((tsp % 3) * 4) / 4
+        if unit == 'ml':
+            if tbsp >= 2:
+                fluid_ounces += int(tbsp // 2)
+                tbsp = int(tbsp % 2)
+            if fluid_ounces >= 8:
+                cups += int(fluid_ounces // 8)
+                fluid_ounces = int(fluid_ounces % 8)
 
-    # If the tsp percentage is small, omit it for simplicity.
-    has_larger_parts = bool(cups or ounces or fluid_ounces or tbsp)
-    if tsp and has_larger_parts and (tsp * tsp_ml / total_metric) < IMPERIAL_TSP_OMIT_PERCENT:
-        tsp = 0
+        # If the tsp percentage is small, omit it for simplicity.
+        has_larger_parts = bool(cups or ounces or fluid_ounces or tbsp)
+        if tsp and has_larger_parts and (tsp * cls.TSP_ML / total_metric) < cls.TSP_OMIT_PERCENT:
+            tsp = 0
 
-    parts = []
-    if cups:
-        parts.append(f"{cups} cup{'s' if cups != 1 else ''}")
-    if ounces:
-        parts.append(f"{ounces} oz")
-    if fluid_ounces:
-        parts.append(f"{fluid_ounces} fl oz")
-    if tbsp:
-        parts.append(f"{tbsp} tbsp")
-    if tsp:
-        parts.append(f"{format_fractional_tsp(tsp)} tsp")
-    if not parts:
-        parts.append('⅛ tsp')
+        parts = []
+        if cups:
+            parts.append(f"{cups} cup{'s' if cups != 1 else ''}")
+        if ounces:
+            parts.append(f"{ounces} oz")
+        if fluid_ounces:
+            parts.append(f"{fluid_ounces} fl oz")
+        if tbsp:
+            parts.append(f"{tbsp} tbsp")
+        if tsp:
+            parts.append(f"{cls.format_fractional_tsp(tsp)} tsp")
+        if not parts:
+            parts.append('⅛ tsp')
 
-    return ' + '.join(parts)
+        return ' + '.join(parts)
 
 
 @dataclass
@@ -403,7 +409,7 @@ class IngredientItem:
         self.data['spacer'] = '' if self.data['unit'] in {'g', 'ml', ''} else ' '
         self.data['amount'] = self.data['amount'].replace('.50', '.5')
         self.data['href'] = ingredient_link(self.data['ingredients'], args=self.args)
-        self.data['imperial'] = us_imperial_volume_combo(self.data['amount'], self.data['unit'])
+        self.data['imperial'] = ImperialUnitTransform.volume_combo(self.data['amount'], self.data['unit'])
         self.data['nutrition_link'] = nutrition_link(self.data.get('id'))
         return self
 
