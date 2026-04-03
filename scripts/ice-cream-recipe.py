@@ -30,6 +30,7 @@ import sys
 import difflib
 import argparse
 import subprocess
+from dataclasses import dataclass
 
 from pprint import pp  # pylint: disable=unused-import
 from pathlib import Path
@@ -390,6 +391,173 @@ def us_imperial_volume_combo(amount, unit):
 
     return ' + '.join(parts)
 
+
+@dataclass
+class IngredientItem:
+    """Handle normalization and rendering of one ingredient row."""
+    data: dict
+    args: argparse.Namespace
+
+    def prepare(self):
+        """Normalize data fields and derive links/units for output."""
+        self.data['spacer'] = '' if self.data['unit'] in {'g', 'ml', ''} else ' '
+        self.data['amount'] = self.data['amount'].replace('.50', '.5')
+        self.data['href'] = ingredient_link(self.data['ingredients'], args=self.args)
+        self.data['imperial'] = us_imperial_volume_combo(self.data['amount'], self.data['unit'])
+        self.data['nutrition_link'] = nutrition_link(self.data.get('id'))
+        return self
+
+    def markdown_line(self):
+        """Render one list line for the ingredient."""
+        line = '  - _{amount}{spacer}{unit}_ {href}'.format(**self.data)
+        if self.data['imperial']:
+            line += f" (≈{self.data['imperial']})"
+        if self.data['comment']:
+            line += f" • {self.data['comment']}"
+        return line + self.data['nutrition_link']
+
+    def prep_nutrition_line(self):
+        """Return nutrition expansion text for known pre-mixes."""
+        for key in ('ICSv2', 'Salty Stability'):
+            if key in self.data['ingredients']:
+                scale = float(self.data['amount']) / sum(PREPPED[key].values())
+                nutrient = ' • '.join([
+                    f"{round(v * scale, 2 if v * scale < 1 else 1)}g {k}"
+                    for k, v in PREPPED[key].items()
+                ])
+                return f"**{self.data['amount']}g '{key}' is:** {nutrient}."
+        return ''
+
+
+@dataclass
+class NutrientItem:
+    """Handle one nutritional CSV row and normalized nutrient access."""
+    label: str
+    weight: str
+    weight_unit: str
+    kcal: str
+    nutrients: dict
+
+    @classmethod
+    def from_csv_row(cls, row, fields):
+        """Parse one CSV nutrition row into structured values."""
+        nutrients = {}
+        for key, value in zip(fields, row[5:]):
+            key = key.strip()
+            value = value.strip()
+            if key and value:
+                nutrients[key] = value
+        return cls(
+            label=row[0].strip(),
+            weight=row[1].strip(),
+            weight_unit=row[2].strip(),
+            kcal=row[4].strip(),
+            nutrients=nutrients,
+        )
+
+    def has_label_fragment(self, text):
+        """Case-insensitive label matching helper."""
+        return text.lower() in self.label.lower()
+
+    def weight_as_number_text(self):
+        """Return weight text without a trailing unit token."""
+        return re.sub(r'\s*[a-zA-Z]+\s*$', '', self.weight).strip() or self.weight
+
+    def normalized_nutrients(self, normalizer):
+        """Return nutrient map with canonical nutrient keys."""
+        return {
+            normalizer(key): value
+            for key, value in self.nutrients.items()
+            if normalizer(key)
+        }
+
+
+@dataclass
+class NutrientFacts:
+    """Build a nutritional facts markdown table from a list of NutrientItem rows."""
+    nutritional_values: list
+
+    @staticmethod
+    def normalize_name(name):
+        """Canonicalize nutrient header names from CSV."""
+        lowered = re.sub(r'[^a-z0-9]+', '', name.lower())
+        aliases = {
+            'fat': 'fat',
+            'totalfat': 'fat',
+            'saturatedfat': 'saturated_fat',
+            'satfat': 'saturated_fat',
+            'saturates': 'saturated_fat',
+            'carbs': 'carbohydrates',
+            'carbohydrates': 'carbohydrates',
+            'totalcarbohydrates': 'carbohydrates',
+            'sugar': 'sugars',
+            'sugars': 'sugars',
+            'fiber': 'dietary_fiber',
+            'fibre': 'dietary_fiber',
+            'dietaryfiber': 'dietary_fiber',
+            'protein': 'protein',
+            'salt': 'salt',
+        }
+        return aliases.get(lowered)
+
+    def build_table(self):
+        """Build markdown table for 100g, per tub/serving, and total values."""
+        if not self.nutritional_values:
+            return []
+
+        def pick_100g_row():
+            for item in self.nutritional_values:
+                if item.has_label_fragment('100g') or item.weight.strip().startswith('100'):
+                    return item
+            return self.nutritional_values[0]
+
+        def pick_total_row():
+            for item in self.nutritional_values:
+                if item.has_label_fragment('total'):
+                    return item
+            return self.nutritional_values[-1]
+
+        def pick_per_serving_row(per_100g, total):
+            for item in self.nutritional_values:
+                if item is not per_100g and item is not total:
+                    return item
+            return None
+
+        def as_value(value):
+            return value if value else '—'
+
+        def has_any_value(*values):
+            return any((v or '').strip() not in {'', '—'} for v in values)
+
+        per_100g = pick_100g_row()
+        total = pick_total_row()
+        per_serving = pick_per_serving_row(per_100g, total)
+
+        values_100g = per_100g.normalized_nutrients(self.normalize_name)
+        values_per_serving = per_serving.normalized_nutrients(self.normalize_name) if per_serving else {}
+        values_total = total.normalized_nutrients(self.normalize_name)
+
+        rows = [
+            ('⚖️ Weight (g)', per_100g.weight_as_number_text(), per_serving.weight_as_number_text() if per_serving else '—', total.weight_as_number_text()),
+            ('🔥 Energy (kcal)', per_100g.kcal or '—', per_serving.kcal if per_serving and per_serving.kcal else '—', total.kcal or '—'),
+            ('🫒 Fat (g)', as_value(values_100g.get('fat')), as_value(values_per_serving.get('fat')), as_value(values_total.get('fat'))),
+            ('🧈 Saturated Fat (g)', as_value(values_100g.get('saturated_fat')), as_value(values_per_serving.get('saturated_fat')), as_value(values_total.get('saturated_fat'))),
+            ('🍞 Carbohydrates (g)', as_value(values_100g.get('carbohydrates')), as_value(values_per_serving.get('carbohydrates')), as_value(values_total.get('carbohydrates'))),
+            ('🍬 Sugars (g)', as_value(values_100g.get('sugars')), as_value(values_per_serving.get('sugars')), as_value(values_total.get('sugars'))),
+            ('💨 Dietary Fiber (g)', as_value(values_100g.get('dietary_fiber')), as_value(values_per_serving.get('dietary_fiber')), as_value(values_total.get('dietary_fiber'))),
+            ('💪 Protein (g)', as_value(values_100g.get('protein')), as_value(values_per_serving.get('protein')), as_value(values_total.get('protein'))),
+            ('🧂 Salt (g)', as_value(values_100g.get('salt')), as_value(values_per_serving.get('salt')), as_value(values_total.get('salt'))),
+        ]
+        rows = [row for row in rows if has_any_value(row[1], row[2], row[3])]
+
+        table = [
+            '| 🥗 Value | 100g | Serving | Total |',
+            '| :--- | ---: | ---: | ---: |',
+        ]
+        table.extend([f'| {label} | {v100} | {vtub} | {vtotal} |' for label, v100, vtub, vtotal in rows])
+        return table
+
+
 def subtitle(text, is_topping=False):
     """Create markdown for a recipe subtitle."""
     # TODO: add a `--format=reddit|generic` option
@@ -508,19 +676,7 @@ def parse_recipe_csv(csv_name, args, images=[]):
 
     def parse_nutritional_row(row, fields):
         """Parse one CSV nutrition row into structured values."""
-        entry = {
-            'label': row[0].strip(),
-            'weight': row[1].strip(),
-            'weight_unit': row[2].strip(),
-            'kcal': row[4].strip(),
-            'nutrients': {},
-        }
-        for key, value in zip(fields, row[5:]):
-            key = key.strip()
-            value = value.strip()
-            if key and value:
-                entry['nutrients'][key] = value
-        return entry
+        return NutrientItem.from_csv_row(row, fields)
 
     recipe = defaultdict(list)
     lines = []
@@ -627,88 +783,6 @@ def parse_recipe_csv(csv_name, args, images=[]):
 
 def main():
     """Main loop."""
-    def normalize_nutrient_name(name):
-        """Canonicalize nutrient header names from CSV."""
-        lowered = re.sub(r'[^a-z0-9]+', '', name.lower())
-        aliases = {
-            'fat': 'fat',
-            'totalfat': 'fat',
-            'saturatedfat': 'saturated_fat',
-            'satfat': 'saturated_fat',
-            'saturates': 'saturated_fat',
-            'carbs': 'carbohydrates',
-            'carbohydrates': 'carbohydrates',
-            'totalcarbohydrates': 'carbohydrates',
-            'sugar': 'sugars',
-            'sugars': 'sugars',
-            'fiber': 'dietary_fiber',
-            'fibre': 'dietary_fiber',
-            'dietaryfiber': 'dietary_fiber',
-            'protein': 'protein',
-            'salt': 'salt',
-        }
-        return aliases.get(lowered)
-
-    def build_nutrition_table(nutritional_values):
-        """Build markdown table for 100g, per tub/serving, and total values."""
-        if not nutritional_values:
-            return []
-
-        def pick_100g_row():
-            for item in nutritional_values:
-                if '100g' in item['label'].lower() or item['weight'].strip().startswith('100'):
-                    return item
-            return nutritional_values[0]
-
-        def pick_total_row():
-            for item in nutritional_values:
-                if 'total' in item['label'].lower():
-                    return item
-            return nutritional_values[-1]
-
-        def pick_per_serving_row(per_100g, total):
-            for item in nutritional_values:
-                if item is not per_100g and item is not total:
-                    return item
-            return None
-
-        def as_weight(value):
-            return re.sub(r'\s*[a-zA-Z]+\s*$', '', value).strip() or value
-
-        def as_value(value):
-            return value if value else '—'
-
-        def has_any_value(*values):
-            return any((v or '').strip() not in {'', '—'} for v in values)
-
-        per_100g = pick_100g_row()
-        total = pick_total_row()
-        per_serving = pick_per_serving_row(per_100g, total)
-
-        values_100g = {normalize_nutrient_name(k): v for k, v in per_100g['nutrients'].items()}
-        values_per_serving = {normalize_nutrient_name(k): v for k, v in per_serving['nutrients'].items()} if per_serving else {}
-        values_total = {normalize_nutrient_name(k): v for k, v in total['nutrients'].items()}
-
-        rows = [
-            ('⚖️ Weight (g)', as_weight(per_100g['weight']), as_weight(per_serving['weight']) if per_serving else '—', as_weight(total['weight'])),
-            ('🔥 Energy (kcal)', per_100g['kcal'] or '—', per_serving['kcal'] if per_serving and per_serving['kcal'] else '—', total['kcal'] or '—'),
-            ('🫒 Fat (g)', as_value(values_100g.get('fat')), as_value(values_per_serving.get('fat')), as_value(values_total.get('fat'))),
-            ('🧈 Saturated Fat (g)', as_value(values_100g.get('saturated_fat')), as_value(values_per_serving.get('saturated_fat')), as_value(values_total.get('saturated_fat'))),
-            ('🍞 Carbohydrates (g)', as_value(values_100g.get('carbohydrates')), as_value(values_per_serving.get('carbohydrates')), as_value(values_total.get('carbohydrates'))),
-            ('🍬 Sugars (g)', as_value(values_100g.get('sugars')), as_value(values_per_serving.get('sugars')), as_value(values_total.get('sugars'))),
-            ('💨 Dietary Fiber (g)', as_value(values_100g.get('dietary_fiber')), as_value(values_per_serving.get('dietary_fiber')), as_value(values_total.get('dietary_fiber'))),
-            ('💪 Protein (g)', as_value(values_100g.get('protein')), as_value(values_per_serving.get('protein')), as_value(values_total.get('protein'))),
-            ('🧂 Salt (g)', as_value(values_100g.get('salt')), as_value(values_per_serving.get('salt')), as_value(values_total.get('salt'))),
-        ]
-        rows = [row for row in rows if has_any_value(row[1], row[2], row[3])]
-
-        table = [
-            '| 🥗 Value | 100g | Serving | Total |',
-            '| :--- | ---: | ---: | ---: |',
-        ]
-        table.extend([f'| {label} | {v100} | {vtub} | {vtotal} |' for label, v100, vtub, vtotal in rows])
-        return table
-
     args = parse_cli()
     #pp(args)
     steps = {  # These correlate to the "#" column in the sheet's ingredient list, with prep ~ 0 and mix-in ~ 4
@@ -774,25 +848,12 @@ def main():
             continue
         lines.extend([''] if is_topping else ['', f'**{name}**', ''])
         for ingredient in recipe[step]:
-            ingredient['spacer'] = '' if ingredient['unit'] in {'g', 'ml', ''} else ' '
-            ingredient['amount'] = ingredient['amount'].replace(".50", ".5")
-            ingredient['href'] = ingredient_link(ingredient['ingredients'], args=args)
-            ingredient['imperial'] = us_imperial_volume_combo(ingredient['amount'], ingredient['unit'])
-            ingredient['nutrition_link'] = nutrition_link(ingredient.get('id'))
-            lines.append('  - _{amount}{spacer}{unit}_ {href}'.format(**ingredient))
-            if ingredient['imperial']:
-                lines[-1] += f" (≈{ingredient['imperial']})"
-            if ingredient['comment']:
-                lines[-1] += f" • {ingredient['comment']}"
-            lines[-1] += ingredient['nutrition_link']
+            item = IngredientItem(ingredient, args).prepare()
+            lines.append(item.markdown_line())
             if not args.macros:
-                for key in ('ICSv2', 'Salty Stability'):
-                    if key in ingredient['ingredients']:
-                        scale = float(ingredient['amount']) / sum(PREPPED[key].values())
-                        nutrient = ' • '.join([f"{round(v * scale, 2 if v * scale < 1 else 1)}g {k}"
-                                               for k, v in PREPPED[key].items()])
-                        nutrition.append(f"**{ingredient['amount']}g '{key}' is:** {nutrient}.")
-                        break
+                prep_nutrition = item.prep_nutrition_line()
+                if prep_nutrition:
+                    nutrition.append(prep_nutrition)
 
     # Add directions
     excluded_steps = re.compile(f"({')|('.join(docmeta.get('excluded_steps', [])).lower()})", flags=re.IGNORECASE)
@@ -828,7 +889,7 @@ def main():
 
     # Add nutritional info
     lines.extend(['', subtitle('Nutritional & Other Info', is_topping), '' if is_topping else None, ''])
-    lines.extend(build_nutrition_table(nutritional_values))
+    lines.extend(NutrientFacts(nutritional_values).build_table())
     if nutrition:
         lines.extend(['', '- ' + '\n- '.join(nutrition)])
 
