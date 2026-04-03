@@ -803,7 +803,7 @@ class RecipeDataSheet:
 
 
 @dataclass
-class MarkdownRecipe:
+class MarkdownRecipeFormatter:
     """Build and write recipe markdown from parsed card data."""
     args: argparse.Namespace
     docmeta: dict
@@ -1020,7 +1020,7 @@ def main():
     parse_info_docs('glossary', '## ')
 
     card = RecipeDataSheet(args.csv_name, args, images).parse()
-    MarkdownRecipe(args, docmeta, card).run()
+    MarkdownRecipeFormatter(args, docmeta, card).run()
 
 if __name__ == '__main__':
     main()
