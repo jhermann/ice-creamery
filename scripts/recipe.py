@@ -107,7 +107,9 @@ class SpreadSheetSupport:
         ]
 
     @staticmethod
-    def display_path(path: Path, sheet_directory: Path) -> Path | str:
+    def display_path(path: Path, sheet_directory: Path, abspath: bool = False) -> Path | str:
+        if abspath:
+            return path.resolve()
         try:
             return path.relative_to(sheet_directory)
         except ValueError:
@@ -181,6 +183,18 @@ def parse_args() -> argparse.Namespace:
         help="File extensions to include, for example: ods fods.",
     )
     parser.add_argument(
+        "-a",
+        "--abspath",
+        action="store_true",
+        help="Display spreadsheet file paths as absolute paths.",
+    )
+    parser.add_argument(
+        "-m",
+        "--mapped",
+        action="store_true",
+        help="Display spreadsheet file paths mapped through the configured path_mapper command.",
+    )
+    parser.add_argument(
         "-c",
         "--config",
         type=Path,
@@ -245,6 +259,8 @@ def resolve_settings(args: argparse.Namespace) -> AttrDict:
         extensions=extensions,
         libreoffice_cmd=config.get("libreoffice_cmd", DEFAULT_CONFIG["libreoffice_cmd"]),
         path_mapper=config.get("path_mapper", DEFAULT_CONFIG["path_mapper"]),
+        abspath=args.abspath,
+        mapped=args.mapped,
         patterns=normalize_patterns(args.args) if action in {"search", "open"} else args.args,
     )
 
@@ -347,7 +363,15 @@ def main() -> int:
                 continue
             had_matches = True
 
-        display_path = SpreadSheetSupport.display_path(path, settings.sheet_directory)
+        if settings.mapped:
+            try:
+                display_path = SpreadSheetSupport.map_open_path(path, settings.path_mapper)
+            except (subprocess.CalledProcessError, FileNotFoundError, OSError, ValueError) as exc:
+                had_errors = True
+                print(f"{path}: ERROR: path mapping failed: {exc}", file=sys.stderr)
+                continue
+        else:
+            display_path = SpreadSheetSupport.display_path(path, settings.sheet_directory, settings.abspath)
 
         if settings.action == "open":
             for position, sheet_name in indexed_sheet_names:
