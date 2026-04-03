@@ -300,7 +300,11 @@ def print_info(settings: AttrDict) -> None:
     info("Config Path:", with_exists_marker(settings.config_path))
 
     libreoffice_found = bool(shutil.which(libreoffice_bin))
-    info("LibreOffice Command:", with_exists_marker(" ".join(settings.libreoffice_cmd), libreoffice_found))
+    libreoffice_call = (
+        settings.libreoffice_cmd + ('\\\n     ' + ' ' * label_width,)
+        + settings.open_args)
+    info("LibreOffice Command:",
+         with_exists_marker(" ".join(libreoffice_call), libreoffice_found))
     info("Path Mapper:", " ".join(settings.path_mapper) or "(none)")
 
     info("Sheet Directory:", with_exists_marker(settings.sheet_directory))
