@@ -1,5 +1,4 @@
-""" Shared helpers for small CLI scripts in this repository.
-"""
+"""Shared helpers for small CLI scripts in this repository."""
 
 from __future__ import annotations
 
@@ -24,7 +23,7 @@ DEFAULT_CONFIG = {
     "extensions": sorted(SUPPORTED_SUFFIXES),
     "libreoffice_cmd": ["libreoffice"],
     "path_mapper": [],
-    "open_args": ['--calc', '{open_path}'],
+    "open_args": ["--calc", "{open_path}"],
 }
 
 __all__ = [
@@ -35,6 +34,7 @@ __all__ = [
     "load_yaml_config",
     "create_yaml_config_file",
 ]
+
 
 def get_default_config_path(config_name: str = DEFAULT_CONFIG_NAME) -> Path:
     return Path(user_config_dir(APP_NAME, APP_AUTHOR)) / config_name
