@@ -1,3 +1,6 @@
+---
+applyTo: "**/*.py"
+---
 # Pytest Testing Standards
 
 Whenever generating or refactoring Python code,
