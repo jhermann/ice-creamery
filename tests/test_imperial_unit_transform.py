@@ -65,7 +65,12 @@ ESSENTIAL_CASES = [
 
 def test_readme_extraction_contains_essential_cases():
     """Ensure each essential case comes from real generated README content."""
+    # Arrange
+
+    # Act
     readme_cases = extract_readme_cases()
+
+    # Assert
     missing = [
         f'{amount}{unit} -> {expected}'
         for amount, unit, expected in ESSENTIAL_CASES
@@ -77,7 +82,13 @@ def test_readme_extraction_contains_essential_cases():
 @pytest.mark.parametrize('amount, unit, expected', ESSENTIAL_CASES)
 def test_volume_combo_for_essential_cases(transform, amount, unit, expected):
     """Verify a reduced matrix that covers all major output patterns."""
-    assert transform.volume_combo(amount, unit) == expected
+    # Arrange
+
+    # Act
+    actual = transform.volume_combo(amount, unit)
+
+    # Assert
+    assert actual == expected
 
 
 @pytest.mark.parametrize(
@@ -91,4 +102,10 @@ def test_volume_combo_for_essential_cases(transform, amount, unit, expected):
 )
 def test_volume_combo_guard_rails(transform, amount, unit):
     """Unsupported unit, bad number, and non-positive values return empty."""
-    assert transform.volume_combo(amount, unit) == ''
+    # Arrange
+
+    # Act
+    actual = transform.volume_combo(amount, unit)
+
+    # Assert
+    assert actual == ''
