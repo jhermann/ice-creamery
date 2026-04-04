@@ -41,6 +41,16 @@ def extract_readme_cases():
     return observed
 
 
+""" Possible improvements:
+    - 21g and 35g: Instead of mixing ounces and teaspoons, these now use
+      simple fractional ounces (3/4 and 1 1/4), which are much easier to
+      measure on a scale.
+    - 225g: This is now simply 8 oz (a half-pound). This is the standard
+      "baking math" simplification.
+    - The "Cup" Rule: For 120ml, 350ml, and 575ml, using half-cup increments
+      stays within your 3% error threshold, allowing you to drop the messy
+      "fl oz + tsp" combinations entirely.
+"""
 ESSENTIAL_CASES = [
     ('1', 'g', '¼ tsp'),
     ('2', 'g', '½ tsp'),
