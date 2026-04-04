@@ -33,7 +33,7 @@ import importlib.util as imp_util
 from pprint import pp  # pylint: disable=unused-import
 from pathlib import Path
 
-def load_module(file_name, module_name=''):
+def load_module(file_name, module_name=""):
     """Load a script file as a module."""
     module_name = module_name or Path(file_name).stem.replace('-', '_')
     spec = imp_util.spec_from_file_location(module_name, file_name)
@@ -128,8 +128,9 @@ INGREDIENTS_ITEM = """{{
     "portionSize": 100
 }}"""
 
+
 def parse_cli(argv=None):
-    """"""
+    """Parse command-line arguments."""
     argv = argv or sys.argv
     parser = argparse.ArgumentParser(
         prog='icc-tool',
@@ -148,8 +149,10 @@ def parse_cli(argv=None):
 
     return parser.parse_args()
 
+
 def write_recipe(args):
     """Write a recipe JSON file."""
+
     def all_ingredients():
         for step in card.recipe.values():
             yield from step
@@ -161,9 +164,9 @@ def write_recipe(args):
 
     items = []
     for ingredient in all_ingredients():
-        if not int(ingredient.get('counts?') or '0'):
+        if not int(ingredient.get("counts?") or "0"):
             continue
-        if not ingredient.get('unit') in {'g', 'ml'}:
+        if ingredient.get("unit") not in {"g", "ml"}:
             continue
 
         item = RECIPE_ITEM.format(
@@ -176,10 +179,11 @@ def write_recipe(args):
         items.append(item)
 
     data = RECIPE_BODY.format(
-        title=card.lines[0].lstrip('#').strip(),
-        items=',\n    '.join(items),
+        title=card.lines[0].lstrip("#").strip(),
+        items=",\n    ".join(items),
     )
     print(data)
+
 
 def main():
     """Main loop."""
@@ -192,7 +196,8 @@ def main():
     if args.as_recipe:
         write_recipe(args)
     else:
-        recipe_lib.abort('Unknown or unimplemented target format!')
+        recipe_lib.abort("Unknown or unimplemented target format!")
 
-if __name__ == '__main__':
+
+if __name__ == "__main__":
     main()
