@@ -2,18 +2,20 @@
 """
 
 from pathlib import Path
-import xml.etree.ElementTree as ET
 
 
 ROOT = Path(__file__).resolve().parents[1]
 FODS_PATH = ROOT / 'recipes' / 'Ice-Cream-Recipes.fods'
-TABLE_NAMESPACE = {'table': 'urn:oasis:names:tc:opendocument:xmlns:table:1.0'}
 
 
-def test_template_workbook_has_only_one_named_sheet():
+def load_spreadsheet_support_class(load_script_module):
+    """Load the script module and return SpreadSheetSupport."""
+    module = load_script_module('recipe.py', 'recipe')
+    return module.SpreadSheetSupport
+
+
+def test_template_workbook_has_only_one_named_sheet(load_script_module):
     """The workbook must contain exactly one sheet: Template (Deluxe)."""
-    root = ET.parse(FODS_PATH).getroot()
-    tables = root.findall('.//table:table', TABLE_NAMESPACE)
-    table_names = [table.attrib.get(f"{{{TABLE_NAMESPACE['table']}}}name") for table in tables]
-
+    spread_sheet_support = load_spreadsheet_support_class(load_script_module)
+    table_names = spread_sheet_support.list_sheet_names(FODS_PATH)
     assert table_names == ['Template']

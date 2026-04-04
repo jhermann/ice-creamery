@@ -2,7 +2,6 @@
 """
 
 import re
-import importlib.util
 
 from pathlib import Path
 
@@ -10,17 +9,14 @@ import pytest
 
 
 ROOT = Path(__file__).resolve().parents[1]
-SCRIPT_PATH = ROOT / 'scripts' / 'ice-cream-recipe.py'
 README_PATH = ROOT / 'recipes'
 README_CASE_RX = re.compile(r'-\s+_([0-9]+(?:\.[0-9]+)?)([a-zA-Z ]*)_.*?\(≈([^\)]+)\)')
 
 
-def load_transform_class():
-    """Load the script module and return ImperialUnitTransform."""
-    spec = importlib.util.spec_from_file_location('ice_cream_recipe', SCRIPT_PATH)
-    module = importlib.util.module_from_spec(spec)
-    assert spec and spec.loader
-    spec.loader.exec_module(module)
+@pytest.fixture(scope='module')
+def transform(load_script_module):
+    """Provide loaded ImperialUnitTransform class."""
+    module = load_script_module('ice-cream-recipe.py', 'ice_cream_recipe')
     return module.ImperialUnitTransform
 
 
@@ -65,12 +61,6 @@ ESSENTIAL_CASES = [
     ('350', 'ml', '1 cup + 3 fl oz + 1 tbsp'),
     ('575', 'ml', '2 cups + 3 fl oz'),
 ]
-
-
-@pytest.fixture(scope='module')
-def transform():
-    """Provide loaded ImperialUnitTransform class."""
-    return load_transform_class()
 
 
 def test_readme_extraction_contains_essential_cases():
