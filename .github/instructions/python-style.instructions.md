@@ -10,8 +10,8 @@ Generate code that is deterministic, minimizes vertical whitespace, and prioriti
 ## 1. Line Length & Wrapping
 * **Max Line Length:** Limit lines to **110 characters**.
 * **Wrapping Style:** Use **implied line continuation** inside parentheses, brackets, and braces rather than backslashes (`\`).
-* **Trailing Commas:** Use trailing commas in multi-line collections (lists, dicts, function calls) to ensure the closing bracket sits on its own line. Include a trailing comma even for single-item collections to maintain consistency, and use one on the last item.
-* **Function Signatures:** Function signatures should be kept on a single line, but if they exceed the line length limit, first try to break the return value annotation into an indented 2nd line, if that fails, break after the opening parenthesis and align subsequent lines with the first parameter.
+* **Trailing Commas:** Use trailing commas in multi-line collections (lists, dicts, function calls) including the last item, and ensure the closing bracket sits on its own line.
+* **Function Signatures:** Function signatures should be kept on a single line, but if they exceed the line length limit, first try to break the return value annotation into an indented 2nd line, if that fails, break after the opening parenthesis, indent the first parameter as usual, and align subsequent lines with that first parameter.
 
 ## 2. Indentation & Spacing
 * **Indentation:** Strictly use **4 spaces** per indentation level. Never use tabs.
