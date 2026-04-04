@@ -6,6 +6,11 @@ attrdict3
 pick
 pyyaml
 
+# development utilities
+pytest
+pytest-cov
+pytest-mock
+
 # mkdocs plugins
 mkdocs-material[imaging]
 mkdocs-exporter
