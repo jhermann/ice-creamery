@@ -308,12 +308,12 @@ class ImperialUnitTransform:
         0.625: '⅝', 0.75: '¾', 0.875: '⅞',
     }
     TSP_OMIT_PERCENT = 0.03
-    CUP_ML = 236.588
+    CUP_ML = 236.59
     FL_OZ_ML = 29.5735
-    TBSP_ML = 14.7868
+    TSP_ML = 4.93
+    TBSP_ML = 3 * TSP_ML
     PLAIN_TBSP_EPS_ML = 1.0
-    TSP_ML = 4.92892
-    OZ_G = 28.3495
+    OZ_G = 28.35
 
     @classmethod
     def format_fractional_tsp(cls, value):
