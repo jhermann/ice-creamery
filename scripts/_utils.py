@@ -37,10 +37,12 @@ __all__ = [
 
 
 def get_default_config_path(config_name: str = DEFAULT_CONFIG_NAME) -> Path:
+    """Return the default config path in the user config directory."""
     return Path(user_config_dir(APP_NAME, APP_AUTHOR)) / config_name
 
 
 def normalize_extensions(values: list[str] | None, defaults: set[str]) -> set[str]:
+    """Normalize file extension values and fall back to defaults when empty."""
     if not values:
         return set(defaults)
 
@@ -56,6 +58,7 @@ def normalize_extensions(values: list[str] | None, defaults: set[str]) -> set[st
 
 
 def normalize_command(value: str | list[str], default: list[str] | None = None) -> list[str]:
+    """Normalize command input into a list of non-empty string tokens."""
     if isinstance(value, str):
         command = shlex.split(value)
     elif isinstance(value, list):
@@ -73,6 +76,7 @@ def load_yaml_config(
     *,
     normalize: dict[str, Callable] | None = None,
 ) -> dict:
+    """Load YAML config and optionally normalize selected keys."""
     if not config_path.exists():
         return {}
 
@@ -95,6 +99,7 @@ def load_yaml_config(
 
 
 def create_yaml_config_file(config_path: Path, default_config: dict) -> None:
+    """Create a YAML config file or write it to stdout for '-' paths."""
     if config_path == Path("-"):
         sys.stdout.write("# This is a config file for the ice-creamery scripts.\n")
         sys.stdout.write("# You can customize the settings here or use CLI arguments to override them.\n")
