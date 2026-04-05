@@ -60,7 +60,7 @@ Add it as ` <sup>Nutri Indicator)</sup>` to the list item.
 If the user asks to format for Reddit, use ` *...*` (emphasis) instead of ` <sup>...</sup>`.
 
 NEVER EVER use the database name in place of the ingredient name
-as originally given to you. Keep what you were provided with as imgredients,
+as originally given to you. Keep what you were provided with as ingredients,
 the indicators just described make clear where data is taken from.
 
 In an extra list the end of the ingredient section,
@@ -102,7 +102,7 @@ Use this for the table header:
 | :--- | ---: | ---: |
 ```
 
-Stick to the usual order of values: ⚖️ Total Weight (g),
+Stick to the usual order of values: ⚖️ Weight (g),
 🔥 Energy (kcal), 🫒 Fat (g), 🧈 Saturated Fat (g), 🍞 Carbohydrates (g),
 🍬 Sugars (g), 💨 Dietary Fiber (g), 💪 Protein (g), 🧂 Salt (g).
 
