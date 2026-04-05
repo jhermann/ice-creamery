@@ -1,23 +1,25 @@
 # python3 -mpip install -r./requirements.txt
 
+pip-upgrader
+
 # script utilities
-appdirs
-attrdict3
-pick
-pyyaml
+appdirs~=1.4.4
+attrdict3~=2.0.2
+pick~=2.4.0
+pyyaml~=5.4.1
 
 # development utilities
-pytest
-pytest-cov
-pytest-mock
+pytest~=8.4.2
+pytest-cov~=6.2.1
+pytest-mock~=3.14.1
 
 # mkdocs plugins
-mkdocs-material[imaging]
-mkdocs-exporter
-mkdocs-git-revision-date-localized-plugin
+mkdocs-material[imaging]~=9.6.23
+mkdocs-exporter~=6.2.0
+mkdocs-git-revision-date-localized-plugin~=1.4.7
 #mkdocs-document-dates
-mkdocs-link-embeds-plugin
-mkdocs-toggle-sidebar-plugin
-mkdocs-print-site-plugin
-mkdocs-macros-plugin
-mkdocs-exclude
+mkdocs-link-embeds-plugin~=0.2.0
+mkdocs-toggle-sidebar-plugin~=0.0.9
+mkdocs-print-site-plugin~=2.7.3
+mkdocs-macros-plugin~=1.3.9
+mkdocs-exclude~=1.0.2
