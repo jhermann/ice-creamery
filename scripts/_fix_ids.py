@@ -6,7 +6,9 @@ from __future__ import annotations
 import io
 import csv
 import sys
+import shutil
 import argparse
+import subprocess
 from pathlib import Path
 from tempfile import NamedTemporaryFile
 
@@ -98,13 +100,16 @@ def load_catalog_ids(path: Path, ingredient_column: str, id_column: str) -> dict
     return mapping
 
 
-def update_csv(path: Path, ingredient_column: str, id_column: str, catalog_ids: dict[str, str]) -> tuple[int, int, int]:
-    """Update a CSV in place and return (rows, filled_ids, missing_matches)."""
+def update_csv(path: Path, ingredient_column: str, id_column: str,
+               catalog_ids: dict[str, str]) -> tuple[int, int, int, list[str], int]:
+    """Update a CSV in place and return (rows, filled_ids, missing_matches, id_values, empty_ids)."""
     newline = detect_newline(path)
     dialect = sniff_dialect(path)
     row_count = 0
     filled_count = 0
     missing_matches = 0
+    id_values: list[str] = []
+    empty_ids = 0
 
     with path.open("r", encoding="utf-8", newline="") as src:
         lines = src.readlines()
@@ -167,11 +172,66 @@ def update_csv(path: Path, ingredient_column: str, id_column: str, catalog_ids: 
             elif not current_id and ingredient_name:
                 missing_matches += 1
 
+            value_to_copy = row[id_index].strip() if len(row) > id_index else ""
+            if not value_to_copy:
+                value_to_copy = " "
+                empty_ids += 1
+            id_values.append(value_to_copy)
+
             writer.writerow(row)
             row_count += 1
 
+    while id_values and id_values[-1] == " ":
+        id_values.pop()
+        if empty_ids > 0:
+            empty_ids -= 1
+
     tmp_path.replace(path)
-    return row_count, filled_count, missing_matches
+    return row_count, filled_count, missing_matches, id_values, empty_ids
+
+
+def copy_ids_to_clipboard(id_values: list[str], empty_ids: int) -> None:
+    """Copy ID column values to X11 clipboard using xsel over stdin."""
+    if not id_values:
+        return
+
+    xsel_path = shutil.which("xsel")
+    if not xsel_path:
+        print("install xsel to get new IDs copied into the clipboard")
+        return
+
+    try:
+        # Quick preflight call to detect a stalled xsel process before attempting clipboard write.
+        subprocess.run(
+            [xsel_path, "-bo"],
+            check=False,
+            stdout=subprocess.DEVNULL,
+            stderr=subprocess.DEVNULL,
+            timeout=2,
+        )
+    except subprocess.TimeoutExpired:
+        print("xsel appears stalled; kill any existing xsel processes and try again")
+        return
+    except OSError as exc:
+        print(f"install xsel to get new IDs into the clipboard: {exc}")
+        return
+
+    payload = "\n".join(["ID", *id_values]) + "\n"
+    try:
+        subprocess.run(
+            [xsel_path, "-bi"],
+            input=payload,
+            text=True,
+            check=True,
+            stdout=subprocess.DEVNULL,
+            stderr=subprocess.DEVNULL,
+            timeout=5,
+        )
+    except (subprocess.CalledProcessError, subprocess.TimeoutExpired, OSError) as exc:
+        print(f"something went wrong while copying IDs to the clipboard: {exc}")
+        return
+
+    print(f"ℹ️ Copied {len(id_values)} IDs to clipboard (header: ID, {empty_ids} empty IDs)")
 
 
 def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
@@ -218,15 +278,16 @@ def main(argv: list[str] | None = None) -> int:
         ingredient_column=args.catalog_ingredient_column,
         id_column=args.id_column,
     )
-    rows, filled, missing = update_csv(
+    rows, filled, missing, id_values, empty_ids = update_csv(
         path=csv_path,
         ingredient_column=args.ingredient_column,
         id_column=args.id_column,
         catalog_ids=catalog_ids,
     )
+    copy_ids_to_clipboard(id_values, empty_ids)
     print(
         f"Processed {rows} rows in {csv_path}; filled {filled} IDs; "
-        f"left {missing} unmatched ingredient rows"
+        f"left {missing} unmatched ingredient rows; {empty_ids} empty IDs"
     )
     return 0
 
