@@ -3,13 +3,12 @@
 
 from __future__ import annotations
 
-import argparse
-import csv
 import io
-
+import csv
+import sys
+import argparse
 from pathlib import Path
 from tempfile import NamedTemporaryFile
-
 
 CATALOG_PATH = Path(__file__).resolve().with_name("Ice-Cream-Recipes.csv")
 RECIPE_HEADER_PREFIX = "Ingredients;Amount;"
@@ -175,7 +174,7 @@ def update_csv(path: Path, ingredient_column: str, id_column: str, catalog_ids: 
     return row_count, filled_count, missing_matches
 
 
-def parse_args() -> argparse.Namespace:
+def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
     """Parse CLI arguments."""
     parser = argparse.ArgumentParser(
         description="Add or fill missing ingredient IDs from the canonical catalog CSV.",
@@ -201,12 +200,12 @@ def parse_args() -> argparse.Namespace:
         default="ID",
         help="Target ID column name (default: ID).",
     )
-    return parser.parse_args()
+    return parser.parse_args(argv)
 
 
-def main() -> int:
+def main(argv: list[str] | None = None) -> int:
     """CLI entrypoint."""
-    args = parse_args()
+    args = parse_args(argv)
     csv_path = Path(args.csv_file).resolve()
     if not csv_path.exists():
         raise FileNotFoundError(f"CSV not found: {csv_path}")
@@ -233,4 +232,4 @@ def main() -> int:
 
 
 if __name__ == "__main__":
-    raise SystemExit(main())
+    raise SystemExit(main(sys.argv[1:]))
