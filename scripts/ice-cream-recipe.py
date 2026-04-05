@@ -27,6 +27,7 @@ import os
 import re
 import csv
 import sys
+import shlex
 import difflib
 import argparse
 import subprocess
@@ -1009,7 +1010,10 @@ class MarkdownRecipeFormatter:
 
             # Open markdown file in VS Code
             if not self.args.no_edit:
-                os.system(f'{os.getenv("GUI_EDITOR", "code")} "{md_file}"')
+                editor_cmd = shlex.split(os.getenv("GUI_EDITOR", "code"))
+                if not editor_cmd:
+                    editor_cmd = ["code"]
+                subprocess.run([*editor_cmd, md_file], check=False)
 
 def main():
     """Main loop."""
