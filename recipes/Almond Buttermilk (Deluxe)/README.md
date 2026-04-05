@@ -82,36 +82,36 @@ Combine everything in a bowl to a smooth paste, and add as a mix-in.
 
 **Prep**
 
-  - _150ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
-  - _40g_ [Almond butter (creamy) \[Seba Garden\]](/ice-creamery/info/ingredients/#almond-milk-butter){target="_blank"}<sup>↗</sup>
-  - _15g_ [Skim milk powder 1:10 (SMP) \[Vita2You\]](/ice-creamery/info/ingredients/#skim-milk-powder-smp){target="_blank"}<sup>↗</sup>
-  - _2g_ [Glycerol Monostearate (E471) \[Bulk\]](/ice-creamery/info/ingredients/#glycerol-monostearate-gms-e471){target="_blank"}<sup>↗</sup>
+  - _150ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup> (≈5 fl oz) • *alternative*: any other preferred milk (~2% fat) <a id="id-2755284" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-2755284">ℹ️</a>
+  - _40g_ [Almond butter (creamy) \[Seba Garden\]](/ice-creamery/info/ingredients/#almond-milk-butter){target="_blank"}<sup>↗</sup> (≈1 oz + 2 ¼ tsp) <a id="id-2d02333" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-2d02333">ℹ️</a>
+  - _15g_ [Skim milk powder 1:10 (SMP) \[Vita2You\]](/ice-creamery/info/ingredients/#skim-milk-powder-smp){target="_blank"}<sup>↗</sup> (≈1 tbsp)
+  - _2g_ [Glycerol Monostearate (E471) \[Bulk\]](/ice-creamery/info/ingredients/#glycerol-monostearate-gms-e471){target="_blank"}<sup>↗</sup> (≈½ tsp) <a id="id-6f651e2" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-6f651e2">ℹ️</a>
 
 **Wet**
 
-  - _350ml_ Buttermilk 1% [REWE]
-  - _10g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • Sweetness = 60%; GI = 5; Density = 1.26 g/ml
-  - _25ml_ [Amaretto 28 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup>
+  - _350ml_ Buttermilk 1% [REWE] (≈1 cup + 3 fl oz + 1 tbsp) <a id="id-6724d7f" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-6724d7f">ℹ️</a>
+  - _10g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> (≈2 tsp) • Sweetness = 60%; GI = 5; Density = 1.26 g/ml <a id="id-8717e6d" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-8717e6d">ℹ️</a>
+  - _25ml_ [Amaretto 28 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup> (≈1 tbsp + 2 tsp) <a id="id-89a4ed4" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-89a4ed4">ℹ️</a>
 
 **Dry**
 
-  - _40g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • POD ≈ 90%; GI < 7
-  - _15g_ [Salty Stability \[Inulin / GMS / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup> • unsweetened “ICSv2”
+  - _40g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> (≈1 oz + 2 ¼ tsp) • POD ≈ 90%; GI < 7 <a id="id-f44b101" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-f44b101">ℹ️</a>
+  - _15g_ [Salty Stability \[Inulin / GMS / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup> (≈1 tbsp) • unsweetened “ICSv2” <a id="id-3d1ecef" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-3d1ecef">ℹ️</a>
 
 **Fill to MAX**
 
-  - _73ml_ Buttermilk 1% [REWE]
-  - _≈10 drops_ Flavor drops Cookies&Cream (stevia) [Nick’s] • to taste
+  - _73ml_ Buttermilk 1% [REWE] (≈5 tbsp) <a id="id-6724d7f" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-6724d7f">ℹ️</a>
+  - _≈10 drops_ Flavor drops Cookies&Cream (stevia) [Nick’s] • to taste <a id="id-8fe5ede" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-8fe5ede">ℹ️</a>
 
 **Mix-ins**
 
-  - _25g_ Dark chocolate 70% [Moser-Roth/Aldi] • add chopped or shaved as a mix-in [145kcal, 7g sugar]
-  - _10g_ Almond slivers [naturix24] • add as a topping or mix-in [59kcal, 0.4g sugar]
-  - _14g_ Amarettini [REWE/Gadeschi] • 10 pcs = 13.8g; add as a topping or mix-in [58kcal, 9.1g sugar]
+  - _25g_ Dark chocolate 70% [Moser-Roth/Aldi] (≈1 tbsp + 2 tsp) • add chopped or shaved as a mix-in [145kcal, 7g sugar] <a id="id-fb103ea" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-fb103ea">ℹ️</a>
+  - _10g_ Almond slivers [naturix24] (≈2 tsp) • add as a topping or mix-in [59kcal, 0.4g sugar] <a id="id-1da06bc" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-1da06bc">ℹ️</a>
+  - _14g_ Amarettini [REWE/Gadeschi] (≈2 ¾ tsp) • 10 pcs = 13.8g; add as a topping or mix-in [58kcal, 9.1g sugar] <a id="id-a768a7f" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-a768a7f">ℹ️</a>
 
 **Topping Options**
 
-  - _5ml_ Molasses [Grafschafter Goldsaft] • add as a topping [15kcal, 3.3g sugar]
+  - _5ml_ Molasses [Grafschafter Goldsaft] (≈1 tsp) • add as a topping [15kcal, 3.3g sugar] <a id="id-e1cd5af" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-e1cd5af">ℹ️</a>
 
 # DIRECTIONS
 
@@ -122,14 +122,23 @@ Combine everything in a bowl to a smooth paste, and add as a mix-in.
  1. Pour into the tub and *QUICKLY* use an immersion blender on full speed to homogenize everything.
  1. Let blender run until thickeners are properly hydrated, up to 1-2 min. Or blend again after waiting that time.
  1. Add remaining ingredients (to the MAX line) and stir with a spoon.
- 1. Put on the lid, freeze for 24h, then spin as usual. Flatten any humps before that.
+ 1. For better results, let the base age in the fridge (covered, lid on), for a few hours or over night. This helps flavor development and gum hydration, especially with unheated bases.
+ 1. Freeze for 24h with lid on, then spin as usual. Flatten any humps before that.
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
  1. Process with MIX-IN after adding mix-ins evenly. For that, add partial amounts into a hole going down to the bottom, and fold the ice cream over, building pockets of mix-ins.
 
 # NUTRITIONAL & OTHER INFO
-- **Nutritional values per 100g/ml:** 100g; 95.7 kcal; fat 3.6g; carbs 14.0g; sugar 4.8g; protein 4.6g; salt 0.2g
-- **Nutritional values per ½ Deluxe Tub:** 360g; 344.4 kcal; fat 13.1g; carbs 50.3g; sugar 17.4g; protein 16.5g; salt 0.7g
-- **Nutritional values total:** 720g; 688.7 kcal; fat 26.2g; carbs 100.6g; sugar 34.8g; protein 33.1g; salt 1.4g
+
+| 🥗 Value | 100g | Serving | Total |
+| :--- | ---: | ---: | ---: |
+| ⚖️ Weight (g) | 100 | 360 | 720 |
+| 🔥 Energy (kcal) | 95.7 | 344.4 | 688.7 |
+| 🫒 Fat (g) | 3.6 | 13.1 | 26.2 |
+| 🍞 Carbohydrates (g) | 14.0 | 50.3 | 100.6 |
+| 🍬 Sugars (g) | 4.8 | 17.4 | 34.8 |
+| 💪 Protein (g) | 4.6 | 16.5 | 33.1 |
+| 🧂 Salt (g) | 0.2 | 0.7 | 1.4 |
+
 - **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 31.04
 - **Protein / Energy Ratio (ok=12%; hi=20%):** 19.20% • Low-Sugar
 - **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 56.1g • 7.8%
