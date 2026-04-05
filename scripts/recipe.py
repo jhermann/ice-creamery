@@ -159,9 +159,9 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "action",
         nargs="?",
-        choices=["list", "search", "s", "open", "o", "info", "i"],
+        choices=["list", "search", "s", "open", "o", "info", "i", "fix-id"],
         default="list",
-        help="Action to run. Supported: list, search (or s), open (or o), info (or i).",
+        help="Action to run. Supported: list, search (or s), open (or o), info (or i), fix-id.",
     )
     parser.add_argument(
         "args",
@@ -318,6 +318,19 @@ def print_info(settings: AttrDict) -> None:
 
 def main() -> int:
     args = parse_args()
+
+    # Handle fix-id action early - it doesn't need config or sheet directory
+    if args.action == "fix-id":
+        try:
+            from _fix_ids import main as fix_ids_main
+            return fix_ids_main(args.args)
+        except ImportError as exc:
+            print(f"⚡ Failed to load _fix_ids module: {exc}", file=sys.stderr)
+            return 2
+        except Exception as exc:
+            print(f"⚡ fix-id action failed: {exc}", file=sys.stderr)
+            return 2
+        return 1  # some other error not caught
 
     try:
         config_path = args.config.expanduser() if args.config else get_default_config_path()
