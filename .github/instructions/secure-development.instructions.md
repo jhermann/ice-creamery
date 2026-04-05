@@ -8,3 +8,7 @@ Specifically:
 - Always validate and sanitize user inputs before processing.
 - Prefer modern, secure libraries over deprecated or 'quick-fix' methods (e.g., use argon2 or bcrypt instead of sha1).
 - If a suggestion has potential security trade-offs, add a 'Security Note' at the end of your response.
+- Generate any code using 'Zero-Trust' principles. Assume all inputs are hostile and the environment is compromised.
+- Always follow the principle of least privilege in code suggestions.
+- Avoid using `eval()` or similar functions that execute code from untrusted sources.
+- Check any new packages or dependencies for known vulnerabilities before suggesting them.
