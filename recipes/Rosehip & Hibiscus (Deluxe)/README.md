@@ -41,11 +41,11 @@ You can of course try this with any other type of tea you like, adapt the number
 
 Spin on “Sorbet”, scrape down, and re-mix.
 
-> <img width=220 alt="After 1st Spin" src="_1.jpg" class="zoomable" />
-> <img width=220 alt="After Mix-in" src="_2.jpg" class="zoomable" />
-> <img width=220 alt="Scooped" src="_3.jpg" class="zoomable" />
+> <img width=220 alt="After 1st Spin" src="Rosehip_2026-04-06_1.jpg" class="zoomable" />
+> <img width=220 alt="After Mix-in" src="Rosehip_2026-04-06_2.jpg" class="zoomable" />
+> <img width=220 alt="Scooped" src="Rosehip_2026-04-06_3.jpg" class="zoomable" />
 
-*Rating:* 😋🌹🍵 (untested)
+*Rating:* 😋🌹🌹🌺🍵
 
 !!! note "Why These Ingredients Work"
 
