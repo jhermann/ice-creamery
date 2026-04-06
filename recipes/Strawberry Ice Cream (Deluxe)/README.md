@@ -43,6 +43,10 @@ with a nice crunch from the mix-in.
 
 Rating: 😋😋😋🍓🍓
 
+> <img width=360 alt="Spun Ice Cream" src="SB+Jam_2026-04-06_1.jpg" class="zoomable" />
+> <img width=360 alt="With SB Jam manually mixed in" src="SB+Jam_2026-04-06_2.jpg" class="zoomable" />
+
+
 # INGREDIENTS
 
 ℹ️ Brand names are in square brackets `[...]`.
