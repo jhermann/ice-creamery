@@ -45,7 +45,7 @@ Spin on “Sorbet”, scrape down, and re-mix.
 > <img width=220 alt="After Mix-in" src="Rosehip_2026-04-06_2.jpg" class="zoomable" />
 > <img width=220 alt="Scooped" src="Rosehip_2026-04-06_3.jpg" class="zoomable" />
 
-*Rating:* 😋🌹🌹🌺🍵
+*Rating:* 😋🌹🍵 (untested)
 
 !!! note "Why These Ingredients Work"
 
@@ -60,7 +60,7 @@ Spin on “Sorbet”, scrape down, and re-mix.
 **Prep**
 
   - _575ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup> (≈2 cups + 3 fl oz) • *alternative:* any other preferred milk (~2% fat) <a id="id-2755284" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-2755284">ℹ️</a>
-  - _2 bags_ Tea (Rosehip & Hibiscus) <a id="id-tea-rhip" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-tea-rhip">ℹ️</a>
+  - _2 bags_ Tea (Rosehip & Hibiscus)
 
 **Wet**
 
@@ -78,8 +78,8 @@ Spin on “Sorbet”, scrape down, and re-mix.
 
 **Adjust sweetness**
 
-  - _≈6 drops_ Flavor drops “Natural” (stevia) [Nick’s] • to taste • unflavored <a id="id-b4e0320" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-b4e0320">ℹ️</a>
-  - _≈6 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste <a id="id-7c57f43" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-7c57f43">ℹ️</a>
+  - _≈6 drops_ Flavor drops “Natural” (stevia) [Nick’s] • to taste • unflavored
+  - _≈6 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
 
 # DIRECTIONS
 

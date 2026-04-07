@@ -301,6 +301,11 @@ def nutrition_link(ingredient_id):
     )
 
 
+def has_macro_row_data(row):
+    """Return true if an ingredient row is included in the macro export."""
+    return bool((row.get('kcal') or '').strip())
+
+
 class ImperialUnitTransform:
     """Transform metric ingredient amounts into compact US kitchen units."""
 
@@ -420,7 +425,9 @@ class IngredientItem:
         self.data['amount'] = self.data['amount'].replace('.50', '.5')
         self.data['href'] = ingredient_link(self.data['ingredients'], args=self.args)
         self.data['imperial'] = ImperialUnitTransform.volume_combo(self.data['amount'], self.data['unit'])
-        self.data['nutrition_link'] = nutrition_link(self.data.get('id'))
+        self.data['nutrition_link'] = (
+            nutrition_link(self.data.get('id')) if has_macro_row_data(self.data) else ''
+        )
         return self
 
     def markdown_line(self):
@@ -945,7 +952,7 @@ class MarkdownRecipeFormatter:
                 yield from step
 
         macro_rows = sorted(
-            (row for row in all_ingredients() if row['kcal']),
+            (row for row in all_ingredients() if has_macro_row_data(row)),
             key=lambda row: row['ingredients'].lower(),
         )
         write_nutrition_db(Path(__file__).resolve().with_name('nutrition-db.csv'), macro_rows)
