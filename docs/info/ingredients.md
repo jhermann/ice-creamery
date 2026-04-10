@@ -23,7 +23,7 @@ For definitions of some of the terms used here, see the [Glossary](/ice-creamery
 
 ### Common Ingredient PAC / POD / GI Values
 
-> ![Ingredient Tier Lists: PAC, POD, GI](../../assets/ingredients-tier-lists.png)
+> ![Ingredient Tier Lists: PAC, POD, GI](https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/assets/ingredients-tier-lists.png)
 > <br />*Infographic:* Ingredient tier lists for ice cream by anti-freezing power (PAC), sweetness (POD), and glycemic index (GI).
 
 [Freezing point depression factor](/ice-creamery/info/glossary/#potere-anti-congelante-pac) (FPDF / PAC),
