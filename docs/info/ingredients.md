@@ -2,6 +2,17 @@
 
 Here you can find some background information about common ingredients in ice cream recipes.
 
+For definitions of some of the terms used here, see the [Glossary](/ice-creamery/info/glossary.md):
+
+- [Freezing Point Depression Factor (PAC)](/ice-creamery/info/glossary.md#potere-anti-congelante-pac)
+- [Sweetness (POD)](/ice-creamery/info/glossary.md#potere-dolcificante-pod)
+- [Glycemic Index (GI)](/ice-creamery/info/glossary.md#glycemic-index-gi)
+- [Dextrose Equivalent (DE)](/ice-creamery/info/glossary.md#dextrose-equivalent-de)
+- [Hydrophilic-Lipophilic Balance (HLB)](/ice-creamery/info/glossary.md#hydrophilic-lipophilic-balance-hlb)
+- [Milk Solids Not-Fat (MSNF)](/ice-creamery/info/glossary.md#milk-solids-not-fat-msnf)
+- [Ultra Processed Food (UPF)](/ice-creamery/info/glossary.md#ultra-processed-food-upf)
+
+
 ## Freezing Point Depression Factor (PAC) and Sweetness (POD)
 
 !!! tip "Reference Information"
@@ -49,6 +60,7 @@ of common ingredients, sorted by PAC.
 |  34 |  21 | 110 | Maltodextrin (18 DE) | |
 |  22 |  10 |  1 | [Inulin](#inulin) | |
 | <20 |  ≈10 |  <55 | [Resistant Dextrin](#resistant-dextrin-e1400) (E1400) | GI typically ranges from 25 to 48 |
+
 
 !!! science "Sources"
 
@@ -103,7 +115,7 @@ are most commonly used here. If in powdered form, make sure the bulking agent ha
 
 In "classic" recipes, a similar effect is used by balancing table sugar with sweeteners
 that have a higher PAC and a lower POD, like dextrose.
-If both PAC and POD are too low, invert sugar or fructose give a boost to both at the same time.
+If both PAC and POD are too low, [invert sugar](#invert-sugar) or [fructose](#fructose) give a boost to both at the same time.
 
 See the table above and the next section for details.
 
@@ -160,7 +172,15 @@ It has a PAC of 256, a POD of ≈85%, and a GI below 7 (i.e. below that of xylit
     Use 133% of the given amount of *SweEX* to attain about the same PAC and POD values.
     That means using 75% of a given pure [allulose](#allulose) amount in the other direction.
 
+### Fructose
+Fructose is a simple sugar (monosaccharide) found naturally in fruits, honey, and root vegetables. It is about 1.7 times sweeter than sucrose (table sugar) and has a high PAC (freezing point depression factor), making it useful for softening ice cream texture.
+
+In recipes, it is often used to boost both sweetness and PAC, but excessive use can lead to a pronounced sweetness and a softer, sometimes sticky texture.
+
+Fructose is also a component of high-fructose corn syrup and invert sugar.
+
 ### Inulin
+
 Inulin is a naturally occurring polysaccharide, and used to improve mouthfeel, stability, acceptability of low-fat ice creams, and forms a gel-like network that binds water.
 
 Inulin has fewer calories (2 kcal/g) compared to fat (9 kcal/g) or sucrose (4 kcal/g).
@@ -198,6 +218,12 @@ It has high heat resistance and will not melt until it reaches 145°C.
 
 It is very similar to [maltitol](#maltitol-e965), and requires care regarding daily intake just like other sugar alcohols.
 Chemically it is a mix of glucose (50%), sorbitol (25%), and mannitol (25%).
+
+### Invert Sugar
+
+*Invert sugar* is a mixture of glucose and fructose created by splitting sucrose (table sugar). It is sweeter and more hygroscopic than sucrose, helping to retain moisture and improve texture in ice cream.
+
+Invert sugar lowers the freezing point more than sucrose, resulting in a softer, smoother product. It is often used to prevent crystallization and improve scoopability, especially in recipes with high sugar content.
 
 ### Maltitol (E965)
 
@@ -249,6 +275,14 @@ so take that into account. From a safety standpoint, there are no limits set.
 
 Compared to [inulin](#inulin), polydextrose is also a soluble fiber and very similar in sweetness and GI,
 but has a five times higher PAC of 100.
+
+### Maltodextrin
+
+*Maltodextrin (18 DE)* is a polysaccharide produced from starch (usually corn, potato, or rice) with a dextrose equivalent (DE) of 18, indicating moderate sweetness and solubility.
+
+In ice cream, maltodextrin is used as a bulking agent and to improve body and texture without adding much sweetness. It has a high glycemic index and a low PAC, so it does not significantly soften the ice cream.
+
+Maltodextrin is useful for increasing solids and reducing iciness, especially in low-fat or reduced-sugar recipes.
 
 ### Resistant Dextrin (E1400)
 
@@ -671,7 +705,7 @@ to be easier to dissolve and mix with no clumping and to hydrate faster,
 compared with regular xanthan gum.
 This is achieved by either *pre-hydration* or *agglomeration* (granularization).
 
-Combine xanthan with LBG for a cold gel. At certain ratios, like 7:3 LBG to XG,
+Combine [xanthan](#xanthan-gum-xg-e415) with [LBG](#locust-bean-gum-lbg-e410) for a cold gel. At certain ratios, like 7:3 LBG to XG,
 the synergistic effect is maximized, resulting in a harder gel.
 Heating can facilitate the formation of the gel network.
 
@@ -872,18 +906,18 @@ and improves texture. Cream cheese also contributes to a richer, denser flavor.
 -   **Flavor preference matters**: Disliking a commercial powder may mean you actually dislike its main base protein.
 
 An alternative to using protein powders are high-protein milk products like
-[Cottage Cheese](/ice-creamery/info/ingredients/#cottage-cheese),
-[Cream Cheese](/ice-creamery/info/ingredients/#cream-cheese),
-[Quark (Topfen)](/ice-creamery/info/ingredients/#quark-topfen),
-(Silken) [Tofu](/ice-creamery/info/ingredients/#tofu),
+[Cottage Cheese](#cottage-cheese),
+[Cream Cheese](#cream-cheese),
+[Quark (Topfen)](#quark-topfen),
+(Silken) [Tofu](#tofu),
 and others like Greek Yogurt, Kefir and Skyr. For many people's taste, they create a more authentic ice cream consistency, but be aware of the impact on taste, e.g. some are adding a 'tangy' flavor.
 
 *See also:*
 
-- [Casein](/ice-creamery/info/ingredients/#casein)
-- [Skim Milk Powder (SMP)](/ice-creamery/info/ingredients/#skim-milk-powder-smp)
-- [Soy Protein Isolate](/ice-creamery/info/ingredients/#soy-protein-isolate)
-- [Whey Protein](/ice-creamery/info/ingredients/#whey-protein)
+- [Casein](#casein)
+- [Skim Milk Powder (SMP)](#skim-milk-powder-smp)
+- [Soy Protein Isolate](#soy-protein-isolate)
+- [Whey Protein](#whey-protein)
 
 ### Quark (Topfen)
 Quark (German) and Topfen (Austrian, South German) are both types of fresh, soft cheese,
