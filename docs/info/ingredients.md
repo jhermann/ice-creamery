@@ -713,6 +713,24 @@ Combine [xanthan](#xanthan-gum-xg-e415) with [LBG](#locust-bean-gum-lbg-e410) fo
 the synergistic effect is maximized, resulting in a harder gel.
 Heating can facilitate the formation of the gel network.
 
+!!! science "Scientific Background"
+
+    **The Power of Xanthan and Guar Gum**
+
+    Stabilizers like xanthan gum (XG) and guar gum (GG) are used to make the liquid parts of the ice cream thicker.
+
+    Interestingly, when you mix xanthan gum with other stabilizers like guar gum, they work better together than they do alone.
+
+    **Specific Blend Ratios**
+
+    A specific synergistic blend consisting of **25% xanthan gum and 75% guar gum** (referred to as **X1 G3**) is preferable. When this specific ratio is used, the resulting mixture behaves similarly to pure xanthan gum but provides a significantly higher viscosity across all conditions than either ingredient could achieve on its own.
+
+    **Functional Differences**
+
+    A combination of xanthan and guar gum will increase the thickness of a liquid even when dissolved in **cold water**. In contrast, other blends (like xanthan mixed with locust bean gum) only react and thicken once the mixture has been **heated**.
+
+    > *Source:* [Food Manufacturing Africa Q1 2020: Texture control, stabilisation and xanthan gum](https://savannah.co.za/wp-content/uploads/2020/03/FMA-Q1_JB-March20.pdf)
+
 ### Waxy Maize Starch (E1442)
 This is a modified starch derived from waxy corn, used as a thickening agent, stabilizer, and texturizer
 (improves texture and mouthfeel). It tolerates a wide temperature range, acidity, and shear force,
