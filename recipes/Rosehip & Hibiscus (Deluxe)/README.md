@@ -13,7 +13,6 @@ replace:
 - Fill to MAX=>Adjust sweetness
 - ingredients to empty=>ingredients and the tea to empty
 tags:
-- Draft
 - Erythritol
 - Light
 - Low-Fat
@@ -45,7 +44,7 @@ Spin on “Sorbet”, scrape down, and re-mix.
 > <img width=220 alt="After Mix-in" src="Rosehip_2026-04-06_2.jpg" class="zoomable" />
 > <img width=220 alt="Scooped" src="Rosehip_2026-04-06_3.jpg" class="zoomable" />
 
-*Rating:* 😋🌹🍵 (untested)
+*Rating:* 😋🌹🌹🌺🍵 (subtle and sweet)
 
 !!! note "Why These Ingredients Work"
 
