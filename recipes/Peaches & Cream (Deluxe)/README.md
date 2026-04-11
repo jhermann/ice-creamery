@@ -36,23 +36,23 @@ Rating: 😋🐮🐮🍑🍑 (peachy, soft-serve directly after processing)
 
 **Wet**
 
-  - _250ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup> • *alternative:* any other preferred milk (~2% fat)
-  - _250g_ Peaches in Grape Juice (drained) [Libby’s] • Can = 410g
-  - _15g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • *alternative:* 12g (additional) VG for a sober recipe
-  - _10g_ [Brandy or Vodka 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup> • *alternative:* same amount additional VG for a sober recipe
+  - _250ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup> (≈1 cup + 2 ¾ tsp) • *alternative:* any other preferred milk (~2% fat)
+  - _250g_ Peaches in Grape Juice (drained) [Libby’s] (≈1 cup + 2 ¾ tsp) • Can = 410g
+  - _15g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> (≈1 tbsp)
+  - _10g_ [Brandy or Vodka 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup> (≈2 tsp) • *alternative:* 8g (additional) VG for a sober recipe
 
 **Dry**
 
-  - _40g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • *alternative:* 53g allulose or dextrose
-  - _15g_ [Waxy Maize Starch (E1442) \[Ultratex\]](/ice-creamery/info/ingredients/#waxy-maize-starch-e1442){target="_blank"}<sup>↗</sup> • *alternative:* [E1422](https://jhermann.github.io/ice-creamery/info/ingredients/#acetylated-distarch-adipate-e1422)
-  - _15g_ [Whey + Casein protein (grass-fed) \[Vilgain\]](/ice-creamery/info/ingredients/#whey-protein){target="_blank"}<sup>↗</sup> • with stevia
-  - _15g_ [Inulin \[Vit4ever\]](/ice-creamery/info/ingredients/#inulin){target="_blank"}<sup>↗</sup> • Sweetness = 8%; GI ~= 0
-  - _1g_ Salt
+  - _40g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> (≈1 oz + 2 ¼ tsp) • *alternative:* 53g allulose or dextrose
+  - _15g_ [Waxy Maize Starch (E1442) \[Ultratex\]](/ice-creamery/info/ingredients/#waxy-maize-starch-e1442){target="_blank"}<sup>↗</sup> (≈1 tbsp) • *alternative:* [E1422](https://jhermann.github.io/ice-creamery/info/ingredients/#acetylated-distarch-adipate-e1422)
+  - _15g_ [Whey + Casein protein (grass-fed) \[Vilgain\]](/ice-creamery/info/ingredients/#whey-protein){target="_blank"}<sup>↗</sup> (≈1 tbsp) • with stevia
+  - _15g_ [Inulin \[Vit4ever\]](/ice-creamery/info/ingredients/#inulin){target="_blank"}<sup>↗</sup> (≈1 tbsp) • Sweetness = 8%; GI ~= 0
+  - _1g_ Salt (≈¼ tsp)
   - _1 pinch_ ❔Turmeric • *optional*, for color
 
 **Fill to MAX**
 
-  - _75ml_ Cream 32% [REWE Beste Wahl]
+  - _75ml_ Cream 32% [REWE Beste Wahl] (≈2 fl oz + 1 tbsp)
   - _≈6 drops_ Flavor drops Peach / Maracuja (sucralose) [IronMaxx] • to taste
 
 # DIRECTIONS
@@ -68,9 +68,16 @@ Rating: 😋🐮🐮🍑🍑 (peachy, soft-serve directly after processing)
 
 # NUTRITIONAL & OTHER INFO
 
-- **Nutritional values per 100g/ml:** 100g; 105.0 kcal; fat 4.2g; carbs 17.4g; sugar 3.9g; protein 3.3g; salt 0.2g
-- **Nutritional values per ½ Deluxe Tub:** 340g; 357.0 kcal; fat 14.2g; carbs 59.2g; sugar 13.4g; protein 11.3g; salt 0.7g
-- **Nutritional values total:** 686g; 720.3 kcal; fat 28.7g; carbs 119.5g; sugar 26.9g; protein 22.7g; salt 1.5g
+| 🥗 Value | 100g | Serving | Total |
+| :--- | ---: | ---: | ---: |
+| ⚖️ Weight (g) | 100 | 340 | 686 |
+| 🔥 Energy (kcal) | 105.0 | 357.0 | 720.3 |
+| 🫒 Fat (g) | 4.2 | 14.2 | 28.7 |
+| 🍞 Carbohydrates (g) | 17.4 | 59.2 | 119.5 |
+| 🍬 Sugars (g) | 3.9 | 13.4 | 26.9 |
+| 💪 Protein (g) | 3.3 | 11.3 | 22.7 |
+| 🧂 Salt (g) | 0.2 | 0.7 | 1.5 |
+
 - **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.13
 - **Protein / Energy Ratio (ok=12%; hi=20%):** 12.61% • Low-Sugar
 - **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 28.3g • 4.1%
