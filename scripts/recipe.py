@@ -418,6 +418,9 @@ def main() -> int:
             continue
 
         print(display_path)
+        if settings.verbose:
+            import shlex
+            print(f"    🗃️ {shlex.quote(str(path.resolve()))}")
         for position, sheet_name in indexed_sheet_names:
             label = SpreadSheetSupport.format_sheet_label(sheet_name, position, position_width)
             print(f"  - {label}")
