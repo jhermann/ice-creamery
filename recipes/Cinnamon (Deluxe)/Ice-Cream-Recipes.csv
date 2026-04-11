@@ -1,0 +1,33 @@
+"Cinnamon (Deluxe)";;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;"Amount";"Unit";;"kcal";"Fat";"Carbs";"Sugar";"Protein";"Salt";"FPDF";"MSNF";;;;
+"Nutritional values per 100g/ml";100;"g";;82.9;3.4;10.5;0.4;5.8;0.3;;;;;;
+"Nutritional values per ½ Deluxe Tub";340;"g";;281.7;11.6;35.8;1.5;19.6;1.1;;;;;;
+"Nutritional values total";680;"g";;563.4;23.1;71.6;3.0;39.1;2.2;;;;;;
+;;;;;;;;;;;;;;;
+"FPDF / PAC (target 20..30)";30.80;;;;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";27.78%;;;"";"";;"Low-Sugar";"Hi-Protein";"";;;;;;
+"ℹ️ Milk Solids Non-Fat (MSNF, 7-11%)";49.8;"g";;7.3%;;;;;;;;;;;
+"ℹ️ Net carbs";24.1;"g";;"*∝ 5 servings@136g:* 4.8g";;;"*∝ 3 servings@227g:* 8g";;;"*energy ratio (low <20%):* 17.1%";;;;;
+;;;;;;;;;;;;;;;
+"A high-protein, low-sugar frozen treat designed for a creamy texture with reduced calories.";;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+"Spin on “Light Ice Cream”, scrape down, and re-mix if needed.";;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+"Rating: 😋 (untested)";;;;;;;;;;;;;;;
+"<!-- SNIPPET: alcohol -->";;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+"Ingredients";"Amount";"Unit";"#";"kcal";"Fat";"Carbs";"Sugar";"Protein";"Salt";"FPDF";"MSNF";"Comment";"0Carb[%]";"Counts?";"ID"
+"Soy milk 1.6% (sugar-free) [Berief]";450.00;"ml";1;30.00;1.60;0.90;0.00;3.00;0.08;;4.00;"*alternative:* any other preferred milk (~2% fat)";;1;"2755284"
+"Cottage Cheese 4% [REWE Bio]";100.00;"g";1;91.00;4.00;1.00;1.00;12.70;0.69;0.01;16.00;"*alternative:* 30g cream cheese and 70ml milk";;1;"c6c5c25"
+"Glycerin (E422, VG) [hd-line]";15.00;"g";1;400.00;;99.00;;;;3.70;;;50.00;1;"8717e6d"
+"Brandy or Vodka 40 vol%";10.00;"g";1;280.00;;;;;;2.96;;"*alternative:* 8g (additional) VG for a sober recipe";;1;"63b8bf1"
+"Topfen / Quark 14.4% [Berchtesgadener]";;"g";1;179.00;14.40;3.60;3.60;8.40;0.08;0.04;6.60;"250g container; *alternative:* 0g ricotta 9% and 0ml cream 32%";;1;"8def8e1"
+"SweEX (Erythritol + Xylitol 3:2)";40.00;"g";2;109.60;;100.00;;;;2.56;;"*alternative:* 53g allulose or dextrose";100.00;1;"f44b101"
+"Whey + Casein protein (grass-fed) [Vilgain]";15.00;"g";2;384.00;4.60;5.70;5.60;80.00;0.50;0.06;90.40;"with stevia";;1;"b954be3"
+"Waxy Maize Starch (E1442) [Ultratex]";10.00;"g";2;391.00;0.15;97.00;0.00;0.50;0.50;;;"*alternative:* [E1422](https://jhermann.github.io/ice-creamery/info/ingredients/#acetylated-distarch-adipate-e1422), or any instant starch";;1;"0e5caff"
+"Cinnamon (Ceylon)";4.00;"g";2;;;;;;;;;"to taste; 1tsp = 3g";;1;"0e90f71"
+"Salt";1.00;"g";2;;;;;;100.00;5.90;;"26 quick shakes (with my shaker)";;1;"49f8edc"
+;;;;;;;;;;;;;;;
+"Cream 32% [REWE Beste Wahl]";35.00;"ml";3;311.00;32.00;3.20;3.20;2.50;0.13;0.03;6.32;;;1;"92fa780"
+"Flavor drops Vanilla (sucralose) [IronMaxx]";"≈3";"drops";3;;;;;;;;;"to taste";;"";"7c57f43"
