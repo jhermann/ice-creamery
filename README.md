@@ -5,7 +5,7 @@
 > 💡 See [GitHub pages](https://jhermann.github.io/ice-creamery/)
 >  for a website with navigation and search.
 > 
-> Copyright &copy; 2025 Jürgen Hermann
+> Copyright &copy; 2025–2026 Jürgen Hermann
 > <br />The content in `assets`, `docs`, and `recipes` is licensed under Creative Commons [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
 
 **Contents**
