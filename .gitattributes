@@ -1,0 +1,10 @@
+# Handle all files by default
+* text=auto
+
+# Enforce LF for all text files on all platforms
+* text eol=lf
+
+# Explicitly mark binary files to prevent corruption
+*.jpg binary
+*.jpeg binary
+*.png binary
