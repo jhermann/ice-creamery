@@ -59,23 +59,23 @@ Cherry flavor, spun on FroYo followed by a respin.
 
 **Wet**
 
-  - _450ml_ Skyr (flavored) [Milsani / Aldi] • 500g container; vanilla / blueberry/ cherry / strawberry flavors
-  - _150ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup> • *alternative*: any other preferred milk (~2% fat)
-  - _15g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • *alternative:* 53g lactose
-  - _15g_ [Brandy or Vodka 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup> • *alternative:* 12g (additional) VG for a sober recipe
-  - _5ml_ Lemon juice
-  - _5ml_ ❔Vanilla Extract (w/ alcohol) [Native Vanilla] • 1 tsp, very recommended for the vanilla flavor
+  - _450ml_ Skyr (flavored) [Milsani / Aldi] (≈1 cup + 7 fl oz) • 500g container; vanilla / blueberry/ cherry / strawberry flavors
+  - _150ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup> (≈5 fl oz) • *alternative*: any other preferred milk (~2% fat) <a id="id-2755284" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-2755284">ℹ️</a>
+  - _15g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> (≈1 tbsp) • *alternative:* 53g lactose <a id="id-8717e6d" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-8717e6d">ℹ️</a>
+  - _15g_ [Brandy or Vodka 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup> (≈1 tbsp) • *alternative:* 12g (additional) VG for a sober recipe <a id="id-63b8bf1" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-63b8bf1">ℹ️</a>
+  - _5ml_ Lemon juice (≈1 tsp) <a id="id-d264fa8" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-d264fa8">ℹ️</a>
+  - _5ml_ ❔Vanilla Extract (w/ alcohol) [Native Vanilla] (≈1 tsp) • 1 tsp, very recommended for the vanilla flavor
 
 **Dry**
 
-  - _10g_ [Salty Stability \[Inulin / GMS / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup> • *not-as-good substitute:* 1g guar, 0.3g xanthan, and 0.3g salt
-  - _10g_ [Whey + Casein protein (grass-fed) \[Vilgain\]](/ice-creamery/info/ingredients/#whey-protein){target="_blank"}<sup>↗</sup> • with stevia
-  - _30g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • *alternative:* 40g allulose or dextrose
-  - _10g_ ❔Strawberry powder [Supergarden] • *optional*, recommended for “Strawberry” flavor
+  - _10g_ [Salty Stability \[Inulin / GMS / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup> (≈2 tsp) • *not-as-good substitute:* 1g guar, 0.3g xanthan, and 0.3g salt <a id="id-3d1ecef" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-3d1ecef">ℹ️</a>
+  - _10g_ [Whey + Casein protein (grass-fed) \[Vilgain\]](/ice-creamery/info/ingredients/#whey-protein){target="_blank"}<sup>↗</sup> (≈2 tsp) • with stevia <a id="id-b954be3" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-b954be3">ℹ️</a>
+  - _30g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> (≈2 tbsp) • *alternative:* 40g allulose or dextrose <a id="id-f44b101" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-f44b101">ℹ️</a>
+  - _10g_ ❔Strawberry powder [Supergarden] (≈2 tsp) • *optional*, recommended for “Strawberry” flavor
 
 **Mix-ins**
 
-  - _30g_ Mint chocolate thins [After Eight] • 1pc ≈ 7.5g; freeze for more integrity, and chop them when frozen [128kcal, 20g sugar]
+  - _30g_ Mint chocolate thins [After Eight] (≈2 tbsp) • 1pc ≈ 7.5g; freeze for more integrity, and chop them when frozen [128kcal, 20g sugar] <a id="id-903dc28" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-903dc28">ℹ️</a>
 
 # DIRECTIONS
 
@@ -90,9 +90,16 @@ Cherry flavor, spun on FroYo followed by a respin.
 
 # NUTRITIONAL & OTHER INFO
 
-- **Nutritional values per 100g/ml:** 100g; 86.5 kcal; fat 0.6g; carbs 14.4g; sugar 5.8g; protein 7.6g; salt 0.2g
-- **Nutritional values per ½ Deluxe Tub:** 340g; 294.2 kcal; fat 2.0g; carbs 48.9g; sugar 19.8g; protein 25.9g; salt 0.5g
-- **Nutritional values total:** 685g; 592.8 kcal; fat 4.1g; carbs 98.5g; sugar 39.9g; protein 52.1g; salt 1.1g
+| 🥗 Value | 100g | Serving | Total |
+| :--- | ---: | ---: | ---: |
+| ⚖️ Weight (g) | 100 | 340 | 685 |
+| 🔥 Energy (kcal) | 86.5 | 294.2 | 592.8 |
+| 🫒 Fat (g) | 0.6 | 2.0 | 4.1 |
+| 🍞 Carbohydrates (g) | 14.4 | 48.9 | 98.5 |
+| 🍬 Sugars (g) | 5.8 | 19.8 | 39.9 |
+| 💪 Protein (g) | 7.6 | 25.9 | 52.1 |
+| 🧂 Salt (g) | 0.2 | 0.5 | 1.1 |
+
 - **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 32.57
 - **Protein / Energy Ratio (ok=12%; hi=20%):** 35.19% • LOW-FAT • Hi-Protein
 - **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 95.1g • 13.9%
