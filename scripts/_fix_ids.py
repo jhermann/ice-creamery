@@ -113,12 +113,17 @@ def update_csv(path: Path, ingredient_column: str, id_column: str,
 
     with path.open("r", encoding="utf-8", newline="") as src:
         lines = src.readlines()
+    def header_matches(line: str) -> bool:
+        # Accept both quoted and unquoted headers
+        raw = line.strip().lstrip('"').rstrip('"').replace('"', '')
+        return raw.startswith(RECIPE_HEADER_PREFIX)
+
     header_line_index = next(
-        (index for index, line in enumerate(lines) if line.startswith(RECIPE_HEADER_PREFIX)),
+        (index for index, line in enumerate(lines) if header_matches(line)),
         None,
     )
     if header_line_index is None:
-        raise ValueError(f"Recipe header line starting with {RECIPE_HEADER_PREFIX!r} not found in {path}")
+        raise ValueError(f"Recipe header line with prefix matching {RECIPE_HEADER_PREFIX!r} not found in {path}")
 
     preamble_lines = lines[:header_line_index]
     csv_text = "".join(lines[header_line_index:])
