@@ -50,7 +50,6 @@ Rating: 😋🍦  (untested)
   - _10g_ [Brandy or Vodka 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup> (≈2 tsp) • *alternative:* 8g (additional) VG for a sober recipe <a id="id-63b8bf1" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-63b8bf1">ℹ️</a>
   - _5g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> (≈1 tsp) <a id="id-8717e6d" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-8717e6d">ℹ️</a>
   - _5ml_ Vanilla Extract (w/ alcohol) [Native Vanilla] (≈1 tsp) <a id="id-92d1980" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-92d1980">ℹ️</a>
-  - _≈1 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
 
 **Dry**
 
@@ -62,6 +61,7 @@ Rating: 😋🍦  (untested)
 **Fill to MAX**
 
   - _50ml_ Water to MAX line (≈1 fl oz + 1 tbsp + 1 ¼ tsp)
+  - _≈1 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
 
 **Topping Options**
 
