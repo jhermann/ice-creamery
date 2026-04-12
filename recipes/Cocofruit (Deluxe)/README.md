@@ -58,20 +58,20 @@ Process on *Light Ice Cream*, do a scrape-down, and MIX-IN or RESPIN (choose dep
 
 **Prep**
 
-  - _175g_ Cherries • fresh or frozen [107kcal, 17g sugar]
+  - _175g_ Cherries (≈6 oz) • fresh or frozen [107kcal, 17g sugar] <a id="id-78bc6d7" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-78bc6d7">ℹ️</a>
 
 **Wet**
 
-  - _350ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup> • use any other preferred milk (~2% fat)
-  - _20g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • Sweetness = 60%; GI = 5; Density = 1.26 g/ml
-  - _10g_ [Brandy or Vodka 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup> • *alternative:* 8g (additional) VG for a sober recipe
+  - _350ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup> (≈1 cup + 3 fl oz + 1 tbsp) • use any other preferred milk (~2% fat) <a id="id-2755284" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-2755284">ℹ️</a>
+  - _20g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> (≈1 tbsp + 1 tsp) • Sweetness = 60%; GI = 5; Density = 1.26 g/ml <a id="id-8717e6d" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-8717e6d">ℹ️</a>
+  - _10g_ [Brandy or Vodka 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup> (≈2 tsp) • *alternative:* 8g (additional) VG for a sober recipe <a id="id-63b8bf1" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-63b8bf1">ℹ️</a>
 
 **Dry**
 
-  - _65g_ [Coconut Milk Powder 54% \[Green Essence\]](/ice-creamery/info/ingredients/#coconut-milk){target="_blank"}<sup>↗</sup> • *alternative:* 175ml coconut milk 22%, 100ml less soy milk
-  - _30g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • *alternative:* 40g allulose or dextrose
-  - _15g_ [Salty Stability \[Inulin / GMS / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup> • *not-as-good substitute:* 1.5g guar, 0.5g xanthan, and 0.5g salt
-  - _15g_ [Whey + Casein protein (grass-fed) \[Vilgain\]](/ice-creamery/info/ingredients/#whey-protein){target="_blank"}<sup>↗</sup> • with stevia
+  - _65g_ [Coconut Milk Powder 54% \[Green Essence\]](/ice-creamery/info/ingredients/#coconut-milk){target="_blank"}<sup>↗</sup> (≈2 oz + 1 ¾ tsp) • *alternative:* 175ml coconut milk 22%, 100ml less soy milk <a id="id-e0c6e86" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-e0c6e86">ℹ️</a>
+  - _30g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> (≈2 tbsp) • *alternative:* 40g allulose or dextrose <a id="id-f44b101" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-f44b101">ℹ️</a>
+  - _15g_ [Salty Stability \[Inulin / GMS / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup> (≈1 tbsp) • *not-as-good substitute:* 1.5g guar, 0.5g xanthan, and 0.5g salt <a id="id-3d1ecef" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-3d1ecef">ℹ️</a>
+  - _15g_ [Whey + Casein protein (grass-fed) \[Vilgain\]](/ice-creamery/info/ingredients/#whey-protein){target="_blank"}<sup>↗</sup> (≈1 tbsp) • with stevia <a id="id-b954be3" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-b954be3">ℹ️</a>
 
 **Adjust sweetness**
 
@@ -79,14 +79,14 @@ Process on *Light Ice Cream*, do a scrape-down, and MIX-IN or RESPIN (choose dep
 
 **Optional / Choices**
 
-  - _150g_ Bananas (peeled) • peeled [162kcal, 24g sugar]
-  - _175g_ Blueberries • fresh or frozen [84kcal, 16g sugar]
-  - _175g_ Cherries • fresh or frozen [107kcal, 17g sugar]
-  - _175g_ Kiwi • fresh [91kcal, 15g sugar]
-  - _175g_ Mango • fresh or frozen [109kcal, 23g sugar]
-  - _150g_ Pineapple in juice [Del Monte] • canned [102kcal, 23g sugar]
-  - _175g_ Strawberries • fresh or frozen [54kcal, 10g sugar]
-  - _175g_ Mandarins in juice [REWE] • canned [84kcal, 16g sugar]
+  - _150g_ Bananas (peeled) (≈5 oz + 1 ¾ tsp) • peeled [162kcal, 24g sugar] <a id="id-5638add" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-5638add">ℹ️</a>
+  - _175g_ Blueberries (≈6 oz) • fresh or frozen [84kcal, 16g sugar]
+  - _175g_ Cherries (≈6 oz) • fresh or frozen [107kcal, 17g sugar] <a id="id-78bc6d7" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-78bc6d7">ℹ️</a>
+  - _175g_ Kiwi (≈6 oz) • fresh [91kcal, 15g sugar] <a id="id-d271f02" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-d271f02">ℹ️</a>
+  - _175g_ Mango (≈6 oz) • fresh or frozen [109kcal, 23g sugar] <a id="id-fbc34dc" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-fbc34dc">ℹ️</a>
+  - _150g_ Pineapple in juice [Del Monte] (≈5 oz + 1 ¾ tsp) • canned [102kcal, 23g sugar] <a id="id-aaeaa5c" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-aaeaa5c">ℹ️</a>
+  - _175g_ Strawberries (≈6 oz) • fresh or frozen [54kcal, 10g sugar] <a id="id-93f3a24" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-93f3a24">ℹ️</a>
+  - _175g_ Mandarins in juice [REWE] (≈6 oz) • canned [84kcal, 16g sugar] <a id="id-be75202" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-be75202">ℹ️</a>
 
 # DIRECTIONS
 
@@ -100,9 +100,16 @@ Process on *Light Ice Cream*, do a scrape-down, and MIX-IN or RESPIN (choose dep
 
 # NUTRITIONAL & OTHER INFO
 
-- **Nutritional values per 100g/ml:** 100g; 127.4 kcal; fat 6.3g; carbs 17.2g; sugar 2.8g; protein 4.1g; salt 0.1g
-- **Nutritional values per ½ Deluxe Tub:** 340g; 433.2 kcal; fat 21.4g; carbs 58.5g; sugar 9.7g; protein 14.1g; salt 0.5g
-- **Nutritional values total:** 680g; 866.4 kcal; fat 42.8g; carbs 117.0g; sugar 19.3g; protein 28.2g; salt 1.0g
+| 🥗 Value | 100g | Serving | Total |
+| :--- | ---: | ---: | ---: |
+| ⚖️ Weight (g) | 100 | 340 | 680 |
+| 🔥 Energy (kcal) | 127.4 | 433.2 | 866.4 |
+| 🫒 Fat (g) | 6.3 | 21.4 | 42.8 |
+| 🍞 Carbohydrates (g) | 17.2 | 58.5 | 117.0 |
+| 🍬 Sugars (g) | 2.8 | 9.7 | 19.3 |
+| 💪 Protein (g) | 4.1 | 14.1 | 28.2 |
+| 🧂 Salt (g) | 0.1 | 0.5 | 1.0 |
+
 - **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.08
 - **Protein / Energy Ratio (ok=12%; hi=20%):** 13.01% • Low-Sugar
 - **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 57.8g • 8.5%
