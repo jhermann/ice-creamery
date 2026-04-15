@@ -107,6 +107,12 @@ These ratios are keeping the PAC / POD value as close as possible to the origina
 
 Where the replacing weight differs, the usual "fill to MAX line" will take care of that.
 
+### Lactose-free "SMP"
+
+To replace SMP with a mix having less than 1% residual lactose (SMP has ~55%), use a mix of 55% trehalose, 35% Milk Protein **Isolate** (MPI), and 10% inulin, plus a tiny amount of fine (sea) salt (0.1%).
+
+When you use this, you *must* age your base to allow for full hydration (4–12h in the fridge). Also, reduce sugar or other anti-freezing agents a bit to compensate for PAC differences between trehalose and lactose.
+
 ### DIY Glucose Syrup (Substitute)
 
 Many recipes out there treat glucose syrup as a staple item you can just grab off the shelf,
@@ -189,7 +195,7 @@ Freezers, especially auto-defrosting ones, do strange things. If as a nerd you w
 and also know how cold your tubs come out of it, you can use a smarthome remote sensor that works via Bluetooth or Wi-Fi.
 
 > <img width=360 alt="App screenshot" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/assets/freezer_remote_sensor_2025-06-10.png" class="zoomable" />
-> 
+>
 > *SwitchBot IP65 outdoor thermometer / hygrometer*
 
 ## Prepared Dry Mixes
