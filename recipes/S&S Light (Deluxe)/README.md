@@ -44,27 +44,27 @@ Rating: 😋😋🥛🫐🫐 (Creamy and ice-free, with blueberries)
 
 **Wet**
 
-  - _375ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup> • use any other preferred milk (~2% fat)
-  - _18g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • POD = 60%; GI = 5; Density = 1.26 g/ml
+  - _375ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup> (≈1 cup + 4 fl oz + 1 tbsp) • use any other preferred milk (~2% fat) <a id="id-2755284" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-2755284">ℹ️</a>
+  - _18g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> (≈1 tbsp + ¾ tsp) • POD = 60%; GI = 5; Density = 1.26 g/ml <a id="id-8717e6d" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-8717e6d">ℹ️</a>
 
 **Dry**
 
-  - _45g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • *alternative:* 60g allulose or dextrose
-  - _25g_ [Inulin \[Vit4ever\]](/ice-creamery/info/ingredients/#inulin){target="_blank"}<sup>↗</sup> • Sweetness = 8%; GI ~= 0
-  - _10g_ [Skim milk powder 1:10 (SMP) \[Vita2You\]](/ice-creamery/info/ingredients/#skim-milk-powder-smp){target="_blank"}<sup>↗</sup>
-  - _10g_ [Whey + Casein protein (grass-fed) \[Vilgain\]](/ice-creamery/info/ingredients/#whey-protein){target="_blank"}<sup>↗</sup> • with stevia
-  - _0.75g_ Salt
-  - _0.75g_ [Xanthan gum (E415, XG)](/ice-creamery/info/ingredients/#xanthan-gum-xg-e415){target="_blank"}<sup>↗</sup> • 1tsp ≈ 2.8g
+  - _45g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> (≈3 tbsp) • *alternative:* 60g allulose or dextrose <a id="id-f44b101" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-f44b101">ℹ️</a>
+  - _25g_ [Inulin \[Vit4ever\]](/ice-creamery/info/ingredients/#inulin){target="_blank"}<sup>↗</sup> (≈1 tbsp + 2 tsp) • Sweetness = 8%; GI ~= 0 <a id="id-d8bc1db" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-d8bc1db">ℹ️</a>
+  - _10g_ [Skim milk powder 1:10 (SMP) \[Vita2You\]](/ice-creamery/info/ingredients/#skim-milk-powder-smp){target="_blank"}<sup>↗</sup> (≈2 tsp) <a id="id- " href="https://jhermann.github.io/ice-creamery/info/nutrition/#id- ">ℹ️</a>
+  - _10g_ [Whey + Casein protein (grass-fed) \[Vilgain\]](/ice-creamery/info/ingredients/#whey-protein){target="_blank"}<sup>↗</sup> (≈2 tsp) • with stevia <a id="id-b954be3" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-b954be3">ℹ️</a>
+  - _0.75g_ Salt (≈¼ tsp)
+  - _0.75g_ [Xanthan gum (E415, XG)](/ice-creamery/info/ingredients/#xanthan-gum-xg-e415){target="_blank"}<sup>↗</sup> (≈¼ tsp) • 1tsp ≈ 2.8g <a id="id-5236903" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-5236903">ℹ️</a>
 
 **Flavor (treat as Wet/Dry as appropriate)**
 
-  - _60g_ Strawberries
-  - _20g_ Strawberry powder [Supergarden]
-  - _2g_ Beet Root Powder (organic) [Mandoi] • optional, for color
+  - _60g_ Strawberries (≈4 tbsp) <a id="id-93f3a24" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-93f3a24">ℹ️</a>
+  - _20g_ Strawberry powder [Supergarden] (≈1 tbsp + 1 tsp) <a id="id-e1bc6d8" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-e1bc6d8">ℹ️</a>
+  - _2g_ Beet Root Powder (organic) [Mandoi] (≈½ tsp) • optional, for color <a id="id-72d8998" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-72d8998">ℹ️</a>
 
 **Fill to MAX**
 
-  - _125g_ Cream 32% [REWE Beste Wahl]
+  - _125g_ Cream 32% [REWE Beste Wahl] (≈4 oz + 2 ¼ tsp) <a id="id-92fa780" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-92fa780">ℹ️</a>
 
 # DIRECTIONS
 
@@ -80,9 +80,16 @@ Rating: 😋😋🥛🫐🫐 (Creamy and ice-free, with blueberries)
 
 # NUTRITIONAL & OTHER INFO
 
-- **Nutritional values per 100g/ml:** 100g; 120.7 kcal; fat 6.9g; carbs 16.7g; sugar 3.8g; protein 4.1g; salt 0.2g
-- **Nutritional values per ½ Deluxe Tub:** 340g; 410.4 kcal; fat 23.4g; carbs 56.9g; sugar 12.8g; protein 13.9g; salt 0.7g
-- **Nutritional values total:** 692g; 834.6 kcal; fat 47.6g; carbs 115.7g; sugar 26.1g; protein 28.2g; salt 1.4g
+| 🥗 Value | 100g | Serving | Total |
+| :--- | ---: | ---: | ---: |
+| ⚖️ Weight (g) | 100 | 340 | 692 |
+| 🔥 Energy (kcal) | 120.7 | 410.4 | 834.6 |
+| 🫒 Fat (g) | 6.9 | 23.4 | 47.6 |
+| 🍞 Carbohydrates (g) | 16.7 | 56.9 | 115.7 |
+| 🍬 Sugars (g) | 3.8 | 12.8 | 26.1 |
+| 💪 Protein (g) | 4.1 | 13.9 | 28.2 |
+| 🧂 Salt (g) | 0.2 | 0.7 | 1.4 |
+
 - **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 31.82
 - **Protein / Energy Ratio (ok=12%; hi=20%):** 13.52% • Low-Sugar
 - **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 41.3g • 6.0%
