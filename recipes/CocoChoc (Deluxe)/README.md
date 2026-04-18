@@ -28,6 +28,8 @@ tags:
 
 *CocoChoc* is a rich, tropical fusion where deep cocoa and dark chocolate meet the velvety smoothness of coconut.
 
+> 🌿 **Vegan & Dairy-free**
+
 The 100g of banana acts as a natural binder, providing a thick, fudgy body without overwhelming the chocolate profile.
 
 Process on *Light Ice Cream*, do a scrape-down, and MIX-IN or RESPIN
@@ -65,7 +67,7 @@ Process on *Light Ice Cream*, do a scrape-down, and MIX-IN or RESPIN
 
 **Adjust sweetness**
 
-  - _≈1 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
+  - _≈6 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
 
 # DIRECTIONS
 
