@@ -35,9 +35,9 @@ The 100g of banana acts as a natural binder, providing a thick, fudgy body witho
 Process on *Light Ice Cream*, do a scrape-down, and MIX-IN or RESPIN
 (choose depending on consistency you get after processing, and eventually want after 2nd spin).
 
-> <img width=220 alt="After 1st Spin" src="_1.jpg" class="zoomable" />
-> <img width=220 alt="After Mix-in" src="_2.jpg" class="zoomable" />
-> <img width=220 alt="Scooped" src="_3.jpg" class="zoomable" />
+> <img width=220 alt="After 1st Spin" src="CocoChoc_2026-04-24_1.jpg" class="zoomable" />
+> <img width=220 alt="Before Mix-in" src="CocoChoc_2026-04-24_2.jpg" class="zoomable" />
+> <img width=220 alt="After Mix-in" src="CocoChoc_2026-04-24_3.jpg" class="zoomable" />
 
 *Rating:* 😋🥥🍫 (untested)
 
