@@ -273,7 +273,7 @@ and used as a bulk agent, filler, and humectant. It can replace fat and sugar,
 reduce calories, and improve texture and mouthfeel. It is considered a prebiotic fiber
 and only has about 1 kcal/g.
 
-It is a long-chain, sugar-like molecule that is not fully digestible by human enzymes. 
+It is a long-chain, sugar-like molecule that is not fully digestible by human enzymes.
 EU regulations require labelling above 15g for possible GI issues in sensitive individuals,
 so take that into account. From a safety standpoint, there are no limits set.
 
@@ -426,6 +426,8 @@ Most thickeners are hydrocolloids, which are hydrophilic molecules that have a h
 
 Many thickeners also have an emulsifying effect.
 
+> ![Infographic showing types, ratios, and usage tips for natural hydrocolloid thickeners (E4xx group) in ice cream, including a spoon with thickened liquid, combination guidelines, and a table of recommended blends](https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/assets/info-graphic-thickeners-E4xx.png)
+
 Using only a singular thickener means you often miss out on synergistic effects of a combination of several thickeners, e.g. forming specific kinds of gels (SIGs).
 
  * Use guar/tara in combination with xanthan, ratio `4TG:1XG` or `3GG:1XG`.
@@ -481,7 +483,7 @@ It also enhances the freeze-thaw stability of ice cream.
 
 It can replace gelatin and also [Waxy Maize Starch (E1442)](#waxy-maize-starch-e1442),
 another modified starch, with similar results.
-More specifically E1422 is ideal for frozen and chilled foods, dressings, and bakery products, 
+More specifically E1422 is ideal for frozen and chilled foods, dressings, and bakery products,
 while E1442 is well-suited for acidic foods, high-temperature processing, and dairy products.
 
 ### Agar-Agar (E406)
@@ -517,7 +519,7 @@ and is an [EFSA authorised food additive](https://www.efsa.europa.eu/en/efsajour
 ### Carrageenans (E407)
 [Carrageenans](https://en.wikipedia.org/wiki/Carrageenan) are a family of natural polysaccharides derived from red seaweed (*Irish Moss*), and used as a thickening, emulsifying, and stabilizing agent. They improve texture and prevent ice crystal formation, and are often added to plant-based milks.
 
-Different types of carrageenan exist, each with slightly different properties, including κ-carrageenan, ι-carrageenan, and λ-carrageenan. 
+Different types of carrageenan exist, each with slightly different properties, including κ-carrageenan, ι-carrageenan, and λ-carrageenan.
 
  * *Kappa* forms strong, rigid gels in the presence of potassium ions, and reacts with dairy proteins.
  * *Iota* forms soft gels in the presence of calcium ions.
@@ -581,7 +583,7 @@ and is a vegan and gluten-free alternative to gelatin.
 
 HPMC is a plant-derived, semisynthetic polymer that is well-tolerated and poses no significant health risks,
 acting like a water-soluble dietary fiber.
-It is resistant to heat and humidity and is used to protect moisture-sensitive ingredients in various products. 
+It is resistant to heat and humidity and is used to protect moisture-sensitive ingredients in various products.
 
 ### Locust Bean Gum (LBG / E410)
 LBG is a vegetable-based hydrocolloid extracted from the seeds of the carob tree.
@@ -757,7 +759,7 @@ And see [Green Banana Powder](#green-banana-powder-plantain) for a more natural,
 Emulsifiers are major contributors to a smooth, creamy texture
 by stabilizing the fat and water components in ice cream, preventing their separation.
 They help create smaller ice crystals, leading to a smoother, creamier texture,
-and also play a role in controlling melting and enhancing the overall eating experience. 
+and also play a role in controlling melting and enhancing the overall eating experience.
 
 Egg yolk is a natural source of emulsifiers, particularly lecithin.
 
@@ -849,7 +851,7 @@ almond butter, bananas, dates, cashews, and hemp hearts.
 specifically representing about 80% of the total protein in milk from cows, goats, and sheep.
 It's a byproduct of cheese production, where it's separated from the whey.
 
-Unlike whey protein, which is rapidly absorbed, casein digests slowly, releasing amino acids over several hours. 
+Unlike whey protein, which is rapidly absorbed, casein digests slowly, releasing amino acids over several hours.
 It can help prevent muscle breakdown during periods of fasting.
 
 In ice cream, it leads to thicker and more dense consistencies compared to whey.
@@ -903,7 +905,7 @@ Also make sure to check for any added stabilizers and other additions in a produ
 a good product just needs milk/cream and salt, and maybe some yogurt.
 
 In ice cream it acts as a stabilizer (via its milk solids, proteins, and lactose),
-and improves texture. Cream cheese also contributes to a richer, denser flavor. 
+and improves texture. Cream cheese also contributes to a richer, denser flavor.
 
 
 ### Protein Powder in General
@@ -998,7 +1000,7 @@ Soured milk can be incorporated into ice cream recipes,
 especially when a tangy or slightly tart flavor is desired.
 It's important to consider the fat content and thickness
 when substituting soured milk for regular milk or cream.
-*Avoid heating the soured milk*, and whisk it in after a custard base has cooled. 
+*Avoid heating the soured milk*, and whisk it in after a custard base has cooled.
 
 ### Soy Milk
 Soy milk is a plant-based alternative to cow's milk made from soybeans.
@@ -1015,7 +1017,7 @@ all your "FP depression budget" on the boozy part.
 ### Soy Protein Isolate
 Soy protein isolate is a highly concentrated source of protein derived from soybeans.
 It's a protein powder that's been processed to remove non-protein components
-like fats and carbohydrates, resulting in a product that is over 90% protein. 
+like fats and carbohydrates, resulting in a product that is over 90% protein.
 
 It is used in ice cream primarily to improve its texture and stability,
 especially in low-fat versions, and to enhance the protein content.
@@ -1113,11 +1115,11 @@ It has about 67% of the sodium of table salt, and you can add up to 0.6% to a ba
 
 It can make the texture softer and creamier, potentially due to the formation of small cavities from CO₂ bubbles that weaken the bonding between ice crystals and other ingredients.
 
-Milk solids, cream, and stabilizers are more commonly used to achieve desired textures. 
+Milk solids, cream, and stabilizers are more commonly used to achieve desired textures.
 
 ### Cocoa Powder
 
-Cocoa powder is a key ingredient in chocolate ice cream, providing both flavor and color. It's made from cocoa beans, and the powder is essentially the solids left after much of the cocoa butter is removed. In ice cream, it adds a rich, chocolatey taste and contributes to the overall texture and melting properties. 
+Cocoa powder is a key ingredient in chocolate ice cream, providing both flavor and color. It's made from cocoa beans, and the powder is essentially the solids left after much of the cocoa butter is removed. In ice cream, it adds a rich, chocolatey taste and contributes to the overall texture and melting properties.
 
 The type of cocoa powder used can influence the flavor profile, with Dutch-process cocoa powder (a/k/a alkalized or European-style) often preferred for its milder, less acidic and bitter taste. It also has a darker color.
 
