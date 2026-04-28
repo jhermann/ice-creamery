@@ -542,7 +542,7 @@ leading to a better melting behaviour.
 
     In practice, look for food-grade or E466, plus a stated viscosity on the label or data sheet, or even better a general category: low, medium, or high viscosity. The unit used is millipascal-seconds (mPa·s) and defines how thick a liquid is. Glycerol has ~1500 mPa·s, and a standard 2% aqueous solution of "tylo powder" CMC at 25°C has about 2500–4500 mPa·s, similar to the thickness of heavy glucose syrup or honey.
 
-    My brand is *GoodBake* (EAN 4260598681623).
+    My brand is *GoodBake* (EAN 4260598681623), and 1tsp is 3.2g. Dissolved in 200ml for 'food glue' (1.6% w/v) it should have 600–1000 mPa·s.
 
 CMC is used to stabilize and improve the texture of ice cream.
 It's a thickening agent and emulsifier that is very good at
