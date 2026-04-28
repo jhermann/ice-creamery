@@ -534,16 +534,6 @@ leading to a better melting behaviour.
 
 ### Carboxymethyl Cellulose (CMC / E466)
 
-!!! science inline end "CMC Grades"
-
-    CMC comes in several practical grades, but for a home cook the main difference is viscosity and solubility. Some grades hydrate quickly and stay fairly light, while others build much more body and can make a mix feel thicker or more elastic.
-
-    For ice cream, this matters because a lower-viscosity grade usually gives a cleaner, smoother texture, while a higher-viscosity grade gives more water binding and more resistance to melting. If the grade is too strong, the result can turn gummy or slightly slimy instead of pleasantly creamy. In practice, a *medium food-grade CMC* is often the safest all-purpose choice.
-
-    In practice, look for food-grade or E466, plus a stated viscosity on the label or data sheet, or even better a general category: low, medium, or high viscosity. The unit used is millipascal-seconds (mPa·s) and defines how thick a liquid is. Glycerol has ~1500 mPa·s, and a standard 2% aqueous solution of "tylo powder" CMC at 25°C has about 2500–4500 mPa·s, similar to the thickness of heavy glucose syrup or honey.
-
-    My brand is *GoodBake* (EAN 4260598681623), and 1tsp is 3.2g. Dissolved in 200ml for 'food glue' (1.6% w/v) it should have 600–1000 mPa·s.
-
 CMC is used to stabilize and improve the texture of ice cream.
 It's a thickening agent and emulsifier that is very good at
 preventing ice crystals from forming, resulting in a smoother,
@@ -558,6 +548,16 @@ CMC should be used in combination with GMS, see there for ratios.
 CMC forms weak gels by itself but gels well in combination with carrageenan, LBG, or guar gum.
 
 *Also know as:* cellulose gum / Tylo / Tylose / Blütenpuder.
+
+!!! science "CMC Grades"
+
+    CMC comes in several practical grades, but for a home cook the main difference is viscosity and solubility. Some grades hydrate quickly and stay fairly light, while others build much more body and can make a mix feel thicker or more elastic.
+
+    For ice cream, this matters because a lower-viscosity grade usually gives a cleaner, smoother texture, while a higher-viscosity grade gives more water binding and more resistance to melting. If the grade is too strong, the result can turn gummy or slightly slimy instead of pleasantly creamy. In practice, a *medium food-grade CMC* is often the safest all-purpose choice.
+
+    In practice, look for food-grade or E466, plus a stated viscosity on the label or data sheet, or even better a general category: low, medium, or high viscosity. The unit used is millipascal-seconds (mPa·s) and defines how thick a liquid is. Glycerol has ~1500 mPa·s, and a standard 2% aqueous solution of "tylo powder" CMC at 25°C has about 2500–4500 mPa·s, similar to the thickness of heavy glucose syrup or honey.
+
+    My brand is *GoodBake* (EAN 4260598681623), and 1tsp is 3.2g. Dissolved in 200ml for 'food glue' (1.6% w/v) it should have 600–1000 mPa·s.
 
 ### Gelatin
 Gelatin acts as a stabilizer, preventing ice crystal formation and
