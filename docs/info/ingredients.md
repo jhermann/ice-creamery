@@ -445,7 +445,7 @@ Using only a singular thickener means you often miss out on synergistic effects 
 
 !!! science "Relative Viscosity of Gums"
 
-    Gum viscosity depends on temperature, shear rate, pH, and gum grade; it's also strongly concentration- and shear-dependent. For fully hydrated single-gum solutions of 0.2% w/v in water at 25°C the following table gives an *estiomation*.
+    Gum viscosity depends on temperature, shear rate, pH, and gum grade; it's also strongly concentration- and shear-dependent. For fully hydrated single-gum solutions of 0.2% w/v in water at 25°C the following table gives an *estimation*.
 
     | Gum                   |        Published intrinsic viscosity used | Estimated viscosity at 0.2% w/v |
     | --------------------- | ----------------------------------------: | ------------------------------: |
