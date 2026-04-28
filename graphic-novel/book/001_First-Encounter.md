@@ -1,4 +1,15 @@
-# 🎬 The First Creami Encounter
+# 🎬 The Creami Stories: First Encounter
+
+> In a world where the "Crystal Clan" has turned every dessert into a block of flavorless ice, one ninja stands between the world and a bad texture. **Kuri-0** is a rogue alchemist who mastered the "Forbidden Spin" to bring silkiness back to the people.
+>
+> But there is the great terror named **Kobu**, using the most dangerous weapon of all: **Uneven Expansion**. He is known as the "Blade-Breaker" because he is the only enemy Kuri-0 cannot simply spin through.
+>
+> They meet in "The Freezer" (Reitō-ko), a cold, silent purgatory where ingredients go to transform.
+
+![Kuri-0 faces Kobu in the freezer, graphic novel scene](001_First-Encounter.png)
+
+----
+----
 
 ## PAGE ONE (4 Panels, portrait, 9:16)
 
