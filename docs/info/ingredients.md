@@ -443,6 +443,22 @@ Using only a singular thickener means you often miss out on synergistic effects 
   * *Soy Lecithin + LBG + GG + λC* (eggless): 4:4:2:1, 1g+1g+0.5g+0.25g / 1kg (0.4% of water weight); has to be heated to >80°C for full LBG hydration.
   * *CMC + GG + λC* (sorbet): 2:1:1, 2g+1g+1g / 1kg (0.5% of water weight); no cooking; add 1g lecithin when you have fatty ingredients (nut butter, melted chocolate, ...).
 
+!!! science "Relative Viscosity of Gums"
+
+    Gum viscosity depends on temperature, shear rate, pH, and gum grade; it's also strongly concentration- and shear-dependent. For fully hydrated single-gum solutions of 0.2% w/v in water at 25°C the following table gives an *estiomation*.
+
+    | Gum                   |        Published intrinsic viscosity used | Estimated viscosity at 0.2% w/v |
+    | --------------------- | ----------------------------------------: | ------------------------------: |
+    | Xanthan               |                       15.5 m³/kg in water |                       ~32 mPa·s |
+    | Tara                  | 6.9–16.46 dL/g, depending on source/grade |                  ~2.4–4.3 mPa·s |
+    | Guar                  |                                 12.5 dL/g |                      ~3.5 mPa·s |
+    | Locust bean gum (LBG) |                                11.03 dL/g |                      ~3.2 mPa·s |
+    | CMC                   |                              3.16155 dL/g |                     ~1.63 mPa·s |
+    | Gum arabic            |                                  0.6 dL/g |                     ~1.12 mPa·s |
+
+    *The practical takeaway is:* xanthan is the most powerful, with gum arabic at the other end of the spectrum.
+    Tara/guar/LBG form an overlapping middle group, with CMC below that.
+
 ### Acacia Gum (Gum Arabic / E414)
 
 Acacia gum, also known as gum arabic, acts as a stabilizer, emulsifier, and thickener in ice cream,
