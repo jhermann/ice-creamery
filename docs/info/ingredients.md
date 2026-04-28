@@ -125,6 +125,9 @@ See the table above and the next section for details.
 
 ## Sweeteners
 
+> ----
+> ![Infographic summarizing ice cream sweeteners, their functions, benefits, and best uses](https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/assets/sweeteners-at-a-glance.png)
+
 ### Allulose
 Allulose is a low-calorie sweetener (about 10% the energy of sucrose, and a GI of zero),
 that can be used to replace some or all of the sugar in a recipe, and does not count as "added sugar."
