@@ -8,6 +8,7 @@ excluded_tags:
 - Dairy
 - Vanilla
 tags:
+- Base Recipe
 - Emulsifier
 - Erythritol
 - Hi-Protein
@@ -26,14 +27,14 @@ tags:
 <img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="logo-ESoN.webp" />
 
 > *Scoop big. Nom bigger. Taste the ESN.*
-> 
+>
 > <img width=240 alt="ESN Flavor Powder" src="ESoN_2025-07-17_1.jpg" class="zoomable" />
 
 This is a recipe specifically for ESN’s “Designer Flavor Powder”
 — it is a low-sugar soy milk base with a touch of vanilla and only mild sweetness without the flavor powder.
 
 > <img width=240 alt="Dry Ingredients" src="ESoN_2025-07-17_2.jpg" class="zoomable" />
-> 
+>
 > 🌿 **Vegan & Dairy-free**<br />Recipe is using only soy milk and protein.
 
 Spin on “FroYo”, scrape down, and mix-in.

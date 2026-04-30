@@ -10,6 +10,7 @@ replace:
 - Fill to MAX=>Flavor (treat as Wet/Dry as appropriate)
 - Mix-ins=>Fill to MAX
 tags:
+- Base Recipe
 - Erythritol
 - Fruit
 - Low-Sugar

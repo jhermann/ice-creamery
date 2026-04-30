@@ -16,6 +16,7 @@ social:
     background_color: orange
     background_image: Mango-Kefir_2025-06-02_3.jpg
 tags:
+- Base Recipe
 - Dairy
 - Emulsifier
 - Erythritol
@@ -49,7 +50,7 @@ Served after 1h refreezing with pomegranate syrup.
 > <img width=220 alt="Spun Ice Cream" src="Mango-Kefir_2025-06-02_1.jpg" class="zoomable" />
 > <img width=220 alt="After Respin" src="Mango-Kefir_2025-06-02_2.jpg" class="zoomable" />
 > <img width=220 alt="Served" src="Mango-Kefir_2025-06-02_4.jpg" class="zoomable" />
-> 
+>
 > Rating: 😋😋😋 (flavor is good, and newer versions fixed creaminess)
 
 > <img width=331 alt="Spun Ice Cream" src="Fruit-Kefir_2025-09-26_1.jpg" class="zoomable" />

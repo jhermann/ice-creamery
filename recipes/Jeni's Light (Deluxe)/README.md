@@ -11,6 +11,7 @@ excluded_tags:
 - Allulose
 - Vanilla
 tags:
+- Base Recipe
 - Dairy
 - Erythritol
 - Low-Sugar
@@ -43,7 +44,7 @@ Add any flavor to your liking, e.g. 1-2 tsp vanilla extract.
 > <img width=220 alt="After Light Ice Cream" src="Jenis-Light_2025-09-21_1.jpg" class="zoomable" />
 > <img width=220 alt="After Mix-in" src="Jenis-Light_2025-09-21_2.jpg" class="zoomable" />
 > <img width=220 alt="Scooped" src="Jenis-Light_2025-09-21_3.jpg" class="zoomable" />
-> 
+>
 > *With 2tsp vanilla extract and ½ tsp ground vanilla added* • Rating: 😋🐮🥛🍦🍦 (good vanilla flavor, very soft & creamy, no ice crystals)
 
 > <img width=332 alt="Served" src="Jenis-Light_2025-09-21_4.jpg" class="zoomable" />

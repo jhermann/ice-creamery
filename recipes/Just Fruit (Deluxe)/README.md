@@ -7,6 +7,7 @@ excluded_tags:
 - Allulose
 - Dairy$
 tags:
+- Base Recipe
 - Dairy-Free
 - Erythritol
 - Fruit

@@ -10,6 +10,7 @@ excluded_steps:
 excluded_tags:
 - Vanilla
 tags:
+- Base Recipe
 - Cooked Base
 - Draft
 - Simple

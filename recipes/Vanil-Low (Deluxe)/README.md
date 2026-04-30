@@ -7,6 +7,7 @@ excluded_tags:
 - Allulose
 - Fruit
 tags:
+- Base Recipe
 - Dairy
 - Emulsifier
 - Erythritol
@@ -44,7 +45,7 @@ Rating: 😋😋😋😋😋
 > <img width=330 alt="After Light-Ice-Cream" src="Vanillow_2025-08-11_1Light-Ice-Cream.jpg" class="zoomable" />
 > <img width=330 alt="After Mix-in" src="Vanillow_2025-08-11_2Mix-in.jpg" class="zoomable" />
 > <img width=330 alt="Served" src="Vanillow_2025-08-11_3.jpg" class="zoomable" />
-> 
+>
 > *2025-08-11: With frozen mint chocolate wafers as a mix-in.*
 
 Use fruit / yam root powder instead of the vanilla for a different taste and color.

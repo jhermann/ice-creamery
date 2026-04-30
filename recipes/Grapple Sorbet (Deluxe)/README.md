@@ -8,6 +8,7 @@ excluded_tags:
 - Dairy$
 - Vanilla
 tags:
+- Base Recipe
 - Dairy-Free
 - Erythritol
 - Light
@@ -39,7 +40,7 @@ Spin on “Sorbet”, scrape down, and re-mix.
 > <img width=220 alt="After Respin" src="Appear_2025-09-08_3.jpg" class="zoomable" />
 > <img width=220 alt="Scooped" src="Appear_2025-09-08_4.jpg" class="zoomable" />
 > <img width=220 alt="Served" src="Appear_2025-09-08_5.jpg" class="zoomable" />
-> 
+>
 > Apple + Pear juice • *Rating:* 😋🍎🍏🍐❄️ (non-sharp ice crystals due to the low solids, as sorbet-like as it gets)
 
 # INGREDIENTS

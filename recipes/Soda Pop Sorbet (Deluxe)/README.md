@@ -8,6 +8,7 @@ excluded_tags:
 - Fruit
 - Vanilla
 tags:
+- Base Recipe
 - Dairy-Free
 - Emulsifier
 - Erythritol
@@ -38,14 +39,14 @@ Soda sorbet from 0-cal syrup. Works with any 0-sugar soda syrup — increase the
 
 > <img width=280 alt="After Sorbet spin" src="afri-cola_2025-07-02_1.jpg" class="zoomable" />
 > <img width=280 alt="After scrape-down + mix-in" src="afri-cola_2025-07-02_2.jpg" class="zoomable" />
-> 
+>
 > *Processed on Sorbet, followed by a scrape-downand a mix-in run.*
 >
 > Rating: 😋😋🥤🥤
 
 > <img width=370 alt="Scooped, with black sesame" src="afri-cola_2025-07-02_3.jpg" class="zoomable" />
 > <img width=185 alt="Instant Brainfreeze" src="afri-cola_2025-07-02_4.jpg" class="zoomable" />
-> 
+>
 > *Served with black sesame seeds, and as a float with 1tsp of vanilla extract and sweetener in sparkling water.*
 
 # INGREDIENTS

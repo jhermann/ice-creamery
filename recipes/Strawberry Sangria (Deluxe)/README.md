@@ -13,6 +13,7 @@ tags:
 - Light
 - Low-Fat
 - Low-Sugar
+- Multi-Flavor
 - Polysaccharide Gum
 - Scoopable
 - Sorbet
@@ -38,22 +39,22 @@ Comes out “soft scoopable”, refreeze for at least 1–2 hours.
 Rating: 😋🍷🍓🍓🍓
 
 > <img width=360 alt="Served" src="Strawberry-Sangria_Scooped_2025-06-15_1.jpg" class="zoomable" />
-> 
+>
 > *Served a day later, with a drizzle of pomegranate syrup.*
 
 > <img width=360 alt="Variation by u/_phillimore" src="u-_phillimore-pinot-noir-blueberries-raspberries.webp" class="zoomable" />
-> 
+>
 > *Variation by [u/\_phillimore](https://www.reddit.com/user/_phillimore/): Pinot noir, blueberries, and raspberries.*
- 
+
 > <img width=244 alt="Berry mix and CMC" src="Sangria_2025-07-07_3.jpg" class="zoomable" />
 > <img width=196 alt="Berry mix and CMC" src="Sangria_2025-07-07_4.jpg" class="zoomable" />
-> 
+>
 > *Using a 1:1 mix of strawberries and blueberries, 15g inulin, 15g soy protein, 1g XG, and 1.5g CMC. Served with a dusting of powdered erythritol.*
 
 > <img width=220 alt="After Sorbet" src="SB-Sangria_2025-12-21_1.jpg" class="zoomable" />
 > <img width=220 alt="After Respin" src="SB-Sangria_2025-12-21_2.jpg" class="zoomable" />
 > <img width=220 alt="Scooped" src="SB-Sangria_2025-12-21_3.jpg" class="zoomable" />
-> 
+>
 > Dec 2025: Processed on Sorbet, held under tap water, scrape-down, respin.
 
 # INGREDIENTS

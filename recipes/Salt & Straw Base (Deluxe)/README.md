@@ -6,6 +6,7 @@ excluded_steps:
 excluded_tags:
 - Vanilla
 tags:
+- Base Recipe
 - Draft
 - Fruit
 - Polysaccharide Gum

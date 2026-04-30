@@ -15,6 +15,7 @@ remove:
 replace:
 - Fill to MAX=>Adjust sweetness
 tags:
+- Base Recipe
 - Coconut
 - Cooked Base
 - Dairy
@@ -41,7 +42,7 @@ You can vary by using different fruit, possibly mixing them, see below for inspi
 
 > <img width=150 alt="Spun Ice Cream" src="Coco-Banana_2025-04-06.jpg" class="zoomable" />
 > <img width=150 alt="Spun Ice Cream" src="Coco-Strawberry_2025-04-06.jpg" class="zoomable" />
-> 
+>
 > *Banana and strawberry versions.*
 
 Process on *Light Ice Cream*, do a scrape-down, and MIX-IN or RESPIN (choose depending on consistency you get after processing, and eventually want after 2nd spin).
@@ -49,7 +50,7 @@ Process on *Light Ice Cream*, do a scrape-down, and MIX-IN or RESPIN (choose dep
 > <img width=220 alt="After Light Ice Cream" src="Cocofruit-Cherry_2025-09-28_1.jpg" class="zoomable" />
 > <img width=220 alt="After Respin" src="Cocofruit-Cherry_2025-09-28_2.jpg" class="zoomable" />
 > <img width=220 alt="Scooped" src="Cocofruit-Cherry_2025-09-28_3.jpg" class="zoomable" />
-> 
+>
 > Rating: 😋🍓🍌🫐🥥 (Cherry / 2g Beet root; Light Ice Cream + Respin, very soft, no ice crystals)
 
 # INGREDIENTS

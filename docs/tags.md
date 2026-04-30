@@ -15,6 +15,7 @@ Some tags probably need an explanation:
  * [Light](#tag:light) recipes have an energy value of at most 75 kcal/100g.
  * [Simple](#tag:simple) recipes have a reduced amount of ingredients, which are 'non-exotic', or have an alternative that is. See details at [About 'Simple' Recipes](/ice-creamery/info/tips%2Btricks/#about-simple-recipes).
  * [Scoopable](#tag:scoopable) recipes are guaranteed freezer-stable due to a PAC value of at least 30.
+ * [Base Recipe](#tag:base-recipe) and [Multi-Flavor](#tag:multi-flavor) are recipes designed to provide variation by swapping fruit or other flavor components.
  * [Polysaccharide Gum](#tag:polysaccharide-gum) contain one of LBG, xanthan, guar or tara gum.
  * [Alcohol](#tag:alcohol) only marks explicitly 'boozy' recipes; many others contain small amounts of pure ethanol (typically 4g, or 0.6%) to help with [Freezing Point Depression](../info/glossary/#freezing-point-depression-factor-fpdf).
 

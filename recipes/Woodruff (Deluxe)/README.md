@@ -7,6 +7,7 @@ excluded_tags:
 - Allulose
 - Vanilla
 tags:
+- Base Recipe
 - Emulsifier
 - Erythritol
 - Hi-Protein
