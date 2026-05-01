@@ -45,7 +45,7 @@ by adding tannin or tannic acid to your base (also used in wine production).
 
 ## What nutritional metrics are highlighted in the recipes?
 
-Beyond standard nutritional values (calories, fat, carbs, sugar, protein, salt), the recipes often include metrics like "FPDF / PAC (target 20..30)", "Protein / Energy Ratio (ok=12%; hi=20%)", and "Milk Solids Non-Fat (MSNF, 7-11%)". 
+Beyond standard nutritional values (calories, fat, carbs, sugar, protein, salt), the recipes often include metrics like "FPDF / PAC (target 20..30)", "Protein / Energy Ratio (ok=12%; hi=20%)", and "Milk Solids Non-Fat (MSNF, 7-11%)".
 
 This shows a focus on optimizing the recipes for factors like freeze point depression, protein content relative to calories, and the percentage of non-fat milk solids, which can impact the texture and nutritional profile of the frozen dessert.
 
@@ -64,3 +64,30 @@ Several recipes are listed under this category at the bottom of the "Tags" page.
 The general process involves weighing and mixing "wet" and "dry" ingredients, typically using an immersion blender to ensure thickeners are properly hydrated. The mixture is then frozen for 24 hours.
 
 After freezing, the base is typically processed in a Ninja Creami machine, often with the "RESPIN" mode if the texture is not creamy enough after the initial processing.
+
+## Which model should I buy?
+
+Reddit's [r/ninjacreami](https://www.reddit.com/r/ninjacreami/) answers (in the last 12 months as of May 2026):
+
+- Best all-around pick: Deluxe (if price is close).
+- Best for solo/smaller portions: regular model.
+- Swirl: only worth it if you really want the dispensing feature.
+
+What people said most often:
+
+- Deluxe wins on flexibility: bigger tubs and half-tub processing.
+- Regular wins on simplicity and portion control.
+- Swirl got mixed reviews: more cleanup/steps, and some said texture melts fast.
+- If you already own a Creami, most said upgrading to Swirl is not worth it.
+
+Sources:
+
+- [Differences in Creami Models](https://www.reddit.com/r/ninjacreami/comments/1n33wa9/differences_in_creami_models/)
+- [Ninja OG vs Deluxe](https://www.reddit.com/r/ninjacreami/comments/1n90zyk/ninja_og_vs_deluxe/)
+- [Any regrets on 16oz size (7in1) vs 24oz (XL deluxe)](https://www.reddit.com/r/ninjacreami/comments/1or3lfd/any_regrets_on_16oz_size_7in1_vs_24oz_xl_deluxe/)
+- [Which of these CREAMi machines is better? The one from Costco or Sam's Club?](https://www.reddit.com/r/ninjacreami/comments/1pq78k9/which_of_these_creami_machines_is_better_the_one/)
+- [Normal or deluxe](https://www.reddit.com/r/ninjacreami/comments/1khpb4w/normal_or_deluxe/)
+- [Is it worth getting the Ninja Swirl if I already have the Creami?](https://www.reddit.com/r/ninjacreami/comments/1m954l5/is_it_worth_getting_the_ninja_swirl_if_i_already/)
+- [On edge between Ninja Creami Deluxe and Ninja Swirl?](https://www.reddit.com/r/ninjacreami/comments/1rjitfi/on_edge_between_ninja_creami_deluxe_and_ninja/)
+- [What would you buy if you had the choice again? Swirl or the Deluxe? I can't decide](https://www.reddit.com/r/ninjacreami/comments/1syk3e4/what_would_you_buy_if_you_had_the_choice_again/)
+- [Is the ninja creamy or ninja swirl worth it?](https://www.reddit.com/r/ninjacreami/comments/1rp794c/is_the_ninja_creamy_or_ninja_swirl_worth_it/)
