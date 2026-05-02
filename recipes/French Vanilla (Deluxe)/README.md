@@ -20,7 +20,7 @@ tags:
 - Xylitol
 ---
 # French Vanilla (Deluxe)
-<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="logo-french-vanilla.png" />
+<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="logo-french-vanilla-2.png" />
 
 This is a thick, custard-style vanilla ice cream made with whole eggs and soy milk, to creates a rich, traditional base
 that is much higher in protein than standard pints. Because it uses sugar-free sweeteners and plant fibers, it gives you
