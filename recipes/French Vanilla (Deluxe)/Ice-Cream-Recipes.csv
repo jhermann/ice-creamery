@@ -1,0 +1,43 @@
+"French Vanilla (Deluxe)";;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;"Amount";"Unit";;"kcal";"Fat";"Carbs";"Sugar";"Protein";"Salt";"FPDF";"MSNF";;;;
+"Nutritional values per 100g/ml";100;"g";;119.9;4.9;13.7;4.2;7.5;0.3;;;;;;
+"Nutritional values per ½ Deluxe Tub";340;"g";;407.5;16.7;46.4;14.3;25.4;0.9;;;;;;
+"Nutritional values total";687;"g";;823.4;33.7;93.8;28.8;51.4;1.8;;;;;;
+;;;;;;;;;;;;;;;
+"FPDF / PAC (target 20..30)";30.22;;;;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";24.97%;;;"";"";;"Low-Sugar";"Hi-Protein";"";;;;;;
+"ℹ️ Milk Solids Non-Fat (MSNF, 7-11%)";62.6;"g";;9.1%;;;;;;;;;;;
+"ℹ️ Net carbs";38.1;"g";;"*∝ 5 servings@137g:* 7.6g";;;"*∝ 3 servings@229g:* 12.7g";;;"*energy ratio (low <20%):* 18.5%";;;;;
+;;;;;;;;;;;;;;;
+"This is a thick, custard-style vanilla ice cream made with whole eggs and soy milk, to creates a rich, traditional base
+that is much higher in protein than standard pints. Because it uses sugar-free sweeteners and plant fibers, it gives you
+the creamy satisfaction of a classic custard without the heavy sugar crash.
+
+The flavor is focused on real vanilla bean. It’s a perfect match for someone
+who wants a filling, protein-packed dessert with a professional, silky finish.";;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+"Spin on “Light Ice Cream”, scrape down, and re-mix if needed.";;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+"Rating: 😋🥛🥚 (untested)";;;;;;;;;;;;;;;
+"1. Put all the ‘prep’ and pre-mixed dry ingredients into a saucepan, carefully heat over medium heat to 82°C, while wisking constantly. DO NOT BOIL!
+ 1. Take off the heat, add ‘wet’ ingredients, let it cool down.
+ 1. Pour the base into a Creamit tub, add the cream and liquid sweetener and stir.";;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+"Ingredients";"Amount";"Unit";"#";"kcal";"Fat";"Carbs";"Sugar";"Protein";"Salt";"FPDF";"MSNF";"Comment";"0Carb[%]";"Counts?";"ID"
+"Soy milk 1.6% (sugar-free) [Berief]";350.00;"ml";0;30.00;1.60;0.90;0.00;3.00;0.08;;4.00;"*alternative:* any other preferred milk (~2% fat)";;1;"2755284"
+"Eggs";175.00;"g";0;153.00;11.00;0.60;0.40;13.00;0.32;;;"1 medium egg 55–60g";;1;"2d52658"
+"Brandy or Vodka 40 vol%";15.00;"g";1;280.00;;;;;;2.96;;"*alternative:* same amount additional VG for a sober recipe";;1;"63b8bf1"
+"Glycerin (E422, VG) [hd-line]";10.00;"g";1;400.00;;99.00;;;;3.70;;"*alternative:* 8g (additional) VG for a sober recipe";50.00;1;"8717e6d"
+"Vanilla Extract (w/ alcohol) [Native Vanilla]";5.00;"ml";1;300.00;;;;;;2.22;;;;1;"92d1980"
+"Milk 3.5% [Weihenstephan]";;"ml";1;64.00;3.50;4.70;4.70;3.50;0.13;0.05;8.97;;;1;"00b192d"
+"Water (cold)";;"ml";1;;;;;;;;;;;1;"87f72fd"
+"Milk powder 1:10 (skim, SMP) [Vita2You]";50.00;"g";2;358.00;0.97;50.50;50.50;35.00;1.00;0.51;94.03;;;1;"074ed6d"
+"SweEX (Erythritol + Xylitol 3:2)";30.00;"g";2;109.60;;100.00;;;;2.56;;"*alternative:* 40g allulose or dextrose";100.00;1;"f44b101"
+"Inulin [Vit4ever]";15.00;"g";2;210.00;;97.00;8.00;;0.20;0.09;;"Sweetness = 8%; GI ~= 0";89.00;1;"d8bc1db"
+"Salty Stability [Inulin / GMS / CMC / Guar / XG / Salt]";10.00;"g";2;267.5;3.6;88.4;5.9;0.3;3.5;0.06;;"*not-as-good substitute:* 1g guar, 0.3g xanthan, and 0.3g salt";73.80;1;"3d1ecef"
+"Vanilla Bean Powder [InterVanilla]";2.00;"g";2;288.00;0.10;13.00;13.00;0.00;0.00;;;;;1;"538e9f6"
+"Salt";;"g";2;;;;;;100.00;5.90;;"1 quick shakes (with my shaker)";;1;"49f8edc"
+;;;;;;;;;;;;;;;
+"Cream 32% [REWE Beste Wahl]";25.00;"ml";3;311.00;32.00;3.20;3.20;2.50;0.13;0.03;6.32;;;1;"92fa780"
+"Flavor drops Vanilla (sucralose) [IronMaxx]";"≈3";"drops";3;;;;;;;;;"to taste";;"";"7c57f43"
