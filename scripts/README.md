@@ -26,7 +26,7 @@ Use when formulating, optimizing, or troubleshooting ice cream and gelato recipe
 ### Example
 
 ----
-> 🤖 give me a vanilla protein ice cream 460g batch size, just the ingredients table
+> 🤖🔷 give me a vanilla protein ice cream 460g batch size, just the ingredients table
 
 Here is a balanced, high-protein vanilla ice cream recipe formulated for a standard **460g batch** (perfect for a Ninja Creami pint or traditional churner).
 
@@ -44,7 +44,7 @@ Here is a balanced, high-protein vanilla ice cream recipe formulated for a stand
 | **Total Weight** | **460g** | |
 
 ----
-> 🤖 show total kcal, fat, sugar, and PAC/POD normalized to 100g
+> 🤖🔷 show total kcal, fat, sugar, and PAC/POD normalized to 100g
 
 🗒️ *Note on PAC and POD: These values are normalized to sucrose (table sugar), which has a baseline PAC (freezing point depression factor) of 100 and a POD (sweetening power) of 100.*
 
@@ -78,7 +78,7 @@ Create your *NotebookLM*:
 7. You should now have 7 sources.
 
 ----
-> 🤖🗒️ explain the sources, in a very terse form, just the facts
+> 🤖📓 explain the sources, in a very terse form, just the facts
 
 Nutrient profiles from the **[Australian Food Composition Database (AFCD)](https://afcd.foodstandards.gov.au/)** and custom files provide technical data like fat, sugar, and protein for thousands of ingredients. Expert science guides define scoopability through PAC (freezing point depression) and sweetness via POD so you can balance your base for the perfect texture.
 
