@@ -15,7 +15,8 @@
   pytest tests/test_utils.py
   ```
 - **Linting:**
-  - Follow PEP 8 and the custom rules in `.github/instructions/python-style.instructions.md`.
+  - Follow PEP 8 and `.github/instructions/python-style.instructions.md`.
+  - Key custom rules: 110-char max lines, 4-space indentation, double-quote preference, and grouped imports.
 
 ## High-Level Architecture
 
@@ -31,6 +32,7 @@
 
 ## Key Conventions
 
+- Apply only the conventions relevant to the file type you are editing.
 - **Python:**
   - Use only `pytest` for tests; place fixtures in `tests/conftest.py`.
   - Adhere to the style and test rules in `.github/instructions/python-style.instructions.md` and `.github/instructions/python-tests.instructions.md`.
