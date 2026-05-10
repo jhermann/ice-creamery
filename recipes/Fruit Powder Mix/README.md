@@ -9,15 +9,14 @@ excluded_tags:
 - Vanilla
 tags:
 - Dairy
-- Draft
 - Erythritol
 - Fruit
 - Hi-Protein
-- Low-Fat
 - Low-Sugar
 - Multi-Flavor
 - Polysaccharide Gum
 - Scoopable
+- Stevia
 - Tylo Powder (CMC)
 - Vegan
 - Xylitol
@@ -28,11 +27,11 @@ tags:
 This one is a favorite, so it gets its own recipe mix for convenient indulgence…
 
 It works for fruit or root powders with a sugar content from low (Ube, 10%) to high (Lingonberry, 73%).
-Counting the pre-made mix as one, it is a 6 ingredients recipe for the final base, including the water.
+Counting the pre-made mix as one, it is a 8 ingredients recipe for the final base, including the cream and flavor drops.
 
-Use 93g of the mix in your final base (or 62g for a regular 16oz tub).
+Use 85g of the mix in your final base (or 57g for a regular 16oz tub).
 
-> 🌿 **Vegan & Dairy-free Option**<br />Replace the SMP & whey with soy protein isolate, and the cottage cheese with silken tofu.
+> 🌿 **Vegan & Dairy-free Option**<br />Replace the cottage cheese with 75g silken tofu, and use vegan cream.
 
 Spun in Light Ice Cream mode, plus a scrape-down and a mix-in run — optionally with 10g freeze-dried fruit, e.g. strawberry slices.
 Comes out as soft-serve, put it back into the cold for 45min for a firmer consistency.
@@ -40,27 +39,27 @@ Comes out as soft-serve, put it back into the cold for 45min for a firmer consis
 > <img width=240 alt="Spun Ice Cream Strawberry" src="Strawberry-FP-Mix_2024-11-21.jpg" class="zoomable" />
 > <img width=240 alt="Spun Ice Cream Ube" src="Ube-FP-Mix_2025-06-19_1.jpg" class="zoomable" />
 > <img width=240 alt="Spun Ice Cream Ube" src="Ube-FP-Mix_2025-06-19_2.jpg" class="zoomable" />
-> 
-> *Processed strawberry, and ube ice cream after spinning and scooped.*
+
+> *Processed strawberry and ube ice cream.*
 
 To make your life easier, take the “prep” ingredients times 5 (see list below), mix them,
 and store in an air-tight 1l container (the powder has a low density and needs space).
 To mix, take a **BIG** bowl like used for baking, measure the ingredients on a scale,
 and whisk them carefully but thoroughly. A ball whisk works best.
 
-**Serves:** 5 tubs           
-**Total:** 463 g           
-**Per tub:** 93 g           
+**Serves:** 5 tubs
+**Total:** 425 g
+**Per tub:** 85 g
 
  * 150 g Erythritol (E968)
  * 75 g Inulin [Vit4ever]
- * 75 g Skim Milkpowder 1:10 [Vita2You]
- * 75 g Whey protein Vanilla [MaxiNutrition]
- * 75 g Xylitol
+ * 100 g Soy protein isolate (nature) [Powerstar]
+ * 75 g Xylitol (E967)
+ * 10 g Vanilla Bean Powder [InterVanilla]
  * 7.50 g Tylose powder (E466, Tylo, CMC)
- * 2.50 g Guar gum (E412)
+ * 4 g Guar gum (E412)
  * 2.50 g Salt
- * 0.75 g Xanthan gum (E415, XG)
+ * 1 g Xanthan gum (E415, XG)
 
 # INGREDIENTS
 
@@ -68,46 +67,63 @@ and whisk them carefully but thoroughly. A ball whisk works best.
 
 **Prep**
 
-  - _30g_ [Erythritol (E968)](/ice-creamery/info/ingredients/#erythritol-e968){target="_blank"}<sup>↗</sup> • Sweetness = 75%
-  - _15g_ [Inulin \[Vit4ever\]](/ice-creamery/info/ingredients/#inulin){target="_blank"}<sup>↗</sup> • Sweetness = 8%; GI ~= 0
-  - _15g_ [Skim Milkpowder 1:10 \[Vita2You\]](/ice-creamery/info/ingredients/#skim-milk-powder-smp){target="_blank"}<sup>↗</sup>
-  - _15g_ [Whey protein Vanilla \[MaxiNutrition\]](/ice-creamery/info/ingredients/#whey-protein){target="_blank"}<sup>↗</sup>
-  - _15g_ [Xylitol](/ice-creamery/info/ingredients/#xylitol-e967){target="_blank"}<sup>↗</sup> • Sweetness = 100%; GI = 7
-  - _1.5g_ [Tylose powder (E466, Tylo, CMC)](/ice-creamery/info/ingredients/#carboxymethyl-cellulose-cmc-e466){target="_blank"}<sup>↗</sup>
-  - _0.5g_ [Guar gum (E412)](/ice-creamery/info/ingredients/#guar-gum-e412){target="_blank"}<sup>↗</sup>
-  - _0.5g_ Salt
-  - _0.15g_ [Xanthan gum (E415, XG)](/ice-creamery/info/ingredients/#xanthan-gum-xg-e415){target="_blank"}<sup>↗</sup>
+  - _30g_ [Erythritol (E968)](/ice-creamery/info/ingredients/#erythritol-e968){target="_blank"}<sup>↗</sup> (≈2 tbsp) • Sweetness = 75%
+  - _15g_ [Inulin \[Vit4ever\]](/ice-creamery/info/ingredients/#inulin){target="_blank"}<sup>↗</sup> (≈1 tbsp) • Sweetness = 8%; GI ~= 0
+  - _20g_ [Soy protein isolate (nature) \[Powerstar\]](/ice-creamery/info/ingredients/#soy-protein-isolate){target="_blank"}<sup>↗</sup> (≈1 tbsp + 1 tsp) • 1kg bag, unsweetened, unflavored
+  - _15g_ [Xylitol (E967)](/ice-creamery/info/ingredients/#xylitol-e967){target="_blank"}<sup>↗</sup> (≈1 tbsp) • Sweetness = 100%; GI = 7
+  - _2g_ Vanilla Bean Powder [InterVanilla] (≈½ tsp)
+  - _1.5g_ [Tylose powder (E466, Tylo, CMC)](/ice-creamery/info/ingredients/#cocoa-powder){target="_blank"}<sup>↗</sup> (≈¼ tsp)
+  - _0.80g_ [Guar gum (E412)](/ice-creamery/info/ingredients/#guar-gum-e412){target="_blank"}<sup>↗</sup> (≈¼ tsp)
+  - _0.5g_ Salt (≈⅛ tsp)
+  - _0.20g_ [Xanthan gum (E415, XG)](/ice-creamery/info/ingredients/#xanthan-gum-xg-e415){target="_blank"}<sup>↗</sup> (≈⅛ tsp)
 
 **Wet**
 
-  - _400ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup>
-  - _100g_ [Cottage Cheese 4% \[REWE Bio\]](/ice-creamery/info/ingredients/#cottage-cheese){target="_blank"}<sup>↗</sup>
-  - _15g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • Sweetness = 60%; GI = 5
-  - _10g_ [Brandy or Vodka 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup>
+  - _400ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup> (≈1 cup + 5 fl oz + 1 tbsp) • *alternative*: any other preferred milk (~2% fat)
+  - _100g_ [Cottage Cheese 4% \[REWE Bio\]](/ice-creamery/info/ingredients/#cottage-cheese){target="_blank"}<sup>↗</sup> (≈3 oz + 1 tbsp)
+  - _10g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> (≈2 tsp) • Sweetness = 60%; GI = 5
+  - _10g_ [Brandy or Vodka 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup> (≈2 tsp) • *alternative:* 8g (additional) VG for a sober recipe
 
 **Dry**
 
-  - _25g_ Ube Yam Root powder [Fil Choice] • like vanilla+pistachio
+  - _25g_ Ube Yam Root powder [Fil Choice] (≈1 tbsp + 2 tsp) • like vanilla+pistachio [96kcal, 2g sugar]
 
 **Fill to MAX**
 
-  - _77.35ml_ Water to MAX line
+  - _40ml_ Cream 32% [REWE Beste Wahl] (≈1 fl oz + 2 tsp)
+  - _≈9 drops_ Flavor drops “Natural” (stevia) [Nick’s] • to taste • unflavored, or matching the fruit
+
+**Optional / Choices**
+
+  - _20g_ Lingonberry powder [Bio Leis] (≈1 tbsp + 1 tsp) • [70kcal, 15g sugar]
+  - _20g_ Strawberry powder [Supergarden] (≈1 tbsp + 1 tsp) • [57kcal, 10g sugar]
+  - _20g_ Blueberry powder [Bio Leis] (≈1 tbsp + 1 tsp) • [72kcal, 10g sugar]
+  - _20g_ Dragon Fruit (freeze dried) [Zingy Zoo] (≈1 tbsp + 1 tsp) • [79kcal, 11g sugar]
 
 # DIRECTIONS
 
  1. Take all the ‘prep’ ingredients from your ready-to-use mix — the list per tub is just there for reference!
- 1. Add "wet" ingredients to empty Creami tub.
  1. Add the prepared dry ingredients mixed with the chosen fruit powder, and blend *QUICKLY* using an immersion blender on full speed.
+ 1. Add "wet" ingredients to empty Creami tub.
  1. Let blender run until thickeners are properly hydrated, up to 1-2 min. Or blend again after waiting that time.
  1. Add remaining ingredients (to the MAX line) and stir with a spoon.
- 1. Put on the lid, freeze for 24h, then spin as usual. Flatten any humps before that.
+ 1. For better results, let the base age in the fridge (covered, lid on), for a few hours or over night. This helps flavor development and gum hydration, especially with unheated bases.
+ 1. Freeze for 24h with lid on, then spin as usual. Flatten any humps before that.
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
 
 # NUTRITIONAL & OTHER INFO
-- **Nutritional values per 100g/ml:** 100g; 80.2 kcal; fat 1.6g; carbs 13.4g; sugar 1.8g; protein 6.0g; salt 0.3g
-- **Nutritional values per ½ Deluxe Tub:** 360g; 288.9 kcal; fat 5.8g; carbs 48.3g; sugar 6.5g; protein 21.6g; salt 0.9g
-- **Nutritional values total:** 720g; 577.7 kcal; fat 11.6g; carbs 96.6g; sugar 12.9g; protein 43.2g; salt 1.9g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 31.82
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 29.92% • LOW-FAT • Low-Sugar • Hi-Protein
-- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 43.5g • 6.0%
-- **Net carbs:** 36.6g • *∝ 5 servings@144g:* 7.3g • *∝ 3 servings@240g:* 12.2g
+
+| 🥗 Value | 100g | Serving | Total |
+| :--- | ---: | ---: | ---: |
+| ⚖️ Weight (g) | 100 | 340 | 670 |
+| 🔥 Energy (kcal) | 97.1 | 330.1 | 650.5 |
+| 🫒 Fat (g) | 3.5 | 12.0 | 23.6 |
+| 🍞 Carbohydrates (g) | 14.7 | 50.0 | 98.5 |
+| 🍬 Sugars (g) | 0.9 | 3.1 | 6.1 |
+| 💪 Protein (g) | 6.8 | 23.0 | 45.2 |
+| 🧂 Salt (g) | 0.3 | 1.1 | 2.2 |
+
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.65
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 27.82% • Low-Sugar • Hi-Protein
+- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 53.1g • 7.9%
+- **Net carbs:** 35.1g • *∝ 5 servings@134g:* 7g • *∝ 3 servings@223g:* 11.7g • *energy ratio (low <20%):* 21.6%
