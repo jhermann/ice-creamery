@@ -17,7 +17,7 @@ The inclusion of stabilizers and a small amount of alcohol helps to suppress the
 
 Spin on “Light Ice Cream”, scrape down, and re-mix if needed.";;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;;
-"Rating: 😋🍦  (untested)";;;;;;;;;;;;;;;
+"Rating: 😋🍦🍦🍦🍓 (freeze-dried strawberries as a mix-in; nice vanilla flavor with a fruity chew)";;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;;
 "<!-- SNIPPET: alcohol -->";;;;;;;;;;;;;;;
@@ -43,6 +43,7 @@ Spin on “Light Ice Cream”, scrape down, and re-mix if needed.";;;;;;;;;;;;;;
 "Water to MAX line";;"ml";3;;;;;;;;;;;1;"c9410b2"
 "Flavor drops Vanilla (sucralose) [IronMaxx]";"≈5";"drops";3;;;;;;;;;"to taste";;"";"7c57f43"
 ;;;;;;;;;;;;;;;
+"Strawberry slices freeze-dried [EWL]";15.00;"g";4;300.00;3.30;48.00;48.00;7.00;0.01;;;"add as a mix-in [45kcal, 7.2g sugar]";;"";"25f7a44"
 "Jam “Black Cherry” [Schwartau Extra Zero]";15.00;"g";5;59.00;0.20;15.40;7.10;0.50;0.03;;;"fruit spread, no added sugar; add as a topping [9kcal, 1.1g sugar]";8.00;;"5b5d02b"
 "Jam “Strawberry” [Schwartau Extra Zero]";15.00;"g";5;56.00;0.20;17.20;3.20;0.40;0.02;;;"fruit spread, no added sugar; add as a topping [8kcal, 0.5g sugar]";14.00;;"004dcfc"
 "Jam “Apricot” [Schwartau Extra Zero]";15.00;"g";5;53.00;0.10;15.00;4.10;0.50;0.03;;;"fruit spread, no added sugar; add as a topping [8kcal, 0.6g sugar]";10.50;;"sw0z-acot"

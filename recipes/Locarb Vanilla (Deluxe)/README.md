@@ -32,7 +32,7 @@ Spin on “Light Ice Cream”, scrape down, and re-mix if needed.
 
 > <img width=480 alt="Scooped" src="Vanilla-Locarb-FD-SB_2026-05-12.jpg" class="zoomable" />
 
-Rating: 😋🍦🍦🍦🍓 (freeze-dried strawberries as a mix-in; nice vanilla flavor with a chew)
+Rating: 😋🍦🍦🍦🍓 (freeze-dried strawberries as a mix-in; nice vanilla flavor with a fruity chew)
 
 {% include 'assets/booze2vg.inc.md' %}
 
@@ -61,6 +61,10 @@ Rating: 😋🍦🍦🍦🍓 (freeze-dried strawberries as a mix-in; nice vanill
   - _40ml_ Cream 32% [REWE Beste Wahl] (≈1 fl oz + 2 tsp) <a id="id-92fa780" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-92fa780">ℹ️</a>
   - _≈5 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
 
+**Mix-ins**
+
+  - _15g_ Strawberry slices freeze-dried [EWL] (≈1 tbsp) • add as a mix-in [45kcal, 7.2g sugar] <a id="id-25f7a44" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-25f7a44">ℹ️</a>
+
 **Topping Options**
 
   - _15g_ Jam “Black Cherry” [Schwartau Extra Zero] (≈1 tbsp) • fruit spread, no added sugar; add as a topping [9kcal, 1.1g sugar] <a id="id-5b5d02b" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-5b5d02b">ℹ️</a>
@@ -77,6 +81,7 @@ Rating: 😋🍦🍦🍦🍓 (freeze-dried strawberries as a mix-in; nice vanill
  1. For better results, let the base age in the fridge (covered, lid on), for a few hours or over night. This helps flavor development and gum hydration, especially with unheated bases.
  1. Freeze for 24h with lid on, then spin as usual. Flatten any humps before that.
  1. Process with RE-SPIN mode when not creamy enough after the first spin.
+ 1. Process with MIX-IN after adding mix-ins evenly. For that, add partial amounts into a hole going down to the bottom, and fold the ice cream over, building pockets of mix-ins.
 
 # NUTRITIONAL & OTHER INFO
 
