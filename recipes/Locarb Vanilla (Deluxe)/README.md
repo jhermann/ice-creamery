@@ -30,11 +30,9 @@ The inclusion of stabilizers and a small amount of alcohol helps to suppress the
 
 Spin on “Light Ice Cream”, scrape down, and re-mix if needed.
 
-> <img width=220 alt="After 1st Spin" src="_1.jpg" class="zoomable" />
-> <img width=220 alt="After Mix-in" src="_2.jpg" class="zoomable" />
-> <img width=220 alt="Scooped" src="_3.jpg" class="zoomable" />
+> <img width=480 alt="Scooped" src="Vanilla-Locarb-FD-SB_2026-05-12.jpg" class="zoomable" />
 
-Rating: 😋🍦  (untested)
+Rating: 😋🍦🍦🍦🍓 (freeze-dried strawberries as a mix-in; nice vanilla flavor with a chew)
 
 {% include 'assets/booze2vg.inc.md' %}
 
