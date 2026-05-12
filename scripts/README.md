@@ -74,7 +74,7 @@ Create your *NotebookLM*:
 2. Create a new notebook like "Deluxe Ice Cream and Sorbet Recipes".
 3. Call `./scripts/update-all-md.sh` in the repo root, and then upload the created `all-*.txt` files as sources (3 text files).
 4. Upload `./scripts/nutrition-db.csv` as a source.
-5. Download the [AFCD Nutritional Database](https://jhermann.github.io/ice-creamery/info/web-resources/#nutritional-databases) (*AFCD Data Files*), unzip the data and upload `AFCD Release 3 - Nutrient profiles-l.csv`, `AFCD Release 3 - Nutrient profiles-2.csv`, and `AFCD Release 3 - Nutrient profiles-3.csv`.
+5. Download the [AFCD Nutritional Database](https://jhermann.github.io/ice-creamery/info/web-resources/#nutritional-databases) (*AFCD Data Files*), unzip the data and upload `AFCD Release 3 - Nutrient profiles-l.csv`, `AFCD Release 3 - Nutrient profiles-2.csv`, and `AFCD Release 3 - Nutrient profiles-3.csv`. Those three files are exports of the different sheets in the `AFCD Release 3 - Nutrient profiles` spreadsheet.
 7. You should now have 7 sources.
 
 ----
