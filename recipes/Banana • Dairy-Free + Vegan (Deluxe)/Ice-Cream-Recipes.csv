@@ -1,15 +1,17 @@
-Banana • Dairy-Free + Vegan (Deluxe);;;;;;;;;;;;;;
+"Banana • Dairy-Free + Vegan (Deluxe)";;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
-;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;;
-Nutritional values per 100g/ml;100;g;;87.5;1.0;16.1;4.7;5.6;0.2;;;;;
-Nutritional values per ½ Deluxe Tub;360;g;;314.8;3.8;57.9;16.8;20.3;0.8;;;;;
-Nutritional values total;720;g;;629.7;7.5;115.7;33.6;40.7;1.6;;;;;
+;"Amount";"Unit";;"kcal";"Fat";"Carbs";"Sugar";"Protein";"Salt";;;;;
+"Nutritional values per 100g/ml";100;"g";;88.3;1.1;15.5;4.9;5.9;0.2;;;;;
+"Nutritional values per ½ Deluxe Tub";340;"g";;300.1;3.9;52.8;16.5;20.2;0.7;;;;;
+"Nutritional values total";683;"g";;602.8;7.8;106.0;33.1;40.5;1.5;;;;;
 ;;;;;;;;;;;;;;
-FPDF / PAC (target 20..30);30.74;;;;;;;;;;;;;
-"Protein / Energy Ratio (ok=12%; hi=20%)";25.84%;;;;LOW-FAT;;Low-Sugar;Hi-Protein;;;;;;
-ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);27.9;g;;3.9%;;;;;;;;;;
-ℹ️ Net carbs;56.0;g;;*∝ 5 servings@144g:* 11.2g;;;*∝ 3 servings@240g:* 18.7g;;;;;;;
-> 🌿 **Vegan & Dairy-free**<br />Recipe is using only almond milk.;;;;;;;;;;;;;;
+"FPDF / PAC (target 20..30)";31.63;;;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";26.90%;;;"";"LOW-FAT";;"Low-Sugar";"Hi-Protein";"";;;;;
+"ℹ️ Milk Solids Non-Fat (MSNF, 7-11%)";42.7;"g";;6.3%;;;;;;;;;;
+"ℹ️ Net carbs";56.2;"g";;"*∝ 5 servings@137g:* 11.2g";;;"*∝ 3 servings@228g:* 18.7g";;;"*energy ratio (low <20%):* 37.3%";;;;
+;;;;;;;;;;;;;;
+"> 🌿 **Vegan & Dairy-free**";;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 "Process on *Frozen Yogurt*, [hold it shortly under running water](https://jhermann.github.io/ice-creamery/info/tips%2Btricks/#handling-of-icy-sides-bottom)
 *after* that.
@@ -19,88 +21,84 @@ Rating: 😋😋😋😋 Good banana flavor, a little melty directly after spinn
 ;;;;;;;;;;;;;;
 "1. Blend the bananas and the lemon juice in the empty tub.
  1. Add ""wet"" ingredients to the banana puree.";;;;;;;;;;;;;;
-;" 
-
-";;;;;;;;;;;;;
-The [brand names] used are in brackets.;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
-Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment;0Carb[%];Counts?
-Bananas (peeled);200.00;g;0;108.00;0.60;21.50;16.00;1.22;0.03;0.16;;2 mid-sized bananas, eat any surplus 😋;;1
-Lemon juice;5.00;ml;0;25.00;0.10;3.36;1.65;0.30;0.01;0.02;;;;1
-Soy milk 1.6% (sugar-free) [Berief];250.00;ml;1;30.00;1.60;0.90;0.00;3.00;0.08;;;;;1
-Glycerin (E422, VG) [hd-line];15.00;g;1;400.00;;99.00;;;;3.70;;"Sweetness = 60%; GI = 5; Density = 1.26 g/ml";50.00;1
-Brandy or Vodka 40 vol%;10.00;g;1;280.00;;;;;;2.96;;;;1
-Flavor drops Vanilla (sucralose) [IronMaxx];7.00;drops;1;;;;;;;;;;;
-ICSv2 [Erythritol / Inulin / CMC / Guar / XG / Salt];30.00;g;2;107.2;0.0;95.5;3.7;0.1;1.7;1.32;;http://bit.ly/4frc4Vj;90.80;1
-Soy protein isolate (nature) [Powerstar];30.00;g;2;372.00;1.00;1.00;0.00;89.80;2.50;;93.00;1kg bag, unsweetened, unflavored;;1
-Xylitol (E967);25.00;g;2;238.00;0.00;100.00;0.00;0.00;0.00;2.20;;"Sweetness = 100%; GI = 7";100.00;1
-Vanilla Bean Powder [InterVanilla];3.00;g;2;288.00;0.10;13.00;13.00;0.00;0.00;;;;;1
-;;;;;;;;;;;;;;
-Soy milk 1.6% (sugar-free) [Berief];125.00;ml;3;30.00;1.60;0.90;0.00;3.00;0.08;;;make blending easier by splitting the milk;;1
-Water to MAX line;27.00;ml;3;;;;;;;;;;;1
-;;;;;;;;;;;;;;
-Jun 11, 2025;Added 30g soy protein to boost solids & protein content.;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
+"Ingredients";"Amount";"Unit";"#";"kcal";"Fat";"Carbs";"Sugar";"Protein";"Salt";"FPDF";"MSNF";"Comment";"0Carb[%]";"Counts?"
+"Bananas (peeled)";200.00;"g";0;108.00;0.60;21.50;16.00;1.22;0.03;0.16;;"2 mid-sized bananas, eat any surplus 😋";;1
+"Lemon juice";10.00;"ml";0;25.00;0.10;3.36;1.65;0.30;0.01;0.02;;;;1
+"Soy milk 1.6% (sugar-free) [Berief]";300.00;"ml";1;30.00;1.60;0.90;0.00;3.00;0.08;;4.00;;;1
+"Glycerin (E422, VG) [hd-line]";15.00;"g";1;400.00;;99.00;;;;3.70;;"Sweetness = 60%; GI = 5; Density = 1.26 g/ml";50.00;1
+"Brandy or Vodka 40 vol%";10.00;"g";1;280.00;;;;;;2.96;;"*alternative:* 8g (additional) VG for a sober recipe";;1
+"SweEX (Erythritol + Xylitol 3:2)";35.00;"g";2;109.60;;100.00;;;;2.56;;"*alternative:* 47g allulose or dextrose";100.00;1
+"Soy protein isolate (nature) [Powerstar]";30.00;"g";2;372.00;1.00;1.00;0.00;89.80;2.50;;93.00;"1kg bag, unsweetened, unflavored";;1
+"Salty Stability [Inulin / GMS / CMC / Guar / XG / Salt]";10.00;"g";2;267.5;3.6;88.4;5.9;0.3;3.5;0.06;;"*not-as-good substitute:* 1g guar, 0.3g xanthan, and 0.3g salt";73.80;1
+"Vanilla Bean Powder [InterVanilla]";3.00;"g";2;288.00;0.10;13.00;13.00;0.00;0.00;;;;;1
+;;;;;;;;;;;;;;
+"Soy milk 1.6% (sugar-free) [Berief]";70.00;"ml";3;30.00;1.60;0.90;0.00;3.00;0.08;;4.00;"make blending easier by splitting the milk";;1
+"Water to MAX line";;"ml";3;;;;;;;;;;;1
+"Flavor drops Vanilla (sucralose) [IronMaxx]";"≈7";"drops";3;;;;;;;;;;;""
+;;;;;;;;;;;;;;""
+Jun 11, 2025;"Added 30g soy protein to boost solids & protein content.";;;;;;;;;;;;;""
+May 15, 2026;"Switched to new base blends";;;;;;;;;;;;;""
+;;;;;;;;;;;;;;""
+;;;;;;;;;;;;;;""
+;;;;;;;;;;;;;;""
+;;;;;;;;;;;;;;""
+;;;;;;;;;;;;;;""
+;;;;;;;;;;;;;;""
+;;;;;;;;;;;;;;""
+;;;;;;;;;;;;;;""
+;;;;;;;;;;;;;;""
+;;;;;;;;;;;;;;""
+;;;;;;;;;;;;;;""
+;;;;;;;;;;;;;;""
+;;;;;;;;;;;;;;""
+;;;;;;;;;;;;;;""
+;;;;;;;;;;;;;;""
+;;;;;;;;;;;;;;""
+;;;;;;;;;;;;;;""
+;;;;;;;;;;;;;;""
+;;;;;;;;;;;;;;""
+;;;;;;;;;;;;;;""
+;;;;;;;;;;;;;;""
+;;;;;;;;;;;;;;""
+;;;;;;;;;;;;;;""
+;;;;;;;;;;;;;;""
+;;;;;;;;;;;;;;""
+;;;;;;;;;;;;;;""
+;;;;;;;;;;;;;;""
+;;;;;;;;;;;;;;""
+;;;;;;;;;;;;;;""
+;;;;;;;;;;;;;;""
+;;;;;;;;;;;;;;""
+;;;;;;;;;;;;;;""
+;;;;;;;;;;;;;;""
+;;;;;;;;;;;;;;""
+;;;;;;;;;;;;;;""
+;;;;;;;;;;;;;;""
+;;;;;;;;;;;;;;""
+;;;;;;;;;;;;;;""
+;;;;;;;;;;;;;;""
+;;;;;;;;;;;;;;""
+;;;;;;;;;;;;;;""
+;;;;;;;;;;;;;;""
+;;;;;;;;;;;;;;""
+;;;;;;;;;;;;;;""
+;;;;;;;;;;;;;;""
+;;;;;;;;;;;;;;""
+;;;;;;;;;;;;;;""
+;;;;;;;;;;;;;;""
+;;;;;;;;;;;;;;""
+;;;;;;;;;;;;;;""
+;;;;;;;;;;;;;;""
+;;;;;;;;;;;;;;""
+;;;;;;;;;;;;;;""
+;;;;;;;;;;;;;;""
+;;;;;;;;;;;;;;""
+;;;;;;;;;;;;;;""
+;;;;;;;;;;;;;;""
+;;;;;;;;;;;;;;""
+;;;;;;;;;;;;;;""
+;;;;;;;;;;;;;;""
+;;;;;;;;;;;;;;""
+;;;;;;;;;;;;;;""
+;;;;;;;;;;;;;;""
