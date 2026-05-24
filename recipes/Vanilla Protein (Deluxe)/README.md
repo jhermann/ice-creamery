@@ -4,6 +4,7 @@ description: Recipe for the Ninja Creami Deluxe [24oz]
 excluded_steps:
 - ^$
 excluded_tags:
+- Allulose
 - Dairy$
 - Fruit
 tags:
@@ -44,17 +45,17 @@ Rating: 😋🐮😋🐮😋 (thick and creamy)
 
 **Wet**
 
-  - _525ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup> • *alternative*: any other preferred milk (~2% fat)
-  - _15g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • Sweetness = 60%; GI = 5; Density = 1.26 g/ml
-  - _10g_ [Brandy or Vodka 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup> • *alternative:* 8g (additional) VG for a sober recipe
+  - _525ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup> (≈2 cups + 1 fl oz + 1 tbsp) • *alternative*: any other preferred milk (~2% fat) <a id="id-2755284" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-2755284">ℹ️</a>
+  - _15g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> (≈1 tbsp) • Sweetness = 60%; GI = 5; Density = 1.26 g/ml <a id="id-8717e6d" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-8717e6d">ℹ️</a>
+  - _10g_ [Brandy or Vodka 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup> (≈2 tsp) • *alternative:* 8g (additional) VG for a sober recipe <a id="id-63b8bf1" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-63b8bf1">ℹ️</a>
 
 **Dry**
 
-  - _60g_ [Soy protein isolate (nature) \[Powerstar\]](/ice-creamery/info/ingredients/#soy-protein-isolate){target="_blank"}<sup>↗</sup> • 1kg bag, unsweetened, unflavored
-  - _45g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • POD ≈ 85%; GI < 7
-  - _10g_ [Inulin \[Vit4ever\]](/ice-creamery/info/ingredients/#inulin){target="_blank"}<sup>↗</sup> • Sweetness = 8%; GI ~= 0
-  - _10g_ [Salty Stability \[Inulin / GMS / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup> • *not-as-good substitute:* 1g guar, 0.3g xanthan, and 0.3g salt
-  - _4g_ Vanilla Bean Powder [InterVanilla]
+  - _60g_ [Soy protein isolate (nature) \[Powerstar\]](/ice-creamery/info/ingredients/#soy-protein-isolate){target="_blank"}<sup>↗</sup> (≈4 tbsp) • 1kg bag, unsweetened, unflavored <a id="id-f08216c" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-f08216c">ℹ️</a>
+  - _45g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> (≈3 tbsp) • POD ≈ 85%; GI < 7 <a id="id-f44b101" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-f44b101">ℹ️</a>
+  - _10g_ [Inulin \[Vit4ever\]](/ice-creamery/info/ingredients/#inulin){target="_blank"}<sup>↗</sup> (≈2 tsp) • Sweetness = 8%; GI ~= 0 <a id="id-d8bc1db" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-d8bc1db">ℹ️</a>
+  - _10g_ [Salty Stability \[Inulin / GMS / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup> (≈2 tsp) • *not-as-good substitute:* 1g guar, 0.3g xanthan, and 0.3g salt <a id="id-3d1ecef" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-3d1ecef">ℹ️</a>
+  - _4g_ Vanilla Bean Powder [InterVanilla] (≈¾ tsp) • or 7g extract or paste <a id="id-538e9f6" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-538e9f6">ℹ️</a>
 
 **Fill to MAX**
 
@@ -62,8 +63,8 @@ Rating: 😋🐮😋🐮😋 (thick and creamy)
 
 **Mix-ins**
 
-  - _15g_ Cherries, Sour (dried, pitted) [Biojoy] • add chopped as a mix-in [44kcal, 9g sugar]
-  - _15g_ Strawberry slices freeze-dried [EWL] • add crumbled as a mix-in [45kcal, 7g sugar]
+  - _15g_ Cherries, Sour (dried, pitted) [Biojoy] (≈1 tbsp) • add chopped as a mix-in [44kcal, 9g sugar] <a id="id-3462e8b" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-3462e8b">ℹ️</a>
+  - _15g_ Strawberry slices freeze-dried [EWL] (≈1 tbsp) • add crumbled as a mix-in [45kcal, 7g sugar] <a id="id-25f7a44" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-25f7a44">ℹ️</a>
 
 # DIRECTIONS
 
@@ -79,9 +80,16 @@ Rating: 😋🐮😋🐮😋 (thick and creamy)
 
 # NUTRITIONAL & OTHER INFO
 
-- **Nutritional values per 100g/ml:** 100g; 85.0 kcal; fat 1.4g; carbs 12.4g; sugar 0.3g; protein 10.3g; salt 0.3g
-- **Nutritional values per ½ Deluxe Tub:** 340g; 289.1 kcal; fat 4.7g; carbs 42.2g; sugar 1.0g; protein 34.9g; salt 1.1g
-- **Nutritional values total:** 679g; 577.3 kcal; fat 9.4g; carbs 84.2g; sugar 1.9g; protein 69.7g; salt 2.3g
+| 🥗 Value | 100g | Serving | Total |
+| :--- | ---: | ---: | ---: |
+| ⚖️ Weight (g) | 100 | 340 | 679 |
+| 🔥 Energy (kcal) | 85.0 | 289.1 | 577.3 |
+| 🫒 Fat (g) | 1.4 | 4.7 | 9.4 |
+| 🍞 Carbohydrates (g) | 12.4 | 42.2 | 84.2 |
+| 🍬 Sugars (g) | 0.3 | 1.0 | 1.9 |
+| 💪 Protein (g) | 10.3 | 34.9 | 69.7 |
+| 🧂 Salt (g) | 0.3 | 1.1 | 2.3 |
+
 - **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 31.70
 - **Protein / Energy Ratio (ok=12%; hi=20%):** 48.27% • LOW-FAT • Low-Sugar • Hi-Protein
 - **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 76.8g • 11.3%
