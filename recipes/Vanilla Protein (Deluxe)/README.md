@@ -45,15 +45,16 @@ Rating: 😋🐮😋🐮😋 (thick and creamy)
 
 **Wet**
 
-  - _525ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup> (≈2 cups + 1 fl oz + 1 tbsp) • *alternative*: any other preferred milk (~2% fat) <a id="id-2755284" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-2755284">ℹ️</a>
+  - _500ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup> (≈2 cups + 1 tbsp) • *alternative*: any other preferred milk (~2% fat) <a id="id-2755284" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-2755284">ℹ️</a>
   - _15g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> (≈1 tbsp) • Sweetness = 60%; GI = 5; Density = 1.26 g/ml <a id="id-8717e6d" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-8717e6d">ℹ️</a>
   - _10g_ [Brandy or Vodka 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup> (≈2 tsp) • *alternative:* 8g (additional) VG for a sober recipe <a id="id-63b8bf1" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-63b8bf1">ℹ️</a>
 
 **Dry**
 
-  - _60g_ [Soy protein isolate (nature) \[Powerstar\]](/ice-creamery/info/ingredients/#soy-protein-isolate){target="_blank"}<sup>↗</sup> (≈4 tbsp) • 1kg bag, unsweetened, unflavored <a id="id-f08216c" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-f08216c">ℹ️</a>
-  - _45g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> (≈3 tbsp) • POD ≈ 85%; GI < 7 <a id="id-f44b101" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-f44b101">ℹ️</a>
-  - _10g_ [Inulin \[Vit4ever\]](/ice-creamery/info/ingredients/#inulin){target="_blank"}<sup>↗</sup> (≈2 tsp) • Sweetness = 8%; GI ~= 0 <a id="id-d8bc1db" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-d8bc1db">ℹ️</a>
+  - _40g_ [Soy protein isolate (nature) \[Powerstar\]](/ice-creamery/info/ingredients/#soy-protein-isolate){target="_blank"}<sup>↗</sup> (≈1 oz + 2 ¼ tsp) • 1kg bag, unsweetened, unflavored <a id="id-f08216c" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-f08216c">ℹ️</a>
+  - _40g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> (≈1 oz + 2 ¼ tsp) • POD ≈ 85%; GI < 7 <a id="id-f44b101" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-f44b101">ℹ️</a>
+  - _20g_ [Inulin \[Vit4ever\]](/ice-creamery/info/ingredients/#inulin){target="_blank"}<sup>↗</sup> (≈1 tbsp + 1 tsp) • Sweetness = 8%; GI ~= 0 <a id="id-d8bc1db" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-d8bc1db">ℹ️</a>
+  - _20g_ [Milk powder 1:10 (skim, SMP) \[Vita2You\]](/ice-creamery/info/ingredients/#skim-milk-powder-smp){target="_blank"}<sup>↗</sup> (≈1 tbsp + 1 tsp) <a id="id-074ed6d" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-074ed6d">ℹ️</a>
   - _10g_ [Salty Stability \[Inulin / GMS / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup> (≈2 tsp) • *not-as-good substitute:* 1g guar, 0.3g xanthan, and 0.3g salt <a id="id-3d1ecef" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-3d1ecef">ℹ️</a>
   - _4g_ Vanilla Bean Powder [InterVanilla] (≈¾ tsp) • or 7g extract or paste <a id="id-538e9f6" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-538e9f6">ℹ️</a>
 
@@ -82,16 +83,16 @@ Rating: 😋🐮😋🐮😋 (thick and creamy)
 
 | 🥗 Value | 100g | Serving | Total |
 | :--- | ---: | ---: | ---: |
-| ⚖️ Weight (g) | 100 | 340 | 679 |
-| 🔥 Energy (kcal) | 85.0 | 289.1 | 577.3 |
-| 🫒 Fat (g) | 1.4 | 4.7 | 9.4 |
-| 🍞 Carbohydrates (g) | 12.4 | 42.2 | 84.2 |
-| 🍬 Sugars (g) | 0.3 | 1.0 | 1.9 |
-| 💪 Protein (g) | 10.3 | 34.9 | 69.7 |
-| 🧂 Salt (g) | 0.3 | 1.1 | 2.3 |
+| ⚖️ Weight (g) | 100 | 340 | 659 |
+| 🔥 Energy (kcal) | 88.4 | 300.5 | 582.5 |
+| 🫒 Fat (g) | 1.4 | 4.6 | 9.0 |
+| 🍞 Carbohydrates (g) | 15.0 | 50.9 | 98.6 |
+| 🍬 Sugars (g) | 1.9 | 6.6 | 12.8 |
+| 💪 Protein (g) | 8.8 | 29.9 | 58.0 |
+| 🧂 Salt (g) | 0.3 | 1.0 | 2.0 |
 
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 31.70
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 48.27% • LOW-FAT • Low-Sugar • Hi-Protein
-- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 76.8g • 11.3%
-- **Net carbs:** 15.5g • *∝ 5 servings@136g:* 3.1g • *∝ 3 servings@226g:* 5.2g • *energy ratio (low <20%):* 10.7%
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 32.12
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 39.79% • LOW-FAT • Low-Sugar • Hi-Protein
+- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 76.0g • 11.5%
+- **Net carbs:** 25.9g • *∝ 5 servings@132g:* 5.2g • *∝ 3 servings@220g:* 8.6g • *energy ratio (low <20%):* 17.8%
 - **10g 'Salty Stability' is:** 7.3g Inulin • 1.2g Glycerol Monostearate (GMS / E471) • 0.6g Tylose powder (E466, Tylo, CMC) • 0.4g Guar gum (E412) • 0.33g Salt • 0.13g Xanthan gum (E415, XG).
