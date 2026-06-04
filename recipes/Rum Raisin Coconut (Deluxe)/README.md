@@ -13,7 +13,6 @@ replace:
 - empty Creami tub=>empty Creami tub, including the prepared coconut milk and the
   surplus rum from soaking
 tags:
-- Draft
 - Emulsifier
 - Erythritol
 - Low-Sugar
@@ -49,20 +48,20 @@ Rating: 😋🍹🍇🥥🥥 (soft & creamy, no ice crystals)
 
 **Prep**
 
-  - _100ml_ Water (~85°C) • *alternative:* 150ml coconut milk 18.5%
-  - _50g_ [Coconut Milk Powder 54% \[Green Essence\]](/ice-creamery/info/ingredients/#coconut-milk){target="_blank"}<sup>↗</sup>
-  - _0.90g_ [Glycerol Monostearate (E471) \[Bulk\]](/ice-creamery/info/ingredients/#glycerol-monostearate-gms-e471){target="_blank"}<sup>↗</sup> • *alternative:* lecithin
+  - _100ml_ Water (~85°C) (≈3 fl oz + 2 ¼ tsp) • *alternative:* 150ml coconut milk 18.5%
+  - _50g_ [Coconut Milk Powder 54% \[Green Essence\]](/ice-creamery/info/ingredients/#coconut-milk){target="_blank"}<sup>↗</sup> (≈1 oz + 1 tbsp + 1 ½ tsp) <a id="id-e0c6e86" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-e0c6e86">ℹ️</a>
+  - _0.90g_ [Glycerol Monostearate (E471) \[Bulk\]](/ice-creamery/info/ingredients/#glycerol-monostearate-gms-e471){target="_blank"}<sup>↗</sup> (≈¼ tsp) • *alternative:* lecithin <a id="id-6f651e2" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-6f651e2">ℹ️</a>
 
 **Wet**
 
-  - _375ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup> • *alternative*: any other preferred milk (~2% fat)
+  - _375ml_ [Soy milk 1.6% (sugar-free) \[Berief\]](/ice-creamery/info/ingredients/#soy-milk){target="_blank"}<sup>↗</sup> (≈1 cup + 4 fl oz + 1 tbsp) • *alternative*: any other preferred milk (~2% fat) <a id="id-2755284" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-2755284">ℹ️</a>
 
 **Dry**
 
-  - _30g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • *alternative:* 40g allulose or dextrose
-  - _15g_ [Salty Stability \[Inulin / GMS / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup> • *not-as-good substitute:* 1.5g guar, 0.5g xanthan, and 0.5g salt
-  - _15g_ [Whey + Casein protein (grass-fed) \[Vilgain\]](/ice-creamery/info/ingredients/#whey-protein){target="_blank"}<sup>↗</sup> • with stevia
-  - _1.5g_ Cinnamon (Ceylon) • to taste; 1tsp = 3g
+  - _30g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> (≈2 tbsp) • *alternative:* 40g allulose or dextrose <a id="id-f44b101" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-f44b101">ℹ️</a>
+  - _15g_ [Salty Stability \[Inulin / GMS / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup> (≈1 tbsp) • *not-as-good substitute:* 1.5g guar, 0.5g xanthan, and 0.5g salt <a id="id-3d1ecef" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-3d1ecef">ℹ️</a>
+  - _15g_ [Whey + Casein protein (grass-fed) \[Vilgain\]](/ice-creamery/info/ingredients/#whey-protein){target="_blank"}<sup>↗</sup> (≈1 tbsp) • with stevia <a id="id-b954be3" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-b954be3">ℹ️</a>
+  - _1.5g_ Cinnamon (Ceylon) (≈¼ tsp) • to taste; 1tsp = 3g
 
 **Adjust sweetness**
 
@@ -70,8 +69,8 @@ Rating: 😋🍹🍇🥥🥥 (soft & creamy, no ice crystals)
 
 **Mix-ins**
 
-  - _40g_ Sultanas (organic) [Biojoy] • chopped, soaked in rum [119kcal, 27g sugar]
-  - _45g_ [Jamaica Rum 43 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup> • drain raisins and add surplus to base
+  - _40g_ Sultanas (organic) [Biojoy] (≈1 oz + 2 ¼ tsp) • chopped, soaked in rum [119kcal, 27g sugar] <a id="id-7421325" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-7421325">ℹ️</a>
+  - _45g_ [Jamaica Rum 43 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup> (≈3 tbsp) • drain raisins and add surplus to base <a id="id-fc50a2a" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-fc50a2a">ℹ️</a>
 
 # DIRECTIONS
 
@@ -90,9 +89,16 @@ Rating: 😋🍹🍇🥥🥥 (soft & creamy, no ice crystals)
 
 # NUTRITIONAL & OTHER INFO
 
-- **Nutritional values per 100g/ml:** 100g; 122.1 kcal; fat 5.2g; carbs 14.1g; sugar 4.3g; protein 4.1g; salt 0.1g
-- **Nutritional values per ½ Deluxe Tub:** 340g; 415.2 kcal; fat 17.7g; carbs 47.9g; sugar 14.7g; protein 13.9g; salt 0.5g
-- **Nutritional values total:** 672g; 821.0 kcal; fat 35.0g; carbs 94.8g; sugar 29.1g; protein 27.4g; salt 1.0g
+| 🥗 Value | 100g | Serving | Total |
+| :--- | ---: | ---: | ---: |
+| ⚖️ Weight (g) | 100 | 340 | 672 |
+| 🔥 Energy (kcal) | 122.1 | 415.2 | 821.0 |
+| 🫒 Fat (g) | 5.2 | 17.7 | 35.0 |
+| 🍞 Carbohydrates (g) | 14.1 | 47.9 | 94.8 |
+| 🍬 Sugars (g) | 4.3 | 14.7 | 29.1 |
+| 💪 Protein (g) | 4.1 | 13.9 | 27.4 |
+| 🧂 Salt (g) | 0.1 | 0.5 | 1.0 |
+
 - **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.71
 - **Protein / Energy Ratio (ok=12%; hi=20%):** 13.36% • Low-Sugar
 - **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 51.8g • 7.7%
