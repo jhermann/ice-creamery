@@ -107,6 +107,9 @@ These ratios are keeping the PAC / POD value as close as possible to the origina
 
 Where the replacing weight differs, the usual "fill to MAX line" will take care of that.
 
+For replacing 100g sugar with an allulose-based blend while keeping solids, PAC and POD about equal, you need:
+50g allulose, 50g inulin, and .35g monk fruit powder (80% pure). If the purity of your monk fruit extract varies: you need the equivalent of 60g sugar for your product.
+
 ### Lactose-free "SMP"
 
 To replace SMP with a mix having less than 1% residual lactose (SMP has ~55%), use a mix of 55% trehalose, 35% Milk Protein **Isolate** (MPI), and 10% inulin, plus a tiny amount of fine (sea) salt (0.1%).
