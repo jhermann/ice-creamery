@@ -1,103 +1,103 @@
-Drunken Peach Cheesecake (Deluxe);;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;;
-Nutritional values per 100g/ml;100;g;;114.0;5.0;12.2;6.2;3.2;0.0;;;;;
-Nutritional values per ½ Deluxe Tub;340;g;;387.8;17.2;41.5;21.0;10.9;0.1;;;;;
-Nutritional values total;685;g;;781.2;34.6;83.6;42.4;22.0;0.2;;;;;
-;;;;;;;;;;;;;;
-FPDF / PAC (target 20..30);31.22;;;;;;;;;;;;;
-"Protein / Energy Ratio (ok=12%; hi=20%)";11.28%;;;;;;;;Low-Salt;;;;;
-ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);15.8;g;;2.3%;;;;;;;;;;
-ℹ️ Net carbs;53.6;g;;*∝ 5 servings@137g:* 10.7g;;;*∝ 3 servings@228g:* 17.9g;;;*energy ratio (low <20%):* 27.5%;;;;
-Canned peaches, quark (or cream cheese), and rum or bourbon. What could go wrong?;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
+"Drunken Peach Cheesecake (Deluxe)";;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;"Amount";"Unit";;"kcal";"Fat";"Carbs";"Sugar";"Protein";"Salt";;;;;;
+"Nutritional values per 100g/ml";100;"g";;114.0;5.0;12.8;6.1;3.2;0.0;;;;;;
+"Nutritional values per ½ Deluxe Tub";340;"g";;387.7;17.0;43.7;20.9;10.9;0.1;;;;;;
+"Nutritional values total";690;"g";;786.7;34.6;88.6;42.4;22.0;0.2;;;;;;
+;;;;;;;;;;;;;;;
+"FPDF / PAC (target 20..30)";32.85;;;;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";11.20%;;;"";"";;"";"";"Low-Salt";;;;;;
+"ℹ️ Milk Solids Non-Fat (MSNF, 7-11%)";15.8;"g";;2.3%;;;;;;;;;;;
+"ℹ️ Net carbs";53.6;"g";;"*∝ 5 servings@138g:* 10.7g";;;"*∝ 3 servings@230g:* 17.9g";;;"*energy ratio (low <20%):* 27.3%";;;;;
+"Canned peaches, quark (or cream cheese), and rum or bourbon. What could go wrong?";;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
 "Process on *Sorbet*, [hold it shortly under running water](https://jhermann.github.io/ice-creamery/info/tips%2Btricks/#handling-of-icy-sides-bottom)
 *after* that.
-Then a scrape-down and a respin or mix-in.<br clear=all />";;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-"Rating: 😋🍑🍑🍑🍰 (used sorbet + mix-in; dense, cheesy, and very peachy)";;;;;;;;;;;;;;
+Then a scrape-down and a respin or mix-in.<br clear=all />";;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+"Rating: 😋🍑🍑🍑🍰 (used sorbet + mix-in; dense, cheesy, and very peachy)";;;;;;;;;;;;;;;
+"Spun on *Ice Cream*, respin, and *Ice Cream* again.";;;;;;;;;;;;;;;
 "1. Put ‘wet’ and ‘dry’ ingredients into an empty Creami tub (on a scale), and blend until smooth.
- 1. Adapt sweetness to taste using the flavor drops, stir thoroughly.";;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment;0Carb[%];Counts?
-Peaches in Grape Juice [Libby’s];375.00;g;1;53.00;;12.00;9.00;0.50;;;;Can = 410g;;1
-Topfen / Quark 14.4% [Berchtesgadener];240.00;g;1;179.00;14.40;3.60;3.60;8.40;0.08;0.04;6.60;"250g container; *alternative:* 180g ricotta 9% and 60ml cream 32%";;1
-Topfen / Quark 0.6% [Berchtesgadener];;g;1;70.00;0.60;3.60;3.60;11.90;0.08;0.04;11.40;"250g container; *US alternative:* low-fat cream cheese";;1
-Jamaica Rum 43 vol%;40.00;g;1;300.00;;;;;;3.18;;*alternative:* bourbon, or other 40 vol% alcohol;;1
-Cream Cheese 23% [Exquisa];20.00;g;1;238.00;22.50;3.00;3.00;5.50;0.70;0.03;9.64;click the link for UK / US equivalents;;0
-Molasses [Grafschafter Goldsaft];;g;1;306.00;0.50;70.00;66.00;2.30;0.03;0.66;;Sweetness = 66%;;1
-Topfen / Quark 14.4% [Berchtesgadener];;g;1;179.00;14.40;3.60;3.60;8.40;0.08;0.04;6.60;250g container;;1
-SweEX (Erythritol + Xylitol 3:2);30.00;g;2;109.60;;100.00;;;;2.56;;*alternative:* 40g allulose or dextrose;100.00;1
-Turmeric;1.00;pinch;2;;;;;;;;;*optional*, for color;;
-;;;;;;;;;;;;;;
-Cream 32% [REWE Beste Wahl];;ml;3;311.00;32.00;3.20;3.20;2.50;0.13;0.03;6.32;skip for improved macros [0kcal, 0g fat];;0
-Flavor drops Peach / Maracuja (sucralose) [IronMaxx];≈4;drops;3;;;;;;;;;to taste;;
-;;;;;;;;;;;;;;
-Molasses [Grafschafter Goldsaft];8.00;g;5;306.00;0.50;70.00;66.00;2.30;0.03;0.66;;add as a topping [24kcal, 5.3g sugar];;
-Walnuts (organic) [Biojoy];8.00;g;5;675.00;63.00;11.00;6.90;14.00;0.01;0.07;;add as a topping [54kcal, 0.6g sugar];;
-Pecan nuts (organic) [Biojoy];8.00;g;5;721.00;72.00;4.30;4.00;9.20;0.00;0.04;;"10 halves = 15g; add as a topping [58kcal, 0.3g sugar]";;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
+ 1. Adapt sweetness to taste using the flavor drops, stir thoroughly.";;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+"Ingredients";"Amount";"Unit";"#";"kcal";"Fat";"Carbs";"Sugar";"Protein";"Salt";"FPDF";"MSNF";"Comment";"0Carb[%]";"Counts?";"ID"
+"Peaches in Grape Juice [Libby’s]";375.00;"g";1;53.00;;12.00;9.00;0.50;;;;"Can = 410g";;1;"8c13927"
+"Topfen / Quark 14.4% [Berchtesgadener]";240.00;"g";1;179.00;14.40;3.60;3.60;8.40;0.08;0.04;6.60;"250g container; *alternative:* 180g ricotta 9% and 60ml cream 32%";;1;"8def8e1"
+"Topfen / Quark 0.6% [Berchtesgadener]";;"g";1;70.00;0.60;3.60;3.60;11.90;0.08;0.04;11.40;"250g container; *US alternative:* low-fat cream cheese";;1;"41dd07b"
+"Jamaica Rum 43 vol%";40.00;"g";1;300.00;;;;;;3.18;;"*alternative:* bourbon, or other 40 vol% alcohol";;1;"fc50a2a"
+"Cream Cheese 23% [Exquisa]";20.00;"g";1;238.00;22.50;3.00;3.00;5.50;0.70;0.03;9.64;"click the link for UK / US equivalents";;0;"d6271a9"
+"Molasses [Grafschafter Goldsaft]";;"g";1;306.00;0.50;70.00;66.00;2.30;0.03;0.66;;"Sweetness = 66%";;1;"e1cd5af"
+"Topfen / Quark 14.4% [Berchtesgadener]";;"g";1;179.00;14.40;3.60;3.60;8.40;0.08;0.04;6.60;"250g container";;1;"8def8e1"
+"SweEX (Erythritol + Xylitol 3:2)";35.00;"g";2;109.60;;100.00;;;;2.56;;"*alternative:* 47g allulose or dextrose";100.00;1;"f44b101"
+"Turmeric";1.00;"pinch";2;;;;;;;;;"*optional*, for color";;"";" "
+;;;;;;;;;;;;;;;" "
+"Cream 32% [REWE Beste Wahl]";;"ml";3;311.00;32.00;3.20;3.20;2.50;0.13;0.03;6.32;"skip for improved macros [0kcal, 0g fat]";;0;"92fa780"
+"Flavor drops Peach / Maracuja (sucralose) [IronMaxx]";"≈4";"drops";3;;;;;;;;;"to taste";;"";"cc2e1e7"
+;;;;;;;;;;;;;;;" "
+"Molasses [Grafschafter Goldsaft]";8.00;"g";5;306.00;0.50;70.00;66.00;2.30;0.03;0.66;;"add as a topping [24kcal, 5.3g sugar]";;"";"e1cd5af"
+"Walnuts (organic) [Biojoy]";8.00;"g";5;675.00;63.00;11.00;6.90;14.00;0.01;0.07;;"add as a topping [54kcal, 0.6g sugar]";;;"f5e36f4"
+"Pecan nuts (organic) [Biojoy]";8.00;"g";5;721.00;72.00;4.30;4.00;9.20;0.00;0.04;;"10 halves = 15g; add as a topping [58kcal, 0.3g sugar]";;;"9272ff3"
+;;;;;;;;;;;;;;"";
+;;;;;;;;;;;;;;"";
+;;;;;;;;;;;;;;"";
+;;;;;;;;;;;;;;"";
+;;;;;;;;;;;;;;"";
+;;;;;;;;;;;;;;"";
+;;;;;;;;;;;;;;"";
+;;;;;;;;;;;;;;"";
+;;;;;;;;;;;;;;"";
+;;;;;;;;;;;;;;"";
+;;;;;;;;;;;;;;"";
+;;;;;;;;;;;;;;"";
+;;;;;;;;;;;;;;"";
+;;;;;;;;;;;;;;"";
+;;;;;;;;;;;;;;"";
+;;;;;;;;;;;;;;"";
+;;;;;;;;;;;;;;"";
+;;;;;;;;;;;;;;"";
+;;;;;;;;;;;;;;"";
+;;;;;;;;;;;;;;"";
+;;;;;;;;;;;;;;"";
+;;;;;;;;;;;;;;"";
+;;;;;;;;;;;;;;"";
+;;;;;;;;;;;;;;"";
+;;;;;;;;;;;;;;"";
+;;;;;;;;;;;;;;"";
+;;;;;;;;;;;;;;"";
+;;;;;;;;;;;;;;"";
+;;;;;;;;;;;;;;"";
+;;;;;;;;;;;;;;"";
+;;;;;;;;;;;;;;"";
+;;;;;;;;;;;;;;"";
+;;;;;;;;;;;;;;"";
+;;;;;;;;;;;;;;"";
+;;;;;;;;;;;;;;"";
+;;;;;;;;;;;;;;"";
+;;;;;;;;;;;;;;"";
+;;;;;;;;;;;;;;"";
+;;;;;;;;;;;;;;"";
+;;;;;;;;;;;;;;"";
+;;;;;;;;;;;;;;"";
+;;;;;;;;;;;;;;"";
+;;;;;;;;;;;;;;"";
+;;;;;;;;;;;;;;"";
+;;;;;;;;;;;;;;"";
+;;;;;;;;;;;;;;"";
+;;;;;;;;;;;;;;"";
+;;;;;;;;;;;;;;"";
+;;;;;;;;;;;;;;"";
+;;;;;;;;;;;;;;"";
+;;;;;;;;;;;;;;"";
+;;;;;;;;;;;;;;"";
+;;;;;;;;;;;;;;"";
+;;;;;;;;;;;;;;"";
+;;;;;;;;;;;;;;"";
+;;;;;;;;;;;;;;"";
+;;;;;;;;;;;;;;"";
+;;;;;;;;;;;;;;"";
+;;;;;;;;;;;;;;"";
+;;;;;;;;;;;;;;"";
+;;;;;;;;;;;;;;"";
+;;;;;;;;;;;;;;"";
+;;;;;;;;;;;;;;"";
+;;;;;;;;;;;;;;"";

@@ -56,13 +56,13 @@ Spun on *Ice Cream*, respin, and *Ice Cream* again.
 
 **Wet**
 
-  - _375g_ Peaches in Grape Juice [Libby’s] • Can = 410g
-  - _240g_ [Topfen / Quark 14.4% \[Berchtesgadener\]](/ice-creamery/info/ingredients/#quark-topfen){target="_blank"}<sup>↗</sup> • 250g container; *alternative:* 180g ricotta 9% and 60ml cream 32%
-  - _40g_ [Jamaica Rum 43 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup> • *alternative:* bourbon, or other 40 vol% alcohol
+  - _375g_ Peaches in Grape Juice [Libby’s] (≈1 cup + 4 oz + 1 tbsp) • Can = 410g <a id="id-8c13927" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-8c13927">ℹ️</a>
+  - _240g_ [Topfen / Quark 14.4% \[Berchtesgadener\]](/ice-creamery/info/ingredients/#quark-topfen){target="_blank"}<sup>↗</sup> (≈1 cup) • 250g container; *alternative:* 180g ricotta 9% and 60ml cream 32% <a id="id-8def8e1" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-8def8e1">ℹ️</a>
+  - _40g_ [Jamaica Rum 43 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup> (≈1 oz + 2 ¼ tsp) • *alternative:* bourbon, or other 40 vol% alcohol <a id="id-fc50a2a" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-fc50a2a">ℹ️</a>
 
 **Dry**
 
-  - _30g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • *alternative:* 40g allulose or dextrose
+  - _35g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> (≈1 oz + 1 ¼ tsp) • *alternative:* 47g allulose or dextrose <a id="id-f44b101" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-f44b101">ℹ️</a>
   - _1 pinch_ Turmeric • *optional*, for color
 
 **Fill to MAX**
@@ -71,9 +71,9 @@ Spun on *Ice Cream*, respin, and *Ice Cream* again.
 
 **Topping Options**
 
-  - _8g_ Molasses [Grafschafter Goldsaft] • add as a topping [24kcal, 5.3g sugar]
-  - _8g_ Walnuts (organic) [Biojoy] • add as a topping [54kcal, 0.6g sugar]
-  - _8g_ Pecan nuts (organic) [Biojoy] • 10 halves = 15g; add as a topping [58kcal, 0.3g sugar]
+  - _8g_ Molasses [Grafschafter Goldsaft] (≈1 ½ tsp) • add as a topping [24kcal, 5.3g sugar] <a id="id-e1cd5af" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-e1cd5af">ℹ️</a>
+  - _8g_ Walnuts (organic) [Biojoy] (≈1 ½ tsp) • add as a topping [54kcal, 0.6g sugar] <a id="id-f5e36f4" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-f5e36f4">ℹ️</a>
+  - _8g_ Pecan nuts (organic) [Biojoy] (≈1 ½ tsp) • 10 halves = 15g; add as a topping [58kcal, 0.3g sugar] <a id="id-9272ff3" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-9272ff3">ℹ️</a>
 
 # DIRECTIONS
 
@@ -85,10 +85,17 @@ Spun on *Ice Cream*, respin, and *Ice Cream* again.
 
 # NUTRITIONAL & OTHER INFO
 
-- **Nutritional values per 100g/ml:** 100g; 114.0 kcal; fat 5.0g; carbs 12.2g; sugar 6.2g; protein 3.2g; salt 0.0g
-- **Nutritional values per ½ Deluxe Tub:** 340g; 387.8 kcal; fat 17.2g; carbs 41.5g; sugar 21.0g; protein 10.9g; salt 0.1g
-- **Nutritional values total:** 685g; 781.2 kcal; fat 34.6g; carbs 83.6g; sugar 42.4g; protein 22.0g; salt 0.2g
-- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 31.22
-- **Protein / Energy Ratio (ok=12%; hi=20%):** 11.28% • Low-Salt
+| 🥗 Value | 100g | Serving | Total |
+| :--- | ---: | ---: | ---: |
+| ⚖️ Weight (g) | 100 | 340 | 690 |
+| 🔥 Energy (kcal) | 114.0 | 387.7 | 786.7 |
+| 🫒 Fat (g) | 5.0 | 17.0 | 34.6 |
+| 🍞 Carbohydrates (g) | 12.8 | 43.7 | 88.6 |
+| 🍬 Sugars (g) | 6.1 | 20.9 | 42.4 |
+| 💪 Protein (g) | 3.2 | 10.9 | 22.0 |
+| 🧂 Salt (g) | 0.0 | 0.1 | 0.2 |
+
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 32.85
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 11.20% • Low-Salt
 - **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 15.8g • 2.3%
-- **Net carbs:** 53.6g • *∝ 5 servings@137g:* 10.7g • *∝ 3 servings@228g:* 17.9g • *energy ratio (low <20%):* 27.5%
+- **Net carbs:** 53.6g • *∝ 5 servings@138g:* 10.7g • *∝ 3 servings@230g:* 17.9g • *energy ratio (low <20%):* 27.3%
