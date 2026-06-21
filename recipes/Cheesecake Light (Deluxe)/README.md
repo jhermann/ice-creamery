@@ -44,18 +44,18 @@ Rating: 😋😋😋😋😋
 
 **Wet**
 
-  - _375ml_ Buttermilk 1% [REWE]
-  - _200g_ [Topfen / Quark 0.6% \[Berchtesgadener\]](/ice-creamery/info/ingredients/#quark-topfen){target="_blank"}<sup>↗</sup> • 250g container; *US alternative:* low-fat cream cheese
-  - _15g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • POD = 60%; GI = 5; Density = 1.26 g/ml
-  - _10g_ [Brandy or Vodka 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup> • *alternative:* 8g (additional) VG for a sober recipe
+  - _375ml_ Buttermilk 1% [REWE] (≈1 cup + 4 fl oz + 1 tbsp) <a id="id-6724d7f" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-6724d7f">ℹ️</a>
+  - _200g_ [Topfen / Quark 0.6% \[Berchtesgadener\]](/ice-creamery/info/ingredients/#quark-topfen){target="_blank"}<sup>↗</sup> (≈7 oz) • 250g container; *US alternative:* low-fat cream cheese <a id="id-41dd07b" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-41dd07b">ℹ️</a>
+  - _15g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> (≈1 tbsp) • POD = 60%; GI = 5; Density = 1.26 g/ml <a id="id-8717e6d" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-8717e6d">ℹ️</a>
+  - _10g_ [Brandy or Vodka 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup> (≈2 tsp) • *alternative:* 8g (additional) VG for a sober recipe <a id="id-63b8bf1" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-63b8bf1">ℹ️</a>
 
 **Dry**
 
-  - _40g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • *alternative:* 53g allulose or dextrose
-  - _20g_ [Inulin \[Vit4ever\]](/ice-creamery/info/ingredients/#inulin){target="_blank"}<sup>↗</sup> • Sweetness = 8%; GI ~= 0
-  - _15g_ [Salty Stability \[Inulin / GMS / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup> • *not-as-good substitute:* 1.5g guar, 0.5g xanthan, and 0.5g salt
-  - _10g_ [Whey + Casein protein (grass-fed) \[Vilgain\]](/ice-creamery/info/ingredients/#whey-protein){target="_blank"}<sup>↗</sup> • with stevia
-  - _2g_ Vanilla Bean Powder [InterVanilla]
+  - _40g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> (≈1 oz + 2 ¼ tsp) • *alternative:* 53g allulose or dextrose <a id="id-f44b101" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-f44b101">ℹ️</a>
+  - _20g_ [Inulin \[Vit4ever\]](/ice-creamery/info/ingredients/#inulin){target="_blank"}<sup>↗</sup> (≈1 tbsp + 1 tsp) • Sweetness = 8%; GI ~= 0 <a id="id-d8bc1db" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-d8bc1db">ℹ️</a>
+  - _15g_ [Salty Stability \[Inulin / GMS / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup> (≈1 tbsp) • *not-as-good substitute:* 1.5g guar, 0.5g xanthan, and 0.5g salt <a id="id-3d1ecef" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-3d1ecef">ℹ️</a>
+  - _10g_ [Whey + Casein protein (grass-fed) \[Vilgain\]](/ice-creamery/info/ingredients/#whey-protein){target="_blank"}<sup>↗</sup> (≈2 tsp) • with stevia <a id="id-b954be3" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-b954be3">ℹ️</a>
+  - _2g_ Vanilla Bean Powder [InterVanilla] (≈½ tsp) <a id="id-538e9f6" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-538e9f6">ℹ️</a>
 
 **Fill to MAX**
 
@@ -64,14 +64,14 @@ Rating: 😋😋😋😋😋
 
 **Mix-ins**
 
-  - _50g_ Frozen Fruit • add chopped as a mix-in [31kcal, 5g sugar]
-  - _20g_ Sultanas (organic) [Biojoy] • add chopped as a mix-in [60kcal, 13g sugar]
+  - _50g_ Frozen Fruit (≈1 oz + 1 tbsp + 1 ½ tsp) • add chopped as a mix-in [31kcal, 5g sugar]
+  - _20g_ Sultanas (organic) [Biojoy] (≈1 tbsp + 1 tsp) • add chopped as a mix-in [60kcal, 13g sugar] <a id="id-7421325" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-7421325">ℹ️</a>
 
 **Topping Options**
 
   - _3-4 pieces_ Graham crackers / Butter cookies
   - _3-4 pieces_ Wafers (cream-filled)
-  - _20ml_ Syrup Caramel (low-sugar) [Sukrin] • 14% sorbitol, erythritol, stevia [30kcal, 0.4g sugar]
+  - _20ml_ [Syrup Caramel (low-sugar) \[Sukrin\]](/ice-creamery/info/ingredients/#invert-sugar){target="_blank"}<sup>↗</sup> (≈1 tbsp + 1 tsp) • 14% sorbitol, erythritol, stevia [30kcal, 0.4g sugar] <a id="id-9c54fa0" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-9c54fa0">ℹ️</a>
 
 # DIRECTIONS
 
@@ -87,9 +87,16 @@ Rating: 😋😋😋😋😋
 
 # NUTRITIONAL & OTHER INFO
 
-- **Nutritional values per 100g/ml:** 100g; 77.1 kcal; fat 0.6g; carbs 16.1g; sugar 3.7g; protein 6.5g; salt 0.2g
-- **Nutritional values per ½ Deluxe Tub:** 340g; 262.0 kcal; fat 2.0g; carbs 54.7g; sugar 12.6g; protein 22.3g; salt 0.7g
-- **Nutritional values total:** 687g; 529.4 kcal; fat 4.1g; carbs 110.5g; sugar 25.5g; protein 45.0g; salt 1.3g
+| 🥗 Value | 100g | Serving | Total |
+| :--- | ---: | ---: | ---: |
+| ⚖️ Weight (g) | 100 | 340 | 687 |
+| 🔥 Energy (kcal) | 77.1 | 262.0 | 529.4 |
+| 🫒 Fat (g) | 0.6 | 2.0 | 4.1 |
+| 🍞 Carbohydrates (g) | 16.1 | 54.7 | 110.5 |
+| 🍬 Sugars (g) | 3.7 | 12.6 | 25.5 |
+| 💪 Protein (g) | 6.5 | 22.3 | 45.0 |
+| 🧂 Salt (g) | 0.2 | 0.7 | 1.3 |
+
 - **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 32.14
 - **Protein / Energy Ratio (ok=12%; hi=20%):** 33.98% • LOW-FAT • Low-Sugar • Hi-Protein
 - **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 63.7g • 9.3%
