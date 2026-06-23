@@ -384,7 +384,7 @@ To use it without causing a sticky mess, it is best transferred into a squeeze b
 It has 60% the sweetness of table sugar, and is hygroscopic.
 Shelf life of glycerin is 24 months when stored below 38°C / 100°F in a closed container.
 
-*Dosage:*  Add 5-15g to a 680g mix.
+*Dosage:*  Add 5-15g to a 680g mix. VG is not toxic, and adverse GI effects are individual and *start* at ~14g/day in a 70kg adult.
 
 Glycerin serves several key purposes in ice cream:
 
