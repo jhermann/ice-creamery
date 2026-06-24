@@ -6,9 +6,9 @@ excluded_steps:
 excluded_tags:
 - Allulose
 - Dairy$
+- Dairy-Free
 - Fruit
 tags:
-- Dairy-Free
 - Emulsifier
 - Erythritol
 - Hi-Protein
@@ -29,7 +29,7 @@ This is mostly milk, double the usual protein powder, and vanilla flavor.
 Low fat & sugar, and high protein.
 You can of course also use dairy milk (~2% fat) and whey protein.
 
-> 🌿 **Vegan & Dairy-free**<br />Recipe is using only soy milk + protein.
+> 🌿 **Vegan & Dairy-free**<br />Recipe is using only soy milk + protein (if you leave out the SMP).
 
 Process on Lite Ice Cream, and a 2nd spin is likely not needed.
 
@@ -54,7 +54,7 @@ Rating: 😋🐮😋🐮😋 (thick and creamy)
   - _40g_ [Soy protein isolate (nature) \[Powerstar\]](/ice-creamery/info/ingredients/#soy-protein-isolate){target="_blank"}<sup>↗</sup> (≈1 oz + 2 ¼ tsp) • 1kg bag, unsweetened, unflavored <a id="id-f08216c" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-f08216c">ℹ️</a>
   - _40g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> (≈1 oz + 2 ¼ tsp) • POD ≈ 85%; GI < 7 <a id="id-f44b101" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-f44b101">ℹ️</a>
   - _20g_ [Inulin \[Vit4ever\]](/ice-creamery/info/ingredients/#inulin){target="_blank"}<sup>↗</sup> (≈1 tbsp + 1 tsp) • Sweetness = 8%; GI ~= 0 <a id="id-d8bc1db" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-d8bc1db">ℹ️</a>
-  - _20g_ [Milk powder 1:10 (skim, SMP) \[Vita2You\]](/ice-creamery/info/ingredients/#skim-milk-powder-smp){target="_blank"}<sup>↗</sup> (≈1 tbsp + 1 tsp) <a id="id-074ed6d" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-074ed6d">ℹ️</a>
+  - _20g_ [Milk powder 1:10 (skim, SMP) \[Vita2You\]](/ice-creamery/info/ingredients/#skim-milk-powder-smp){target="_blank"}<sup>↗</sup> (≈1 tbsp + 1 tsp) • *optional*, skip for a vegan recipe <a id="id-074ed6d" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-074ed6d">ℹ️</a>
   - _10g_ [Salty Stability \[Inulin / GMS / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup> (≈2 tsp) • *not-as-good substitute:* 1g guar, 0.3g xanthan, and 0.3g salt <a id="id-3d1ecef" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-3d1ecef">ℹ️</a>
   - _4g_ Vanilla Bean Powder [InterVanilla] (≈¾ tsp) • or 7g extract or paste <a id="id-538e9f6" href="https://jhermann.github.io/ice-creamery/info/nutrition/#id-538e9f6">ℹ️</a>
 

@@ -14,7 +14,7 @@
 Low fat & sugar, and high protein.
 You can of course also use dairy milk (~2% fat) and whey protein.
 
-> 🌿 **Vegan & Dairy-free**<br />Recipe is using only soy milk + protein.
+> 🌿 **Vegan & Dairy-free**<br />Recipe is using only soy milk + protein (if you leave out the SMP).
 
 Process on Lite Ice Cream, and a 2nd spin is likely not needed.";;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;;
@@ -30,7 +30,7 @@ Process on Lite Ice Cream, and a 2nd spin is likely not needed.";;;;;;;;;;;;;;;
 "Soy protein isolate (nature) [Powerstar]";40.00;"g";2;372.00;1.00;1.00;0.00;89.80;2.50;;93.00;"1kg bag, unsweetened, unflavored";;1;"f08216c"
 "SweEX (Erythritol + Xylitol 3:2)";40.00;"g";2;109.60;;100.00;;;;2.56;;"POD ≈ 85%; GI < 7";100.00;1;"f44b101"
 "Inulin [Vit4ever]";20.00;"g";2;210.00;;97.00;8.00;;0.20;0.09;;"Sweetness = 8%; GI ~= 0";89.00;1;"d8bc1db"
-"Milk powder 1:10 (skim, SMP) [Vita2You]";20.00;"g";2;358.00;0.97;50.50;50.50;35.00;1.00;0.51;94.03;;;1;"074ed6d"
+"Milk powder 1:10 (skim, SMP) [Vita2You]";20.00;"g";2;358.00;0.97;50.50;50.50;35.00;1.00;0.51;94.03;"*optional*, skip for a vegan recipe";;1;"074ed6d"
 "Salty Stability [Inulin / GMS / CMC / Guar / XG / Salt]";10.00;"g";2;267.5;3.6;88.4;5.9;0.3;3.5;0.06;;"*not-as-good substitute:* 1g guar, 0.3g xanthan, and 0.3g salt";73.80;1;"3d1ecef"
 "Vanilla Bean Powder [InterVanilla]";4.00;"g";2;288.00;0.10;13.00;13.00;0.00;0.00;;;"or 7g extract or paste";;1;"538e9f6"
 ;;;;;;;;;;;;;;"";" "
