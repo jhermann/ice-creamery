@@ -131,6 +131,7 @@ however for beginners, I *do* recommend *Scoopulator*.
 - [Ice Cream Science • Home Cook's Spreadsheet](https://www.icecreamscience.com/blog/calculate-ice-cream-mix) — How to calculate an ice cream mix.
 - [Omni Perfect Ice Cream Calculator](https://www.omnicalculator.com/food/ice-cream)
 - [Ice Solution](https://icesolution.app/)
+- [Will It Creami? — Ninja Creami Recipes & Base Calculator](https://creamiguide.com/)
 
 !!! tip "Targets for Creami Formulations"
 
